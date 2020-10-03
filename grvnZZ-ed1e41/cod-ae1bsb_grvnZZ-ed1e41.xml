@@ -1,0 +1,1441 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 3</title>
+            <author ref="#Rimini">Gregory of Rimini</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 3</title>
+               <date when="2020-10-03">October 03, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-ae1bsb">Venice 1503</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-03" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="64-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="grvnZZ-ed1e41"><!-- l1d8q3 -->
+            <head xml:id="grvnZZ-ed1e41-Hd1e106">Quaestio 3</head>
+            <head xml:id="grvnZZ-ed1e41-Hd1e109" type="question-title">Utrum cum divina simplicitate sit compossibile Deum esse rem alicuius generis vel praedicamenti</head>
+            <p xml:id="grvnZZ-ed1e41-d1e112">
+               <lb ed="#V" n="32"/>⁋ Distinctionis octaue. Questio III 
+      <lb ed="#V" n="33"/>TErtio quero vtrum cum diuina sim 
+      <lb ed="#V" n="34"/>plicitate sit 
+      compossi<lb ed="#V" n="35" break="no"/>bile deum esse rem alicuius generis vel 
+      praedica<lb ed="#V" n="36" break="no"/>menti.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e125">
+      ⁋ Et arguitur quod non: quia deum habere partem in 
+      <lb ed="#V" n="37"/>trinsecam et deum esse simplice non sunt 
+      compossi<lb ed="#V" n="38" break="no"/>bilia. ergo nec deum esse in grieserie est compossibile sue 
+      <lb ed="#V" n="39"/>simplicitati. Antecedens est notum: et consequentia probatur. Nam 
+      <lb ed="#V" n="40"/>genus (vt dicit. P. 5. meta. c. de parte) est pars speciei. et 
+      Commen<lb ed="#V" n="41" break="no"/>ibi ait. genus est pars formarum speciei. Forma enim speciei diuiditur in 
+      <lb ed="#V" n="42"/>genus et differentiam Item Auic. 5. meta. Dicemus inquit quod genus 
+      praedi<lb ed="#V" n="43" break="no"/>catur de speciem: ita quod est pars quantitatis eius.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e143">
+      ⁋ Ex his patet quod genus 
+      <lb ed="#V" n="44"/>significat partem rei quae significatur per speciem eius: et per consequens cum omne quod 
+      <lb ed="#V" n="45"/>est in grieserie sit in aliqua specie eius sequitur quod omnis res existens in griesernie habet 
+      <lb ed="#V" n="46"/>partem et partem.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e153">
+      ⁋ 2o divine simplicitati repugnat habere materiam. ergo ei 
+      <lb ed="#V" n="47"/>repugnat esse in grieserie. Antecedens patet. consequentia probatur: quoniam genus significat ma 
+      <lb ed="#V" n="48"/>teriam rei de qua dicitur vnde 10e meta. dicit. P. genus est materia. Et 
+      <lb ed="#V" n="49"/>statim de quo graesere loquatur ostendens ait. quod dicitur genus: non vt 
+      <lb ed="#V" n="50"/>heraclitorum: sed vt in natura. vbi Commentatoris. exponit sic. genus est materia 
+      <lb ed="#V" n="51"/>id est significat materiam scilicet genus quod dicitur genus in rei veritate: non 
+      ge<lb ed="#V" n="52" break="no"/>nus quod dicitur de homnibus attributis vni principi: sicut genus 
+      herculeo<lb ed="#V" n="53" break="no"/>rum. sed genus quod praedicatur de rebus existentibus secundum naturam: quod ita diffi 
+      <lb ed="#V" n="54"/>nit scilicet quod est praedicabile de pluribus speciebus secundum quid. Ecce quod loqui 
+      <lb ed="#V" n="55"/>tur proprie de graesere: vt sumitur in proposito: et dicit quod significat materiam. 
+      <lb ed="#V" n="56"/>Ad oppositum arguitur. deus est in griesere. ergo non hoc 
+      repu<lb ed="#V" n="57" break="no"/>gnat sue simplicitati. Antecedens probat au 
+      <lb ed="#V" n="58"/>ctorite Damen. dicentis in elario suo. quod subiecta est genus generalium 
+      <lb ed="#V" n="59"/>qui non habet supra se aliud genus: et subiecta illa diditur in corpoream 
+      <lb ed="#V" n="60"/>et incorpoream. continet autem incorporea subiecta deum angelos animam 
+      <lb ed="#V" n="61"/>demones. Ex quo dicto patet: quod deus est in grieserie subiecte 
+      <lb ed="#V" n="62"/>Ad declarationem quasiti videnda sunt duo. primo 
+      <lb ed="#V" n="63"/>est in speciali an propter summam 
+      <lb ed="#V" n="64"/>dei simplicitatem negandum sit deum esse in grere: 2m generaliter vtrum 
+      <lb ed="#V" n="65"/>propter aliquam rationem hoc sit negandum: 
+      <!--123.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 64-v b -->
+               <lb ed="#V" n="66"/>Quantum ad primum est opinio multorum quod deus propter suam  
+      <lb ed="#V" n="67"/>simplicitatem nullo modo est in grestenie: eo quod quaeli 
+      <lb ed="#V" n="68"/>bet res cuiuscumque generis vel praedicamenti ex natura rei est aliquo 
+      <lb ed="#V" n="69"/>modo composita. hoc tamen diuersimode a diuersis ponitur: quidam enim di 
+      <lb ed="#V" n="70"/>cunt quod quaelibet res per se existens in praedicamento est intrinsece 
+      con<lb ed="#V" n="71" break="no"/>posita ex diuersis rebus actuali scilicet et potentiali sui generis tamquam 
+      <lb ed="#V" n="72"/>ex propriis principiis.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e218">
+      ⁋ hec opinio probatur auctoritatibus et rationibus. 
+      <lb ed="#V" n="73"/>Est autem prima auctoritas Commentatoris. 12. meta. dicentis omnia quae trans 
+      <lb ed="#V" n="74"/>mutantur habent materiam: sed naturae materiarum diuersantur secundum modos na 
+      <lb ed="#V" n="75"/>ture transmutatonis: cum ergo sint modi transmutationis diuerso 
+      <lb ed="#V" n="76"/>rum generum sequitur quod sint materie est diuersorum generum proprie il 
+      <lb ed="#V" n="77"/>lis. Constat aut quod etiam diuersi sunt actus et forme generum diuer 
+      <lb ed="#V" n="78"/>sortues. ergo quodlibet ens in genere compositum est ex proprio actu et propria 
+      <lb ed="#V" n="79"/>potentia illius generis.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e236">
+      ⁋ Item ibidem ait. quod quamuis materia prima sit vna: 
+      <lb ed="#V" n="80"/>tamen multa est in potentia et habilitate: et quodlibet ens cum materia 
+      <lb ed="#V" n="81"/>communi habet materiam propriam. Et subdit. Non enim quodlibet ens fit ex qua 
+      <lb ed="#V" n="82"/>libet poteio: sed vnuquodque entium fit ex eo quod est in posteso id quod fit. id es 
+      <lb ed="#V" n="83"/>ex potentia propria: ita quod numerus potentiarum sit sicut numerus. 
+      <lb ed="#V" n="84"/>specierum entium generabilium. Et dixit hic Arum quia opinatur quod propria 
+      <lb ed="#V" n="85"/>materia vna est secundum subiectum: et multa secundum habilitatem: hec Commentators. 
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e252">
+               <lb ed="#V" n="86"/>⁋ Ex quo auctoritate apparet quod quaelibet species entium generabilium habet vltra 
+      <lb ed="#V" n="87"/>commnem materiam: materiam et potentiam propriam ex qua fit: et tot sunt 
+      ta<lb ed="#V" n="88" break="no"/>les potentie proprie: quot species generabilium entium.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e261">
+      ⁋ Item ibidem 
+      <lb ed="#V" n="89"/>vbi soluitur quaestio mota in. 3 an scilicet principio omnium praedicamentorum sint 
+      <lb ed="#V" n="90"/>eadem vel diuersa. dicit Commentatoris. cum. P. quod omnium principio sunt eadem 
+      <lb ed="#V" n="91"/>secundum proportionem: non autem secundum naturam. vnde Commentatori. ait. In vnoquo 
+      <lb ed="#V" n="92"/>que praedicamentorum accidentium inueniuntur principio: quorum proportio 
+      <lb ed="#V" n="93"/>ad ista est: sicut proportio principiorum subiecte ad subiectam non quod 
+      ha<lb ed="#V" n="94" break="no"/>beant illam eandem naturam. Et sequitur. et dicere quod principio sint 
+      ea<lb ed="#V" n="95" break="no"/>dem proportionati est vt diceremus quod materia et forma et priuatio 
+      <lb ed="#V" n="96"/>sunt principio 10 praedicamentorum. sed que in subiecta diecunt ab eis que 
+      <lb ed="#V" n="97"/>sunt cuiuslibet praedicamenti. Et similiter ea quae sunt vniuscuiusque 
+      <lb ed="#V" n="98"/>praedicamenti dtunt ab aliis: haiet Commentator.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e285">
+      ⁋ Item ad hoc est 
+      aucto<lb ed="#V" n="99" break="no"/>ritas Auic. 2o sufficientie dicentis. nulla cathegoria est qua non 
+      <lb ed="#V" n="100"/>habet exitum de poteso sua et suum effectum. vult ergo quod in quolibet 
+      praedica<lb ed="#V" n="101" break="no"/>mento sit propria poteso et proprius actus.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e295">
+      ⁋ Ratonibus est probat eadem 
+      <lb ed="#V" n="102"/>onclusiosic. primo. omnis res diffinibilis est composita ex distinctis parti 
+      <lb ed="#V" n="103"/>bus itrinsecis: sed omnis res per se existens in grieseriae est diffinibilis. 
+      <lb ed="#V" n="104"/>ergo etc. maior patet per. P. 7. meta. vbi ait: quoniam omnis diffinitio ratio  
+      <lb ed="#V" n="105"/>est: et omnis ratio partes habet: vt autem ratio ad rem et partes rationis ad partem rei 
+      <lb ed="#V" n="106"/>similiter se habet. vbi patet quod. P. vult: quod sicut tota diffinitio totam rem 
+      si<lb ed="#V" n="107" break="no"/>gnificat: sic pars diffinitionis significat partem rei: et per consequens omne 
+      diffi<lb ed="#V" n="108" break="no"/>nibile habet partem et partem.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e313">
+      ⁋ Item Commentator. ibidem. quemadmodum 
+      in<lb ed="#V" n="109" break="no"/>quit diffinitio declarat quiditatem rei ita pars diffinitionis declarat 
+      <lb ed="#V" n="110"/>partem quiditatis rei.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e320">
+      ⁋ Item. P. in eode ait. quod si neque vna subiecta  
+      <lb ed="#V" n="111"/>est ex subiectis incomposita vtique erit substantia omnis. quare 
+      <lb ed="#V" n="112"/>neque non vtique erit neque vnius substantie. Ecce quod. P. 
+      in<lb ed="#V" n="113" break="no"/>fert quod si omnis subiecta esset simplex nullius subiecte esset diffinitio 
+      <lb ed="#V" n="114"/>uae consequentia super hoc fundatur: quod omne diffinibsire est compositum. vnde et 
+      Com<lb ed="#V" n="115" break="no"/>mentator ibi ait. quod omnes estimant quod subiecte sint composite: ex hoc  
+      <lb ed="#V" n="116"/>quod concedunt quod diffinitiones significant compositum minor probatur: quoniam vt patet 
+      <lb ed="#V" n="117"/>ex eodem. 7. ad diffinitionem sufficit genus et differentia cum ergo omnis species 
+      ge<lb ed="#V" n="118" break="no"/>nus habeat et differentia: sequitur quod quaelibet sit diffinibilis. Nec 
+      ob<lb ed="#V" n="119" break="no"/>stat vt dicunt si quis inquiat quod accidentia diffiniuntur per 
+      addi<lb ed="#V" n="120" break="no"/>tamenta: quia hoc non est: quoniam sint simplicia: sed propter eorum realem 
+      <lb ed="#V" n="121"/>dependentiam essentialem ad subiectum propter quam per subiectum diffiniuntur: 
+      <lb ed="#V" n="122"/>et estm quoniam eorum differentie non sunt nobis note: quoniam si nobis note essent 
+      <lb ed="#V" n="123"/>ita diffinirentur sine additatis: sicu subiecte.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e351">
+      ⁋ 2a ratio est: quia si hoc 
+      <lb ed="#V" n="124"/>non esset: hoc maxime videretur verum de accidentibus quae videntur esse 
+      <lb ed="#V" n="125"/>forme simplices: sed hoc est falsum: vt probatur. primo sic. omnis mutatio 
+      <lb ed="#V" n="126"/>per se vna est ad terminum per se vnum: sed dealbatio est per se vna 
+      <lb ed="#V" n="127"/>mutatio: vt patet. ergo est ad terminum per se vnum. ille autem terminus 
+      <lb ed="#V" n="128"/>non est aliqua forma simpliciter: quoniam ipsa non fit nisi per accidens: vt patet ex 
+      <lb ed="#V" n="129"/>y. meta. nec est compositum ex subiecta et accidente: quia illud non est vnum ni et 
+      <lb ed="#V" n="130"/>si per accidens: vt patet ex. 5. meta. ergo est compositum per se de gaede accidentis: et 
+      <!--124.xml-->
+      <pb ed="#V" n="65-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>et sic potest argui de qualibet alia forma accidentali.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e377">
+      ⁋ 2o 
+      <lb ed="#V" n="2"/>quia simplicitas est perfectio simplex secundum omnes: ergo quanto 
+      <lb ed="#V" n="3"/>ens aliquod est smplicius: tanto est simpliciter perfectius: et per 
+      <lb ed="#V" n="4"/>consequens si accidens non esset compositum: sed penitus simplex intrinsece: 
+      <lb ed="#V" n="5"/>ipsum esset simpliciter perfectius substantia composita: quod est falsum. 
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e388">
+               <lb ed="#V" n="6"/>⁋ 3o idem est susceptiuum motus et termini motus. Sed deal 
+      <lb ed="#V" n="7"/>bationis superficies non est primum susceptiuum cumsit actus et 
+      <lb ed="#V" n="8"/>forma. Motus autem est actus entis in potentia secundum quod est in 
+      <lb ed="#V" n="9"/>potentia. Quapropter oportet susceptiuum eius esse potentiam: sed 
+      poten<lb ed="#V" n="10" break="no"/>tia receptiua alicuius rei est de genere illius rei. vt dicit 
+      <lb ed="#V" n="11"/>Commen. 5. phi.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e405">
+      ⁋ hec opinio falsa est et superflua. et incon 
+      <lb ed="#V" n="12"/>uenientia ponit. vnde arguo contra tam. Primo sic. 
+      Ange<lb ed="#V" n="13" break="no"/>lus est per se in genere secundum omnes. et Angelus non est sic intrin 
+      <lb ed="#V" n="14"/>sece compositus: ergo non omne quod est per se in genere est 
+      <lb ed="#V" n="15"/>essentialiter sic compositum.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e416">
+      ⁋ Idem potest argui secundum intentio 
+      <lb ed="#V" n="16"/>nem commentatoris de corpore celesti. quod quidem secundum P. est 
+      <lb ed="#V" n="17"/>substantia simplex. et tamen est per se in genere substantie: vt 
+      <lb ed="#V" n="18"/>omnes conedunt.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e425">
+      ⁋ 2o probo quod qualitates non sunt sic composi 
+      <lb ed="#V" n="19"/>te. sicut isti dicunt: que tamen sunt in genere per se: etiam secundum 
+      <lb ed="#V" n="20"/>ipsos. Et hoc primo patet auctoritate. P. S. meta. vbi ait: quod 
+      <lb ed="#V" n="21"/>accidentia non habent materiam. Ex qua probo hoc ipsum ratione: quoniam 
+      <lb ed="#V" n="22"/>si ponantur composita ex propriis actualibus et potentialibus 
+      <lb ed="#V" n="23"/>entitatibus: aut cuiuslibet speciei esset proprium 
+      potentia<lb ed="#V" n="24" break="no"/>le: aut idem potentiale esset diuersarum specierum. vbi gratia. 
+      <lb ed="#V" n="25"/>idem potentiale albedinis et nigredinis: et eodem modo  
+      <lb ed="#V" n="26"/>quarumlibet qualitatum: inter quas est per se 
+      transmuta<lb ed="#V" n="27" break="no"/>tio. primum dici non potest: primo quia cum sit transmutatio inter for 
+      <lb ed="#V" n="28"/>mas contrarias: et in qualibet transmutatione sit idem subiectum 
+      <lb ed="#V" n="29"/>numero deferens sub vtroque termino transmutationes: 
+      <lb ed="#V" n="30"/>vt patet ex primo phisicorum. sequitur quod tale potentiale proprium 
+      <lb ed="#V" n="31"/>non erit subiectum immediatum illius transmutationis. 
+      cu<lb ed="#V" n="32" break="no"/>ius oppositum. ( vt ex recitatis patet) dicit opinio. et patet consequentia 
+      <lb ed="#V" n="33"/>quoniam secundum opinionem idem est subiectum motus et termini 
+      mo<lb ed="#V" n="34" break="no"/>tus. terminus autem motus secundum ipsos est actualitas forme: 
+      <lb ed="#V" n="35"/>que inducitur: sed illius subiectum non est illud potentiale quod 
+      <lb ed="#V" n="36"/>est subiectum actualitatis forme quae abiicitur. per responsionem 
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e467">
+               <lb ed="#V" n="37"/>⁋ Item. aut iste potentialitates proprie sunt eternaliter in 
+      <lb ed="#V" n="38"/>materia communi: que est substantia aut aliquando de nouo fiunt in ea. si eter 
+      <lb ed="#V" n="39"/>naliter: sequitur quod in qualibet materia poterit induci 
+      queli<lb ed="#V" n="40" break="no"/>bet forma a proprio motore nullo alio motore 
+      interueni<lb ed="#V" n="41" break="no"/>ente: seu materiam aliquo modo transmutante. et per consequens agens 
+      <lb ed="#V" n="42"/>albedinem poterit in igne albedinem causare. et erit 
+      possi<lb ed="#V" n="43" break="no"/>bile in aceto immediate accidentia vini a propriis agentibus 
+      <lb ed="#V" n="44"/>generari: et generaliter ex quolibet quodlibet fieri: quod est 
+      ma<lb ed="#V" n="45" break="no"/>nifeste falsum. consequentia patet: quando passiuo existente in propinquam 
+      dispo<lb ed="#V" n="46" break="no"/>sitione ad formam nulla causa est quare proprium agens non possit 
+      <lb ed="#V" n="47"/>illam inducere. Patet auctoritate Commmen. 9. meta. vbi dans 
+      <lb ed="#V" n="48"/>differentiam inter materiam remotam et propinquam ait sic. materia 
+      re<lb ed="#V" n="49" break="no"/>mota non est materia: quia indiget in hoc vt exeat in actum 
+      <lb ed="#V" n="50"/>alio motore: ab eo quod generat illud: quod est in potentia. 
+      <lb ed="#V" n="51"/>verbi gratia quoniam terra non ydolum est in potentia: sed est cu 
+      <lb ed="#V" n="52"/>prum in potentia: quando cum transmutatur a corpore celesti 
+      <lb ed="#V" n="53"/>erit cuprum: et cuprum erit ydolum in potentia: quod est illud quod 
+      <lb ed="#V" n="54"/>ab vno motore fit ydolum scilicet a faciente ydola.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e509">
+      ⁋ Et inten 
+      <lb ed="#V" n="55"/>dit declarare hic scilicet Arguit quod materia que potest simpliciter non indiget 
+      <lb ed="#V" n="56"/>in hoc quod exeat in actum nisi vno motore. materia autem que 
+      <lb ed="#V" n="57"/>non dicitur posse simpliciter: sed per potentiam remotam 
+      <lb ed="#V" n="58"/>exit in actum per plures motores. per materiam autem et 
+      <lb ed="#V" n="59"/>potentiam simpliciter intelligit materiam siue potentiam propinquam: 
+      <lb ed="#V" n="60"/>sicut infra. in eodem commento patet. vbi ait. et illud quod est in 
+      po<lb ed="#V" n="61" break="no"/>tentia simpliciter: est illud quod est materia simpliciter: et hec est materia 
+      <lb ed="#V" n="62"/>propinqua. Remota autem non dicitur simpliciter: neque impo 
+      <lb ed="#V" n="63"/>tentia simpliciter. hec Commen. secundum responsionem autem sequitur quod 
+      <lb ed="#V" n="64"/>quelibet materia erit in potentia propinqua ad quamlibet 
+      <lb ed="#V" n="65"/>talem formam: cum habeat propriam potentiam et habili¬ 
+      <!--124.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 65-r b -->
+               <lb ed="#V" n="66"/>litatem cuiuslibet. Si vero dicatur quod tales potentie non 
+      sem<lb ed="#V" n="67" break="no"/>per sunt in materia: sed aliquando de nouo fiunt in ipsa. sequitur 
+      <lb ed="#V" n="68"/>secundum dicta eorum quod in materia sit alia potentia propinqua prauia il 
+      <lb ed="#V" n="69"/>li potentie per quam transmutatur ad ipsam et recipit eam: eius 
+      <lb ed="#V" n="70"/>demque generis cum ea: et sic in infinitum: vel si non: sed  
+      <lb ed="#V" n="71"/>immediate per se recipit illam et transmutatur ad ipsam: fal 
+      <lb ed="#V" n="72"/>sa sunt fundamenta rationum quibus probatur opinio et 
+      super<lb ed="#V" n="73" break="no"/>flue ponebatur illa prima potentia.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e559">
+      ⁋ 2m valet quod contrariarum 
+      <lb ed="#V" n="74"/>formarum sit idem potentiale proprium non potest dici ab opi 
+      <lb ed="#V" n="75"/>nione: quia tunc numerus talium potentiarum non esset secundum 
+      <lb ed="#V" n="76"/>numerum specierum entium generabilium. vt dicunt.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e569">
+      ⁋ Item 
+      <lb ed="#V" n="77"/>qui tunc esset eadem potentia propinqua contrariarum formarum: et 
+      <lb ed="#V" n="78"/>per consequens in quocumque et quandocumque posset induci vna forma 
+      con<lb ed="#V" n="79" break="no"/>trariarum posset indifferenter induci reliqua: quod ad sensum 
+      <lb ed="#V" n="80"/>patet esse falsum.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e580">
+      ⁋ Confirmatur. illud proprium potentiale. ver 
+      <lb ed="#V" n="81"/>bi gratia. albedinis. aut est in aliquo vt in subiecto: aut 
+      <lb ed="#V" n="82"/>non. si non: ergo est substantia: et per consequens forma accidentalis 
+      <lb ed="#V" n="83"/>est composita ex substantia et accidente. Si autem est in aliquo 
+      <lb ed="#V" n="84"/>vt in subiecto: ergo est actus et dispositio illius in quo est 
+      sub<lb ed="#V" n="85" break="no"/>ectiue. et si sic etiam illud potentiale non est receptiuum 
+      <lb ed="#V" n="86"/>alterius alicuius secundum dicta opinionis. et etiam oportebit 
+      <lb ed="#V" n="87"/>quod habeat aliud potentiale susceptiuum proprii generis: cum 
+      <lb ed="#V" n="88"/>quo faciat per se vnum. et in quo sit subiectiue: et illud aliud  
+      <lb ed="#V" n="89"/>similiter: et sic in infinitum. aut concederetur quod aliquis actus 
+      imme<lb ed="#V" n="90" break="no"/>diate informat potentiale alterius generis.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e604">
+      ⁋ Praeterea 
+      plura<lb ed="#V" n="91" break="no"/>litas rerum sine necessitate non est ponenda et ratione: sed 
+      nul<lb ed="#V" n="92" break="no"/>la necessitas aut ratio cogit ponere talia potentialia: vt 
+      pa<lb ed="#V" n="93" break="no"/>tebit soluendo rationes opinionis: ergo illa non est ponenda. 
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e613">
+               <lb ed="#V" n="94"/>⁋ Ad rationes. Ad primam ergo auctoritatem que pro 
+      opinio<lb ed="#V" n="95" break="no"/>ne adducitur dico: quod nullo modo est ad propositum Nam Commentator 
+      <lb ed="#V" n="96"/>non intendit dicere quod materiae diuersentur secundum diuersitatem trans 
+      <lb ed="#V" n="97"/>mutationum rerum generabilium: sic quod alia sit materia 
+      generatio<lb ed="#V" n="98" break="no"/>nis: alia alterationis: alia augmenti: vel et homo alterationis 
+      <lb ed="#V" n="99"/>materia alia a materia alterius alterationis secundum speciem: vt 
+      opi<lb ed="#V" n="100" break="no"/>nio fingit. sed solum intendit quod transmutatio rerum 
+      ingenera<lb ed="#V" n="101" break="no"/>bilium et incorruptibilium qualia sunt corpora celestia habet 
+      <lb ed="#V" n="102"/>aliam propriam materiam a materia transmutationis rerum generabilium 
+      <lb ed="#V" n="103"/>et corruptibilium. et hoc patet per verba que immediate addit. Ait 
+      <lb ed="#V" n="104"/>enim: materia enim generabilium est in potentia: translatorum 
+      <lb ed="#V" n="105"/>autem est in actu: cum translatum sit aliquid in actu. et ideo 
+      <lb ed="#V" n="106"/>quod ex translatis in actu fiunt non generabile et incorruptibile 
+      <lb ed="#V" n="107"/>non habebit materiam quam habet generabile et corruptibile: et est qua est 
+      <lb ed="#V" n="108"/>in potentia. hec Commen.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e648">
+      ⁋ Ad aliam dicendum similiter quod non 
+      <lb ed="#V" n="109"/>accipitur secundum mentem Commen. Nam Commentator per materiam 
+      <lb ed="#V" n="110"/>propriam et potentiam vel habilitatem propriam non intelligit 
+      ali<lb ed="#V" n="111" break="no"/>quam aliam materiam vel potentiam distinctam a materiam que est subiecta. 
+      <lb ed="#V" n="112"/>Sed per materiam communem intelligit materiam remotam cuiuslibet quae est 
+      <lb ed="#V" n="113"/>precise essentia materie prime: per potentiam autem materiam pro 
+      <lb ed="#V" n="114"/>pinquam intelligit ipsam eandem essentiam materie. per 
+      con<lb ed="#V" n="115" break="no"/>uenientes tamen et exigitas dispositiones ad aliquam formam dispo 
+      <lb ed="#V" n="116"/>sitam: siue ille dispsitiones sint forme accidentales: siue subus 
+      <lb ed="#V" n="117"/>stantiales: de quo non est vis ad praesens. Sic autem sumpta 
+      <lb ed="#V" n="118"/>materia alterius et alterius speciei entium generabilium est alia et 
+      <lb ed="#V" n="119"/>alia materia. vnde alia materia propinqua. id est materia aliter disposita 
+      <lb ed="#V" n="120"/>requiritur ad generationem sanguinis quam ad generationem 
+      <lb ed="#V" n="121"/>carnis vel ossis aut lapidis: et sic de aliis. Et quod sic 
+      accipi<lb ed="#V" n="122" break="no"/>at materiam propriam: et hec sit eius intentio denotant verba eius. 
+      <lb ed="#V" n="123"/>que nullo interposito sequuntur ea quae pro opinione sunt alle 
+      <lb ed="#V" n="124"/>gata. vnde dicto quod est multa secundum habilitates: ait immediate. primo 
+      <lb ed="#V" n="125"/>enim habet habilitates ad recipiendum primas contrarietates. si 
+      for<lb ed="#V" n="126" break="no"/>mas quatuor elementorum. 2o vero habet potentias consimilium partium 
+      <lb ed="#V" n="127"/>mediantibus formis quatuor elementorum. Corpora simi 
+      <lb ed="#V" n="128"/>lium partium vocat corpora mixta homogenea ad que materia 
+      di<lb ed="#V" n="129" break="no"/>sponitur mediantibus formis elementorum. et sequitur 
+      imme<lb ed="#V" n="130" break="no"/>diate: quod iste potentie diuersantur secundum quod diuersantur mixtio¬ 
+      <!--125.xml-->
+      <pb ed="#V" n="65-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>nes 4m elementorum. Ita quod ex hoc diuersantur forme gene 
+      <lb ed="#V" n="2"/>rabilium. hoc ipse.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e709">
+      ⁋ Ad aliam auctoritatem dicendum quod verum 
+      <lb ed="#V" n="3"/>est quod quodlibet predicamentum habet talia propria principim: non tamen 
+      <lb ed="#V" n="4"/>illa sunt proprie res illius generis: licet sint propria principiom illius 
+      <lb ed="#V" n="5"/>generis. aliquid enim est vnius graesenis: et tamen est materia et principium ma 
+      <lb ed="#V" n="6"/>teriale proprium alterius graeseris. sicut aliquid quod est vnius ge 
+      <lb ed="#V" n="7"/>neris est mouens proprium alterius generis. nec oportet in quo 
+      <lb ed="#V" n="8"/>libet graedene dare proprium mouens illius: quod sit res illius gaeseris 
+      <lb ed="#V" n="9"/>et tamen sicut. P. dicit oportet dare in quolibet griene ista tria principia 
+      <lb ed="#V" n="10"/>propria. si forma priuatio et subiectum siue materia: ita immediate 
+      <lb ed="#V" n="11"/>dicit quod oportet dare proprium mouens. Et exemplificat statim. vnde 
+      <lb ed="#V" n="12"/>mouens in graerie sanitatis est medicina vt dicit. Et in men 
+      <lb ed="#V" n="13"/>te artificis in factione domus ars edificatiua: et tamen non in 
+      <lb ed="#V" n="14"/>quolibet graesere proprium mouens est res illius griesernis. verbi gratia 
+      <lb ed="#V" n="15"/>in grieserie quantitatis: cum quantitas non sit forma actiua secundum Commmen 
+      <lb ed="#V" n="16"/>tatorem: et sic in multis aliis: et similiter est de principio materiali 
+      <lb ed="#V" n="17"/>Nam esse propriam materiam alicuius griesenis non est allud quam esse materiam 
+      <lb ed="#V" n="18"/>propinquam ad formam illius gresernis sicut esse mouens proprium 
+      <lb ed="#V" n="19"/>alicuius generis non est aliud quam esse mouens aptum na 
+      <lb ed="#V" n="20"/>tum determinate inducere formam illius generis.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e752">
+      ⁋ Cum 
+      <lb ed="#V" n="21"/>hoc autem stat quod talis materia sit res alterius graesenis et similiter 
+      mo<lb ed="#V" n="22" break="no"/>uens. et quod non aliud intendat. P. aut Commen. patet: quia statim 
+      <lb ed="#V" n="23"/>exemplificans de huiusmodi principiis subdit. verbi gratia. quod prin 
+      <lb ed="#V" n="24"/>cipia colorum secundum formam et priuationem sunt album et nigrum: secundum 
+      <lb ed="#V" n="25"/>autem materiam recipientem est superficies quae est in potentia ad  
+      <lb ed="#V" n="26"/>omnes colores. Certum est autem quod superficies quam dicit esse 
+      ma<lb ed="#V" n="27" break="no"/>teriam coloris alterius generis est a graesenie coloris. Et 
+      sequi<lb ed="#V" n="28" break="no"/>tur immediate. et principim noctis et diei secundum formam et priuationem 
+      <lb ed="#V" n="29"/>sunt lux et obscuritas: et secundum materiam recipientem est aer qui est 
+      <lb ed="#V" n="30"/>potentia luinosus. Patet autem quod aer est subiecta quaedam. dicitur tamen materia 
+      <lb ed="#V" n="31"/>propria lucis: quia est dispositus dispositione propinqua ad lucem: 
+      <lb ed="#V" n="32"/>nec aliud voluit ibi. P. et Commen. nisi quod gniesenatio cuiuslibet 
+      <lb ed="#V" n="33"/>forme sit determinata in propria materia et a determinato et 
+      pro<lb ed="#V" n="34" break="no"/>prio agente: et non in qualibet siue qualitercumque disposita ma: 
+      <lb ed="#V" n="35"/>nec a quolibet fit quodlibet: sed determinatum a determina 
+      <lb ed="#V" n="36"/>to.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e789">
+      ⁋ Auctoritas quoque Auic. non est ad propositum secundum 
+      <lb ed="#V" n="37"/>intentionem in qua loquitur. vult enim Auic. quod in quolibet 
+      <lb ed="#V" n="38"/>praedicamento sit exitus ad actum ex sua potentia. id est secundum 
+      quodli<lb ed="#V" n="39" break="no"/>bet praedicamentuo aliquid est in actu quod prius fuit in potentia 
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e798">
+               <lb ed="#V" n="40"/>⁋ Ad primam rationem cum dicitur quod omne diffinibile est compositum. 
+      <lb ed="#V" n="41"/>dicendum quod illa maior non est vera vniversaliter de qualibet 
+      diffinitio<lb ed="#V" n="42" break="no"/>ne diffinibilis: sed de diffinibili diffinitione simpliciter et 
+      pro<lb ed="#V" n="43" break="no"/>prie dicta concedi potest. quod in hoc sensu lonlusm P. et Commen. et 
+      <lb ed="#V" n="44"/>in eo sensu minor sumpta falsa est: vt patet. 7. meta. Nam vt 
+      <lb ed="#V" n="45"/>ibi habetur accidentia diffiniuntur tantum per additamenta: et 
+      <lb ed="#V" n="46"/>non diffinitione simpliciter et proprie dicta. Et ad probationem dicitur quod 
+      <lb ed="#V" n="47"/>non quaelibet differentia sufficit cum gnaedernie ad diffinitionem proprie 
+      di<lb ed="#V" n="48" break="no"/>ctam. Sed requiritur differentia essentialis exprimens determi 
+      <lb ed="#V" n="49"/>natam partem esentialem rei: et conuertibilis cum diffinito. talem 
+      <lb ed="#V" n="50"/>autem differentiam accidentia non habent: vt patet.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e824">
+      ⁋ Ad illud autem quod contr 
+      <lb ed="#V" n="51"/>hoc additur scilicet quod ideo diffiniuntur per extrinseca solum quoniam 
+      depen<lb ed="#V" n="52" break="no"/>dent a subiecto. Duendm quod hoc est falsum: quoniam si propter 
+      de<lb ed="#V" n="53" break="no"/>pendentiam ab extrinseco: ideo per extrinsecum diffiniuntur: 
+      <lb ed="#V" n="54"/>sequitur quod etiam subiecta composita diffiniretur per extrinsecum: cum quaelibe 
+      <lb ed="#V" n="55"/>plus dependeat a deo in esse quam aliquod accidens a subiecto. 
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e837">
+               <lb ed="#V" n="56"/>⁋ Ad aliud quod ad idem inducitur scilicet quod hoc est: quoniam eorum differen 
+      <lb ed="#V" n="57"/>essentiales sunt ignote a nobis. dicendum quod hoc non est ve 
+      <lb ed="#V" n="58"/>rum: quia multarum subiectarum compositarum differntie sunt nobis ignote: 
+      <lb ed="#V" n="59"/>et tamen conceditur quod quelibet species subiecte composite est diffinibilis: 
+      <lb ed="#V" n="60"/>non ergo hoc est in comperatione ad nos: sed ex natura sui fit quod est 
+      <lb ed="#V" n="61"/>diffinibilis: et ex natura accidentis quod tali diffinitione 
+      diffiniri<lb ed="#V" n="62" break="no"/>non possit. cum huiusmodi differentiam non possit habere.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e855">
+      ⁋ Preterea si 
+      <lb ed="#V" n="63"/>accidentia haberent tales differentias non magis essent 
+      <lb ed="#V" n="64"/>nobis ignote quam differentie subiectarum: cum per accidentia de 
+      <lb ed="#V" n="65"/>ueniamus in noticiam subiecte. et per consequens non pius diceret. P 
+      <!--125.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 65-v b -->
+               <lb ed="#V" n="66"/>accidentia non diffiniri diffinitione proprie dicta vel sim 
+      <lb ed="#V" n="67"/>pliciter: sed tantum per additamenta: quod hoc dicat de 
+      substan<lb ed="#V" n="68" break="no"/>tiis compositis.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e878">
+      ⁋ Ad 2am rationem dicendum quod forme acciden 
+      <lb ed="#V" n="69"/>tales sut simplices. Et cum probatur quod non: quoniam omnis mutatio 
+      <lb ed="#V" n="70"/>per se vna etc. dicendum quod terminus mutationis potest acci 
+      <lb ed="#V" n="71"/>pi dupliciter. vno modo pro termino formali ad quem 
+      transmu<lb ed="#V" n="72" break="no"/>tatur subiectum: sicut dicimus quod subiectum quando dealbatur 
+      <lb ed="#V" n="73"/>mutatur ad albedinem: et materia ad formam substantialem in 
+      <lb ed="#V" n="74"/>generatione substantiali. Alio modo: potest accipi: quamuis minus proprie 
+      <lb ed="#V" n="75"/>pro composito ex subiecto et termino formali: sicut compositum 
+      <lb ed="#V" n="76"/>substantiale potest dici terminus transmutationis 
+      sub<lb ed="#V" n="77" break="no"/>stantialis. tunc dicendum quod sic sumendo in primo sensu termi 
+      <lb ed="#V" n="78"/>num maior est vera. in 2o vero sensu falsa est: quia nullius 
+      mu<lb ed="#V" n="79" break="no"/>tationis nisi substantialis terminus sic sumptus est quod  
+      <lb ed="#V" n="80"/>vnum per se.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e907">
+      ⁋ Ad aliam probationem neganda et consequentia alioquin 
+      <lb ed="#V" n="81"/>se quod materia esset simpliciter perfectior quam substantia composita 
+      <lb ed="#V" n="82"/>quod est falsum.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e914">
+      ⁋ Ad 3m dicendum quod susceptiuum talis motus est 
+      <lb ed="#V" n="83"/>materia de genere substantie: vt in 2o patebit in. q. de dimensio 
+      <lb ed="#V" n="84"/>nibus. Et cum additur quod potentia receptiua rei est de genere 
+      <lb ed="#V" n="85"/>illius rei secundum Commentatorem. Dicendum quod Commen. non dicit quod 
+      <lb ed="#V" n="86"/>potentia receptiua rei sicut materia quae recipit formam: sit de gaesenie 
+      <lb ed="#V" n="87"/>illius forme quam recipit: ad quem intellectum sumitur nunc au 
+      <lb ed="#V" n="88"/>ctoritas eius. Sed ait sic: receptio est potentia ad rem 
+      <lb ed="#V" n="89"/>et iam diximus quod potentia ad aliquam rem est de genere 
+      il<lb ed="#V" n="90" break="no"/>lius rei. accipit ergo potentiam secundum quod ibi praemisit: quod potentia. 
+      <lb ed="#V" n="91"/>ad rem est de genere illius rei. Sed tunc non accipit 
+      po<lb ed="#V" n="92" break="no"/>tentiam pro potentia et principio materiali passiuo et receptiuo. Sed 
+      <lb ed="#V" n="93"/>sicut distinguimus aliquam vnam rem secundum esse in actu et in 
+      po<lb ed="#V" n="94" break="no"/>tentia. vbi gratia. calor in potentia et calor in actu. Sicut autem 
+      di<lb ed="#V" n="95" break="no"/>cimus quod calor in actu est de genere qualitatis: sic aliquo 
+      <lb ed="#V" n="96"/>dicit Commen. posse dici quod calor in potentia est de genere 
+      <lb ed="#V" n="97"/>qualitatis. Et ex hoc concludit quod multo magis id quod est medium 
+      <lb ed="#V" n="98"/>inter hanc potentiam et actum: et quasi via de potentia ad actum. 
+      <lb ed="#V" n="99"/>verbi gratia. calor qui est partim in actum et partim in potentia est de 
+      <lb ed="#V" n="100"/>gnieseone illius rei: ac per hoc motus: qui hocmo potest dici via media in 
+      <lb ed="#V" n="101"/>ter potentiam et actum inter potentiam puram et actum completum est de graesenie 
+      <lb ed="#V" n="102"/>actus completi: et hoc vult dicere quando ait ibide sic. Et videtur 
+      <lb ed="#V" n="103"/>quod si potentia ad vnumquodque praedicamentum est in illo genere 
+      praedi<lb ed="#V" n="104" break="no"/>camenti quod est in actu: et similiter via de potentia ad actum 
+      <lb ed="#V" n="105"/>scilicet sn potentia ad subiectam quoquaemo est in praedicamento 
+      substan<lb ed="#V" n="106" break="no"/>tie: et similiter via ad generationem subiecte: et similiter potentia ad  
+      <lb ed="#V" n="107"/>quantum et ad alia praedicamenta visum est quod illud esse quod  
+      <lb ed="#V" n="108"/>est inter potentiam et actum in illo genere fit sub illo genere: 
+      <lb ed="#V" n="109"/>quoniam omne esse medium inter potentiam et actum: que sunt in illo ge 
+      <lb ed="#V" n="110"/>nere: necessario est de genere actus qui est copletus. Sed dictent 
+      <lb ed="#V" n="111"/>secundum magis et minus. ire enim ad calorem est calor quoquo modo 
+      <lb ed="#V" n="112"/>et similiter ire ad frigus. Et secundum hunc modum verum est dicere quod 
+      <lb ed="#V" n="113"/>motus est in genere in quo est illud ad quod est motus. hec 
+      <lb ed="#V" n="114"/>Commen. In quibus verbis patet quod ipse sumit potentiam et 
+      me<lb ed="#V" n="115" break="no"/>dium inter potentiam et actum modo qui dictus est: et 
+      poten<lb ed="#V" n="116" break="no"/>tiam sic sumptam vocat Commen. receptionem.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e990">
+      ⁋ Alii sut qui 
+      <lb ed="#V" n="117"/>concordant cum opinione praemissa in hoc quod quielibet res existens per se in gienes 
+      <lb ed="#V" n="118"/>est composita aliquo modo ex natura rei. Sed discordant immodo ponendi. 
+      <lb ed="#V" n="119"/>vnde dicunt quod in aliquibus creaturis genus et differentia accipitur ab 
+      <lb ed="#V" n="120"/>alia et alia re: sicut ponendo plures formas in homine: animal 
+      acci<lb ed="#V" n="121" break="no"/>pitur a sensitiua: et rationale ab intellectiua. et tunc illa res a qua 
+      <lb ed="#V" n="122"/>accipitur genus vere est potentialis et perfectibilis ab illa re 
+      <lb ed="#V" n="123"/>a qua accipitur differentia aliquando vero quando ibi non sunt plures res: sicut 
+      <lb ed="#V" n="124"/>in accidentibus saltem in vna re est aliqua propria realitas a qua 
+      <lb ed="#V" n="125"/>sumitur genus: et alia realitas a qua sumitur differentia: respectu co 
+      <lb ed="#V" n="126"/>alia est potentialis et perfectibilis per eam. Quia autem in 
+      <lb ed="#V" n="127"/>qualibet re sint due tales res vel realitates a quibus 
+      suman<lb ed="#V" n="128" break="no"/>tur genus et differentia. ipsi probant auctoritate Arguit dicentis. 5tdi 
+      <lb ed="#V" n="129"/>meta. oportet rationem. id est diffinitionem esse orationem longam quae 
+      signifi<lb ed="#V" n="130" break="no"/>cat aliquod one aliquo: ita quod oportet illud esse materiam: illud vero formam. 
+      <!--126.xml-->
+      <pb ed="#V" n="66-r"/>
+               <cb ed="#V" n="a"/>
+            </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1029">
+               <lb ed="#V" n="1"/>⁋ Probatur est ratione: quia si illa realitas a qua accipitur genus 
+      <lb ed="#V" n="2"/>esset vere tota quiditas rei: solum genus complete diffiniret. go 
+      <lb ed="#V" n="3"/>nus est et differentia non diffinirent: quoniam ratio ex eis non iudicaret primo idem 
+      <lb ed="#V" n="4"/>diffinito: vnaqueque enim res est solum ipsa. Et ideo illa ratio quae 
+      <lb ed="#V" n="5"/>bis exprimeret eam non iudicaret primo idem quiditati illius 
+      <lb ed="#V" n="6"/>rei.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1045">
+      ⁋ Item alibi arguunt ad idem: quia realitas a qua sumitur 
+      <lb ed="#V" n="7"/>genus est principium potentiale realis conuenientie cum alia specie. et 
+      <lb ed="#V" n="8"/>tealitas a qua sumitur differentia est principium realis differentie: sed non est 
+      <lb ed="#V" n="9"/>possibile eandem realitatem esse principium realis conuenientie et 
+      <lb ed="#V" n="10"/>realis differentie aliquorum adinuicem. ergo alia est realitas a qua 
+      su<lb ed="#V" n="11" break="no"/>mitur genus. et alia a qua sumitur differentia.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1059">
+      ⁋ Item 
+      <lb ed="#V" n="12"/>alibi si non essent due tales realitates: in diffinitione esset 
+      <lb ed="#V" n="13"/>nugatio.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1066">
+      ⁋ hec opinio falsa est tam quantum ad illud quod 
+      <lb ed="#V" n="14"/>dicit de genere subiecte quam ad id quod dicit de accidentibus. Nam 
+      <lb ed="#V" n="15"/>siue sint plures forme subiectales in subiecta vna composita: siue 
+      <lb ed="#V" n="16"/>vna tantum: falsum est quod genus significet partem: vt volunt. 
+      <lb ed="#V" n="17"/>Alioquin non plus praedicaretur de specie in quid: quam differentia: quod est 
+      <lb ed="#V" n="18"/>falsum.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1079">
+      ⁋ Item si significaret partem: vel sumeretur a parte 
+      <lb ed="#V" n="19"/>speciei. verbi gratia animal ab anima sensitiua: et rationale ab 
+      in<lb ed="#V" n="20" break="no"/>tellectiua vt dicunt: nihilominus res illa a qua sumitur 
+      ge<lb ed="#V" n="21" break="no"/>nus non esset potentialis ad rem a qua sumitur differentia: 
+      <lb ed="#V" n="22"/>nec perfectibilis per eam: vt dicunt: quoniam nulla forma sub 
+      <lb ed="#V" n="23"/>stantialis est perfectibilis per aliam formam subiectalem: sed 
+      <lb ed="#V" n="24"/>quelibet: etiam si plures essent simul in eodem: immediate 
+      perfi<lb ed="#V" n="25" break="no"/>cit materiam: sicut patebit in 2o de omni forma materiali.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1097">
+      ⁋ 2o de 
+      <lb ed="#V" n="26"/>ficit in eo quod dicit de accidentibus. Nam aut volunt quod reali 
+      <lb ed="#V" n="27"/>tas generis et realitas differentie non sit aliqua res simpliciter: sed  
+      <lb ed="#V" n="28"/>precise constituunt vnam rem compositam: sicut materia et forma 
+      <lb ed="#V" n="29"/>vnam substantiam compositam: et tunc non minus est in acciden 
+      <lb ed="#V" n="30"/>tibus res et res et compositio rei et rei: quam in subiecta: nisi ad pla 
+      <lb ed="#V" n="31"/>citum velint componentia accidentis vocare realitates: et 
+      <lb ed="#V" n="32"/>componentia substantie res: vel volunt quod licet sint 
+      diuer<lb ed="#V" n="33" break="no"/>se realitates: sunt tamen vna res simplex per identitatem: 
+      <lb ed="#V" n="34"/>ita quod inter ipsas sit distinctio formalis et vnitas realis. 
+      <lb ed="#V" n="35"/>siue: quod idem est dictu: ipse sint distincte formalitates es 
+      <lb ed="#V" n="36"/>vna res ad sensum datum in. q. prima huius. dicens.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1123">
+      ⁋ Et tunc 
+      <lb ed="#V" n="37"/>quero de formalitate vna: an sit eadem aliquo modo ex natura 
+      <lb ed="#V" n="38"/>rei illi rei communi vel non: si non. ergo non est vna res cum alia 
+      for<lb ed="#V" n="39" break="no"/>malitate. si sic: cum illa formalitas aliquo modo 
+      distingua<lb ed="#V" n="40" break="no"/>tur ab ea: et per te non est possibile vt eodem primo aliquid 
+      con<lb ed="#V" n="41" break="no"/>ueniat cum aliquo a distinguatur ab eo: oportebit dare for 
+      <lb ed="#V" n="42"/>malitatem in formalitate in infinitum: vt in preallegatis que 
+      <lb ed="#V" n="43"/>stionibus deducebatur.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1141">
+      ⁋ Praeterea sti idem alibi expresse 
+      con<lb ed="#V" n="44" break="no"/>tradicunt tam conclusioni: quam hic ponunt de compositione 
+      <lb ed="#V" n="45"/>forme accidentalis. quam est fundamento eius scilicet quod in tali 
+      for<lb ed="#V" n="46" break="no"/>ma sit alia realitas vel ratio a qua sumitur genus: et alia a quae 
+      <lb ed="#V" n="47"/>sumitur differentia. Nam in reportatis perisieni. ibo primo dicine. 33 5. q. 2. vole 
+      <lb ed="#V" n="48"/>tes ostendere aliqua esse eadem simpliciter: et tamen non adequate 
+      <lb ed="#V" n="49"/>aiutem sic. Nisi est multa essent eadem simpliciter que non sunt 
+      <lb ed="#V" n="50"/>adequata eidem: sequitur quod forma accidentalis: vt albedo 
+      <lb ed="#V" n="51"/>esset composita realiter. Nam si ratio communioris a qua sumitur ratio gieseris 
+      <lb ed="#V" n="52"/>esset alia realitas ab illa a qua accipitur ratio differentie spe 
+      <lb ed="#V" n="53"/>cifice albedinis: tunc albedo esset composita ex duabus reali 
+      <lb ed="#V" n="54"/>tatibus: quod negatur communiter. Sunt ergo vna realitas hec duo in 
+      <lb ed="#V" n="55"/>albedine: et tamen neutrum adequate est realitas albedinis per 
+      <lb ed="#V" n="56"/>se: quoniam tunc vnum vel alterum superflueret. hoc ipse. quo modo  
+      <lb ed="#V" n="57"/>autem in his verbis dicant contradictoria vtriusque quod 
+      propo<lb ed="#V" n="58" break="no"/>sui non oportet declarare: sed solum legere sufficit.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1177">
+      ⁋ Ad ra 
+      <lb ed="#V" n="59"/>tiones eius dicendum.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1182">
+      ⁋ Ad primam quidem primo quod illa 
+      au<lb ed="#V" n="60" break="no"/>ctoritas non est vniversaliter ad propositam suum: cum diffinitio ( vt de 
+      <lb ed="#V" n="61"/>ipsa ibidem loquitur. P. per eundem ibidem) sit tantum subiecte 
+      <lb ed="#V" n="62"/>composite: et per consequens per illam auctoritatem non probaretur aliqua 
+      <lb ed="#V" n="63"/>compositio in accidentibus: neque in simplicibus substantiis. 
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1193">
+               <lb ed="#V" n="64"/>⁋ 2o dico quod non est estimandum quod genus positum in diffi 
+      <lb ed="#V" n="65"/>nitionibus substantiarum compositarum significet materiam aut partem 
+      <!--126.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 66-r b -->
+               <lb ed="#V" n="66"/>aliquam subiecte: vt isti putant. sicut aliqualiter post magis de 
+      <lb ed="#V" n="67"/>clarabitur et amplius in 3o et pro nunc sufficit ratio supra 
+      <lb ed="#V" n="68"/>data scilicet quia genus praedicatur in quid et in recto nomine principali. 
+      <lb ed="#V" n="69"/>Et ideo dicendum quod genus non significat tantum partem: sed  
+      <lb ed="#V" n="70"/>totum: nec philosophus dicit oppositum vbi alleu sed ait: quod hoc quidem 
+      <lb ed="#V" n="71"/>diffinitionis oportet esse vt materiam: id vero vt formam. et hoc est verum: 
+      <lb ed="#V" n="72"/>quoniam libet genus non sit materia: nec solam materiam significet: est tamen vt 
+      <lb ed="#V" n="73"/>materia id est simile materie. quod qualiter sit intelligendum patebit in 
+      <lb ed="#V" n="74"/>respondendo ad rationes factas in principio. q.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1226">
+      ⁋ Ad rationem autem que 
+      <lb ed="#V" n="75"/>inducitur contra hoc scilicet quia si genus significet totam quiditatem 
+      <lb ed="#V" n="76"/>rei solum genus complete diffiniret: neganda est consequentia. Nam 
+      <lb ed="#V" n="77"/>ad diffiniendum non sufficit qualitercumque significare totam 
+      <lb ed="#V" n="78"/>essentiam diffiniti: sed oportet significare explicite omnia principis 
+      <lb ed="#V" n="79"/>intrinseca essentialia diffiniri. vnde primo phisi. dicitur quod 
+      diffini<lb ed="#V" n="80" break="no"/>tio diuidit in singula: genus autem et si significet totam subiectam 
+      <lb ed="#V" n="81"/>compositam: non tamen exprimit explicite quamlibet eius partem 
+      essen<lb ed="#V" n="82" break="no"/>tialem.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1246">
+      ⁋ Item quod adducitur quod genus et differentia non 
+      diffi<lb ed="#V" n="83" break="no"/>nirent: quia non significarent primo idem quiditati illius rei: 
+      fal<lb ed="#V" n="84" break="no"/>sum est. Nam libcet genus significet totum quod significat 
+      diffini<lb ed="#V" n="85" break="no"/>tio: non tamen eodem modo vt dictum est: quia ipsum implicite partes: 
+      <lb ed="#V" n="86"/>diffinitio vero significat explicite et distincte.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1257">
+      ⁋ Item 
+      ge<lb ed="#V" n="87" break="no"/>nus non solum significat illam quiditatem quam significat 
+      diffini<lb ed="#V" n="88" break="no"/>tio: sed et plures alias: genus ergo significat primo 
+      Exponen<lb ed="#V" n="89" break="no"/>do ly primo negatiues totam quiditatem implicite: et tota 
+      diffi<lb ed="#V" n="90" break="no"/>nitio eandem significat explicite: et hoc non est 
+      inconue<lb ed="#V" n="91" break="no"/>niens. Item diffinitio predicatur conuertibiliter de 
+      diffi<lb ed="#V" n="92" break="no"/>nito: non sic autem genus.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1274">
+      ⁋ Ad aliud dicendum quod non est 
+      incon<lb ed="#V" n="93" break="no"/>ueniens quod per idem aliquid conueniat cum aliquo vno modo: et realiter 
+      <lb ed="#V" n="94"/>differat alio modo: sicut patebit in 3o vbi tractabitur de vnitate 
+      <lb ed="#V" n="95"/>specifica.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1283">
+      ⁋ Ad aliud de nugatione dicendum quod in 
+      diffinitio<lb ed="#V" n="96" break="no"/>ne non est nugatio: quamuis differentia aliquid explicite significet: quod 
+      <lb ed="#V" n="97"/>per genus significat implicite: quia neutrum ponitur in diffinitione 
+      <lb ed="#V" n="98"/>alterius: et ideo si ponantur rationes pro nominibus non dicetur idem nomen 
+      <lb ed="#V" n="99"/>bis: quod tamen requiritur ad nugationem.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1294">
+      ⁋ Alii dixerunt quod deo 
+      <lb ed="#V" n="100"/>repugnat propter suam simplicitatem etiam esse in genere: eo quod omne quod 
+      <lb ed="#V" n="101"/>est in graeserniae est compositum ex esse et essentia: quia vt dicunt: omnia quae 
+      <lb ed="#V" n="102"/>sunt in genere vno communicant in quiditate vel essentia graesenis 
+      <lb ed="#V" n="103"/>quod praedicatur de eis in eo quod quid. Differunt autem secundum esse. Non 
+      <lb ed="#V" n="104"/>enim est idem esse hominis: et equi et naturae huius hominis et 
+      <lb ed="#V" n="105"/>illius hominis: et sic oportet quod quecumque sunt in griesere differat 
+      in<lb ed="#V" n="106" break="no"/>leis essentia: et quod quid est. id est esse et essentia: in deo autem non 
+      diffe<lb ed="#V" n="107" break="no"/>runt. quare etc.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1314">
+      ⁋ hec opinio non est vera: tum quia talis 
+      di<lb ed="#V" n="108" break="no"/>stinctio essentie ab esse non est in aliqua re creata vel 
+      in<lb ed="#V" n="109" break="no"/>creata: vt alias poterit patere. Tum quia esto quod esset. constat 
+      <lb ed="#V" n="110"/>tamen quod ipsa essentia rei non est composita ex esse et essentia: alias 
+      <lb ed="#V" n="111"/>in vna re essent infinite essentie vel infinita esse. vel 
+      dabi<lb ed="#V" n="112" break="no"/>tur essentia non composita ex esse et essentia: sed secundum istos 
+      essen<lb ed="#V" n="113" break="no"/>tia ipsa est per se et directe in praedicamento: et per suam quidi 
+      <lb ed="#V" n="114"/>tatem et essentiam praecise reponitur res in praedicamento et in grieserie et 
+      <lb ed="#V" n="115"/>in specie. ipsum autem esse est secundum ipsos in griesernie per reductionem 
+      <lb ed="#V" n="116"/>tantum: ergo non omne quod est per se in praedicamento est compositum ex esse et 
+      <lb ed="#V" n="117"/>essentia.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1338">
+      ⁋ Praeterea secundum eosdem accidentia non habent proprium esse aliud  
+      <lb ed="#V" n="118"/>ab esse subiecte: et tamen accidentia sunt in praedicamento. nec potest 
+      <lb ed="#V" n="119"/>dici quod compositum ex essentia quae est accidens et esse: sit per se in 
+      <lb ed="#V" n="120"/>pdicamento: quia vt dictum est: accidens non habet proprium esse: sed 
+      exi<lb ed="#V" n="121" break="no"/>stit per esse subiecte secundum eos: sed tale esse vt dicunt non est de 
+      <lb ed="#V" n="122"/>gnaesene accidentis: sed per reductionem est in graeserie subiecte. et per consequens 
+      <lb ed="#V" n="123"/>compositum vel aggregatu ex ipso et accidente non esset per se in 
+      <lb ed="#V" n="124"/>gnaesente accidentis.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1356">
+      ⁋ Ad rationes eorum dicendum quidem quod non est verum 
+      <lb ed="#V" n="125"/>quod omne existens in grieseriae est compositum ex esse et essentia.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1362">
+      ⁋ Ad pro 
+      <lb ed="#V" n="126"/>bationem dicendum quod si intelligatur per esse aliquam entitatem 
+      di<lb ed="#V" n="127" break="no"/>stinctam ab entitate que est essentia: cum nulla talis sit secundum 
+      ve<lb ed="#V" n="128" break="no"/>ritatem: nulla quae sunt in genere differunt secundum esse id est habent diuer 
+      <lb ed="#V" n="129"/>sa esse: neque habent idem esse. Si vero per esse intelligant idipsum quod 
+      <lb ed="#V" n="130"/>per essentiam. dicendum quod sicut conueniunt in essentia vel quiditate: vel non 
+      <!--127.xml-->
+      <pb ed="#V" n="66-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>conueniunt. sic conueniunt vel non conueniunt in esse et econverso
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1384">
+      ⁋ Ad  
+      <lb ed="#V" n="2"/>aliam rationem dicendum quod maior est falsa. et similiter probatio eius. 
+      <lb ed="#V" n="3"/>Nam genus non sumitur ab aliquo quod sit in potentia ad il 
+      <lb ed="#V" n="4"/>lud a quo sumitur differentia: cum genus non significet partem: vt 
+      ha<lb ed="#V" n="5" break="no"/>bitum est.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1395">
+      ⁋ Respondeo ergo quantum ad hunc articulum quod deo 
+      <lb ed="#V" n="6"/>non repugnat ratione sue simplicitatis esse in genere: quod ex 
+      <lb ed="#V" n="7"/>dictis potest sic probari. Si enim repugnaret deo etc. hoc 
+      <lb ed="#V" n="8"/>esset: vel quia omne quod est in genere est aliquo modo compositum 
+      <lb ed="#V" n="9"/>compositione essentiali aliquorum. quorum vnum est potentia et reliquum 
+      <lb ed="#V" n="10"/>eius actus realiter distinctus: aut vterque actus. et hoc non est 
+      <lb ed="#V" n="11"/>verum: cum multa talia sint per se in griesernie: in quibus non est 
+      <lb ed="#V" n="12"/>talis compositio. verbi gratia intellitit abstracte et forme 
+      acci<lb ed="#V" n="13" break="no"/>dentales et spirituales: vt itellectio volitio et huiusmodi et similiter mul 
+      <lb ed="#V" n="14"/>te corporales: vt supra probatum est. vel compositum compositione 
+      for<lb ed="#V" n="15" break="no"/>malitatum non rerum: vel compositione esse et essentie: et vtrumque est 
+      impro<lb ed="#V" n="16" break="no"/>batum. nec apparet aliquis alius modus compositionis necessari 
+      <lb ed="#V" n="17"/>cuilibet existenti in genere: ergo non propter summam dei 
+      simplicita<lb ed="#V" n="18" break="no"/>tem necesse est negare deum esse in genere. 
+      <lb ed="#V" n="19"/>unc secundo videndum est generaliter: an ex ali 
+      <lb ed="#V" n="20"/>quo alio hoc sit negandum: Et 
+      <lb ed="#V" n="21"/>coueniunt pro maiori parte doctores in hoc dicentes: quod deus 
+      <lb ed="#V" n="22"/>non est in griesenie: quod tamen diuersimode probatur ab eis.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1434">
+      ⁋ 
+      Qui<lb ed="#V" n="23" break="no"/>dam enim probant hoc primo: quia omnis species constituitur ex griesenie et 
+      <lb ed="#V" n="24"/>differentia illud autem a quo sumitur differentia constituens speciem se habet ad 
+      <lb ed="#V" n="25"/>illud a quo sumitur genus: sicut actus ad potentiam. animal 
+      <lb ed="#V" n="26"/>enim sumitur a natura sensitiua per modum concretionis. quia homo dicitur 
+      <lb ed="#V" n="27"/>animal: quoniam habent naturam sensitiuam: rationale vero a natura intellectiua: quia 
+      <lb ed="#V" n="28"/>rationale est quod habet naturam intellectiuam. Intellectiuum autem se habet 
+      <lb ed="#V" n="29"/>ad sensitiuum: sicut actus ad potentiam. Et similiter est in aliis 
+      <lb ed="#V" n="30"/>sed in deo potentia non coniungitur actui: quare non est in griesene.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1454">
+      ⁋ 2o quia 
+      <lb ed="#V" n="31"/>cum esse dei sit eius essentia: si deus est in genere oporteret quod 
+      <lb ed="#V" n="32"/>eius genus esset ens. Nam genus significat rei essentiam: cum 
+      <lb ed="#V" n="33"/>predicetur in quid. sed ens nullius potest esse genus: vt patet 2o me 
+      <lb ed="#V" n="34"/>taphisice. Aliam rationem faciunt ad idem: sed illa tacta est supra. 
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1465">
+               <lb ed="#V" n="35"/>⁋ Alii idem probant 3o sic. omne quod est in genere est aliquid deter 
+      <lb ed="#V" n="36"/>minatum secundum perfectionem: deus autem est infinitus in perfectione. 
+      <lb ed="#V" n="37"/>Maior probatur: quoniam secundum Commen. 2o meta. genus differt a 
+      <lb ed="#V" n="38"/>materia: quia materia dicit puram potentiam: genus vero dicit formam 
+      me<lb ed="#V" n="39" break="no"/>diam inter potentiam et actum: actus autem receptus a potentia 
+      con<lb ed="#V" n="40" break="no"/>trahitur ad determinatam perfectionem
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1482">
+      ⁋ Alii sic 4o ex ratione 
+      <lb ed="#V" n="41"/>necesse esse: et est vt dicunt ratio Auic. S. meta. si necesse esse habet 
+      <lb ed="#V" n="42"/>genus: ergo intentio graeseris vel erit ex se necesse esse: vel non. 
+      <lb ed="#V" n="43"/>Si primo modo: tunc non cessabit quousque sit ibi differentia. hoc intel 
+      <lb ed="#V" n="44"/>ligo inquiunt sic. genus est includeret differentiam Quoniam sine illa 
+      <lb ed="#V" n="45"/>non est in actu vltimo: et necesse esse ex se est in actu vltimo 
+      <lb ed="#V" n="46"/>Si autem genus includit differentiam: tunc non est genus. Si detur : 
+      <lb ed="#V" n="47"/>membrum: sequitur quod necesse esse erit constitutum ex eo quod non 
+      <lb ed="#V" n="48"/>est necesse esse.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1502">
+      ⁋ 5o idem probatur per auctoritatem Aug. 7. erge 
+      <lb ed="#V" n="49"/>tri. manifestum est deum abusiue substantiam vocari. 
+      <lb ed="#V" n="50"/>ratio sua est: quoniam substantia substat accidentibus: quod dee 
+      <lb ed="#V" n="51"/>conuenire non potest: que ratio habet euidentiam ex eo quod omnis subiecta: vt 
+      <lb ed="#V" n="52"/>subiecta est genus: est limitata. omnis autem subiecta limitata subsistit 
+      <lb ed="#V" n="53"/>aliquibus accidentibus.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1515">
+      ⁋ Alius doctor ad idem inducit du 
+      <lb ed="#V" n="54"/>as rationes quamuis dicat eas non esse cogentes. Prima que est 
+      <lb ed="#V" n="55"/>scilicet in ordine. 6. est hec: si deus esset in genere: aliquid esset ge 
+      <lb ed="#V" n="56"/>nus respectu dei et aliorum: consequens est falsum: quoniam vel illud esset 
+      <lb ed="#V" n="57"/>ens vel aliquid aliud: non ens: quia omne genus separat illud  
+      <lb ed="#V" n="58"/>cui est genus ab aliquo: ita quod ipsum est medium per quod aliquid  
+      <lb ed="#V" n="59"/>negatu ab ipso vniversaliter negetur est a specie. vt potest haberi ex. 7. 
+      tho<lb ed="#V" n="60" break="no"/>picorum: sed ens non est tale cum praedicetur de omnibus. nec aliud ab 
+      <lb ed="#V" n="61"/>ente potest esse genus deo et alicui alteri: quoniam quicquid illud esset 
+      <lb ed="#V" n="62"/>oporteret quod esset commune omni creature: quia plus dicent et minus 
+      <lb ed="#V" n="63"/>conueniutnt deus et creatura quecumque quam alique creature 
+      in<lb ed="#V" n="64" break="no"/>ter se: genus autem quod praedicatur de magis differntibus: praedicatur etiam 
+      <lb ed="#V" n="65"/>de minus differntibus: sed nullum genus est commune omni creature 
+      <!--127.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 66-v b -->
+               <lb ed="#V" n="66"/>quare etc.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1552">
+      ⁋ 3mo sic. omnia que sunt in genere habent certam 
+      propor<lb ed="#V" n="67" break="no"/>tionem secundum perfectionem inter se: sed deus nullam 
+      propor<lb ed="#V" n="68" break="no"/>tionem perfectionis habet cum aliquo alio: cum quodlibet aliud ex. 
+      <lb ed="#V" n="69"/>cedat in infinitum. ergo etc.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1561">
+      ⁋ Dctauo ab aliis sic: genus est 
+      <lb ed="#V" n="70"/>prius secundum intellectum omni quod ponitur in graeserie. deo autem nihil 
+      <lb ed="#V" n="71"/>est prius: nec secundum rem nec secundum intellectu. ergo etc.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1568">
+      ⁋ huius 
+      <lb ed="#V" n="72"/>opinionis est fuit Ansel. qui monogio. hanc conclusionem probat sic. 
+      <lb ed="#V" n="73"/>Cum omnis subiecta tractetur: aut est vniversalis que pluribus substantiis 
+      <lb ed="#V" n="74"/>essentialiter communis est: vt hominem esse commune est omnibus homnibus: aut 
+      <lb ed="#V" n="75"/>est indiuidua: que vniversalem essentiam communem habet cum aliis: quemad  
+      <lb ed="#V" n="76"/>modum singuli homines commune habent cum singulis vt homines sint:  
+      <lb ed="#V" n="77"/>quo quis summam naturam in aliarum subiectarum tractatu contineri 
+      intel<lb ed="#V" n="78" break="no"/>ligit: que nec in plures subiectas se diuidit: nec cum aliqua alia 
+      <lb ed="#V" n="79"/>per essentiam communicationem se colligit: quasi dicat. nullo 
+      mo<lb ed="#V" n="80" break="no"/>do. vnde in hoc consistit ratio eius: omnis subiecta que est in griesene est 
+      <lb ed="#V" n="81"/>vniversalis vel indiuidua: summa natura nec est vniversalis: quoniam non 
+      multi<lb ed="#V" n="82" break="no"/>plicatur in pluribus: nec indiuidua: quia cum nulla essentialiter con 
+      <lb ed="#V" n="83"/>uenit.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1598">
+      ⁋ huius quoque opinionis videtur fuisse maeri. in hac 
+      di<lb ed="#V" n="84" break="no"/>stinctione motus verbis beati Augustini. 5. de tri. dicen 
+      <lb ed="#V" n="85"/>tis. Intelligamus deum quantum possumus: sine quantitate magnum: 
+      <lb ed="#V" n="86"/>sine qualitate bonum: sine indigentia creatorem: sine situ praesen 
+      <lb ed="#V" n="87"/>tem: sine habitu omnia continentem: sine loco vbique totum: sine tem 
+      <lb ed="#V" n="88"/>pore sempiternum: sine vlla sui mutatione mutabilia 
+      fa<lb ed="#V" n="89" break="no"/>cientem. nihil patientem. hec aug. Quibus verbis subdit magister. 
+      Ec<lb ed="#V" n="90" break="no"/>ce si subtiliter intendamus ex his atque praedictis aperitur illa pre 
+      <lb ed="#V" n="91"/>dicamenta artis dyaletice dei naturae minime conuenire: quae nul 
+      <lb ed="#V" n="92"/>lis subiecta est accidentibus. vnde nec proprie dicitur subiecta: vt Aug. 
+      <lb ed="#V" n="93"/>pstendit in septimo de tri. et est supra inductum.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1622">
+      ⁋ Ad hoc et 
+      <lb ed="#V" n="94"/>posset induci intentio Aug. 7. de tri. vbi probat diuinam 
+      <lb ed="#V" n="95"/>essentiam neque genus esse neque speciem. esset autem species si esset in 
+      ge<lb ed="#V" n="96" break="no"/>nere: cum non sint plures diuine essentie solo numero differen 
+      <lb ed="#V" n="97"/>tes.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1633">
+      ⁋ Sed quantum mihi pro nunc apparet hec non 
+      sufficien<lb ed="#V" n="98" break="no"/>ter probant propositum: nec cogunt praeserti per efficaciam rationis illud  
+      <lb ed="#V" n="99"/>esse tenendum: non plus: quin ymo minus vt apparet. quam rationes 
+      <lb ed="#V" n="100"/>alie probant oppositum ideo probo conclusionem oppositam. Et quia aliquando 
+      <lb ed="#V" n="101"/>dicimus aliquam rem que non est signum vel praedicabile alicuius 
+      pr<lb ed="#V" n="102" break="no"/>dicamenti: esse in genere vel praedicamento: aliquando et dicimus 
+      <lb ed="#V" n="103"/>pdicabile aliquod esse in praedicamento. ideo primo probo quod res 
+      im<lb ed="#V" n="104" break="no"/>portata per hoc nomen deus. vere est in praedicamento subiecte.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1651">
+      ⁋ 2o  
+      <lb ed="#V" n="105"/>probo quod praedicabilia quadam vere et proprie de deo dicta: sunt in pre 
+      <lb ed="#V" n="106"/>dicamento.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1658">
+      ⁋ Primum probo sic: omne quod praedicatur vere in 
+      <lb ed="#V" n="107"/>quid de pronomine demonstrante rem aliquam et de 
+      prono<lb ed="#V" n="108" break="no"/>mine demonstrante aliquam aliam rem specie distinctam ab illa: 
+      <lb ed="#V" n="109"/>nec tamen sic praedicatur de quolibet: est genus illius rei: et illa res est 
+      <lb ed="#V" n="110"/>in genere illo: et per consequens in praedicamento vbi est genus illud: sed 
+      <lb ed="#V" n="111"/>hoc commune spiritus vere praedicat in quid de deo a de pronomine de 
+      <lb ed="#V" n="112"/>monstrante aliquam rem specie distinctam ab illa: et non eodem modo 
+      <lb ed="#V" n="113"/>dicatur de omnibus. ergo ipsum est genus illius rei: et ipsa est res huius 
+      <lb ed="#V" n="114"/>gnaesenis: et per consequens de praedicamento subiecte cuius praedicamenti genus 
+      <lb ed="#V" n="115"/>est hoc commune spiritus. maior propositio est nota per diffinitionem graeseris 
+      <lb ed="#V" n="116"/>etiam strictissime sumendo genus. Genus enim diffinitur: quod pre 
+      <lb ed="#V" n="117"/>dicatur de pluribus differntibus specie in eo quod quid siue in quid. 
+      <lb ed="#V" n="118"/>pdicari autem in quid strictissime sumitur: sicut accipitur in ma 
+      <lb ed="#V" n="119"/>ori. Dixi autem quod non praedicatur de omnibus propter ens: quod secundum 
+      ali<lb ed="#V" n="120" break="no"/>quos in quid praedicatur de quolibet: nec tamen est genus.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1691">
+      ⁋ paet etiam 
+      <lb ed="#V" n="121"/>hec propositio inductiue. quia enim anial praedicatur in quod dne pronomine 
+      demon<lb ed="#V" n="122" break="no"/>strante rem quae est homo: et de pronomine demonstrante rem quae est leo: et 
+      <lb ed="#V" n="123"/>sic de pluribus. ideo animal est genus illarum rerum: et ille dicuntur esse in 
+      <lb ed="#V" n="124"/>gnaesenie animalis et in praedicamento subiecte: cuius praedicamenti est genus 
+      sub<lb ed="#V" n="125" break="no"/>alternum animal: similiter quia color praedicatur in quid de pronomine 
+      de<lb ed="#V" n="126" break="no"/>monstrante illam rem que est albedo: ac est demonstrante rem 
+      <lb ed="#V" n="127"/>quae est nigredo: et sic est de pluribus distinctis secundum speciem: supr 
+      <lb ed="#V" n="128"/>posito gratia exempli: tales qualitates specie distingui: ideo 
+      <lb ed="#V" n="129"/>dicitur genus illarum rerum: et ille dicuntur esse in illo grgiesenie et in 
+      pradica<lb ed="#V" n="130" break="no"/>mento qualitatis: cuius ipsum est genus subalternum: et sic in omnibus 
+      <!--128.xml-->
+      <pb ed="#V" n="67-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>patet vniversaliter discurrenti.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1725">
+      ⁋ Quia siquis instaret in proposito: eadem 
+      <lb ed="#V" n="2"/>ratione poterit quamlibet aliam rem negari esse in aliquo graesene. 
+      <lb ed="#V" n="3"/>et quod nullus angelus est in praedicamento substantie: nec 
+      ali<lb ed="#V" n="4" break="no"/>quis color in praedicamento qualitatis: nec vnquam probari po 
+      <lb ed="#V" n="5"/>terit oppositum: eo quod illa sit propria ratio grieseris: et illo modo tantum res ar 
+      <lb ed="#V" n="6"/>priissime dicuntur esse in graerie. minor probatur. Nam constat quod 
+      <lb ed="#V" n="7"/>hoc nomen spiritus vere praedicatur de deo. vnde Io. deus ipsemet 
+      di<lb ed="#V" n="8" break="no"/>xit. deus spus est: et per consequens de pronomine demonstrante rem 
+      <lb ed="#V" n="9"/>illam pro qua in ista propositione supponit hoc nomen deus: pre 
+      <lb ed="#V" n="10"/>dicatur vere hoc praedicatu spiritus: dicendo. hoc est spitus: constat 
+      <lb ed="#V" n="11"/>autem quod etiam in quid. vnde interroganti quid est hoc. bene responde 
+      <lb ed="#V" n="12"/>tur spiritus. non autem si interroget quale est hoc. vel secundum aliquod 
+      <lb ed="#V" n="13"/>aliud praedicamentum.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1754">
+      ⁋ Item constat secundum scripturas et secundum omnes: 
+      <lb ed="#V" n="14"/>quod hoc nomen spiritus praedicatur de pronomine demonstrante aliam 
+      <lb ed="#V" n="15"/>rem specie a deo: vt de re quam vocamus angelum Gabrielem: 
+      <lb ed="#V" n="16"/>et de demonstrante eam quam vocamus Michaelem: et sic de 
+      <lb ed="#V" n="17"/>multis. Et constat etiam per similem rationem quod predicatur in quid. 
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1765">
+               <lb ed="#V" n="18"/>⁋ Item non sic praedicatur de omnibus. Nam demonstrato leone non 
+      <lb ed="#V" n="19"/>vere dicitur hoc est spiritus. ergo hoc commune spiritus est genus vere et proprie 
+      <lb ed="#V" n="20"/>ad illam rem que deus dicitur: hoc autem genus nullius alte 
+      <lb ed="#V" n="21"/>rius praedicamenti verius dici potest esse: immo nec vere 
+      ni<lb ed="#V" n="22" break="no"/>si substantie. quare etc. Forte autem diceretur: quod hoc nomen spi 
+      <lb ed="#V" n="23"/>ritus libet praedicetur de deo a angelo: non tamen dicitur de eis secundum 
+      <lb ed="#V" n="24"/>vnam rationem. et ideo non est eis genus: sed istud est ad pla 
+      <lb ed="#V" n="25"/>citum et sine ratione: quia aut intelligitur quod non dicitur de eis secundum 
+      <lb ed="#V" n="26"/>vnam rationem specialissimam: et hoc verum est: sed hoc non impedit quin sit 
+      ge<lb ed="#V" n="27" break="no"/>nus: licet impediat ipsum esse speciem specialissimam: aut in 
+      <lb ed="#V" n="28"/>telligitur de ratione in generali: et hoc est falsum. Nam secundum 
+      <lb ed="#V" n="29"/>vnam rationem generale huic nomini conuertibilem vniversaliter dicitur de 
+      <lb ed="#V" n="30"/>deo et creatura spirituali: siue enim diffinitur spiritus substantia 
+      <lb ed="#V" n="31"/>incorporea et immaterialis: siue alia diffinitione: illa diffi 
+      <lb ed="#V" n="32"/>nitio tam deo quam angelis erit communis. quod si hoc proteruiter ne 
+      <lb ed="#V" n="33"/>getur: simili modo negare poterit substantiam dici secundum vnam 
+      <lb ed="#V" n="34"/>rationem de corporea et incorporea: immo vt videtur multo 
+      ma<lb ed="#V" n="35" break="no"/>gis. et sic consequentur negare angelum esse in praedicamento substam 
+      <lb ed="#V" n="36"/>tie: quod nullus negat.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1809">
+      ⁋ 2m probo sic. pater filius creator principi 
+      <lb ed="#V" n="37"/>et plura similia sunt praedicabilia per se relatiua et ad aliquid: 
+      ac<lb ed="#V" n="38" break="no"/>per hoc de praedicamento relationis: et proprie dicuntur de deo. 
+      <lb ed="#V" n="39"/>ergo de deo proprie dicuntur praedicabilia: que vere et proprie 
+      <lb ed="#V" n="40"/>sunt in aliquo predicamento. Prima pars antecedentis patet: quoniam eis 
+      <lb ed="#V" n="41"/>conueniunt omnia qui dicuntur a sanctis et prophilosois requiri ad hoc 
+      <lb ed="#V" n="42"/>quod aliqua praedicabilia sint per se ad aliquid. 2a etiam pars nul 
+      <lb ed="#V" n="43"/>li catholico dubia esse potest: verissime quidem et propriissime 
+      ac<lb ed="#V" n="44" break="no"/>primo et principaliter deus dicitur et est pater et filius. vnde Danmeni libro primo 
+      <lb ed="#V" n="45"/>Sciendum inquit est quod non ex nobis translatum est ad btam 
+      <lb ed="#V" n="46"/>diuinitatem paternitatis et filiationis et processionis nomen: con 
+      <lb ed="#V" n="47"/>trario autem nobis inde traditum est vt ait diuinus apost. pro 
+      <lb ed="#V" n="48"/>pterea flecto genua mea ad pattrem: ex quo omnis patnitas 
+      in<lb ed="#V" n="49" break="no"/>celo a in terra nominatur. Creator est proprie et de solo deo 
+      <lb ed="#V" n="50"/>dicitur. Similiter principium verissime deus est.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1842">
+      ⁋ Confirmatur hec rati 
+      <lb ed="#V" n="51"/>per Aug. 5. de tri. vbi postquam distinxit praedicationes tam 
+      af<lb ed="#V" n="52" break="no"/>firmatiuas quam negatiuas proprias singulis praedicamentis 
+      <lb ed="#V" n="53"/>concludit in fine: quod filius et non filius. genitus et non genitus 
+      <lb ed="#V" n="54"/>siue ingenitus dicuntur relatiue: et sunt de praedicamento re 
+      <lb ed="#V" n="55"/>lationis. Unde ait. Sicut enim genitus non ad se impsum 
+      <lb ed="#V" n="56"/>dicitur sed quod ex genitore sit. ita cum dicitur ingenitus non ad seipsum 
+      <lb ed="#V" n="57"/>dicitur sed quod ex genitore non sit ostenditur: in eodem tamen praedicamen 
+      <lb ed="#V" n="58"/>to quod relatiuum vocatur. vtraque significatio vertitur: et ante 
+      imme<lb ed="#V" n="59" break="no"/>diate dixit. non receditur a relatiuo praedicamento cum dicitur inge 
+      <lb ed="#V" n="60"/>nitus.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1866">
+      ⁋ Quia si quis velit dicere: quod praedicta nomina relatiua 
+      <lb ed="#V" n="61"/>non sunt proprie de praedicamento relationis: potest etiam si placet 
+      <lb ed="#V" n="62"/>plura alia relatiua: et quelibet ad libitum excipere a praedica 
+      <lb ed="#V" n="63"/>mento praedicto.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1876">
+      ⁋ Ex hoc autem quod isti termini sunt per se 
+      <lb ed="#V" n="64"/>de praedicamento relationis: si rem quam significat pater et fili 
+      <lb ed="#V" n="65"/>us et huius in creaturis: positus in praedicamento relatonis: 
+      <!--128.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 67-r b -->
+               <lb ed="#V" n="66"/>necesse est eadem ratione rem etitm quam significant in deo: colloca 
+      <lb ed="#V" n="67"/>re in praedicamento relationis.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1894">
+      ⁋ Idem patet de praedicamento 
+      <lb ed="#V" n="68"/>actionis scilicet quod de deo vere et proprie predicatur: quin ymo. vt. dicens 
+      <lb ed="#V" n="69"/>Aug. 5. de tri. quod autem ad faciendum attinet fortassis de solo 
+      <lb ed="#V" n="70"/>deo verissime dicitur solus enim deus facit et ipse non fit: neque. pa 
+      <lb ed="#V" n="71"/>titur: quantum ad eius subiectam patet: quia deus est.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1905">
+      ⁋ Istam conclusionem 
+      <lb ed="#V" n="72"/>valet prdicamenta aliqua vere de deo dici indubitanter 
+      <lb ed="#V" n="73"/>Aug. ponit in praedicto libro quod certissime probatur: ex eo quod ipse 
+      <lb ed="#V" n="74"/>vt dictum est singula praedicamenta distinguens: et proprias ed 
+      <lb ed="#V" n="75"/>rum praedicationes determinans concludit quedam de deo dici 
+      <lb ed="#V" n="76"/>secundum subiectam: quedam vero ad aliquid: et secundum relationem: et hoc tam 
+      <lb ed="#V" n="77"/>quam verissimo fundamento vtitur postmodum in toto li. de 
+      tri<lb ed="#V" n="78" break="no"/>et quod proprie talia praedicamenta de ipso dicantur: euidenter 
+      in<lb ed="#V" n="79" break="no"/>super apparet. Nam in eodem li. 8. ait. alia predicamenta  
+      <lb ed="#V" n="80"/>quedam dici de deo: sed non proprie. valet. situs habitus. tempus. 
+      <lb ed="#V" n="81"/>et vbi. vnde ait. situs vero et habitus et loca et tempora non proprie: sed 
+      <lb ed="#V" n="82"/>translate ac per similitudines dicuntur de deo: et proptereo 
+      <lb ed="#V" n="83"/>remouet ab eo praedicamentum passionis: vt proxime 
+      allega<lb ed="#V" n="84" break="no"/>tum est.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1936">
+      ⁋ Remouet est a deo praedicamentum qualitatis et 
+      <lb ed="#V" n="85"/>quantitatis continue: eo quod ille dicuntur ad se: et quecumque dicuntur 
+      <lb ed="#V" n="86"/>ad se secundum subiectam dicuntur de deo. vnde mirum est quod ipse sic 
+      di<lb ed="#V" n="87" break="no"/>ligenter distinxerit praedicamenta: et quedam remouerit a deo: 
+      <lb ed="#V" n="88"/>quedam autem proprie et solum dixerit non conuenire: illa vero secud 
+      <lb ed="#V" n="89"/>subiectam et relationem et actionem dixerit ei conuenire: nisi 
+      volue<lb ed="#V" n="90" break="no"/>rit illa tria praedicamenta vere et proprie de deo dici.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1952">
+      ⁋ huius 
+      <lb ed="#V" n="91"/>sententie. valet. quod deus sit res contenta in praedicamento subus 
+      <lb ed="#V" n="92"/>stantie: fuisse. P. nullus qui eum viderit potest dubitare. Nam 
+      <lb ed="#V" n="93"/>i12. meta. in principio volens de subiecta abstracta et principalis 
+      <lb ed="#V" n="94"/>de prima: qui deus est loqui: innuens diuisionem entis in subiectam 
+      <lb ed="#V" n="95"/>et alia praedicamenta: ab eo sepe positam. dicens substantiam esse 
+      prin<lb ed="#V" n="96" break="no"/>cipaliorem partem entis. vnde ait. Etenim siue totum quod omne: 
+      <lb ed="#V" n="97"/>substantia est prima pars: et si eo quod consequenter: et ita primum subiecta: 
+      <lb ed="#V" n="98"/>deinde qualitas: aut quantitas: quod exponens Commen. ait. Et 
+      <lb ed="#V" n="99"/>intendebat Arum quod ens aut demonstrat vnum genus: et vnam 
+      <lb ed="#V" n="100"/>naturam: aut genera diuersa: et quodcumque sit. manifestum est quod subiecta 
+      <lb ed="#V" n="101"/>est prior pars entis: et statim. P. hoc probat: tum quia alia non 
+      di<lb ed="#V" n="102" break="no"/>cuntur simpliciter entia: sed talia entia: tum quia nullum 
+      <lb ed="#V" n="103"/>aliorum est seperabile: ad quod Commen. nullum inquit aliorum 
+      inue<lb ed="#V" n="104" break="no"/>nitur simpliciter nisi subiecta. verbi gratia. quia qualitas non dicitur ens 
+      <lb ed="#V" n="105"/>simpliciter: neque motus: sed dicit esse qualitas: et dicitur esse 
+      <lb ed="#V" n="106"/>motus: ens ergo principaliter et simpliter est subiecta. Et subdit 
+      <lb ed="#V" n="107"/>Et cum dixit quod subiecta dicitur ens simpliciter: et alia praedicamenta 
+      <lb ed="#V" n="108"/>secundum comparationem: dedit causam in hoc: et dixit etiam nullum alio 
+      <lb ed="#V" n="109"/>rum est abstractum id est et causa: et in hoc est quod subiecta est constans ens 
+      <lb ed="#V" n="110"/>per se: et alia sunt in subiecta.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e1998">
+      ⁋ Ex his omnibus patet quod. P. et 
+      Com<lb ed="#V" n="111" break="no"/>mentator in hac parte vtuntur hoc termino subiecta secundum quod est 
+      <lb ed="#V" n="112"/>praedicamentum distinctum contra alia praedicamenta. Et pro reb 
+      <lb ed="#V" n="113"/>que sunt in tali praedicamento. Sed statim post subiectam diui 
+      <lb ed="#V" n="114"/>dit in sensibilem et in insensibilem: et generabile et corruptibilem 
+      <lb ed="#V" n="115"/>et in eternam: et post considerationem de subiecta sensibili probat 
+      <lb ed="#V" n="116"/>esse subiectam insensibilem et abstractam et immobilem: et 
+      de<lb ed="#V" n="117" break="no"/>inde inquirit: an hec sit vna tantum vel plures: et determinat 
+      <lb ed="#V" n="118"/>quod plures: inter quas vna est prima: quae est nobilissima et fi 
+      <lb ed="#V" n="119"/>nis et perfectio ceterarum et totius vniuersi: quam 
+      vti<lb ed="#V" n="120" break="no"/>que nos deum appellamus.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e2023">
+      ⁋ Ex quibus euidenter 
+      conclu<lb ed="#V" n="121" break="no"/>ditur: quod secundum mentem. P. et Commentatoris deus est subiecta vere 
+      <lb ed="#V" n="122"/>de praedicamento subiecte. Si quis hanc partem velit sustine 
+      <lb ed="#V" n="123"/>re faciliter posset soluere aliorum rationes inductas. Nam prima 
+      <lb ed="#V" n="124"/>quidem fundatur primo in falso scilicet quod omnis species habeat differentiam esse 
+      <lb ed="#V" n="125"/>tialem: quod falsum est: vt supra dictum est. 2o etiam assumit fal 
+      <lb ed="#V" n="126"/>sum cum ait quod illud a quo sumitur differentia: se habet ad illud a quo 
+      <lb ed="#V" n="127"/>sumitur genus: sicut actus ad potentiam. quod est falsum est 
+      <lb ed="#V" n="128"/>vt patet. Et contradicit aliis dictis sic arguentium: quoniam ipsi 
+      vo<lb ed="#V" n="129" break="no"/>lunt quod in homine et qualibet subiecta composita sit tantum vna for 
+      <lb ed="#V" n="130"/>ma substantialis: et per eandem formam sit homo intellectiuus et sen¬ 
+      <!--129.xml-->
+      <pb ed="#V" n="67-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>sitiuus: et per consequens sensitiuum in homine non est in potentia 
+      <lb ed="#V" n="2"/>ad intellectiuum: non plusquam sensitiuum ad sensitiuum: et 
+      intelle<lb ed="#V" n="3" break="no"/>ctiuum ad intellectiuum: hi autem vt patet expresse dicunt oppositum 
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e2060">
+               <lb ed="#V" n="4"/>⁋ Item super. 5. meta. de substantia inscripto dicunt quod 
+      ge<lb ed="#V" n="5" break="no"/>nus. dicens tota essentiam rei et non formam tantum: et eadem ratione ne 
+      <lb ed="#V" n="6"/>materiam tantum.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e2069">
+      ⁋ Ad 2am etiam eorum dicendum primo quod etiam fundatur in 
+      fal<lb ed="#V" n="7" break="no"/>so. valet. quod esse distinguatur ab essentia in omnibus rebus praeter 
+      <lb ed="#V" n="8"/>deum. 2o quia esto quod ita esset: idem inconueniens sequeretur cilic 
+      <lb ed="#V" n="9"/>quod ens esset genus si ratio valeret: quia ens significat cuiuslibet essen 
+      <lb ed="#V" n="10"/>tiam immediate: vt. dicens P. 10 meta. et Commen. ibidem. Et. 5. 
+      <lb ed="#V" n="11"/>meta. vult. P. quod ens significat illa: que significant dictiones 
+      <lb ed="#V" n="12"/>praedicamentorum. Et constat secundum istos et secundum veritatem quod 
+      praedica<lb ed="#V" n="13" break="no"/>menta significant essentias rerum saltem aliquarum. vnde isti 
+      <lb ed="#V" n="14"/>habent in hoc falsam immaginatione. Auic. quidem credidit: quod 
+      <lb ed="#V" n="15"/>ens significaret dispositionem additam essentie rei vt. dicens. Com 
+      <lb ed="#V" n="16"/>men. 4. et 10e meta. hoc autem falsum est: cum quaelibet res sit ens 
+      <lb ed="#V" n="17"/>per seipsam vt. dicens . meta. P. cum hoc tamen quod ens significat 
+      essen<lb ed="#V" n="18" break="no"/>tias rerum stat a verum est quod ipsum non est genus: siue quia significat 
+      <lb ed="#V" n="19"/>omnia et predicatur de quolibet: siue quia non significat omnia illa secundum 
+      <lb ed="#V" n="20"/>vnum conceptum vt moderni: de quorum nuoa sunt sic 
+      arguen<lb ed="#V" n="21" break="no"/>tes dicunt.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e2104">
+      ⁋ Ad tertiam rationem dicendum quod maior illa: omne quod est 
+      <lb ed="#V" n="22"/>in genere est finitum secundum perfectionem: est ad placitum dicta. 
+      <lb ed="#V" n="23"/>Et quamuis instantia dari non possit: nisi in proposito: quoniam solus 
+      <lb ed="#V" n="24"/>deus est infinite perfectionis: ipsa tamen non habet apparentiam 
+      <lb ed="#V" n="25"/>necessariam veritatis quia quod non tollit a re id propter quod ipsa 
+      poni<lb ed="#V" n="26" break="no"/>tur in aliquo praedicamento: non impedit ipsam esse in 
+      praedica<lb ed="#V" n="27" break="no"/>mento. Infinitas autem perfectionis non tollit a re quin ipsa sit 
+      <lb ed="#V" n="28"/>ens per se: et per consequens quod ipsa sit subiecta: immo maxime tali rei 
+      <lb ed="#V" n="29"/>conuenit per se esse ens et non in alio: probatio vero que assumi 
+      <lb ed="#V" n="30"/>tur ex dictis Commen. primo est contra eos: cum ipsi plures 
+      <lb ed="#V" n="31"/>formas subiectales non ponant in eodem: et per consequens quae sit illa 
+      for<lb ed="#V" n="32" break="no"/>ma media quam dicunt genus significare fingere non possunt.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e2130">
+      ⁋ Item 
+      <lb ed="#V" n="33"/>si essent plures forme adhuc genus totum significaret et non tantum 
+      <lb ed="#V" n="34"/>partem: vt supra dictum est: et per consequens: ita vltimam sicut mediam 
+      <lb ed="#V" n="35"/>formam.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e2139">
+      ⁋ Item quia in substantiis creatis abstractis et in quali 
+      <lb ed="#V" n="36"/>tatibus: que omnes sunt in praedicamentis secundum istos 
+      impossibi<lb ed="#V" n="37" break="no"/>le est assignare talem formam mediam: quapropter dictum illud  
+      <lb ed="#V" n="38"/>non ad mentem Commen. inducunt.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e2149">
+      ⁋ Unde dicendum quod Commen. 
+      <lb ed="#V" n="39"/>non. dicens quod genus significat formam mediam: sed dicit quod genus 
+      <lb ed="#V" n="40"/>est forma vniversalis: et post. dicens quod est vnum in forma media inten 
+      <lb ed="#V" n="41"/>actum et potentiam: nec aliud intendit nisi quod genus ideo dicitur 
+      <lb ed="#V" n="42"/>forma: vel quia est pars diffinitionis: et quelibet pars diffinitio 
+      <lb ed="#V" n="43"/>nis aliquando dicitur forma: vt patet 2o philosophicorum: aut quia ipsum est praedi 
+      <lb ed="#V" n="44"/>cabile de aliquo ea praedicabile vel praedicatum respectu subie 
+      <lb ed="#V" n="45"/>cti. dicens similitudinem forme. vnde frequenter Commen. vocat 
+      praedi<lb ed="#V" n="46" break="no"/>catum dispositionem et subiectum dispositum. vt patet in quaestione praeceden 
+      <lb ed="#V" n="47"/>ti: dicitur vero forma media inter actum et potentiam: quoniam genus signifi 
+      <lb ed="#V" n="48"/>cat rem totam: et per consequens magis distincte quam nomen significans 
+      <lb ed="#V" n="49"/>praecise materiam rei: que non est res nisi in potentia pura. Et quia ipsum 
+      <lb ed="#V" n="50"/>significat rem vniuersalius quam species vel quam differentia: et per consequens 
+      <lb ed="#V" n="51"/>minus distincte et in actu: ideo dicitur medium inter potentiam et actum: 
+      <lb ed="#V" n="52"/>et hoc magis potest trahi ab eodem. S. meta.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e2182">
+      ⁋ Ad 4m quond 
+      <lb ed="#V" n="53"/>est ex dictis Auic. dico primo quod similis ratio potest fieri contra 
+      istim<lb ed="#V" n="54" break="no"/>Doc. cum ponat conceptum entis vnum communem deo et creaturis: et 
+      <lb ed="#V" n="55"/>similiter plures alios. Queratur ergo an ille conceptus sit ex 
+      <lb ed="#V" n="56"/>se necesse esse: vel non. Si sic: cum sit communis creature. ergo 
+      creatu<lb ed="#V" n="57" break="no"/>ra erit necesse esse. Si non. ergo necesse esse erit constitutum ex eo quod 
+      <lb ed="#V" n="58"/>non est necesse esse. Et ideo dicendum  rationem: quod intentio dicti 
+      <lb ed="#V" n="59"/>generis dicitur de deo nec est necesse: nec pars vel aliquid intrin 
+      <lb ed="#V" n="60"/>secum eius quod est necesse esse: licet significet id quod est necesse esse: 
+      <lb ed="#V" n="61"/>et etiam id quod non est necesse esse.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e2204">
+      ⁋ Ad 5m dico quod hoc nomen 
+      <lb ed="#V" n="62"/>subiecta potest dupliciter considerari. vno modo quantum ad eius deriuationem 
+      <lb ed="#V" n="63"/>alio modo quantum ad eius significatione. Primo modo cum deriuetur ab hoc 
+      <lb ed="#V" n="64"/>verbo substo. stas. vel ab hoc subsisto. sistis. hoc nomen subiecta 
+      <lb ed="#V" n="65"/>proprie dicitur de his rebus tantum que aliis substant vel subsistunt. 
+      <!--129.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 67-v b -->
+               <lb ed="#V" n="66"/>2o modo potest quantum ad propositum sufficit adhuc sumi dupliciter. vno 
+      <lb ed="#V" n="67"/>secundum quod ipsum est transcendens: et dicitur de omni essentia et 
+      entita<lb ed="#V" n="68" break="no"/>te: sicut dicimus aliquando quod subiecta albedinis est alia a subiecta dul 
+      <lb ed="#V" n="69"/>cedinis. Alio modo magis specialiter. valet. vt omnis essentia que per 
+      <lb ed="#V" n="70"/>se est naturaliter et non in aliquo tamquam in subiecto: aut quae est pars 
+      in<lb ed="#V" n="71" break="no"/>trinseca rei: vel essentie: sic per se existentis dicitur subiecta.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e2235">
+      ⁋ Nunc 
+      <lb ed="#V" n="72"/>ad propositum subiecta vt est genus generalissimum primi 
+      praedicamen<lb ed="#V" n="73" break="no"/>ti non sumitur sic generaliter vt 2o modo: vt patet: nec sic contracte vt in primo 
+      <lb ed="#V" n="74"/>sed sumitur tertio modo. vnde subiecta secundum quod est primum genus primi 
+      <lb ed="#V" n="75"/>predicamenti est terminus minus communis per praedicationem quam 
+      <lb ed="#V" n="76"/>subiecta 2o modo dicta: et communior quam subiecta primo modo dicta. Et hoc ex 
+      <lb ed="#V" n="77"/>presse patet per commenta. 12. meta. super illo verbo. P. secundum nouam 
+      <lb ed="#V" n="78"/>translationem. quoniam autem sunt hec quidem separabilia: illa autem 
+      <lb ed="#V" n="79"/>inseparabilia substantie ille: et propter hoc omnium causae sunt quia 
+      <lb ed="#V" n="80"/>sine substantiis non sunt passiones et motus: vbi loco illius 
+      <lb ed="#V" n="81"/>dictionis separabilia translatio vetus habet abstracta. ait 
+      Com<lb ed="#V" n="82" break="no"/>men. et intendit per abstracta substantias quae sunt subiecta 
+      <lb ed="#V" n="83"/>o. praedicamentorum: et per non abstracta. 9. praedicamenta: quasi 
+      <lb ed="#V" n="84"/>dicat: quia praedicametorum quadam sunt absoluta et quedam non: 
+      ab<lb ed="#V" n="85" break="no"/>soluta sunt substantie: et non absoluta sunt non subiecte. Et sub 
+      <lb ed="#V" n="86"/>dit exponendo quia accidentia non separantur a subiecta: videntur 
+      <lb ed="#V" n="87"/>subiecte causae eorum: nullum enim accidens existit extra subiectam: sunt enim 
+      <lb ed="#V" n="88"/>in rei veritate passiones et motus subiectarum.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e2274">
+      ⁋ Ex his patet quod 
+      <lb ed="#V" n="89"/>loquitur. P. et Commen. de subiecta secundum quod est praedicamentum 
+      distin<lb ed="#V" n="90" break="no"/>ctum contra alia. 9. et patet quod sic est minus communis quam substantia. 
+      <lb ed="#V" n="91"/>2o modo sumpta: cum accidentia sint subiecte quedam 2o modo vlterius de 
+      <lb ed="#V" n="92"/>subiecta sumpta sic vt est praedicamentum subdit ibidem. Et 
+      scien<lb ed="#V" n="93" break="no"/>dum quod subiecte sunt duobus modis: vno modo in quo est 
+      impos<lb ed="#V" n="94" break="no"/>sibile fugere accidentia: et alius sine aliquo accidente: primus est 
+      <lb ed="#V" n="95"/>sensibile. secundus autem intelligibile.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e2292">
+      ⁋ Ex his patet quod secundum 
+      Com<lb ed="#V" n="96" break="no"/>mentatorem non omnis substantia quae est in praedicamento substat 
+      <lb ed="#V" n="97"/>rebus que sunt accidenta: et per consequens quod subiecta primum praedicamentum 
+      <lb ed="#V" n="98"/>genus generalissimum in plus est quam subiecta subsistens accidentibus: 
+      <lb ed="#V" n="99"/>nec sic sumpta dicitur a subsistendo: sed a per se et non in alio exi 
+      <lb ed="#V" n="100"/>stendo: sicut eiusdem li. commento. 3. ibidem. dicens Commen. et supra 
+      <lb ed="#V" n="101"/>est allegatum. et. 7. li. vbi praedicameta distinguuntur: siue ens in 
+      <lb ed="#V" n="102"/>praedicamenta: vocans subiectam ens per se: et hec est proprior 
+      no<lb ed="#V" n="103" break="no"/>minatio dicti praedicamenti: quoniam ex forma et deriuatione vo 
+      <lb ed="#V" n="104"/>cabuli subiecta videtur importare tmmom rem alteri subsistentem: 
+      <lb ed="#V" n="105"/>quando cum vocabula sunt ad placitum: vbi constat de re non est 
+      <lb ed="#V" n="106"/>curandum de vocibus.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e2319">
+      ⁋ Ex his dico quod Aug. 7. de tri. cum 
+      <lb ed="#V" n="107"/>. dicens deum abusiue dici subiectam: accipit subiectam primo modo. Et secundum 
+      <lb ed="#V" n="108"/>deriuationem vocabuli: non autem secundum quod est genus 
+      generalis<lb ed="#V" n="109" break="no"/>simum primi praedicamenti: et idem significat quod hoc totum ens per 
+      <lb ed="#V" n="110"/>se: cum sibi competat maxime per se esse vt ibidem sententialiter 
+      <lb ed="#V" n="111"/>ait: et hoc modo ipsum accepisse patet per rationem: quam assignat et 
+      <lb ed="#V" n="112"/>etiam ex eo quod. 5. de tri. immediate post verba supra per magistrum 
+      <lb ed="#V" n="113"/>allegata: intelligamus deum sine qualitate bonum etc. ait Aug. 
+      <lb ed="#V" n="114"/>Est tamen sine dubitatione substatia: vel si melius hoc 
+      apel<lb ed="#V" n="115" break="no"/>latur essentia: quam greci vsiam vocant: et sicut ab eo quod est 
+      <lb ed="#V" n="116"/>sapere dicta est sapientia: et ab eo quod est scire scientia: ita ab 
+      <lb ed="#V" n="117"/>eo quod est esse dicta est essentia: et quis magis est quam ille qui 
+      <lb ed="#V" n="118"/>famulo suo moysi dixit. Ego sum qui sum: et dices filiis 
+      <lb ed="#V" n="119"/>istlis qui est misit me ad vos: sed alie quae dicuntur essentie siue 
+      <lb ed="#V" n="120"/>subiecte: capiunt accidentia quibus in eis fiat vel magna vel 
+      <lb ed="#V" n="121"/>quantacumque mutatio: deo autem aliquid eius accidere non potest:  
+      <lb ed="#V" n="122"/>hec ille. vbi patet quod cum quadam praedicamenta excludat a deo inter 
+      <lb ed="#V" n="123"/>que non continet primum praedicamentum. Et statim dicat illum 
+      <lb ed="#V" n="124"/>esse subiectam. quod ipse intellexit ipsum esse in predicamento 
+      <lb ed="#V" n="125"/>substantie. verum quia hoc nomen substantia a subsistere dici 
+      <lb ed="#V" n="126"/>tur: ideo tale praedicamentum in quo deus ponitur non proprie 
+      <lb ed="#V" n="127"/>dicitur substantia cum non quodlibet quod in ipso est subsistat 
+      <lb ed="#V" n="128"/>accidentibus: sed dicitur proprie per se essentia vel per se 
+      <lb ed="#V" n="129"/>ens secundum Commentatoris. et sic sumpto praedicamento propriissime: deus 
+      <lb ed="#V" n="130"/>dicitur esse in praedicamento secundum intentionem Aug. et in hac signi 
+      <!--130.xml-->
+      <pb ed="#V" n="68-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>ficatione sumendo hoc nomen subiecta concedit deum esse subus 
+      <lb ed="#V" n="2"/>stantiam et quedam de ipso predicari secundum substantiam: vt patet 
+      <lb ed="#V" n="3"/>per totum sequentem librum.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e2387">
+      ⁋ Ad 6um dico: quod aliquid 
+      ali<lb ed="#V" n="4" break="no"/>ud ab ente est commune genus deo et creaturis aliquibus. Et cum 
+      <lb ed="#V" n="5"/>dicitur quod tunc esset commune omnibus creaturis. nego consequentia: quoniam si 
+      <lb ed="#V" n="6"/>cut aliquis conceptus vnus est communis deo a quibusdam creatu 
+      <lb ed="#V" n="7"/>ris tantum secundum hunc docto. qui sic arguit: vt conceptus sapientie: et 
+      <lb ed="#V" n="8"/>conceptus iustitie: et sic de multis attributis: quamuis tales 
+      <lb ed="#V" n="9"/>conceptus sint gnaeritia secundum eum: sic nullum inconueniens est deo a 
+      <lb ed="#V" n="10"/>creaturis aliquibus esse genus commune: quod tamen non est commune 
+      omnin<lb ed="#V" n="11" break="no"/>bus creaturis. nec aliqua ratio magis posset probare inconue 
+      <lb ed="#V" n="12"/>niens esse de genere quam probari posse vnus conceptus de deo 
+      <lb ed="#V" n="13"/>et creaturis aliquibus.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e2411">
+      ⁋ Ad 7m dicendum est ad maiorem sicut 
+      <lb ed="#V" n="14"/>dictum est ad 3m argumentum.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e2416">
+      ⁋ Ad 8m dicendum: quod maior est 
+      <lb ed="#V" n="15"/>vera de prioritate consequentie et non aliter: et hoc modo minor est fal 
+      <lb ed="#V" n="16"/>sa. Nam hoc termino deus. prior est secundum consequentiam hic 
+      termi<lb ed="#V" n="17" break="no"/>nus subiecta et hic terminus spiritus: et multi alii. Nam sequitur. hic 
+      <lb ed="#V" n="18"/>est deus. ergo hic est spiritus vel hic est subiecta et non econverso
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e2427">
+      ⁋ Ad  
+      <lb ed="#V" n="19"/>rationem Ansel. dico quod deus est subiecta indiuidua. Et cum dicitur quod omnis 
+      <lb ed="#V" n="20"/>subiecta indiuidua habet vniversalem essentiam communem cum aliis: deus aut 
+      <lb ed="#V" n="21"/>lessentialem communionem non habet cum aliqua alia substantia. Didcendum quod ma 
+      <lb ed="#V" n="22"/>ior ista potest habere duplicem intellectum. vnus est. quod ali 
+      <lb ed="#V" n="23"/>qua essentia exra animam sit communis indiuiduis substantiis: et sic 
+      <lb ed="#V" n="24"/>dico quod illud nullibi habet veritatem: quoniam nulla omnino in 
+      mum<lb ed="#V" n="25" break="no"/>do res est vniversalis aut communis pluribus substantiis: sed omnis 
+      essen<lb ed="#V" n="26" break="no"/>tia est singularis vt patebit in 3o Alius sensus est: quod omnis 
+      <lb ed="#V" n="27"/>indiuidua subiecta habet aliquod commune praedicatur essentialiter et in quod de 
+      <lb ed="#V" n="28"/>illa et aliis: et iste sensus verus est: sed in hoc sensu nego 
+      mi<lb ed="#V" n="29" break="no"/>norem.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e2453">
+      ⁋ Ad auctoritas quam magister inducit dicendum: quod illa potius 
+      <lb ed="#V" n="30"/>est pro hac via: quoniam illa non excludit praedicamentum subiecte: cum 
+      <lb ed="#V" n="31"/>nullam ibi mentionem faciat de eo: neque de praedicamento re 
+      <lb ed="#V" n="32"/>lationis. Non enim ait sine relatione creatore: sed sine indi 
+      <lb ed="#V" n="33"/>gentia: volens per hoc significare quod vtique vere creator est:  
+      <lb ed="#V" n="34"/>non tamen creauit quasi indigeret bono creature. Item non excludit 
+      <lb ed="#V" n="35"/>praedicamentum actionis: immo affirmat: negat autem ipsum mutari 
+      <lb ed="#V" n="36"/>cum de nouo aliquid agit dicendo: sine vlla sui mutatione 
+      <lb ed="#V" n="37"/>mutabilia facientem: cum ergo aliqua excludat aliqua affirmet:  
+      <lb ed="#V" n="38"/>magis est pro hac opinione quam pro opposita.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e2476">
+      ⁋ Et hoc etiam 
+      <lb ed="#V" n="39"/>confirmatur. quoniam statim postea magis explicite tria 
+      praedica<lb ed="#V" n="40" break="no"/>menta scilicet subiecte relationis et actionis asserit proprie dici de 
+      <lb ed="#V" n="41"/>deo: reliqua improprie et translatiue tantum: vt superius est ostem 
+      <lb ed="#V" n="42"/>sum.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e2487">
+      ⁋ Ad aliam quam inducit. 7. de tri. quod deus non est subiecta 
+      <lb ed="#V" n="43"/>responsum est supra.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e2492">
+      ⁋ Ad aliam que sequitur dicendum quod Aug. 
+      <lb ed="#V" n="44"/>ibi non vult probare: nisi quod essentia diuina non est genus ne 
+      <lb ed="#V" n="45"/>que species respectu personarum diuinarum: et hoc verum est. quod 
+      <lb ed="#V" n="46"/>autem non sit aliqua species in genere substantie ipse non intendit:  
+      <lb ed="#V" n="47"/>et quia hoc esse intentionis sue ibidem clarissimum est: ideo eius 
+      <lb ed="#V" n="48"/>dicta non curo hic allegare.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e2505">
+      ⁋ Sed quid dicetur ad auctorita 
+      <lb ed="#V" n="49"/>tem magri et Ansel. pro certo mihi apparet eos opposite 
+      opi<lb ed="#V" n="50" break="no"/>nionis fuisse: eligat quilibet quod vult: vel ipsos sequi vel 
+      <lb ed="#V" n="51"/>Aug. ac Damen. qui vt videtur alterius ab eis sententiae extitit. 
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e2514">
+               <lb ed="#V" n="52"/>⁋ Ad rationes in principio quaestionis factas dicendum quod consequentia primo non est bo 
+      <lb ed="#V" n="53"/>na. Et ad probationem dicendum: quod verbum. P. non est accipien 
+      <lb ed="#V" n="54"/>dum secundum proprietatem sermonis. Nam constat quod genus non 
+      <lb ed="#V" n="55"/>est pars speciei plusquam econuerso: sed sunt intentiones 
+      di<lb ed="#V" n="56" break="no"/>uerse: quarum neutra alteri est intrinseca.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e2527">
+      ⁋ Item genus non 
+      <lb ed="#V" n="57"/>est pars rei quam significat species: sicut nulla intentio est 
+      <lb ed="#V" n="58"/>pars rei extra: sed intelligendum est verbum illud: sicut ibidem Com 
+      <lb ed="#V" n="59"/>men. exponit: videlibet: quod genus est pars speciei id est diffinitio 
+      <lb ed="#V" n="60"/>nis speciei. que diffinitio aliquando vocatur ab eo forma: sicut patet 
+      <lb ed="#V" n="61"/>per eundem. 7. meta. et hoc modo accipit hoc nomen forme 
+      <lb ed="#V" n="62"/>vbi allegatur. vnde ait quod et illa ex quibus componuntur 
+      diffini<lb ed="#V" n="63" break="no"/>tiones significantes quiditates cuiuslibet rei. dicuntur partes 
+      di<lb ed="#V" n="64" break="no"/>finiti et diffinitionis. Quod non est intelligendum quod partes 
+      <lb ed="#V" n="65"/>diffinitionis sunt partes diffiniti: nisi quia sunt partes diffi¬ 
+      <!--130.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 68-r b -->
+               <lb ed="#V" n="66"/>nitionis: que idem significant quod diffinitum. Et sic 
+      intelli<lb ed="#V" n="67" break="no"/>git cum subdit quod genus est pars formarum. id est diffinitionum. 
+      <lb ed="#V" n="68"/>Quod exponi sic deberi declarat particula sequens cum ait: 
+      <lb ed="#V" n="69"/>forma enim speciei diuiditur in genus et differentiam: quod nullo 
+      mo<lb ed="#V" n="70" break="no"/>do vere potest intelligi: nisi de diffinitione speciei quam formam 
+      <lb ed="#V" n="71"/>pocat. Eodem modo dicendum est ad auctoritatem Auic. Nam per 
+      <lb ed="#V" n="72"/>quiditatem intelligit diffinitionem sicut etiam P. aliquando et 
+      Co<lb ed="#V" n="73" break="no"/>men. vt potest euidenter haberi. 3o phisicorum. vbi vna translatio 
+      <lb ed="#V" n="74"/>habet ratio et alia habet diffinitio. Et Commen. exponit per hoc 
+      no<lb ed="#V" n="75" break="no"/>me quiditas. eodem modo accipit Aui. in proposito: quod patet quoniam dicens 
+      <lb ed="#V" n="76"/>genus praedicatur de specie ita quod est pars quiditatis. Constat autem 
+      <lb ed="#V" n="77"/>quod genus quod praedicatur est intentio quadam: que non est pars 
+      essen<lb ed="#V" n="78" break="no"/>tie rei extra animam. Est autem pars diffinitionis: et ideo 
+      quidi<lb ed="#V" n="79" break="no"/>tas pro diffinitione ponitur ibi.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e2587">
+      ⁋ Ad 2am vniversaliter neganda est 
+      <lb ed="#V" n="80"/>consequentia et ad probationem cum dicitur quod genus est materia vel etiam quod 
+      si<lb ed="#V" n="81" break="no"/>gnificat materiam: intelligendum est verbum hoc per 
+      assimilatio<lb ed="#V" n="82" break="no"/>nem vt sit sensus: genus assimilatur materie: et hoc est verum. 
+      <lb ed="#V" n="83"/>Assimilatio autem stat in hoc: quod sicut materie aduenit forma: 
+      <lb ed="#V" n="84"/>et sicut ex vtraque fit aliquid in actu secundum speciem: sic in diffinitio 
+      <lb ed="#V" n="85"/>nibus generi additur differentia et sic completur diffinitio quae significat 
+      <lb ed="#V" n="86"/>rem in actu et distincte secundum propriam speciem. Ex quo etiam patet 
+      <lb ed="#V" n="87"/>alia similitudo inter genus et materiam: quia sicut materia nulla de 
+      <lb ed="#V" n="88"/>se est species entium in actu distincta: sed est tantum in potentia: et 
+      <lb ed="#V" n="89"/>quasi confusa: distinguitur autem et actuatur per formam: sic genus 
+      si<lb ed="#V" n="90" break="no"/>gnificat rem in confuso et quasi in potentia secundum quod 
+      Commen.<lb ed="#V" n="91" break="no"/>consueuit vocare cognitionem vniversalem et confusam rei 
+      cognitio<lb ed="#V" n="92" break="no"/>nem in potentia: per differentiam autem additam quasi actuatur illa cognitio 
+      <lb ed="#V" n="93"/>confusa dum distinctior cognitio habetur de re quam prius: non autem 
+      <lb ed="#V" n="94"/>intelligit quod genus sit materia: nec quod significet praecise materiam: sicut 
+      <lb ed="#V" n="95"/>nomen materie significat ipsam: quinyvnio hoc reprobat. quia vt. dicens 
+      <lb ed="#V" n="96"/>tunc non posset de specie praedicari in recto: sed in obliquo tantum: et 
+      <lb ed="#V" n="97"/>mediante aliqua praepoe: quod falsum est: hoc autem esse de 
+      intentio<lb ed="#V" n="98" break="no"/>ne sua manifeste patet. S. meta. vbi ait. in diffinitionibus rerum 
+      <lb ed="#V" n="99"/>existentium per se genus est quasi materia: et differentia quaesi forma: et sic materia 
+      <lb ed="#V" n="100"/>non dicitur de diffinito nisi secundum quod est genus ei id est nisi secundum quod genus 
+      <lb ed="#V" n="101"/>vocatur materia. et sequitur: nomen enim graneseonis significat materiam id est assimilatur. 
+      <lb ed="#V" n="102"/>materie secundum quod est in potentia id quod habet materiam id est secundum quod significat illud in 
+      <lb ed="#V" n="103"/>potentia et in confuso vniversaliter. et sic praedicatur de habentibus materiam: 
+      <lb ed="#V" n="104"/>nomen autem materie significat in materia id est in re extra aliquid quod est in 
+      <lb ed="#V" n="105"/>actu pars eius: cuius est materia: et ideo praedicatur de eo cum non 
+      praedice<lb ed="#V" n="106" break="no"/>tur aliquid in actu de alio in actu. nisi per aliquam ppositionem 
+      <lb ed="#V" n="107"/>importantem habitudinem. dicens aut nomen merie significare partem 
+      <lb ed="#V" n="108"/>in actu id est partem aliquam distincte et determinate: et ideo non potest 
+      <lb ed="#V" n="109"/>pdicari nisi mediante praepositione de. habente materiam: genus autem 
+      <lb ed="#V" n="110"/>significat vtramque partem non in actu id est determinate et distin 
+      <lb ed="#V" n="111"/>cte. sed totum et quamlibet partem implicite: et ideo potest 
+      pre<lb ed="#V" n="112" break="no"/>dicari de habente materiam.
+    </p>
+            <p xml:id="grvnZZ-ed1e41-d1e2661">
+      ⁋ Iem. 7. meta. ait 
+      fre<lb ed="#V" n="113" break="no"/>quenter quod genus est simile materie sicut hic dixit: quod est 
+      <lb ed="#V" n="114"/>quasi materia: et quod non significat precise materiam: sed  
+      <lb ed="#V" n="115"/>totum in habentibus materiam. vnde ait. cum sit 
+      decla<lb ed="#V" n="116" break="no"/>ratum quod omnes diffinitiones componuntur ex genere et 
+      <lb ed="#V" n="117"/>differentia: et genus componitur ex materia et forma. id est si 
+      <lb ed="#V" n="118"/>gnificat compositum ex materia et forma: aut genus quod 
+      <lb ed="#V" n="119"/>dicitur simpliciter non erit aliud a forma subiecti: forma aut 
+      <lb ed="#V" n="120"/>erit forma et subiectum et quocumque fuerit erit simile 
+      ma<lb ed="#V" n="121" break="no"/>terie. Et exponit statim quod dictum est dicens. et forte intel 
+      <lb ed="#V" n="122"/>ligit per hoc: quod genus quod est vnum ex materia et forma: 
+      <lb ed="#V" n="123"/>aut habet hoc nomen ex parte materie. aut ex parte 
+      for<lb ed="#V" n="124" break="no"/>me: et quomodocumque fuerit simile est materie: et 
+      intende<lb ed="#V" n="125" break="no"/>bat per hoc quod genus in re extra non existit in actu sed  
+      <lb ed="#V" n="126"/>est sicut materia: et illud quod est in actu est vltima 
+      dif<lb ed="#V" n="127" break="no"/>ferentia. hec Commentator. quod intelligendum est vt 
+      pre<lb ed="#V" n="128" break="no"/>missum est supra. Ex quibus patet quod non significat 
+      pre<lb ed="#V" n="129" break="no"/>cise materiam: sed est quasi materia et simile materie 
+      <lb ed="#V" n="130"/>vt dictum est. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#Rimini">Gregory of Rimini</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2020-10-03">October 03, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-ae1bsb">Venice 1503</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-03" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="114-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="grvnZZ-ed1e72"><!-- l1d28-32q1 -->
+            <head xml:id="grvnZZ-ed1e72-Hd1e106">Quaestio 1</head>
+            <head xml:id="grvnZZ-ed1e72-Hd1e109" type="question-title">Utrum aliqua relatio sit vera res existens non per operationem animae</head>
+            <p xml:id="grvnZZ-ed1e72-d1e112">
+               <lb ed="#V" n="115"/>Distinctionis. XXVIII. Questio. I 
+      <lb ed="#V" n="116"/>quam Irca distinctionem. 28. et quatuor 
+      sequen<lb ed="#V" n="117" break="no"/>tes in quibus magister multa loquitur 
+      <lb ed="#V" n="118"/>quae de relactionibus. et in generali et in speciali de aliquibus 
+      <lb ed="#V" n="119"/>speciebus relationum: vt completius hec materia 
+      per<lb ed="#V" n="120" break="no"/>stractetur queram aliquas quaestiones: et est prima. Utrum 
+      <lb ed="#V" n="121"/>quaen aliqua relatio sit vna res existens non per 
+      ope<lb ed="#V" n="122" break="no"/>rationem anime:
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e132">
+      ⁋ Et arguitur primo quod non. quia 
+      <lb ed="#V" n="123"/>omnis relatio est habitudo quedam media inter duo extrema 
+      <lb ed="#V" n="124"/>que adinuicem comniungit: et connectit etiam quantumcumque sint in re 
+      <lb ed="#V" n="125"/>seperata vel remota: sed nulla res existens in natura est sic media 
+      <lb ed="#V" n="126"/>vt notum est. ergo nulla res existens in natura est relatio¬
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e143">
+               <lb ed="#V" n="127"/>Ad oppositum arguitur ex intentione philosophi 6. 
+      metap<lb ed="#V" n="128" break="no"/>qui ens reale diuidit in 10 
+      praedica<lb ed="#V" n="129" break="no"/>menta: quod non esset verum nisi praedicamentum relationis 
+      signifi<lb ed="#V" n="130" break="no"/>caret rem aliquam extra animam.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e155">
+      <!--217.xml-->
+               <pb ed="#V" n="114-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>Respondeo primo praemit tam vnam distinctionem de acceptione 
+      <lb ed="#V" n="2"/>huius nominis relatio. Deinde iuxta mebra 
+      distin<lb ed="#V" n="3" break="no"/>ctionis ponam aliquas conclusiones.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e171">
+               <lb ed="#V" n="4"/>Quantum ad primum sciendum quod hoc nomen relatio quantum 
+      <lb ed="#V" n="5"/>ad propositum sufficit accipitur tripliciter. Nam 
+      <lb ed="#V" n="6"/>vno modo sumitur in eadem significatione cum his nominibus relatiuum et 
+      <lb ed="#V" n="7"/>ad aliquid secundum quod ad aliquid est dictio non oratio. Et secundum hoc idem 
+      <lb ed="#V" n="8"/>est relatiuum et ad aliquid et relatio: isto modo vtitur hoc nomine relatus 
+      <lb ed="#V" n="9"/>in praedicamentis philosophus. sicut patet diligenter intuenti. et maxime illam 
+      <lb ed="#V" n="10"/>partem. inest autem contrarietas in relatione secundum expositionem Auerroys. 
+      <lb ed="#V" n="11"/>ibidem enim dicit Auer. quod virtus et vicium sunt relationes. et philosophus. 
+      <lb ed="#V" n="12"/>ait quod sunt ad aliquid. et hoc quoquemodo albertus. Commentator super 
+      <lb ed="#V" n="13"/>praedicamentis. capitulo de ad aliquid. et multi etia doctores 
+      moder<lb ed="#V" n="14" break="no"/>ni: sic isto modo accipiendo illud est relatio quod est relatiuum vel ad  
+      <lb ed="#V" n="15"/>aliquid. Alio modo accipitur relatio non pro relatiuo vel ad aliquid: 
+      <lb ed="#V" n="16"/>sed pro eo quo ipsum relatiuum est relatiuum et ad aliquid. et istud  
+      <lb ed="#V" n="17"/>adhuc dupliciter secundum quod id quo relatiuum est relatiuum dupliciter 
+      ac<lb ed="#V" n="18" break="no"/>cipitur. Uno modo accipitur pro aliquo significabili complexem tantum vel 
+      <lb ed="#V" n="19"/>equiualenter: sicut superius. distinctio 26. dicebatur de proprietate vnos 
+      <lb ed="#V" n="20"/>sumpta. et hoc modo accipit relationem Ansel. de processione spiritus 
+      <lb ed="#V" n="21"/>sci. et aliquando magister sicut patet libro primo. dictinet o 7. hoc modo relatio pa 
+      <lb ed="#V" n="22"/>tris ad filium est: quia genuit. ideo enim piter: quia genuit: et relato 
+      agen<lb ed="#V" n="23" break="no"/>tis ad patiens est: quia aliquid causat in illud: eo enim agens qua 
+      <lb ed="#V" n="24"/>causat vel efficit aliquid in aliquo: et sicim aliis relatiuis 
+      pos<lb ed="#V" n="25" break="no"/>sent assignari relationes quibus ipsa dicuntur relatiua. Alio mod 
+      <lb ed="#V" n="26"/>accipitur illud quo aliquid est relatiuum pro aliquo incomplexe 
+      si<lb ed="#V" n="27" break="no"/>gnificabili et de quo abstractum relatiui verificat: siue est 
+      <lb ed="#V" n="28"/>hoc abstractum relatio sicut similitudo est illud quo simile est 
+      <lb ed="#V" n="29"/>simile et illud est relatio: et similiter id quo formaliter sciens est 
+      <lb ed="#V" n="30"/>sciens dicitur scientia et relatio. et hoc modo etiam multi 
+      do<lb ed="#V" n="31" break="no"/>ctores vtuntur hoc vocabulo 
+      relatio<lb ed="#V" n="32" break="no"/> his premissig pono tres conclusiones prima est quod aliqua 
+      <lb ed="#V" n="33"/>relatio (accipiendo relationem pri 
+      <lb ed="#V" n="34"/>mo modo) est vna res. existens actualiter extra animam nec ab opera 
+      <lb ed="#V" n="35"/>tione anime dependens. 2a quod nulla relatio 2o modo dicta est aliqua 
+      <lb ed="#V" n="36"/>res vel entitas existens extra animam. pro eodem autem nunc accipio 
+      <lb ed="#V" n="37"/>rem et entitatem. 3a conclusio quod aliqua relatio 3o modo dicta est vna res 
+      <lb ed="#V" n="38"/>actualiter extra animam existens et ab operatione anime independens. 
+      <lb ed="#V" n="39"/> Primam conclusionem probo primo sic. si nullum ad aliquid vel relaoo esset 
+      <lb ed="#V" n="40"/>actualiter extra animam et absque eius operatione. sequitur quod nulle 
+      <lb ed="#V" n="41"/>res essent actualiter tales et absque operatione anime quales 
+      deno<lb ed="#V" n="42" break="no"/>tantur esse vel denotari possunt per terminos relatiuos: consequens est 
+      <lb ed="#V" n="43"/>falsum: quoniam sequitur quod nulle res essent actualiter distincte absque 
+      <lb ed="#V" n="44"/>operatione anime: et per consequens nulla rerum pluralitas esset extra animam 
+      <lb ed="#V" n="45"/>sed omnia essent vnum indistinctum: quod manifeste falsum est: consequentia 
+      <lb ed="#V" n="46"/>patet: quoniam si aliqua sunt plura ipsa sunt distincta et diuisa: sicut 
+      si<lb ed="#V" n="47" break="no"/>aliquid est vnum ipsum est indiuisum. vt patet per rationes vnius et mul 
+      <lb ed="#V" n="48"/>ti 10 meta. Unde Boetius in li. de tri. dicit quod vbi nulla 
+      di<lb ed="#V" n="49" break="no"/>uersitas ibi nulla pluralitas: sed vnitas tantum. Item nulla essent 
+      <lb ed="#V" n="50"/>similia. et per consequens nullum esset tale quale est aliud. Nam cum esse 
+      ali<lb ed="#V" n="51" break="no"/>quid alteri simile: non aliud intelligimus quam si diceremus quod ipsum 
+      <lb ed="#V" n="52"/>est tale quale est aliud: accipiendo tale et quale stricte secundum qualita 
+      <lb ed="#V" n="53"/>tem: et sic nulla essent alba nulla nigra: et sic de similibus. Item 
+      <lb ed="#V" n="54"/>nulla essent equalia: et per consequens nullum quantum esset tantum quantum est aliudm: 
+      <lb ed="#V" n="55"/>cum idem vtrobique significatur. Ex quo vltra sequitur: quod non essent 
+      <lb ed="#V" n="56"/>duo bicubita vel tricubita. Eodem modo probaretur quod nulla 
+      <lb ed="#V" n="57"/>essent pater et filius: causa et causatum: agens et patiens: que omnia sunt 
+      <lb ed="#V" n="58"/>falsa manifeste. consequentia vero principalis probatur ex hoc: quod sicut ideo 
+      <lb ed="#V" n="59"/>dicitur esse absolutum extra animam actualiter: quia aliquid est 
+      actua<lb ed="#V" n="60" break="no"/>liter tale absque operatione anime quale denotatur esse per terminum 
+      <lb ed="#V" n="61"/>absolutum. Uel dicitur esse absolutum pro quo potest supponere 
+      ter<lb ed="#V" n="62" break="no"/>minus absolutus. sic suo modo est in proposito de relatiuis. Unde 
+      <lb ed="#V" n="63"/>irrationabile apparet dictum illorum qui dicunt quod soli termini sunt 
+      <lb ed="#V" n="64"/>ad aliquid vel relatiui seu relatio: ita quod tria n omnia predicta 
+      <lb ed="#V" n="65"/>non sunt nomina prime intentionis: sed secunde tantum que non verifi¬ 
+      <!--217.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 114-v b -->
+               <lb ed="#V" n="66"/>cantur nisi de terminis primarum intentionum: et tamen ex alia parte 
+      <lb ed="#V" n="67"/>dicunt quod multe res: immo omnes que nec termini sunt nec 
+      si<lb ed="#V" n="68" break="no"/>gna sunt absolute: quoniam nulla rto apparet propter quam debet 
+      conce<lb ed="#V" n="69" break="no"/>di quod alique res sint absolute potius que concedi debeat quod 
+      <lb ed="#V" n="70"/>alique res sint relatiue. Et propter quam non eque posset 
+      di<lb ed="#V" n="71" break="no"/>ci quod soli termini sunt absoluti: et quod absolutum est nomen 2oa  
+      <lb ed="#V" n="72"/>intentionis tantum: sicut et relatiuum: quod si quis etiam vellet 
+      dice<lb ed="#V" n="73" break="no"/>re quod nulla res est absoluta: sed termini tantum modo: non est contra ipsum 
+      <lb ed="#V" n="74"/>disputandum: eo quod institutiones vocabulorum et vsus ad placitum 
+      <lb ed="#V" n="75"/>sunt. quapropter ad placitum potest quilibet vocare vel res vel 
+      ter<lb ed="#V" n="76" break="no"/>minos absoluta vel relatiua. Mihi autem sufficit quod sicut 
+      <lb ed="#V" n="77"/>actualiter extra animam aliquid est tale quale denotatur vel deno 
+      <lb ed="#V" n="78"/>tari potest esse per praedicationem absolutam seu per terminum 
+      ab<lb ed="#V" n="79" break="no"/>solutum: sic aliquid actualiter extra animam: hoc est non per 
+      ope<lb ed="#V" n="80" break="no"/>rationem anime est tale quale denotari potest per praedicationem 
+      rela<lb ed="#V" n="81" break="no"/>tiuam: siue in qua praedicaretur terminus relatiuus. Et sicut 
+      <lb ed="#V" n="82"/>aliquid extra animam est aliquid non ad aliud. verbi gratia. homo vel 
+      <lb ed="#V" n="83"/>equus: sic aliquid extra animam est aliquid ad aliud. puta paiter vel 
+      <lb ed="#V" n="84"/>tiliusl. illud autem quod estaliquid ad se seu non ad aliud inquam 
+      <lb ed="#V" n="85"/>tum huiusmodi absolutum dico: et illud quod est aliquid ad aliud: inquantum 
+      <lb ed="#V" n="86"/>huiusmodi dico esse relatiuum et ad aliquid seu relatio. Istud dictum 
+      <lb ed="#V" n="87"/>est secundum intentionem Aug. 5o de tri. vbi de s scilicet ait illes. scilicet qui non est 
+      <lb ed="#V" n="88"/>trinitas: sed in trinitate inten in eo quod proprie dicitur scilicet scuns: 
+      <lb ed="#V" n="89"/>relatiue dicitur: cum et ad patrem et ad filium refertur. vbi patet quod non 
+      <lb ed="#V" n="90"/>de nomine: sed de persona que per nomen intelligitur in illa trini 
+      <lb ed="#V" n="91"/>tate dicit quod refertur: et in sequenti capitulo immediate mouet dubium 
+      <lb ed="#V" n="92"/>qumo dicatur relatiue spiritus patris. cum econverso piter non dicatur pater spiritus 
+      <lb ed="#V" n="93"/>scint. Et eodem modo de filio qui non dicitur filius spiritus sancti. Et 
+      <lb ed="#V" n="94"/>respondet. in multis enim relatiuis hoc contingit vt non inuenia 
+      <lb ed="#V" n="95"/>tur vocabulum quo sibi vicissim respondeant que ad se referun 
+      <lb ed="#V" n="96"/>tur. Et subdit. sed vt hec vicissim respondeant dicimus donum 
+      <lb ed="#V" n="97"/>donatores et donatorem doni: quia hic potuit inueniri 
+      vsita<lb ed="#V" n="98" break="no"/>tum vocabulum: illic non potuit: ex quibus apparet quodccum voca 
+      <lb ed="#V" n="99"/>bula relatiua imponantur relatiuis et his que referuntur: vt 
+      di<lb ed="#V" n="100" break="no"/>cit Aug.) non solum vocabula: sed res ipse vocabulis 
+      signi<lb ed="#V" n="101" break="no"/>ficate sunt relatiue.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e392">
+      ⁋ huic concordat Auerroys super pdi 
+      <lb ed="#V" n="102"/>tamentis in capitulo de ad aliquid in principio dicens quod vnumquodque relatiuum 
+      <lb ed="#V" n="103"/>redit per conuersionem: cum accipiuntur per nomia sua signa super 
+      <lb ed="#V" n="104"/>psa ambo ex eo id est secundum quod sunt relatiua si est eis nomen: aut 
+      <lb ed="#V" n="105"/>cum ponitur eis nomen si non est eis ambobus nomen. Et 
+      infra.<lb ed="#V" n="106" break="no"/>cum non fuerit inquit relationi recte nomen significans super eam 
+      <lb ed="#V" n="107"/>ex eo quod est recta et illud quidem ambobus relatiuis aut vni 
+      <lb ed="#V" n="108"/>psorum: iam necesse est referenti vt ponat vtrique aut vni ipsorum 
+      <lb ed="#V" n="109"/>nomen: ex eo id est inquantum comparantur ambo relatiua: et multa 
+      sub<lb ed="#V" n="110" break="no"/>dit ad propositum. ecce quod relationi et relatiuis imponuntur nomina 
+      <lb ed="#V" n="111"/>significantia ipsa inquantum sunt relatiua. Constat autem quod talia 
+      <lb ed="#V" n="112"/>nomina non imponuntur nominibus: sed rebus quae non sunt nomina. ergo 
+      relatio<lb ed="#V" n="113" break="no"/>nes et relatiua vere sunt res ad extra que non sunt signa.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e421">
+      ⁋ 2o  
+      <lb ed="#V" n="114"/>sic. aliqua res extra animam et non per operationem anime est vere 
+      <lb ed="#V" n="115"/>et actualiter pater. ergo aliqua res actualiter extra animam et non 
+      <lb ed="#V" n="116"/>per eius operationem est ad aliquid seu relatio. Antecedens patet. Nam 
+      <lb ed="#V" n="117"/>deus vere actualiter extra animam est paiter: et sic eternaliter fuit nec 
+      <lb ed="#V" n="118"/>ad hoc plus facit anima quam ad hoc quod ipse fuerit deus. et simili modo 
+      <lb ed="#V" n="119"/>etiam sortes est pater platonis quem genuit si plato sit: et plato 
+      <lb ed="#V" n="120"/>est filius. consequentia patet: quia esse patrem est ad aliud quodammo se 
+      <lb ed="#V" n="121"/>habere. hoc autem est esse relatiuum: vt patet per philosophum in 
+      praedica<lb ed="#V" n="122" break="no"/>mentis et omnis pater inquantum pater est pater ad aliud: et 
+      <lb ed="#V" n="123"/>ideo in omnibus inquantum ipsum est ipsum est ad aliud: et talia sunt 
+      <lb ed="#V" n="124"/>vere relatiua secundum philosophum ibi dicentem: quod ad aliquid sunt 
+      que<lb ed="#V" n="125" break="no"/>cumque hoc ipsum quod sunt aliorum sunt.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e450">
+      ⁋ Et aduertendum quod non 
+      <lb ed="#V" n="126"/>dicit quecumque aliorum sunt: sed quecumque hec ipsa que sunt:  
+      <lb ed="#V" n="127"/>sunt aliorum. Unde non ideo dominus relatiuum est: quia est alterius:  
+      <lb ed="#V" n="128"/>sed quia est ipsum. id est dominus alterius: et pater ideo est relatiuum: quia 
+      <lb ed="#V" n="129"/>est ipsum id est pater alterius: et sic de aliis relatiuis: ita quod semper 
+      <lb ed="#V" n="130"/>idem terminus relatiuus poni posset vere ex parte praedicati¬ 
+      <!--218.xml-->
+      <pb ed="#V" n="115-r"/>
+               <cb ed="#V" n="a"/>
+            </p>
+            <p xml:id="grvnZZ-ed1e72-d1e470">
+               <lb ed="#V" n="1"/>⁋ Contra istam conclusionem et eius probationes potest argui duplici 
+      <lb ed="#V" n="2"/>via. vna siquidem probando quod nulla res est absque operatione anime 
+      <lb ed="#V" n="3"/>talis qualis denotatur per praedicationem relatiuam. vbi gratia. quod 
+      <lb ed="#V" n="4"/>nulla res est actualiter distincta vel similis aut causa aut piaiter: et sict 
+      <lb ed="#V" n="5"/>de aliis. nisi per operationem anime.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e484">
+      ⁋ hac autem via procedit ergo 
+      <lb ed="#V" n="6"/>dam doctor sumens pro fundamento. quod quodlibet quod dicitur talis 
+      <lb ed="#V" n="7"/>relatiue est formaliter tale per quandam habitudinem mediam 
+      in<lb ed="#V" n="8" break="no"/>ter ipsum et illud: respectu cuius dicitur esse tale. vbi gratia. simile est 
+      <lb ed="#V" n="9"/>simile actualiter et formaliter per similitudinem que est quedam 
+      habi<lb ed="#V" n="10" break="no"/>tudo media connectens et commniungens vnum simile alteri: et eodem 
+      <lb ed="#V" n="11"/>modo distinctio et patrnitas aut alie relationes sunt quedam 
+      habi<lb ed="#V" n="12" break="no"/>tudines medie duorum vnius vt fundamenti alterius vt 
+      ter<lb ed="#V" n="13" break="no"/>mini: quibus fundamenta ipsa sunt. et dicuntur formaliter talia. tales 
+      <lb ed="#V" n="14"/>autem habitudines non possunt esse extra animam actualiter nec sunt res 
+      <lb ed="#V" n="15"/>facte a nam: sed solum ab anima apprehendente et in ea obiectiue 
+      <lb ed="#V" n="16"/>tantum modo existentes.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e510">
+      ⁋ Et confirmatur ista imaginatio per verbum 
+      <lb ed="#V" n="17"/>Commentatoris qui 3o physi. dicit quod relatio est vna dispositio ex 
+      <lb ed="#V" n="18"/>stens inter duo que adinuicem referuntur: et quod est quoddam inter 
+      <lb ed="#V" n="19"/>uallum inter illa.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e519">
+      ⁋ 2o ad idem arguitur. quia formalis effectur 
+      <lb ed="#V" n="20"/>relationis non est aliud quam vnam rem ad aliam ferri. hoc autem non fa 
+      <lb ed="#V" n="21"/>cit nam: sed intellectus tantum.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e526">
+      ⁋ 3o relatio aduenit et acquiritur alicui et 
+      <lb ed="#V" n="22"/>sine mutatione illius: vt dicitur 5o physic. nulla autem res 
+      adue<lb ed="#V" n="23" break="no"/>nit alicui sine illius mutatione.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e533">
+      ⁋ 4o nullum quod non esset si anima 
+      <lb ed="#V" n="24"/>non esset est res ex animam. sed relatio est huiusmodi dicit enim philosophus 6 
+      <lb ed="#V" n="25"/>metap. quod est quoddam ens quod cum alio copulatur. et cogitatio 
+      di<lb ed="#V" n="26" break="no"/>uidit illud. et Commentator exponit. dicens et intendit praedicamenta 
+      <lb ed="#V" n="27"/>que communiter habent comparationem. estimatur enim quod illa non essent si 
+      <lb ed="#V" n="28"/>anima non esset.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e546">
+      ⁋ 5o idem Commentator. 12. meta. dicit quod rela 
+      <lb ed="#V" n="29"/>tio inter omnia praedicamenta est esse debiliorum: sed secundum eundem 
+      <lb ed="#V" n="30"/>4o physi. entium quedam sunt completa in quorum esse nihil facit 
+      <lb ed="#V" n="31"/>anima. Quedam vero sunt quorum actus completur per animam: et de talibus 
+      <lb ed="#V" n="32"/>secundum eum est tempus. ergo etiam de talibus est relatio cuius esse est inter 
+      <lb ed="#V" n="33"/>omnia debilissimum.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e560">
+      ⁋ Deinde hoc specialiter probat de quolibet mod 
+      <lb ed="#V" n="34"/>relatiorum: quantum ad primum arguit sic. identitas equalitas et simi 
+      <lb ed="#V" n="35"/>litudo nihil aliud sunt quam quidam indistictiones et indisiones. 
+      indi<lb ed="#V" n="36" break="no"/>uisio autem non est pura negatio. quia omne indiuisum est in aliquo 
+      <lb ed="#V" n="37"/>indiuisum: et per consequens in aliquo fundatur. Indiuisio ergo quae est 
+      <lb ed="#V" n="38"/>similitudo duarum albedinum aut fundatur in natura communi: et hoc non: 
+      <lb ed="#V" n="39"/>qui tunc similitudo esset identio in communi nauram quiditatiua et essentia 
+      <lb ed="#V" n="40"/>i: in qua non includitur aliquod relatiuum. aut in ipsis albedini 
+      <lb ed="#V" n="41"/>bus simul prout sunt in re extra. quod etiam non potest dici cum ille 
+      <lb ed="#V" n="42"/>sint diuise et distinctissime: tum etiam: quia tunc vna negatio 
+      <lb ed="#V" n="43"/>fundaretur in duobus subiectis distantissimis: quod est impossibile 
+      <lb ed="#V" n="44"/>relinquitur ergo quod fundetur super obiectiua apphensione seu 
+      ob<lb ed="#V" n="45" break="no"/>iectiuo iudicio ambarum: et per consequens ad eius esse requiritur opera 
+      <lb ed="#V" n="46"/>tio anime.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e591">
+      ⁋ Quantum ad 2m modum relatiuorum arguitur sic. 
+      nul<lb ed="#V" n="47" break="no"/>la res dependet a non re: vt fundatur. super non rem: sed relationes 
+      <lb ed="#V" n="48"/>secundi modi (verbi gratia patrnitas et filiatio) fundantur. super 
+      egis<lb ed="#V" n="49" break="no"/>se quod transit in praeteritum: ipse autem manent transeunte 
+      gen<lb ed="#V" n="50" break="no"/>ratione. ergo non sunt res. et ideo dicunt quod tales relationes non 
+      sum<lb ed="#V" n="51" break="no"/>aliud quam producere et produci concepta per modum habitus et 
+      <lb ed="#V" n="52"/>quietis: que vt sic sunt habitudines medie connectentes 
+      <lb ed="#V" n="53"/>producens et productum.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e609">
+      ⁋ Eodem modo modo probatur de 3o modo relatiuorum 
+      <lb ed="#V" n="54"/>quoniam tales relationes vt scientie ad scibile et intelligibile: et 
+      <lb ed="#V" n="55"/>vniversaliter mensurati ad mensuram dependent ab ipsis mensuris 
+      <lb ed="#V" n="56"/>contingit autem quod mensure: tunc non sint: quoniam non oportet scibile esse 
+      <lb ed="#V" n="57"/>in actu scientia existente in actu nec intelligibile dum intellec 
+      <lb ed="#V" n="58"/>gitur.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e622">
+      ⁋ Ex his ad rationes factas pro concleusione respondet quod absque 
+      <lb ed="#V" n="59"/>operatione anime non est aliquis dominus vel pater relatiue propter 
+      <lb ed="#V" n="60"/>actualem habitudinem dominii vel paternitatis que sit in 
+      re<lb ed="#V" n="61" break="no"/>bus dicitur: tamen realiter dominus propter fundamentu dominii: pert 
+      <lb ed="#V" n="62"/>quod est in propinqua potentia: vt intellectus statim cogatur redu 
+      <lb ed="#V" n="63"/>cere in actu dominum habitudinem. et ideo non est nisi funda 
+      <lb ed="#V" n="64"/>mentaliter dominus et in potentia absque operatione anime. Iden 
+      <lb ed="#V" n="65"/>dicit de simili et distincto et aliis relatiuis. et satis conue 
+      <!--218.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 115-r b -->
+               <lb ed="#V" n="66"/>nit cum responsione aliquorum dicentium quod duo alba absque 
+      <lb ed="#V" n="67"/>operatione anime sunt similia fundamentaliter non formaliter 
+      <lb ed="#V" n="68"/>Alios audiui dicentes quod sunt similia substantiue id est entitati 
+      <lb ed="#V" n="69"/>ue vel essentialiter: non autem relatiue. Addit quoque quod sic 
+      ar<lb ed="#V" n="70" break="no"/>guentes circunscripta omni operatione anime aliquis est 
+      reali<lb ed="#V" n="71" break="no"/>ter dominus vel pater. decipiuntur: quoniam non circunscribitur omnis 
+      <lb ed="#V" n="72"/>operatio anime: sed iam aliqua relinquitur vtpote illa qua hoc 
+      <lb ed="#V" n="73"/>enunciatur: et illa est que huiusmodi habitudinem reducit ad actum. 
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e664">
+               <lb ed="#V" n="74"/>⁋ Secunda via potest argui contra conclusionem similiter probando quod nulla res 
+      <lb ed="#V" n="75"/>extra animam est relatio: esto quod aliqua sint talia qualia deno 
+      <lb ed="#V" n="76"/>tantur per terminos relatiuos: et hoc modo quidam alius do 
+      <lb ed="#V" n="77"/>ctor procedit: concedens quidem et bene: quod vere absque operatio  
+      <lb ed="#V" n="78"/>ne anime aliquid est simile et aliquid pater et causa: et sic de aliis 
+      <lb ed="#V" n="79"/>nihilominus tamen nulla res extra que non est signum est ad  
+      <lb ed="#V" n="80"/>aliquid vel relatio.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e682">
+      ⁋ hoc autem probatur dupliciter. primo sic. 
+      <lb ed="#V" n="81"/>omnis res realiter distincta ab alia re quarum neutra est 
+      <lb ed="#V" n="82"/>pars alterius potest intelligi alia non intellecta: sed 
+      impossibi<lb ed="#V" n="83" break="no"/>le est aliquam relationem intelligi non intellecta alia relatio 
+      <lb ed="#V" n="84"/>nem opposita: que tamen non est pars eius nec econuerso. ergo nulla 
+      <lb ed="#V" n="85"/>relatio est res. maior patet. quia non magis dependet intellectio 
+      <lb ed="#V" n="86"/>vnius rei totaliter disperate ab intellectione alterius 
+      rei<lb ed="#V" n="87" break="no"/>disperate quam intellectio effectus ab intellectione sue cause 
+      <lb ed="#V" n="88"/>essentialis: sed illud quod est effectus potest intelligi non intelle 
+      <lb ed="#V" n="89"/>cta sua causa. ergo etc. minor probatur. quia si aliquis posset 
+      in<lb ed="#V" n="90" break="no"/>telligere sortem et similitudinem eius: non intellecta alia cor 
+      <lb ed="#V" n="91"/>respondente similitudine: tunc posses scire sortem esse simi 
+      <lb ed="#V" n="92"/>lem: et tamen dubitare et ignorare an sit alicui alteri similis: 
+      <lb ed="#V" n="93"/>et scire aliquem esse patrem et ignorare an habeat filium.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e714">
+      ⁋ 2o 2 
+      <lb ed="#V" n="94"/>sicut contradictio dicta de aliquibus est via concludendi 
+      di<lb ed="#V" n="95" break="no"/>stinctionem. ita impossibilitas recipiendi praedicationem 
+      contra<lb ed="#V" n="96" break="no"/>dictoriorum pertinentium ad esse est via concludendi 
+      identita<lb ed="#V" n="97" break="no"/>tem: sed similitudo sortis ad platonem non potest esse sine simili 
+      <lb ed="#V" n="98"/>tudine platonis ad sortem nec econuerso sine contradictione. ergo 
+      <lb ed="#V" n="99"/>ista similitudo est realiter illa. sed similitudo sortis ad pla 
+      <lb ed="#V" n="100"/>tonem non est subiectiue in platone. ergo nec similitudo 
+      <lb ed="#V" n="101"/>platonis ad sortem est subiectiue in platone. et constat quod non 
+      <lb ed="#V" n="102"/>est in sorte. ergo nullibi est subiectiue: et non est subiecta ( vt 
+      di<lb ed="#V" n="103" break="no"/>cunt hi contra quos arguit) et per consequens nec substamia nec acci 
+      <lb ed="#V" n="104"/>dens. ergo nulla res. potest tamen etiam simpliciter idem probari. quia 
+      si<lb ed="#V" n="105" break="no"/>militudo sortis ad platonem non est in platione nec est plato. 
+      <lb ed="#V" n="106"/>ergo nec similitudo platonis ad sortem est in platone nec est 
+      <lb ed="#V" n="107"/>plato: et per consequens nulla res extra animam. Istud dicunt fuisse 
+      <lb ed="#V" n="108"/>de intentione philosophi in praedicamentis qui dicit quod ea sunt 
+      rela<lb ed="#V" n="109" break="no"/>tiua que dicuntur aliorum. aut quolibet aliter ad aliud. id est vt 
+      <lb ed="#V" n="110"/>exponitur communiter sub aliqua alia habitudine casuali. Item 
+      <lb ed="#V" n="111"/>infra dicit quod omnia relatiua dicuntur ad conuertentiam: sed casu 
+      <lb ed="#V" n="112"/>aliquotiens dicent secundum locutionem. Item infra dicit quod 
+      aliquo<lb ed="#V" n="113" break="no"/>tiens et nomina fingere necesse erit si non fuerit nomen positum 
+      <lb ed="#V" n="114"/>ad quod conuenienter assignetur. Constat autem quod dici non competit 
+      <lb ed="#V" n="115"/>rebus: sed terminis et signis rerum. Item habitudo casualis non 
+      <lb ed="#V" n="116"/>conuenit rebus. Item nec res ipsas fingere possumus sed nomina 
+      <lb ed="#V" n="117"/>rerum: et ad illa que fingimus dicit. P. aliam dici. vnde ait. si non 
+      <lb ed="#V" n="118"/>fuerit nomen positum ad quod supple nomen conuenienter 
+      assi<lb ed="#V" n="119" break="no"/>gnetur relatiuum. multa quoque alia dicit de relatiuis que tantum 
+      <lb ed="#V" n="120"/>nominibus conueniuntm. Ex quo patet quod eius intentio fuit quod relati 
+      <lb ed="#V" n="121"/>ua non sunt res extra animam: sed nomina rerum.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e777">
+      ⁋ Ad ista facile 
+      <lb ed="#V" n="122"/>est respondere. Primo quidem fundamentum primi doctoris falsum 
+      <lb ed="#V" n="123"/>est: quoniam non est ponenda aliqua talis habitudo media que 
+      <lb ed="#V" n="124"/>coniungat extrema relatiua. verbi gratia de similitudine. 
+      <lb ed="#V" n="125"/>Nam ad hoc quod aliquid sit alteri simile sufficit quod ipsum sit 
+      <lb ed="#V" n="126"/>tale quale est aliud secundum qualitatem eiusdem speciei nec aliqua 
+      <lb ed="#V" n="127"/>alia res media inter ipsa est necessaria. vt magis patebit 
+      <lb ed="#V" n="128"/>in sequenti. q. verbum autem Commentatoris metaphoricum est: nec 
+      <lb ed="#V" n="129"/>aliud intendit Commentator: nisi quod id quod refertur: refertur ad  
+      <lb ed="#V" n="130"/>alterum. ita quod ad hoc quod ipsum referatur siue sit relatiuum requi¬ 
+      <!--219.xml-->
+      <pb ed="#V" n="115-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>ritur quoddam aliud saltem in multis manerinebus 
+      relati<lb ed="#V" n="2" break="no"/>uorum. sicut ad hoc quod aliquid sit simile requiritur quod sit quoddam 
+      <lb ed="#V" n="3"/>aliud cui sit simile. et ad hoc quod aliquid sit dominus requiritur quod 
+      ali<lb ed="#V" n="4" break="no"/>quis alius sit seruus: et sic de aliis multis. Unde duo rec 
+      <lb ed="#V" n="5"/>runtur scilicet ipsum quod refertur: et id ad quod refertur: nec semper tamen talia duo 
+      <lb ed="#V" n="6"/>sunt due res existentes actu: sicut patebit in sequentibus. et hoc 
+      <lb ed="#V" n="7"/>vult significare Commenta. per illa verba interuallum et dispositio 
+      <lb ed="#V" n="8"/>inter duo: nec aliam rem mediam vult significare.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e823">
+      ⁋ Ad 2a 
+      <lb ed="#V" n="9"/>dicendum quod loquendo in vero sensu de effectu formali (quamuis 
+      im<lb ed="#V" n="10" break="no"/>proprius nimis sit talis modus loquendi) effectus formalis 
+      <lb ed="#V" n="11"/>relationis est esse relatiuum (vt similitudinis esse simile: et 
+      pa<lb ed="#V" n="12" break="no"/>ternitatis esse patrem:) et hoc vtique non ab intellectu est: sed absque 
+      <lb ed="#V" n="13"/>eius operatione aliquid est simile et aliquid vere pater: et ita de multis 
+      <lb ed="#V" n="14"/>aliis. nec ad hoc necesse est rem aliquam ad aliam alio modo ferri vel 
+      <lb ed="#V" n="15"/>portari.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e841">
+      ⁋ Ad 3m nego antecedens si proprie sumatur nec ipsum ponit 
+      <lb ed="#V" n="16"/>P. sed ait. contingit enim altero mutante id est mutato verum esse 
+      al<lb ed="#V" n="17" break="no"/>terum nihil mutas: et. xi. meta. eandem sententiam: et ad idem propositua 
+      <lb ed="#V" n="18"/>ponit in his verbis. est enim altero permutato verificari 
+      alte<lb ed="#V" n="19" break="no"/>rum nihil permutatum. et est intemo eius. id est contingit aliquid ad aliud 
+      <lb ed="#V" n="20"/>de nouo relatiue dici vel esse relatiuum secundum determinatam 
+      <lb ed="#V" n="21"/>scicet speciem relationis. verbi gratia simile vel duplum: aut aliquid tale 
+      <lb ed="#V" n="22"/>absque sui mutatione. sed ad hoc non est necessrum aliquid 
+      rei<lb ed="#V" n="23" break="no"/>vel rationis acquiri vel sibi aduenire: vt patebit in. q. 
+      sequen<lb ed="#V" n="24" break="no"/>ti.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e863">
+      ⁋ Ad 4m neganda est minor si sumatur vniversaliter. Ad probatio 
+      <lb ed="#V" n="25"/>nem dicendum quod ibi. P. et Commenta. sunt ad oppositum: quod patet: quia 
+      exclu<lb ed="#V" n="26" break="no"/>dendo a sua consideratione ens per accidens et ens in anima. di 
+      <lb ed="#V" n="27"/>cunt se velle perscrutari de ente vero quod est extra animam. 
+      <lb ed="#V" n="28"/>Ex rebus autem inquit. P. secundum illam translationem que sunt in 
+      <lb ed="#V" n="29"/>rei veritate est illud quod significat aut quid aut quale aut quam 
+      <lb ed="#V" n="30"/>aut quod copulatur cum alio. vbi dicit Commeta. quod per illud quod 
+      <lb ed="#V" n="31"/>copulatur etc. intelligit cetera praedicamenta. Uolunt ergo quod cete 
+      <lb ed="#V" n="32"/>ra praedicamenta significent veras res extra animam. Et quia aliqui 
+      <lb ed="#V" n="33"/>estimauerunt oppositum: vt ibi dicit Commment. ideo ad eorum 
+      opinio<lb ed="#V" n="34" break="no"/>nem excludendam: specialem de illis sepatem fecit mentione simul cu 
+      <lb ed="#V" n="35"/>aliis. dicens quod illa sigfict ex rebus quae sunt in rei veritate.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e889">
+      ⁋ Praetere 
+      <lb ed="#V" n="36"/>hec probatio contradicit arguenti cum ipse velit quod actio et passio 
+      <lb ed="#V" n="37"/>sint res extra animam: et tamen actio et pactio sunt de illis septem de 
+      <lb ed="#V" n="38"/>quibus. dicens. Commenta. quod estimatur quod non essent nisi anima esset. Dico 
+      <lb ed="#V" n="39"/>ergo quod nec a philosopho nec a Commentatore estimantur talia non esse 
+      <lb ed="#V" n="40"/>nisi anima esset: sed a quibusdam aliis hoc false opinantibus: sicut 
+      <lb ed="#V" n="41"/>et quidem false opinati sunt relationes esse de secundis intentionibus 
+      <lb ed="#V" n="42"/>vt dicit Commentator 12. metaph.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e908">
+      ⁋ Ad 5m dicendum quod Commnen 
+      <lb ed="#V" n="43"/>tator non dicit illud quin sit aliqua relatio potentis esse: immo et 
+      <lb ed="#V" n="44"/>potentissimi esse. cum aliqua relatio sit deus. sed quia esse ad aliquid non 
+      <lb ed="#V" n="45"/>est esse aliquid secundum se seu aliquam entitatem: vt in sequenti. q. 
+      de<lb ed="#V" n="46" break="no"/>clarabitur. quamuis illud quod est ad aliquid sit etiam aliquid: non sic 
+      <lb ed="#V" n="47"/>autem est de absolutis. Nam esse hominem est esse aliquam entitatem: et 
+      <lb ed="#V" n="48"/>similiter esse albedinem. et sic de aliis. et hec soluo magis patebit 
+      <lb ed="#V" n="49"/>ex his que in sequenti quaestione dicentur.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e926">
+      ⁋ Ad ratione quae specialiter 
+      <lb ed="#V" n="50"/>arguitur de relationibus primi modi respondeo quod cum dicitur quod 
+      identi<lb ed="#V" n="51" break="no"/>tas et equalitas et similitudo sunt indistinctiones et indiuisiones 
+      <lb ed="#V" n="52"/>in vero sensu non aliud significatur quam si diceretur idem inquantum huiusmodi 
+      <lb ed="#V" n="53"/>est indistinctum. et simile inquantum huiusmodi: et equale inquantum equale est 
+      indi<lb ed="#V" n="54" break="no"/>stinctum ab eo cui est idem simile vel equale: et intelligit de indist 
+      <lb ed="#V" n="55"/>ctione specifica secundum entitatem qualitatem quantitatem reddendo 
+      sin<lb ed="#V" n="56" break="no"/>gula singularis. Et ad hoc significandum vtuntur qui recte sentiunt 
+      <lb ed="#V" n="57"/>talibus abstractis. Et ad hunc sensum loquendo non oportet imagina 
+      <lb ed="#V" n="58"/>ri aliquas negationes vel priuationes et eis procurare aliqua fur 
+      <lb ed="#V" n="59"/>damenta in quibus sustententur: sed ipsemet res singulares ex 
+      <lb ed="#V" n="60"/>existentes sunt indisticte specifice: licet numeraliter sint diuerse. Si 
+      <lb ed="#V" n="61"/>vero non in dato sensu intelligatur antecedens assumptum: sed concipiantur 
+      ali<lb ed="#V" n="62" break="no"/>que negationes medie: et quaeratur de fundamentis vel subiectis 
+      <lb ed="#V" n="63"/>ipsarum: nego totum illud. et alia quae sequuntur eidem imaginationi 
+      <lb ed="#V" n="64"/>conformia.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e961">
+      ⁋ Ad rationem de 2o modo relatiuorum concedo maiorem in 
+      <lb ed="#V" n="65"/>sua propria significatione acceptam: et nego minorem. dico enim quo 
+      <!--219.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 115-v b -->
+               <lb ed="#V" n="66"/>nec paiter nec paternitas fundantur super genuisse: quamuis nullus sit 
+      <lb ed="#V" n="67"/>piter aut patrnitas que non genuerit. Eodem m o dico de filiatione quod 
+      <lb ed="#V" n="68"/>non fundatur super genitum esse: sed omnis filius vel filiatiso quod pro eodem 
+      <lb ed="#V" n="69"/>nunc accipio genitus est.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e981">
+      ⁋ Ad rationem de 3o modo dico quod non omnis 
+      re<lb ed="#V" n="70" break="no"/>latio dependet in esse a suo termino quamuis aliqua dependeant 
+      <lb ed="#V" n="71"/>vt relationes creaturarum ad deum et causatorum a suis causis a 
+      qui<lb ed="#V" n="72" break="no"/>bus ipsa causata: que vtique sunt ipse relationes dependent.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e990">
+      ⁋ 
+      Con<lb ed="#V" n="73" break="no"/>tra istud arguit iste doctor primo sic. non magis dependet res 
+      <lb ed="#V" n="74"/>in intelligi quam in esse. quod patet. quia intellectus praescindit rem a mul 
+      <lb ed="#V" n="75"/>tis dependentiis que ipsam consequuntur in esse. Unde lapidem potest 
+      <lb ed="#V" n="76"/>concipere absque dependentia ad deum: quamuis in essendo a tali 
+      de<lb ed="#V" n="77" break="no"/>pendentia lapis absolui non possit: sed intellectus non potest 
+      praescin<lb ed="#V" n="78" break="no"/>dere relationem a termino: cum relatiua sint simul naturali 
+      intelli<lb ed="#V" n="79" break="no"/>gentia. ergo etc.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e1008">
+      ⁋ 2o nulla res potest esse sine eo quod est de quidita 
+      <lb ed="#V" n="80"/>te et diffinitione ipsius: sed terminus est de quiditatiua ratione 
+      <lb ed="#V" n="81"/>seu diffinitione relationis. ergo nulla relatio potest esse in rerum 
+      <lb ed="#V" n="82"/>naturam quin etiam simul existat terminus eius.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e1018">
+      ⁋ Ad primum 
+      dicendu<lb ed="#V" n="83" break="no"/>quod minor accepta in isto sensu: quod intellectus non potest 
+      intelli<lb ed="#V" n="84" break="no"/>gere relactionem non intellecto termino: sicut accipi oportet ad propo 
+      <lb ed="#V" n="85"/>situm: ipsa vtique est falsa. et similiter propositio que assumit ad eius 
+      proba<lb ed="#V" n="86" break="no"/>tionem: et licet aliquando allegetur tanquam dicta a philosopho in praedicamentis: 
+      <lb ed="#V" n="87"/>ipsam tamen non ponit philosophus: nec aliquam sibi equivalentem: sed bene 
+      di<lb ed="#V" n="88" break="no"/>cit quod videntur quadam relatiua esse simul nam: et postea dicitur: quaedam 
+      <lb ed="#V" n="89"/>etiam non esse simul nam quod autem naturali intelligentia sint simul: 
+      <lb ed="#V" n="90"/>non dicit. Et si illud verbum sic exponeretur na id est naturali 
+      intelli<lb ed="#V" n="91" break="no"/>gentia exportio esset ad placitum exponentis et non ad mentem philosophi 
+      <lb ed="#V" n="92"/>vt ibi patet. et tamen hoc esset contra arguentem. cum. P. dicat non omnia 
+      re<lb ed="#V" n="93" break="no"/>latiua esse simul nam: et per consequens nec naturali intelligentia secundum il 
+      <lb ed="#V" n="94"/>lum modum exponendi. Dico ergo quod vnum relatiuum et vna 
+      rela<lb ed="#V" n="95" break="no"/>potest intelligi tam de intellectione simplici: quam etiam aliqua com 
+      <lb ed="#V" n="96"/>plexa: non intellecto correlatiuo: sed non potest intelligi esse 
+      re<lb ed="#V" n="97" break="no"/>latiuum secundum aliquam speciem relatiuorum distincte et determinate 
+      <lb ed="#V" n="98"/>non intellecto correlatiuo. verbi gratia simile vtique potest cogno 
+      <lb ed="#V" n="99"/>sci non cognito eo cui est simile. sed simile non potest cognosci esse 
+      <lb ed="#V" n="100"/>simile nisi cognoscatur cui est simile: et hec est intentio philosophi. cum 
+      <lb ed="#V" n="101"/>ait: quod qui diffinite cognoscit vnum relatiuorum diffinite 
+      co<lb ed="#V" n="102" break="no"/>gnoscit reliquum: sicut patet. ait enim palam itaque ex hoc est. Si ni 
+      <lb ed="#V" n="103"/>nouit hoc quidem aliquid: quia ad aliquid est et illud nouit ad quod 
+      <lb ed="#V" n="104"/>quodammo se habet. et post exemplificat. dicens vt hic. Siquis noue 
+      <lb ed="#V" n="105"/>rit diffinite: quia est duplum: et cuius est duplum mox diffinite 
+      <lb ed="#V" n="106"/>nouerit etc. et sic de singulis exemplificat semper dicendo quod si 
+      <lb ed="#V" n="107"/>quis nouerit hoc. verbi gratia. lapidem hunc vel lignum: quia est 
+      du<lb ed="#V" n="108" break="no"/>plum etc. quamuis nec istud sit verum in omnibus. Nam quis posset 
+      <lb ed="#V" n="109"/>cognoscere quod iste calor qui nunc est et prius non erat est causatus:  
+      <lb ed="#V" n="110"/>et tamen ignorare a qua causa est causatus: et sic de multis effecti 
+      <lb ed="#V" n="111"/>bus aliorum quorum causas ignoramus: et tamen scimus quod sunt effe 
+      <lb ed="#V" n="112"/>ctus.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e1086">
+      ⁋ Ad 2m accipiendo quiditatem pro ratione dicente quid 
+      <lb ed="#V" n="113"/>est siue pro diffinitione sicut ipsi videntur intelligere in sua 
+      <lb ed="#V" n="114"/>minore. primo dico quod maior non est vera nisi de diffinitione 
+      dicen<lb ed="#V" n="115" break="no"/>te quid est res: siue qua respondetur ad quaestionem factam de re per no 
+      <lb ed="#V" n="116"/>men demonstratiuum: dicendo quid est hoc: et in qua non ponitur 
+      <lb ed="#V" n="117"/>aliquis terminus importans aliquid extrinsecum ipsi rei. Et istud 
+      <lb ed="#V" n="118"/>patet: quoniam si diffiniatur ignitiuum diffinitione dicente quid nomins. 
+      Di<lb ed="#V" n="119" break="no"/>cet quod est aliquid potens ignem producere. Et constat quod 
+      igni<lb ed="#V" n="120" break="no"/>tiuum est et nullus ignis adhuc est: cuius est productiuus: et sic de 
+      <lb ed="#V" n="121"/>multis posset exemplum poni. Rursum si in diffinitione aliqua 
+      po<lb ed="#V" n="122" break="no"/>natur extrinsecum idem patet. cum nihil prohibeat sine eo quod non est 
+      <lb ed="#V" n="123"/>intrinsecum sibi rem esse. quamuis non sine quolibet: quia non sine deo. 
+      <lb ed="#V" n="124"/>ipse autem non ponitur in huiusmodi difinitionibus. sic ergo patet quod illa maior non 
+      <lb ed="#V" n="125"/>est vera nisi in sensu dato: sed in eodem sensu minor est falsa. quod 
+      <lb ed="#V" n="126"/>de aliquo relatiuo si interrogetur dicendo quid est hoc demonstrata re 
+      <lb ed="#V" n="127"/>ipsa relatiua. non respondetur diffinitio in qua potesitur terminus ad quem 
+      <lb ed="#V" n="128"/>dicitur. Unde siquis quarat quid est hoc demonstrato aliquo homine 
+      <lb ed="#V" n="129"/>patre: non respondet aliqua diffinitio in qua ponitur filius: quamuis si de 
+      <lb ed="#V" n="130"/>ipso nomine relatiuo significatiue stante quaeratur. dicendo quid est 
+      <!--220.xml-->
+      <pb ed="#V" n="116-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>pater. Respondeatur diffinitio in qua ponitur filius: et ex hoc patet quod il 
+      <lb ed="#V" n="2"/>la non est diffinitio dicens quid rei de qua dictum est.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e1138">
+      ⁋ Solustiones quas 
+      <lb ed="#V" n="3"/>dantur ad rationes probantes istam conclusionem non valent. Prima quidem non 
+      <lb ed="#V" n="4"/>quando cum dicitur circunscripta operatione anime aliquis est pater vel do 
+      <lb ed="#V" n="5"/>minus fundamentaliter vel substantiue et in potentia propinquam. aut 
+      <lb ed="#V" n="6"/>intelligitur quod sit actualiter dominus: ita quod contingat vere enunciare 
+      <lb ed="#V" n="7"/>de inesse: quod est dominus. Et tunc sequitur quod etiam relatiue est dominus. cum 
+      <lb ed="#V" n="8"/>impossibile sit aliquem esse dominundum aut patrem nisi sit pater filii aut dominus 
+      <lb ed="#V" n="9"/>serui. Unde manifesta contradictio implicatur cum dicitur aliquem esst 
+      <lb ed="#V" n="10"/>actualiter dominunum et non relatiue dominundum. Utrum autem cum hoc ipse sit 
+      <lb ed="#V" n="11"/>in potentia vt intelligatur et intellectus circa ipsum aliquid 
+      fabri<lb ed="#V" n="12" break="no"/>cet vel non: nihil ad propositum: aut 2o intelligitur quod sit fundamen 
+      <lb ed="#V" n="13"/>taliter pliter id est habens fundamentum quo potest fundare paternitatem: et 
+      <lb ed="#V" n="14"/>quod ita est in potentia propinquam paiter: quod tamen non est actu paiter: ita quod de 
+      in<lb ed="#V" n="15" break="no"/>esse contingat vere dicere ipsum esse patrem. et tunc sequitur quod 
+      <lb ed="#V" n="16"/>hec de inesse et de praeterito est falsa. deus fuit ab eterno paiter: et 
+      <lb ed="#V" n="17"/>deus fuit ab eterno personaliter distictus a filio. Ex quo sequitur quod 
+      <lb ed="#V" n="18"/>deus non fuit ab eterno paiter: sed potuit esse pater. nec ab eterno 
+      <lb ed="#V" n="19"/>fuit personaliter distinctus a filio: sed potuit esse distinctus: quorum 
+      <lb ed="#V" n="20"/>vtrumque est hereticum manifeste. Item quod res antequam 
+      apphen<lb ed="#V" n="21" break="no"/>dantur ab anima non sunt nec fuerunt distincte: quamuis potuerunt 
+      <lb ed="#V" n="22"/>esse distincte: et per consequens non fuit nec esse potuit sine oporitione 
+      <lb ed="#V" n="23"/>anime aliqua multitudo rerum: vt supra arguebatur: quod est constat 
+      <lb ed="#V" n="24"/>esse falsissimum.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e1188">
+      ⁋ 2a quoque solutio statim refellit: quia esto quod 
+      <lb ed="#V" n="25"/>intellectus ille enuncians: tunc reduceret habitudinem domi 
+      <lb ed="#V" n="26"/>nii vel patrnitatis ad actum: causando scilicet illud iudicium obiectiuum: 
+      <lb ed="#V" n="27"/>quod tamen falsum est: nullo tamen modo apparet esse possibile: quod tunc per 
+      <lb ed="#V" n="28"/>actum anime fiat quod ab eterno vel antequam omnia consideraret: 
+      fue<lb ed="#V" n="29" break="no"/>rit tale iudicium obiectiuum: et per consequens relatio: nunc autem proba 
+      <lb ed="#V" n="30"/>tum est quod antequam anima consideraret: deus fuit pater: et pater fuit 
+      <lb ed="#V" n="31"/>distinctus a filio. et multa alia a deo a inter se. quare nullum 
+      <lb ed="#V" n="32"/>est illius solutionis refugium.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e1208">
+      ⁋ Ad dicta alterius doctoris. Ad  
+      <lb ed="#V" n="33"/>primam respondeo conformiter ad dicta statim in vna solutione quod 
+      <lb ed="#V" n="34"/>illa minor est falsa. Ad probationem cum dicitur: quod tunc quis 
+      pos<lb ed="#V" n="35" break="no"/>set scire sortem esse similem. et tamen dubitare et ignorare: an sit 
+      <lb ed="#V" n="36"/>alicui similis: nego consequentiam: quia non sequitur aliquis cognoscit 
+      <lb ed="#V" n="37"/>sortem et similitudine eius. ergo cognoscit sortem esse similem. exemplum 
+      <lb ed="#V" n="38"/>constat quod quicumque videt intuitiue vel cognoscit a. albedi 
+      <lb ed="#V" n="39"/>nem: videt etiam accidens quod est a. et tamen non quicumque videt et con 
+      <lb ed="#V" n="40"/>gnoscit a. albedinem et a. accidens cognoscit albedinem esse acci 
+      <lb ed="#V" n="41"/>dens. patet in rusticis et idiotis. Item si corpus duorum cubitorum 
+      <lb ed="#V" n="42"/>videatur a longe constat quod quicumque videt vel cognoscit illam 
+      <lb ed="#V" n="43"/>magnitudinem. cognoscit est bicubitum: et tamen non quilibet talis 
+      <lb ed="#V" n="44"/>cognoscit illam magnitudinem esse bicubitam: immo potest imagi 
+      <lb ed="#V" n="45"/>nari eam esse cubitum tantum.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e1239">
+      ⁋ Ad 2m dico quod qualitercunque 
+      <lb ed="#V" n="46"/>debeat esse sensus maioris minor est falsa. Dico enim quod simi 
+      <lb ed="#V" n="47"/>tudo sortis ad platonem potest esse sine similitudine platonis ad  
+      <lb ed="#V" n="48"/>sortem. quamuis similitudo sortis ad platonem non possit esse 
+      similitu<lb ed="#V" n="49" break="no"/>do sortis ad platonem sine similitudine platonis ad sortem: sicut 
+      <lb ed="#V" n="50"/>creans potest esse sine creatura: et conseruans sine conseruato: 
+      <lb ed="#V" n="51"/>quameuis nec creans possit esse creans sine creatura: et 
+      conser<lb ed="#V" n="52" break="no"/>uans possit esse conseruans sine conseruato. Similiter pater potest esse 
+      <lb ed="#V" n="53"/>sine filio in creaturis: non tamen potest esse paiter sine filio. sicut autem 
+      <lb ed="#V" n="54"/>ex hoc non potest argui quod creans et conseruans non sit res distin 
+      <lb ed="#V" n="55"/>cta a creatura et conseruato: nec pater a filio: sic in proposito 
+      <lb ed="#V" n="56"/>non potest argui quod vna similitudo non sit ab alia distincta. Quia 
+      <lb ed="#V" n="57"/>autem dicunt hoc esse de intentione philosophi patet falsum esse ex dictis 
+      <lb ed="#V" n="58"/>sui Commentatoris ibidem superius allegatum. Unde sciendum quod 
+      <lb ed="#V" n="59"/>vna et eadem res est aliquid ad se et aliquid ad aliud: immo quali 
+      <lb ed="#V" n="60"/>res sicut probabitur in sequenti. q. et ideo eadem res est aliquo modo 
+      <lb ed="#V" n="61"/>absoluta et aliqua modo relatiua: ad quod distincte significandum 
+      <lb ed="#V" n="62"/>imponuntur nomina et absoluta et relatiua. Absoluta quidem 
+      vo<lb ed="#V" n="63" break="no"/>cantur illa que ipsam significant secundum quod est ad se. Relatius 
+      <lb ed="#V" n="64"/>vero quae secundum quod est ad aliud. Et quia res ipse diuersimode sunt 
+      <lb ed="#V" n="65"/>ad aliud: ideo diuersis habitudinibus casualibus nominum re¬ 
+      <!--220.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 116-r b -->
+               <lb ed="#V" n="66"/>latiuorum significantur esse ad aliud. Item quia sicut pater est paiter ad 
+      fi<lb ed="#V" n="67" break="no"/>lium: ita filius est filius ad patrem: et ita est in omnibus quae sunt ad se 
+      <lb ed="#V" n="68"/>inuicem. Idcirco a vocabula relatiua talia oportet imponi que 
+      <lb ed="#V" n="69"/>significatiue sumpta conuersim dicantur ad seinuicem. et ista 
+      <lb ed="#V" n="70"/>intendit ibi philosophus. ex quibus non potest haberi quod eius intentio sit 
+      <lb ed="#V" n="71"/>res ipsas non esse ad seinuicem et relatiuas: sed potius oppositum 
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e1305">
+               <lb ed="#V" n="72"/>⁋ Quod est confirmatur per Auer. ibidem exponentem verbum philosophi 
+      <lb ed="#V" n="73"/>allega. post longam enim expositionem qua tota fauet proposito conclu 
+      <lb ed="#V" n="74"/>dendo ait. hec igitur est via discenti necessaria vt per eam ambu 
+      <lb ed="#V" n="75"/>let in eo quod non habet nomen ex relatione. valet. vt ponatur ei nomen 
+      <lb ed="#V" n="76"/>significans super relatia ex parte qua fit relatio vtique 
+      equa<lb ed="#V" n="77" break="no"/>lis id est inquantum sunt conuersim relatiua. et cum hoc sit ita. 
+      <lb ed="#V" n="78"/>omnia ergo relatiua cum accipiuntur secundum rectitudinem. id est 
+      <lb ed="#V" n="79"/>ex via qua sunt relatiua: non ex via quae sunt sub alio 
+      praedica<lb ed="#V" n="80" break="no"/>mento: inueniuntur habentia hanc proprietatem: et est quod vnumquodque 
+      <lb ed="#V" n="81"/>redit per conuersionem ad compar suum. Ex his apparet quid 
+      <lb ed="#V" n="82"/>dicendum cum arguitur quod fingimus relatiua: non fingimus autem res. 
+      <lb ed="#V" n="83"/>Nam et si non fingamus res: sed nomina relatiua: fingimus tamen il 
+      <lb ed="#V" n="84"/>a et imponimus rebus relatiuis. Unde et res et nomina dicuntur re 
+      <lb ed="#V" n="85"/>latiua. Res quidem: quia sunt ad aliquid. nomina vero: quia significant 
+      <lb ed="#V" n="86"/>illas: et de eis vel aliquibus stantibus pro eis praedicantur ad aliquid. 
+      <lb ed="#V" n="87"/>Quod vero arguitur quod dici non competit rebus: sed terminis et 
+      <lb ed="#V" n="88"/>signis. Duendum quod verum est sicut his que de aliis enunciantur 
+      <lb ed="#V" n="89"/>seu praedicantur: sed vtique competit eis dici: hoc vel illud: sicut 
+      <lb ed="#V" n="90"/>his de quibus pro eis stantibus aliquid enunciatur. hoc modo ait 
+      <lb ed="#V" n="91"/>Aug. 8. de tri. quod pater dicitur deus ad se: et vnus et magnus et  
+      <lb ed="#V" n="92"/>finaliter filius et. scilicet quod non potest intelligi primo modo. cum iste 
+      ter<lb ed="#V" n="93" break="no"/>minus pater numquam praedicetur ad se. Et similiter pluries loquitur in 
+      <lb ed="#V" n="94"/>libris illis de tri. Isto modo loquitur philosophus quando ait. quod ad aliquid 
+      <lb ed="#V" n="95"/>dicuntur quecumque hoc ipsum quod sunt aliorum dicuntur. quod 
+      maxi<lb ed="#V" n="96" break="no"/>me denotatur propter illud additum aliorum. Si enim absolute 
+      pro<lb ed="#V" n="97" break="no"/>feratur de aliquo quod dicitur: videtur magis intelligi secundum primum 
+      <lb ed="#V" n="98"/>modum: sed cum profertur: quod dicitur tale vel tale vel huius aut illius:  
+      <lb ed="#V" n="99"/>aut cum aliqua tali additione videtur insinuari magis in sen 
+      <lb ed="#V" n="100"/>su 2o quamuis et vtroque modo probatum non inconuenienter vtroque 
+      <lb ed="#V" n="101"/>modo possit intelligi. Unde nec nego quod illa diffinitio de 
+      ter<lb ed="#V" n="102" break="no"/>minis ipsis relatiuis posset intelligi satis conuenienter. 
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e1375">
+               <lb ed="#V" n="103"/>⁋ 2a conclusio est quod nulla relatio 2o modo dicta scilicet vt est aliquid tantum 
+      con<lb ed="#V" n="104" break="no"/>plexe significabile est aliqua res vel entitas. hanc probo pr 
+      <lb ed="#V" n="105"/>mo sic. Dmnis entitas est subiecta vel quantitas vel qualitas vel 
+      <lb ed="#V" n="106"/>aliquid aliud significabile per aliquod praedicamentum. nullum tamen con 
+      <lb ed="#V" n="107"/>plexe significabile est subiecta vel quantitas etc. ergo nullum tale est 
+      en<lb ed="#V" n="108" break="no"/>titas. maior patet secundum omnes. minor etiam patet: quia omnis subiecta vel quanti 
+      <lb ed="#V" n="109"/>tas etc. est significabilis per aliquod praedicametum vel per terminum 
+      <lb ed="#V" n="110"/>praedicamenti. nullum autem tale est coplexum. accipiendo comple 
+      <lb ed="#V" n="111"/>xum quod significat esse vel non esse: seu quod est affirmatio vel 
+      negoio<lb ed="#V" n="112" break="no"/>Unde philosophus in praedicamentis. Eorums inquit. que secundum nullam comple 
+      <lb ed="#V" n="113"/>xionem dicuntur: singulum aut significat subiectam aut quantitatem etc. et 
+      <lb ed="#V" n="114"/>enumeratis omnibus praedicametis et propriis datis exemplis con 
+      <lb ed="#V" n="115"/>cludit: singula autem eorum que dicta sunt ipsa quidem secundum se in 
+      <lb ed="#V" n="116"/>nulla affirmatione dicunt etc.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e1408">
+      ⁋ Confirmatur per philosophum 6 
+      <lb ed="#V" n="117"/>meta. vbi de ente quod est verum et non est nisi compositio vel 
+      diui<lb ed="#V" n="118" break="no"/>sio id est propositio affirmatiua vel negatiua: dicit quod est paetio mentis 
+      <lb ed="#V" n="119"/>et non extra ens quod est extra animam quod est vel quid est id est 
+      <lb ed="#V" n="120"/>subiecta vel quantum vel quale etc. ostendit entem aliquam naturam. vbi 
+      <lb ed="#V" n="121"/>Commen. ait. quod illud quod est in cognitione ex hoc ente est aut 
+      <lb ed="#V" n="122"/>compositio aut diuisio: absque eo quod sit extra animam ens quod differt 
+      <lb ed="#V" n="123"/>ab isto quod est in re: et est illud quod significat aut quid aut quale 
+      <lb ed="#V" n="124"/>aut quantum aut aliquid continuum cum alio. et hec sunt cetera 
+      pre<lb ed="#V" n="125" break="no"/>dicamenta. Si ergo complexum non significat aliquam entitatem ab 
+      <lb ed="#V" n="126"/>his que significant per praedicamenta. et omnis entitas significabilis 
+      <lb ed="#V" n="127"/>per praedicamenta est incomplexe significabilis. ergo nullum tantum comple 
+      <lb ed="#V" n="128"/>xe significabile est entitas.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e1437">
+      ⁋ 2o sumatur relo sortes ad plat. isto 
+      <lb ed="#V" n="129"/>modo dicta quae sort. est pater platonis. valet quod sortes genuit 
+      pla<lb ed="#V" n="130" break="no"/>tonem qui superest: si sortes genuit platonem: significatiue 
+      <!--221.xml-->
+      <pb ed="#V" n="116-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>sumendo totum istud. est aliqua entitas: aut illa est deitas 
+      <lb ed="#V" n="2"/>aut creatura: aut deitas et creatura: aut aliqua entitas quae 
+      <lb ed="#V" n="3"/>nec est deitas nec creatura: nec vtraque simul. Ultimum 
+      di<lb ed="#V" n="4" break="no"/>ci non potest vtpote hereticum: iuxta illud quod in symbolo 
+      profi<lb ed="#V" n="5" break="no"/>temur: factorem visibilium omnium et inuisibilium. omne ergo 
+      visi<lb ed="#V" n="6" break="no"/>bile et inuisibile quod non est deus est factum a deo. Nec primum 
+      <lb ed="#V" n="7"/>potest dici: constat: quia cum deitas: et omne quod est deitas semper 
+      <lb ed="#V" n="8"/>fuerit. ergo sortes genuit platone semper fuit. et per consequens antequam sort. vel 
+      <lb ed="#V" n="9"/>plao fuerit: et si sic: tunc ista fuisset vera si fuisset sortes genuit 
+      <lb ed="#V" n="10"/>platonem. Nec 2m vel 3m potest dici: quia posito quod postquam sortes go 
+      <lb ed="#V" n="11"/>nuit platonem vterque et omnis creatura que nunc est desinat 
+      <lb ed="#V" n="12"/>esse: adhuc si formaretur ista propositio: sortes genuit 
+      plato<lb ed="#V" n="13" break="no"/>nem esset vera.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e1479">
+      ⁋ Praeterea cum multe propositiones sint vere necesse: 
+      <lb ed="#V" n="14"/>sicut multe ypothetice. ac etiam cathegorice negatiue 
+      for<lb ed="#V" n="15" break="no"/>mate de creaturis: si sua significata totalia essent 
+      entita<lb ed="#V" n="16" break="no"/>tes alique sequeretur quod essent multe entitates alie a deo 
+      <lb ed="#V" n="17"/>que essent necesse esse: quod est falsum. Demum quod solum 
+      suffice<lb ed="#V" n="18" break="no"/>re debet: cuilibet apparet quod illa propositio qua dicitur aliqua entitas est sortis 
+      <lb ed="#V" n="19"/>genuit platonem est penitus inintelligibilis si hoc totum 
+      praedi<lb ed="#V" n="20" break="no"/>catum. sortes genuit platonem suppionat personaliter et significatiue 
+      <lb ed="#V" n="21"/>sicut oportet in proposito. Ex hac conclusione patet quod sortes genuisse platonem 
+      <lb ed="#V" n="22"/>vel fuisse genitorem platonis: aut etiam sortem esse patrem 
+      pla<lb ed="#V" n="23" break="no"/>tonis: non est aliqua entitas: nisi huiusmodi dicta sumerentur 
+      materiali<lb ed="#V" n="24" break="no"/>ter vel simpliciter: et eodem modo. nec sortem esse animal: nec deum esse 
+      <lb ed="#V" n="25"/>deum: nec aliquid eiusmodi significabile complexem tantum: est 
+      <lb ed="#V" n="26"/>entitas aliqua: vt per praedicta probatur.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e1510">
+      ⁋ Contra istam conclusionem 
+      <lb ed="#V" n="27"/>potest argui. primo sic. omne verum est aliqua entitas. sortem genuisse 
+      <lb ed="#V" n="28"/>platonem est verum. ponatur sic esse. ergo sortem genuisse platonem 
+      <lb ed="#V" n="29"/>est aliqua entitas.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e1520">
+      ⁋ 2o Aug. de fide ad petrus dicit quod aliud est 
+      <lb ed="#V" n="30"/>genuisse quam natum esse: aliudque procedere quam genuisse: et con 
+      <lb ed="#V" n="31"/>stat quod isti infiniti sumuntur verbaliter: et per consequens complexe: ac 
+      <lb ed="#V" n="32"/>si diceretur: aliud est aliquem genuisse quam natum esse etc. sed omne 
+      <lb ed="#V" n="33"/>quod est aliud ab alio est aliqua entitas secundum se. nam purum 
+      nihi<lb ed="#V" n="34" break="no"/>non est aliud ab ente: nec etiam a non ente.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e1533">
+      ⁋ Ad primum neganda 
+      <lb ed="#V" n="35"/>est maior capiendo verum pro enunciabili per propositionem veram: 
+      <lb ed="#V" n="36"/>sicut accipitur in proposito. Si vero accipiatur verum secundum quod con 
+      <lb ed="#V" n="37"/>sueuit dici quod veritas est rei entitas: vt cum dicimus etiam 
+      <lb ed="#V" n="38"/>hoc est verum aurum vel verum argentum. sic maior potest 
+      concedi<lb ed="#V" n="39" break="no"/>sed minor est neganda.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e1546">
+      ⁋ Ad 2m sicut fuit tactum in prima. quod 
+      <lb ed="#V" n="40"/>plogi. hec nomina ens res. et similiter aliquid aliquando accipiuntur 
+      communis<lb ed="#V" n="41" break="no"/>sime vt quodlibet significabile complexe vel incomplexe dicitur res 
+      <lb ed="#V" n="42"/>vel aliquid: et sic etiam quod non est aliqua entitas aliquando dicitur res 
+      <lb ed="#V" n="43"/>et aliquid. Unde 2o de generatione in io capitulo quia vero sunt quedam 
+      <lb ed="#V" n="44"/>generabilia vbi nostra translatio habet: hec quedam enim ex 
+      neces<lb ed="#V" n="45" break="no"/>sitate sunt vt eterna. Alia translatio habet: quedam res existentes 
+      <lb ed="#V" n="46"/>sunt necessario: et quedam non existentes necessario. et de istis statim 
+      <lb ed="#V" n="47"/>subditur. has vero impossibile est esse existentes. et Commentatoris. 
+      ibi<lb ed="#V" n="48" break="no"/>dem res inquit inueniuntur tribus modis. Quedam enim sunt 
+      <lb ed="#V" n="49"/>semper: et quedam numquam: et quedam in aliquo tempore sunt et in 
+      ali<lb ed="#V" n="50" break="no"/>quo non. Simile enim dicit primo celi. Constat autem quod res non 
+      <lb ed="#V" n="51"/>existentes et impossibiles esse non sunt aliqua entitates. Similiter est 
+      <lb ed="#V" n="52"/>de hoc nomine aliquid. Nam 5o physi. dicitur quod omnis mutatio 
+      <lb ed="#V" n="53"/>est ex quodam in quoddam. Et translatio commenti habet de aliquo 
+      <lb ed="#V" n="54"/>in aliquid. et Greg. 2o mora. mutari inquit ex alio in aliud  
+      <lb ed="#V" n="55"/>re est. et tamen 5o physi. dicitur quod aliquid mutatur ex non esse in 
+      <lb ed="#V" n="56"/>esse: et aliquid econtra. ergo etiam non esse significatur per has 
+      <lb ed="#V" n="57"/>dictiones aliquid et aliud et quoddam: et ideo Commenta. ibi 
+      <lb ed="#V" n="58"/>dicit quod hoc nomen aliquid dicitur ibi simpliciter de esse et non 
+      <lb ed="#V" n="59"/>esse: aut de affirmatione et negatione. id est de eo quod 
+      signi<lb ed="#V" n="60" break="no"/>ficatur per affirmationem et negationem. Item aug. in de gen. 
+      <lb ed="#V" n="61"/>ad litteram. imperfectio ait. quod aliud est lux aliud tenebre: et 
+      <lb ed="#V" n="62"/>tamen in pluribus aliis locis: et ibidem etiam contra manicheos 
+      di<lb ed="#V" n="63" break="no"/>cit: quod tenebre non sunt alique entitates: et ita frequenter 
+      <lb ed="#V" n="64"/>auctoritas sancti et philosophi vtuntur his vocabulis res aliquid 
+      <lb ed="#V" n="65"/>aliud: etiam pro his que non sunt alique entitates: et ideo di¬ 
+      <!--221.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 116-v b -->
+               <lb ed="#V" n="66"/>cit Ansel. de casu dyaboli. quod multa dicuntur aliquid secundum 
+      for<lb ed="#V" n="67" break="no"/>mam loquendi que non sunt aliquid: quoniam sic loquimur de 
+      <lb ed="#V" n="68"/>eis sicut de rebus existentibus. Et idem sententialiter 
+      po<lb ed="#V" n="69" break="no"/>nit Aug. ypontonim. responsione prima in fine. sic in proposito dico 
+      <lb ed="#V" n="70"/>quod Aug. dicit aliud esse genuisse etc. non quia sit alia entitas: 
+      <lb ed="#V" n="71"/>sed quia aliud significabile. aliud enim significatur cum dicimus 
+      <lb ed="#V" n="72"/>aliquem genuisse quam cum dicimus aliquem natum esse. Sic est 
+      <lb ed="#V" n="73"/>ono de trini. dicit quod <quote xml:id="grvnZZ-ed1e72-Qd1e1628" source="http://scta.info/resource/adt-l7-d1e899" synch="221-236">aliud est deo esse aliud patrem vel deum 
+        <lb ed="#V" n="74"/>esse.</quote> Et constat quod non est alia entitas deum esse: et alia 
+      do<lb ed="#V" n="75" break="no"/>minum esse vel patrem esse.
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e1636">
+      ⁋ 3a conclusio scilicet quod aliqua 
+      rela<lb ed="#V" n="76" break="no"/>tio 3o modo sumpta relatione. est vna res extra animam. 
+      <lb ed="#V" n="77"/>hoc faciliter probatur. Nam quocumque aliquod est formaliter 
+      <lb ed="#V" n="78"/>tale quale est aliud ipsum est similitudo et relatio. sed aliqua 
+      <lb ed="#V" n="79"/>res extra animam actualiter existens: et ab eius operatione 
+      in<lb ed="#V" n="80" break="no"/>dependens. est illud quo aliquid formaliter est tale quale 
+      <lb ed="#V" n="81"/>est aliud. ergo etc. maior patet. Nam hoc est esse simile quod est 
+      <lb ed="#V" n="82"/>esse tale quale est aliud. ergo quocumque est tale ipsum est 
+      si<lb ed="#V" n="83" break="no"/>militudo. et per consequens relatio. Minor probatur. ex eo quod aliquid  
+      <lb ed="#V" n="84"/>per qualitatem. verbi gratia albedinem extra animam existentem 
+      <lb ed="#V" n="85"/>actualiter et ab eius operatione penitus independentem 
+      <lb ed="#V" n="86"/>est tale quale est aliud. Nam est album sicut et aliud est 
+      al<lb ed="#V" n="87" break="no"/>bum. Aduertendum est autem quod sicut quamuis quorumdam relatiuo 
+      <lb ed="#V" n="88"/>rum sint relationes hoc modo sumpte quae sunt res distincte ab eis: illisque 
+      <lb ed="#V" n="89"/>inherentes. sicut simili similitudo: et scienti scientia: et amor amanti. et sic 
+      <lb ed="#V" n="90"/>de pluribus: ita quod abstractum relatiui et concretum supponunt pro 
+      <lb ed="#V" n="91"/>rebus diuersis. vt patet in praemissis exemplis. Non omnium tamen talium 
+      <lb ed="#V" n="92"/>relatiuorum sunt relationes isto modo: sicut patet de eodem et distin 
+      <lb ed="#V" n="93"/>cto contrario creatore et creatura: patre et filio a multis aliis. Qoniam 
+      <lb ed="#V" n="94"/>abstracta talium non supponunt pro aliquibus rebus inherentibus his 
+      <lb ed="#V" n="95"/>pro quibus concreta ipsa supponunt: sicut probabitur in sequenti q. et 
+      <lb ed="#V" n="96"/>ideo cum dicitur quod pater est plaiter paternitate: vel filius est filius 
+      filiatio<lb ed="#V" n="97" break="no"/>ne: aut causatiuum est causatiuum causabilitate: et contrarium est contrarium 
+      <lb ed="#V" n="98"/>perietate. et similiter in aliis sumenda sunt talia abstracta vt equis 
+      <lb ed="#V" n="99"/>ualent complexis significantibus relationes 2o modo sumptas. vt sit 
+      sen<lb ed="#V" n="100" break="no"/>sus talium. prater est pater. quia genuit: filius est filius: quia est genitus: 
+      <lb ed="#V" n="101"/>causatiuum est causatiuum: quia potest ex nihilo aliquod producere. contrarium 
+      <lb ed="#V" n="102"/>est contrarium: quia maxime distat: et non potest eidem inesse etc. aut 
+      abstra<lb ed="#V" n="103" break="no"/>ctum sumendum est sic quod per ipsum denotetur in tali propositione quod ex 
+      <lb ed="#V" n="104"/>nullo alio relatiuum sit tale: vt sit sensus. pater est pater 
+      paterni<lb ed="#V" n="105" break="no"/>tate id est seipso. sicut dicitur quod deus est deus deitate id est seipso. 
+    </p>
+            <p xml:id="grvnZZ-ed1e72-d1e1704">
+               <lb ed="#V" n="106"/>⁋ Ad argumentum principale questionis responsum est supra. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#Rimini">Gregory of Rimini</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2020-10-03">October 03, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-ae1bsb">Venice 1503</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-03" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="51-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="grvnZZ-ed1e3X"><!-- l1d4q1 -->
+            <head xml:id="grvnZZ-ed1e3X-Hd1e106">Quaestio 1</head>
+            <head xml:id="grvnZZ-ed1e3X-Hd1e109" type="question-title">Utrum haec sit vera Deus genuit Deum</head>
+            <p xml:id="grvnZZ-ed1e3X-d1e112">
+      <!-- beginning of question missing --> 
+      <!-- folio 50v (at 96) and 51r (at 97) missing in manifest -->
+      <!-- next folio appearing is 51v (at 98) and then 52r (at 99) -->
+               <pb ed="#V" n="51-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>vel alium filium. Antecedens enim est verum et consequens falsum. quia nec paiter est 
+      <lb ed="#V" n="2"/>filius nec filius est alius filius a patre: licet sit alius ab eo. Similiter 
+      <lb ed="#V" n="3"/>in creaturis. sequitur enim sol generat. igitur se vel alium. et tamen 
+      <lb ed="#V" n="4"/>non sequitur. sol generat murem. igitur sem murem vel alium murem 
+      <lb ed="#V" n="5"/>Nam vtraque pars consequentis est falsa. Et si dicatur quod quando aliquid sed 
+      <lb ed="#V" n="6"/>tur ad aliud eodem addito vtrobique idem sequitur. Dico quod hoc 
+      <lb ed="#V" n="7"/>non est vniversaliter verum de quolibet addito. Instantia enim est in 
+      diui<lb ed="#V" n="8" break="no"/>nis. Sequitur. filius est a patre. ergo est alius a patre. et tamen non sequitur. fili 
+      <lb ed="#V" n="9"/>est deus a poatre. igitur est alius deus a patre. Antecedens enim est verum vt pate 
+      <lb ed="#V" n="10"/>per <ref xml:id="grvnZZ-ed1e3X-Rd1e146">Aug. 15. de tri.</ref> iuxta principium: et tamen consequens est falsum. In 
+      creatu<lb ed="#V" n="11" break="no"/>ris similiter. Sequitur enim mus est a sole. igitur est aliud a sole: et tamen 
+      <lb ed="#V" n="12"/>non sequitur: mus est a sole quadrupes. igitur est alius a sole quadru 
+      <lb ed="#V" n="13"/>spes. Nam antecedens est verum et consequens falsum. Nam dans formam dat 
+      <lb ed="#V" n="14"/>omnia consequentia ad formam. et ideo regula illa non valet universaliter vbi additum 
+      <lb ed="#V" n="15"/>est: sincathegoreuma sicut per multa posset exempla declarari 
+    </p>
+            <p xml:id="grvnZZ-ed1e3X-d1e161">
+               <lb ed="#V" n="16"/>⁋ Si autem quaeratur de hac. secundum se deus genuit alium deum: an sit vera: 
+      <lb ed="#V" n="17"/>Dico quod si alium sit substantiuum vera est et concedenda. Nam est sensus 
+      <lb ed="#V" n="18"/>quod genuit alium qui est deus. Et hoc roboratur ex dicto saluatoris 
+      <lb ed="#V" n="19"/>domintis. Ego rogaui patonis et alium peraclitum da. vobis. id est alium qui est 
+      <lb ed="#V" n="20"/>peraclitus. Si vero sit adiectiuum. falsa est ex vi sermonis. Nam 
+      <lb ed="#V" n="21"/>semper quando hic terminus alius additur substantivo: siue 
+      abstra<lb ed="#V" n="22" break="no"/>cto siue concreto supponenti pro eodem cum abstracto: aut pro eo 
+      <lb ed="#V" n="23"/>quod non est res distincta: neque rem includit distinctam ab ea pro qua 
+      <lb ed="#V" n="24"/>supponit: eius abstractum notat diuersitatem eius rei pro qua sul 
+      <lb ed="#V" n="25"/>ponit abstractum: et sic notaretur ibi diuersitas deitatis: et deum 
+      <lb ed="#V" n="26"/>genitum esse alium in deitate a deo generante: quod est falsum: Et quia de 
+      <lb ed="#V" n="27"/>virtute sermonis et vsitatius hic terminus alius additus alter 
+      <lb ed="#V" n="28"/>termino ea maxime substantiuo tenetur adiectiue: ideo illa 
+      sim<lb ed="#V" n="29" break="no"/>pliciter est neganda. Et si dicatur quod sicut in ista. deus graesenaiat deum: deus 
+      <lb ed="#V" n="30"/>vtrobique supponit pro supposito praecise: eodem modo in ista. de 
+      <lb ed="#V" n="31"/>generat alium deum: quare sicut prima conceditur: ita 2a debet concedi.
+    </p>
+            <p xml:id="grvnZZ-ed1e3X-d1e198">
+      ⁋ Dico quod 
+      <lb ed="#V" n="32"/>siue ex vsu loquentium propter calumnias hereticorum: siue ex propria 
+      <lb ed="#V" n="33"/>significatione sermonis: talis propositio videtur significare primo aspectu 
+      <lb ed="#V" n="34"/>distinctionem: tam in natura quam in supposito. Si aute ex conditione artetur 
+      <lb ed="#V" n="35"/>ille terminus ad suppositum: et propositio ad significandum alietatem sut 
+      <lb ed="#V" n="36"/>positorum praecise: debet concedi.
+    </p>
+            <p xml:id="grvnZZ-ed1e3X-d1e212">
+      ⁋ Ad 3am dico quod hoc totum. deus prater 
+      <lb ed="#V" n="37"/>potest coniunctim proferri sine interpositione cuiusquam expressa vel 
+      <lb ed="#V" n="38"/>intellecta: vel subintelligendo aliquam interpositionem. Primo modo 
+      <lb ed="#V" n="39"/>dico quod hec est falsa: deus genuit deum qui est deus pater. Et ratio est. quia 
+      <lb ed="#V" n="40"/>deum in praedicato supponit pro persona filiis vt dictum est. Et relatatum 
+      <lb ed="#V" n="41"/>illud qui. immediate sequens supponit pro eodem: hec aut 
+      peni<lb ed="#V" n="42" break="no"/>tus falsa est: filius est deus pater: sicut hec: filius est pater: et ideo alia est con 
+      <lb ed="#V" n="43"/>cedenda scilicet hic genuit deum: qui non est deus pater. 2o autem modo vt in 
+      <lb ed="#V" n="44"/>terponitur hoc totum qui est: vt sit sensus. genuit deum qui est deus qui est pater: 
+      <lb ed="#V" n="45"/>vera est. sed quia hoc non est bene de virtute serndonis: nec in vsu loquen 
+      <lb ed="#V" n="46"/>tium: ideo hec est potius danda: genuit deum qui non est deus piter: nec tamen se 
+      <lb ed="#V" n="47"/>quitur quod sunt plures dii: quialibet filius non sit deus pater: est tamen deus qui est pater 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

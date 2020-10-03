@@ -1,0 +1,1639 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 4</title>
+            <author ref="#Rimini">Gregory of Rimini</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 4</title>
+               <date when="2020-10-03">October 03, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-ae1bsb">Venice 1503</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-03" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="153-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="grvnZZ-ed1e97"><!-- l1d42-44q4 -->
+            <head xml:id="grvnZZ-ed1e97-Hd1e106">Quaestio 4</head>
+            <head xml:id="grvnZZ-ed1e97-Hd1e109" type="question-title">Utrum Deus per suam infinitam potentiam possit producere 
+      effectum aliquem actu infinitum</head>
+            <p xml:id="grvnZZ-ed1e97-d1e112">
+               <lb ed="#V" n="44"/>⁋ Distinctionis. XLII. XLIII. et. XLIIII. Quaestio IIII; 
+      <lb ed="#V" n="45"/>ULtimo circa istam materiam quaero consequenter. 
+      <lb ed="#V" n="46"/>Utrum deus per suam infinitam 
+      <lb ed="#V" n="47"/>potentiam posset producere effectum aliquem actu 
+      <lb ed="#V" n="48"/>infinitum:
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e125">
+      Et arguo quod non: quia si posset: aut 
+      <lb ed="#V" n="49"/>sposset producere infinitum secundum multitudinem 
+      <lb ed="#V" n="50"/> aut secundum magnitudinem: aut secundum qualitatem vel 
+      <lb ed="#V" n="51"/>perfectionem intensiuam: patet: quia non aliis modis imaginari 
+      pos<lb ed="#V" n="52" break="no"/>sumus infinitum in creaturis. nullo autem istorum modorum potest deus 
+      <lb ed="#V" n="53"/>producereffinitum ergo etc. probatur minor quantum ad singulas partes. Et 
+      <lb ed="#V" n="54"/>primo quod non posset producere multitudinem infinitam. quia si produce 
+      <lb ed="#V" n="55"/>ret aliquam multitudinem infinitam produceret seipam: quod est impossibile 
+      <lb ed="#V" n="56"/>consequentia probatur. quia quaecumque multitudo infinita producta esset: illa esset 
+      <lb ed="#V" n="57"/>entitates infinite: extra infinitas autem entitates non est aliqua 
+      enti<lb ed="#V" n="58" break="no"/>tas: et ideo omnis entitas comprehenderetur infra multitudinem illam infinitam 
+      <lb ed="#V" n="59"/>productorum. Et per consequens deus ipse esset de numero productorum. ac per 
+      <lb ed="#V" n="60"/>pero productus. Ista ratio confirmatur per modum quo philosophus primo celi probat 
+      <lb ed="#V" n="61"/>mpossibile esse quod sit aliquod corpus infinitum quod sit compositum ex corporibus 
+      <lb ed="#V" n="62"/>finitis specie. sed infinitis secundum indiuidua. Ait enim quod vel illa omnia ex 
+      <lb ed="#V" n="63"/>quibus compositioeretur vel saltem infinita ex eis essent grauia. et tunc sequeretur 
+      <lb ed="#V" n="64"/>quod nullum esset corpus leue: vel essent leuia: et tunc nullum corpus 
+      <lb ed="#V" n="65"/>esset graue. vbi dicit Commenta. quod hoc sequitur ex postione eorum quod sint 
+      <!--295.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 153-v b -->
+               <lb ed="#V" n="66"/>infinita et quod nihil reparitur extra ea. ita in propositea: Et est aliter potest argui: 
+      <lb ed="#V" n="67"/>qui si produceret infinitaum multitudinem indiuiduorum alicuius speciei. 
+      <lb ed="#V" n="68"/>verbi gratia. infinitas animas: omnis entitas esset anima. et si infinitos 
+      lapi<lb ed="#V" n="69" break="no"/>des omnis entitas esset lapis: et per consequens est deus esset lapis.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e179">
+      ⁋ 2o 
+      pro<lb ed="#V" n="70" break="no"/>bo quod non potest producere magnitudinem infinitam seu corpus infinitum 
+      <lb ed="#V" n="71"/>qui vel illud esset immobile secundum locum vel mobile. Non primum: tum 
+      <lb ed="#V" n="72"/>qui omne corpus est mobile: vt patet ex primo celi. Tum quia qua ratione posset 
+      <lb ed="#V" n="73"/>deus verum corpus infinitum producere: posset etiam in qualibet spece quae non deter 
+      <lb ed="#V" n="74"/>minat sibi maximam quantitatem possibilem: sicut ignis et celum et mul 
+      <lb ed="#V" n="75"/>ta alia vt in 15o. dicens probatum est. Si autem produceret ignem infin. il 
+      <lb ed="#V" n="76"/>le cum esset eiusdem speciei cum finito esset mobilis sicut finitus: et 
+      si<lb ed="#V" n="77" break="no"/>militer celum infinitum
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e200">
+      ⁋ Confirmatur. quia pars talis corporis finita 
+      <lb ed="#V" n="78"/>vtique esset mobilis: et per consequens est totum: cum eadem sit natura totius et partis 
+      <lb ed="#V" n="79"/>Nec potest dici quod esset mobile. quia nec motu recto. nec motu 
+      <lb ed="#V" n="80"/>circulari: vt demonstrat philosophus primo celi.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e209">
+      ⁋ 3o probo. quod non possit 
+      <lb ed="#V" n="81"/>producere formam intensiue infinitam: quoniam qua ratione vnam et aliam 
+      <lb ed="#V" n="82"/>secundum suam speciem intensibilem et remissibilem: et per consequens grauitatem 
+      <lb ed="#V" n="83"/>nfinitam et calorem infinitum: et similiter alias actiuas et motivas formas. 
+      <lb ed="#V" n="84"/>hoc autem est falsum. quoniam tunc posset esse mutatio de loco 
+      <lb ed="#V" n="85"/>ad locum in instanti: et alteratio de forma contraria in contrariam 
+      <lb ed="#V" n="86"/>quod videtur esse impossibile.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e225">
+               <lb ed="#V" n="87"/>Ad oppositum arguo. quodcumque intellectus humanus potest  
+      <lb ed="#V" n="88"/>cognoscere non esse impossibile fieri deus potest facere: hoc patet: quia deus potest 
+      <lb ed="#V" n="89"/>facere est que non possumus comprehendere. iuxta illud Aug. 3o  
+      <lb ed="#V" n="90"/>eplara ad volusianum. Demus deum aliquid posse quod nos fatea 
+      <lb ed="#V" n="91"/>mur inuestigare non posse: in talibus rebus tota ratio facti est 
+      <lb ed="#V" n="92"/>otentia facientis: sed infinitam magnitudinem et multitudinem: et similir 
+      <lb ed="#V" n="93"/>aliquam formam infinitam intensiue non esse impossibile fieri potest 
+      <lb ed="#V" n="94"/>intellectus huanus cognoscere: cum possit cognoscere in nullo praedi 
+      <lb ed="#V" n="95"/>ctorum esse aliquam repugnantiam vel incompossibilitatem. ergo etc.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e247">
+               <lb ed="#V" n="96"/>In ista quaestione erunt tres articuli. In primo ponentur conclusiones 
+      <lb ed="#V" n="97"/>cum probationibus. In 2o obiectiones contra dicta cum 
+      <lb ed="#V" n="98"/>solutionibus. In 3o specialiter inquiretur. an si esset aliquod corpus actu 
+      <lb ed="#V" n="99"/>infin ipsum posset localiter quacumque virtute moueri.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e258">
+               <lb ed="#V" n="100"/>Quantum ad primum articulum pono tres conclusiones Prima ergo 
+      <lb ed="#V" n="101"/>est: quod deus potest facere aliquam multitudi  
+      <lb ed="#V" n="102"/>nem actu infinitam. hanc probo primo sic. cuiuslibet continui 
+      actua<lb ed="#V" n="103" break="no"/>liter sunt infinite partes. ergo possibile est aliquam multitudinem esse 
+      <lb ed="#V" n="104"/>actu infinitam. Antecedens probatur et auctoritate et ratione. Auctoritate quidem Aug. 
+      <lb ed="#V" n="105"/>2o de li. ariur.o dens Quicquid enim corporis sensu attigitur: iam non vnum 
+      <lb ed="#V" n="106"/>sed multa esse conuincitur: corpus est enim: et ideo habet innumerabiles 
+      <lb ed="#V" n="107"/>partes. Ex quo sequitur. quod omne corpus habet innumerabiles partes. Si aut 
+      <lb ed="#V" n="108"/>inumerabiles. ergo infinitas. Ratione idem patet. Nam constat quod omne con 
+      <lb ed="#V" n="109"/>tinuum habet plures partes: et non tot finitas numero quin plures: et omnes 
+      <lb ed="#V" n="110"/>suas partes actualiter et simul habet. ergo omne continuum simul et actualiter habet par 
+      <lb ed="#V" n="111"/>tes infinitas. Et si dicatur quod continuum habet infinitas in potentia tantum: et 
+      <lb ed="#V" n="112"/>non in actu. quaero an ly in potentio determinet hoc verbum habet. vt sit sen 
+      <lb ed="#V" n="113"/>sus. quod continuum in potentia habet id est potest habere et non habet partes infinitas: ita 
+      <lb ed="#V" n="114"/>quod habere partes infinitas verificetur de continuo tantum in propositioe de possibili. 
+      <lb ed="#V" n="115"/>et non in propositione de inesse: sicut dicimus de aliqua ere quod est in potentia 
+      sta<lb ed="#V" n="116" break="no"/>tua: et non est statua: et patet quod iste sensus est falsus: quia tunc hec non 
+      <lb ed="#V" n="117"/>esset vera: continuum habet plures partes: sed tantum hec: continuum potest habere plures 
+      <lb ed="#V" n="118"/>partes: quod patet falsum satis: et probabitur est in 2o Et consequentia ista patet: quia 
+      <lb ed="#V" n="119"/>si habet plures et non finitas. ergo infinitas. Item Aug. in auctoritate 
+      indu<lb ed="#V" n="120" break="no"/>cta de inesse enunciat quod corpus habet innumerabiles partes. Aut ly 
+      in<lb ed="#V" n="121" break="no"/>potentia determinat ly partes: vt sit sensus: quod continum habet infinitas partes 
+      <lb ed="#V" n="122"/>in potentia id est possibiles: quarum nulla secundum se est vnum hoc aliquid praecisum non fa 
+      <lb ed="#V" n="123"/>ciens cum aliis vnum hoc aliquid: sed omnes vnum hoc aliquid constituunt: ad  
+      <lb ed="#V" n="124"/>ifferentiam partium quantitatis discrete: quarum qualibet secundum se est vnum hoc aliquid: 
+      <lb ed="#V" n="125"/>nec omnes vnum hoc aliquid actu constituut: et ideo non potesles: sed 
+      actua<lb ed="#V" n="126" break="no"/>les partes dicuntur: et hoc sensus verus est: alias continum esset discretum: sed  
+      <lb ed="#V" n="127"/>hoc non tollit veritatem antecedentis. Nam continum sicut actualiter habet plures partes 
+      <lb ed="#V" n="128"/>poiles: sic actualiter habet infinitas partes poles: et per consequens est actualiter 
+      <lb ed="#V" n="129"/>aliqua multitudo partium potentialium.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e326">
+      ⁋ Ex quo patet vlterius principalis 
+      <lb ed="#V" n="130"/>consequentia quia non est magis impossibile simpliciter esse aliquam multibum aliquorum 
+      <!--296.xml-->
+      <pb ed="#V" n="154-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>non facientium vnum per se in actu: quam aliquorum per se facientium vnum. 
+      <lb ed="#V" n="2"/>Quod patet: quia omnis repugnania qua assignaretur in illis. verbi gratia. quod 
+      to<lb ed="#V" n="3" break="no"/>tum esset equale vel minus parte: vel quod infinitum esset minus infinituio aut quod 
+      <lb ed="#V" n="4"/>actualitas existentie repugnet infinito partiali aut aliqua alia quae 
+      <lb ed="#V" n="5"/>ab opinantibus oppositum assignatur: eque apparenter assignaretur in infi 
+      <lb ed="#V" n="6"/>nita multitudinie quae est actualiter partium poelium continui. Unde nulli 
+      <lb ed="#V" n="7"/>potest rationabiliter apparere impossibile esse infinitas animas esse in actu 
+      plus<lb ed="#V" n="8" break="no"/>quam partes continui esse actu infinitas.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e356">
+      ⁋ Confirmatur quia cum deus immediat 
+      <lb ed="#V" n="9"/>se solo quamlibet entitatem posset conseuare se solo sine quaecumque quo non 
+      <lb ed="#V" n="10"/>est de esentia eius: poterit alicuius proportionis quamlibet partem in continuo existen 
+      <lb ed="#V" n="11"/>tem actualiter didere a qualibet alia eiusdem proportonis: quae non est pars 
+      <lb ed="#V" n="12"/>eius: et quamlibet talium consseuare in esse: quo fco erit actualiter multitu 
+      <lb ed="#V" n="13"/>infinita distinctorum non facientium per se verum. Nam tales 
+      proportiona<lb ed="#V" n="14" break="no"/>les partes sunt infinite. vbi gratia. priuma medietas totius: et priuea medie 
+      <lb ed="#V" n="15"/>tas 2oa medietatis. et est priuea medietas medietatis alterius: et 
+      <lb ed="#V" n="16"/>sic consequentur quarum nia est pars alterius.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e376">
+      ⁋ 2o deus posset in instanti 
+      initian<lb ed="#V" n="17" break="no"/>te cuiuslibet partis proportionalis temporis vnius hore producere vrum 
+      <lb ed="#V" n="18"/>angelum: et sic consequentur: et productum conseqeuare. vbi gratia. in primo instanti 
+      ho<lb ed="#V" n="19" break="no"/>re producere vnum: et in instanti primo 2o medietatis sequentis produ 
+      <lb ed="#V" n="20"/>cere alium. Et in instanti primo 2o medietatis illius secunde praecedentis 
+      <lb ed="#V" n="21"/>medietatis alium: et sic consequenter ergo deus potest facere infinitam actu 
+      mul<lb ed="#V" n="22" break="no"/>titudinem angelorum. Antecedens patet: quia nihil impossibile nec aliqua 
+      incompos<lb ed="#V" n="23" break="no"/>sibilia includit: consequentia probat: nam dato casu: in fine seu instanti 
+      <lb ed="#V" n="24"/>terminante totam horam essent simul actu infiniti angeli: sicut in ipsa 
+      <lb ed="#V" n="25"/>hora sunt infinite partes proportionales.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e398">
+      ⁋ 3o ex eo quod ponitur esse 
+      <lb ed="#V" n="26"/>aliqua multitudo actu infinita nulla contradictio implicatur. ergo deus 
+      <lb ed="#V" n="27"/>potest etc. consequentia patet ex dictis supra in pria quaestione de potentia dei. Antecedens 
+      <lb ed="#V" n="28"/>declaratur: ex eo quod infinitas non tollit rationem multitudinis: nec est 
+      <lb ed="#V" n="29"/>aliquid necessario consequens multitudinem. non enim ideo non esset multitudo 
+      <lb ed="#V" n="30"/>aut ei non conueniret aliquid necessario competens multitudini: si 
+      <lb ed="#V" n="31"/>esset aliqua multitudo infinita: nec econverso multitudo tollit rationem 
+      <lb ed="#V" n="32"/>infinitatis: nec aliquid necessario consequens infinitatem.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e416">
+      ⁋ 2a conclusio est: quod 
+      pos<lb ed="#V" n="33" break="no"/>sibile est aliquam magnitudinem esse infinitam seu corpus aliquod esse 
+      <lb ed="#V" n="34"/>infinitum hoc probatur ex eodem. valet quod nulla contradictio implicatur: ex eo quod 
+      <lb ed="#V" n="35"/>ponitur aliquod corpus infinitum: cum infinitas non tollat rationem magnitu 
+      <lb ed="#V" n="36"/>dinis vel eam aliquid necessario consequens nec econverso magnitudo rationem 
+      infi<lb ed="#V" n="37" break="no"/>nitatis. Unde hec nullam incompossibilitatem includunt: sicut est in 
+      sol<lb ed="#V" n="38" break="no"/>uendo rationes opinantium opositum magis deterinabitur.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e432">
+      ⁋ 2o probo quod 
+      <lb ed="#V" n="39"/>deus posset facere corpus infinitum sed longitudinem in vnam partem: et in 
+      <lb ed="#V" n="40"/>haec etiam sequitur quod posset facere in omnes: et quamlibet in infinitum vt sibi placet: 
+      <lb ed="#V" n="41"/>cum non sit vnum magis quam aliud impossibile. Assumptum probo. et sumo 
+      <lb ed="#V" n="42"/>vnum corpus longum palmis decem: et latum vbique palmo vno: con 
+      <lb ed="#V" n="43"/>stat quod in isto sunt partes proportionales infinite secundum modum divisio 
+      <lb ed="#V" n="44"/>nis praetactum in praecedenti conclusione. quarum qualibet secundum dimensionem latitudinis 
+      <lb ed="#V" n="45"/>illius totius est vnius palmi. et per consequens quaelibet equalis cuilibet: quamuis secundum 
+      <lb ed="#V" n="46"/>aliam dimensionem nulla alteri equalis: tunc sic. Possibile est deum 
+      <lb ed="#V" n="47"/>omnes huiusmodi partes diuidere et secundum aliam dimensionem quae sunt equales con 
+      <lb ed="#V" n="48"/>iungere et vnire: ita vt constituant vnam magnitudinem sicut 
+      <lb ed="#V" n="49"/>nunc constituunt. ergo deus potest facere vnum corpus longitudinis 
+      infi<lb ed="#V" n="50" break="no"/>nite in vnam parte. Antecedens non videtur habere dubium apud aliquem 
+      ca<lb ed="#V" n="51" break="no"/>tholicum. consequentia tamen patet: quia tunc tale corpus haberet in longitudinie sua 
+      <lb ed="#V" n="52"/>infinitas partes eiusdem quantitatis scilicet palmalis.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e465">
+      ⁋ 3o ad idem 
+      <lb ed="#V" n="53"/>sic. suppono vnum probatum in i 15o dictin quod in infinitum deus potest 
+      <lb ed="#V" n="54"/>augere magnitudinem. tunc pono quod sint alique 
+      <lb ed="#V" n="55"/>due magnitudines a. et b. constituentes angulum: cuius 
+      <lb ed="#V" n="56"/>basis sit magnitudo. C. et quod quiescentibus b. et c. ma 
+      <lb ed="#V" n="57"/>gnitudo a. tantum eleuetur ex parte qua constituit angulum 
+      <lb ed="#V" n="58"/>cum b. vt sit equidistans ipsi b. totum hoc est possibile 
+      <lb ed="#V" n="59"/>tiam naturaliter. Cum hoc etiam pono quod continue dum eleuatur ma 
+      <lb ed="#V" n="60"/>gnitudo a. deus augeat eam tantum: et similiter b. indirectum 
+      <lb ed="#V" n="61"/>quod concurrant actualiter toto tempore praecedente instans que 
+      <lb ed="#V" n="62"/>primo erunt eque distantes: et hoc patet esse possibile ex sup 
+      <lb ed="#V" n="63"/>positione prius facta. Tunc arguo: hoc casu possibili 
+      <lb ed="#V" n="64"/>posito: erunt ille magnitudines infinite quando erun 
+      <lb ed="#V" n="65"/>eque distantes. ergo deus potest facere magnitudinem infi¬ 
+      <!--296.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 154-r b -->
+               <lb ed="#V" n="66"/>nitam: consequentia patet. Antecedens probo. quia si dicatur quod sint finite: sequitur quod 
+      <lb ed="#V" n="67"/>vel non semper dum a. eleuatur tantum in sua rectitudine augeatur vt 
+      <lb ed="#V" n="68"/>concurrant: quod est contra positum: vel quod quantumcumque modicum a. 
+      de<lb ed="#V" n="69" break="no"/>primeretur versus b. ex parte in qua prius eleuabatur: neutra 
+      <lb ed="#V" n="70"/>crescente concurrerent: quod est contra sensum.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e514">
+      ⁋ 4o potest argui per 
+      <lb ed="#V" n="71"/>modum quo argutum est pro conclusione praecedenti. Nam data aliqua 
+      magni<lb ed="#V" n="72" break="no"/>tudine cuba. potest deus in cuiuslibet partis proportionalis vnius 
+      ho<lb ed="#V" n="73" break="no"/>re instanti initiante: cuilibet lateri illius magnitudinis 
+      adde<lb ed="#V" n="74" break="no"/>re equalem illi magnitudini cubam. qua vnam per se magnitudinem 
+      <lb ed="#V" n="75"/>constituant simul. ergo potest facere deus magnitudinem vndique 
+      <lb ed="#V" n="76"/>infinitam. consequentia patet. quia in instanti terminante horam erit vndique 
+      <lb ed="#V" n="77"/>magnitudo infinita: et antecedens patet.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e532">
+      ⁋ 3a conclusio est: quod deus potest facere 3 
+      <lb ed="#V" n="78"/>aliquam formam. vbi gratia. charitatem: aut aliam quamlibet intensibilem 
+      <lb ed="#V" n="79"/>et remissibilem infinitam intensiue in sua specie. Probatio: quia 
+      si<lb ed="#V" n="80" break="no"/>hoc non sit possibile: aut hoc ideo est. Quia impossibile est aliquid actu 
+      <lb ed="#V" n="81"/>esse infinite perfectum seu perfectio infinita. Aut quia impossibile 
+      <lb ed="#V" n="82"/>est esse aliquam creaturam perfectione infinita: quoniam tunc equeretur 
+      <lb ed="#V" n="83"/>deo in perfectione: et per consequens esset deus: et esset creatura: et sic. 
+      <lb ed="#V" n="84"/>esset deus et non deus: creatura et non creatura. Aut quia impossibile est 
+      <lb ed="#V" n="85"/>simul esse partes infinitas eiusdem: quod tamen oporteret. Aut quia 
+      impos<lb ed="#V" n="86" break="no"/>sibile est aliquid infinite perfectionis esse minus perfectum aliquo 
+      <lb ed="#V" n="87"/>eiusdem rationis: vel partem esse equalem toti: quorum alterum necessario 
+      seque<lb ed="#V" n="88" break="no"/>retur: vt patet: per rationes quae post inducentur contra dicta.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e558">
+      ⁋ hec diuisio 
+      <lb ed="#V" n="89"/>videtur sufficiens: quoniam ex his videntur arguere quicumque contra istam 
+      <lb ed="#V" n="90"/>conclusionem arguunt. Sed peper nullum istorum conclusio est impossibilis. Non enim 
+      <lb ed="#V" n="91"/>propter primum: quia infinitam perfectione esse actu: non est impossibile: 
+      <lb ed="#V" n="92"/>cum deus sit bonitas et perfectio infinita. Ex quo patet quod non 
+      re<lb ed="#V" n="93" break="no"/>pugnant neque sunt incompossibiles actualitas et infinitas: sicut 
+      <lb ed="#V" n="94"/>aliqui pro fundamento sue opinionis assumunt. Nec propter 2m. conclus 
+      <lb ed="#V" n="95"/>est impossibilis: non enim esto quod aliqua charitas sit infinita in 
+      <lb ed="#V" n="96"/>tensiue sequitur quod sit eque perfecta vt deus: quia deus est 
+      infini<lb ed="#V" n="97" break="no"/>ta perfectio simpliciter. charitas autem est perfecuo in graeserie: quia non solum 
+      <lb ed="#V" n="98"/>deus: sed est aliqua perfectio alterius rationis potest esse perfectior: 
+      si<lb ed="#V" n="99" break="no"/>cut subiecta angelica perfectior esset charitate creata infinita: 
+      <lb ed="#V" n="100"/>vt nunc de charitate loquimur: et finita intellectio perfectior 
+      <lb ed="#V" n="101"/>et notior esset nigredine infinita. hanc attestatur Aug. in 
+      <lb ed="#V" n="102"/>lib. de natura et gratia des. Ego quidem sentio: quia et cum fuerit in nobis 
+      <lb ed="#V" n="103"/>tanta iustitia vt ei addi omnino nihil possit: non equabitur 
+      crea<lb ed="#V" n="104" break="no"/>tura creatori. et ly cum. sumitur coniunctionaliter et equivalet illi 
+      <lb ed="#V" n="105"/>communiunctioni si. Nec 3m. quia illud non est impossibile. vt patet de 
+      parti<lb ed="#V" n="106" break="no"/>bus continui. Nec est 4m. quia vel altera pars non est impossibilis: 
+      <lb ed="#V" n="107"/>vel neutra sequitur: sicut patet formando similes argumentationes 
+      <lb ed="#V" n="108"/>de infinitis partibus continui: hoc etiam patebit magis in 
+      soluen<lb ed="#V" n="109" break="no"/>do rationes aliorum.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e606">
+      ⁋ 2o si deus per aliquod tempus. verbi gratia vnam ho 
+      <lb ed="#V" n="110"/>ram continue augeret charitatem: sic tamen quod in priues medietate 
+      to<lb ed="#V" n="111" break="no"/>tius hore crearet charitatem tanti gradus: et in priues medietate 
+      <lb ed="#V" n="112"/>sequentis medietatis crearet equale charitatem ei: quam creauit 
+      <lb ed="#V" n="113"/>in priues medietate totius hore: et iterum in priues medietate 
+      residu<lb ed="#V" n="114" break="no"/>crearet equalem: et sic semper velocitaret suam actionem secundum quamlibet 
+      <lb ed="#V" n="115"/>talium partium proportionalium et quamlibet creaturam consenuaret in fine 
+      <lb ed="#V" n="116"/>hore creata esset charitas actu infinita intensiue. consequentia patet. quia cho 
+      <lb ed="#V" n="117"/>ritas existens in fine hore. haberet infinitas partes equales: sicut in tempore 
+      <lb ed="#V" n="118"/>sue creationis fuissent tunc infinite partes proportionales: sed aten 
+      <lb ed="#V" n="119"/>est possibile. Nam quod in vna tota hora causaret charitatem potest esse 
+      <lb ed="#V" n="120"/>possibile. Item patet quod posset velocitare suam actionem cum agens 
+      <lb ed="#V" n="121"/>creatum hoc possit. vt patet in motibus naturalibus qui sunt velociores 
+      <lb ed="#V" n="122"/>in fine. Item in agentibus voluntariis hoc experimur: quod etiam sempe 
+      <lb ed="#V" n="123"/>posset velocitare suam actionem in duplo iuxta modum dictum est 
+      <lb ed="#V" n="124"/>manifeste cuilibet occurrit: cum nullum sit mimum tempus in quo 
+      <lb ed="#V" n="125"/>possit tantam vel tantam latitudinem charitatis causare. Sed in quam 
+      <lb ed="#V" n="126"/>tolibet minore potest tantam et maiorem causare secundum placitum suum: et per 
+      <lb ed="#V" n="127"/>consequens non apparet: quin antecedens sit totum possibile. Ex quo sequitur quod etiam consequens  
+      <lb ed="#V" n="128"/>quod est principatur conclusio sit possibile et eodem modo probari potest de aliis 
+      for<lb ed="#V" n="129" break="no"/>mis.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e652">
+      ⁋ 3o potest argui sicut argutum est pro praecedentibus conclusionibus. 
+      <lb ed="#V" n="130"/>ponendo quod deus in cuiuslibet partis proportionalis hore secundum di¬ 
+      <!--297.xml-->
+      <pb ed="#V" n="154-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>uisionem praetactam in instanti initiante causaret charitatem tanti 
+      gra<lb ed="#V" n="2" break="no"/>dus seu equalem: et adiungeret priori: quod totum patet possibile et nullam 
+      <lb ed="#V" n="3"/>repugnantiam implicare. Ex quo sequitur quod in fine hore erit cha 
+      <lb ed="#V" n="4"/>ritas actu infinita intensiue propter inclusionem infinitarum partium 
+      <lb ed="#V" n="5"/>equalium: sicut sunt infinite partes proportionales in tempore dato.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e674">
+      ⁋ Ex 
+      <lb ed="#V" n="6"/>dictis est probationibus harum conclusionem sequitur vna conclusio que forsitan 
+      <lb ed="#V" n="7"/>multis primo aspectu apparet mirabilis: tamen vera est et necessaia scilicet quod 
+      pos<lb ed="#V" n="8" break="no"/>sibile est per totum tempus aliquod datum: non esse multitudinem aut 
+      <lb ed="#V" n="9"/>magnitudinem aut formam actu infinitam: et in instanti immediate 
+      <lb ed="#V" n="10"/>terminante tempus illud esse tam multitudinem quam magnitudinem: 
+      <lb ed="#V" n="11"/>vel formam actu infinitam. et tamen in illo instanti nihil praecise primo 
+      <lb ed="#V" n="12"/>causari secundum se totum quod multitudinem aut magnitudine vel 
+      for<lb ed="#V" n="13" break="no"/>mam reddat infinitam aut maiorem. Et de multitudinie patet ex 
+      <lb ed="#V" n="14"/>casu 2a rationis ad primam conclusionem. Nam solum in instantibus initiantibus 
+      <lb ed="#V" n="15"/>partes proportionales pono angelos creari: instans autem termi 
+      <lb ed="#V" n="16"/>nans totam horam nullam partem initialem proportionalem initiat. 
+      <lb ed="#V" n="17"/>Et per eundem modum patet de magnitudine ex quarta ratione 2oa 
+      <lb ed="#V" n="18"/>conclusionis: et de forma ex 3a ratione 3a conclusionis. Item de magnitudinie patet 
+      <lb ed="#V" n="19"/>ex casu posito in 3a ratione 2a conclusionis quoniam ille magnitudines po 
+      <lb ed="#V" n="20"/>nuntur augeri praecise per tempus totum eleuationis a. et quo aucte 
+      <lb ed="#V" n="21"/>in sua rectitudine concurrunt: et per consequens in instanti quo sunt 
+      <lb ed="#V" n="22"/>eque primo distantes nulla magnitudo additur eis. Item de 
+      <lb ed="#V" n="23"/>forma patet ex secunda ratione quoniam in tali intensione continua nul 
+      <lb ed="#V" n="24"/>la pars forme primo acquiritur in instanti. 
+      <lb ed="#V" n="25"/>ontra dicta multipliciter arguo. Et primo quidem generaliter quod 
+      <lb ed="#V" n="26"/>possibile sit esse aliquid partibile primanens actu 
+      <lb ed="#V" n="27"/>infinitum. quia si hoc esset possibile. sequeretur quod esset aliquid prima 
+      <lb ed="#V" n="28"/>nens et successiuum: primanens et non primanens: et cuius omnes partes 
+      <lb ed="#V" n="29"/>actu essent: et non omnes actu essent: que implicant contradictionem. consequentia 
+      <lb ed="#V" n="30"/>probatur. nam exquo illud primanens ponitur actu. constat quod omnes 
+      <lb ed="#V" n="31"/>eius partes sunt actu. et nulla est tantum in potentia: tunc enim non esset 
+      per<lb ed="#V" n="32" break="no"/>manens: sed successiuum. Item exquo illud ponitur infinitum po 
+      <lb ed="#V" n="33"/>nitur successiuum et aliquid eius in potentia. Nam ratio infiniti consistit 
+      <lb ed="#V" n="34"/>in successione et in actu permixto potentie: aliquid enim eius est in 
+      <lb ed="#V" n="35"/>actu et aliquid eius non est in actu: sed in potentia tantum. Unde quicumque 
+      <lb ed="#V" n="36"/>imaginantur aliquod partibile infin necessario figit aspectum super 
+      ali<lb ed="#V" n="37" break="no"/>quid in actu. deinde vero addit aliquid in actu: et sic proceden 
+      <lb ed="#V" n="38"/>do dicit quod caret fine additionis. hoc autem intellectus non attin 
+      <lb ed="#V" n="39"/>git: immo si attingeret iam finiret. Ex quo patet quod id quod mens 
+      <lb ed="#V" n="40"/>concipit per partibile: siue quantum carens omni fine: necessario permiscetur 
+      <lb ed="#V" n="41"/>ex actuali: et non actuali: siue potentiali: illud enim quo dicitur 
+      <lb ed="#V" n="42"/>carere: in actu non est.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e758">
+      ⁋ Confirmatur. quia finis et complementum 
+      <lb ed="#V" n="43"/>et actus idem sunt. ergo concipere aliquid cum caremus finis: est concipere 
+      <lb ed="#V" n="44"/>ipsum cum carentia actus: infinitum autem cum negatione finis concipi 
+      <lb ed="#V" n="45"/>tur: hoc enim est infinitum: quod est quantum carens fine et complemento 
+      <lb ed="#V" n="46"/>et per consequens actu aliqua. huic conueniuntut multa dicta philosophi et 
+      Com<lb ed="#V" n="47" break="no"/>mentatoris qui dicunt quod non oportet intelligere infinitum sicut 
+      ali<lb ed="#V" n="48" break="no"/>quid perfectum: vt hominem vel domum: sed sicut dies et agon. Item 
+      <lb ed="#V" n="49"/>quod infinitum habet rationem partis et non totius.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e776">
+      ⁋ Confirmatur iterum 
+      <lb ed="#V" n="50"/>per diffinitionem infiniti: que est quod eius partem accipientibus. 
+      <lb ed="#V" n="51"/>semper restat aliquid accipiendum: et quod non est infin vt dicebant 
+      <lb ed="#V" n="52"/>antiqui cuius nihil est extra: sed cuius semper est aliquid extra: et multa talia: 
+      <lb ed="#V" n="53"/>ex quibus omnibus videtur quod ponere aliquid partibile primanens esse 
+      <lb ed="#V" n="54"/>in rerum nam: et illud esse infin: est contradictio. Nam inquantum illud est 
+      <lb ed="#V" n="55"/>primanens et actu: quaelibet eius pars est et ipsum est complementum et 
+      perfe<lb ed="#V" n="56" break="no"/>ctum: inquantum vero est infin est imperfectum et incopletum.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e794">
+      ⁋ Pet 
+      <lb ed="#V" n="57"/>hanc rationem argui potest quod non sit possibilis aliqua multitudo vel 
+      <lb ed="#V" n="58"/>magnitudo: quae sit forma actu infinita.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e801">
+      ⁋ 2o in speciali probatur de mu 
+      <lb ed="#V" n="59"/>titudine. si enim possibile foret aliquam multitudinem fore 
+      infini<lb ed="#V" n="60" break="no"/>tam: sequeretur quod vel pars non esset minor toto: cuius est pars: vel quod 
+      <lb ed="#V" n="61"/>vnum infinitum esset minus alio infinito: sed consequens quantum ad vtramque 
+      <lb ed="#V" n="62"/>partem patet esse impossibile. consequentia probatur. quoniam si est possibile: detur aliqua 
+      multi<lb ed="#V" n="63" break="no"/>tudo infinita. vbi gratia. sint anime infinite: tunc ex tota multitum 
+      <lb ed="#V" n="64"/>dine data animarum: seperentur decem anime. constat quod reliqua anime ali 
+      <lb ed="#V" n="65"/>istis decem sunt infinite: et sit multitudo reliquarum animari 
+      <!--297.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 154-v b -->
+               <lb ed="#V" n="66"/>a. et denarius istarum animarum sit b. et totalis multitudo 
+      comprehen<lb ed="#V" n="67" break="no"/>dens a. et b. sit c. constat quod a. est pars ipsius c. cum c. includat a. 
+      <lb ed="#V" n="68"/>et adhuc includat b. Aut ergo a. est minor multitudo quam est mul 
+      <lb ed="#V" n="69"/>titudo c. et tunc sequitur quod vnum infinitum sit minus alio infinito: 
+      <lb ed="#V" n="70"/>aut non est minor: et tunc pars non est minor suo toto. Aliter 
+      pro<lb ed="#V" n="71" break="no"/>bari potest consequentia. Nam in illa multitudinie c. sunt infiniti binaru 
+      <lb ed="#V" n="72"/>animarum: et similiter infiniti centenarii. et constat quod quilibet binarius est 
+      <lb ed="#V" n="73"/>pars centenarii: et per consequens tota multitudo binariorum est pars 
+      to<lb ed="#V" n="74" break="no"/>talis totalis multitudinis centenariorum. aut igitur infinitua 
+      mul<lb ed="#V" n="75" break="no"/>titudo binariorum est minor multitudine infinita 
+      centenario<lb ed="#V" n="76" break="no"/>rum: et sic infinitum erit minus infinito: aut non est minor: et tunc 
+      se<lb ed="#V" n="77" break="no"/>quitur quod pars non est minor toto.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e851">
+      ⁋ 3o ad idem sic. omni 
+      multitudi<lb ed="#V" n="78" break="no"/>ne possibili deus potest facere maiorem multitudinem. ergo nulla 
+      <lb ed="#V" n="79"/>multitudo infinita est possibilis. consequentia patet. quia multitudine infi 
+      <lb ed="#V" n="80"/>nita nulla potest esse maiori. Antecedens patet. quia deus non tot animas potest 
+      <lb ed="#V" n="81"/>creare quin potest plures: nec potest tot quot potest: alioquin 
+      possibi<lb ed="#V" n="82" break="no"/>le esset ipsum creare omnes animas: quas potest creare: quo posito in 
+      <lb ed="#V" n="83"/>esse nullam aliam posset creare: quod est impossibile: vt in. 1P5o. dicens dictum 
+      <lb ed="#V" n="84"/>est. ergo non tot anime sunt possibiles: quin sint possibiles plures. et per 
+      <lb ed="#V" n="85"/>consequens quaelibet multitudine animarum possibili: potest deus maiorem 
+      <lb ed="#V" n="86"/>multitudinem animarum facere: et eodem modo probat de aliis.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e873">
+      ⁋ 4o contr 
+      <lb ed="#V" n="87"/>2am conclusionem potest argui. Nam data magnitudinie infia cum nulla sit 
+      <lb ed="#V" n="88"/>diuisibilis: qualitercumque diuidatur siue per signationem: siue per sequa 
+      <lb ed="#V" n="89"/>strationem altera pars erit infinita. et tunc sequitur quod pars non sit 
+      mi<lb ed="#V" n="90" break="no"/>nor toto: vel vna magnitudo infinita sit maior alia magnitu 
+      <lb ed="#V" n="91"/>dine infinita. Item in magnitudine infinita erunt infiniti cubiti et 
+      <lb ed="#V" n="92"/>infiniti bicubiti. Constat quod sicut cubitus est pars bicubiti: sic to 
+      <lb ed="#V" n="93"/>ta magnitudo resultans ex infinitis cubitis: pars erit ma 
+      <lb ed="#V" n="94"/>gnit dinis resultantis ex infinitis bicubitis: et vtraque erit 
+      <lb ed="#V" n="95"/>infinita. vel ergo magnitudo cubitorum est minor magnitudine 
+      <lb ed="#V" n="96"/>bicubitorum: et sic infin minus erit infinito: vel non erit minor: et 
+      <lb ed="#V" n="97"/>tunc pars non erit minor suo toto. Item quantalibet magnitudinie 
+      <lb ed="#V" n="98"/>possibili fcam: deus potest aliam facere: et illi addere: et per consequens quanta 
+      <lb ed="#V" n="99"/>libet possibili potest facere maiorem. et vltra. ergo nulla magnitu 
+      <lb ed="#V" n="100"/>do infinia est possibilis.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e907">
+      ⁋ 5o si esset aliqua magnitudo infinita: illa esset ego 
+      <lb ed="#V" n="101"/>quantitas seu aliquid quantum. Et vltra. ergo esset bicubitum vel 
+      tricu<lb ed="#V" n="102" break="no"/>bitum vel alicuius alterius determinate quantitatis: et per consequens esset fi  
+      <lb ed="#V" n="103"/>nita: et sic magnitudo infinita foret finita: quod est impossibile. et consequentia 
+      <lb ed="#V" n="104"/>probatur. Tum quia tantitas et quantitas seu quantum et tantum idem signifi 
+      <lb ed="#V" n="105"/>cant. Nec dicernt nisi sicut iterrogatiuum et responsiuum: omne aut 
+      tan<lb ed="#V" n="106" break="no"/>tum est bicubi tum aut tricubitum etc. aut alicuius 
+      determina<lb ed="#V" n="107" break="no"/>te quantitatis in specie. Et ratio ista tangitur a philosopho 3o phy. Et secunda 
+      <lb ed="#V" n="108"/>probatio consequentie est Commentatoris ibidem. Item contra eandem conclusionem  
+      <lb ed="#V" n="109"/>sunt plures rationes. P. et Commenta. primo celi.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e929">
+      ⁋ 6o contra vtramque simul. e5st 
+      <lb ed="#V" n="110"/>qui si vere sunt: ponatur quod deus faciat vnam magnitudinem 
+      infi<lb ed="#V" n="111" break="no"/>nitam in alteram partem tantum. vbi gratia. versus orientem: cuius extre 
+      <lb ed="#V" n="112"/>mitas sit hic parisius et super eam ponat lapides infinitos equalis 
+      <lb ed="#V" n="113"/>magnitudinis totam illam magnitudinem occupantes: quorum primus 
+      <lb ed="#V" n="114"/>scilicet existens in extremitate sit a. hoc fco annihilet deus 2m: et 4m: et 
+      <lb ed="#V" n="115"/>sic singulos alternos: alternis reliquis consuatis: et post hoc 
+      <lb ed="#V" n="116"/>iungat et continuet omnes remanentes tunc quaro: an tota illa ma 
+      <lb ed="#V" n="117"/>gnitudo occupabitur per remanentes: sicut prius per eosdem et alios 
+      <lb ed="#V" n="118"/>annihilatos occupabatur: an non: Non potest dici quod sic: cum 
+      infini<lb ed="#V" n="119" break="no"/>ti sint annihilati occupantes infinitas partes equales dicte 
+      ma<lb ed="#V" n="120" break="no"/>gnitudinis: et nullus de nouo sit additus: qui non prius partem 
+      ali<lb ed="#V" n="121" break="no"/>quam occuparet. Nec potest dici quod non occupetur tota sed pars tantum 
+      <lb ed="#V" n="122"/>qui vel occuparetur pars versus extremitatem: et per consequens aliqua pars 
+      <lb ed="#V" n="123"/>versus orientem non erit occupata: ac per hoc pars occupata erit 
+      fi<lb ed="#V" n="124" break="no"/>nita: quae vltra se versus orientem habebit partem vacuam: et versus nos est 
+      <lb ed="#V" n="125"/>habet finem per causam. Sed hoc est impossibile: quia lapides infiniti rema 
+      <lb ed="#V" n="126"/>nent super ea occupantes singuli singulas partes equales: vel 
+      oc<lb ed="#V" n="127" break="no"/>cuparetur versus orientem. et tunc sequitur quod pars vacua existens versus 
+      <lb ed="#V" n="128"/>nos erit finita cum vltra se versus orientem habeat partem occupantem. 
+      <lb ed="#V" n="129"/>sed hoc est impossibile. quia ipsa tot partes equales continet: quot occupant 
+      <lb ed="#V" n="130"/>infiniti lapides annihilati: et per consequens infinitas.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e977">
+      ⁋ 7o sic contra 3a 
+      <!--298.xml-->
+      <pb ed="#V" n="155-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>conclusionem: si enim conclusio sit vera: tunc posset fieri a deo corpus 
+      <lb ed="#V" n="2"/>habens grauitatem infinitam intensiue: et similiter aliquod habens leuitatem 
+      <lb ed="#V" n="3"/>intensiue infinitam. et vltra: possibile esset esse aliquod corpus quod 
+      <lb ed="#V" n="4"/>de celo ad terramn descenderet naturaliter in instanti. consequentia patet. alias 
+      <lb ed="#V" n="5"/>in eodem tempore per idem spacium moueretur corpus finite grauita 
+      <lb ed="#V" n="6"/>tis cum corpore infinite grauitatis: et vtrumque naturaliter: quod non 
+      <lb ed="#V" n="7"/>est possibile. consequens vero est falsum. Tum quia talis virtus motiua equare 
+      <lb ed="#V" n="8"/>tur virtuti dei in mouendo localiter: cum deus non possit in 
+      mino<lb ed="#V" n="9" break="no"/>ri quam in instanti. Tum quia sequaeretur quod illud corpus simul et semel in 
+      <lb ed="#V" n="10"/>eodem instanti esset in termino a quo a in termino ad quem: et in 
+      <lb ed="#V" n="11"/>omni loco medio: quod est inintelligibile: et per consequens incommunicabile 
+      <lb ed="#V" n="12"/>creature. Item eadem ratione posst fieri forma actiua infinita. 
+      <lb ed="#V" n="13"/>vbi gratia calor vel frigus. Et vltra. ergo esset possibile aliquod corpu 
+      <lb ed="#V" n="14"/>ab vna forma contraria in aliam contrariam transmutari in instanti: per 
+      virtu<lb ed="#V" n="15" break="no"/>tem creatam. hoc autem est impossibile: cum deus in miori duratione non 
+      <lb ed="#V" n="16"/>possit: posset etiam talis calor infinitus causare calorem infinitum et 
+      <lb ed="#V" n="17"/>subito: vt patet.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e1023">
+      ⁋ 8o si esset talis forma infinita: tunc aliqua eius pars 
+      <lb ed="#V" n="18"/>esset infinita: et per consequens equalis virtutis vel vigoris cum tota for 
+      <lb ed="#V" n="19"/>ma. consequentia patet. quia ita pars illa infinita mouebit in instanti: et 
+      cau<lb ed="#V" n="20" break="no"/>sabit infinitam forma eiusdem ratiois sicut tota forma. ergo equalis 
+      vigo<lb ed="#V" n="21" break="no"/>ris esset vtraque.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e1034">
+      ⁋ 6o tunc posset fieri aliqua visio de deo 
+      infini<lb ed="#V" n="22" break="no"/>ta. et per consequens quae comprehederet ipsum. Eodem mo posset argui de 
+      chari<lb ed="#V" n="23" break="no"/>tate. et aliis formis spiritualibus.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e1041">
+      ⁋ 2o sic quantalibet intensiue 
+      <lb ed="#V" n="24"/>possibili forma data: potest aliam facere: et illi priori vnire: et per 
+      <lb ed="#V" n="25"/>consequens illa priore facere maiorem. Ex quo sequitur quod non sit 
+      pos<lb ed="#V" n="26" break="no"/>sibilis aliqua infinita: aut quod vnum infinitum excedatur ab alio infini 
+      <lb ed="#V" n="27"/>to: et sit minus: et quod infinita forma posset intendi et fieri maior: 
+      <lb ed="#V" n="28"/>quod est impossibile.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e1055">
+      ⁋ xiuo: potest argui contra 2am rationem factam pro 3a conclusione. Et 
+      <lb ed="#V" n="29"/>primo probatur quod antecedens non sit possibile: quia si esset possibile: tunc esset 
+      possibi<lb ed="#V" n="30" break="no"/>le infinitam multitudinem successiue fore pertransitam seu 
+      con<lb ed="#V" n="31" break="no"/>sumatam vel totaliter acceptam: cuius tamen fuit aliqua pars primo 
+      acce<lb ed="#V" n="32" break="no"/>pta: et numquam fuerunt simul plures primo accepte. hoc autem est 
+      impossi<lb ed="#V" n="33" break="no"/>le: cum infin sit cuius transitus est inconsumabilis: et cuius partem 
+      ac<lb ed="#V" n="34" break="no"/>cipientibus semper restat aliquid accipere. vt patet 3o phy. et consequentia non 
+      <lb ed="#V" n="35"/>ta est ex casu.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e1073">
+      ⁋ 2o sumatur casus positus in antecedente: et sit in 
+      <lb ed="#V" n="36"/>stans praesens finis hore in qua causabatur charitas secundum modum ibi 
+      <lb ed="#V" n="37"/>positum: tunc sic: aut in hoc instanti praesente: hec est vera. charitas infi 
+      <lb ed="#V" n="38"/>nita seu habens partes infinitas equales est: aut in hoc instanti ista non 
+      <lb ed="#V" n="39"/>est vera. si non sit vera cum instans sit finis temporum causationis 
+      chari<lb ed="#V" n="40" break="no"/>tatis per casum. ergo nulla alia pars charitatis post hoc causabitur: et sic 
+      <lb ed="#V" n="41"/>nec ista propositio erit vera post hoc instans: et habentur intentum: quia numquam 
+      <lb ed="#V" n="42"/>erunt infinite partes equales charitatis create. Si vero in hoc instam 
+      <lb ed="#V" n="43"/>ti illa propositio sit vera. Cotra. aut in hoc instanti ipsa est primo vera: aut 
+      <lb ed="#V" n="44"/>in aliquo instanti priore fuit primo vera: aut in aliquo instanti pore fuit 
+      <lb ed="#V" n="45"/>vltimo fula. hoc patet. quia non semper hec propositio fuit vera. quia nec in 
+      <lb ed="#V" n="46"/>fine prime medietatis hore: quia tunc fuit primo creata vna pars 
+      <lb ed="#V" n="47"/>charitatis tantum: et non infinite. nec in fine prime medietatis se 
+      <lb ed="#V" n="48"/>quentis medietatis hore: quia tunc primo fuerunt tantum due partes: et lo 
+      <lb ed="#V" n="49"/>quor de partibus determinate quantitatis secundum casum. sumatur ergo 
+      to<lb ed="#V" n="50" break="no"/>tum tempus in quo hec propositio fuit falsa. et sua contradictoria vera. et totum tempum 
+      <lb ed="#V" n="51"/>in quo fuit ipsa vel erit vera. constat quod nullum tempus fuit me 
+      <lb ed="#V" n="52"/>inter ista: alioquin in illo tempore medio due contradictorie fuissent simul 
+      fal<lb ed="#V" n="53" break="no"/>se. ergo copulantur in eodem instanti secundum communem modum loquendi: vel 
+      <lb ed="#V" n="54"/>ergo illud instans copulans ista tempora est instans praesens: et tunc sequitur quo 
+      <lb ed="#V" n="55"/>in hoc instanti hec propositio sit primo vera: vel fuit aliquod instans praeteritum: 
+      <lb ed="#V" n="56"/>et tunc vel in illo hec fuit vera. et per consequens: tunc primo fuit vera: vel fuit 
+      <lb ed="#V" n="57"/>in illo instanti falsa. et tunc sequitur quod in illo tunc fuit vltimo 
+      fal<lb ed="#V" n="58" break="no"/>sa: et sua contradictoria tunc fuit vltimo vera: et sic patet illa maior 
+      dis<lb ed="#V" n="59" break="no"/>iunctiua. Sed in nullo instanti priore hec fuit vltimo falsa. 
+      pro<lb ed="#V" n="60" break="no"/>batur. quia si dicatur oppositum sit illud instans b. tunc sic: in instanti b 
+      <lb ed="#V" n="61"/>hec fuit falsa. charitas habens infinitas partes equales est. ergo in b. 
+      <lb ed="#V" n="62"/>non erant infinite partes charitatis causate: sed finite tantum: et b. fuit 
+      <lb ed="#V" n="63"/>instans alicuius proportionalis partis hore date. ergo in fine 
+      parti<lb ed="#V" n="64" break="no"/>proportionalis immediate sequentis partem cuius instans fuit b. non 
+      <lb ed="#V" n="65"/>fuerunt infinite partes equales charitatis: quia praeter illas quae fuerunt 
+      <!--298.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 155-r b -->
+               <lb ed="#V" n="66"/>in b. non fuit tunc nisi vna superaddita vel vna: et pars alterius 
+      <lb ed="#V" n="67"/>si b. non fuit instans initians aliquam talium partium. Ex eo 
+      vl<lb ed="#V" n="68" break="no"/>tra sequitur quod etiam post b. hec fuit falsa charitas habens infinitas 
+      <lb ed="#V" n="69"/>partes est. Item non potest dici quod in aliquo instanti priore hec 
+      fui<lb ed="#V" n="70" break="no"/>primo vera. quia si sic sit illud b. vt prius. et tunc sumo instans initians 
+      <lb ed="#V" n="71"/>partem proportionalem hore immediate praecedentem eam partem: cuius 
+      in<lb ed="#V" n="72" break="no"/>stans est b. et sit illud c. aut ergo in c. erant infinite partes charita 
+      <lb ed="#V" n="73"/>tis iam facte: et per consequens in c. hec fuit vera: in b. aut in c. non 
+      <lb ed="#V" n="74"/>erant infinite partes charitatis. et tunc sequitur quod nec in b. fuerunt 
+      <lb ed="#V" n="75"/>infinite. et per consequens hec. ista propositio fuit primo vera. immo nec vera in b. 
+      <lb ed="#V" n="76"/>Relinquit ergo si ipsa est vera nuc: quod ipsa nunc primo sit vera. Sed  
+      <lb ed="#V" n="77"/>quod non. quia quelibet pars huius charitatis que nunc est fuit ante illud 
+      <lb ed="#V" n="78"/>instans praesens: et in illo instanti vel tempore ante illud instans fuerunt 
+      <lb ed="#V" n="79"/>infinite partes charitatis loquendo de partibus equalibus charita 
+      <lb ed="#V" n="80"/>tis causate vt prius. ergo in hoc instanti praesente non sunt infinite partes 
+      <lb ed="#V" n="81"/>charitatis causate: et per consequens nec huius charitatis qua nunc est: sunt 
+      <lb ed="#V" n="82"/>infinite partes. Ex quo sequitur quod hec non est vera. ergo nec primo vera: 
+      cha<lb ed="#V" n="83" break="no"/>ritas infinita est. consequentia patet. quia si nunc sunt infinite vel prius fuerunt 
+      <lb ed="#V" n="84"/>infinite: quod est oppositum 2a partis antecedentis: vel nunc sunt aliqua immo 
+      <lb ed="#V" n="85"/>infinite. quarum nulla fuit prius quod est oppositum primo partis antecedentis. 
+      <lb ed="#V" n="86"/>Secunda vero pars antecedentis probata est immediate prius: et probo primam: 
+      <lb ed="#V" n="87"/>qui si non quaelibet pars charitatis nunc existens fuit ante hoc instans 
+      prae<lb ed="#V" n="88" break="no"/>sens: aliqui ergo nunc est qua numquam fuit prius: et tamen per casum quelibet pars 
+      <lb ed="#V" n="89"/>charitatis fiebat partialiter et continue: et per consequens in hoc instanti 
+      <lb ed="#V" n="90"/>nulla talis pars primo causatur. sequitur quod aliqua pars nunc primo est 
+      comple<lb ed="#V" n="91" break="no"/>te facta. patet. et sit illa pars a. tunc sic: a. pars est nunc primo complete fcam: 
+      <lb ed="#V" n="92"/>et nulla alia pars est nunc primo complete fca. patet. ergo quaelibet alia fuit prius 
+      <lb ed="#V" n="93"/>fcam: et per consequens hec est vltima pars seu pars vltimo fcam: et tamen per 
+      <lb ed="#V" n="94"/>casum qualibet fiebat in parte aliqua proportionabili hore: et sic 
+      dabi<lb ed="#V" n="95" break="no"/>tur vltima pars proportionabilis hore: secundum illum modum diuidendi. 
+      <lb ed="#V" n="96"/>hoc autem est impossibile. tum quia quaelibet pars proportionabilis est 
+      diuisi<lb ed="#V" n="97" break="no"/>bilis in media: et nulla est indiuisibilis: et per consequens nec mimma 
+      <lb ed="#V" n="98"/>nec vltima. Tum quia si detur talis vltima pars proportionalis hore: 
+      <lb ed="#V" n="99"/>aut eam praecesserunt partes infinite proportionales aut finite tantum: 
+      <lb ed="#V" n="100"/>non infinite: quia cum quelibet praecedens fuerit maior: et per consequens 
+      equa<lb ed="#V" n="101" break="no"/>lem continens illi vltime: sequeretur quod in vna hora essent partes 
+      equo<lb ed="#V" n="102" break="no"/>les infinite: et sic vna hora esset tempus infinitum et eternum: secundum hoc 
+      <lb ed="#V" n="103"/>sequeretur propositum valet quod ante hoc instans fuerunt infinite partes 
+      <lb ed="#V" n="104"/>causate charitatis: et per consequens propositio data non est nunc primo vera: sed 
+      <lb ed="#V" n="105"/>prius fuit vera. nec potest dici quod tantum finite partes proportionales 
+      <lb ed="#V" n="106"/>praecesserunt vltimam: quia tunc non essent infinite partes proportiona 
+      <lb ed="#V" n="107"/>les in vna hora: et esset dare partem mimmam et idiuisibilem: et per 
+      <lb ed="#V" n="108"/>consequens tota hora componeretur praecise ex finitis indiuisibilibus. 
+      <lb ed="#V" n="109"/>Item etiam ex hoc habetur propositum: quia in hoc instanti non essent 
+      infini<lb ed="#V" n="110" break="no"/>te partes causate: et per consequens illa propositio non esset vera in hoc instanti praesente. 
+      <lb ed="#V" n="111"/>quare nec in primo vera.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e1247">
+      ⁋ 2o idem potest probari sic. quia sequitur. quaelibet 2o 
+      <lb ed="#V" n="112"/>pars huius charitatis fuit ante hoc instans. igitur omnes partes cha 
+      <lb ed="#V" n="113"/>ritatis huius fuerunt ante hoc instans. et vltra. ergo tota illa chari 
+      <lb ed="#V" n="114"/>tas vel tota multitudo harum partium fuit ante hoc instans: et per 
+      <lb ed="#V" n="115"/>consequens hec fuit prius vera: hec charitas infinita est. ergo non est nunc prima 
+      <lb ed="#V" n="116"/>vera. Antecedens probatum est. consequentia patet. quia si non omnes partes fuerunt. ergo ali 
+      <lb ed="#V" n="117"/>qua nunc est quae non fuit: quod repugnat antecedenti.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e1263">
+      ⁋ 3o sic. nunc est vere 
+      <lb ed="#V" n="118"/>ista: quaelibet pars huius charitatis est: et similiter hec: quaelibet pars huius charitatus 
+      <lb ed="#V" n="119"/>fuit. ergo hec fuit prius vera. quaelibet pars huius charitatis est. et per consequens hec 
+      <lb ed="#V" n="120"/>fuit prius vera. hec charitas infinita est. Et pria consequentia probatur. tum primo: quia 
+      <lb ed="#V" n="121"/>quaelibet propositio de praeterito nunc vera: habauit aliquam de praesenti prius veram 
+      <lb ed="#V" n="122"/>sibi correspondentem. tum quia alio modo oporteret concedere quod due 
+      propositio<lb ed="#V" n="123" break="no"/>nes de eisdem praedicatis et subiectis vna de praesenti et altera de 
+      praete<lb ed="#V" n="124" break="no"/>rito essent primo vere: quod non videtur rationabile. sicut non est rationabile concedetr: 
+      <lb ed="#V" n="125"/>quod he due sunt simul primo vere. sortes est. et sortes fuit. simul enim fuisset et 
+      <lb ed="#V" n="126"/>primo esset: et per consequens non fuisset. et sic fuisset et non fuisset.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e1285">
+      ⁋ 3o contra idem 
+      <lb ed="#V" n="127"/>antecedens si enim esset possibile pari ratione foret possibile. quod in quaelibet parte 
+      propor<lb ed="#V" n="128" break="no"/>tionali hore causaret charitatem tanti gradus: et du causaret 2am 
+      <lb ed="#V" n="129"/>partem in 2a parte proportionali hore simul in eadem parte hore annihila 
+      <lb ed="#V" n="130"/>ret partem quam causabat in prima parte proporimet: et sic semper quamlibet causatam in vna 
+      <!--299.xml-->
+      <pb ed="#V" n="155-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>parte proportionali annihilaret in parte proportionali hore 
+      imme<lb ed="#V" n="2" break="no"/>diate sequente: ita quod simul primo esset complete causata pars sequens: 
+      <lb ed="#V" n="3"/>et complete annihilata pars immediate praecedens. Et patet similis ratio 
+      <lb ed="#V" n="4"/>possibilitatis vtriusque casus. Sed probo quod iste sint 
+      impossi<lb ed="#V" n="5" break="no"/>biles: quia vel in instanti finali hore erit aliqua pars charitatis 
+      <lb ed="#V" n="6"/>vel nulla. non potest dici quod nulla. Nam per casum cuiuslibet partis 
+      <lb ed="#V" n="7"/>charitatis creatio est in tempore priori quam eius annihilatus. et per totam 
+      <lb ed="#V" n="8"/>horam continue causatur charitas: et in instanti finali primo cessat 
+      causa<lb ed="#V" n="9" break="no"/>ri. ergo non quaelibet erit annihilata in illo instanti. alioquin vel non 
+      <lb ed="#V" n="10"/>continue vsque ad illud instans durabit causatio: vel aliqua simul an 
+      <lb ed="#V" n="11"/>nihilabitur et causabitur: quod est contra positum ergo in quo instanti erit aliqua: aut 
+      <lb ed="#V" n="12"/>ergo erit tunc vna pars tantum: aut plures: non plures: quia tunc non quaelibet 
+      <lb ed="#V" n="13"/>fuisset annihilata in tempore in quo immediate sequens fuisset 
+      causa<lb ed="#V" n="14" break="no"/>ta: quod est contra cam ergo erit tunc vna tantum: et per consequens dabitur vltima infi 
+      <lb ed="#V" n="15"/>nitarum: et vltima pars proportionalis hore: quod est impossibile.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e1335">
+      ⁋ Et ex hoc 
+      <lb ed="#V" n="16"/>potest argui quod in casu rationis facte oportebit dare vltimam 
+      <lb ed="#V" n="17"/>partem charitatis causatam. quia non plus hoc sequitur si prior destruatur dum 
+      <lb ed="#V" n="18"/>fit 2a vt ponitur in isto casu: quam si quaelibet remaneret vsque ad 
+      fi<lb ed="#V" n="19" break="no"/>nem: sic ponitur in casu primo.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e1347">
+      ⁋ 4o contra idem antecedens. Nam pari ratione 
+      pos<lb ed="#V" n="20" break="no"/>set vnum continuum deus discontinuare in duas partes in instanti 
+      ter<lb ed="#V" n="21" break="no"/>minante primam medietatem hore: et in instanti terminante 2am 
+      <lb ed="#V" n="22"/>medietatem proportionalem continuare illud idem. Et in instanti 
+      <lb ed="#V" n="23"/>terminante aliam iterum discontinuare illud. et sic in cuiuslibet 
+      <lb ed="#V" n="24"/>partis proportionalis hore secundum illam divisionem continuare vel 
+      discon<lb ed="#V" n="25" break="no"/>tinuare alternatim: sed hoc est falsum. Probo: quia in instanti 
+      fina<lb ed="#V" n="26" break="no"/>li hore vel erit continuum vel discontinuum: vel neutrum: non 
+      conti<lb ed="#V" n="27" break="no"/>nuum: vel discontinuum: quia tunc daretur vltima pars proportionalis 
+      vt<lb ed="#V" n="28" break="no"/>pote illa quam instans finale terminaret: nec neutrum: quia impossibile 
+      <lb ed="#V" n="29"/>est esse plures partes quin sint continue vel discontinue. Eodem modo 
+      <lb ed="#V" n="30"/>potest argui: si poneretur quod in vno instanti annihilaret totum 
+      il<lb ed="#V" n="31" break="no"/>lud: et in alio causaret: oporteret enim dare vel vltimam partem 
+      propor<lb ed="#V" n="32" break="no"/>tionalem vel dicere quod in instanti finali nec esset nec non esset: quod 
+      <lb ed="#V" n="33"/>est impossibile.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e1380">
+      ⁋ 5o contra eandem rationem. Nam simili modo probaretur quod esset 
+      <lb ed="#V" n="34"/>possibile esse vnum quandrangulum infinite longitudinis: latitudinis vero 
+      <lb ed="#V" n="35"/>finite. patet consequentia. Nam in prima parte proportionali hore deus posset 
+      con<lb ed="#V" n="36" break="no"/>tinue facere quadrangulum: cuius longitudo esset vnius cubiti et 
+      <lb ed="#V" n="37"/>latitudo vnius palmi: et in 2a parte hore facere alium equalem illi 
+      <lb ed="#V" n="38"/>continuum sibi secundum longitudinem: et sic in quaelibet parte proportionali. Et 
+      <lb ed="#V" n="39"/>cum sint infinite partes proportionales in vna hora: in fine 
+      ho<lb ed="#V" n="40" break="no"/>re erit vnus quadrangulus habens infinitas partes equales. et per consequens 
+      <lb ed="#V" n="41"/>erit quandrangulus infinitus. et tota deductio est simulis illi rationi 
+      <lb ed="#V" n="42"/>facte. Sed consequens est impossibile. tum quia omnis quadrangulus est figura: et 
+      <lb ed="#V" n="43"/>per consequens terminatus: patet per difinitionem figure. Tum quia si esset quadran 
+      <lb ed="#V" n="44"/>gulus habebit quatuor latera quatuor angulos comprehendentia: quorum 
+      <lb ed="#V" n="45"/>duo latera sibi opposita erunt equalia finita et vnius palmi 
+      <lb ed="#V" n="46"/>tantum: a quorum punctis terminantibus traherentur reliqua duo late 
+      <lb ed="#V" n="47"/>ra infinita: et sic inter duo puncta dabitur linea infinita: et per consequens 
+      li<lb ed="#V" n="48" break="no"/>nea infinita erit finita. Et eisdem modis omnibus potest argui contra 
+      <lb ed="#V" n="49"/>formam 2a rationis pro priua conclusione: que est assumpta est in probatione alia 
+      <lb ed="#V" n="50"/>rum conclusionum.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e1419">
+      ⁋ 6o si casus illius antecedentis sit possibilis simili modo possibile esset:  
+      <lb ed="#V" n="51"/>posita magnitudine actu infinita secundum latitudinem et 
+      longitu<lb ed="#V" n="52" break="no"/>dinem: vt supra concedetur esse possibile: quod aliquod corpus moueretur per 
+      <lb ed="#V" n="53"/>horam continue super eam: sic quod in priues medietate transiret spacium 
+      <lb ed="#V" n="54"/>cubitale: et in qualibet proportionali sequenti tantumdem: vt ponitur in 
+      <lb ed="#V" n="55"/>casu illius rationis: et similis casus possibilitas patet. Sed impossibilitas istius 
+      <lb ed="#V" n="56"/>probatur. Nam in fine hore corpus motum erit super aliqua parte 
+      ma<lb ed="#V" n="57" break="no"/>gnitudinis determinata super quam inciperet quiescere: et quiesceret 
+      <lb ed="#V" n="58"/>per tempus sequens: supposito quod remaneat. signetur ergo illa pars et sit 
+      <lb ed="#V" n="59"/>b. et pars a qua incepit moueri: vel supra quam fuit immediate 
+      <lb ed="#V" n="60"/>ante horam sui motus sit a. vel ergo inter a. et b. sunt infiniti cubiti 
+      <lb ed="#V" n="61"/>spacii: vel finiti tantum. si infiniti. ergo inter puncta comprehendetur spacium 
+      <lb ed="#V" n="62"/>infinitum: quod est impossibile: si finiti tantum. ergo partes proportionales hore 
+      <lb ed="#V" n="63"/>non erunt infinite: quod est est impossibile.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e1450">
+      ⁋ Ad primum istorum dico quod non 
+      <lb ed="#V" n="64"/>est de ratione infiniti simpliciter sumpti: quod aliquid eius sit tantum in potentia: 
+      <lb ed="#V" n="65"/>quod patet in multitudine infinita partium continui: quarum qualiet est in 
+      <!--299.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 155-v b -->
+               <lb ed="#V" n="66"/>actu sicut aliqua earum: nec eius est aliqua pars in actu: aliqua vero in 
+      <lb ed="#V" n="67"/>potentia tantum.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e1468">
+      ⁋ Ad probationem cum dicitur quod quicumque imaginatur infinitum 
+      <lb ed="#V" n="68"/>figit aspectum super aliquid in actu. Deinde addit etc. Dico quod 
+      <lb ed="#V" n="69"/>ista probatio nulla est. quia ex hoc non arguitur aliqua successio nec 
+      ali<lb ed="#V" n="70" break="no"/>quid in actu: et aliquid in postio illius rei super quam cadit 
+      imagi<lb ed="#V" n="71" break="no"/>natio: sed solum modo in ipsis imaginationibus. Und quaeuis 
+      appre<lb ed="#V" n="72" break="no"/>hendens partes proportionales continui prius apprehendat vnam quam 
+      <lb ed="#V" n="73"/>aliam: vna tamen non est prius in rerum natura quam alia. Et si esset aliqua 
+      ma<lb ed="#V" n="74" break="no"/>gnitudo infinita adhuc imaginatio figeretur prius super vnam 
+      <lb ed="#V" n="75"/>partem quam super aliam: et adderet partem parti modo illo: et tamen quaelibet esset 
+      <lb ed="#V" n="76"/>actualis: nec prius esset in actu illa quae primo aspectu imaginationis 
+      <lb ed="#V" n="77"/>apprehenderetur: quam illa quae centesimo vel millesimo: quamuis primus 
+      <lb ed="#V" n="78"/>actus imaginationis prius esset quam centesimus vel millesimus: et est 
+      <lb ed="#V" n="79"/>similis argumentatio ista illi qua quis argueret: quod magnus aceruus 
+      <lb ed="#V" n="80"/>milii non esset primanens et totus in actu: quia vnam partem eius prius 
+      <lb ed="#V" n="81"/>apprehenderet et post aliam.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e1501">
+      ⁋ Ad confirmationem dico quod finis 
+      <lb ed="#V" n="82"/>est equiuocum. Uno modo dicitur finis vltima pars rei. sicut econtra primo pars dicitur 
+      <lb ed="#V" n="83"/>principium. Alio modo finis finis forma et species materiae: dicitur est finis gratia cuius:  
+      <lb ed="#V" n="84"/>et aliis etiam modis dicitur finis: vt patet 5o meta. Cum igitur dicitur quod fi  
+      <lb ed="#V" n="85"/>nis complementum et actus sunt idem: si intelligatur quod idem sunt 
+      con<lb ed="#V" n="86" break="no"/>uertibiliter: aut quod finis praedicetur per se de actu vniversaliter. nego 
+      propositio<lb ed="#V" n="87" break="no"/>nem: si sumatur finis primo modo: Est enim deus in actu et actus purus: et tamen 
+      <lb ed="#V" n="88"/>non est finis: nec finem habet isto modo: Similiter anima intellectiua est actus et 
+      <lb ed="#V" n="89"/>perfectio materie: non tamen est finis eius illo modo: nec ipsa sic habet finem: cum 
+      <lb ed="#V" n="90"/>sit simpliciter carens partibus. Si vero sumatur finis 2o modo: et ita 
+      su<lb ed="#V" n="91" break="no"/>matur actus pro actu perficiente: potest concedi quod actus est finis et perfe 
+      <lb ed="#V" n="92"/>ctio et complementum materie: sed illud nihil ad propositum: infinito autem 
+      <lb ed="#V" n="93"/>partibili non repugnat quolibet modo dictus finis. Unde si esset infi 
+      <lb ed="#V" n="94"/>nita aqua adhuc haberet finem gratia cuius scilicet deum: et finem quae est forma 
+      <lb ed="#V" n="95"/>proprie materie: sed infinito de quo loquimur repugnat habere finem 
+      <lb ed="#V" n="96"/>primo modo dictum: nec talem finem haberet aqua infinita si esset: quoniam nulla 
+      <lb ed="#V" n="97"/>esset vltima pars eius. Econtra vero omne finitum habet talem finem id est vltimam 
+      <lb ed="#V" n="98"/>partem: et loquor de partibus determinate quantitatis: quo debet acci 
+      <lb ed="#V" n="99"/>pi pars: cum dicitur: quod finis est vltima pars rei: si enim sumeretur pars 
+      <lb ed="#V" n="100"/>simpliciter nullius magnitudinis est finis: sic nullius magnitudi 
+      <lb ed="#V" n="101"/>nis est vltima pars.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e1548">
+      ⁋ Ad soluendum vero alia quae ex dictis. P. et Com 
+      <lb ed="#V" n="102"/>men. inducuntur: non oportet laborare. Nam certum est quod. P. reputat 
+      in<lb ed="#V" n="103" break="no"/>possibile esse aliquod corpus infinitum: aut infinitam multitudinem 
+      cor<lb ed="#V" n="104" break="no"/>porum: vel partium determinate eiusdem magnitudinis: quoniam sic sequa 
+      <lb ed="#V" n="105"/>retur quod esset corpus infinitum in vltimis: multitudinem tamen partium non 
+      <lb ed="#V" n="106"/>determinate eiusdem magnitudinis: sed proportionalium non potuit ne 
+      <lb ed="#V" n="107"/>gare secundum dicta sua: et ideo quia ipse fuit alterius opinionis: ideo mul 
+      <lb ed="#V" n="108"/>ta dixit que non sunt vera in hac materia: nec acceptanda pro auctoritate. 
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e1566">
+               <lb ed="#V" n="109"/>⁋ Ad 2m primo dico: quod si concluderet probaretur in continuo non esse 
+      infi<lb ed="#V" n="110" break="no"/>nitas partes: vt patet. Rsponsio 2o ad rationem distinguendo de toto et 
+      <lb ed="#V" n="111"/>parte. Nam hec dupliciter possunt sumi scilicet communiter et proprie. primo omne quod 
+      <lb ed="#V" n="112"/>includit aliquid quod est aliquid et aliud praeter illud aliquid: et quodlibet 
+      <lb ed="#V" n="113"/>illius: dicitur totum ad illud: et omne sic inclusum dicitur pars includentis. 2o modo  
+      <lb ed="#V" n="114"/>dicitur totum illud quod includit aliquid primo modo et includit tanta tot quot 
+      <lb ed="#V" n="115"/>non includit inclusum: et econverso tale inclusum non includens tot tanta 
+      <lb ed="#V" n="116"/>quot includens: dicitur pars eius. et iste modus continet est plures 
+      <lb ed="#V" n="117"/>modos partis: sed pro nunc non curo de illis. Applicando hoc ad  
+      <lb ed="#V" n="118"/>multitudines: primo omnis multitudo est totum alterius multitudinis 
+      <lb ed="#V" n="119"/>quae illam includit id est qua eest omnia illa quae ipsa est et aliud vel alia ab il 
+      <lb ed="#V" n="120"/>lis et quolibet illorum: et omnis multitudo sic inclusa est pars: et hoc modo 
+      <lb ed="#V" n="121"/>vna multitudo infinita potest esset pars alterius sic multitudo 
+      <lb ed="#V" n="122"/>partium proportionalium vnius medietatis continui: est pars mul 
+      <lb ed="#V" n="123"/>titudinis partium alterius continui totius. Nam multitudo totius conti 
+      <lb ed="#V" n="124"/>nui est omnes partes siue omnia: quorum quodlibet est pars vnius 
+      medieta<lb ed="#V" n="125" break="no"/>tis: et omnes partes alterius medietati quae sunt totaliter alie ab illis. 
+      <lb ed="#V" n="126"/>2o modo omnis multitudo includens aliam modo iam dicto: et includens 
+      tan<lb ed="#V" n="127" break="no"/>ta tot. id est tot determinate quantitatis. verbi gratia. tot binarios vel tot 
+      <lb ed="#V" n="128"/>ternarios quot non includit multitudo inclusa: est totum 
+      respe<lb ed="#V" n="129" break="no"/>ctum illius: et illa econverso pars dicitur huius: et hoc modo nulla multitudo infinita 
+      <lb ed="#V" n="130"/>est totum aut pars respectu multitudinis infinite: quia nulla tot 
+      <!--300.xml-->
+      <pb ed="#V" n="156-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>tanti includit quin tot tanti alia includit: quia quaelibet includit infini 
+      <lb ed="#V" n="2"/>ties tantum seu infinita tanta. Unde hoc modo sumendo totum et partem 
+      <lb ed="#V" n="3"/>multitudo partium totius continui non est totum ad multitudinem 
+      <lb ed="#V" n="4"/>partium vnius medietatis tantum: quia quot binarios vel ternarios 
+      <lb ed="#V" n="5"/>includit multitudo totius: tot includit multitudo medietat 
+      <lb ed="#V" n="6"/>et non plures includit multitudo totius quam partis. 2o distinguo hos 
+      <lb ed="#V" n="7"/>terminos: maius et minus: quamuis non oporteret nisi propter aliquas 
+      il<lb ed="#V" n="8" break="no"/>lis improprie vtentes. Nam vno modo sumuntur proprie et sic multitudo 
+      <lb ed="#V" n="9"/>dicitur mai quae tantumdem et plures continet. illa vero dicitur minor quae paucio 
+      <lb ed="#V" n="10"/>res. Siue alio modo: et veit in idem. illa dicitur ma qua pluries continet 
+      <lb ed="#V" n="11"/>vnum: vel plures vnitates: illa vero minor quae paucies seu paucio 
+      <lb ed="#V" n="12"/>res. Alio modo sumitur improprie. et sic omnis multitudo quae includit 
+      vni<lb ed="#V" n="13" break="no"/>tates omnes alterius multitudinis et quasdam alias vnitates ab ill 
+      <lb ed="#V" n="14"/>dicitur mai illa: esto quod non includat plures vnitates quam illa: et hoc 
+      <lb ed="#V" n="15"/>modo esse maiorem multitudinem alia non est aliud quam includere illam 
+      <lb ed="#V" n="16"/>et esse totum respectu illius primo: Supponendo totum primo modo maius et minus non 
+      <lb ed="#V" n="17"/>dicuntur de infinitis adinuicem: sed de finitis tantum: vel de infinitis respectum 
+      <lb ed="#V" n="18"/>finitorum: et econverso 2o vero modo vnum infinitum est maius alio. sicut est est tomo 
+      <lb ed="#V" n="19"/>ad illud primo modo sumendo totum. hi autem modi totius et partis sic se 
+      <lb ed="#V" n="20"/>habent: quod omne quod est totum vel pars 2o modo est totum vel pars primo modo et non conuer 
+      <lb ed="#V" n="21"/>titur vniversaliter: non est sic de maius et minus praedicitis duobus modis sumptis 
+      <lb ed="#V" n="22"/>Nam non omne quod continet plures vnitates quam aliud continet illas quas 
+      <lb ed="#V" n="23"/>continet illud aliud: sicut denarius hominum existentium parisius continet 
+      <lb ed="#V" n="24"/>tantumdem et plures quam senarius vel quaterinarius equorum existentium rome. 
+      <lb ed="#V" n="25"/>non tamen includit illos. et ideo non omne quod est maius primo modo est maius 2o modo Item 
+      <lb ed="#V" n="26"/>nec omne maius 2o modo est maius primo o sicu patet de multitudinie vna infinita rem 
+      <lb ed="#V" n="27"/>spectu alterius infinite quam includit. Particulariter tamen de 
+      se<lb ed="#V" n="28" break="no"/>inuicem praedicantur: aliquid enim maius primo modo est maius 2o mo sic multitudo 
+      <lb ed="#V" n="29"/>finita est maior sua parte vtroque modo.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e1686">
+      ⁋ Tunc ad rationem cum dicitur 
+      <lb ed="#V" n="30"/>si esset aliqua multitudo infinita: vel pars non esset minor toto: vel vnum 
+      <lb ed="#V" n="31"/>infinitam esset minus alio. si sumatur pars et totum primo tantum: et sumatur est ma 
+      <lb ed="#V" n="32"/>ius primo conceditur consequens. Nam pars illo modo praecise sumpta non est minor toto 
+      <lb ed="#V" n="33"/>illo modo sumendo minus: sicut nec eius totum tanti tot continet quin tot 
+      <lb ed="#V" n="34"/>tanti continet ipsa. Et quia esse maius in multitudinie non est aliud quam 
+      con<lb ed="#V" n="35" break="no"/>tinere plura: si totum non contineat plura quam pars: manifeste patet consequens 
+      <lb ed="#V" n="36"/>esse quod ipsum non sit maius illa: nec illa minor eo. Et per consequens vna 
+      <lb ed="#V" n="37"/>pars illius consequentis disiuncti est vera. valet. aliqua pars non erit minor toto 
+      <lb ed="#V" n="38"/>ideo concedo illud. Item sumptis et toto et parte eodem: vt iam 
+      sume<lb ed="#V" n="39" break="no"/>bantur et sumendo maius et minus primo supra posito concedo quod ali 
+      <lb ed="#V" n="40"/>quod infinitum est minus aliquo infi: quoniam infin quod est sic pars non continet 
+      <lb ed="#V" n="41"/>dinia quae continet infin quod est totum eius: quamuis tot quodcumque 
+      tanti<lb ed="#V" n="42" break="no"/>continet totum contineat ipsum quod est pars: et ratione huius partis concedo 
+      <lb ed="#V" n="43"/>consequens. Et si inferatur. infin est minus infinito. ergo exceditur ab 
+      il<lb ed="#V" n="44" break="no"/>lo: nego consequentiam: sumpto antecedente in sensu concesso. Nam nihil propria 
+      <lb ed="#V" n="45"/>dicitur excedi ab alio: nisi quod non continet tanti tot quot aliud: et de 
+      <lb ed="#V" n="46"/>nullo infinito est verum. Si vero sumatur pars et totum 2o modo et min 
+      <lb ed="#V" n="47"/>primo tunc nego consequentiam. Et ad probationem dico: quod multitudo a. 
+      <lb ed="#V" n="48"/>non est pars multitudinis c. quia ipsa est infi. Item propter idem: multitu 
+      <lb ed="#V" n="49"/>do a. non est minor multitudinie c. et hoc modo tantum est inconueniens 
+      con<lb ed="#V" n="50" break="no"/>cedere partem non esse minorem toto aut infinitum esse minus infinita.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e1734">
+      ⁋ Ad  
+      <lb ed="#V" n="51"/>aliam probationem consequentie concedo: quod in multitudinie c. sunt 
+      infiniti<lb ed="#V" n="52" break="no"/>binarii et infiniti ternarii: et quod quilibet binarius est pars centena 
+      <lb ed="#V" n="53"/>rii. Dico tamen quod infinita multitudo illorum binariorum non est pars 
+      multi<lb ed="#V" n="54" break="no"/>tudinis infinite illorum centenariorum: siue sumatur pars primo siue 2a 
+      <lb ed="#V" n="55"/>modo. non primo quidem: quia nihil continet vel includit multitudo cente 
+      <lb ed="#V" n="56"/>nariorum: quod non includat multitudo binariorum. Nam quaelibet anima de 
+      <lb ed="#V" n="57"/>infinitis includitur in vtraque multitudinie praedicta. Item nec est 
+      <lb ed="#V" n="58"/>pars 2o modo quia non plura tanti continet multitudo centenariorum quam 
+      <lb ed="#V" n="59"/>binariorum. Unde sicut infinita multitudo centenariorum 
+      conti<lb ed="#V" n="60" break="no"/>net centenarios infinitos: sic etiam infinita multitudo binario 
+      <lb ed="#V" n="61"/>rum continet infinitos centenarios. Et generaliter nullam multitudi 
+      <lb ed="#V" n="62"/>nem finitam totiens continet vna earum: quin totiens illam continea 
+      <lb ed="#V" n="63"/>altera.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e1765">
+      ⁋ Ad 3am cum dicitur omni multitudine possibili deus potest 
+      <lb ed="#V" n="64"/>face re maiore. ergo nulla infinita est possibilis. Rsponsio quod si in antecedente 
+      <lb ed="#V" n="65"/>sumatur ly maiorem primo modo supra dicto. Antecedens est falsum.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e1772">
+      ⁋ Ad  
+      <!--300.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 156-r b -->
+               <lb ed="#V" n="66"/>probationem cum dicitur: quod deus non potest creare tot animas quin 
+      <lb ed="#V" n="67"/>posset plures: nec potest tot: quin potest alias. dico quod non est idem dice 
+      <lb ed="#V" n="68"/>re. deus non potest tot quin potest plures: et dicere. deus non potest tot quin 
+      <lb ed="#V" n="69"/>posset alias. Nam si tot et quot sumantur communiter vt tam de fini 
+      <lb ed="#V" n="70"/>tis quam infinitis dicantur secundum communem vsum. Nam sicut dicimus quod tot 
+      <lb ed="#V" n="71"/>sunt partes continui in vno contio quot in alio sibi equali: sic est 
+      <lb ed="#V" n="72"/>dicimus quod tot partes eiusdem proportionis sunt in vno quot in 
+      <lb ed="#V" n="73"/>alio. et tamen ille sunt finite. he autem infinite. Sic autem sumptis 
+      <lb ed="#V" n="74"/>his terminis dico quod hec est vera. deus non potest causare tot animas 
+      <lb ed="#V" n="75"/>quin posset alias. hec vero falsa. deus non potest tot quin plures posset. 
+      <lb ed="#V" n="76"/>Nam deus potest infinitas: quo posito in esse: adhuc deus potaet creare 
+      <lb ed="#V" n="77"/>alias. et finitas multitudines et infinitas vt sibi placet: et hoc 
+      <lb ed="#V" n="78"/>in infin potest: non tamen potest plures: quia quotcumque alias posset: nec 
+      <lb ed="#V" n="79"/>ille secundum se: nec simul sumpte cum prioribus sunt plures quam priores: nec prio 
+      <lb ed="#V" n="80"/>res praecise: sunt pauciores quam ipse et posteriores simul. Et si 
+      di<lb ed="#V" n="81" break="no"/>catur quod quaelibet vnitas addita multitudini constituit maior est 
+      <lb ed="#V" n="82"/>multitudinem. Didendum hoc non esse verum nisi de multitudinie 
+      fini<lb ed="#V" n="83" break="no"/>ta. Et ratio tacta est supra. valet. quia multitudo non est maior: nisi 
+      <lb ed="#V" n="84"/>qui continet pluries vnum: nunc autem si sit multitudo infinita et ad  
+      <lb ed="#V" n="85"/>datur: vel proprius loquendo: fiat vnitas noua. quamuis 
+      multitu<lb ed="#V" n="86" break="no"/>do includens hanc et pores contineat aliam vnitatem a prioribus: non 
+      <lb ed="#V" n="87"/>tamen pluries continet vnitatem: aut plures vnitates: quam multitudo 
+      <lb ed="#V" n="88"/>prior praecise: cum illa contineat infinitas. Et quia non sequitur. deus non 
+      <lb ed="#V" n="89"/>potest tot quin posset alias. ergo non potest tot quin potest plures. ideo probatio 
+      <lb ed="#V" n="90"/>illius antecedentis non valet. Si vero in antecedente sumatur ly maiorem. 2o modo 
+      su<lb ed="#V" n="91" break="no"/>pradicto. concedo antecedens: et nego consequentiam. et similiter nego propositionem 
+      <lb ed="#V" n="92"/>assumptam ad probationem consequenti scilicet hanc: nulla multitudine infinita 
+      <lb ed="#V" n="93"/>potest aliqua esse maior. sumpto termino isto maius in eadem 
+      signi<lb ed="#V" n="94" break="no"/>ficatione.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e1845">
+      ⁋ Ad 4m quid dicendum sit quo ad omnes suas partes: patet per 
+      <lb ed="#V" n="95"/>ea que dicta sunt ad 2m. Quantum tamen ad id quod de additione 
+      <lb ed="#V" n="96"/>magnitudinis ad priorem magnitudinem dicitur Est aduertendum 
+      <lb ed="#V" n="97"/>quod si prior magnitudo ponatur vndique infinita. nulla ei pote 
+      <lb ed="#V" n="98"/>rit addi que sit extra ipsam: et quamlibet partem eius. sed siue finita siue 
+      in<lb ed="#V" n="99" break="no"/>finita de nouo creetur: ipsa erit simul cum ipsa: vel cum aliqua parte 
+      <lb ed="#V" n="100"/>eius.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e1861">
+      ⁋ Ad 5m concedo primam consequentia et nego 2am. Et ad 
+      proba<lb ed="#V" n="101" break="no"/>tionem primam dico: quod sicut de infinita multitudinie dicimus 
+      tot<lb ed="#V" n="102" break="no"/>et quot: vt supra dictum est. sic nihil prohibet dici de infinita 
+      magni<lb ed="#V" n="103" break="no"/>tudine quantum et tantum. Unde secundum philosophum si quaeratur quantum tempus praecessit. 
+      <lb ed="#V" n="104"/>conuenienter respondetur infin: et per consequens infin est tantum et quantum: si quodlibet 
+      <lb ed="#V" n="105"/>quod respondetur ad quantum sit tantum: vt isti dicunt. Si autem quis sumatur tantum 
+      <lb ed="#V" n="106"/>et quantum pro magnitudinibus alicuius finite mensure: et eodem modo velit 
+      <lb ed="#V" n="107"/>quod quantum dicat solum de talibus: tunc negabo primam consequentia et dicam quod 
+      <lb ed="#V" n="108"/>magnitudo infina non esset quantitas: esset tamen magnitudo. Et similir 
+      <lb ed="#V" n="109"/>nec multitudo infinita esset quantitas: est tamen multitudo. et hoc nomen 
+      <lb ed="#V" n="110"/>quantitas non est genus generalissimum secundi praedicamenti. et tunc 
+      opor<lb ed="#V" n="111" break="no"/>teret fingere aliud nomen illi praedicamento: sed talis acceptio 
+      <lb ed="#V" n="112"/>huius termini quantitas nec est vsitata nec oportuna. vnde si quantum est 
+      <lb ed="#V" n="113"/>quod est diuisibile in ea quae insunt. vt dicitur 5o meta. non apparet cur infi 
+      <lb ed="#V" n="114"/>magnitudo non sit quanta: et similiter multitudo infinita cum vtraque vere 
+      <lb ed="#V" n="115"/>diuisibilis sit: si sit.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e1896">
+      ⁋ Ad aliam probationem dico quod infinita 
+      magni<lb ed="#V" n="116" break="no"/>tudo vtique foret in aliqua specie quantitatis. vnde magnitudo pus 
+      <lb ed="#V" n="117"/>diuiditur in fitam et in infinitam. Et deinde magnitudo finita in 
+      bi<lb ed="#V" n="118" break="no"/>cubitam et tricubitam: aut alio tali modo: foret ergo in specie 
+      magni<lb ed="#V" n="119" break="no"/>tudinis infinite. Cum vero additur quod contra hanc conclusione sunt multe ratioes 
+      <lb ed="#V" n="120"/>hiosophi et Commen. responsio quod nulla illarum concludit oppositam conclusionem isti 
+      <lb ed="#V" n="121"/>quae est de possibili. quoniam quaelibet fundatur. super principio non necessario. vbi gratia. 
+      <lb ed="#V" n="122"/>quod celum mouetur complete in tempore finito. quod sunt entia actiua et 
+      <lb ed="#V" n="123"/>passiua adinuicem: et quod talia agunt et patiuntur approximata 
+      <lb ed="#V" n="124"/>et quod entia naturalia habent loca naturalia: et quod plura corpora non possunt 
+      <lb ed="#V" n="125"/>esse simul. et similia: quorum nullum est necessium. Unde si philosophus confessus 
+      <lb ed="#V" n="126"/>fuisset celum non posse moueri. et possibile esse quod nullum aliud ens 
+      <lb ed="#V" n="127"/>praeter deum esset nisi celum: aut quam quodcunque aliud: et quod possibile 
+      <lb ed="#V" n="128"/>esset contraria approximata non mutuo agere: et alia que communiter 
+      <lb ed="#V" n="129"/>tatholici habent concedere: non dubito quin ipse concessisset quod 
+      <lb ed="#V" n="130"/>esset possibile fore corpus infinitum.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e1931">
+      ⁋ Ad 6ium admitto ca¬ 
+      <!--301.xml-->
+      <pb ed="#V" n="156-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>sum vsque ad id quod dicitur quod deus commniungat et contiguet lapides 
+      <lb ed="#V" n="2"/>manentes. Nam hec contiguatio potest dupliciter concipi fieri. vno modo quod 
+      <lb ed="#V" n="3"/>quilibet lapis deferatur versus orientem in quam partem ponetur 
+      magnitu<lb ed="#V" n="4" break="no"/>do infinita et in hoc intellectu neo casum esse possibilem. Ratio est. quia tunc 
+      <lb ed="#V" n="5"/>sequeretur quod quilibet lapis facta tali contiguatione distaret a loco in 
+      <lb ed="#V" n="6"/>quo prius erat distantia infinitia: et sic inter extrema data: et 
+      cer<lb ed="#V" n="7" break="no"/>ta clauderetur spacium infinitum: quod implicat contradictionem: et patet consequentia 
+      <lb ed="#V" n="8"/>Nam quilibet lapre habet post se versus orientem infinitos lapides 
+      an<lb ed="#V" n="9" break="no"/>nihilatos per casum. Alio modo: potest intelligi quod quilibet deferatur ver 
+      <lb ed="#V" n="10"/>sus parisius in qua parte magnitudo est finita: aut si aliqui versu 
+      <lb ed="#V" n="11"/>oppositam: non tamen infiniti: sed finiti tantum: et in hoc sensu admitto to 
+      <lb ed="#V" n="12"/>tum casum. Et consequentur dico quod tota magnitudo occupabitur per sor 
+      <lb ed="#V" n="13"/>los remanentes posito quod quilibet sit delatus versus a. et ipse 
+      la<lb ed="#V" n="14" break="no"/>pis a. remanserit in suo loco priori. Aut si ponatur quod non quilibet sit 
+      <lb ed="#V" n="15"/>delatus versus a. quinimmo a. lapis delatus sit versus orientem rie 
+      <lb ed="#V" n="16"/>certum spacium finitum: versus quod econtra sint delati ceteri sequentes 
+      <lb ed="#V" n="17"/>tota occupabitur praeter illam partem finitam magnitudinis: quam post 
+      <lb ed="#V" n="18"/>se relinquit a. versus parisius. Et cum dicitur quod hoc est impossibile: quia infini 
+      <lb ed="#V" n="19"/>ti lapides sunt annihilati etc. Dico quod probatio non est efficax 
+      <lb ed="#V" n="20"/>quoniam quamuis infiniti sint annihilati occupantes infinitas partes 
+      <lb ed="#V" n="21"/>magnitudinis equalis: quia tamen non tot partes tales continentur in tota 
+      <lb ed="#V" n="22"/>illa magnitudine quin tot lapides contineantur in multitudine 
+      <lb ed="#V" n="23"/>lapidum remanente: nec plures sunt partes magnitudinis quam 
+      lapi<lb ed="#V" n="24" break="no"/>des remanentes: ac per hoc cuilibet parti potest aliquis lapis 
+      suppe<lb ed="#V" n="25" break="no"/>ni. poterit tota simul remanentibus lapidibus occupari: quod etiam 
+      <lb ed="#V" n="26"/>declaratur: quia exquo infiniti lapides remanserunt: non erit da 
+      <lb ed="#V" n="27"/>re vltimam partem versus oriente: que habeat lapidem supra se: et 
+      <lb ed="#V" n="28"/>per consequens tota erit occupata.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e2001">
+      ⁋ hoc potest in alio deculari. si enim 
+      <lb ed="#V" n="29"/>sit aliquod corpus album finitum. constat quod sicut in eo sunt infinito 
+      <lb ed="#V" n="30"/>partes proportionales materie: ita sunt infinite partes proportionales 
+      <lb ed="#V" n="31"/>albedinis informantes illas. vocetur ergo prima pars materie a. et similiter 3 
+      <lb ed="#V" n="32"/>et quinta et quaelibet alterna: et quaelibet reliquarum vocetur b. et ponatur quod 
+      <lb ed="#V" n="33"/>deus annihilet omnem parte albedinis informantem aliquod a. quo 
+      <lb ed="#V" n="34"/>facto reliquas partes remanentes transferat versus primum a 
+      <lb ed="#V" n="35"/>sit illud maxima pars proportionalis: et sic transferat quod super 
+      <lb ed="#V" n="36"/>quodlibet a. et super quodlibet b. ponat aliquam partem albedinis de 
+      re<lb ed="#V" n="37" break="no"/>siduis partibus. constat quod super quodlibet a. et super quodlibet b. erit ali 
+      <lb ed="#V" n="38"/>qua pars residuarum albedinis: sicut et ante annihilationem 
+      infi<lb ed="#V" n="39" break="no"/>nitarum. quamuis super quodlibet a. et super quodlibet b. sit minor albedo 
+      <lb ed="#V" n="40"/>extensiue quam fuerit prius. et hoc patet: quia alias daretur vltimum a. vel 
+      <lb ed="#V" n="41"/>vltimum b. super quod esset albedo. et cum inter quodlibet a. vel b. et primum 
+      <lb ed="#V" n="42"/>a. non sint partes nisi finite: sequeretur quod partes albedinis non essent 
+      <lb ed="#V" n="43"/>relicte infinite secundum multitudinem: quod est falsum. Et similiter dico 
+      <lb ed="#V" n="44"/>quod si deus adhuc de remanentibus annihilaret lapidem quemli 
+      <lb ed="#V" n="45"/>alternum per modum positum in casu. non obstante quod annihilaret 
+      <lb ed="#V" n="46"/>adhuc infinitos: tamen quia adhuc relinquaret infinitos possent re 
+      <lb ed="#V" n="47"/>licti per eundem modum adhuc totam magnitudinem occupare 
+      <lb ed="#V" n="48"/>Et rursus si adhuc eodem modo annihilaret infinitos: et sic 
+      infini<lb ed="#V" n="49" break="no"/>ties faceret: seper relicti possent totam replere magnitudinem. 
+      <lb ed="#V" n="50"/>Et forte quod mirabilius quibusdam videtur. Dico quod si esset 
+      magn<lb ed="#V" n="51" break="no"/>tudo infinia ex vtraque parte: et lapides non essent super ea nisi a 
+      lo<lb ed="#V" n="52" break="no"/>co ipsius a. deinceps in infin versus orientem. posset deus ex 
+      <lb ed="#V" n="53"/>eisdem lapidibus praecise implere totam illam magnitudinem tam versus 
+      <lb ed="#V" n="54"/>orientem quam versus occidentem: esto quod nullus lapis esset simul in plu 
+      <lb ed="#V" n="55"/>ribus partibus magnitudinis sibi equalibus. Quod patet. Nam posset tolle 
+      <lb ed="#V" n="56"/>re omnem lapidem alternum iuxta sensum praemissum. Et statuere ad 
+      <lb ed="#V" n="57"/>aliam partem ipsius a scilicet versus accidentem: ita quod singuli iuncti essent: et 
+      <lb ed="#V" n="58"/>etiam remanentes ex parte orientis reiugere sicut prius: quo fcon¬: 
+      <lb ed="#V" n="59"/>constat sicut prius per rationes praemissas. quod tota illa magnitudo esse 
+      <lb ed="#V" n="60"/>per lapides ex vtraque parte occupata: et possibilitas omnium praedi 
+      <lb ed="#V" n="61"/>ctorum patet: ex hoc quod non sunt tot partes magnitudinis etiam vtriu 
+      <lb ed="#V" n="62"/>que infinite: quin sint tot lapides qui sunt super alteram partem eius: sicut 
+      <lb ed="#V" n="63"/>etiam non sunt tot partes totius magnitudinis hinc inde: quin tot 
+      <lb ed="#V" n="64"/>sint plures eiusdem ex vna parte praecise. vbi gratia. versus orientem 
+      <lb ed="#V" n="65"/>quamuis praeter illas infinitas alias habeat partes versus occidentem 
+      <!--301.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 156-v b -->
+               <lb ed="#V" n="66"/>et omnes lapides ante annihilationem illorum alternorum non sunt 
+      <lb ed="#V" n="67"/>tot: quin tot sint soli remanentes: et hoc ideo: quia tam hi praecise sunt 
+      <lb ed="#V" n="68"/>infiniti quam et hi vel illi tantum: sicut supra in simili ad 3am rationem est 
+      <lb ed="#V" n="69"/>dictum.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e2099">
+      ⁋ Ad 7m supposito quod sicut deus potest tales formas infi Ad 7 
+      <lb ed="#V" n="70"/>nitas facere separatas a subiecto: sic posst facere eas 
+      infor<lb ed="#V" n="71" break="no"/>mare subiectum: concedo consequens: et quod possibile est esse aliquod corpus: quod natura 
+      <lb ed="#V" n="72"/>liter de celo in terra descendat in instanti. Et cum probatur hoc 
+      <lb ed="#V" n="73"/>esse impossibile: quia talis virtus motiua equeretur virtuti divine in mo 
+      <lb ed="#V" n="74"/>uendo localiter. Dico quod si intelligatur hec adequatio vniversalis in 
+      lo<lb ed="#V" n="75" break="no"/>caliter mouendo. consequentia nulla est. quoniam licem illud posset talis 
+      <lb ed="#V" n="76"/>virtus: non tamen posset ascendere nec aliquod corpus distans 
+      mo<lb ed="#V" n="77" break="no"/>uere. nec posset illud corpus descendere deo non coagente. De 
+      <lb ed="#V" n="78"/>autem potest illud sursum ferre: et quotlibet alia corpora ad quamlibet 
+      <lb ed="#V" n="79"/>partem etiam nllo sibi coagente posset mouere: quapropter dei 
+      vir<lb ed="#V" n="80" break="no"/>tus adhuc maior esset ad mouendum localiter quam illa. Si autem 
+      <lb ed="#V" n="81"/>non sic generaliter accipiatur adequatio: sed solum quod adequaretur 
+      <lb ed="#V" n="82"/>dei virtuti in velocitate descensus: quia in instanti 
+      descede<lb ed="#V" n="83" break="no"/>ret quo citius non posset per potentiam dei. Dico quod illud non 
+      <lb ed="#V" n="84"/>est inconueniens: sicut non est inconueniens quod virtus actiua causa 
+      <lb ed="#V" n="85"/>ta causare posset aliquam formam in instanti. Unde si hec causa va 
+      <lb ed="#V" n="86"/>leret sequeretur quod deus non posset causare vnum corpus luminosum 
+      <lb ed="#V" n="87"/>in instanti. Nam constat quod tale sic causatum in instanti causaret lucem. 
+      <lb ed="#V" n="88"/>similiter idem esset de visione. Item de facto aliqua volitio causatir. 
+      <lb ed="#V" n="89"/>in instanti: et tamen deus non citius posset quam in instanti. Alia vero 
+      <lb ed="#V" n="90"/>probatio falsitatis nulla est etam: quando pariter probaretur quod deus non 
+      <lb ed="#V" n="91"/>posset de loco ad locum corpus in instanti transferre: cuius op 
+      <lb ed="#V" n="92"/>patet ex praecedenti quaestione. et quod dei virtute non posset esse vacuum: prim 
+      <lb ed="#V" n="93"/>existente supra vacuum aliquo corpore graui: et relicto sue na 
+      <lb ed="#V" n="94"/>ture cum generali influentia: quoniam tunc ipsum descenderet in instan 
+      <lb ed="#V" n="95"/>ti. vt patet ex 4o physi. Ad aliam consequentiam concedo etiam consequens scilicet quod T. c. 
+      <lb ed="#V" n="96"/>posst fieri calor qui in instanti subiectum transmutaret de frigo 
+      <lb ed="#V" n="97"/>re in calidum: etiam intensiue infinitum.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e2163">
+      ⁋ Ad 8am dico quod ali Ad 
+      <lb ed="#V" n="98"/>quas formas esse equales intensiue potest intelligi dupliciter secundum dupli 
+      <lb ed="#V" n="99"/>cem modum accipiendi maius et minus supra positum. Nam vno 
+      <lb ed="#V" n="100"/>ille forme possunt dici equales quarum neutra est altera maior primo o 
+      <lb ed="#V" n="101"/>tunc pars infinita forme foret equalis toti forme cuius erit pars. 
+      <lb ed="#V" n="102"/>Alio modo possunt dici equales. quia neutra est altera maiorprimo o nec est 
+      <lb ed="#V" n="103"/>2o modo et sic pars infinia non erit equalis toti. Cum igitur arguitur quod pars 
+      <lb ed="#V" n="104"/>infinia forme infinite foret illi equalis in vigore concedendo 
+      infi<lb ed="#V" n="105" break="no"/>nitam formam esse partem illo modo qua concessum est supra de multituus 
+      <lb ed="#V" n="106"/>infinita. si ille forme dicantur equalis vigoris: que in equa 
+      <lb ed="#V" n="107"/>lem formam possunt: et si accipiatur equalitas primo modo iam 
+      <lb ed="#V" n="108"/>dicto concedo consequentiam et consequens. Nam pars infinita posset etiam 
+      <lb ed="#V" n="109"/>in formam infinitam. nec hoc debet plus reputari inconueniens 
+      <lb ed="#V" n="110"/>quam quod pars sit equalis toti: quod tamen verum est terminis sumptis: 
+      <lb ed="#V" n="111"/>vt dictum est. Si vero sumatur equalitas secundo modo: nego conse 
+      <lb ed="#V" n="112"/>quentiam. Dico enim quod forma infinita si esset: causaret 
+      ali<lb ed="#V" n="113" break="no"/>quas partes forme quas non causaret eius pars infinita pe 
+      <lb ed="#V" n="114"/>se si esset: non existentibus reliquis partibus forme totalis 
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e2202">
+               <lb ed="#V" n="115"/>⁋ Ad oonum concedo quod deus posset facere visionem infinitam Ad  
+      <lb ed="#V" n="116"/>sui obiectiue: et nego vlteriorem consequentiam: videlibet: quod ta 
+      <lb ed="#V" n="117"/>lis visio esset comprehensiua ipsius. Nam visio 
+      comprehensi<lb ed="#V" n="118" break="no"/>ua rei est illa per quam cognoscitur res perfectissime et omni 
+      <lb ed="#V" n="119"/>bus modis quibus est cognoscibilis: talis autem non esset vit 
+      <lb ed="#V" n="120"/>sio infinita creata. Tum quia visione dei que est ipse 
+      per<lb ed="#V" n="121" break="no"/>fectius ipse cognoscitur quam cognosci possit per illam: 
+      pos<lb ed="#V" n="122" break="no"/>set etiam deus causare aliam visionem respectu sui alterius 
+      <lb ed="#V" n="123"/>rationis ab illa et perfectiorem secundum speciem. Tum quia 
+      <lb ed="#V" n="124"/>et si aliqua esset infinita. non tamen esset infinita simplici 
+      <lb ed="#V" n="125"/>ter: sed tantum in specie illa. et per consequens non esset com 
+      <lb ed="#V" n="126"/>prehensiua dei qui est smpliciter infinitus: huic etiam 
+      <lb ed="#V" n="127"/>fauet dictum Magistri 3o sententiarum. distin. 24. vbi 
+      <lb ed="#V" n="128"/>vult quod anima christi scientiam habeat omnium que deus 
+      <lb ed="#V" n="129"/>nouit: non tamen equatur scientie dei: qua illi elarius 
+      <lb ed="#V" n="130"/>nouit ea et perfectius. vbi etiam forsitan opinatus est 
+      <!--302.xml-->
+      <pb ed="#V" n="157-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>magister conclusionem istam quam nunc defendo. Nam si nosse 
+      <lb ed="#V" n="2"/>plura distincte eo modo quo ponitur anima christi nosse quaecumque deus 
+      <lb ed="#V" n="3"/>nouit est maioris perfectionis. consequens est quod nosse illo modo 
+      infini<lb ed="#V" n="4" break="no"/>ta sit infinite perfectionis: et maxime si talia cognita sint vt 
+      <lb ed="#V" n="5"/>si essent forent equalis perfectionis: vel quolibet cognito infinita 
+      <lb ed="#V" n="6"/>essent perfectiora. Deus aut nouit infinita secundum speciem: et per consequens 
+      <lb ed="#V" n="7"/>quorum qualibet sunt infinita cognita perfectiora. ergo noticia omnium 
+      <lb ed="#V" n="8"/>illorum si sit vera: erit infinita intensiue. Si vero non est vna: sed cuius 
+      <lb ed="#V" n="9"/>libet est propria: et tunc simul in anima christi erunt infinite noticie distin 
+      <lb ed="#V" n="10"/>cte secundum speciem: et siue hoc siue illud detur satis habetur pro hac opi 
+      <lb ed="#V" n="11"/>nione: quod tamen vltimo de opinione magistri dictum est: sine asset 
+      <lb ed="#V" n="12"/>tione dictum sit: sic dictum est de visione sic dico de dilectione 
+      <lb ed="#V" n="13"/>et aliis spiritualibus formis scilicet quod possibile est fieri dilectionem 
+      in<lb ed="#V" n="14" break="no"/>finitam dei: illa tamen nec esset deus sed creatura: nec deum adequare 
+      <lb ed="#V" n="15"/>vt aliqui dicunt: nec perfectissima foret que posset esse: vel est 
+      <lb ed="#V" n="16"/>esset de deo: nec per illam posset deus diligi perfectissime: et 
+      mo<lb ed="#V" n="17" break="no"/>dis omnibus quibus est diligibilis.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e2283">
+      ⁋ Ad ideoum respondendum est suo mi 
+      <lb ed="#V" n="18"/>sicut dictum est de multitudine et magnitudine in solutione 3oa et 
+      <lb ed="#V" n="19"/>4a rationis. Et si queratur vtrum perfectius cognoscitur obiectum suli 
+      <lb ed="#V" n="20"/>ponendo quod talis forma esset noticia: aut perfectius diligere 
+      <lb ed="#V" n="21"/>si foret dilectio aut subiectum esset magis tale quecumque forma 
+      <lb ed="#V" n="22"/>esset. dicendum quod sicut conceditur vel negatur quod illa forma esset ma 
+      <lb ed="#V" n="23"/>ior seu perfectior sic concedi debet vel negari quod perfectius vel ma 
+      <lb ed="#V" n="24"/>gis etc. Nam perfectius cognoscere non secundum aliud que perfectiori no 
+      <lb ed="#V" n="25"/>ticia cognoscere: et similiter de dilectione: et esse magis tale: non est 
+      <lb ed="#V" n="26"/>aliud quam perfectiorem formam esse talem.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e2305">
+      ⁋ Ad ea qui xiuso: inducunt 
+      <lb ed="#V" n="27"/>responsio:
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e2310">
+      ⁋ Ad primum quidem quod consequens non est impossibile: sic oportet in quolibet 
+      mo<lb ed="#V" n="28" break="no"/>tum continuo siue locali siue alterativo: in quolibet enim 
+      quantumcum<lb ed="#V" n="29" break="no"/>que paruo acquiruntur infinite partes proportionales siue forme. 
+      <lb ed="#V" n="30"/>inter quas aliqua est pars prima: vtputa priua medietas totius. nulla 
+      <lb ed="#V" n="31"/>tamen earum est vltima. Unde notandum: quod infinita sic esse pertransita 
+      <lb ed="#V" n="32"/>quod eorum sit primum pertransitum. nullum autem sit vltimo pertransitum: sed in 
+      <lb ed="#V" n="33"/>ter quodcumque illorum et primum sint solum finita pertransita: aut eorum infi 
+      <lb ed="#V" n="34"/>nitorum sit vltimum pertransitum. nullum autem primum non est inconueniens. 
+      <lb ed="#V" n="35"/>Et de primo quidem patet per iam dicta. De 2o etiam patet per idem: quoniam in mo 
+      <lb ed="#V" n="36"/>tum continuo infinite partes pertranseuntur: quarum vltima est 2a me 
+      <lb ed="#V" n="37"/>dietas totius: et nulla eiusdem proportionis est prima pertransita 
+      <lb ed="#V" n="38"/>sed quod infinita sint pertransita: et aliquod illorum sit primo pertransitum: 
+      <lb ed="#V" n="39"/>et aliud vltimo pertransitum: et nulla illorum sunt simul primo 
+      pertran<lb ed="#V" n="40" break="no"/>sita: vt ponitur in argumento vtique est impossibile. hoc autem non est in propo 
+      <lb ed="#V" n="41"/>sito: quoniam sicut in tempore illius perfectionis continue non datur pars vltm 
+      <lb ed="#V" n="42"/>ma proportionalis secundum illum modum diuidendi: sic nec illius for 
+      <lb ed="#V" n="43"/>me est aliqua vltima pars determinate quantitatis.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e2347">
+      ⁋ Tunc ad  
+      <lb ed="#V" n="44"/>probationem impossibilitatis consequentis concessi. Cum primo dicitur quod 
+      infini<lb ed="#V" n="45" break="no"/>tum est cuius transitus est inconsummabilis. Dico quod hoc in 
+      <lb ed="#V" n="46"/>telligi debet si partes illius infinite acquiruntur in equali 
+      <lb ed="#V" n="47"/>bus partibus temporis. verbi gratia. quod quelibet acquiritur in vna 
+      <lb ed="#V" n="48"/>hora vel vnico momento: aut aliqua alia determinata 
+      tem<lb ed="#V" n="49" break="no"/>poris quantitate: tunc enim oporteret quod illud tempus haberet infit 
+      <lb ed="#V" n="50"/>nitas partes equales. Et per consequens foret infin: et cum tempus 
+      <lb ed="#V" n="51"/>infin esse preteritum est impossibile. data prima eius parte: ideo 
+      in<lb ed="#V" n="52" break="no"/>possibile est isto modo infin totaliter consumari: vel perfect 
+      <lb ed="#V" n="53"/>esse pertransitum: supposito quod eius fuerit pars primo pertra 
+      <lb ed="#V" n="54"/>sita seu accepta: et secundum hunc modum procedit ratio philosopi 6o phyo 
+      <lb ed="#V" n="55"/>vbi probat quod infin non potest esse pertransitum tempore finitor 
+      <lb ed="#V" n="56"/>vt patet diligenter aduertenti. vbi vero non daretur prima pars 
+      ten<lb ed="#V" n="57" break="no"/>poris: nec prima pars infiniti non esset impossibile sicut philosophus 
+      con<lb ed="#V" n="58" break="no"/>cedit infinitas reuolutiones celi: et infinitas hominum gene 
+      <lb ed="#V" n="59"/>rationes esse pertransitas: quia non ponit primam reuolutione ne 
+      <lb ed="#V" n="60"/>primam generationem.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e2387">
+      ⁋ Ad aliam probationem cum dicitur quod infin est 
+      <lb ed="#V" n="61"/>cuius partem accipientibus semper restat accipere. Dico quod il 
+      <lb ed="#V" n="62"/>lud eodem modo est intelligendum scilicet de partibus eiusdem quantita 
+      <lb ed="#V" n="63"/>tis. et quod acceptio fiat in equalibus partibus temporis. sic enim 
+      <lb ed="#V" n="64"/>accipiendo vnam partem infiniti in tanto tempore. Deinde aliam 
+      <lb ed="#V" n="65"/>equalem in equali tepore ei in quo prima fuit accepta: et sic sem 
+      <!--302.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 157-r b -->
+               <lb ed="#V" n="66"/>per procedendo semper restabit aliquid accipiendum et numquam erit. 
+      <lb ed="#V" n="67"/>acceptum totum: et idem fieret si cuiuslibet partis acceptio fieret in 
+      <lb ed="#V" n="68"/>instanti: dummodo inter quaelibet duo aliqua talia instantia equile tempus 
+      interci<lb ed="#V" n="69" break="no"/>peretur. Econtra autem est de quolibet finito. Cum enim eius equales partes 
+      <lb ed="#V" n="70"/>sint finite acquirentur omnes in partibus equalibus temporis finiti: et ideo 
+      quodtum<lb ed="#V" n="71" break="no"/>cumque sit magnum si continuabitur motus et transitus tande erit 
+      <lb ed="#V" n="72"/>totum acceptum et consumatus transitus eius. vbi autem pat 
+      <lb ed="#V" n="73"/>tes infiniti equales non transeantur vel non accipiantur in equalibus 
+      <lb ed="#V" n="74"/>partibus temporis: sed in partibus proportionalibus seper minoribus: vt positum 
+      <lb ed="#V" n="75"/>est in casu antecedentis illius. nullum inconueniens est quod aliquando infinitum sit acce 
+      <lb ed="#V" n="76"/>ptum totaliter nisi aliud obstet: sicut non est inconueniens: sed necessarium quod 
+      <lb ed="#V" n="77"/>infinita lnres partes temporis in quo fit acceptio praedictam sint complete praeterite 
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e2433">
+               <lb ed="#V" n="78"/>⁋ Ad 2m supposito quod instans praesens sit finis hore in qua cau Ad 2am 
+      <lb ed="#V" n="79"/>sabatur charitas per modum positum in antecedente illo: sicu supponit 
+      <lb ed="#V" n="80"/>arguium. Dico quod in hoc instanti hec est primo vera. charitas infi 
+      <lb ed="#V" n="81"/>nita est. Et cum primo arguitur contra sic. qualibet pars huius charitatis 
+      <lb ed="#V" n="82"/>que nunc est fuit ante hoc instans: et in nullo instanti vel tempor 
+      <lb ed="#V" n="83"/>ante hoc instans fuerunt infinite partes charitatis equales. ergo in hoc 
+      <lb ed="#V" n="84"/>instanti non sunt infinite partes equales charitatis. nego istam consequentia. 
+      <lb ed="#V" n="85"/>Et cum probatur arguendo ex opposito consequentis: si in hoc instanti sunt 
+      <lb ed="#V" n="86"/>infinite. ergo vel prius fuerunt infinite vel aliqua nunc est: quae non fuit 
+      <lb ed="#V" n="87"/>prius. Similiter istam consequentiam nego: et est instantia manifesta de par 
+      <lb ed="#V" n="88"/>tibus proportionalibus forme quae in aliquo tempore continue fiebat 
+      <lb ed="#V" n="89"/>Nam ponatur quod aliqua forma finite latitudinis fiebat in vna 
+      <lb ed="#V" n="90"/>hora continue: et nunc fit finis illius hore: et accipio partes 
+      propor<lb ed="#V" n="91" break="no"/>tionales sic quod medietas totius forme nunc existentis prius facte 
+      <lb ed="#V" n="92"/>sit prima pars proportionalis: et priuea medietas secunde medietatis 
+      <lb ed="#V" n="93"/>totius sit secunda pars proportionalis: et sic vltra diuidendo modo 
+      <lb ed="#V" n="94"/>consimili vt diuidit tempus in casu antecedentis rationis supra facte 
+      <lb ed="#V" n="95"/>hoc posito vtraque harum est vera: quaelibet pars proportionalis 
+      hu<lb ed="#V" n="96" break="no"/>ius forme quae nunc est fuit ante hoc instans: et in nullo instanti 
+      <lb ed="#V" n="97"/>vel tempore ante hoc instans fuerunt infinite partes 
+      proportio<lb ed="#V" n="98" break="no"/>nales huius forte: et tamen non sequitur: igitur nunc non sunt infinite par 
+      <lb ed="#V" n="99"/>tes proportionales huius forme. Nam istud consequens est falsum: et antecedens 
+      <lb ed="#V" n="100"/>est verum quantum ad vtramque partem: sicut potest probari per similem 
+      <lb ed="#V" n="101"/>modum quo probatur antecedens consequentie alterius: quae probatio vtique est 
+      effi<lb ed="#V" n="102" break="no"/>cax: quia enim nulla inter homo partes fuit vltima: ideo post quamli 
+      <lb ed="#V" n="103"/>bet fuit aliqua ante hoc instans: et per consequens quaelibet fuit ante hoc 
+      <lb ed="#V" n="104"/>instans: et patet consequentia quia si aliqua non fuit ante hoc instans. ergo post il 
+      <lb ed="#V" n="105"/>lam non fuit aliqua ante hoc instans. Et vltra. ergo post aliquam non 
+      <lb ed="#V" n="106"/>fuit aliqua ante hoc instans quae est contradictoria asitis. Est igitur 
+      <lb ed="#V" n="107"/>illa vera: quelibet fuit ante hoc instans. ista tamen non est vera 
+      an<lb ed="#V" n="108" break="no"/>te hoc instans fuit quelibet: nec sequitur ex prima: sicut 
+      <lb ed="#V" n="109"/>nec ex ista. quelibet fuit ante hoc instans: sequitur ista. in 
+      <lb ed="#V" n="110"/>aliquo instanti ante hoc instans fuit quelibet. est enim 
+      pri<lb ed="#V" n="111" break="no"/>ma vera vt probari potest: sicut ista. quaelibet fuit ante hoc instans: et tamen 
+      <lb ed="#V" n="112"/>hec est falsa. ante hoc instans fuit qualibet: quia in nullo instanti ante 
+      <lb ed="#V" n="113"/>hoc instans fuit qualibet. Si enim in aliquo sit illud b. hec igitur est 
+      <lb ed="#V" n="114"/>vera: in b. fuit qualibet pars huius forme nunc existens. ergo nulla pars 
+      <lb ed="#V" n="115"/>huius forme nunc est que non fuit in b. et vltra. ergo nunc non sunt 
+      <lb ed="#V" n="116"/>plures partes huius forme quam fuerunt in b. sed in b. non fuerunt 
+      <lb ed="#V" n="117"/>infinite sed finite tantum. ergo nunc non sunt nisi finite tantum: quod est scultum 
+      <lb ed="#V" n="118"/>sic est in proposito nostro: quoniam inter illas infinitas partes 
+      equa<lb ed="#V" n="119" break="no"/>les charitatis nulla est vltima. ideo quaelibet fuit in aliquo 
+      instan<lb ed="#V" n="120" break="no"/>ti ante hoc instans: et in nullo instanti ante hoc instans fuit qualibet: 
+      <lb ed="#V" n="121"/>et ideo hec nunc est vera primo: quaelibet pars huius charitatis est: et similiter 
+      <lb ed="#V" n="122"/>hec: infinita charitas est: vbi vero partes essent finite tantum: sicut sunt 
+      <lb ed="#V" n="123"/>partes equales forme finite bene sequeretur de talibus partibus 
+      lo<lb ed="#V" n="124" break="no"/>quendo: quaelibet pars huius forme nunc existens fuit ante hoc instans 
+      <lb ed="#V" n="125"/>et in nullo instanti ante hoc instans fuerunt huius forme tot vel 
+      <lb ed="#V" n="126"/>tot. vebi gratia centum partes. ergo in hoc instanti non sunt centum 
+      par<lb ed="#V" n="127" break="no"/>tes huius forme. Et ratio est: quia tunc aliqua fuisset vltima omnium qua 
+      <lb ed="#V" n="128"/>fuerunt ante hoc instans: et postquam nulla alia fuit: sed tunc prima 
+      <lb ed="#V" n="129"/>pars antecedentis esset falsa. supposito quod in hoc instanti sit primo con 
+      <lb ed="#V" n="130"/>plete facta forma habens centum partes.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e2550">
+      ⁋ Ad aliud cum argui¬ 
+      <!--303.xml-->
+      <pb ed="#V" n="157-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>tur: quaelibet pars etc. fuit. ergo omnes partes fuerunt. si hoc consequens 
+      pro<lb ed="#V" n="2" break="no"/>prie sumatur. quicquid sit de prima consequentia. nego aliam consequentiam: qua infe 
+      <lb ed="#V" n="3"/>tur. ergo hec tota forma fuit. si ly tota sumatur cathegoredmaoe vt 
+      <lb ed="#V" n="4"/>oportet: si debeat concludi contra propositum: et similiter non sequitur. ergo hec 
+      <lb ed="#V" n="5"/>forma fuit. et est ratio: quoniam proprie loquendo hoc est non vera. omnes partes huius 
+      <lb ed="#V" n="6"/>forme sunt hec forma. omnes enim partes forme sunt partes forme: et ideo non 
+      <lb ed="#V" n="7"/>sunt hec forma. Et si dicatur quod verum est sumedo ly omnes. distri 
+      <lb ed="#V" n="8"/>butiue: sed collectiue accipiendo vere dicitur quod omnes partes forme 
+      <lb ed="#V" n="9"/>sunt forma: sicut et cuiuslibet totius omnes partes simul sumpte sunt to 
+      <lb ed="#V" n="10"/>tum: et econverso quodlibet toium est omnes sue partes simul sumpte. Dico est quod sic 
+      <lb ed="#V" n="11"/>sumpto ly omnes. propositio non est vera de virtute sermomnis propter causam dictam. 
+      <lb ed="#V" n="12"/>et vltra hoc implicat vnum impossibil scilicet quod omnes possint colligi seu 
+      col<lb ed="#V" n="13" break="no"/>lectiue sumi: quia quotcumque partes sumantur: ex quo sumpta sunt 
+      par<lb ed="#V" n="14" break="no"/>tes alicuius totius includentis eas: et per consequens habentis alias vel aliam 
+      <lb ed="#V" n="15"/>partem praeter eas: ac per hoc sumpte non sunt omnes: et ideo illa propositio in 
+      <lb ed="#V" n="16"/>sua propria significatione est falsa: et similiter ille omnes partes simul sunt to 
+      <lb ed="#V" n="17"/>tum: et totum est omnes partes sue simul sumpte: he tamen vere sunt. omnia quorum 
+      <lb ed="#V" n="18"/>quodlibet est pars huius totius sunt hoc totum: et econverso hoc totum est omnia quorum 
+      <lb ed="#V" n="19"/>quodlibet est pars eius: sumendo ly omnia collectiue. Et ad hunc 
+      intel<lb ed="#V" n="20" break="no"/>lectum accipiendo sunt auctoritates dicentes: quod totum est sue partes. 
+      <lb ed="#V" n="21"/>vel similia: et in hoc intellectum vtor talibus propositionibus vbicumque vtor 
+      <lb ed="#V" n="22"/>eis. quibus quamuis sint improprie: frequentius tamen vtor et propter 
+      bre<lb ed="#V" n="23" break="no"/>uitatem: et vt conforme me communi modo loquendi. iuxta doctrinam 
+      <lb ed="#V" n="24"/>philosophi dicentis. Loquendum esse vt plures. sentiendum autem vt 
+      pau<lb ed="#V" n="25" break="no"/>ci.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e2613">
+      ⁋ Sed adhuc potest reduci arguium etiam in propositionibus concessis 
+      <lb ed="#V" n="26"/>sic. qulibet pars huius forme fuit. ergo omnia quorum quodlibet est pars huius 
+      <lb ed="#V" n="27"/>forme fuerunt: et vltra. ergo hec forma fuit. Et patet 2a consequentia quia huimus 
+      <lb ed="#V" n="28"/>est concessa in simili. omnia quorum quodlibet est pars huius forme sunt hoc 
+      for<lb ed="#V" n="29" break="no"/>ma.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e2624">
+      ⁋ Praeterea potest probari eadem consequentia per sillatum expositorium sic. 
+      <lb ed="#V" n="30"/>hec omnia quorum quodlibet est pars huius forme fuerunt. hec omnia quorum 
+      <lb ed="#V" n="31"/>quodlibet est pars huius forme sunt hec forma. ergo hec forma fuit.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e2631">
+      ⁋ Rsponsio 
+      <lb ed="#V" n="32"/>et sicut prius negando consequentia illam 2am: et est ratio: quoniam ex illa. omnia 
+      quo<lb ed="#V" n="33" break="no"/>rum quodlibet etc. non sequitur quod pro aliquo vno instanti aliquando fuerit vera 
+      <lb ed="#V" n="34"/>sua de praesunti. si formata fuisset. cum verbum illud temporis praeteriti 
+      <lb ed="#V" n="35"/>sit pluralis numeri. Exemplum hec est va Adam et Abraham fuerunt: et tamen 
+      <lb ed="#V" n="36"/>hec nunquam fuisset vera: Adam et Abraham sunt: sed ad istam: hoc forma 
+      <lb ed="#V" n="37"/>fuit. sequitur quod hoc aliquando fuisset vera: hoc forma est. et vltra sequitur: 
+      <lb ed="#V" n="38"/>quod hec fuisset vera. omnia quorum quodlibet est pars huius forme sunt. 
+      <lb ed="#V" n="39"/>Cum ergo hec non sequatur ad primam vt dictum est: relinquitur quod ista. hoc 
+      <lb ed="#V" n="40"/>forma fuit. non sit consequens ad illam: nec probatio valet: quoniam ex illis 
+      <lb ed="#V" n="41"/>propositionibus non sequitur ex forma illa conclusio sed est falsa propter muta 
+      <lb ed="#V" n="42"/>tionem pluralis numeri in singularem: sed bene sequitur. ergo aliqua quae sunt huiusmb 
+      <lb ed="#V" n="43"/>forma fuerunt: qua tamen non infert. hoc forma fuit.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e2661">
+      ⁋ Per idem patet 
+      <lb ed="#V" n="44"/>quod ille smllacus expositorius non valet: et potest dari instantia. Nam 
+      <lb ed="#V" n="45"/>posito quod deus olim creasset animam sortis: et similiter corpus. et nunc per 
+      <lb ed="#V" n="46"/>euenerint adinuicem: quod bene est possibile. he erunt vere. hec sisi 
+      <lb ed="#V" n="47"/>anima et corpus) fuerunt. hec sunt sortis: non sequitur. ergo sortes fuit:  
+      <lb ed="#V" n="48"/>cum consequens sit sim ex casu.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e2674">
+      ⁋ Ad probatione aliam dico quod 
+      vtra<lb ed="#V" n="49" break="no"/>que harum est nunc per vera. quaelibet pars huius charitatis fuit. quaelibet pars 
+      <lb ed="#V" n="50"/>huius charitatis est: et ita oportet in quibuscumque formis factis in 
+      <lb ed="#V" n="51"/>tempore continue loquendo de partibus earum infinitis siue eiusdem 
+      quanti<lb ed="#V" n="52" break="no"/>tatis siue eiusdem proportionis. cum arguitur quod hec prius fuit vera: 
+      quaeli<lb ed="#V" n="53" break="no"/>bet pars huius charitatis est: quia quaelibet propositio de praeterito 
+      <lb ed="#V" n="54"/>nunc vera habuit vnam de praesenti prius sibi correspondentem veram. 
+      Di<lb ed="#V" n="55" break="no"/>co quod illud non est verum et maxime de propositionibus vniversalibus: sicut patet 
+      <lb ed="#V" n="56"/>Nam sicut hec est vera: quaelibet dies praeterita fuit: et tamen nunquam hoc fuit 
+      <lb ed="#V" n="57"/>vera: quaelibet dies praeterita est: similiter hec nunc est vera. quilibet qui fuit 
+      <lb ed="#V" n="58"/>rex rancie fuit: nunquam tamen haec fuit vera. quilibet qui fuit rex Fran 
+      <lb ed="#V" n="59"/>cie est. Sufficit enim quod cuilibet singulari correspondeat sua de pre 
+      <lb ed="#V" n="60"/>senti: quae aliquando fuit vera: quamuis est forte non sit semper necessium. In 
+      <lb ed="#V" n="61"/>proposito autem quaelibet talis. hib pars charitatis fuit: habuit vnam 
+      <lb ed="#V" n="62"/>de praesenti sibi corrspondentem vera scilicet hanc. hec pars charitatis est 
+      <lb ed="#V" n="63"/>eadem parte demonstrata: et sic illi vniversali non vna vniversalis: sed multe 
+      <lb ed="#V" n="64"/>singulares de praesenti correspondent: qua quandoque prius fuerunt vere.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e2711">
+      ⁋ Ad  
+      <lb ed="#V" n="65"/>aliam probationem dico quod necessium est cuilibet concedere quod due propositio¬ 
+      <!--303.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 157-v b -->
+               <lb ed="#V" n="66"/>nes vna de praeterito altera de praesenti quales sunt ille. sint 
+      ali<lb ed="#V" n="67" break="no"/>quando vere simul primo: et patet si ille formentur de partibus 
+      pro<lb ed="#V" n="68" break="no"/>portionalibus forme finite facte in tempore continue: nec est 
+      si<lb ed="#V" n="69" break="no"/>mile de illis et de istis. sortes fuit sortes est: quia si iste 
+      vltim<lb ed="#V" n="70" break="no"/>simul primo forent vere: sequeretur quod eadem res demonstrata 
+      fue<lb ed="#V" n="71" break="no"/>rit et non fuerit prius. Ratio est. Quia sequitur. hec est vera. sortes fuit. 
+      <lb ed="#V" n="72"/>sortes prius fuit. Et sequitur: hec est nunc primo vera. sortes est. 
+      <lb ed="#V" n="73"/>ergo sortes nunc primo est. et vltra. ergo sortes non prius fuit: sed ex ista. 
+      <lb ed="#V" n="74"/>hec nunc primo est vera: quelibet pars huius charitatis est. 
+      <lb ed="#V" n="75"/>non sequitur hec quelibet pars huius charitatis nunc primo est: 
+      <lb ed="#V" n="76"/>sed cum ea stat ista. nulla pars charitatis huius nunc primo est. 
+      <lb ed="#V" n="77"/>Et sic non sequitur quod aliqua pars huius charitatis prius fuerit: et 
+      <lb ed="#V" n="78"/>non prius fuerit.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e2750">
+      ⁋ Ad 3am contra idem antecedens responsio: concedendo casum 
+      <lb ed="#V" n="79"/>esse possibilem. Et vltra dico quod in instanti finali hore nulla pars 
+      <lb ed="#V" n="80"/>charitatis erit. et cum probatur oppositum per hoc: quia in instanti fi 
+      <lb ed="#V" n="81"/>nali primo cessat charitas creari concedo. exponendo ly cessat. 
+      <lb ed="#V" n="82"/>per negationem praesentis et positionem praeteriti: et secundum hoc nego consequentiam: 
+      <lb ed="#V" n="83"/>qua infertur quod vel non quelibet erit annihilata in illo 
+      instan<lb ed="#V" n="84" break="no"/>ti: vel aliqua simul annihilabitur et creabitur. Ratio quare non 
+      <lb ed="#V" n="85"/>sequitur est: quia nulla erit primo creata in illo instanti: nec etiam 
+      <lb ed="#V" n="86"/>aliqua erit primo in eo annihilata: et tota ratio est: quia nulla erit 
+      <lb ed="#V" n="87"/>vltima: et similiter nulla erit in aliquo instanti illius temporis primo 
+      <lb ed="#V" n="88"/>creata et annihilata: nec etiam aliqua in eadem parte temporis per 
+      <lb ed="#V" n="89"/>creabitur et annihilabitur: sed prius creabitur quam annihilabitur.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e2776">
+      ⁋ his 
+      <lb ed="#V" n="90"/>tamen non obstantibus in illo instanti finali quelibet harum erit 
+      <lb ed="#V" n="91"/>primo vera: quelibet pars charitatis fuit creata: quaelibet pars 
+      cha<lb ed="#V" n="92" break="no"/>ritatis fuit annihilata: nulla pars charitatis est: loquendo 
+      <lb ed="#V" n="93"/>de illa vna totali charitate quae ponitur in casu creari modo illo 
+      <lb ed="#V" n="94"/>et annihilari. Si tamen proprie posset dici vna charitas vel 
+      cha<lb ed="#V" n="95" break="no"/>ritas et non potius charitates: de quo non facio pro nunc vim: 
+      <lb ed="#V" n="96"/>et quod est dictum patet in simili. Si enim sint duo mobilia quorum vnum 
+      <lb ed="#V" n="97"/>sit altero velocius in duplo: et distet tardum a puncto b. et 
+      im<lb ed="#V" n="98" break="no"/>cipiat moueri a puncto a. versus b. continue: et quando ipsum 
+      <lb ed="#V" n="99"/>primo transierit medietatem totius spacii: quod est inter a. et b. tunc 
+      <lb ed="#V" n="100"/>simul velox incipiat moueri ab a. versus b. constat quod in eodem 
+      in<lb ed="#V" n="101" break="no"/>stanti primo spacium a. b. erit transitum ab vtroque. Et in eodem 
+      <lb ed="#V" n="102"/>nstanti: quo primo erit verum dicere quamlibet partem illius 
+      spa<lb ed="#V" n="103" break="no"/>cii esse pertransitam a veloci. erit etiam primo verum dicere quod 
+      quaeli<lb ed="#V" n="104" break="no"/>bet est transita a tardo: et tamen nulla pars spacii a. b. erit primo 
+      <lb ed="#V" n="105"/>simul pertransita ab vtroque: sed quelibet primo erit pertransita a. 
+      <lb ed="#V" n="106"/>tardo quam a veloci: quod patet: quia si aliqui sit simul transita ab vtroque 
+      <lb ed="#V" n="107"/>aut prius a veloci: residuum spacii ab illa vsque ad b. prius erit 
+      <lb ed="#V" n="108"/>pertransitum a veloci quam a tardo: alias in eodem tempore pri 
+      <lb ed="#V" n="109"/>mo transiret equale spacium velox et tardum: et sic non simul 
+      <lb ed="#V" n="110"/>ab vtroque primo erit transitum spacium a b.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e2824">
+      ⁋ Et per istum 
+      <lb ed="#V" n="111"/>modum soluitur ratio 2Tenonis 6o phyc. que vocatur achilles: de et 
+      <lb ed="#V" n="112"/>velocissimo insequente tardissimum. Sic in proposito dico quod 
+      <lb ed="#V" n="113"/>quelibet pars charitatis erit pus causata quam annihilata: et prius 
+      <lb ed="#V" n="114"/>causabitur quam annihilabitur. Et tamen non erit prius verum dicere: 
+      quae<lb ed="#V" n="115" break="no"/>libet pars fuit vel erit causata: quam sit verum dicere quod quaelibet 
+      <lb ed="#V" n="116"/>est vel fuit annihilata.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e2841">
+      ⁋ Ad 4m dico quod si in casuponatur 
+      <lb ed="#V" n="117"/>quod ille partes sunt in finali instanti hore. casus 
+      tuncimpli<lb ed="#V" n="118" break="no"/>cat impossibilia: et ideo est impossibilis. Nam per casum 
+      <lb ed="#V" n="119"/>cum in aliquo instanti ille partes continuarentur: tunc sunt 
+      <lb ed="#V" n="120"/>continue: et remanent per totam partem hore immediate 
+      se<lb ed="#V" n="121" break="no"/>quentem vsque ad eius instans finale exclusiue: et tunc in il 
+      <lb ed="#V" n="122"/>la discontinuitate sunt et remanent discontinue per partem 
+      <lb ed="#V" n="123"/>sequentem hore: vsque ad suum finale instans exclusiue. Ex 
+      <lb ed="#V" n="124"/>quo sequitur manifeste per casum quod ille partes infinite sunt conti 
+      <lb ed="#V" n="125"/>nue vel discontinue: et quod non sit finale alicuius vnius 
+      illa<lb ed="#V" n="126" break="no"/>rum partium tantum vel inter finalia instantia comprehensum: et cum 
+      <lb ed="#V" n="127"/>instans finale totius hore nullum sit ex praedictis. Iam per casum 
+      <lb ed="#V" n="128"/>ponitur virtualiter quod in instanti finali nec sint continue nec sint 
+      dis<lb ed="#V" n="129" break="no"/>continue. Cum ergo ex alia parte poteatur quod sicut in illo instanti ponitur: quod 
+      <lb ed="#V" n="130"/>tunc sint continue vel discontinue cum sint opposita immedia¬ 
+      <!--304.xml-->
+      <pb ed="#V" n="158-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>ta circa magnitudines. patet quod casus virtualiter implicat 
+      impossibi<lb ed="#V" n="2" break="no"/>lia. Si autem casus poneretur de aliquibus inter quae sit dare 
+      me<lb ed="#V" n="3" break="no"/>dium per abnegationem: vtputa si poneretur vnum corpus in vno 
+      <lb ed="#V" n="4"/>instanti fieret quadratum et in alio circulare. casus esset possi 
+      <lb ed="#V" n="5"/>bilis. Et dicendum esset quod in instanti finali non esset circulare 
+      <lb ed="#V" n="6"/>nec quadratum: sed alicuius alterius figure: sicut deo placeret:  
+      <lb ed="#V" n="7"/>Quod vero additur de annihilatione. Dico quod cum toto casu adhuc 
+      <lb ed="#V" n="8"/>possibile est: quod illa res sit in instanti finali totius hore: et similiter 
+      <lb ed="#V" n="9"/>est possibile quod non sit. Nam stante casu. poterit deus vltra hoc 
+      <lb ed="#V" n="10"/>causare ipsam in illo instanti et similiter poterit eam non causare. cum 
+      il<lb ed="#V" n="11" break="no"/>lud instans non sit aliquod dne praedictis: nec inter illa inclusum. 
+      <lb ed="#V" n="12"/>illud erit ergo quod deo placebit. Sed si ad casum addatur quod in nul 
+      <lb ed="#V" n="13"/>lo alio instanti deus creset illam. Dico quod in illo instanti non 
+      <lb ed="#V" n="14"/>erit: et hoc non propter priorem casum praecise: sed propter additionem 
+      <lb ed="#V" n="15"/>factam: et sic patet quod non datur vltima pars proportionalis.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e2913">
+      ⁋ Aod 
+      <lb ed="#V" n="16"/>8m nego consequentiam: qua dicitur quod sequaeretur quod posset fieri quadrangulus 
+      <lb ed="#V" n="17"/>infinitus.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e2920">
+      ⁋ Ad probationem concedo casum. valet. quod in qualibet parte 
+      <lb ed="#V" n="18"/>proportionali etc. Et vltra dico quod in fine hore non erit aliquis 
+      <lb ed="#V" n="19"/>vnus quadrangulus totalis: aut aliqua vna figura: sed erit vna 
+      <lb ed="#V" n="20"/>magnitudo continens quadrangulos infinitos inter quos 
+      nul<lb ed="#V" n="21" break="no"/>lus erit vltimus: sicut cum aliqua forma sit continue in quolibet 
+      in<lb ed="#V" n="22" break="no"/>stanti terminante aliquam partem proportionalem: post secundam est 
+      <lb ed="#V" n="23"/>maior nunerus partium forme: et tamen in fine nullus numerus. 
+      <lb ed="#V" n="24"/>vnus est omnium predictarum partium: sed multitudo vna 
+      infini<lb ed="#V" n="25" break="no"/>ta infinitos numeros partium includens: quorum nullus est 
+      vlti<lb ed="#V" n="26" break="no"/>mus.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e2942">
+      ⁋ Ad 6um admitto casum sic praecise positum sine pluri et 
+      <lb ed="#V" n="27"/>dico quod in instanti finali hore non erit alicubi: vel in loco in 
+      <lb ed="#V" n="28"/>quo fuit quando incepit moueri: aut aliquo alio in quo fuit in 
+      <lb ed="#V" n="29"/>aliquo instanti temporis mensurantis motum suum: sicut deo placebit:  
+      <lb ed="#V" n="30"/>qui quodlibet praedictorum est deo possibile: et praedicto casui 
+      compossibi<lb ed="#V" n="31" break="no"/>le. Possibile enim est aliquid per totum aliquod tempus continue 
+      mo<lb ed="#V" n="32" break="no"/>ueri: et in instanti terminante annihilari: et similiter est possibile 
+      ali<lb ed="#V" n="33" break="no"/>quo toto tempore moueri: et in instanti terminante esse in loco 
+      vn<lb ed="#V" n="34" break="no"/>de incepit moueri: aut in aliquo mediorum: aut etiam in omnibus 
+      <lb ed="#V" n="35"/>simul: vel pluribus sicut divine omimpotentie foret placitum: et secundum hoc non 
+      <lb ed="#V" n="36"/>sequitur inconueniens illatum: sed si quodlibet praedictorum excludatur per 
+      ca<lb ed="#V" n="37" break="no"/>sum: et ponatur quod ipsum sit alicubi in instanti finali: et non in aliqua 
+      lo<lb ed="#V" n="38" break="no"/>co vbi fuit prius: sed praecise sic sit de ipso quantum ad hoc sicut si per 
+      <lb ed="#V" n="39"/>aliquod certum spacium moueretur modo per naturam possibili: tunc non 
+      <lb ed="#V" n="40"/>admitto casum: eo quod includit incompossibilia. Nam dat certum 
+      <lb ed="#V" n="41"/>locum vnde incepit moueri: et alium locum in quo est in fine 
+      <lb ed="#V" n="42"/>motus: et inter ista duo ponit infinitas partes spacii equales sicut 
+      <lb ed="#V" n="43"/>et infinite sunt partes proportionales in tempore sui motus: et sic 
+      vti<lb ed="#V" n="44" break="no"/>que inter duo extrema ponit spacium infinitum: ac per hoc 
+      po<lb ed="#V" n="45" break="no"/>nit idem spacium esse infinitum et non esse infinitum: quae sunt incompossibilia. 
+      <lb ed="#V" n="46"/>Quantum ad 3m articul pono duas conclusiones loquendo semper 
+      <lb ed="#V" n="47"/>ne motu locali vniuoce ad motus quos 
+      <lb ed="#V" n="48"/>in corporibus finitis experimur. prima est. quod corpus infinitum si 
+      <lb ed="#V" n="49"/>esset posset localiter moueri a deo circulariter seu giratiue. 
+      <lb ed="#V" n="50"/>2a est. quod ipsum non posset moueri recte si ipsum esset vndique 
+      <lb ed="#V" n="51"/>infinitum. Si autem esset secundum aliquam dimensione finitum secundum illam 
+      <lb ed="#V" n="52"/>posset moueri: non autem secundum illam secundum quam esset infinitum.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e3001">
+      ⁋ Prima 
+      <lb ed="#V" n="53"/>conclusio probatur ex eo quod ad ipsam non sequitur aliqua contradictoria 
+      in<lb ed="#V" n="54" break="no"/>uicem posse esse simul vera: sicut patere potest ex solutionibus rationum 
+      opposi<lb ed="#V" n="55" break="no"/>tarum.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e3010">
+      ⁋ 2o et magis directe declaratur: quoniam si orbis solaris 
+      <lb ed="#V" n="56"/>esset in partem superiorem vndequaque infinitus: non apparet propter 
+      <lb ed="#V" n="57"/>quod deus qui est infinite virtutis ad mouendum: non posset facere 
+      <lb ed="#V" n="58"/>quod sol: et similiter quaelibet alia pars orbis eiusdem semper equaliter 
+      di<lb ed="#V" n="59" break="no"/>staret a terra: et in quolibet instanti esset oppositus ad aliam 
+      par<lb ed="#V" n="60" break="no"/>tem terre quam fuit immediate prius: sicut de facto nunc contingit: et per 
+      <lb ed="#V" n="61"/>consequens moueretur in girum: et simul totus orbis esset reuolutus et 
+      sol<lb ed="#V" n="62" break="no"/>ad eiusdem partis terre oppositionem reuersus: et universaliter quaelibet pars 
+      <lb ed="#V" n="63"/>orbis suam reuolutionem compleuisset.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e3031">
+      ⁋ Ex hac conclusione infero 
+      <lb ed="#V" n="64"/>quod philosophus non demonstrauit in primo celi sic putauit quod celum non 
+      <lb ed="#V" n="65"/>est actu infinitum.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e3038">
+      ⁋ Sed contra conclusionem et corredum sunt rationes eius¬ 
+      <!--304.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 158-r b -->
+               <lb ed="#V" n="66"/>dem. quarum prima est: quia si ipsum esset infin: aut etiam aliud corpus 
+      infi<lb ed="#V" n="67" break="no"/>nitum moueretur: sequeretur quod infinitum spacium seu distantia infini 
+      <lb ed="#V" n="68"/>ta esset pertransita: quod est impossibile. Consequentia declaratur: quia 
+      <lb ed="#V" n="69"/>si a centro terre trahantur due linesse recte in infinitum. cum ille 
+      <lb ed="#V" n="70"/>semper magis distent inter se: quanto longius protrahuntur: infinita 
+      <lb ed="#V" n="71"/>distantia erit inter eas. si igitur vna linea moueatur ad locum ali 
+      <lb ed="#V" n="72"/>terius. infinita distantia pertransibitur. hoc autem contingit quantumcumque 
+      <lb ed="#V" n="73"/>modicum corpus infinitum moueatur circulariter. Unde si ponatur quod 
+      <lb ed="#V" n="74"/>orbis solaris sit infinitus: et sol moueatur per distantiam vnius 
+      <lb ed="#V" n="75"/>palmi: et imaginemur lineas egredientes a centro ad 
+      extre<lb ed="#V" n="76" break="no"/>mitates illius palmi pertractas in infinitum: infinita distantia 
+      im<lb ed="#V" n="77" break="no"/>tercipietur. constat quod in tali motu simul erit pertransita illa 
+      distan<lb ed="#V" n="78" break="no"/>tia palmalis: et quilibet alia maior comprehensa inter lineas 
+      il<lb ed="#V" n="79" break="no"/>las.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e3077">
+      ⁋ Amplius sict addit Commentatoris. cum sol perfecte reuolutionem. 
+      <lb ed="#V" n="80"/>compleuerit: erunt ab eo pertransite distantie multitudine infi 
+      <lb ed="#V" n="81"/>nite: quarum qualibet erit infinita magnitudinie. Et illud patet: quoniam a 
+      <lb ed="#V" n="82"/>centro possunt infinite linesse protrahi: et inter quaslibet duas infini 
+      <lb ed="#V" n="83"/>ta distantia compreheditur: et hoc et quod dicit videtur sequi: etiam si non 
+      <lb ed="#V" n="84"/>complete versetur: sed etiam quantumcumque modicum moueatur: quoniam et per 
+      <lb ed="#V" n="85"/>illud modicum infinite linesse possunt protrahi a centro: vnde per hanc 
+      <lb ed="#V" n="86"/>primam rationem videtur probari simpliciter quod celum si esset infinitum 
+      nulla<lb ed="#V" n="87" break="no"/>tenus posset moueri in girum.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e3097">
+      ⁋ 2o si celum esset infinitum: 
+      se<lb ed="#V" n="88" break="no"/>queretur quod magnitudo infinita pertransiretur perfecte in tempore 
+      fini<lb ed="#V" n="89" break="no"/>to. consequens est impossibile: quoniam si tempus est finitum et motus factus 
+      <lb ed="#V" n="90"/>in eo est finitus et magnitudo super quam factus est motus est 
+      <lb ed="#V" n="91"/>etiam finita: vt demonstratum est 6o phy. consequentia declaratur. Nam  
+      <lb ed="#V" n="92"/>imaginemur vnam lineam quiescente tractam a dextro in 
+      sini<lb ed="#V" n="93" break="no"/>strum ex vtraque parte infinitam: et insuper vnam aliam egredientem 
+      <lb ed="#V" n="94"/>a centro in superius infinitam: et illa moueatur quousque rede 
+      <lb ed="#V" n="95"/>at ad punctum in quo est: sicut de facto videmus celum comple 
+      <lb ed="#V" n="96"/>te reuolui. constat quod illa linea mota transibit totam lineam 
+      <lb ed="#V" n="97"/>quiescentem in tempore finito: quia in tempore finito redit ad punctum in 
+      <lb ed="#V" n="98"/>quo est: et antequam tangat lineam quiescentem mouebitur per aliquam 
+      <lb ed="#V" n="99"/>partem temporis illius: et similiter postquam absoluetur ab illa: et per consequens due 
+      <lb ed="#V" n="100"/>partes temporis in quo fit completa reuolutio demuntur a tempore in quo 
+      tran<lb ed="#V" n="101" break="no"/>situr linea infinita quiescens: ac per hoc ipsum est finitum.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e3130">
+      ⁋ 3o sic. si 
+      <lb ed="#V" n="102"/>celum est infinitum: ipsum non est spericum neque circulare. si non est 
+      <lb ed="#V" n="103"/>spericum neque ciculare: non mouebitur circulariter. ergo si est infi 
+      <lb ed="#V" n="104"/>nitum non mouee circulariter. Alias rationes adducunt: sed non 
+      <lb ed="#V" n="105"/>habent aliud fundamentum ab istis.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e3141">
+      ⁋ Ad primam respondeo quod 
+      infini<lb ed="#V" n="106" break="no"/>tum spacium esse pertransitum potest intelligi dupliciter. Uno modo sic. quod in 
+      <lb ed="#V" n="107"/>eius transitu aliqua pars certa transeuntis successiue commensu 
+      <lb ed="#V" n="108"/>ret se infinitis partibus spacii sibi equalibus: quarum vna sit primo et aliqua 
+      <lb ed="#V" n="109"/>vltimo: pertransita. Alio modo sic quod in eius transitu nulla certa pars 
+      trans<lb ed="#V" n="110" break="no"/>euntis commensuret se sic successiue infinitis partibus ei equalibus:  
+      <lb ed="#V" n="111"/>sed quaelibet finitis tantum. Quotcumque tamen vna se commensurat aliqua 
+      <lb ed="#V" n="112"/>alia eiusdem quantitatis pluribus se commensurat: ita quod nulla est 
+      <lb ed="#V" n="113"/>certe quantitatis: quae plurimis equalibus sibi in illo transitu se con 
+      <lb ed="#V" n="114"/>mensuret: et non est aliqua quae se tot commensuret: quin pluribus aliqua alia 
+      <lb ed="#V" n="115"/>sibi equalibus se commensuret. In primo sensu concedo: quod consequens est impossibile: 
+      <lb ed="#V" n="116"/>sicut est paulo ante dictum est de transitu seu acquisitione forme 
+      infini<lb ed="#V" n="117" break="no"/>te: et tunc nego consequentia.
+    </p>
+            <p xml:id="grvnZZ-ed1e97-d1e3171">
+      ⁋ Ad decularationem eius dico: quod inter 
+      nul<lb ed="#V" n="118" break="no"/>las lineas sic tractas intercipitur aliqua distantia infinita secundum 
+      il<lb ed="#V" n="119" break="no"/>lam scilicet dimensionem quae teditur ab vna in aliam. cum impossibile sit inter 
+      de<lb ed="#V" n="120" break="no"/>terminata extrema lineam protrahi infinitam: quia tum ille linesse sunt 
+      <lb ed="#V" n="121"/>it vtraque parte infinita. Et similiter secundum omnem positionis differentiam: in illo corpore 
+      infi<lb ed="#V" n="122" break="no"/>nito suppiteo aliquid esse tale possunt linesse infinita protrahi. idcirco ipsum 
+      <lb ed="#V" n="123"/>est simpliciter infinitum et inter nullas tales duas lineas intercipitur tanta 
+      <lb ed="#V" n="124"/>distantia: quin inter easdem intercipiatur magis maior a centro 
+      reo<lb ed="#V" n="125" break="no"/>ta: ac per hoc inter eas nulla intercipitur infinita secundum illam dimensionem 
+      <lb ed="#V" n="126"/>aut maxia. Ex quo vlterius patet quod in tali motu nlla pars certe 
+      quanti<lb ed="#V" n="127" break="no"/>tatis est ipsius corporis moti quae infinitis sibi equalibus partibus spacii 
+      <lb ed="#V" n="128"/>se commensuret: sic nullibi inter aliquas tules lineas patet tractum ab 
+      <lb ed="#V" n="129"/>vna in aliam est distantia comprehendens infinita m partes equales alicui certe 
+      <lb ed="#V" n="130"/>quantitim: quoniam vt dictum est nullibi inter eas est distantia infinita: quamuis
+      <pb ed="#V" n="158-v"/>
+               <cb ed="#V" n="a"/>
+               <pb ed="#V" n="NaN-v"/>
+               <cb ed="#V" n="a"/>
+               <!-- end of question missing because 158v and 159r seem missing -->
+      
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

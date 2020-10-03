@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#Rimini">Gregory of Rimini</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2020-10-03">October 03, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-ae1bsb">Venice 1503</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-03" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="109-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="grvnZZ-ed1e71"><!-- l1d24q2 -->
+            <head xml:id="grvnZZ-ed1e71-Hd1e106">Quaestio 2</head>
+            <head xml:id="grvnZZ-ed1e71-Hd1e109" type="question-title">Utrum termini numerales multitudinem importantes, ut duo et tres, vere dicantur de divinis personis</head>
+            <p xml:id="grvnZZ-ed1e71-d1e112">
+               <lb ed="#V" n="69"/>⁋ Distinctionis. XXIIII. Questio. II 
+      <lb ed="#V" n="70"/>SEcundo quero vtrum: termini 
+      numera<lb ed="#V" n="71" break="no"/>les multitudinem importantes: 
+      <lb ed="#V" n="72"/>vt duo tres vere dicantur de personis in diuinis. 
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e123">
+               <lb ed="#V" n="73"/>⁋ Et arguitur quod non primo: quia huiusmodi termini significant 
+      <lb ed="#V" n="74"/>numerum. et numerus est accidens inherens rebus numeratis: 
+      <lb ed="#V" n="75"/>vt videtur velle Commenta. 10 meta. sed nullum 
+      ac<lb ed="#V" n="76" break="no"/>cidens est in deo. ergo etc.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e134">
+      ⁋ 2o omnis numerus est quantitas. 
+      <lb ed="#V" n="77"/>ideo vero nulla est quantitas: iuxta illud Aug. 5. de tri. Intelligamus 
+      <lb ed="#V" n="78"/>deum sine quantitate magnum etc. et illud Ambro. in lib. de tri. et 
+      alle<lb ed="#V" n="79" break="no"/>gatur in praesenti distinctione dicens quod in deo non est numerus nec quantitas.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e144">
+      ⁋ 3o quia numerus 
+      <lb ed="#V" n="80"/>est tantum modo rerum continuarum seu corporalium: sic probat per philosophum 3. phy. eo 
+      <lb ed="#V" n="81"/>qui dicit quod numerus causatur ex diuisione magnitudinis: ergo nullus nu 
+      <lb ed="#V" n="82"/>merus reperitur in deo. 
+      <lb ed="#V" n="83"/>Ad oppositum arguitur per illud Ioan. 5. tres sunt qui 
+      testi<lb ed="#V" n="84" break="no"/>monium dantur in celo pater et filius et spiritus sanctus. 
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e157">
+               <lb ed="#V" n="85"/>⁋ hic sunt quatuor videnda. Primum est. vtrum numerus habeat 
+      <lb ed="#V" n="86"/>esse per apprehensionem anime tantum. 2m vtrum numerus 
+      <lb ed="#V" n="87"/>sit rei secundum se distincte a rebus enumeratis siue pro quibus supponunt 
+      <lb ed="#V" n="88"/>termini nuamles. 3m vtrum sit tantum in rebus corporalibus an etiam in 
+      <lb ed="#V" n="89"/>spiritualibus. 4m. vtrum terminarius siue trinitas personarum sit 
+      <lb ed="#V" n="90"/>verus numerus. 
+      <lb ed="#V" n="91"/>Quantum ad primo dico quod non omnis numerus est per 
+      apprehensio<lb ed="#V" n="92" break="no"/>nem anime. quod sic probo. Primo. quia aliqua multitudo non apprehensa ab 
+      <lb ed="#V" n="93"/>anima est multitudo finita vnitatum discretarum. ergo non omnis numerus est 
+      <lb ed="#V" n="94"/>per apprehensionem anime. Antecedens est certum: et consequentia probatur eo quod 
+      distin<lb ed="#V" n="95" break="no"/>ctorum pluralitas finita est numerus: vt dicitur 5o meta. capitulo de quanto. vel vt 
+      <lb ed="#V" n="96"/>communiter diffinitur. Numerus est multitudo ex vnitatibus 
+      aggrega<lb ed="#V" n="97" break="no"/>ta: seu aceruus vnitatum: vt dicit Commenta. 3o phy. 2o sic. 
+      ali<lb ed="#V" n="98" break="no"/>que res esto quod non apprehendantur ab anima sunt tot vel tot finite. verbi gratia 
+      <lb ed="#V" n="99"/>quatuor vel sex: et sic de aliis. ergo aliqua res esto quod non apprehendantur ab 
+      <lb ed="#V" n="100"/>anima sunt numerus: et per consequens non omnis numerus habet esse per apprehesionem anime. 
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e194">
+               <lb ed="#V" n="101"/>⁋ Utraque consequentia est nota: et antecedens probatur: quia non plus dependet 
+      mul<lb ed="#V" n="102" break="no"/>titudo rerum ab anima in esse tot vel tot quam dependeat magnitudo 
+      <lb ed="#V" n="103"/>in esse tanta vel tanta. verbi gratia pedalis vel cubitalis aut alicuius 
+      al<lb ed="#V" n="104" break="no"/>terius determinate mensure: sed constat quod magnitudo corporalis 
+      <lb ed="#V" n="105"/>non dependet in hoc ab anima. quare etc.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e207">
+      ⁋ Per hoc excluditur iste modus 
+      <lb ed="#V" n="106"/>dicendi quod extra animam vtique est multitudo rerum et an apprehendantur: sed 
+      <lb ed="#V" n="107"/>illa non est tot vel tot et per consequens numerus nisi sit numerata ab anima. Nam 
+      <lb ed="#V" n="108"/>simili ratione diceretur quod extra animam vtique est magnitudo: sed illa non est 
+      <lb ed="#V" n="109"/>tanta vel tanta nisi ab anima mensuretur: quod vtique friuolum est. 
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e218">
+               <lb ed="#V" n="110"/>⁋ Excluditur quoque dictum aliorum dicentium quod quamuis multitudo 
+      <lb ed="#V" n="111"/>vnitatum sit actu ex animam non tamen numerus: eo quod ille vnitates sunt 
+      <lb ed="#V" n="112"/>tantum modo materia numeri: quotitas aut illius seu summa et conclusio est forma numeri: 
+      <lb ed="#V" n="113"/>et hoc non est nisi ab anima numerante: et concludente seu summante dictam 
+      <lb ed="#V" n="114"/>multitudinem vnitatum. hoc inquam non valet. nam similiter diceretur quod 
+      <lb ed="#V" n="115"/>magnitudo est tantum materia cubiti et pedis et similium determinate 
+      <lb ed="#V" n="116"/>mensure continuarum quantitatum: quibus non est vnum commune nomen: sicut fini 
+      <lb ed="#V" n="117"/>tis multitudinibus et discretis quantitatibus est commune nomen numerus: sed 
+      <lb ed="#V" n="118"/>tantitas vt cubitalitatis et pedalitatis est forma talium: et hoc 
+      <lb ed="#V" n="119"/>est ab anima mensurante dictam magnitudinem: quapropter non apparet 
+      ali<lb ed="#V" n="120" break="no"/>ua ratio propter quam absque operatione anime multitudo finita non sit 
+      <lb ed="#V" n="121"/>tot vel tot: sicut magnitudo finita est sine operatione anime tanta 
+      <lb ed="#V" n="122"/>vel tanta.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e249">
+      ⁋ Contra conclusionem istam arguitur primo: quia si vera sit 
+      <lb ed="#V" n="123"/>sequitur necessario datis duobus numeris infinitas rerum in 
+      <lb ed="#V" n="124"/>actu: dato namque binario lapidum et binario lignorum: 
+      poni<lb ed="#V" n="125" break="no"/>tur binarius horum binariorum: qui eadem ratione est actu extra 
+      <lb ed="#V" n="126"/>animam: qua et binarius lapidum. et per consequens iam 
+      haben<lb ed="#V" n="127" break="no"/>tur tres binarii. vnus lapidum et alter lignorum et tertius 
+      bi<lb ed="#V" n="128" break="no"/>nariorum praedictorum: et illa trinitas horum trium numerorum 
+      pa<lb ed="#V" n="129" break="no"/>ti ratione etiam est actu in rerum natura: et sunt iam quatuor nu 
+      <lb ed="#V" n="130"/>meri: tres binarii et vnus quaternarius et sic in infinitum¬ 
+      <!--210.xml-->
+      <pb ed="#V" n="110-r"/>
+               <cb ed="#V" n="a"/>
+            </p>
+            <p xml:id="grvnZZ-ed1e71-d1e276">
+               <lb ed="#V" n="1"/>⁋ 2o sequitur quod realitas maior sit equalis minori: quod est impossibile. 
+      <lb ed="#V" n="2"/>consequentia declaratur. Nam realitas binarii vel dualitas duorum quin 
+      a<lb ed="#V" n="3" break="no"/>riorum est maior realitate dualitatis lignorum. Nam potest in duas 
+      per<lb ed="#V" n="4" break="no"/>tes equales diuidi maiores: quam posset dualitas lignorum: quoniam 
+      <lb ed="#V" n="5"/>illa in duos quinarios: hoc aut tantum in duas vnitates: constat autem quod 
+      <lb ed="#V" n="6"/>quinarius est maior realitas realitate vnitatis. concluditur ergo quod 
+      <lb ed="#V" n="7"/>realitas dualitatis quinariorum maior est realitate dualitatis 
+      <lb ed="#V" n="8"/>lignorum: sed ex alia parte omnis dualitas omni dualitati est equalis. quin 
+      <lb ed="#V" n="9"/>maior minori equalis erit.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e298">
+      ⁋ 3o nullum reale replicatur aut 
+      re<lb ed="#V" n="10" break="no"/>flectitur super seipum: non enim albedo suscipit albedinem: aut 
+      ni<lb ed="#V" n="11" break="no"/>gredo nigredinem: sed numerus replicat super seipm: dicimus enim 
+      <lb ed="#V" n="12"/>duos binarios et tres ternarios: et sic de aliis.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e307">
+      ⁋ 4o 
+      cuius<lb ed="#V" n="13" break="no"/>libet numeri vnitates habent inter se aliquam connexionem qui non potest esse 
+      <lb ed="#V" n="14"/>nisi ab anima. ergo nullus numerus habet esse absque operatione anime: consequentia 
+      <lb ed="#V" n="15"/>patet: et antecedens quantum ad hoc quod dicit vnitates nui habere connexionem: sed 
+      <lb ed="#V" n="16"/>quod illa connexio non possit esse nisi per animam. probatur: quia si illa esset 
+      <lb ed="#V" n="17"/>in re ex. vel ideo essent connexe vnitates: quia continentur infra vnum 
+      <lb ed="#V" n="18"/>marsupium: et hoc non: quia deinarius existens in marsupio vno: et dena 
+      <lb ed="#V" n="19"/>rius existens in alio ita sunt duo: sicu si ambo essent in vno: et simili modo 
+      <lb ed="#V" n="20"/>probatur: quod non ideo sint connexe: quia continentur infra eundem causapum: vel idem 
+      <lb ed="#V" n="21"/>emisperium aut idem celum: aut sunt connexe: quia continentur infra 
+      eundem<lb ed="#V" n="22" break="no"/>ambitum vniuersitatis rerum: et hoc dici non potest: quia talis ambitus et 
+      <lb ed="#V" n="23"/>otinentia non est ex natura rei: sed tantum per operationem anime.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e333">
+      ⁋ 5o sequitur. quod 
+      <lb ed="#V" n="24"/>in rerum natua esset vnus numerus tantum. valet ille qui comprehenderet 
+      vni<lb ed="#V" n="25" break="no"/>uersitatem omnium rerum demonstratarum: consequens est falsum. probatur consequentia 
+      <lb ed="#V" n="26"/>qui si dentur alii numeri minores qui mensurant partes illius 
+      vniuersi<lb ed="#V" n="27" break="no"/>tatis cum numeri sint oppositi summe: sequitur quod opposita summe 
+      es<lb ed="#V" n="28" break="no"/>sent in eodem simul. Nam duo lapides mensurantur dualitate: et iterum 
+      <lb ed="#V" n="29"/>cum ipsi cum alio qui est in rerum natura sint tres est mensurantur trinitate 
+      <lb ed="#V" n="30"/>et eodem modo probatur quod mensurentur quaternitate propter lapidem quartum 
+      <lb ed="#V" n="31"/>qui est in rerum nam: et sic de aliis omnibus numeris maioribus potest probari. 
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e353">
+               <lb ed="#V" n="32"/>⁋ 6o idem probatur ex intentione philosophi. 4o phycorum in fine: vbi sic ait 
+      <lb ed="#V" n="33"/>sed translationem Commentatoris. dicamus verbi gratia quod cum numerans non fuerit:  
+      <lb ed="#V" n="34"/>numerare non erit. ergo manium est etiam quod numerus non erit. Et cum nihil 
+      <lb ed="#V" n="35"/>aliud aptum natum sit numerare quam anima et anime intellectus: impossibile est vt 
+      <lb ed="#V" n="36"/>sit numerus: cum anima non fuerit: hoc verba adeo sunt clara: quod non indigent 
+      <lb ed="#V" n="37"/>expositione.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e369">
+      ⁋ Idem probatur ex intentione Commenta. ibi. Qui dicit nu 
+      <lb ed="#V" n="38"/>merus non est nisi actio numerantis in numerato: et manium est quod cum 
+      nu<lb ed="#V" n="39" break="no"/>merans non fuerit: actio eius non erit. Impossibile est aut aliquod aliud 
+      prae<lb ed="#V" n="40" break="no"/>ter animam numerare et anime intellictum. ergo manium est quod cum anima non 
+      fue<lb ed="#V" n="41" break="no"/>rit nec erit numerus: et infra dicit: esse vero numeri in anima: non est esse omnibus 
+      mo<lb ed="#V" n="42" break="no"/>dis quoniam esset fictum: sicut chymera et hyrcoceruus: sed esse eius extra 
+      <lb ed="#V" n="43"/>mente est in potes propter subiectum proprium: esse vero eius in anima est in actum scilicet quando anima 
+      <lb ed="#V" n="44"/>egerit actionem illam quae dicitur numerus in subiecto praeparato ad 
+      recipien<lb ed="#V" n="45" break="no"/>dum illam. Ex quibus est patet: quod numerus non est actu absque anime 
+      apprehensio<lb ed="#V" n="46" break="no"/>ne.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e392">
+      ⁋ Ad primum horum respono negando consequentia: ad probationem dico: quod 
+      <lb ed="#V" n="47"/>binarius illorum binariorum vtique realis est: non tamen est aliqua res 
+      di<lb ed="#V" n="48" break="no"/>ticta ab illis duobus binariis: nec est aliud quam ipsi duo binarii: 
+      <lb ed="#V" n="49"/>sicut et binarius lignorum non est aliud quam ipsa duo ligna: et generaliter 
+      nul<lb ed="#V" n="50" break="no"/>lus numerus est res distincta ab omnibus vnitatibus simul sumptis: vt in 
+      <lb ed="#V" n="51"/>sequenti. arti. ostendetur.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e405">
+      ⁋ Ad 2m similiter nego consequentia. Ad 
+      probatio<lb ed="#V" n="52" break="no"/>nem cum assumitur quod omnis dualitas omni dualitati est equalis. Duend 
+      <lb ed="#V" n="53"/>quod si loquamur de dualitatibus simpliciter: que scilicet equa componuntur ex 
+      <lb ed="#V" n="54"/>vnitatibus simpliciter proportio est vera: sed tunc non es ad propositum: quoniam 
+      nul<lb ed="#V" n="55" break="no"/>la dualitas lignorum est dualitas simpliciter: sicut nec aliquis numerus 
+      <lb ed="#V" n="56"/>est vnus simpliciter et similiter dualitas lignorum non est dualitas 
+      simpli<lb ed="#V" n="57" break="no"/>citer: sicut nec aliquod lignum est vnum simpliciter: vt patet in praecedenti. q. 
+      <lb ed="#V" n="58"/>Unde quamuis duo quinarii sint duo quinarii: non tamen sunt simpliciter 
+      <lb ed="#V" n="59"/>duo: nec duo ligna sunt simpliciter duo: quamuis sint duo ligna. Si 
+      <lb ed="#V" n="60"/>vero loquamur de dualitatibus secundum quid id est horum vel illorum. Dico quod 
+      <lb ed="#V" n="61"/>proporitio est vera intelligendo equalitatem secundum illa quarum dicuntur dualitates. 
+      <lb ed="#V" n="62"/>Dis enim dualitas bis tantum continet suum vnum. sed non est vera vniversaliter si 
+      <lb ed="#V" n="63"/>attendatur equalitas patet alia: quaerum non dicuntur dualitates. verbi gratia 
+      duali<lb ed="#V" n="64" break="no"/>tas exercituum primo modo est equalis dualitati hominum: quia sicut illa bis 
+      <lb ed="#V" n="65"/>tantum continet vnum hominem: et est duo homines tantum: sic ista bis tantum con¬ 
+      <!--210.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 110-r b -->
+               <lb ed="#V" n="66"/>tinet vnum exercitum: et est duo exercitus tantum: nec ista est plures vel 
+      <lb ed="#V" n="67"/>dauciores exercitus quam illa est homines. Sed 2o modo iste dualitates 
+      <lb ed="#V" n="68"/>non sunt equales: quoniam dualitas exercituum est plures homines et plures 
+      <lb ed="#V" n="69"/>anime et corpora quam dualitas hominum: sic in proposito dualitas 
+      quina<lb ed="#V" n="70" break="no"/>riorum est primo modo equalis dualitati lignorum: quoniam illa non est plures vel 
+      <lb ed="#V" n="71"/>pauciores quinarii quam illa est ligna: sed tot praecise: est tamen plura 
+      li<lb ed="#V" n="72" break="no"/>gna si illi quinarii sint lignorum: quam est ista. nam illa est decem: hoc autem 
+      <lb ed="#V" n="73"/>duo tantum.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e462">
+      ⁋ Ad 3m dicendum. quod illa replicatio et reflexio potest 
+      intel<lb ed="#V" n="74" break="no"/>igi quantium ad realem receptionem: sicut subiectum recipit formam: et tunc 
+      <lb ed="#V" n="75"/>minor est falsa. Nam numerus non est aliqua res informans alium numerum: 
+      <lb ed="#V" n="76"/>nec cum dicuntur duo binarumi datur intelligi a recte sentientibus quod 
+      <lb ed="#V" n="77"/>sit vnus binarius informans duos binarios: sicut nec cum 
+      vnita<lb ed="#V" n="78" break="no"/>tes dicuntur due datur intelligi quod sit aliqua res qua dicitur dualitas 
+      infor<lb ed="#V" n="79" break="no"/>mans vnitates: vt in sequenti arti. ostendetur: vel illa reflexio potest 
+      <lb ed="#V" n="80"/>intelligi quantum ad praedicationem: et tunc maior est falsa. Nam 
+      con<lb ed="#V" n="81" break="no"/>stat quod multitudo rerum est absque operatione anime: et tamen dicimus quod 
+      <lb ed="#V" n="82"/>sunt multe multitudines hominum in vniuerso: et piscium in mari et 
+      <lb ed="#V" n="83"/>stellarum in celo.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e486">
+      ⁋ Ad 4m nego antecedens. Nam ad hoc quod vnitates 
+      <lb ed="#V" n="84"/>sint numerus sufficit quod vna no sit alia: et quaelibet singulariter 
+      <lb ed="#V" n="85"/>sit vnum tale: qualia plilciter dicuntur omnes simul: vt si sint due entitates: 
+      <lb ed="#V" n="86"/>vel subiecte: sufficit quod vtraque sit vna quantitas vel vna subiecta: et 
+      <lb ed="#V" n="87"/>vna non sit alia: et sic suo modo de aliis: nec alia conuenexio requiritur. 
+      <lb ed="#V" n="88"/>Quia aut qualibet sit vnum tale: et vna sit disticta ab alia in multi 
+      con<lb ed="#V" n="89" break="no"/>tingit absque anime apprehensione.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e502">
+      ⁋ Ad 5am nego consequentia. Nam 
+      posi<lb ed="#V" n="90" break="no"/>to quod non sint plures quam centum homines in mundo: et omnes simul sint vnus 
+      <lb ed="#V" n="91"/>numerus scilicet centenarius vel c. homines. adhuc sortes et plato sunt duo ho 
+      <lb ed="#V" n="92"/>misericordies: et illi adiuncto Cicerone sunt tres. et illi et petrus simul sint 
+      <lb ed="#V" n="93"/>quatuor: et sic deinceps.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e513">
+      ⁋ Illud aut quod inferur scilicet quod opposita 
+      sum<lb ed="#V" n="94" break="no"/>me essent in eodem: procedit ex falsa imaginatione putantis. quod nu 
+      <lb ed="#V" n="95"/>merus sic sit quadam realitas distincta ab vnitatibus et existens in 
+      il<lb ed="#V" n="96" break="no"/>lis: verum est aut quod de eisdem vnitatibus praecise non possunt verificari 
+      ter<lb ed="#V" n="97" break="no"/>mini numerales diuersarum specierum. Nam de sortes et platons praecise 
+      verifi<lb ed="#V" n="98" break="no"/>catur binarius: sorte enim et platons sunt duo homines seu binarius hominum quod 
+      <lb ed="#V" n="99"/>idem apud me valet: sed de eis praecise non verificatur terminarius vel 
+      quater<lb ed="#V" n="100" break="no"/>narius homnum: aut alius numerus. Idem tamen sortes est pars binarii et 
+      <lb ed="#V" n="101"/>ternarii et quaternarii et ceterorum sequentium nuorum: nec istud est 
+      <lb ed="#V" n="102"/>inconueniens: sed verum: sicut et idem homo est pars familie et tribus et plurli 
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e536">
+               <lb ed="#V" n="103"/>⁋ Ad dum dicendum: quod numerus est duplex: quidam qui est multitudo 
+      vni<lb ed="#V" n="104" break="no"/>tatum non continuarum seu discretarum in rerum nam: sicut duo homines: quidam 
+      <lb ed="#V" n="105"/>vero est multitudo vnitatum discretarum tantum per significationem et diui 
+      <lb ed="#V" n="106"/>sionem anime: continuarum vero in rerum nam: sict multitudo partium quantitatis 
+      <lb ed="#V" n="107"/>continue diuisarum per significationem anime seu diuisim et seorsum 
+      si<lb ed="#V" n="108" break="no"/>gninfieatarum dicitur numerus: hoc modo accipit nunerum philosophus primo posteriorum quando 
+      <lb ed="#V" n="109"/>dicit: quod non est ex alio genere discendentem demonstrare: vt 
+      geometri<lb ed="#V" n="110" break="no"/>cum in arismetrica: et sequitur quod non contingit arismetrica demonstratione 
+      <lb ed="#V" n="111"/>quaerere accidenta in magnitudinibus nisi magnitudines sint numeri: vt 
+      <lb ed="#V" n="112"/>dicit lynconolgion quod cum magnitudo sit realis et numerara: tunc scientia 
+      <lb ed="#V" n="113"/>de nuoa discendit in scientiam magnitudinum: sicut accipit in ideo li. euclis. 
+      <lb ed="#V" n="114"/>Et hoc innuit Arum. per hanc exceptionem nisi magnitudines numeri 
+      <lb ed="#V" n="115"/>sint. In. ide nim li. eucli. fiunt magnitudines rationales et 
+      quodam<lb ed="#V" n="116" break="no"/>modo numeri: hec ille: cum aut numerus proprie sumptus sit multitudo 
+      fi<lb ed="#V" n="117" break="no"/>nita discretarum seu quod idem est non continuorum vel facientium per se 
+      <lb ed="#V" n="118"/>vnum: vt patet. 5o meta. et discretio nuri 2o modo sumpti non sit nisi ab 
+      <lb ed="#V" n="119"/>anima diuidente: patet quod numerus 2o modo sumptus non est absque anime 
+      apprehensio<lb ed="#V" n="120" break="no"/>ne: talis vero numerus est tempus: cum non sit nisi prius et posterius motus 
+      <lb ed="#V" n="121"/>potinui diuisa et numerata seu multiplicata per animam. Unde Commentators. 
+      <lb ed="#V" n="122"/>4o physico. Dicamus inquit quod extra mentem non est nisi motum 
+      <lb ed="#V" n="123"/>et motus: et tempus non fit nisi quando mens diuidit motum in prius et 
+      po<lb ed="#V" n="124" break="no"/>sterius: et ideo est intentio nueri motus id est motum esse numeratum. ergo subiecta 
+      ten<lb ed="#V" n="125" break="no"/>oris quae est in eo quasi forma est numerus: et quod est in eo quasi 
+      <lb ed="#V" n="126"/>materia est motus continuus: quoniam non est numerus simpliciter: sed  
+      <lb ed="#V" n="127"/>est numerus motus: continuatio ergo accidit ei gratia materie: et 
+      <lb ed="#V" n="128"/>discretio scilicet numerus gratia forme: et est compositus ex duabus 
+      quanti<lb ed="#V" n="129" break="no"/>tatibus scilicet discreta et continua: et ista compositio accidit 
+      mensu<lb ed="#V" n="130" break="no"/>ris quando diuiduntur: et est consideratio que est in. 10 eucli. de 
+      <!--211.xml-->
+      <pb ed="#V" n="110-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>magnitudinibus. in io enim tractatu consideratur de magnitudinibus 
+      <lb ed="#V" n="2"/>secundum quod sunt numeri. Commento. 10 dicit quod motus diuisus ergo 
+      <lb ed="#V" n="3"/>duo instantia prius et posterius est ipsum tempus. Et infra. 
+      <lb ed="#V" n="4"/>Tpraes inquit nihil aliud est quam prius et posterius in motu: sed secundum quod sunt 
+      <lb ed="#V" n="5"/>numerata et diuisa et discreta: et ido indiget in hoc quod sit in actu anima 
+      <lb ed="#V" n="6"/>scilice pere quod est prius et posterius numerata: hoc Commentatori.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e619">
+      ⁋ Item sciendum quod 
+      <lb ed="#V" n="7"/>nuare quod est actio anime dupliciter sumitur. Nam vno modo idem est quod aliquam 
+      <lb ed="#V" n="8"/>multitudinem discretam per replicationem vnitatis mensurare et 
+      <lb ed="#V" n="9"/>eius quantitatem cognoscere: et hoc modo dicitur 10 meta. quod numerus 
+      mensu<lb ed="#V" n="10" break="no"/>ratur et numeratur per vnum. Alio modo idem est quod aliquod vnum diuidere et 
+      <lb ed="#V" n="11"/>multiplicare quasi idem sit numerare quod de vno nunerum facetur. Unde 
+      <lb ed="#V" n="12"/>Commentator. 4o phy. vbi philosophus vult quod instans multiplicatur secundum esse. dicut 
+      <lb ed="#V" n="13"/>Commentators. quod nuatio eius scilicet instantis est ex hoc quod translatum numeretur id est 
+      <lb ed="#V" n="14"/>multiplicatur. ecce quod numerari exponit per multiplicari. Ex his 
+      <lb ed="#V" n="15"/>ergo patet: quod non est intentio philosophi vel Comten dicere quod nullus numerus sit si 
+      <lb ed="#V" n="16"/>anima non fuerit: sed solum numerus 2o modo sumptus equalis numerus est tempus: et iste 
+      <lb ed="#V" n="17"/>numerus est cuius esse in potes est extra metem: esse vero in actu est 
+      <lb ed="#V" n="18"/>in anima. Item iste est qui presupponit vel requirit actionem 
+      <lb ed="#V" n="19"/>anime que est numerare secundo modo sumptum. 
+      <lb ed="#V" n="20"/>Quantum ad 2m ar. dicitur quod numerus qui est quantitas discre 
+      <lb ed="#V" n="21"/>ta de quo est est principalis iquisitio: ponit 
+      quod<lb ed="#V" n="22" break="no"/>dam accidens additum supra res de quibus dicuntur termini nuamles: hoc 
+      <lb ed="#V" n="23"/>positio non videtur mihi vera. Ion arguo contra eam primo sic. Quecumque sunt tot 
+      <lb ed="#V" n="24"/>vel tot sunt seipis non per aliquam entitatem eis inherentem tot vel tot. ergo 
+      <lb ed="#V" n="25"/>nullus numerus est res aliqua inherens rebus numeratis. Consequentia. 
+      <lb ed="#V" n="26"/>patet: antecedens probatur: quia omnium quae sunt tot vel tot quodlibet est seipo non per aliquam 
+      <lb ed="#V" n="27"/>entitate sibi inherentem verum: vt patet ex praecedenti. q. ergo quodlibet eorum: 
+      <lb ed="#V" n="28"/>et quodlibet aliud seipis non per entitatem inherentem sunt duo et quolibet tria 
+      <lb ed="#V" n="29"/>seipis tria: et universaliter qualibet tot vel tot: vt. ideo vel 5o. aut alio quaelibet 
+      <lb ed="#V" n="30"/>nuoa seipis sunt tot vel tot.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e674">
+      ⁋ Confirmatur. quia si aliqua essent tot. 
+      <lb ed="#V" n="31"/>verbi gratia duo per entitatem inherentem vnum illorum duorum: et ipsa 
+      duali<lb ed="#V" n="32" break="no"/>tas essent due entitates: vel ergo seipis: et tunc eadem ratione prima duo 
+      <lb ed="#V" n="33"/>et quaelibet alia duo seipis sunt duo: cum non possit ratio potior assignari 
+      <lb ed="#V" n="34"/>qprod istis quam pro illis: vel sunt duo alia dualitate inherente. et tunc 
+      si<lb ed="#V" n="35" break="no"/>militer illa et illud primo sumptum: sunt est due entitates per aliam 
+      dualita<lb ed="#V" n="36" break="no"/>tem: et sic in infinitum
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e690">
+      ⁋ 2o aut istud accidens additum quod dicitur esse numerus est 
+      <lb ed="#V" n="37"/>entitas omnino simplex et indiuisa in se: aut est entitas composita et 
+      <lb ed="#V" n="38"/>diuisa in partes.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e697">
+      ⁋ Primum non potest dici primo: quia numerus non esset quantitas 
+      <lb ed="#V" n="39"/>discreta: cum omnis quantitas sit divisibili: vt patet. 5o meta.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e702">
+      ⁋ 3o quia 
+      ton<lb ed="#V" n="40" break="no"/>sequitur quod idem accidens nuoa secundum se totum sit in pluribus rebus loco maxime 
+      <lb ed="#V" n="41"/>distantibus. verbi gratia millenarius hominum in diuersis mundi partibus 
+      exi<lb ed="#V" n="42" break="no"/>stentium esset totus in quolibet illorum: et iterum totus in qualibet parte cuiuslibet eorum: 
+      <lb ed="#V" n="43"/>quod est absurdum et impossibile per naturam. consequentia patet. quia quae ratione est in vno homine 
+      <lb ed="#V" n="44"/>eadem ratione est in quaolibet: et qua ratione in vna parte vnius hominis: eadem ratione 
+      <lb ed="#V" n="45"/>quaelibet parte.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e719">
+      ⁋ 4o: quia sequeretur quandocumque generaretur vnus homo: simul in quaelibet 
+      <lb ed="#V" n="46"/>homine mundi fieret vna res noua absoluta. Nam tunc esset nouus 
+      <lb ed="#V" n="47"/>numerus hominum: nec solum vna fieret: sed innumerabiles: nam iste homo 
+      <lb ed="#V" n="48"/>nouiter generatus: et sortes praeexistens essent duo: et per consequens fieret in 
+      vtro<lb ed="#V" n="49" break="no"/>que binarius: et eadem ratione in quolibet alio homine fieret nouus binarius. 
+      <lb ed="#V" n="50"/>Nam quilibet alius et ipse essent duo. Item ipse et quilibet duo alii essent 
+      <lb ed="#V" n="51"/>tres: et per consequens in qualibet fieret terminarius: et sic quotcumque homnibus posset 
+      <lb ed="#V" n="52"/>connumerari: tot in quolibet homine fierent noue entitates: hoc aut 
+      absur<lb ed="#V" n="53" break="no"/>da sunt audientibus. Si vero illud accidens sit entitas in se diuisa est 
+      <lb ed="#V" n="54"/>habens partes: vel sue partes sunt adinuicem continue: et sic numerus non esset 
+      <lb ed="#V" n="55"/>quantitas discreta: sed continua seu magnitudo: cum omnis quantitas 
+      <lb ed="#V" n="56"/>diuisibilis in continuam sit magnitudo: vt patet. 5o metaph. Ex quo 
+      <lb ed="#V" n="57"/>vlterius sequitur quod in omnibus rebus aliquo nuoa numeratis. verbi gratia millenatio 
+      <lb ed="#V" n="58"/>oco est distantibus esset vna magnitudo nuoa. Et multa alia ex 
+      <lb ed="#V" n="59"/>hoc inconuenientia possent inferri: vel sue partes non sunt adiuicem conti 
+      <lb ed="#V" n="60"/>nue: sed discrete: vocando discretam quaecumque nonsut inuicem continue 
+      <lb ed="#V" n="61"/>seu vnum per continuationem: et tunc vel ille partes essent nueri vel 
+      vni<lb ed="#V" n="62" break="no"/>tates (none enim possent esse alie partes quantitatis discrete inquantum husmodi 
+      <lb ed="#V" n="63"/>non potest aut dici quod sunt numeri: tum quia non quilibet numerus est diuisibilis in nuoas: 
+      <lb ed="#V" n="64"/>erbi gratia duarum vnitatum: tum quia quilibet illorum nuoarum haberet partes et de 
+      il<lb ed="#V" n="65" break="no"/>llecs etiam esset quaerendum: et sic vel qaulibet numerus esset compositus ex infinitis 
+      <!--211.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 110-v b -->
+               <lb ed="#V" n="66"/>numeris: quod est impossibile: vel aliquis esset compositus ex vnitatibus: et eadem 
+      <lb ed="#V" n="67"/>ratione quilibet. quamuis vnus ex paucioribus: alius vero ex pluribus: et si istum 
+      <lb ed="#V" n="68"/>detur: aut ille vnitates seipis nullo addito sunt numerus: aut per 
+      <lb ed="#V" n="69"/>aliquod additum eis. Si per additum quaerendum est de illo: an sit 
+      sim<lb ed="#V" n="70" break="no"/>plex vel habens partes sicut prius: si seipis ille vnitates sunt numerus: 
+      <lb ed="#V" n="71"/>cum vnitates nuamles non sint res superaddite rebus numeratis: sed  
+      <lb ed="#V" n="72"/>ilibet talium rerum sit seipa: et non per aliquod ei additum vna: vt 
+      proba<lb ed="#V" n="73" break="no"/>tum est in praecedenti. q. sequitur quod numerus non sit accidens superadditum rebus 
+      <lb ed="#V" n="74"/>numeratis id est rebus qua sunt tot vel tot: hoc enim modo voco in proposito res 
+      <lb ed="#V" n="75"/>numeratas.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e793">
+      ⁋ Dico ergo quantum ad istum arti. quod numerus non est aliquod ta de 
+      <lb ed="#V" n="76"/>le accidens distinctum a rebus numeratis: sed sicut dicit philosophus 10 metaph. prima 
+      <lb ed="#V" n="77"/>Nlumerus est pluralitas vnitatum id est plures vnitates: vt illa sit con¬ a 
+      <lb ed="#V" n="78"/>structio intransitiua: secundum quem sensum eum fuisse locutum apparet ex ie 
+      <lb ed="#V" n="79"/>eo quod. 3o phy. vbi noua translatis habet numerus est vno plura: transla¬ I 
+      <lb ed="#V" n="80"/>tio commenti habet: numerus est plures vnitates. et Commentatoris. ibi dicit quod nu t 
+      <lb ed="#V" n="81"/>merus est coaceruus vnitatum: et ideo meta. dicit quod in diffinitione numeri 
+      <lb ed="#V" n="82"/>dictum est quod est multitudo composita ex vnitatibus: et rursus. 4o l 
+      <lb ed="#V" n="83"/>phy. dicit quod quia vnum est mensura vnigenea nuoa: numerus est plures 
+      <lb ed="#V" n="84"/>vnitates: vnitates aut ipse vt ex praecedentibus patet: non sint aliqua 
+      ac<lb ed="#V" n="85" break="no"/>cidentia vel entitates superaddite rebus vnis et numerati: et per 
+      <lb ed="#V" n="86"/>consequens nec ipse numerus.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e819">
+      ⁋ Ex hoc vlterius sequitur: quod nullus nuerus 
+      <lb ed="#V" n="87"/>proprie loquendo est aliqua entitas per se vna: sed plures. vnde sic nulla 
+      <lb ed="#V" n="88"/>res per se vna est proplulus vel exercitus: nec isti termini de aliquo 
+      <lb ed="#V" n="89"/>supponente pro re aliqua per se vna verificari possunt: sed de pluribus tantum vel 
+      <lb ed="#V" n="90"/>de aliquo supponente pro rebus pluribus: sic nulla vna res inquantum huiusmodi 
+      <lb ed="#V" n="91"/>est numerus: nec de aliqui supponente pro huiusmodi per se vna re potest verificari 
+      <lb ed="#V" n="92"/>aliquis termius numeralis: vel si verificaretur hoc contingeret inquantum 
+      il<lb ed="#V" n="93" break="no"/>a pro quibus subiectum supponeret essent plura et non inquantum vnum. sicut ergo de sortes 
+      <lb ed="#V" n="94"/>et platono dicimus quod sunt duo homines: sic possumus dicere quod sunt 
+      duali<lb ed="#V" n="95" break="no"/>tas vel binarius hominum: et sic nulla res per se vna est sortes et plato 
+      <lb ed="#V" n="96"/>aut aliquid duo homines: sic nulla est dualitas aut binarius 
+      ho<lb ed="#V" n="97" break="no"/>minum: et sicut duo homines sunt plures homines et plures res: sic binarius 
+      <lb ed="#V" n="98"/>hominum est plures homines et plures res.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e848">
+      ⁋ Sed contra hoc potest argui 
+      multi<lb ed="#V" n="99" break="no"/>pliciter: primo quidem: quia si res numerate sint numerus sequitur quod aliqui numeri 
+      inequa<lb ed="#V" n="100" break="no"/>les erut eiusdem specie. verbi gratia senarius et septenarius hoium. nam sex 
+      <lb ed="#V" n="101"/>homines et sepatem homines sunt eiusdem speciei.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e857">
+      ⁋ Item aliqui numeri equales 
+      <lb ed="#V" n="102"/>erunt diuersarum specierum et distincti nueri: sicut septenarius canum et 
+      se<lb ed="#V" n="103" break="no"/>ptenarius seopetum: et constat quod hi canes et illi seopentes distinguuntur. 
+      <lb ed="#V" n="104"/>et specie et nuoa. Sed vtriusque consequentis falsitas patet: primi quidem. S. met. et 
+      <lb ed="#V" n="105"/>vbi vult philosophus quod quaelibet vnitas addita nuoa variat speciem numeri: et 
+      <lb ed="#V" n="106"/>pr consequens omnis septenarius a qualibet senario distiguitur specie. Secundi vero 
+      <lb ed="#V" n="107"/>consequentis patet falsitas. 4o phy. in fine. vbi dicit philosophus dicitur aut recte quod ergo 
+      <lb ed="#V" n="108"/>numerus idem est ouium et canum: nec solum videtur velle quod sit idem specie: sed 
+      <lb ed="#V" n="109"/>quod sit idem nuoa: vnde per hoc quod tempus est numerus motuum: et idem est numerus 
+      <lb ed="#V" n="110"/>diuersorum numeratorum equalium multitudinie: probat quod omnium est idem et 
+      <lb ed="#V" n="111"/>vnum nuoa tempus.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e881">
+      ⁋ 2o quia sequitur quod aliqua subiecte essent quantitas cum 
+      <lb ed="#V" n="112"/>omnis numerus sit quantitas. consequens aut est seultum: tum quia omnis quantitas est 
+      acci<lb ed="#V" n="113" break="no"/>dens: tum quia subiecta et quantitas sunt disticta praedicamnta et genera non 
+      sub<lb ed="#V" n="114" break="no"/>alternati posita: et per consequens patedt regulam philosophi in praedicamentis. eorum 
+      <lb ed="#V" n="115"/>sunt diuerse species et diffentie: ergo duo homines non sunt binarius: cum homo sit 
+      <lb ed="#V" n="116"/>species subiecte: et binarius species quantitatis et per idem probatur: quod nulle 
+      qua<lb ed="#V" n="117" break="no"/>litates sunt numerus.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e898">
+      ⁋ 3o secundum dicta sequitur quod due quantitates conti 
+      <lb ed="#V" n="118"/>nue sunt numerus: et per consequens quantitas discreta: sed illud est impossibile propter 
+      <lb ed="#V" n="119"/>multa. Primo quia quantitas in communi diuiditur in continuam et discretam et ei 
+      <lb ed="#V" n="120"/>vtraque postea subdiuiditur: ergo quaecumque quantitates continue minus 
+      <lb ed="#V" n="121"/>dicernt inter se quam vna quantitas continua et vna discreta. aliqua autem 
+      <lb ed="#V" n="122"/>continue dicernt realiter. ergo continua et discreta dicernt realiter. Et prima 
+      <lb ed="#V" n="123"/>consequentia probatur: quia quaecumque continentur subieicut vno diuidentium aliquod commune 
+      <lb ed="#V" n="124"/>minus dunt quibuscumque: quarum vnum continetur sub vno et alterum 
+      sub<lb ed="#V" n="125" break="no"/>altero diuidentium: sicut due qualibet substantie corporee 
+      <lb ed="#V" n="126"/>minus differunt inter se quam vna corporea et altera incorporea¬. 
+      <lb ed="#V" n="127"/>2o: quia alie sunt partes quantitatis continue: et alie partes quantitatis 
+      <lb ed="#V" n="128"/>discrete. ergo alia est quantitas continua a quantitate discreta. Antecedens pro 
+      <lb ed="#V" n="129"/>batur: quia partes quantitatis continue sunt actu indiuise: partes vero 
+      quantita<lb ed="#V" n="130" break="no"/>tis discrete sunt actu diuise. 3o quia distinctarum scientiarum realium  
+      <!--212.xml-->
+      <pb ed="#V" n="111-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>sunt subiecta realiter distincta. geometria vero a arismetrica sunt 
+      di<lb ed="#V" n="2" break="no"/>stincte scientiae reales: et subiectum geometrie est quantitas continua: 
+      aris<lb ed="#V" n="3" break="no"/>metrice vero numerus. ergo etc.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e942">
+      ⁋ 4o quia numerus et magnitudo sunt 
+      di<lb ed="#V" n="4" break="no"/>stincta sensibilia: ergo sunt distincte res. Antecedens patet: quia alias non essent 
+      <lb ed="#V" n="5"/>quinque sensibilia communia: vt ponit philosophus. 2o de anima.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e949">
+      ⁋ 3o principaliter si 
+      <lb ed="#V" n="6"/>numerus non esset nisi res numerata: sequitur quod quicumque videret vnum 
+      <lb ed="#V" n="7"/>exercitum hominum: aut vnum gregem ouium: videret nunerum eorum et 
+      <lb ed="#V" n="8"/>quit sunt. vtrum. c. vel m. consequens aut potest esse silibut.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e958">
+      ⁋ 4o ad interrogationem 
+      <lb ed="#V" n="9"/>factam de aliquibus quet sunt: non resuontur ipsa etiam simul sumpta: vt si quis interroget 
+      <lb ed="#V" n="10"/>quot homines sunt in exercitum: non respuntur quod sunt iste vel ille: et sic de singulis 
+      <lb ed="#V" n="11"/>riespuntur aut numerus secundum quod sunt. c. vel em. ergo numerus est aliquid distictum a 
+      re<lb ed="#V" n="12" break="no"/>bus numeratis.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e969">
+      ⁋ 5o numerus nuoarum. verbi gratia binarius senariorum 
+      distin<lb ed="#V" n="13" break="no"/>guitur a suis nueratur scilicet a senariis. ergo et quilibet numerus distiguitur ast 
+      <lb ed="#V" n="14"/>suis numeratis. consequentia patet: quia eadem ratio est in omnibus. Antecedens patet: quia numer 
+      <lb ed="#V" n="15"/>numerorum non est numerus vnitatum. alias binarius senariorum esset 
+      bi<lb ed="#V" n="16" break="no"/>narius vnitatum et due vnitates: quod siulitet est: cum in eo sint 
+      vnita<lb ed="#V" n="17" break="no"/>tes duodecim: numeri aut numerati illo binario scilicet senarii sunt 
+      <lb ed="#V" n="18"/>numeri vnitatum. ergo sunt distincti ab illo.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e985">
+      ⁋ 6o sequeretur quod numerus non 
+      <lb ed="#V" n="19"/>esset vnum ens: et per consequens nec ens: quoniam sicut res se habet ad vnitatem 
+      <lb ed="#V" n="20"/>sic et ad entitatem.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e993">
+      ⁋ 7o sequeretur quod senarius esset bis tria et quater 
+      <lb ed="#V" n="21"/>narius bis duo. et sic suo modo de aliis. Et patet consequentia quia res numerate 
+      se<lb ed="#V" n="22" break="no"/>nario sunt bis tria. falsitas vero consequentis patet ex dicto philosophi. 5o meta. 
+      <lb ed="#V" n="23"/>vbi secundum quod habet translatuso commenti ait. subiecta enim cuiuslibet est semel. verbi gratia 
+      <lb ed="#V" n="24"/>sex: non enim bis tria: sed semel sex. Et ibi Commentatoris. dicit quod subiecta se 
+      <lb ed="#V" n="25"/>narii est vnicum sex non tres binarii. Ex quibus patet. quod subiecta seu 
+      essen<lb ed="#V" n="26" break="no"/>senarii non est ipse res numerate.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e1009">
+      ⁋ Ad primum dicendum. quod nuoas inequales esse 
+      <lb ed="#V" n="27"/>eiusdem speciei potest intelligi 2a: vno modo quod sint eiusdem speciei huius generis 
+      <lb ed="#V" n="28"/>numeri: ita quod eadem species specialissima numeri praedicetur de vtroque. 
+      <lb ed="#V" n="29"/>Alio modo quod sint eiusdem speciei cuiusdam alterius generis: vt alilis v 
+      <lb ed="#V" n="30"/>subiecte vel coloris aut qualitatis. in primo sensu nego consequentia. Nam quamuis huiusmbi 
+      <lb ed="#V" n="31"/>homines et illi sint eiusdem speciei alitis et subiecte: non tamen sunt eiusdem specie 
+      <lb ed="#V" n="32"/>numeri: et loquor de specie specialissima: quia forsitam numeri inequales aliquisi 
+      <lb ed="#V" n="33"/>in eadem specie numeri sbiectalterna. In 2o vero sensu concedo consequens. Et 
+      pro<lb ed="#V" n="34" break="no"/>batio falsitatis eius procedit in primo sensu tantum. Eodem modo modo dicendum quod est 
+      <lb ed="#V" n="35"/>alia consequentia in primo sensu non tm: sed in 2o tantum: et in illo sensu consequens est verum. vnde 
+      <lb ed="#V" n="36"/>dico quod septem homines et septem canes et septem albedines et 
+      quaocum<lb ed="#V" n="37" break="no"/>que alia septem inquantum sunt septem sunt in eadem specie numeri: non aut inquantum 
+      isti<lb ed="#V" n="38" break="no"/>sunt homines et illi canes vel albedines: nec est inquantum sunt septem sunt in 
+      <lb ed="#V" n="39"/>eadem specie subiecte vel qualitatis. Nam septenarius vel septem quod idem dicitur 
+      <lb ed="#V" n="40"/>apud me non est species per se subiecte vel quaelitatis: sed quantitatis tantum: ex alia 
+      <lb ed="#V" n="41"/>parte septem homines et sex homines: quamuis inquantum homines sint in eadem 
+      <lb ed="#V" n="42"/>specie alitis et subiecte: non tamen inquantum illi sex et isti septem: inquantum vero huiusmodi si 
+      <lb ed="#V" n="43"/>in diuersis speciebus numeri: non aut subiecte nec ista sunt inconuenientia: sicut non 
+      <lb ed="#V" n="44"/>est inconueniens quod eadem res diuersis modois sit in distinctis praedica 
+      <lb ed="#V" n="45"/>menti: eodem modo quae res dicitur esse in praedicamento: et similiter res quae sunt 
+      di<lb ed="#V" n="46" break="no"/>uersorum praedicamentorum: sint etia alio modo eiusdem praedicamenti: vt 
+      in<lb ed="#V" n="47" break="no"/>fra. distinctionem 9. ostendetur.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e1057">
+      ⁋ Sed adhuc restat dubium in dicto philosophi. 
+      <lb ed="#V" n="48"/>Nam quamuis secundum praedicta saluetur quod septenarius equrum et septena 
+      <lb ed="#V" n="49"/>rius canum sunt eiusdem speciei numeri: ad intellictum philosophi non tamen saluatur quod 
+      <lb ed="#V" n="50"/>illorum et illorum sit vnus septenarius nuoa seu singularis: sicut ibi 
+      <lb ed="#V" n="51"/>vult philosophus.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e1068">
+      ⁋ Ad illud potest dupliciter dici. vno modo quod non intendit philosophus de 
+      <lb ed="#V" n="52"/>cere quod vtrorumque sit idem septenarius nuoa neque hoc dicit sed inten 
+      <lb ed="#V" n="53"/>dit quod ambo illi septenarii sint idem numerus specie.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e1075">
+      ⁋ Ubi sci 
+      <lb ed="#V" n="54"/>endum quod sicut ipse in sequenti statim parte: dicitur aut recte quod numerus quod 
+      <lb ed="#V" n="55"/>idem declarat: quandocumque aliqua continentur sueicu vna differentia immediate 
+      di<lb ed="#V" n="56" break="no"/>uidente aliquod commune: nec distnt per differentia illius: tale commune praedicari 
+      <lb ed="#V" n="57"/>potest de illis adiuncto sibi huius termino idem. Econtra aut si illa drisn 
+      <lb ed="#V" n="58"/>dristentiis illius communis. verbi gratia sed ipsum: quia enim equilaterus et gradatus non dif 
+      <lb ed="#V" n="59"/>ferunt drisentiis immediate diuidentibus figuram: sed ambo subict ea 
+      <lb ed="#V" n="60"/>differentia figure cadunt: vtique enim est rectilineus: figura vero diuiditur 
+      <lb ed="#V" n="61"/>per rectilineam et circulare. ideo dicit quod ambo sunt eadem figura: quod 
+      <lb ed="#V" n="62"/>vero ipsi disunt per differentia immediate diuidentes triangulum quae sunt habens 
+      <lb ed="#V" n="63"/>equalia latera: et habens inequalia: ideo non dicitur idem triangulus. Sic in 
+      <lb ed="#V" n="64"/>proposito: quia septenarii omnes subict eadem differentia huius communis nominis nuerus 
+      <lb ed="#V" n="65"/>comprehenduntur: ideo dicit quod sunt idem numerus: non aut dicit quod sunt idem septena¬ 
+      <!--212.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 111-r b -->
+               <lb ed="#V" n="66"/>rius. immo infra expresse dicit oppositum: et est ratio: quia septenarius est species 
+      <lb ed="#V" n="67"/>specialissima quae non diditur per dferentia specificas: sed immediate 
+      diui<lb ed="#V" n="68" break="no"/>ditur in indiuidua: suicut vno aut indiuiduo non comprehenduntur aliqua 
+      indiui<lb ed="#V" n="69" break="no"/>dua: et ideo de talibus nullis praedicatur species cum hoc termino idem: sic 
+      <lb ed="#V" n="70"/>duo equilateri non dicuntur idem equilaterus: quamuis secundm modum praedictum 
+      di<lb ed="#V" n="71" break="no"/>causaut triangulus.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e1123">
+      ⁋ Ex his aut patet: quod non intendit inter septenarios 
+      <lb ed="#V" n="72"/>illos affirmare vnitatem indiuidualem. sed specificam tantum: nec per 
+      <lb ed="#V" n="73"/>idem exemplum de numeris praecise concludit: quod omnium sit tantum vnum nuoa 
+      <lb ed="#V" n="74"/>tempus: sed ex eo quod postea addit ostendens quod priua mensura motuum non 
+      <lb ed="#V" n="75"/>potest esse nisi circularis: et inter circulares primus: et quia ille est tantum vnus:  
+      <lb ed="#V" n="76"/>sequitur quod omnium motuum equalium et simul existentium sit tantum vnum tempus nuoa: 
+      <lb ed="#V" n="77"/>per illud aut quod dixit de numeris non vult habere nisi quod ad 
+      multiplica<lb ed="#V" n="78" break="no"/>tionem motuum secundum speciem non sequitur multiplicatuso specifica temporis: quin 
+      <lb ed="#V" n="79"/>immo quorumcumque talium equalium et simul existentium est idem tempus specie: sicut et  
+      <lb ed="#V" n="80"/>duo septenarii sunt idem numerus specie tantum non nuoa: et sicut equilaterus et 
+      <lb ed="#V" n="81"/>gradatus sunt eadem figura specie subiectalterna: non aut eadem singularis 
+      <lb ed="#V" n="82"/>et nuoa: quoniam illud est penitus impossibile: nec aliud intendit philosophus per illa verba 
+      <lb ed="#V" n="83"/>significare siue sint vera de virtute sermomnis siue non.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e1153">
+      ⁋ 2o potest dici 
+      di<lb ed="#V" n="84" break="no"/>stiguendo de nuoa qui dupliciter sumitur: vno modo pro ipsis termis numera 
+      <lb ed="#V" n="85"/>libus duo et tria et similes significantes determinatas multitudines 
+      <lb ed="#V" n="86"/>rerum quo sumit nunerum Danens. libro 3. vbi ait. Quia numerus est 
+      quantita<lb ed="#V" n="87" break="no"/>tum nueratarum significatiuus: et sic sumptus numerus consueuit vocari 
+      <lb ed="#V" n="88"/>numerus quo numeramus. Alio modo sumitur numerus pro multitudinie finita 
+      <lb ed="#V" n="89"/>discretorum significata per nunerum primo modo sumptum: et hoc modo sumit. P. 5o  
+      <lb ed="#V" n="90"/>meta. et ideo numerus primo odosumptus idem est canum et equorum et quorumcumque 
+      <lb ed="#V" n="91"/>equalium multitudinie discretorum. hoc enim idem terminus nuoa septem 
+      <lb ed="#V" n="92"/>significat multitudinem equarum et canum et quorumcumque: numerus aut 2o modo 
+      su<lb ed="#V" n="93" break="no"/>ptus non est idem nuoa canum et equerum.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e1177">
+      ⁋ Ad propositum ergo philosophi potest dici quod il 
+      <lb ed="#V" n="94"/>le accepit nunerum primo modo volens significare quod sicut ille numerus idem 
+      sin<lb ed="#V" n="95" break="no"/>gularis est quae quaecumque diuersa equalia numerari possunt: nec ex 
+      multi<lb ed="#V" n="96" break="no"/>perlicatione numeratorum oportet ipsum multiplicari: sic tempus secundum quod est numerus 
+      <lb ed="#V" n="97"/>quae alii motus numerantur: non multiplicatur ad multiplicationem illorum. 
+      <lb ed="#V" n="98"/>et ad hunc sensum videtur loqui Commenta. ibidum. in solutione. q. quam ibi 
+      mo<lb ed="#V" n="99" break="no"/>uet inuxta finem commenti. sic assumendo nunerum in dicto philosophi praealle 
+      <lb ed="#V" n="100"/>gato non est contra me illud dictum. quoniam numerus sic sumptus non est quantitas 
+      di<lb ed="#V" n="101" break="no"/>screta: licet sit species quantitatis discrete: sicut istud praedicabile. homo non est 
+      <lb ed="#V" n="102"/>animal. quamuis sit species alialis: nunc aut in proposito est quaestio de nuoa qui est 
+      quan<lb ed="#V" n="103" break="no"/>titas discreta. prima tamen solutio magis inuitur ex textulittere p. quam hec 
+      <lb ed="#V" n="104"/>2a.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e1203">
+      ⁋ Ad 2m concedo consequens et vlterius dico quod non omnis quantitas est 
+      <lb ed="#V" n="105"/>accidens: et hoc quantum ad primam probationem falsitatis consequentis. Quantum vero 
+      <lb ed="#V" n="106"/>ad secundam dico quod quamuis talium generum sint diuerse species et 
+      dif<lb ed="#V" n="107" break="no"/>ferentie si habeant species et differentia: adhuc tamen eorum species et draisentie 
+      <lb ed="#V" n="108"/>possunt de eisdem praedicari: nec hoc plus debet inconueniens reputari quam 
+      <lb ed="#V" n="109"/>quod ipsamet genera quaerum sunt species et differntie praedicentur de eisdem: quod tamen 
+      <lb ed="#V" n="110"/>verum est vt infra probabitur.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e1219">
+      ⁋ Ad 3m etiam concedo consequens et ad primam 
+      pro<lb ed="#V" n="111" break="no"/>bationem falsitatis eius. dico quod loquendo de differentia reali non quocumque 
+      <lb ed="#V" n="112"/>continentur suieitum vno diuidentium minus dictent quam ea quae continent sub 
+      <lb ed="#V" n="113"/>ambobus vnum suieicut vno: et alterum subidet altero: et hoc dico loquendo 
+      <lb ed="#V" n="114"/>generaliter de communibus et diuidentibus illa. Duo enim calores realiter 
+      di<lb ed="#V" n="115" break="no"/>stincti continentur suiecu vna specie qualitatis. verbi gratia suec tertia: et cum hoc idem ca 
+      <lb ed="#V" n="116"/>lor nuoa continetur subicut prima et suicu 3a specie qualitatis: vt patet per philosophum in prtentis 
+      <lb ed="#V" n="117"/>nec illud est minus possibile quam quod eadem res contineat suict diuersis 
+      prae<lb ed="#V" n="118" break="no"/>dicamenti: et tamen in eadem specie eiusdem praedicamenti sunt aliqua res 
+      di<lb ed="#V" n="119" break="no"/>sticte.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e1241">
+      ⁋ Ad aliam concedo quod alia est quantitas continua a 
+      discre<lb ed="#V" n="120" break="no"/>ta: cum hoc tamen stat quod aliqua distincte quantitates continue sunt quantitas 
+      <lb ed="#V" n="121"/>discreta. vnde hoc commune quantitas discreta proprie loquendo non potest 
+      verifi<lb ed="#V" n="122" break="no"/>cari de vna quantitate continua tantum: sed solum de diuersis et 
+      discre<lb ed="#V" n="123" break="no"/>tis: sicut nec numerus vt. supra dictum est.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e1252">
+      ⁋ Ad 3am probationem potest multius 
+      <lb ed="#V" n="124"/>responderi: quantum tamen sufficit ad praesens eundo ad intellectum arguentium. 
+      <lb ed="#V" n="125"/>Diucendm quod nihil prohibet diuersas scientias diuersimode easdem 
+      <lb ed="#V" n="126"/>res considerare: sicut eosdem motus celi considerat phycus et 
+      astro<lb ed="#V" n="127" break="no"/>logus: et de multis aliis posset exemplum dari: vt supra monstratum est 
+      <lb ed="#V" n="128"/>in prologo de magnitudinibus: ergo quae sunt numerus considerat geometer: 
+      <lb ed="#V" n="129"/>sed inquantum magnitudines sunt: considerat est arismetricus: sed inquantum 
+      <lb ed="#V" n="130"/>sunt numerus vel numeri: non aut inquantum magnitudines.
+    </p>
+            <p xml:id="grvnZZ-ed1e71-d1e1271">
+      ⁋ Ad 4m dicendum.
+      <pb ed="#V" n="111-v"/>
+               <pb ed="#V" n="NaN-v"/>
+               <!--213.xml-->
+               <pb ed="#V" n="112-v"/>
+               <cb ed="#V" n="a"/>
+               <!-- end of question missing because 111v and 112r seem missing --> 
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

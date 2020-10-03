@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#Rimini">Gregory of Rimini</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2020-10-03">October 03, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-ae1bsb">Venice 1503</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-03" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="68-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="grvnZZ-ed1e43"><!-- l1d9q1 -->
+            <head xml:id="grvnZZ-ed1e43-Hd1e106">Quaestio 1</head>
+            <head xml:id="grvnZZ-ed1e43-Hd1e109" type="question-title">Utrum aliquo modo pater sit prior filio</head>
+            <p xml:id="grvnZZ-ed1e43-d1e112">
+      <!--131.xml-->
+               <pb ed="#V" n="68-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>⁋ Distinctionis. IX. Questio. I 
+      <lb ed="#V" n="2"/>CIrca distinctionem nonam in qua ma 
+      <lb ed="#V" n="3"/>gister agit de coeternitate patris 
+      <lb ed="#V" n="4"/>et filii ostendens patrem non prius fuisse quam 
+      <lb ed="#V" n="5"/>filius. Quero vtrum aliquo modo pater sit prior 
+      <lb ed="#V" n="6"/>filio.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e134">
+      ⁋ Et arguo primo quod sic. omne enim 
+      pro<lb ed="#V" n="7" break="no"/>ducens est prius producto ab illo. ergo paiter est 
+      <lb ed="#V" n="8"/>prior filio. consequentia patet quoniam paiter producit filium. antecede 
+      <lb ed="#V" n="9"/>probatur dupliciter. primo per Aug. in de immortalitate anime dicentem 
+      <lb ed="#V" n="10"/>nulla res se facit aut gignit: alioquin erat antequam esset. quod si hoc 
+      <lb ed="#V" n="11"/>falsum est: est verum illud. consequentia aut nulla esset. nisi verum sit 
+      <lb ed="#V" n="12"/>quod quodlibet faciens vel gignens sit antequam sit illud: quod ab eo gignitur. 
+      <lb ed="#V" n="13"/>Et eadem ratione omne producens etc. idem probatur per. P. 12. meta. vbi 
+      <lb ed="#V" n="14"/>causas agentes et mouentes. dicens differre a formalibus in hoc 
+      <lb ed="#V" n="15"/>quod ipse precedunt res quarum sunt cause: formales autem non prae 
+      <lb ed="#V" n="16"/>cedunt: sed sunt fsimul. et Commen. ibidem causa inquit agens 
+      <lb ed="#V" n="17"/>dicitur a formali quia agens et mouens praecedit illud quod agitur et 
+      <lb ed="#V" n="18"/>mouetur ab eo. formalis autem  materialis est cum generatione. 
+      <lb ed="#V" n="19"/>Et infra exponens exemplum. P. ait quod sanitas non praecedit 
+      <lb ed="#V" n="20"/>hominem sanum: cum sanitas in sano est quasi forma: sanans 
+      <lb ed="#V" n="21"/>autem necesse est vt praecedat sanitatem. necesse etiam est secundum Com 
+      <lb ed="#V" n="22"/>mentatorem agens pracedere actum ab eo: et producens productum. 
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e171">
+               <lb ed="#V" n="23"/>⁋ 2o omne eternum prius fuit eo quod habet esse post non esse. 
+      <lb ed="#V" n="24"/>ergo omne eternum prius fuit quolibet generato. consequentia patet: quoniam 
+      <lb ed="#V" n="25"/>quodlibet generatum habet esse post non esse: sicut generatio est 
+      <lb ed="#V" n="26"/>transitus de non esse ad esse: pater autem est eternus: et filius 
+      <lb ed="#V" n="27"/>est genitus. ergo etc.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e185">
+      ⁋ 3o omne producens prius intelligitir 
+      <lb ed="#V" n="28"/>sue productioni agere enim et producere praesupponunt esse). ergo pae 
+      <lb ed="#V" n="29"/>ter pintelligitur generationi: et per consequens filio ea ambo 
+      pre<lb ed="#V" n="30" break="no"/>intelliguntur spirationi: et per consequens spiritui scnd.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e194">
+      ⁋ Ex oo 
+      <lb ed="#V" n="31"/>sequitur quod pater erit prior filio: et filius spum sccntio.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e199">
+      ⁋ Confirmatur. 
+      <lb ed="#V" n="32"/>quoniam habitudo naturae ad suppositum et primum actum: prior est 
+      habi<lb ed="#V" n="33" break="no"/>tudine eius ad actum 2m. patet illud: quia agere praesupponit esse: 
+      <lb ed="#V" n="34"/>et habitudo naturae ad suppositum pertinet ad esse. ergo natura 
+      <lb ed="#V" n="35"/>divina prius habet esse in supposito paterno: quam sit principium productionis filii. 
+      <lb ed="#V" n="36"/>et per consequens pater prius est quam griesenet: et per consequens prior 
+      filio<lb ed="#V" n="37" break="no"/>Ad oppositum est veritas fidei quae. dicens quod 
+      intrinita<lb ed="#V" n="38" break="no"/>te nihil prius aut posterius ni 
+      <lb ed="#V" n="39"/>hil maius aut minus etc. 
+      <lb ed="#V" n="40"/>Ad questionem praemito primo vnam distinctionem de 
+      <lb ed="#V" n="41"/>quibusdam modis: quibus vna res 
+      <lb ed="#V" n="42"/>dicitur prior alia. Deinde ponam conclusiones aliquas ad propositum 
+      <lb ed="#V" n="43"/>Quantum ad primum dico: quod multi sunt modi quibus 
+      <lb ed="#V" n="44"/>vel aliquo eorum vna res dicitur prior 
+      <lb ed="#V" n="45"/>alia: quantum tamen ad propositum sufficit: quintupliciter dicitur prius scilicet eter 
+      <lb ed="#V" n="46"/>nitate tempore. perfectione. nam et causalitate.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e234">
+      ⁋ Eternitate 
+      <lb ed="#V" n="47"/>prior est res eterna re non eterna: Sumendo autem eternum 
+      <lb ed="#V" n="48"/>proprie scilicet pro incommutabili et non possibili non esse: aut aliter 
+      <lb ed="#V" n="49"/>se habere: quo sumit Aug. 83. q. vbi ait. quod incommutabile 
+      <lb ed="#V" n="50"/>est: eternum est: semper enim eiusmodi est. quod autem commutabile 
+      <lb ed="#V" n="51"/>est: tempori obnoxium est: non enim semper eiusmodi est: et ideo eter 
+      <lb ed="#V" n="52"/>num non recte dicitur.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e250">
+      ⁋ Et. 4. de tri. ait. non enim proprie vo 
+      <lb ed="#V" n="53"/>catur eternum quod aliqua ex parte mutatur id est quod est aliquo modo 
+      <lb ed="#V" n="54"/>mutabile. Et infert inquantum ergo mutabiles sumus in tantum ab 
+      <lb ed="#V" n="55"/>eternitate distamus. Sic autem sumendo eternum et non eternum 
+      <lb ed="#V" n="56"/>deus et solus ipse eternitate prior est quam creatura: quod est verum 
+      <lb ed="#V" n="57"/>esset si creatura numquam incepisset. vnde Aug. 12. confess. iuxta fi 
+      <lb ed="#V" n="58"/>nem ponens quatuor modos poritatis. dicens quod aliquid eternitate 
+      <lb ed="#V" n="59"/>praecedit aliud: sicut deus omnia: et in quo consistat ratio huiusmodi 
+      priorita<lb ed="#V" n="60" break="no"/>tis statim deo loquens declarat dicens. Nam rara visio est 
+      <lb ed="#V" n="61"/>et minus ardua cospicere domine: eternitatem tuam 
+      incommu<lb ed="#V" n="62" break="no"/>tabilitatis mutabilia facientem: ac per hoc priorem. vb 
+      <lb ed="#V" n="63"/>patet quod ideo deus eternitate praecedit alia: quoniam incommutabilis: alia 
+      <lb ed="#V" n="64"/>vero mutabilia. Et consonat ei quod iam est allegatum ex. 4. de 
+      <lb ed="#V" n="65"/>tri. inquantum mutabiles sumus intantum ab eternitate dista 
+      <!--131.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 68-v b -->
+               <lb ed="#V" n="66"/>mus. Solus autem deus incommutabilis est secundum intellectum 
+      <lb ed="#V" n="67"/>praemissum. et omnis creatura commutabilis. Et si aliqua creatura 
+      infi<lb ed="#V" n="68" break="no"/>nito tempore fuisset adhuc illa mutabilis esset: et deus 
+      immutabi<lb ed="#V" n="69" break="no"/>lis: et per consequens: deus eternitate prior esset quam illa. huic 
+      <lb ed="#V" n="70"/>concordat sententia Boecii. 5. de consolatione. vbi dicens quod illi 
+      <lb ed="#V" n="71"/>errant qui cum audiunt visum fuisse platoni mundum neque ha 
+      <lb ed="#V" n="72"/>vere initium temporis: neque finem habiturum: putant hoc modo 
+      <lb ed="#V" n="73"/>sequi: quod deo sit mundus coeternus. aliud est enim inquit per 
+      <lb ed="#V" n="74"/>interminabilem duci vitam quod mundo Plato attribuit: ali 
+      <lb ed="#V" n="75"/>ud interminabilis vite totam periter connexam esse praesentiam: quod 
+      <lb ed="#V" n="76"/>diuine mentis proprium esse manium est: neque enim deus conditis 
+      re<lb ed="#V" n="77" break="no"/>bus antiquior videri debet temporis quantitate: sed simplicis po 
+      <lb ed="#V" n="78"/>tius proprietate naturae. hec Boetius. Ex hoc patet vlterius: 
+      <lb ed="#V" n="79"/>quod auctoritas scintorum qua domint creaturam non potuisse deo esse 
+      coeter<lb ed="#V" n="80" break="no"/>nam: intellecte ad mentem eorum: non sunt contra opinionem: quae ponit quod 
+      <lb ed="#V" n="81"/>possibile sit creaturam fuisse ab eterno seu non habuisse du 
+      <lb ed="#V" n="82"/>rationis initium. Rursus proprie loquendo talis creatura 
+      <lb ed="#V" n="83"/>que numquam incepisset et fuisset infinito tempore. non esset neque 
+      fu<lb ed="#V" n="84" break="no"/>isset eternitate prior vna alia: que tantum per annum fuisset 
+      <lb ed="#V" n="85"/>aut nunc primo esset: quia illa non esset incommutabilis: et hinc patet hanc 
+      <lb ed="#V" n="86"/>prioritatem esse aliam a prioritate temporis. Nam casu posito deus 
+      <lb ed="#V" n="87"/>non esset tempore prior: quam illa creatura. eternitate autem 
+      <lb ed="#V" n="88"/>esset prior ea: et ipsa quidem non eternitate sed 
+      tempora<lb ed="#V" n="89" break="no"/>litate prior esset ea que aliquando incepisset. Quia autem 
+      <lb ed="#V" n="90"/>dicatur prius tempore notum est.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e341">
+      ⁋ Prius autem perfectione dicitur 
+      <lb ed="#V" n="91"/>omne perfectius respectu imperfectorum: nec aliud est esse 
+      per<lb ed="#V" n="92" break="no"/>fectione prius: quam esse perfectius.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e349">
+      ⁋ Nam prius dicitur vnum quod 
+      <lb ed="#V" n="93"/>potest esse sine alio ea non econverso et hocodo accipit. P. prius natura. erg 
+      <lb ed="#V" n="94"/>meta. c. de priori. vbi ait. Alia vero dicuntur prioritate priora secundum 
+      <lb ed="#V" n="95"/>naturam et subiectam: vt quecumque contingunt esse sine aliis: et illa non 
+      <lb ed="#V" n="96"/>sine illis. Sed hoc potest dupliciter accipi. vno modo: sumendo continge 
+      <lb ed="#V" n="97"/>re vel posse simpliciter vt illud dicat prius natura alio: quod per aliquam 
+      <lb ed="#V" n="98"/>potentiam siue diuinam siue creatam potst existere sine illo. 
+      il<lb ed="#V" n="99" break="no"/>lud autem per nullam potentiam potest existere sine eo: et sic 
+      so<lb ed="#V" n="100" break="no"/>lus deus est prior quam creatura. et pars est natura prior toto: cuius 
+      <lb ed="#V" n="101"/>est pars. Nam quelibet res creata potest per diuinam potentiam exi 
+      <lb ed="#V" n="102"/>stere nulla alia re creata quae non sit pars eius existente. 
+      to<lb ed="#V" n="103" break="no"/>tum autem non potest existere sine sua parte intrinseca. vt sortes 
+      <lb ed="#V" n="104"/>sine sua anima: econverso autem anima que est pars eius potest existere: et si 
+      <lb ed="#V" n="105"/>sortes non fuerit. alio modo potest accipi posse et contingere per respe 
+      <lb ed="#V" n="106"/>ctum ad vitutem et potentiam naturale seu creatam: et hocodo estam vna res 
+      <lb ed="#V" n="107"/>creata est altera que non est pars eius prior secundum naturam: sicut hec 
+      <lb ed="#V" n="108"/>materia prior est hac eius forma subsiectali demonstrata forma 
+      cor<lb ed="#V" n="109" break="no"/>porea: quoniam ipsa naturaliter potest existere sine ea et non econverso. Similiter 
+      <lb ed="#V" n="110"/>hoc subiectum natura prius est hoc suo accidente separabili 
+      <lb ed="#V" n="111"/>propter eandem rationem. Quamuis autem materia sit naturaliter prior hac for 
+      <lb ed="#V" n="112"/>ma: non tamen concedendum est quod sit naturaliter prior forma. siue 
+      <lb ed="#V" n="113"/>in primo sensu intelligatur: siue in 2o In primo quidem 
+      <lb ed="#V" n="114"/>non. quia etiam forma quelibet dei virtute potest praexiste 
+      <lb ed="#V" n="115"/>re sine materia. Nec etiam in 2o quia materia non potest 
+      <lb ed="#V" n="116"/>naturaliter existere sine forma: sicut nec naturaliter potest esse 
+      <lb ed="#V" n="117"/>nullam habens formam. non enim sequitur. potest esse sine hac for 
+      <lb ed="#V" n="118"/>ma: ergo sine forma. Arguitur enim ab inferiori ad superius 
+      <lb ed="#V" n="119"/>negatiue a parte praedicati. Si tamen aliqua talis posita vel concet 
+      <lb ed="#V" n="120"/>sa ab aliquo auctore inueniatur accipienda est loco huius 
+      <lb ed="#V" n="121"/>forma est materia prior. ita quod ly forma sit casus ablatiuis 
+      <lb ed="#V" n="122"/>et hec vtique vera est. Et similiter dicendum est de ista. acci 
+      <lb ed="#V" n="123"/>dente separabili subiectum est prius natura. vtraque enim 
+      <lb ed="#V" n="124"/>harum vera est: sine forma potest materia existere. sine accidente 
+      <lb ed="#V" n="125"/>suo separabili potest subiectum esse. iste modus 
+      priorita<lb ed="#V" n="126" break="no"/>tis est secundus modus positus a. P. in predicamentis 
+      <lb ed="#V" n="127"/>qui est quando non conuertitur subsistendi consequentia.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e427">
+      ⁋ Prius prgo 
+      <lb ed="#V" n="128"/>autem causalitate vel secundum causam dicitur illud quod est causa st 
+      <lb ed="#V" n="129"/>alterius et non econuerso. quod dupliciter potest esse. vel quod 
+      <lb ed="#V" n="130"/>illud cuius est causa nullo modo sit econtra causa eius. vel 
+      <!--132.xml-->
+      <pb ed="#V" n="69-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>si sit etiam causa: non tamen in eodem genere cause: et tunc dicetur 
+      <lb ed="#V" n="2"/>illud esse prius causalitate in illo genere in quo illud cuius est causa: non 
+      <lb ed="#V" n="3"/>est econverso causa eius. Exemplum primi. deus est prior causalitate quam creatura: et 
+      <lb ed="#V" n="4"/>materia quam compositum cuius est pars. exemplum secundi. in his quae sunt sibi 
+      inui<lb ed="#V" n="5" break="no"/>cem cause. hic est ille modus prioritatis quem. P. in praedicamentis 
+      <lb ed="#V" n="6"/>post. 4. magis vsitatos ponit. 5o loco: quod autem ipse assignans 
+      <lb ed="#V" n="7"/>hunc modum dixit: eorum quae conuertuntur secundum essentie consequentia quod 
+      alte<lb ed="#V" n="8" break="no"/>ri quolibet est causa digne prius natura dicitur omnino est intelligendum: 
+      <lb ed="#V" n="9"/>quasi hic modus prioritatis concludat in sua ratione similitudinem 
+      <lb ed="#V" n="10"/>oppositam prioritati nature immediate dicte: sed hoc dixit ad 
+      innuen<lb ed="#V" n="11" break="no"/>dum quod aliquid potest sic esse prius alio seced causam quod non erit prius eo secundu 
+      <lb ed="#V" n="12"/>naturam.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e469">
+      ⁋ Et si hoc accipiatur quantum ad terminos secundum quod inter eos 
+      <lb ed="#V" n="13"/>simultas et prioritas inuenitur facile est videre: sicut patet in 
+      quibus<lb ed="#V" n="14" break="no"/>dam terminis relatiuis: de quorum vno non potest verificari 
+      exi<lb ed="#V" n="15" break="no"/>stere quin tunc simul de altero est possit verificari. Et ad affirma 
+      <lb ed="#V" n="16"/>tionem vnius de aliquo: sequitur causaliter affirmatio reliqui de 
+      ali<lb ed="#V" n="17" break="no"/>quo. Et non sequitur causaliter econverso. Similiter inter res ipsas inuenitur 
+      <lb ed="#V" n="18"/>poritas causalitatis sine prioritate nature: sicut forma substantialis 
+      cor<lb ed="#V" n="19" break="no"/>ruptibilis est prior causalitate quam compositum cuius est pars. Nam est causa 
+      <lb ed="#V" n="20"/>eius et non econverso non tamen est prior natura accipiendo prius na: secundo modo 
+      su<lb ed="#V" n="21" break="no"/>pra dicto: quia non potest naturaliter existere: si non existat compositum. 
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e491">
+               <lb ed="#V" n="22"/>⁋ Si aut accipiatur prius natura primo modo: sic quaelibet causa efficiens 
+      crea<lb ed="#V" n="23" break="no"/>ta est prior suo effectum causalitate ea non natura. Non quidem: quia possit esse 
+      <lb ed="#V" n="24"/>sine illo a non econverso sed quia est ille sine ea per dei virtutem potest existe. 
+      <lb ed="#V" n="25"/>re. hunc modum prioritatis vocat. P. prius secundum naturam in 
+      praedica<lb ed="#V" n="26" break="no"/>mentis: cum tamen quem dicit ibidem prius a quo non conuertitur subsistem 
+      <lb ed="#V" n="27"/>di consequentia vocet 5o meta. prius secundum naturam. Sed vbi non latet sententia non 
+      <lb ed="#V" n="28"/>est curandum de nomine.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e509">
+      ⁋ Nonium aut quod vna res est aliquando prior alia 
+      <lb ed="#V" n="29"/>pluribus modis prioritatis: sicut deus est qualibet prior homine existente omnibus 
+      <lb ed="#V" n="30"/>modis prioritatis dictis: et anima homnis est eo prior naura et causalitate. 
+      <lb ed="#V" n="31"/>Similiter aliqua res sunt se inuicem priores diuersis modis: sicut homo 
+      <lb ed="#V" n="32"/>prior est perfectione quam anima eius. Et illa prior est eo natura et causalitate: 
+      <lb ed="#V" n="33"/>vt est dictum: possunt etiam aliqua res esse se inuicem priores causalitate secundum 
+      <lb ed="#V" n="34"/>diuersos modos causalitatis: sicut possunt esse sibi inuicem cause: vt 
+      <lb ed="#V" n="35"/>patet 2o phy.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e527">
+      ⁋ Item notandum quod hoc nomen causa potest dupliciter accipi 
+      <lb ed="#V" n="36"/>etiam secundum quod distiguitur a causis finali formali et materiali. vno enim 
+      <lb ed="#V" n="37"/>modo potest sumi generaliter vt dicitur de omni producente respectum sui producti: 
+      <lb ed="#V" n="38"/>et agente respectum acti: et mouente res moti. et sic nomen cause 
+      <lb ed="#V" n="39"/>admittitur in divinis ad intra: cum pliter vere producat filium et ambo 
+      <lb ed="#V" n="40"/>spiectum sanctum. vnde Augu. 83 q. dicit quod deus <quote xml:id="grvnZZ-ed1e43-Qd1e540" source="http://scta.info/resource/a83-q16-d1e108" synch="23-37">sue sempiterne 
+        <lb ed="#V" n="41"/>sapientie causa est sempiterna: nec tempore prior est quam sua sapientia</quote>.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e547">
+      ⁋ Item 
+      <lb ed="#V" n="42"/>criso. super epsluara ad hebi. exponens de filio dei illud quod ait apostolus 
+      <lb ed="#V" n="43"/>de melchisedech. neque initium dierum habens etc. intueris inquit 
+      <lb ed="#V" n="44"/>sine initio filium: non quia non habet causam: hoc enim impossibile est. habet namque 
+      <lb ed="#V" n="45"/>prrem: alioquin quo filius: sed quia non habet initium vite neque finem. 
+      <lb ed="#V" n="46"/>Sic est damen. lib. primo dicit patrem esse causam filii: vt infra statim 
+      di<lb ed="#V" n="47" break="no"/>cetur. Alio modo sumitur hoc nomen causa strictius prou scilicet tantum dicitur de 
+      <lb ed="#V" n="48"/>eo quod proprie facit et producit aliquid a se essentia et natura diuersum 
+      <lb ed="#V" n="49"/>nuo: et istud communi nomine vocatur causa efficiens: et sic non admittitur 
+      <lb ed="#V" n="50"/>in divinis ad intra. secundum hanc considerationem loquitur Ansel. de 
+      pro<lb ed="#V" n="51" break="no"/>cessu spiritus sancti. vbi cum dixisset quod spitus scus est de patre et 
+      fi<lb ed="#V" n="52" break="no"/>lio tamquam de vno principio mox addit: si tamen dicitur deus habere principium 
+      <lb ed="#V" n="53"/>aut causam: principium namque videtur non nisi rei incipientis esse: et causa non est nisi 
+      <lb ed="#V" n="54"/>effcuns: et spitus secunus numquam incepit esse: nec est effcuns alicuius: quod 
+      <lb ed="#V" n="55"/>enim incipit esse proficiscitur de non esse ad esse: et nomen effcuns rei que 
+      <lb ed="#V" n="56"/>fit: aptari proprie videtur: secundum hanc considerationem loquitur Aug. 83. 
+      <lb ed="#V" n="57"/>q. vbi ait. quod omnis causa est efficiens: et hinc hodie doctores communius 
+      <lb ed="#V" n="58"/>non vtuntur hoc nomine causa in diuinis ad intra: vbi tamen habeatur 
+      bo<lb ed="#V" n="59" break="no"/>nus intellectus sane et vere dicitur pater causa filii: sic dicunt Aug. 
+      <lb ed="#V" n="60"/>et Damen. ac Criso. sicut communius conceditur quod pater est principium filii et 
+      <lb ed="#V" n="61"/>vterque spiritus sancti. quamuis patedt intellectum notatum ab Ansel. 
+      il<lb ed="#V" n="62" break="no"/>⁋his premissis. clud concedi non deberet 
+      <lb ed="#V" n="63"/>pono duas conclusiones ad q. Prima 
+      <lb ed="#V" n="64"/>est. quod pater non est prior filio eternitate nec tempore aut perfectione 
+      <lb ed="#V" n="65"/>vel na. 2a quod pater est prior filio causalitate: si secundum intellectum pre¬ 
+      <!--132.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 69-r b -->
+               <lb ed="#V" n="66"/>missum intelligamus patrem esse causam filii et causare filium: aut si hoc 
+      <lb ed="#V" n="67"/>vocabulo vti nolumus: dico quod est prior productibilitate: aut 
+      <lb ed="#V" n="68"/>vt aliqui dicunt origine: sicut concedimus quod producit et originat 
+      fi<lb ed="#V" n="69" break="no"/>lium.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e617">
+      ⁋ Probo primam conclusionem sic. pater et filius sunt vnus et idem nuoa  
+      <lb ed="#V" n="70"/>simplex deus: igitur pater non est prior filio eternitate vel 
+      tem<lb ed="#V" n="71" break="no"/>pore etc. Antecedens est notum per fidem et sacram scripturam. Et consequentia 
+      eui<lb ed="#V" n="72" break="no"/>dens est quantum ad singulas partes consequentis: consideratis rationibus 
+      ta<lb ed="#V" n="73" break="no"/>lium modorum prioritatis. Ex his infero quod falsa est opinio cuiusdam 
+      <lb ed="#V" n="74"/>doctoris dicentis quod in diuinis est duplex ordo scilicet nature et 
+      origi<lb ed="#V" n="75" break="no"/>nis: et in vno instanti naturae assignat plura instantia originis: vt post 
+      <lb ed="#V" n="76"/>dicetur. dicit autem quod in primo instanti naturae sunt omnia essentialia 
+      abso<lb ed="#V" n="77" break="no"/>luta et notionalia et tota trinitas perfecta. In secundo vero instam 
+      <lb ed="#V" n="78"/>ti naturae est intellectio creaturarum: ita quod secundum ipsum in primo instanti nature 
+      <lb ed="#V" n="79"/>deus intelligit se: et in secundo intelligit creaturas: et per consequens 
+      intelle<lb ed="#V" n="80" break="no"/>ctio creaturarum est natura posterior intellectione qua ipse intelligit 
+      <lb ed="#V" n="81"/>se. hoc autem falsum esse patet euidenter: quoniam eadem penitus ex 
+      <lb ed="#V" n="82"/>parte rei est intellectio qua deus intelligit se: et intellectio quod 
+      <lb ed="#V" n="83"/>intelligit creaturas: et per consequens non potest esse intellectio qua 
+      <lb ed="#V" n="84"/>deus intelligit se: non existente intellectione qua intelligit 
+      crea<lb ed="#V" n="85" break="no"/>turas: nec econverso ac per hoc non est prior nam.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e654">
+      ⁋ Praeterea quorumcumque 
+      <lb ed="#V" n="86"/>vnum est alio prius illa sunt plura et distincta: sed intellectio qua 
+      <lb ed="#V" n="87"/>deus intelligit se: et intellectio qua intelligit creaturas non sunt 
+      <lb ed="#V" n="88"/>distincte: ergo etc.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e663">
+      ⁋ Confirmatur per eunde. vult enim quod differentia. 
+      <lb ed="#V" n="89"/>rationis non est sufficiens pro ordine naturae: vt dicit lib primo dis 10 ergo 
+      <lb ed="#V" n="90"/>inter quaecumque est ordo naturae: illa sunt distincta ex natura rei: 
+      <lb ed="#V" n="91"/>sed intellectio qua deus intelligit se: et intellectio qua intelligit 
+      <lb ed="#V" n="92"/>creaturas non sunt distincte ex natura rei. ergo etc.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e674">
+      ⁋ Et si dicat quod 
+      <lb ed="#V" n="93"/>non est intentio huius doctoris quod illa intellectio sit naturam prior: 
+      <lb ed="#V" n="94"/>quam intellectio creaturarum: sed quod eadem ipsa intellectione prius natura 
+      <lb ed="#V" n="95"/>deus intelligit se quam intelligat creaturas.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e683">
+      ⁋ Istud etiam falsum 
+      <lb ed="#V" n="96"/>est: quoniam ex hoc sequeretur quod deus posset vel potuisset 
+      intellige<lb ed="#V" n="97" break="no"/>re se: non intelligendo creaturas. patet consequentia per rationem prioritatis 
+      <lb ed="#V" n="98"/>nature premissam: quam etiam ipsimet alibi ponunt: sed consequens est 
+      <lb ed="#V" n="99"/>falsum: quia si deus potuisset aut posset non intelligere 
+      crea<lb ed="#V" n="100" break="no"/>turam: posset vel potuisset non esse deus: quod est falsum: est 
+      <lb ed="#V" n="101"/>consequentia hec patet: quia quanta necessitate deus est et fuit deus: 
+      tan<lb ed="#V" n="102" break="no"/>ta necessitate semper cognouit et cognoscit omnes res qua 
+      <lb ed="#V" n="103"/>sunt et fuerunt et sunt possibiles esse: et eadem necessitate qua 
+      <lb ed="#V" n="104"/>ipse deus est potuit creaturas producere. ac per hoc 
+      crea<lb ed="#V" n="105" break="no"/>ture necessario fuerunt possibiles. vnde sicut deus non potuit nec potest non esse 
+      <lb ed="#V" n="106"/>deus: aut non posse producere creaturas: sic non potest vel potuit 
+      <lb ed="#V" n="107"/>non eas nosse: necessario enim et incommutabiliter nouit 
+      quamli<lb ed="#V" n="108" break="no"/>bet creaturam: sicut dicit Augu. de fi. ad petrus inquiens. 
+      Fir<lb ed="#V" n="109" break="no"/>missime tene et nullatenus dubites deo incommutabiliter non 
+      <lb ed="#V" n="110"/>solum praesentia et praeterita: sed est futura omnia incommutabiliter esse no 
+      <lb ed="#V" n="111"/>tissima: cui diciter deus. qui occultorum es cognitor: qui scis omnia antequam 
+      <lb ed="#V" n="112"/>fiant.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e723">
+      ⁋ 2am conclusionem probo sic. deus paiter vere producit et generat filium et no 
+      <lb ed="#V" n="113"/>econverso ergo pater est prior filio causalitate seu productibilitate vel origi 
+      <lb ed="#V" n="114"/>ne. Antecedens est certum ex fide. Et consequentia patet: quia hoc est patrem esse prius 
+      <lb ed="#V" n="115"/>causalitate seu origine filio: quod est patrem esse causam vel principium 
+      produ<lb ed="#V" n="116" break="no"/>ctiuum filii et non econverso vt supra patet.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e734">
+      ⁋ hec conclusio et praecedens partialiter 
+      <lb ed="#V" n="117"/>asseritur a Daunien. lib. primo. vbi ait. Si vero dicimus patrem esse principi 
+      <lb ed="#V" n="118"/>filii: et mapdilem non priorem filio esse tempore vel natura ostedimus: per ipsum 
+      <lb ed="#V" n="119"/>enim secula fecit: neque enim sed aliud quidem nisi secundum causam hoc est: quoniam 
+      fi<lb ed="#V" n="120" break="no"/>ius ex patre genitus est: et non pater ex filio: et quoniam pater est causa filium 
+      natura<lb ed="#V" n="121" break="no"/>liter.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e747">
+      ⁋ huic concordat dictum Augu. dicens lib. 3. contra max. quod inter 
+      <lb ed="#V" n="122"/>patrem genitorem et filium genitum est ordo naturae: non quo alter est 
+      <lb ed="#V" n="123"/>prior altero: sed quo est alter ab altero: vbi patet quod negat patrem 
+      <lb ed="#V" n="124"/>esse natura priorem filio. affirmat autem sict Danmen quod naturaliter est fili 
+      <lb ed="#V" n="125"/>a patre: sed numquid paiter si prior est origine filio potest vere dici quod patur 
+      <lb ed="#V" n="126"/>sit in aliquo priori originis: aut in aliquo instanti originis in quo 
+      <lb ed="#V" n="127"/>non sit filius: aut aliquid in diuinis ad intra potest dici esse in aliquo 
+      <lb ed="#V" n="128"/>priori vel primo instanti aut signo et filius esse in secundo vel tertio 
+      <lb ed="#V" n="129"/>instanti seu signo posteriori et non esse in primo:
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e767">
+      ⁋ Ad hoc dicit  
+      <lb ed="#V" n="130"/>idem doctor quod sic. vnde sicut potest haberi ex dictis eius in 
+      <!--133.xml-->
+      <pb ed="#V" n="69-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>diuersis locis: in primo instanti naturae quod ponit in diuinis: vt 
+      <lb ed="#V" n="2"/>supra recitatum est ordo originis in cuius primo instanti seu 
+      <lb ed="#V" n="3"/>signo est prima persona perfecta cum omnibus essentiabilibus non 
+      <lb ed="#V" n="4"/>habentibus respectum ad extra et cum principio et fecunditate 
+      per<lb ed="#V" n="5" break="no"/>fecta qua potest producere filium et spectum scentum: ita quod in primo 
+      si<lb ed="#V" n="6" break="no"/>gno est in patre vtraque fecunditas. In secundo autem signo est in patre 
+      <lb ed="#V" n="7"/>actus prime fecunditatis: et pater producit filium: et communicat filio 
+      se<lb ed="#V" n="8" break="no"/>cumdam fecunditatem scilicet qua potest producere spiectum scuendum. In tertio 
+      <lb ed="#V" n="9"/>vero signo est in vtroque actus secunde fecunditatis scilicet 
+      spira<lb ed="#V" n="10" break="no"/>re et producere spiectum sanctum: et sic vt dicunt priter est prior origine 
+      <lb ed="#V" n="11"/>et prius potest gnerare filium quam generet: et tunc prius generat quam 
+      <lb ed="#V" n="12"/>spiret spiectum scentum: et similiter pater et filius prius possunt spirare quam 
+      spri<lb ed="#V" n="13" break="no"/>rent spectum scuentdum.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e806">
+      ⁋ In his dictis plura falsa cotinentur. Unde 
+      <lb ed="#V" n="14"/>arguo primo contra illud quod dicunt quod pater potest prius generare quam 
+      <lb ed="#V" n="15"/>generet. Si enim hoc esset verum sequeretur quod filius in secundo 
+      si<lb ed="#V" n="16" break="no"/>gno in quo paiter generat actu postquam generabat tantum in potentia. 
+      <lb ed="#V" n="17"/>inciperet esse: et sic aliquo modo haberet initium essendi: saltem secundum 
+      <lb ed="#V" n="18"/>imaginationem nostram. vnde inciperet esse postquam non fuit: sed hoc 
+      <lb ed="#V" n="19"/>est prorsus falsum dicente Aug. lib primo de diuinitate ea 
+      incar<lb ed="#V" n="20" break="no"/>natione verbi satis circa principium. nos semper deum patrem 
+      noui<lb ed="#V" n="21" break="no"/>mus vnigeniti filii sui ex ipso quidem nati et quod est ab ipso tra 
+      <lb ed="#V" n="22"/>habentis: sine vllo tamen initio non solum eo quod aliquibus temporum spa 
+      <lb ed="#V" n="23"/>ciis distingui potest: sed ne illo quidem quod sola apud semetipsam 
+      <lb ed="#V" n="24"/>mens intueri solet ea nudo vt ita dixerim int ellectu atque 
+      <lb ed="#V" n="25"/>animo conspicari: extra ergo omne quod vel dici vel intelligi potest 
+      ini<lb ed="#V" n="26" break="no"/>tium generatam esse sapientiam credendum est: hoc ipse.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e837">
+      ⁋ Praeterea sup 
+      <lb ed="#V" n="27"/>pono: quod vt patet ex dictis. aliquid esse origine prius aliquo non 
+      <lb ed="#V" n="28"/>est aliud quam ipsum esse causam vel principium illius: seu originans 
+      il<lb ed="#V" n="29" break="no"/>lud et non econverso: et esse posterius origine non est aliud quam esse 
+      origina<lb ed="#V" n="30" break="no"/>tum ab illo quo est posterius: et non esse originans illud: et simi 
+      <lb ed="#V" n="31"/>liter habere aliquid origine prius idem est quod alteri 
+      producen<lb ed="#V" n="32" break="no"/>do communicare: vel secundum istos idem est quod habere illud a se et non ex 
+      <lb ed="#V" n="33"/>alio: habere vero in secundo signo idem est quod habere ab alio ea non 
+      <lb ed="#V" n="34"/>a se.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e858">
+      ⁋ hoc premisso arguo primo sic. si piter in secundo signo 
+      <lb ed="#V" n="35"/>priginis et non in primo producit filium: et habet actum prime 
+      fe<lb ed="#V" n="36" break="no"/>cunditatis qui est gignere: ergo pater non a se: sed ab alio habet quod 
+      pro<lb ed="#V" n="37" break="no"/>ducit filium: et hunc actum qui est gignere. consequentia patet: sed consequens est 
+      fal<lb ed="#V" n="38" break="no"/>sum: quia aut hoc haberet a filio: aut a spium sancto: et vtrumque est 
+      fal<lb ed="#V" n="39" break="no"/>sum.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e871">
+      ⁋ Praeterea prius origine paiter generat quam spirat: ergo posterius origi 
+      <lb ed="#V" n="40"/>ne pater spirat quam generat. et per consequens non spirat a se: quod non est 
+      sa<lb ed="#V" n="41" break="no"/>ne dictum.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e878">
+      ⁋ Praeterea actus prime fecunditatis quem dicunt esse in pa 
+      <lb ed="#V" n="42"/>tre in secundo signo: aut est generatio actiua: aut generatio 
+      passi<lb ed="#V" n="43" break="no"/>ua: si passiua. ergo non in patre vt dicunt: si actiua cum ipsa secundum rem 
+      <lb ed="#V" n="44"/>sit ipse pater: vt ipsi alibi dicunt: sequitur quod paiter non erit in primo 
+      <lb ed="#V" n="45"/>signo: sed in secundo: quod repugnat dictis eorum.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e889">
+      ⁋ Rursus lib. prim 
+      <lb ed="#V" n="46"/>psi dicunt quod omnem realitatem tam relatiuam quam absolutam quam 
+      <lb ed="#V" n="47"/>potest pater habere: habet a se in primo signo originis. ergo generationem 
+      <lb ed="#V" n="48"/>actiuam habet in primo signo originis: supposito quod illa sit in patre: 
+      <lb ed="#V" n="49"/>vt ipsi dicunt: et per consequens non in secundo tantum: sed in primo signo 
+      origi<lb ed="#V" n="50" break="no"/>nis est actus prime fecunditatis: et in primo signo pater generat: quod 
+      <lb ed="#V" n="51"/>ipsi negant.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e905">
+      ⁋ Praeterea cum dicunt aliquid esse vel habere aliquid in 
+      pri<lb ed="#V" n="52" break="no"/>mo signo et aliquid in secundo: vel per huiusmodi signa primum et secundum 
+      vo<lb ed="#V" n="53" break="no"/>lunt quoquo modo aliquam durationem imaginabilem vel 
+      exi<lb ed="#V" n="54" break="no"/>stentem actualiter vel possibiliter: et tunc patet euidenter homo 
+      propo<lb ed="#V" n="55" break="no"/>sitiones. praiter est in primo signo et filius non in primo signo: sed in 
+      <lb ed="#V" n="56"/>secundo: et pater prius generat quam spirat: et alias quas ponunt esse falsas. 
+      <lb ed="#V" n="57"/>et contra sanam doctrinam fidei: que omnem prioritatem duratio 
+      <lb ed="#V" n="58"/>nis negat in divinis ad intra: aut nullam talem prioritatem 
+      du<lb ed="#V" n="59" break="no"/>rationis volunt intelligi: sed praecise intendunt significare per esse 
+      <lb ed="#V" n="60"/>vel producere et huiusmodi in primo signo: quod illud tale conuenit illi 
+      <lb ed="#V" n="61"/>ex se: et non ab alio seu quod ipsum est causa quod illud alii conueniat et 
+      <lb ed="#V" n="62"/>non econverso Et per esse in secundo signo intendunt quod illud est tale ab 
+      <lb ed="#V" n="63"/>alio ea non a se.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e934">
+      ⁋ Et si sic tunc sequitur quod paiter prius spirat: quam spi 
+      <lb ed="#V" n="64"/>ret filius: quia pater ex se habet et non a filio aut aliquo alio: quod ipse 
+      <lb ed="#V" n="65"/>spiret: filius autem hoc habet a patre. vnde Aug. 15. de tri. Quo 
+      <!--133.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 69-v b -->
+               <lb ed="#V" n="66"/>inquit habet filius vt sit deus: est enim deus de deo: ab illo vtique habet 
+      <lb ed="#V" n="67"/>vt etiam de ipso procedat spiritus sanctus. Et idem dicit in plu 
+      <lb ed="#V" n="68"/>ribus aliis locis eiusdem libri.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e955">
+      ⁋ Sed huius oppositum 
+      expres<lb ed="#V" n="69" break="no"/>se dicit iste doctor libro primo dis. 12. q. 2. vbi ait quod non est 
+      intelli<lb ed="#V" n="70" break="no"/>gendum quod pater spiret prius quam filius spiret: sicut prius origine 
+      <lb ed="#V" n="71"/>pater generat quam spiret propter ordinem principiorum: quia tunc filius non 
+      <lb ed="#V" n="72"/>piraret: vt argumentum deducit. argumetum autem de quo facit 
+      <lb ed="#V" n="73"/>mentionem est hoc. si spiritus secus praeintelligatur habere prius esse a patre 
+      <lb ed="#V" n="74"/>quam a filio: tunc filius produceret spiectum scuntdum iam existentem: quod consequens 
+      <lb ed="#V" n="75"/>iste doc. concedit esse impossibile: et satis cito infra dicit: non est ergo 
+      or<lb ed="#V" n="76" break="no"/>do originis inter spirationem patris et filii: quasi spiret pater in 
+      <lb ed="#V" n="77"/>aliquo signo originis: in quo non spiret filius: sed in eodem 
+      si<lb ed="#V" n="78" break="no"/>gno origis simul spirant: est tamen ibi ordo spirantium in spirando: 
+      <lb ed="#V" n="79"/>quando pater in illo signo originis spirat a se: filius autem non a se¬ 
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e981">
+               <lb ed="#V" n="80"/>⁋ Ex quibus verbis apparet quod vel non accipiunt ista signa vt habent 
+      <lb ed="#V" n="81"/>originis ordinem praecise: secundum hoc quod est spirare a se: et spirare non a 
+      <lb ed="#V" n="82"/>se: sed simul volunt intelligi quadam signa durationis: sicut innuunt verba 
+      <lb ed="#V" n="83"/>sua: cum dicunt: quod filius tunc spiraret spiectum scuentum iam existentem: 
+      <lb ed="#V" n="84"/>quasi necesse sit prius non fuisse spectum scentum: aut si precise illo 
+      <lb ed="#V" n="85"/>primo modo accipiunt: expressam contradictionem in allegatis eorum 
+      <lb ed="#V" n="86"/>verbis includut: cum dicunt quod non prius spirat pliter quam filius. Et cum 
+      <lb ed="#V" n="87"/>hoc inqunt quod pater spirat a se: filius aut non a se.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e1001">
+      ⁋ Praeterea cum di  
+      <lb ed="#V" n="88"/>cunt quod in eodem signo origis simul spirant. Quero aut simul spirant 
+      <lb ed="#V" n="89"/>in primo signo: et tunc sequitur quod filius spirat a se: aut simul spirant in 
+      si<lb ed="#V" n="90" break="no"/>gno secundo: vel in tertio: et tunc sequitur quod pater non spiret a se 
+      <lb ed="#V" n="91"/>quod est falsum et contra ipsos.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e1012">
+      ⁋ Praeterea cum dicut hoc esse in primo signo: et illud  
+      <lb ed="#V" n="92"/>in secundo: aut ly signo. supponit pro aliquo: aut non supponit 
+      pro<lb ed="#V" n="93" break="no"/>aliqua. Si detur secundum: sequitur quod quaelibet huiusmodi propositionum 
+      affirma<lb ed="#V" n="94" break="no"/>tiuarum quas dicunt sit falsa: cum talis terminus in qualibet earum 
+      <lb ed="#V" n="95"/>denotet pro aliquo supponere. Si dicatur primum: tunc aut 
+      sup<lb ed="#V" n="96" break="no"/>ponit pro aliquo: quod nec est deus nec in deo: aut pro aliquo quod 
+      <lb ed="#V" n="97"/>est in deo vel est deus: primum non potest dici: quia sine 
+      quo<lb ed="#V" n="98" break="no"/>libet tali deus trinitas esset: et pater generaret et spiraret etc. 
+      <lb ed="#V" n="99"/>que vere enunciamus de deo: et per consequens vanum est 
+      <lb ed="#V" n="100"/>talia fingere in proposito. Si dicatur secundum: aut supponit 
+      <lb ed="#V" n="101"/>precise pro eodem pro quo supponit illud quod dicitur esse 
+      <lb ed="#V" n="102"/>in tali signo. verbi gratia. cum dicitur esentia est in primo 
+      <lb ed="#V" n="103"/>signo. ly primo signo. supponit pro essentiamet. Et cum dicitur 
+      <lb ed="#V" n="104"/>generare seu dicere non est in primo: sed in secundo signo. l 
+      <lb ed="#V" n="105"/>ecundo signo. supponit pro ipso dicere: et tunc idem esset dictu quod 
+      <lb ed="#V" n="106"/>essentia est in essentia. Et dicere non est in essentia: sed in 
+      di<lb ed="#V" n="107" break="no"/>cere. Similiter cum dicitur pater est in primo signo: et filius non est 
+      <lb ed="#V" n="108"/>in primo signo: sed in secundo: idem esset ac si diceretur: pater est in 
+      <lb ed="#V" n="109"/>patre: et filius non est in patre: sed in filio: aut ly. signo. 
+      suppo<lb ed="#V" n="110" break="no"/>nit in vtraque pro aliquo essentiali: aut in vtraque pro aliquo 
+      no<lb ed="#V" n="111" break="no"/>tionali: aut in vna pro essentiali: et in altera pro notionali. Et 
+      <lb ed="#V" n="112"/>quodcumque detur exponendo propositiones secundum illam 
+      suppo<lb ed="#V" n="113" break="no"/>sitione termini: apparebit quod omnes vel earum plures erunt 
+      <lb ed="#V" n="114"/>false vel improprie penitus et impertinentes ad propositam 
+      dif<lb ed="#V" n="115" break="no"/>ficultatem.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e1067">
+      ⁋ Cum ergo dari non possit que sint huiusmodi signa 
+      pro<lb ed="#V" n="116" break="no"/>quibus supponant huiusmodi termini: iccirco tales locutiones 
+      <lb ed="#V" n="117"/>concedi vel admitti non debent: quibus denotatur quod in 
+      <lb ed="#V" n="118"/>aliquo instanti vel signo priori pater est vel habet hoc 
+      <lb ed="#V" n="119"/>vel illud in quo filius non est etc. Sed solum dici debet quod pater 
+      <lb ed="#V" n="120"/>est origine prior quam filius id est originat et producit ipsum filium: 
+      <lb ed="#V" n="121"/>et filius est origine posterior quam pater: quoniam originatur seu 
+      <lb ed="#V" n="122"/>producitur a patre: et quod pater et filius sunt priores origine quam spiti 
+      <lb ed="#V" n="123"/>ritus scus: et ille posterior eis. id est pater et filius producunt: et 
+      spi<lb ed="#V" n="124" break="no"/>rant spiectum sanctum: et ille spiratur ab eis. Et quia processio spi 
+      <lb ed="#V" n="125"/>ritus sancti non proprie dicitur origo: ideo ista prioritas (si 
+      <lb ed="#V" n="126"/>enunciari debeat communi vocabulo vtrique productioni) melius 
+      <lb ed="#V" n="127"/>nominatur prioritas causalitatis secundum inellectum supra datum vel 
+      pro<lb ed="#V" n="128" break="no"/>ducibilitatis quam prioritas originis.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e1098">
+      ⁋ Unde notandum cir ¬ 
+      <lb ed="#V" n="129"/>ca diuersos modos prioritatis (vt dicit quidam doctor) 
+      <lb ed="#V" n="130"/>quod ordiata secundum prius et posterius sunt in duplici differentia. 
+      <!--134.xml-->
+      <pb ed="#V" n="70-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>Nam aliquibus correspondent aliqua extrinseca ordinata: ita 
+      <lb ed="#V" n="2"/>quod vnum respondet vni: et alterum alteri: sicut illis quae sunt prius 
+      <lb ed="#V" n="3"/>et posterius secundum tempus: vna pars temporis correspondet pori et 
+      <lb ed="#V" n="4"/>alia posteriori. Similiter his quae ordinantur secundum locum: quamuis ille 
+      <lb ed="#V" n="5"/>modus prioritatis non sit supra positus: correspondent diuer. 
+      <lb ed="#V" n="6"/>se partes loci vna priori alia posteriori: et in talibus quibus sic 
+      di<lb ed="#V" n="7" break="no"/>uersa extrinseca correspondent: proprius modus loquendi est: 
+      <lb ed="#V" n="8"/>quod prius est in aliquo priori tempore in quo tempore non est illud 
+      <lb ed="#V" n="9"/>aliud: quo ipsum est prius: et similiter quod est prius localiter vel secundum locum 
+      <lb ed="#V" n="10"/>est in aliquo loco priori in quo non est illud quo ipsum dicitur esse 
+      pri<lb ed="#V" n="11" break="no"/>localiter: et in talibus rationabiliter queritur. vtrum in illo priori in quo est 
+      <lb ed="#V" n="12"/>vel habet hoc vel illud et huiusmodi: illud quod dicitur prius sit posterius vel non: 
+      <lb ed="#V" n="13"/>et praecise de ordinatis patedu tempus et durationem concedi debent 
+      distin<lb ed="#V" n="14" break="no"/>cta instantia vel signa. de ordinatis autem localiter distincta loca¬ 
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e1143">
+               <lb ed="#V" n="15"/>⁋ Quedam vero sunt ordiata secundum prius et posterius quibus 
+      <lb ed="#V" n="16"/>non respondent talia diuersa extrinseca ordinata: et in talibus 
+      <lb ed="#V" n="17"/>non est proprius modus loquendi nec rationalis questio cum quaeritur 
+      <lb ed="#V" n="18"/>vtrum in illo priori in quo est prius sit posterius. verbi gratia. in prio 
+      <lb ed="#V" n="19"/>ritate secundum perfectionem totum dicitur prius sua parte: quae tamen prioritas 
+      <lb ed="#V" n="20"/>non atteditur penes aliqua extrinseca quorum vnum respondeat 
+      to<lb ed="#V" n="21" break="no"/>ti: aliud vero parti: et ideo non praecise dicitur proprie: quod totum 
+      <lb ed="#V" n="22"/>sit in aliquo priori in quo non sit pars: nullum enim prius fingi potest in 
+      <lb ed="#V" n="23"/>quo sit totum et non pars: alias totum non includeret partem: immo cum 
+      <lb ed="#V" n="24"/>in tali prioritate nihil sit prius nisi totum: et nihil posterius nisi 
+      <lb ed="#V" n="25"/>pars: si talis modus loquendi reciperetur: potius deberet con 
+      <lb ed="#V" n="26"/>cedi quod posterius est in aliqui priori in quo non est prius: quam econtra quia 
+      <lb ed="#V" n="27"/>pars est in toto: et non econverso. Similiter est de poritate nare et causalitatis 
+      <lb ed="#V" n="28"/>Et sicut non dantur signa vel instantia perfectionis vel dignitatis: 
+      <lb ed="#V" n="29"/>sic non dari debent signa vel instantia naturae vel causalitatis aut 
+      <lb ed="#V" n="30"/>origins. De hac estm materia contra opinionem eandem aliqua dicta sunt 
+      <lb ed="#V" n="31"/>supra. dis. 6. ideo nunc pertranseo.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e1182">
+      ⁋ Ad rationes questionis. Ad  
+      <lb ed="#V" n="32"/>primam cum dicitur omne producens est pus producto. si intelligatur de 
+      <lb ed="#V" n="33"/>prioritate causalitatis concedo: et similiter concedo consequens in eodem 
+      <lb ed="#V" n="34"/>sensu. Si vero intelligatur de prioritate eternitatis vel 
+      ten<lb ed="#V" n="35" break="no"/>poris aut perfectionis vel nature. nego. Ad probationem 
+      di<lb ed="#V" n="36" break="no"/>co: quod sicut prius quamuis principaliter et magis proprie dicatur de 
+      <lb ed="#V" n="37"/>priori secundum tempus: vt dicitur 5. meta. tamen et aliis modis dicitur vt ibi 
+      <lb ed="#V" n="38"/>patet: et supra habitum est. Et quamuis magis proprie dicatur secundum 
+      <lb ed="#V" n="39"/>tempus: nihilominus sicut aliquid dicitur prius secundum causam: sic potest 
+      <lb ed="#V" n="40"/>dici esse ante secundum causam: ita quod prius et ante sint synonima: et quod 
+      <lb ed="#V" n="41"/>ante non semper denotet prioritatem temporis: patet per illud apostoli 
+      <lb ed="#V" n="42"/>ad ephe. Elegit nos ante constitutionem mundi. Et illud prima pe. 
+      <lb ed="#V" n="43"/>precogniti ante mundi constitutionem. vbi constat quod ante non 
+      <lb ed="#V" n="44"/>notat tempus praecedens: cum ante constitutionem mundi nullum tempus 
+      <lb ed="#V" n="45"/>fuerit.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e1215">
+      ⁋ Sic in proposito ad auctoritatem Augu. cum ait. 
+      <lb ed="#V" n="46"/>Alioquin erat antequam erat. Dico quod non accipit ante secundum tempus: 
+      <lb ed="#V" n="47"/>aut aliquo alio praedictorum modorum: nisi secundum causam: et hoc patet: 
+      <lb ed="#V" n="48"/>quoniaom aliter non valeret consequentia illa: sicut non tenet hec. a. 
+      produ<lb ed="#V" n="49" break="no"/>cit b. ergo a. fuit per tempus ante b. sic nec ista. a. producit a. ergo a. fuit 
+      <lb ed="#V" n="50"/>per tempus ante a. Et quod prima non teneat certum est. quoniam quedam 
+      <lb ed="#V" n="51"/>sunt que habent effectus sibi coeuos: et cum illis fimul incipiunt 
+      <lb ed="#V" n="52"/>sicut ipsemet ostendit. 14. de tri. vbi ait. Quedam 
+      cognosci<lb ed="#V" n="53" break="no"/>bilia cognitionem interpositione temporis antecedunt: sicut sunt 
+      <lb ed="#V" n="54"/>ea sensibilia que iam erant in rebus temporalibus antequam 
+      co<lb ed="#V" n="55" break="no"/>gnoscerentur. Quedam vero simul esse incipiunt: velut si 
+      <lb ed="#V" n="56"/>aliquod visibile quod omnino non erat ante oculos nostros 
+      oria<lb ed="#V" n="57" break="no"/>tur: cognitionem nostram vtique non praecedit. aut si aliquid sonet 
+      <lb ed="#V" n="58"/>vbi adest auditor: simul profecto incipiunt esse: simulque 
+      de<lb ed="#V" n="59" break="no"/>sinunt et sonus et eius auditus: veruntamen siue tempore prece 
+      <lb ed="#V" n="60"/>dentia: siue simul esse incipientia cognoscibilia cogitationem 
+      <lb ed="#V" n="61"/>gignunt: non cogitatione gignuntur. Idem etiam ponit. 6. libro 
+      <lb ed="#V" n="62"/>de igne et splendore qui ab ipso diffunditur.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e1254">
+      ⁋ Et per hoc etiam 
+      <lb ed="#V" n="63"/>patet: quod non sequitur quod producens sit prius eternitate quam 
+      pro<lb ed="#V" n="64" break="no"/>ductum: quod etiam nec perfectione nec natura ex hoc ostenditur 
+      <lb ed="#V" n="65"/>quod ignis producit igne eque sibi perfectum: et qui potest existere 
+      <!--134.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 70-r b -->
+               <lb ed="#V" n="66"/>eo destructo. Duendum ergo quod Aug. sumit ibi ante secundum causam: et tunc 
+      <lb ed="#V" n="67"/>optime tenet illa consequentia. Nam in quibuslibet producens est 
+      cau<lb ed="#V" n="68" break="no"/>sa producti et non econverso productum est causa producentis in eodem 
+      <lb ed="#V" n="69"/>genere cause: et ideo sequitur. a. producit b. igitur a. est prius 
+      causali<lb ed="#V" n="70" break="no"/>tate quam b. et similiter sequitur. a. producit a. ergo a. est prius causali 
+      <lb ed="#V" n="71"/>tate quam a. Sed dicetur quod sic dicendo: et si consequentia ostendatur esse 
+      bo<lb ed="#V" n="72" break="no"/>na: probatio tamen nulla est: quoniam consequens non est magis inconueniens 
+      <lb ed="#V" n="73"/>quam antecedens immo nec videtur differre. Nam idem videtur significare. a. 
+      <lb ed="#V" n="74"/>producit a. et a. est prius causalitate vel producibilitate quam a. 
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e1289">
+               <lb ed="#V" n="75"/>⁋ Respondeo quod vtrumque est inconueniens: sed consequens est primo 
+      <lb ed="#V" n="76"/>attentius inconueniens. Et ad ipsum de magis proximo sequi 
+      <lb ed="#V" n="77"/>tur contradictio: nec est est omnino ide significatione cum antece 
+      <lb ed="#V" n="78"/>dente. Nam esse prius causalitate significat vltra esse causam: quod 
+      cau<lb ed="#V" n="79" break="no"/>satum non sit causa cause: sicut supra habitum est. Si aut a. est 
+      <lb ed="#V" n="80"/>prius causalitate quam a. sequitur quod a. sit causa ipsius a. et non 
+      <lb ed="#V" n="81"/>sit causa illius a. quod est contradictio. quod patet. Nam sequitur. a. est prius 
+      <lb ed="#V" n="82"/>causalitate quam a. ergo a. quod est sic prius est causa ipsius a. et tunc 
+      <lb ed="#V" n="83"/>sequitur. ergo a. quo illud est prius non est causa ipsius a. loquendo semper 
+      <lb ed="#V" n="84"/>in eodem genere cause: et per consequens a. est causa ipsius a. et non est causa 
+      <lb ed="#V" n="85"/>ipsius a. et sic cum ait: alioquin erat a. antequam erat: idem intendit:  
+      <lb ed="#V" n="86"/>ac si diceretur erat prius causalitate seipso antequam erat.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e1318">
+      ⁋ 
+      Eo<lb ed="#V" n="87" break="no"/>dem modo intelligendus est <ref xml:id="grvnZZ-ed1e43-Rd1e1322">Aug. primo de trini</ref>. cum ait: 
+      si<lb ed="#V" n="88" break="no"/>cut in quibusdam libris reperitur: <quote xml:id="grvnZZ-ed1e43-Qd1e1327" source="http://scta.info/resource/adt-l1-d1e11" synch="133-143">nulla enim omnino res est que se 
+        <lb ed="#V" n="89"/>ipsam gignat vt sit</quote>. si quid enim seipsum gigneret seipso: 
+      profe<lb ed="#V" n="90" break="no"/>cto prius et posterius esset: quamuis comunius hec probatio in 
+      li<lb ed="#V" n="91" break="no"/>bris non reperiatur intelligendum est inquam de prioritate et 
+      poste<lb ed="#V" n="92" break="no"/>rioritate causalitatis.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e1341">
+      ⁋ Ad philosophum dicendum quod philosophus non vult quod 
+      <lb ed="#V" n="93"/>quodlibet agens vel mouens praecedebat tempore illud quod 
+      <lb ed="#V" n="94"/>agitur vel mouetur: hoc autem falsum esset: vt iam patuit de 
+      <lb ed="#V" n="95"/>sensibili: quod simul incipit esse et mouere sensum et agere 
+      si<lb ed="#V" n="96" break="no"/>gnificationem. Et similiter secundum. P. mouens celum non 
+      prece<lb ed="#V" n="97" break="no"/>dit tempore celum quod mouetur: neque motum eius. Sed  
+      <lb ed="#V" n="98"/>intentio sua est quod aliquod agens precedit suum effectum 
+      <lb ed="#V" n="99"/>Et aliquod mouens suum motum: nulla autem forma 
+      praece<lb ed="#V" n="100" break="no"/>dit rem cuius est forma. Et loquitur de precessione temporali. 
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e1361">
+               <lb ed="#V" n="101"/>⁋ Ad secundam rationem dicendum quod cuius generatio est 
+      mu<lb ed="#V" n="102" break="no"/>tatio: ipsum vtique habet esse post non esse: cuius autem gene 
+      <lb ed="#V" n="103"/>ratio non est mutatio: qualis est generatio filum dei: ipsum 
+      <lb ed="#V" n="104"/>non habet esse post non esse.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e1372">
+      ⁋ Ad tertiam cum dicitur. omne 
+      <lb ed="#V" n="105"/>producens preintelligitur sue productioni. dicendum quod hic 
+      <lb ed="#V" n="106"/>potest esse sensus duplex. vnus quod prius intelligat 
+      produ<lb ed="#V" n="107" break="no"/>cens esse quam intelligatur productio siue quod prius 
+      intelliga<lb ed="#V" n="108" break="no"/>tur producens esse quam intelligatur producens producere: et 
+      si<lb ed="#V" n="109" break="no"/>ue sic sit siue non: non est ad propositum: quia hoc concesso: non 
+      <lb ed="#V" n="110"/>arguitur prioritas aliqua inter producens et productum: sed  
+      <lb ed="#V" n="111"/>solum inter intellectionem et intellectum. Alius sensus 
+      <lb ed="#V" n="112"/>potest esse: quod omne producens intelligitur siue potest 
+      ve<lb ed="#V" n="113" break="no"/>re intelligi esse prius quam sit sua productio: et tunc concedo 
+      <lb ed="#V" n="114"/>de prioritate causalitatis: si productio sit elicita: secus 
+      <lb ed="#V" n="115"/>autem si non. Cum probatur: quoniam agere presupponit 
+      <lb ed="#V" n="116"/>esse: hic etiam potest esse sensus duplex: vnus. id est agens est 
+      <lb ed="#V" n="117"/>prius quam sua actio: et concedo de prioritate causalitatis. 
+      <lb ed="#V" n="118"/>Nam agens causa est sue actionis: et non econuerso. de aliis 
+      <lb ed="#V" n="119"/>vero prioritatibus supra dictis. nego. Alius sensus est: 
+      age<lb ed="#V" n="120" break="no"/>re presupponit esse id est agens prius est quam agat: et quamuis hec 
+      <lb ed="#V" n="121"/>posset concedi: quia est indefinita: hec tamen vniuersalis 
+      <lb ed="#V" n="122"/>rimne agens prius est quam agat: falsa est de virtute sermo 
+      <lb ed="#V" n="123"/>nis. Nam ipsa non videtur proprie posse intelligi: nisi de 
+      <lb ed="#V" n="124"/>prioritate durationis: secundum quam ipsa est falsa: vt ex dictis 
+      <lb ed="#V" n="125"/>patet. Si tamen isti termini agere et esse supponerent 
+      ma<lb ed="#V" n="126" break="no"/>terialiter: pro istis terminis est et agit: tunc posset 
+      conce<lb ed="#V" n="127" break="no"/>di propositio de prioritate communitatis et consequentiem 
+      <lb ed="#V" n="128"/>que est inter terminos. Nam omne quod agit est: et non omne 
+      <lb ed="#V" n="129"/>quod est agit. Similiter bene sequitur: hoc agit: ergo est: 
+      quo<lb ed="#V" n="130" break="no"/>cumque vtrobique demonstrato. Et non sequitur hoc est: ergo hoc 
+      <!--135.xml-->
+      <pb ed="#V" n="70-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>agit. Sed de hac prioritate nihil ad propositum: est enim quaestio 
+      <lb ed="#V" n="2"/>non de terminis: sed de personis diuinis que non sunt 
+      ter<lb ed="#V" n="3" break="no"/>mini neque signa.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e1444">
+      ⁋ Ex his patet quod non potest in proposito aliqua 
+      <lb ed="#V" n="4"/>prioritas concludi inter patrem et filium: nisi causalitatis: et illam 
+      <lb ed="#V" n="5"/>concedo: cum ipse sit pricipium eius et non econuerso.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e1451">
+      ⁋ Ad 
+      confir<lb ed="#V" n="6" break="no"/>mationem negandum est antecedens: propter falsas implicationes: 
+      <lb ed="#V" n="7"/>implicat enim quod nature ad suppositum sit habitudo: et similiter quod 
+      <lb ed="#V" n="8"/>nature diuine ad productionem filii sit habitudo: et quod non 
+      <lb ed="#V" n="9"/>diuina sit principium productionis filii: que omnia falsa sunt. Nam 
+      <lb ed="#V" n="10"/>natura diuina est ipsum suppositum et ipsa productio filii.
+    </p>
+            <p xml:id="grvnZZ-ed1e43-d1e1464">
+      ⁋ Ad  
+      <lb ed="#V" n="11"/>probationem cum dicitur agere praesupponit esse: responsum est. Si autem 
+      <lb ed="#V" n="12"/>illud antecedens: habitudo naturae ad suppositum est prior habitudinie 
+      <lb ed="#V" n="13"/>eius ad actum secundum: non sumeretur secundum proprietatem sermonis: sed 
+      lo<lb ed="#V" n="14" break="no"/>co huius: suppositum prius est quam agat: vel quam sua actio. patet quid sit 
+      <lb ed="#V" n="15"/>dicendum ex solutione precedentis rationis etc. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#Rimini">Gregory of Rimini</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2020-10-03">October 03, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-ae1bsb">Venice 1503</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-03" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="112-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="grvnZZ-ed1e7X"><!-- l1d26-27q1 -->
+            <head xml:id="grvnZZ-ed1e7X-Hd1e106">Quaestio 1</head>
+            <head xml:id="grvnZZ-ed1e7X-Hd1e109" type="question-title">Utrum divinae personae suis proprietatibus constituantur et ab invicem personaliter distinguantur</head>
+            <!-- beginning of question missing because 111v and 112r seem missing -->
+            <p xml:id="grvnZZ-ed1e7X-d1e114">
+               <lb ed="#V" n="1"/>⁋ Item nec filius nec natiuitas est proprietas patris secundum transi 
+      <lb ed="#V" n="2"/>tivam locutionem: vt nunc est sermo. Cum ergo dicitur quod proprietas patris 
+      <lb ed="#V" n="3"/>est quod vnum genuit filium: aut quod filius nascitur ex eo: non denotatur 
+      <lb ed="#V" n="4"/>quod aliqua entitas ex animam existens sit propria ipsi patri: sed 
+      tantummod<lb ed="#V" n="5" break="no"/>quod ille solus genuit filium: et quod idem est. quod ex eo tantum nascitur fili 
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e127">
+               <lb ed="#V" n="6"/>⁋ 2a distinctio est quod personas distingui ab iuicem per aliqua potest a 
+      <lb ed="#V" n="7"/>intelligi. Uno modo quod distinguant per illa tamquam per ea quae sunt 
+      ratio<lb ed="#V" n="8" break="no"/>nes vel principia mutue distictionis. Alio mod quamuis improprie 
+      <lb ed="#V" n="9"/>potest dici quod distinguantur per ea velut per illa ex quibus potest 
+      cogno<lb ed="#V" n="10" break="no"/>sci et inferri mutua earum distinctio. Exemplum Adam et Abel 
+      di<lb ed="#V" n="11" break="no"/>stinguebantur adinuicem primo modo per suas animas et per sua corpora. 
+      <lb ed="#V" n="12"/>Secundo aut modo per hoc quod Adam non erat ex viro et femina natus. 
+      <lb ed="#V" n="13"/>Abel aut sic. Item quia Adam genuit abel. Abel aut genitus est 
+      <lb ed="#V" n="14"/>ab Adam. non enim quod Adam non fuit natus ex viro et ex femia: aut 
+      <lb ed="#V" n="15"/>qui genuit Abel: erat principium distinctionis eius ab Abel. Ex his 
+      <lb ed="#V" n="16"/>tamen poterat inferri et cognosci quod Adam esset alius ab Abel: qui 
+      <lb ed="#V" n="17"/>erat natus ex femina et viro: et genitus ab Adam: cum impossibile sit 
+      <lb ed="#V" n="18"/>quod idem sit: et non sit natus ex femina et viro: et quod aliquis sit is a 
+      <lb ed="#V" n="19"/>quo est genitus: 
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e161">
+               <lb ed="#V" n="20"/>⁋ his premissis pono ad quaestionem absque assertione tamen 
+      <lb ed="#V" n="21"/>et sine praeiudicio melioris sententiae quatuor conclusiones prima est quod nullis 
+      <lb ed="#V" n="22"/>proprietatibus qualitercumque sumantur proprietates persone diuie 
+      <lb ed="#V" n="23"/>constituuntur. 2a quod persone diuine distinguuntur personaliter suis 
+      <lb ed="#V" n="24"/>proprietatibus primo mo acceptis proprietatibus id est seipsis. 3a. quod 
+      <lb ed="#V" n="25"/>diuine persone non distinguuntur personaliter aliquibus proprietatibus 2oa 
+      <lb ed="#V" n="26"/>modo acceptis. 4a. quod distinguuntur proprietatibus 3o modo acceptis: 
+      <lb ed="#V" n="27"/>intelligedo tamen eas distingui per illas proprietates 2o modo praemisso 
+      <lb ed="#V" n="28"/>li. quod ex illis proprietatibus potest concludi et cognosci quod ipse perso 
+      <lb ed="#V" n="29"/>ne ab inuicem distincte sunt: non autem distinguuntur per eas per mod id est tamquam 
+      <lb ed="#V" n="30"/>per rationes vel principio distinctiua.
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e187">
+      ⁋ Primam conclusionem probo primo sic. quaelibe 
+      <lb ed="#V" n="31"/>persona divina est simplex omnino. ergo nulla persona divina per aliquod in 
+      <lb ed="#V" n="32"/>suo esse constituitur: antecedens est determinatum ex fide. probatur consequentia. quia si 
+      <lb ed="#V" n="33"/>aliqua constitueretur per aliquid: sumatur illud praecise secundum se: et quaeratur de ipso 
+      <lb ed="#V" n="34"/>an ipsum sic praecise acceptum est ipsa persona constituta per ipsum: aut non 
+      <lb ed="#V" n="35"/>sed est aliquid eius. Non potest dici primpum. Tum quia nulla persona consti 
+      <lb ed="#V" n="36"/>tuit seipam omne enim constituens causa est aliqua modo constituti per ipsum. 
+      <lb ed="#V" n="37"/>Tum quia si illud constituens est persona: et constat quod constituens non constin 
+      <lb ed="#V" n="38"/>tuat per aliquid. ergo nec persona: aut si persona. ergo et ipsum etiam constituitur 
+      <lb ed="#V" n="39"/>per aliud: et sic in infinitum Si autem illud constituens non est ipsa persona consti 
+      <lb ed="#V" n="40"/>tuta: sed aliquid eius: aut illud habet esse per operationem anime tantum: et tunc 
+      <lb ed="#V" n="41"/>constat quod non constituit personam eternam quae summa res est: aut est 
+      ali<lb ed="#V" n="42" break="no"/>quid extra animam: et quicquid ipsum sit siue res siue formalitas vel 
+      mo<lb ed="#V" n="43" break="no"/>dalitas: aut quouis alio nomine appellare velis: ex quo ipsum non 
+      <lb ed="#V" n="44"/>est persona: sed aliquid eius: et non possit intelligi quod sit eius extrinse 
+      <lb ed="#V" n="45"/>ce: sicut forma materie: sed intrinsece: sicut pars est aliquid totius: sequitur 
+      <lb ed="#V" n="46"/>quod persona non sit omnino simplex.
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e224">
+      ⁋ 2o non minus est simplex per 
+      <lb ed="#V" n="47"/>ona diuina quam est essentia divina aut aliqua proprietas personalis 
+      <lb ed="#V" n="48"/>quaecumque sit illa si quae sit: ergo non magis ipsa constituitur ex aliquibus vel 
+      <lb ed="#V" n="49"/>per aliqua quam ipsa essentia vel proprietas: sed nec essentia nec 
+      pro<lb ed="#V" n="50" break="no"/>prietas constituitur per aliqua: vt omnes concedunt: et per consequens nec per 
+      <lb ed="#V" n="51"/>aliquid: quia impossibile est esse vnum solum constitutiuum eiusdem rei intrinse 
+      <lb ed="#V" n="52"/>cum. Nam de tali est sermo: non de extriseco: sic producens potest dici 
+      <lb ed="#V" n="53"/>constituere in esse ipsum productum. ergo nec ipsa persona per aliquid 
+      consti<lb ed="#V" n="54" break="no"/>tuitur.
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e244">
+      ⁋ 3o (et sequitur ex eo quod iam tactum est) si persona constituere 
+      <lb ed="#V" n="55"/>tur per proprietate aliquam: constitueretur est per essentiam: et essentia con 
+      <lb ed="#V" n="56"/>stitueret personam. vbi gratia. patrem: et per consequens essentia non esset piter: quod 
+      <lb ed="#V" n="57"/>est contra determinationem eclarie in capitulo bamnamus.
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e253">
+      ⁋ 4o sequeretur quod 
+      <lb ed="#V" n="58"/>paiter esset aliqua modo causatus et principiatus. Nam quodlibet constitutiuum 
+      <lb ed="#V" n="59"/>est quodammo causa et principium sui constituti. Sed consequens est falsum. Sic 
+      <lb ed="#V" n="60"/>enim paiter non esset prima causa et sine principio et sine causa: cuius oppositum ex 
+      <lb ed="#V" n="61"/>presse ponit Dantmens libro primo. Et ideo sicut est supra. distint iso dicebatur 
+      <lb ed="#V" n="62"/>nullatenus estimandum est esse in deo aliquid realiter constitutum per 
+      ali<lb ed="#V" n="63" break="no"/>quod formale vel materiale constitutiuum: sed omne quod ibi est seipso 
+      for<lb ed="#V" n="64" break="no"/>maliter et non per aliquid sui transitiue loquendo est omne quod est: quamuis 
+      <lb ed="#V" n="65"/>ibi sit vere producens et qui producitur: et productus a producente habet 
+      <!--213.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 112-v b -->
+               <lb ed="#V" n="66"/>esse: propter quod huiusmodi vocabula constitutiuum constitutio et constitutum et 
+      <lb ed="#V" n="67"/>similia in sensu praemisso non conuenienter (vt videtur) assumuntur ad di 
+      <lb ed="#V" n="68"/>uina: et melius esset non vti eis in materia ista: et pro certo nullibi 
+      in<lb ed="#V" n="69" break="no"/>uenio Augu. aut alium aliquem illius temporis sanctorum: vbi locuti 
+      <lb ed="#V" n="70"/>sunt de distictione divinarum personarum: talibus vsum fuisse vocabulis 
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e290">
+               <lb ed="#V" n="71"/>⁋ 2am conclusionem probo et per auctoritas hieron. in expositione fidei catho 
+      <lb ed="#V" n="72"/>lice: et allegatur a magistro vbi supra. loquens: si quidem de patre et 
+      <lb ed="#V" n="73"/>filio ac spuescon ait: itaque subiecta vnum sunt: sed personis ac nominibus 
+      <lb ed="#V" n="74"/>distinguuntur: quorum virtute verborum etiam magr infra. dis. 3 dicit quod 
+      <lb ed="#V" n="75"/>persone seipis dicent.
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e304">
+      ⁋ Item Aug. in sermdone de fide et symbolo 
+      <lb ed="#V" n="76"/>qui incipit. Credimus in vnum deum verum. ait credimus hanc 
+      trini<lb ed="#V" n="77" break="no"/>tatem personis distinctam subiecta vnitam etc. Et infra in symbolo si quod  
+      <lb ed="#V" n="78"/>docetur ac discitur et vnitas est trinitatis: et trinitas distincta 
+      <lb ed="#V" n="79"/>personis et opulentia creatoris: trinitas autem non nisi tres 
+      perso<lb ed="#V" n="80" break="no"/>ne: trinitas vero est distincta personis: ac per hoc ipse persone sunt 
+      di<lb ed="#V" n="81" break="no"/>stincte personis: et quod non aliis patet. ergo seipsis.
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e320">
+      ⁋ Ratione quoque 
+      pro<lb ed="#V" n="82" break="no"/>batur ista conclusio quoniam persone sunt summe et omnino simplices: ita quod nec 
+      <lb ed="#V" n="83"/>essentia simplicior est personis: nec aliqua proprietas est cogitabilis 
+      <lb ed="#V" n="84"/>in persona simplicior quam ipsa persona: et per consequens nulla aliquo modo 
+      <lb ed="#V" n="85"/>inter se distincta includit ipsa persona. ergo quaelibet persona a quocumque 
+      <lb ed="#V" n="86"/>distinguitur seipsa: et non aliquo sui primo: transitiue loquendo 
+      distin<lb ed="#V" n="87" break="no"/>guitur.
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e336">
+      ⁋ Contra istam conclusionem quam et antiqui doctores posuerunt 
+      <lb ed="#V" n="88"/>ac etiam nunc aliqui moderni defendunt: multipliciter est argutum. Pri 
+      <lb ed="#V" n="89"/>mo quidem aliqui sic: sicut quaerentibus quo pater et filius et spusscuns sunt 
+      <lb ed="#V" n="90"/>vnum: respondemus quod essentia vel diuinitate sunt vnum. Ita quaerentibus  
+      <lb ed="#V" n="91"/>quo distinguuntur oportet respondere per aliqua nomina abstracta quibus 
+      pro<lb ed="#V" n="92" break="no"/>prietates in abstracto designantur. vt paternitas vel filiatio. 
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e349">
+               <lb ed="#V" n="93"/>⁋ 2o sic. paiter non eadem relatione refertur ad filium et spectum scuntum: sed 
+      <lb ed="#V" n="94"/>alia et alia. ergo non eadem relatione distiguitur ab vtroque. Ex quo 
+      <lb ed="#V" n="95"/>vltra sequitur quod non seipso distiguitur ab vtroque: sed aliqua relatione 
+      <lb ed="#V" n="96"/>ab vno et alia ab alio: cum sola relatio multiplicet trinitatem 
+      <lb ed="#V" n="97"/>secundum Boetium. Antecedens probatur: quia si dicatur quod eadem relatione. ergo 
+      fi<lb ed="#V" n="98" break="no"/>lius et spunsscuns est vna et eadem relatione referuntur ad patrem: quia 
+      im<lb ed="#V" n="99" break="no"/>possibile est quod duabus relationibus secundum speciem correspondeat ex 
+      <lb ed="#V" n="100"/>opposito vna tantum secundum speciem relatio: sed consequens est falsum. Nam spiritus 
+      <lb ed="#V" n="101"/>scus non refertur per filiationem: alioquin esset filius: nec filius per 
+      spi<lb ed="#V" n="102" break="no"/>rationem refertur ad patrem: quia sic esset donum.
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e373">
+      ⁋ 3o sic arguitur per 
+      ali<lb ed="#V" n="103" break="no"/>os. quaecumque non sunt primo diuersa aliquo sui distinguutur (si enim non sunt 
+      <lb ed="#V" n="104"/>primo diuersa: sed aliquid idem entia: tunc non eo distinguuntur quo sunt 
+      <lb ed="#V" n="105"/>idem: sed aliqua sui quae non sunt idem) persone aut divine non sunt primo diuerse: 
+      <lb ed="#V" n="106"/>qui sunt eiusdem esentie. ergo aliqua sui primo distinguuntur.
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e384">
+      ⁋ 4o in patre sunt 
+      <lb ed="#V" n="107"/>plures proprietates: sicut innascibilitas et genertio actio: et hoc 
+      distin<lb ed="#V" n="108" break="no"/>guuntur secundum Aug. 5. de tri. vbi vult: quod si piter non esset ingenitus posset 
+      <lb ed="#V" n="109"/>tamen esse pater et econverso ergo si per impossibile vna non distingueret prem ab alio: 
+      <lb ed="#V" n="110"/>posset alia distinguere. ergo est quaerere quo pater distiguitur a filio. 
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e396">
+               <lb ed="#V" n="111"/>⁋ 5o per alios sic. quando aliqua sic se habent quod aliquid omnino indistictum est 
+      <lb ed="#V" n="112"/>in vtroque: et tamen aliquid est in vno quod non est in alio: illa non seipsis 
+      <lb ed="#V" n="113"/>distinguuntur: sed in patre et filio est essentia divina quae est omnino indisticta: et 
+      <lb ed="#V" n="114"/>praeternitas est in patre quae non est in filio: ergo pater et filius non seipsis primo 
+      distin<lb ed="#V" n="115" break="no"/>guuntur. maior probatur: quia quando aliqua seipsis primo distinguuntur: non est 
+      <lb ed="#V" n="116"/>aliquid in vno quae non distinguatur ab alio: sicut nihil est in sorte quaoe non 
+      <lb ed="#V" n="117"/>distinguatur a platone sed quando est aliquid omnino idem in vtroque: tunc neutrum 
+      <lb ed="#V" n="118"/>illorum illo omnino eodem in vtroque distiguitur ab altero.
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e416">
+      ⁋ Ex hoc 
+      <lb ed="#V" n="119"/>(vt dicunt) patet solutio ad rationem factam pro ista conclusione secunda. quia 
+      <lb ed="#V" n="120"/>simplex non constitutum ex aliquo communi sibi et alii: et aliqua proprio 
+      si<lb ed="#V" n="121" break="no"/>bi seipso distinguitur a quaecumque distinguitur: sed non sic est de personis 
+      <lb ed="#V" n="122"/>divinis vt dictum est.
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e427">
+      ⁋ Ad primam dico quod taliter quaerentibus optine potest 
+      <lb ed="#V" n="123"/>responderi secundum viam hanc quam sequor. Et docuit nos respondere 
+      <lb ed="#V" n="124"/>hieron. dicens vt supra allegatum est quod subiecta vnum sunt et personis di 
+      <lb ed="#V" n="125"/>stinguuntur. Et sic est conformiter docuit Augu. dicens sententialiter quod sunt 
+      <lb ed="#V" n="126"/>vna subiecta et distincte persone. sed sicut seipis et non aliquao sui 
+      transiti<lb ed="#V" n="127" break="no"/>ue sunt vna subiecta: sic seipis: et non aliquao sui sunt distincte persone. 
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e440">
+               <lb ed="#V" n="128"/>⁋ Quia aut additur de abstractione illorum nominum patrnitas et 
+      filia<lb ed="#V" n="129" break="no"/>tio. Dico quod tripliciter potest quis vti talibus abstractis: cum de 
+      distin<lb ed="#V" n="130" break="no"/>ctione loquitur personarum. Uno modo ad significandum quod persona nullo 
+      <!--214.xml-->
+      <pb ed="#V" n="113-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>alio quam seipsa praecise et primo distinguitur ab alia: et illud magis ex 
+      <lb ed="#V" n="2"/>presse significatur per abstractum nominis sui. et tunc dicendo pater 
+      distin<lb ed="#V" n="3" break="no"/>guitur paternitate: ly paternitate supponit pro ypostasi patris. Alio modo 
+      <lb ed="#V" n="4"/>ad denotandum persone proprietatem 3o modo sumptam quae prohibet vnam 
+      perso<lb ed="#V" n="5" break="no"/>nam esse aliam. et tunc est sensus. pater distinguitur a filio paternitate. id 
+      <lb ed="#V" n="6"/>est quia ipse genuit filium: et tunc paternitate equiualet in significando 
+      <lb ed="#V" n="7"/>illi complexo: nec pro aliquo supponit sicut nec complexum illud. 3o modo  
+      <lb ed="#V" n="8"/>potest fieri talis abstractio ad designandum aliquod intrinsecum per se 
+      <lb ed="#V" n="9"/>quo ab alia distinguatur et pro quo supponit illud abstractum in 
+      propositio<lb ed="#V" n="10" break="no"/>ne affirmante personam ab alia distingui: et tunc dico quod talis abstra 
+      <lb ed="#V" n="11"/>ctio inconueniens est et ficticia. nec sic ea vtuntur qui recte intel 
+      <lb ed="#V" n="12"/>ligunt: sed alterum duorum primorum modorum.
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e482">
+      ⁋ Ad 2m dico quod 
+      <lb ed="#V" n="13"/>pater refertur ad filium et spiritum sanctum vna relatione tantum secundum rem quae tamen est 
+      <lb ed="#V" n="14"/>in pluribus speciebus relationis seu cui conueniunt rationes plurium spe 
+      <lb ed="#V" n="15"/>cierum relationis: quapropter optime potest correspondere distinctis specie 
+      <lb ed="#V" n="16"/>cooppositis. exemplum sortes eadem relatione est similis platoni albo et dis 
+      <lb ed="#V" n="17"/>similis ciceroni nigro. Nam eadem albedo sortes est similtudo ad  
+      <lb ed="#V" n="18"/>platonem et dissimilitudo ad ciceronem: cum nec similitudo nec 
+      dissimili<lb ed="#V" n="19" break="no"/>tudo sit res superaddita qualitati: sicut infra probabitur: et sicut est sic 
+      <lb ed="#V" n="20"/>arguentes opinantur: et hec vna relatuio secundum rem correspondet 
+      similitu<lb ed="#V" n="21" break="no"/>dini et dissimilitudini oppositis quae sunt in platone et cicerone. Sic 
+      <lb ed="#V" n="22"/>in proposito eadem entitas simplicissima quae est pater est spiratio et 
+      <lb ed="#V" n="23"/>paternitas et correspondet filiationi in filio a spirationi 
+      coopposi<lb ed="#V" n="24" break="no"/>te in spiritu sancto.
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e511">
+      ⁋ Ad 3m si ly aliquo sui capiatur secundum transitiuam con 
+      <lb ed="#V" n="25"/>structionem vt accipit arguens. maior est falsa: et habet instantiam 
+      <lb ed="#V" n="26"/>de duobus angelis et de duabus animabus supposito quod sint essentiae 
+      <lb ed="#V" n="27"/>simplices. sic enim nec angelus nec anima distinguuntur aliqua sui: 
+      <lb ed="#V" n="28"/>qui nec aliquid est sui in hoc sensu et non sunt duo angeli primo diuersi 
+      <lb ed="#V" n="29"/>cum sint eiusdem genris et forte eiusdem speciei: nec est due anime sunt 
+      <lb ed="#V" n="30"/>primo diuersa cum sint eiusdem speciei. Et per consequens ad intellectum philosophi dicuntur. 
+      <lb ed="#V" n="31"/>aliquid idem entes: aut quia aliquid idem de eis esentialiter praedicatur: 
+      <lb ed="#V" n="32"/>vt aliqui exponunt verbum philosophi. 5o meta. scriptum: aut accipien 
+      <lb ed="#V" n="33"/>do actum exercitum pro actu signato: quia de eis verificatur quod sunt 
+      <lb ed="#V" n="34"/>aliqua modo idem scilicet specie: et similiter de his de quibus verificatur esse idem nuoa 
+      <lb ed="#V" n="35"/>aut genere vel proportione ibi dicit philosophus. Ad probationem dico quod 
+      <lb ed="#V" n="36"/>eodem modo aliquid est idem alicui vno modo: et distinguitur ab eodem alio modo: 
+      <lb ed="#V" n="37"/>sicut vna anima seipsa est eadem specie alteri anime et disticta numeraliter 
+      <lb ed="#V" n="38"/>ab eadem.
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e545">
+      ⁋ Ad 4m dico quod aliquid potest dici esse alicuius vel in 
+      <lb ed="#V" n="39"/>aliquo dupliciter vno modo proprie vt constructio sit transitiua: et omne quod sic est 
+      <lb ed="#V" n="40"/>alicuius vel in aliquo est distinctum ab eo: isto modo dicitur equus esse sortis et anima 
+      <lb ed="#V" n="41"/>dicitur esse homins et in homine. et forma in materia et locatum in loco: et sic de 
+      <lb ed="#V" n="42"/>aliis modis quibus aliquid proprie dicitur esse in aliquo. Alio modo improprie 
+      <lb ed="#V" n="43"/>vt constructio sit intransitiua: et illud consueuit ab aliquibus voca 
+      <lb ed="#V" n="44"/>ri esse in aliquo per identitatem: quia scilicet quod sic dicitur esse alicuius vel in aliquo 
+      <lb ed="#V" n="45"/>non distinguitur ab illo sed est ipsum: isto modo loquimur cum dicimus essentia 
+      <lb ed="#V" n="46"/>angeli vel essentia dei id est qua est angelus et essentias quae est deus et econverso. Nunc 
+      <lb ed="#V" n="47"/>ad rationem si innascibilitas supponat pro aliqua entitate a generatione 
+      <lb ed="#V" n="48"/>actiua sumatur pro relatione patris ad filium: sic oportet si argumentum debeat: 
+      <lb ed="#V" n="49"/>procedere contra conclusionem positam: dico quod sunt in patre intransitiue loquen 
+      <lb ed="#V" n="50"/>do. et eodem dicuntur proprietates patris id est qua sunt pater. non autem vere dicuntur 
+      <lb ed="#V" n="51"/>esse patris vel in patre transitiue: nec etiam adinuicem distinguuntur. nec 
+      <lb ed="#V" n="52"/>probatio ex dicto Aug. valet. Non enim sequitur: si pater non esset ingenitus pos 
+      <lb ed="#V" n="53"/>set esse pater. ergo innatiuitas et paternitas in patre distinguuntur. Sicut non 
+      <lb ed="#V" n="54"/>sequitur: si deus non esset dominus adhuc posset esse deus. ergo deus et dominium dei 
+      <lb ed="#V" n="55"/>distinguuntur. Et sicut non sequitur: si sortes non esset similis adhuc posset esse 
+      <lb ed="#V" n="56"/>albus ergo eius albedo et similitudo distinguuntur.
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e587">
+      ⁋ Ad 5m dico quod 
+      si<lb ed="#V" n="57" break="no"/>esse in. sumatur intransitiue. maior est falsa. et similiter probatio eius in 
+      eo<lb ed="#V" n="58" break="no"/>dem sensu nec per illud exemplum sufficienter probatur assumptum. quoniam licet 
+      <lb ed="#V" n="59"/>nihil sit sortes quod non distinguatur a platone. aliquid tamen est pater quod non 
+      <lb ed="#V" n="60"/>distinguitur a filio scilicet essentia divina. Si autem esse in. sumatur transitive 
+      <lb ed="#V" n="61"/>sic maior est vera et minor falsa quantum ad vtramque partem: quantum ad  
+      <lb ed="#V" n="62"/>primam quidem: quoniam essentia divina proprie loquendo et in hoc sensu non est in 
+      <lb ed="#V" n="63"/>patre et filio: sed pater et filius sunt ipsa essentia: et propterea Damascenus libro primo cum 
+      <lb ed="#V" n="64"/>dixisset. cum respexerimus ad ea in quibus est divinitas loquens de 
+      <lb ed="#V" n="65"/>personis: immediate ostendens hoc esse improprie dictum addit: vel quod 
+      <!--214.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 113-r b -->
+               <lb ed="#V" n="66"/>deinde certius dicamus quae sunt divinitas hoc est ad tres 
+      yposta<lb ed="#V" n="67" break="no"/>ses etc. vbi dat nobis doctrinam vt vbique in sacris 
+      scriptu<lb ed="#V" n="68" break="no"/>ris inuenimus dictum quod divinitas est in personis. illud sit 
+      intelligen<lb ed="#V" n="69" break="no"/>dum secundum intransitivam constructionem id est quod divinitas est parsone: vel quod 
+      <lb ed="#V" n="70"/>persone sunt deitas. eodem modo in eodem sensu falsa est reliqua pars mi 
+      <lb ed="#V" n="71"/>noris scilicet quod paternitas est in patre: sed paternitas est pater: et pater est paterni 
+      <lb ed="#V" n="72"/>tas.
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e631">
+      ⁋ Sed ex dictis istius doctoris potest contra sic argui. pater aliquo 
+      <lb ed="#V" n="73"/>sui non distinguitur a filio: et aliquo sui distinguitur a filio. ergo non 
+      <lb ed="#V" n="74"/>seipso primo distinguitur a filio. consequentia patet. Antecedens probatur. quoniam pater 
+      <lb ed="#V" n="75"/>divinitate non distinguitur a filio. et paternitate distinguitur ab eo. 
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e640">
+               <lb ed="#V" n="76"/>⁋ Responsio patrem a filio distingui aut aliquid ab aliquo seipso primo 
+      <lb ed="#V" n="77"/>potest intelligi dupliciter vno modo seipso primo id est quolibet sui. Alio modo: id est nullo alio 
+      <lb ed="#V" n="78"/>seu quod non est ipsum: et tunc ista: pater distinguitur a filio seipso primo 
+      <lb ed="#V" n="79"/>exponitur per istas: pater distinguitur a filio et per nihil quod non est 
+      <lb ed="#V" n="80"/>pater: pater distinguitur a filio: et in hoc sensu dixi supra: quod persone 
+      <lb ed="#V" n="81"/>seipsis distinguuntur. primo quia scilicet distinguitur vtique et non per aliquae quae 
+      <lb ed="#V" n="82"/>non sunt ipse: sed sint ipsarum sicut aliqui imaginantur et multo ma 
+      <lb ed="#V" n="83"/>gis nec per aliquae quae non sunt ipse nec ipsarum.
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e660">
+      ⁋ Tunc ad rationem 
+      <lb ed="#V" n="84"/>factam dico: quod si ly sui in antecedente teneatur transitiue: antecedens est 
+      fal<lb ed="#V" n="85" break="no"/>sum: nec probatio valet. quia supponit quod deitas sit aliquid patris 
+      <lb ed="#V" n="86"/>et non pater. et similiter de paternitate: quorum vtrumque falsum est. Si vero 
+      <lb ed="#V" n="87"/>teneatur intransitiue: nego consequentiam. non enim sequitur. pater aliquo quod 
+      <lb ed="#V" n="88"/>est ipse non distinguitur a filio. et aliquo quod est ipse distinguitur a 
+      <lb ed="#V" n="89"/>filio. ergo pater aliquo quod non est ipse distinguitur a filio: et per 
+      <lb ed="#V" n="90"/>consequens etiam non sequitur. ergo pater non seipso primo distinguitur a filio 
+      <lb ed="#V" n="91"/>secundum sensum datum
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e680">
+      ⁋ Quod vero idem doctor addit soluendo rationem 
+      <lb ed="#V" n="92"/>pro illa conclusione. quia simplex non constitutum etc. nihil valet: quoniam omne 
+      <lb ed="#V" n="93"/>simplex est huiusmodi et nullum constitutum ex communi et proprio est simplex. 
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e688">
+               <lb ed="#V" n="94"/>⁋ 3a conclusio probatur. ex eo quod non est dare aliquas tales entitates 
+      <lb ed="#V" n="95"/>proprias personarum: quod apparet: quia vel tales entitates si quae forent 
+      <lb ed="#V" n="96"/>essent extrinsece ipsis personis vel intrinsece incluse in eis. 
+      <lb ed="#V" n="97"/>Non potest dici primum: quoniam vel ipse essent per se subsistentes: et per 
+      <lb ed="#V" n="98"/>consequens essent persone. ex quo vltra sequitur quod in divinis essent ad 
+      <lb ed="#V" n="99"/>minus sex persone scilicet pater et filius et spiritus sanctus. et tres alie earum 
+      <lb ed="#V" n="100"/>proprietates quod est erroneum: vel essent personis inherentes vel 
+      <lb ed="#V" n="101"/>insistentes. sicut forme materiis quod etiam est impossibile in deo: qui 
+      <lb ed="#V" n="102"/>nulli subsistere potest. vt dicit Aug. 7o de tri. Sed nec potest 
+      <lb ed="#V" n="103"/>dici quod sint tales alique entitates intrinsece incluse in perso 
+      <lb ed="#V" n="104"/>nis secundum quem modum imaginari videntur. quicumque tales proprie 
+      <lb ed="#V" n="105"/>tates ponunt in personis: hoc autem esse impossibile potest probari 
+      multi<lb ed="#V" n="106" break="no"/>pliciter. primo quidem per expressam determinationem ecclesie 
+      <lb ed="#V" n="107"/>
+               <ref xml:id="grvnZZ-ed1e7X-Rd1e720" target="http://scta.info/resource/cice-l1t1-d1e134" synch="446-516"><!-- target will change -->extra. de summa tri. et fi. ca. capitulo damnamus</ref>. sic dicentis. <quote xml:id="grvnZZ-ed1e7X-Qd1e724">pater ab eter 
+        <lb ed="#V" n="108"/>no filium generando suam substantiam ei dedit. iuxta quod ipse testatur: pater 
+        <lb ed="#V" n="109"/>quod dedit mihi maius est omnibus at dici non potest quod partem substantie 
+        <lb ed="#V" n="110"/>illi dederit et partem ipse sibi retinuerit: cum substantia patris 
+        indi<lb ed="#V" n="111" break="no"/>uisibilis sit. vtpote simplex omnino: sed nec dici potest quod pater 
+        <lb ed="#V" n="112"/>in filium transtulerit suam substantiam generando quasi sic dederit 
+        eam<lb ed="#V" n="113" break="no"/>filio: quod non retinuerit ipsam sibi: alioquin desinisset esse substantia</quote>. 
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e741">
+               <lb ed="#V" n="114"/>⁋ patet ergo quod sine vlla diminutione filius nascendo substantiam patris 
+      <lb ed="#V" n="115"/>accepit. et ita pater et filius habent eandem subiectam: et sic eadem res est 
+      <lb ed="#V" n="116"/>pater et filius nec non spiritus sanctus ab vtroque procedens. cum ergo vt 
+      <lb ed="#V" n="117"/>profitetur ecclesia. filius totam substantiam patris sine diminutione 
+      <lb ed="#V" n="118"/>accepit. Manifeste patet quod nullam entitatem in se habet sibi 
+      pro<lb ed="#V" n="119" break="no"/>priam pater quam filio generando non dederit. Nec potest dici quod 
+      <lb ed="#V" n="120"/>quamuis totam sine diminutione patris substantiam filius generando 
+      acce<lb ed="#V" n="121" break="no"/>perit: non tamen accepit omnem entitatem patris: quoniam non illam propriam 
+      <lb ed="#V" n="122"/>quam vltra communem essentiam pater includit: tum quia non minus 
+      <lb ed="#V" n="123"/>est indiuisibilis et omnino simplex persona patris quam sit essentia 
+      il<lb ed="#V" n="124" break="no"/>la communis: et per consequens iuxta argumentationem ecclesie impossibile est 
+      <lb ed="#V" n="125"/>quod partem sui scilicet communem essentiam filio dederit et partem aliam sibi 
+      <lb ed="#V" n="126"/>retinuerit. ergo sine diminutione filius totam entitatem patris 
+      <lb ed="#V" n="127"/>accepit. nulla ergo entitas est in patre quae non sit in filio. tum quia 
+      <lb ed="#V" n="128"/>stultissimum est imaginari quod in patre sit aliqua entitas que 
+      <lb ed="#V" n="129"/>non sit substantia vel de substantia eius: sic enim esset accidentalis vel ei 
+      <lb ed="#V" n="130"/>extranea. ergo si totam patris subiectam accepit filius: omnem enti¬ 
+      <!--215.xml-->
+      <pb ed="#V" n="113-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>tatem patris habet filius.
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e789">
+      ⁋ 2o si essent in personis tales proprie 
+      enti<lb ed="#V" n="2" break="no"/>tates: tunc non eadem res esset pater et filius et spiritus scus vt dicit 
+      <lb ed="#V" n="3"/>ecclesia. consequentia patet. quoniam illo posito non solum esentia communis est pa 
+      <lb ed="#V" n="4"/>ter: sed ipsa simul cum illa propria entitate patris quae non est in 
+      fi<lb ed="#V" n="5" break="no"/>lio: et per consequens non eadem res que est pater est filius.
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e800">
+      ⁋ 3o sequitur 
+      <lb ed="#V" n="6"/>quod essentia divina non est pater nec econverso cuius oppositum etiam tradit 
+      <lb ed="#V" n="7"/>ecclesia: vbi supra dicit quod vna quedam suntia res est. 
+      incomprehens<lb ed="#V" n="8" break="no"/>bilis quidem et ineffabilis quae veraciter est pater et filius et spiritus secuns 
+      <lb ed="#V" n="9"/>scilicet res simul persone ac sigillatim quelibet earumdem: et ideo 
+      solummon<lb ed="#V" n="10" break="no"/>est trinitas non quaternitas: sed quelibet trium personarum est 
+      ille<lb ed="#V" n="11" break="no"/>res. valet. subiecta essentia seu natura divina. consequentia probatur ex hoc quod nullum 
+      <lb ed="#V" n="12"/>includens plura est aliquid illorum: et similiter nullum illorum est ipsum: 
+      <lb ed="#V" n="13"/>sed ipsius est transitiue loquendo: et illud includens est ex eo: sicut 
+      <lb ed="#V" n="14"/>anima non est homo: sed hominis: nec homo est anima sed ex anima. Simili modo 
+      <lb ed="#V" n="15"/>probari potest quod essentia non esset filius vel spiritus scus nec econvers 
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e824">
+               <lb ed="#V" n="16"/>⁋ 4o si quelibet persona habet aliquam propriam entitatem praeter communem 
+      <lb ed="#V" n="17"/>entitatem quai est deitas sequitur quod quaelibet persona praeter diuinitatem 
+      <lb ed="#V" n="18"/>communem habet etiam propriam divinitatem: et sic in trinitate erunt quatuor 
+      <lb ed="#V" n="19"/>divinitates: vna communis: et tres proprie et vna persona erit alius deus 
+      <lb ed="#V" n="20"/>ab alia propter illam propriam entitatem scilicet divinitate quam sola includit. 
+      <lb ed="#V" n="21"/>hec autem omnia sunt erronea. consequentia probatur. ex eo quod impossibile est 
+      <lb ed="#V" n="22"/>esse in deo aliquam entitatem que non sit deus: alioquin sequitur quod 
+      <lb ed="#V" n="23"/>persona non esset deus. sed eius pars esset deus.
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e844">
+      ⁋ Item omnis enti 
+      <lb ed="#V" n="24"/>tas quae non est deus vtique est creatura. iuxta illud Aug. primo de 
+      tri<lb ed="#V" n="25" break="no"/>Sis subiecta que deus non est: creatura est. et quae creatura non est: de 
+      <lb ed="#V" n="26"/>est. et constat quod subiectam pro essentia vel entitate ponit: sicut dicimus 
+      <lb ed="#V" n="27"/>quod subiecta albedinis est alia a subiecta nigredinis: alioquin non suf 
+      <lb ed="#V" n="28"/>ficienter probaret intentum scilicet quod filius est deus. hoc etiam modo idem 
+      <lb ed="#V" n="29"/>Aug. super illud praes. Infixus sum in limo profundi et non est subiecta 
+      <lb ed="#V" n="30"/>pro entitate subiectam accipit. Unde ait. omnia enim subiecte sunt eo ipso 
+      <lb ed="#V" n="31"/>quod sunt. Nam que nulla sunt in subiecta omnino nihil sunt. Si ergo aliqua 
+      <lb ed="#V" n="32"/>entitas esset in persona quae non esset deus: iam persona composita esset 
+      <lb ed="#V" n="33"/>ex deo et creatura: quod blasphemum est dicere.
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e869">
+      ⁋ Item hugo 
+      <lb ed="#V" n="34"/>de sacramentis libo primo Se quod in deo est aliud quam deus esse non potest: sed 
+      si<lb ed="#V" n="35" break="no"/>illa entitas propria est deitas: et per positionem non est illa divinitas communis 
+      <lb ed="#V" n="36"/>ergo est alia divinitas propria. et patet consequentia. Si vero diceretur quod illa enti 
+      <lb ed="#V" n="37"/>tas propria non est entitas distincta modo aliquo a deitate communi: s 
+      <lb ed="#V" n="38"/>est ipsa: tunc sequitur quod nulla pluralitas entitatum est in perso 
+      <lb ed="#V" n="39"/>na: et per consequens non est in ea aliquid quo conuenit cum alia persona 
+      <lb ed="#V" n="40"/>et aliquid aliud quo distinguitur ab ea. Item quod nulla propetas 
+      <lb ed="#V" n="41"/>est in persona vel est persone: transitiue loquendo qua distinguatur. 
+      <lb ed="#V" n="42"/>ab alia persona: sed ipsamet persona nulla plura quoquo modo 
+      in<lb ed="#V" n="43" break="no"/>cludens seipsa primo: iuxta sensum supra positum distiguitur ab alia: et 
+      <lb ed="#V" n="44"/>sic habentur propositum quantum ad vtramque conclusionem.
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e895">
+      ⁋ 5o secundum hanc viam sequitur 
+      <lb ed="#V" n="45"/>quod nulla persona sit summe simplex quod est erroneum. consequentia probat 
+      <lb ed="#V" n="46"/>qui secundum hoc qualibet persona habet in se aliquid quod ipsa non est nec econverso secd 
+      <lb ed="#V" n="47"/>est aliquid eius: simplex autem nihil quod ipsum non sit habet in se: sicut 
+      <lb ed="#V" n="48"/>supra dicens 8. declaratum est. Unde propter hanc causam magiter dete rmiseinat quod 
+      <lb ed="#V" n="49"/>proprietates persone est ipsa persona. distincti 2. li. primo.
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e908">
+      ⁋ Et aduertem 
+      <lb ed="#V" n="50"/>est quod omnes praemisse rationes procedunt contra quamlibet opinionem ponentem 
+      <lb ed="#V" n="51"/>aliquam propetatem in persona 2o mo distinctionis supraposite. siue 
+      <lb ed="#V" n="52"/>illam propreie tatem vocent rem siue formalitatem vel quiditatem seu 
+      <lb ed="#V" n="53"/>modalitatem aut alio quolibet nomine: dummodo aliqua pluralitas est 
+      <lb ed="#V" n="54"/>distinctio ponatur intra personam divinam quae omnia nomine entitatis intellit 
+      <lb ed="#V" n="55"/>go significari. Pro hac conclusione sunt sanconrum auctoritas ait enim hyla. 3. de 
+      <lb ed="#V" n="56"/>tri. propeie finem. Audis: ego et paiter vnum sumus: vnum sunt scilicet is qui est 
+      <lb ed="#V" n="57"/>nihil habens quod non sit etiam in eo a quo est quae verba aliis verbis 
+      eius<lb ed="#V" n="58" break="no"/>dem interponit magister libr primo diens i. et caua et inde est. Item idem 7o de 
+      <lb ed="#V" n="59"/>tri. Iudico quid sunt scilicet pater et filius cum vnum ex vno est. quia 
+      <lb ed="#V" n="60"/>neque vnus vni aliud per generationem quam quod suum est dedit: neque 
+      vn<lb ed="#V" n="61" break="no"/>ab vno per natiuitatem obtinet quam quod vnius. Et est intentio 
+      <lb ed="#V" n="62"/>eius quod nihil ddit pater filio ipsum gnando quod non sit in se: ne 
+      <lb ed="#V" n="63"/>que filius aliquid accepit nascendo quod non sit et in patre. Item 
+      <lb ed="#V" n="64"/>Isi. de sum. bo. libro primo ait. Io vnum sunt pater et filius. quia nihi huiusmod 
+      <lb ed="#V" n="65"/>bet pater quod non habeat filius. Insuper Augu. 15. de tri. loquens 
+      <!--215.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 113-v b -->
+               <lb ed="#V" n="66"/>de verbo consubstectali dei. et ideo verbum inquit hec veritas est: 
+      <lb ed="#V" n="67"/>quoniam quicquid est in ea scientia de qua genitum est: etiam in ipso est. 
+      <lb ed="#V" n="68"/>Scientia aut de qua est genitum est pliter: vt ibi patet. quicquid ergo est in patre 
+      <lb ed="#V" n="69"/>est in eius verbo. Ex qubus omnibus patet quod nihil onino autm entitas 
+      <lb ed="#V" n="70"/>aliqua est in patre que non sit in filio: nec econverso quod est huiusmodi filiui verba 
+      <lb ed="#V" n="71"/>confirmant Ioan. i1de dicentis. Dia quecumque habet pater mea sunt. 
+      <lb ed="#V" n="72"/>et proinde cantat ecclesia in patre totus filius: et totus in verbo pater: 
+      <lb ed="#V" n="73"/>non ergo in personis divinis praeter communem essentiam sunt aliqua speciales et 
+      <lb ed="#V" n="74"/>proprie entitates excogitande: vt est ex dictis ostensum. Cus 
+      <lb ed="#V" n="75"/>quoque consonat dictum hugo. ibro primo de sacramentis dicenti 
+      <lb ed="#V" n="76"/>nas nihil aliud esse quam essentiam vnam confitemur.
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e976">
+      ⁋ Contra istam 
+      <lb ed="#V" n="77"/>conclusionem potest argui per illud verbum praefationis. in personis proprietas et 
+      <lb ed="#V" n="78"/>in essentia vnitas et in maiestate adoretur equalitas. Ex quo patet 
+      <lb ed="#V" n="79"/>quod proprietas est aliqua entitas. alioquin non esset in personis: et 
+      <lb ed="#V" n="80"/>non est entitas quae est persona: quia nihil est in seipso. ergo est entitas 
+      <lb ed="#V" n="81"/>persone.
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e989">
+      ⁋ 2o si proprietas persone non sit aliqua entitas propria et  
+      <lb ed="#V" n="82"/>partialis persone non esset vna proprietas seu notio communis 
+      patri<lb ed="#V" n="83" break="no"/>et filio: cuius oppositum dicit magiur. distinctio n. libr primo et patet consequentia quia nulla 
+      <lb ed="#V" n="84"/>persona communis est patri et filio. Alie rationes possent fieri contra ean 
+      <lb ed="#V" n="85"/>dem conclusionem: sed ille adducentur idnis inictine 3 cum inquiretur de identi 
+      <lb ed="#V" n="86"/>tate et distinctione relationis divine ab essentia.
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e1002">
+      ⁋ Ad primum horum dico:  
+      <lb ed="#V" n="87"/>quod illa auctoritas in sententia nullo modo est contra propositum: quod patet: quia non 
+      <lb ed="#V" n="88"/>plus ex tali modo locutionis potest concludi quod proprietas sit aliqua 
+      <lb ed="#V" n="89"/>entitas partialis persone quam quod vnitas sit aliqua entitas partialis 
+      <lb ed="#V" n="90"/>essentie: vel ab ea distincta: quod non solum in deo: sed in qualibet 
+      <lb ed="#V" n="91"/>essentia falsum est. vt probatum est distinctione. 2 4. q. prima: nec est plus 
+      <lb ed="#V" n="92"/>quam quod equalitas sit entitas disticta a maiestate. quod etiam constat 
+      <lb ed="#V" n="93"/>esse falsissimum. Et patet assumptum. quia sicut dicit. in personis proprei ¬  
+      <lb ed="#V" n="94"/>tas: ita dicit. in essentia vnitas: et in maiestate equalitas. non 
+      <lb ed="#V" n="95"/>ergo sumenda sunt verba illa in sua proprietate: sed secundum impropria 
+      <lb ed="#V" n="96"/>significationem: sicut dixerunt aliqui venerabiles doctores antiqui  
+      <lb ed="#V" n="97"/>vt per illa insinuaretur et personarum distinctio ea vnitas essentie. e 
+      <lb ed="#V" n="98"/>vnde exposuerunt in personis proprietas. id est distinctio quae non est aliua 
+      <lb ed="#V" n="99"/>quam persone a se distincte: et est sensus secundum ipsos. adorentur 
+      perso<lb ed="#V" n="100" break="no"/>ne distincte et essentia vna. 2o potest dici iuxta intellectum 
+      ali<lb ed="#V" n="101" break="no"/>quorum doctorum modernorum quod proprietas dicitur in personis 
+      intransi<lb ed="#V" n="102" break="no"/>tiue: et tunc ponitur singularis numerus pro plurali. valet propri tas 
+      <lb ed="#V" n="103"/>pro proprietates adoretur. ergo propri tas in personis. id est proprietates quae 
+      <lb ed="#V" n="104"/>sunt persone. 3o posset dici quod proprietas accipitur ibi 3o modo 
+      super<lb ed="#V" n="105" break="no"/>posito in prima. dicens secundum quem modum erit serumo de proprietatibus in  
+      <lb ed="#V" n="106"/>conclusione sequenti. et tunc erit sensus auctoritatis adoretur in personis 
+      pro<lb ed="#V" n="107" break="no"/>prietas. id est adorentur persone quae suas habent proprietates: et quamlibet 
+      <lb ed="#V" n="108"/>istarum expositionum puto conuenientem esse auctoritati quae non aliud 
+      <lb ed="#V" n="109"/>intedit quam nobis exprimere pluralitatem personarum et essentia vni 
+      <lb ed="#V" n="110"/>tatem: magis tamen placent prima et 3a.
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e1058">
+      ⁋ Ad 2m dico quod consequentia non 
+      <lb ed="#V" n="111"/>valet: quia pari modo probaretur quod essentia cum sit communis personis esset 
+      <lb ed="#V" n="112"/>partialis entitas ipsarum: quod est falsum: vt supra est probatum. sicut 
+      <lb ed="#V" n="113"/>ergo essentia est pater et filius et spitus scunus. sic illa communis notio si 
+      po<lb ed="#V" n="114" break="no"/>natur est pater et filius: et non aliqua partialis entitas ipsorum: et hoc 
+      in<lb ed="#V" n="115" break="no"/>telligo si loquamur de notione prout est aliquid incomplexe signi 
+      <lb ed="#V" n="116"/>ficabile modo supra dicto. Si vero de communi notione loquamur vt 
+      <lb ed="#V" n="117"/>est aliquid significabile complexem tantum: tunc non valet consequentia quia notio 
+      <lb ed="#V" n="118"/>sic sumpta non est aliqua entitas existens in persona: immo nec aliqua 
+      <lb ed="#V" n="119"/>entitas omnino.
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e1080">
+      ⁋ 4 conclusio est quod persone divine distinguuntur proprie 
+      ta<lb ed="#V" n="120" break="no"/>tibus 3o modo acceptis intelligendo quod per eas distinguantur 2omo quia scilicet ex 
+      <lb ed="#V" n="121"/>talibus proprie tatibus potest cognosci et necessario concludi quod ipse persone 
+      <lb ed="#V" n="122"/>sunt inter se distincte. Et quantum ad hec duo probatur conclusio pr Augu. de 
+      <lb ed="#V" n="123"/>fide ad petrus vbi ait. In illa scaum trinitate vnus est piter qui solus 
+      <lb ed="#V" n="124"/>essentialiter de seipso vnum filium genuit: et vnus filius qui de vno 
+      <lb ed="#V" n="125"/>patre solus est essentialiter natus: et vnus spiritus secus qui essentialiter so 
+      <lb ed="#V" n="126"/>lus de patre filioque procedit. hoc autem totum vna persona non 
+      <lb ed="#V" n="127"/>posset scilicet gignere se: nasci de se: et procedere de se. Quia ergo aliud 
+      <lb ed="#V" n="128"/>est genuisse quam natum esse. aliudque procedere quam genuisse vel 
+      <lb ed="#V" n="129"/>natum esse manifestum est: quoniam alius est pater alius filius alius spiritus 
+      <lb ed="#V" n="130"/>scuns. in quibus verbis primo exprimuntur proprietates complexe tantum: 
+      <!--216.xml-->
+      <pb ed="#V" n="114-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>vel equivalenter significabiles: sicut superius est declaratum. 
+      De<lb ed="#V" n="2" break="no"/>inde additur quod ex talibus manifeste fit earum distinctio: cum ait. hoc 
+      <lb ed="#V" n="3"/>autem totum non posset vna prima etc. Simili modo ponit proprie tates 
+      perso<lb ed="#V" n="4" break="no"/>narum hyla. 12. de tri. et allegatur in distinctio e6. cum ait. Si semper patri 
+      <lb ed="#V" n="5"/>proprium est quod pater semper pater est. necesse est filio semper proprium esse quod 
+      <lb ed="#V" n="6"/>semper est filius. Quod exponens magister in dis. 2 7. dicit proprium est 
+      <lb ed="#V" n="7"/>patris quod semper pater est id est proprietas pris est qua semper pater est. Semper 
+      <lb ed="#V" n="8"/>vero pater est. quia semper genuit filium: ita et proprium filii quod filius est. id est 
+      pro<lb ed="#V" n="9" break="no"/>prietas filii est qua semper est filius. filius vero semper est: quia semper est 
+      geni<lb ed="#V" n="10" break="no"/>tus. ergo propri tas qua pater est: est quia semper genuit. Et sequitur: et proprie: 
+      <lb ed="#V" n="11"/>tas filii est: quia semper genitus est a patre: et sic easdem propri tates vt ante 
+      <lb ed="#V" n="12"/>praemisit magr: Aug. et hyeul. denotant. Cum ergo dicitur proprium est pa 
+      <lb ed="#V" n="13"/>tris genuisse: non aliud intelligitur quam si dicatur: proprium est patris 
+      <lb ed="#V" n="14"/>quod filium genuit: et proprium est filii ipsum natum esse id est quod de patre natus 
+      <lb ed="#V" n="15"/>est. Simili modo etiam Ansel. vt supra allegatum est proprei tates 
+      perso<lb ed="#V" n="16" break="no"/>narum complexe monstrauit. Constat autem vt ibi dicebatur quod hoc to 
+      <lb ed="#V" n="17"/>tum. pater genuit. vel filius de patre natus est. significatiue. sum 
+      <lb ed="#V" n="18"/>ptum pro nulla entitate supponit. Et ita propri tates iste sic 
+      si<lb ed="#V" n="19" break="no"/>gnificate non sunt entitates aliqua sicut in sequenti. q. probabitur: 
+      <lb ed="#V" n="20"/>ac per hoc non sunt persone vel in personis: nihilominus tamen verissime 
+      <lb ed="#V" n="21"/>et eternaliter pater et solus ipse filium genuit: et ideo hoc est sibi 
+      pro<lb ed="#V" n="22" break="no"/>prium: et proprietas eius: et filius solus a patre genitus est. et spis 
+      <lb ed="#V" n="23"/>scuns ab vtroque processit: ex quo necessario sequitur quod vere fuerunt 
+      di<lb ed="#V" n="24" break="no"/>stincte persone ab eterno. Ex quo etiam vlterius sequitur quod huiusmodi 
+      pro<lb ed="#V" n="25" break="no"/>prietates non tantum sunt nomina: vel relatie appellationes: quin immo 
+      <lb ed="#V" n="26"/>ante omne nomen et appellationem relatiuam eternaliter et vere 
+      ac<lb ed="#V" n="27" break="no"/>realiter id est sine omni oporitione anime pater genuit filium: et filius a poatre 
+      ge<lb ed="#V" n="28" break="no"/>nitus est. et ab vtroque spitus secunus processit: et ipse nunc relatiuis 
+      <lb ed="#V" n="29"/>nominibus et appellationibus significantur.
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e1176">
+      ⁋ Notandum aut quod quamuis 
+      <lb ed="#V" n="30"/>proprie huiusmodi proprietates non nisi complexe valeant significari: 
+      <lb ed="#V" n="31"/>aliquando tamen inuenimus eas significatas fore in scripturis in comple 
+      <lb ed="#V" n="32"/>xis nominibus: et abstractis: sed tunc talia nomina equivalerent in signi 
+      <lb ed="#V" n="33"/>ficando praedictis complexis et orationibus. hoc patet per magtrm. 2o o. dicens 
+      <lb ed="#V" n="34"/>vbi dicit quod proprietas patris est: quia semper genuit: et hec 
+      di<lb ed="#V" n="35" break="no"/>citur patnitas vel generatio: et proprietas filii est: quia semper est genitus a pa 
+      <lb ed="#V" n="36"/>tre: et hec eadem dicitur filiatiso vel genitura vel natiuitas 
+      ve<lb ed="#V" n="37" break="no"/>origo vel nascibilitas: sic est propetas qua spunsscuns est spunsscuns 
+      <lb ed="#V" n="38"/>vel donum est: quia procedit ab vtroque: et hec eadem dicitur processio. 
+      <lb ed="#V" n="39"/>Et concludit magister: in praemissis ergo locutionibus eedem significate sunt 
+      <lb ed="#V" n="40"/>proprietates. Eedem quoque proprietates aliquando notiones 
+      vocan<lb ed="#V" n="41" break="no"/>tur: hoc ideo quia per eas distinctio personarum cognoscit. Uocantur est 
+      rela<lb ed="#V" n="42" break="no"/>tiones: et hoc quia non nisi relatiue possunt designari. Unde Ansel. in 
+      <lb ed="#V" n="43"/>liuo de proces . scilicet cum posuisset ea in quibus de veritate trinitatis 
+      <lb ed="#V" n="44"/>greci nobiscum conueniunt: et inter cetera dixisset. nec putant scilice 
+      <lb ed="#V" n="45"/>greci alium esse deum qui nascitur quam de quo nascitur: et qui procedit 
+      <lb ed="#V" n="46"/>quamuis secundum nomina significantia: quia est de quo aliquis nascit: et est qui 
+      <lb ed="#V" n="47"/>de aliquo nascitur: et est qui de aliqui procedit: pluralitatem admittat 
+      <lb ed="#V" n="48"/>secundum quam plures et alii sunt abinuicem pater et filius et spunsscuns 
+      <lb ed="#V" n="49"/>Nam cum deus dicitur esse pater: significatur esse de quo aliquis nascitur. 
+      <lb ed="#V" n="50"/>etiam infra scribit. hec itaque sola causa pluralitatis est in deo: vt 
+      <lb ed="#V" n="51"/>pater et filius et spiritus secus non possunt dici de inuicem: sed alii sin 
+      <lb ed="#V" n="52"/>abinuicem: quia praedictis duobus modis est deus de deo: quod totum 
+      <lb ed="#V" n="53"/>potest dici relato. Ex quibus patet primo quod quaedam nomina praedicata de deo 
+      <lb ed="#V" n="54"/>significant: quia est de quo aliquis et quidem qui de aliqua etc. et 
+      <lb ed="#V" n="55"/>sic equivualent in significando complexis. Item patet quod talia 
+      signi<lb ed="#V" n="56" break="no"/>ficata etiam vocantur relitiones. hoc etiam patet per magiscundum vbi 
+      <lb ed="#V" n="57"/>supra. vbi dicit quod nomina relatiua personarum quandoque significant 
+      <lb ed="#V" n="58"/>yvpostasim: quandoque vero relationem: et hoc 2o modo non 
+      verifican<lb ed="#V" n="59" break="no"/>tur de esentia. Unde ait: ideoque dicimus quod patris nomen non 
+      <lb ed="#V" n="60"/>relationem tantum modo notat: sed etiam ypostasim et subsistentiam 
+      <lb ed="#V" n="61"/>significat: ita et filius et spiritus scuns: relationem vero vocabula scilicet 
+      <lb ed="#V" n="62"/>paternitas filiatuio et processio: vel gignere gigni et procedere 
+      <lb ed="#V" n="63"/>ipsas tantum relationes non ypostases significant: siue habere filium et 
+      <lb ed="#V" n="64"/>habere patrem: ita quod secundum magistrum prnitas non significat 
+      ypo<lb ed="#V" n="65" break="no"/>stasim et multo minus essentiam communem: et per consequens nullam entita 
+      <!--216.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 114-r b -->
+               <lb ed="#V" n="66"/>tem pro qua possit supponere: sed significat habere filium: 
+      <lb ed="#V" n="67"/>quod quidem habere nulla entitas est: quamuis et qui habet et habentur filius 
+      <lb ed="#V" n="68"/>vera res sit.
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e1270">
+      ⁋ Circa hoc tamen sciendum est quod quamuis magister dicat 
+      <lb ed="#V" n="69"/>talia vocabula relictionum non significare ypostases non est 
+      intel<lb ed="#V" n="70" break="no"/>ligendum dictum eius quasi nullibi ypostases significant: cum 
+      fre<lb ed="#V" n="71" break="no"/>quenter hyl. hoc vocabulo natiuitas pro yvpostasi filii 
+      vta<lb ed="#V" n="72" break="no"/>tur: sicut cum 7o de tri. super illo. priter omne iudicium ddit filio: ait. 
+      <lb ed="#V" n="73"/>natiuitas non potest aliquid habere nisi datum sit. Item infra super 
+      <lb ed="#V" n="74"/>illo. non potest filius a se facere quicquam: ait. a se enim non potest 
+      pos<lb ed="#V" n="75" break="no"/>se natiuitas. Item infra. divina natiuitas omne opus suum sub 
+      <lb ed="#V" n="76"/>ministerio assumpti hominis exequitur. et post. natiuitas namque eam 
+      <lb ed="#V" n="77"/>in se habent vnde subsistit. Item libro 9. dispesatio inquit magni et 
+      <lb ed="#V" n="78"/>pii sacterni natiuitatis divine: patrem insuper et conditionis assum 
+      <lb ed="#V" n="79"/>pte deum fecit: dum qui in forma dei erat repartus est in forma 
+      <lb ed="#V" n="80"/>serui: in quibus omnibus locis hoc vocabulum natiuitas pro solo 
+      <lb ed="#V" n="81"/>filio ponitur. Et similiter in eo quod sequitur post vltima allegata. de 
+      <lb ed="#V" n="82"/>quidem pater natiuitas est vnigeniti dei: et est constructio in 
+      <lb ed="#V" n="83"/>transitiua: vt sit sensus: est priter natiuitatis quae est vnigenitus 
+      <lb ed="#V" n="84"/>deus. Intelligendum est ergo dictum magitri: quia tunc frequentius et 
+      <lb ed="#V" n="85"/>apud plures pro illis proprietatibus huiusmodi vocabula sumebantur: 
+      <lb ed="#V" n="86"/>nunc aut satis communiter talibus vocabulis vtuntur doctores 
+      <lb ed="#V" n="87"/>aliquando pro ypostasibus ipsis seu personis: aliquando pro earum proprieta 
+      <lb ed="#V" n="88"/>tibus 3o modo acceptis. Unde est ego primo modo vsus sum in superiori 
+      <lb ed="#V" n="89"/>bus cum dixi quod pater est paternitas: filius est filiatio et generatio: 
+      ac<lb ed="#V" n="90" break="no"/>etiam spiratio: et ideo diligenter oportet in pluribus locis attendere 
+      qua<lb ed="#V" n="91" break="no"/>liter dicta nomina accipiantur: quod autem persone non distinguuntur huiusmod 
+      <lb ed="#V" n="92"/>proprietatibus sic acceptis tamquam rationibus et principiis distincti 
+      <lb ed="#V" n="93"/>uis: vt supra dicebatur in conclusione 4a: patet: quia ipse secundum se non sunt 
+      <lb ed="#V" n="94"/>alique entitates. Item: quia si eis taliter distinguerentur perso 
+      <lb ed="#V" n="95"/>ne oporteret quod ipse essent persone vel aliqua entitates personis 
+      <lb ed="#V" n="96"/>intrinsece: quorum neutrum est verum: et ideo quando inuenitur a sanctis quod 
+      <lb ed="#V" n="97"/>proprietates sunt essentie vel persone: intelligende sunt 
+      proprieta<lb ed="#V" n="98" break="no"/>tes primo et quando inuenitur dictum ab eisdem quod vna persona est alia 
+      <lb ed="#V" n="99"/>ab alia per hoc quod vna est ab alia: vel simile: per quod proprie 
+      <lb ed="#V" n="100"/>tates 3o modo dicte significantur: intelligendum est dictum 
+      <lb ed="#V" n="101"/>illud de distinctione secundo modo sumpta.
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e1344">
+               <lb ed="#V" n="102"/>Ad argumentum quaestionis respondeo quod decretalis accipit proprietates 
+      <lb ed="#V" n="103"/>primo scil st pro personis et est sensus: quod hec sctam trinitas est vna ero 
+      <lb ed="#V" n="104"/>essentia et distincte persone: vel et in idem redit est indiuidua secundum 
+      <lb ed="#V" n="105"/>essentiam et secundum personas vel personis distincta. Conformiter di 
+      <lb ed="#V" n="106"/>cto Augu. supra in conclusione 2a adducto: posset etiam intelligi 
+      <lb ed="#V" n="107"/>de proprietatibus 3o modo dictis: et tunc esset sensus quod trinitas. id est 
+      <lb ed="#V" n="108"/>tres persone sunt distincte per proprietates: quia scilicet impossibile est 
+      <lb ed="#V" n="109"/>illas proprietates eidem conuenire persone: vt supra dicit Aug. 
+    </p>
+            <p xml:id="grvnZZ-ed1e7X-d1e1364">
+               <lb ed="#V" n="110"/>⁋ Ad illud vero quod vlterius additur in argumento scilicet quod 
+      vnu<lb ed="#V" n="111" break="no"/>quodque eo constituitur quo distinguitur ab aliis. dicendum hoc non esse 
+      <lb ed="#V" n="112"/>vniversaliter verum: quoniam non in his quae nullo constituuntur quale est omne sim 
+      <lb ed="#V" n="113"/>plex: in his autem quae ex aliquibus constituuntur habet veritatem: quoniam 
+      <lb ed="#V" n="114"/>sua constitutiua sunt etiam per que illud ab aliis est distinctum.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

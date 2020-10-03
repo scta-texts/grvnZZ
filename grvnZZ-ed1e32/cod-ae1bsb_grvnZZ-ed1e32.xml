@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#Rimini">Gregory of Rimini</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2020-10-03">October 03, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-ae1bsb">Venice 1503</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-03" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="51-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="grvnZZ-ed1e32"><!-- l1d5q1 -->
+            <head xml:id="grvnZZ-ed1e32-Hd1e106">Quaestio 1</head>
+            <head xml:id="grvnZZ-ed1e32-Hd1e109" type="question-title">Utrum divina essentia generet vel generetur</head>
+            <p xml:id="grvnZZ-ed1e32-d1e112">
+               <lb ed="#V" n="48"/>⁋ Distinctionis. V. Questio. I 
+      <lb ed="#V" n="49"/>SUper primam partem distinctionis. 5. 
+      <lb ed="#V" n="50"/>Quero vtrum 
+      essen<lb ed="#V" n="51" break="no"/>tia divina generet: vel generetur.
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e123">
+      Et arguo quod 
+      <lb ed="#V" n="52"/>generet sillogistice sic. omnis prater genuit. essentia 
+      di<lb ed="#V" n="53" break="no"/>unina est paiter. ergo genuit. Eodem modo modo potest argui quod 
+      <lb ed="#V" n="54"/>sit genita sic: omnis filius est genitus: essentia divina 
+      <lb ed="#V" n="55"/>est filius. igitur essentia divina est genita: sed omnes 
+      praimis<lb ed="#V" n="56" break="no"/>se sunt vere: et vtriusque simili forma est perfecta. igitur vtraque conclusio vera. 
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e136">
+               <lb ed="#V" n="57"/>⁋ 2o idem arguo: per similibet expositorium sic: hic pater generat: hic 
+      <lb ed="#V" n="58"/>pater est essentia divina: ergo essentia divina generat.
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e144">
+      ⁋ Item hic filius generatur: 
+      <lb ed="#V" n="59"/>hic filius est essentia diuina: igitur essentia diuisa generatur.
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e149">
+      ⁋ 3o quandocumque 
+      <lb ed="#V" n="60"/>aliqua sunt eadem nuoa et vna res omnino indisticta ex na rei: quicquid 
+      <lb ed="#V" n="61"/>vni competit et alteri: sed essentia et persone sunt huiusmodi: et persone patris compe 
+      <lb ed="#V" n="62"/>tit generare: et persone filii generari. igitur et essentie vtrumque competit. 
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e158">
+               <lb ed="#V" n="63"/>⁋ 4o essentia divina est pater generans. igitur essentia est graesenians. igitur essentia 
+      ge<lb ed="#V" n="64" break="no"/>nerat. Antecedens est notum: ipsa enim essentia vt. dicens concilium: est piter qui generat:  
+      <lb ed="#V" n="65"/>ac per hoc paiter generans: consequentia prima patet: quia secundum. P. 2o perar. ex his quae con¬ 
+      <!--97.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 51-v b -->
+               <lb ed="#V" n="66"/>iunctim de aliqua praedicantur: licem inferre de illo subiecto diuisim quamli 
+      <lb ed="#V" n="67"/>bet partem illius praedicati coniuncti: quando nulla illarum dictionum est 
+      <lb ed="#V" n="68"/>distrahens aut diminuens reliquam. sequitur enim sortes est homo ali 
+      <lb ed="#V" n="69"/>bus. igitur est albus. Et similiter. igitur est homo: licet non sequatur. sortes est 
+      <lb ed="#V" n="70"/>homo mortuus. igitur est homo. quia mortuus tollit rationem hominis. neutra 
+      <lb ed="#V" n="71"/>vero pars huius praedicati. prater generans: distrahit aut divinuit aliam vt 
+      <lb ed="#V" n="72"/>patet.
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e189">
+      ⁋ 2o probatur eadem consequentia quia sequitur. essentia est paiter generans: igitur est 
+      <lb ed="#V" n="73"/>hoc generans: demonstratro patre. Et vltra per locum ab 
+      infe<lb ed="#V" n="74" break="no"/>riori ad superius affirmatiue a parte praedicati: igitur essentia est gene 
+      <lb ed="#V" n="75"/>rans. Alia consequentia est est nota. quia de quocumque praedicatur participium 
+      <lb ed="#V" n="76"/>vbi: et verbum et econuerso: nec habet instantiam.
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e200">
+      ⁋ 5o sic. essentia est  
+      <lb ed="#V" n="77"/>pater filii. igitur essentia generat filium. consequentia patet: quia eo pater quia 
+      ge<lb ed="#V" n="78" break="no"/>nuit. 5o metaphysi. Item quia sicut dicit Aug. 5. de tri. ideo quippe filius quia gen 
+      <lb ed="#V" n="79"/>nitus: et quia filius vtique genitus: sicut aut filius ad patrem: ita genit 
+      <lb ed="#V" n="80"/>ad genitorem refertur. et sicut pater ad filium: sic genitor ad 
+      ge<lb ed="#V" n="81" break="no"/>nitum. Si igitur essentia est pater filii: filius est filius essentiem: 
+      <lb ed="#V" n="82"/>et per consequens genitus ab essentia: ac vltra. essentia genitrix est filii. Et 
+      <lb ed="#V" n="83"/>vltra. igitur generat filium. Antecedens vero probatur per conuersionem. hec 
+      <lb ed="#V" n="84"/>enim st vera. pater filum est essentia. igitur et illa in quam conuertitur scilicet ista essen 
+      <lb ed="#V" n="85"/>est pater filii.
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e222">
+      ⁋ 6o sic generans est essentia divina. igitur essentia divina 
+      <lb ed="#V" n="86"/>est generans. Antecedens est certum: consequentia declaratur per conuersionem 
+      indefi<lb ed="#V" n="87" break="no"/>nite: et potest etiam probari. quia si illa non sequatu sumatur opposita scilice 
+      <lb ed="#V" n="88"/>hec. nulla essentia divina est generans: sed hec conuertitur simpliciter 
+      <lb ed="#V" n="89"/>in istam. nullum generans est essentia diuina: quod repugnat antecedenti. 
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e234">
+               <lb ed="#V" n="90"/>⁋ 7o constat enim quod aliqua res generat filium. signetur igitur illa: et que 
+      <lb ed="#V" n="91"/>rantur. aut hec res est essentia aut non: non potest dici quod non: quia cum pitir 
+      <lb ed="#V" n="92"/>sit illa res qua generat filium: paiter non esset essentia: quod est falsum: vt 
+      <lb ed="#V" n="93"/>patet per concilium: damnamus. vbi dicitur quod quaelibet trium personarum est illa 
+      <lb ed="#V" n="94"/>res: videlibet subiecta essentia: seu diuina natuam relinquitur igitur quod illa 
+      <lb ed="#V" n="95"/>res: sit ipsa essentia. et per consequens essentia generat filium.
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e250">
+      ⁋ 8o patet 
+      <lb ed="#V" n="96"/>hoc ex intentione sanctorum. ait enim Aug. 15. de tri. verbum dei  
+      <lb ed="#V" n="97"/>patris vnigenitus filius per omnia patri similis et equalis: deus de 
+      <lb ed="#V" n="98"/>deo lumen de luminie: sapientia de sapientia: essentia de esentia est: 
+      <lb ed="#V" n="99"/>hoc omnino quod pater non tamen paiter hic. dicens Aug. essentiam de essentia. 
+      <lb ed="#V" n="100"/>et idem. 7. de tri. et constat quod essentia non est de esentia nisi per genera 
+      <lb ed="#V" n="101"/>tionem: essentia igitur genita est de esentia. Expressius aut idem de fidem ad  
+      <lb ed="#V" n="102"/>petie. Sic inquit. christum dei filium id est vnam ex trinitate personam deum 
+      <lb ed="#V" n="103"/>vnum crede. vt diuinitatem eius de natura patris natam esse non 
+      <lb ed="#V" n="104"/>dubites. hic expresse. dictens divinitatem natam: et per consequens genitam. Et 
+      <lb ed="#V" n="105"/>Ani. modo. 44. dicente quod filius est essentia nata de patris essentia: et ge 
+      <lb ed="#V" n="106"/>neraliter omnes sancti idem dicunt. Unde Ricar. 6. de tri. ait. nihil 
+      <lb ed="#V" n="107"/>est aliud patris persona quam: subiecta ingenita: et nihil aliud filium 
+      per<lb ed="#V" n="108" break="no"/>sona quam subiecta genita. Et quia mas sententiarum negat dei subiectam esse 
+      <lb ed="#V" n="109"/>genitam: ideo contra eum arguit et suos sequentes (Nam subdit) mul 
+      <lb ed="#V" n="110"/>ti temporibus nostris surrexerunt: qui non audent hoc dicerem quin 
+      <lb ed="#V" n="111"/>fortius et multo periculosius contra sanctorum patrum auctoritas et 
+      <lb ed="#V" n="112"/>tot attestationes paternarum traditionum audent negare. ad  
+      <lb ed="#V" n="113"/>illud quod dicunt auctoritas inuenire non possunt. Ad hoc aut quod 
+      <lb ed="#V" n="114"/>dicimus auctoritas multas et ipsi adducunt: et in morem golie 
+      gla<lb ed="#V" n="115" break="no"/>dium quo iugulantur deferentes ad certamen procedunt. Est igi 
+      <lb ed="#V" n="116"/>tur vt videtur omnino concludendum quod dei essentia generatur et generat. 
+      <lb ed="#V" n="117"/>In oppositum est magister in distinctione praesenti qui 
+      <lb ed="#V" n="118"/>vtramque. dicens esse negandam. 
+      <lb ed="#V" n="119"/>Respondeo. hic non quaeitur: vtrum essestia graeneret sicut principi 
+      <lb ed="#V" n="120"/>quo id est vtrum sit principium seu vis generandi 
+      <lb ed="#V" n="121"/>qui de hoc videbitur. in dis. septima. Nec vtrum generetur 
+      tan<lb ed="#V" n="122" break="no"/>quam formalis generationis terminus. quia de hoc in sequenti. q. 
+      <lb ed="#V" n="123"/>erit sermo. Sed queritur. vtrum generet sicut principium quod:
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e313">
+      ⁋ Re 
+      <lb ed="#V" n="124"/>spondeo quamuis de ista quaestione fuerit controuersia inter docto 
+      <lb ed="#V" n="125"/>res: sicut ex praeallegatis verbis nunc apparet. Nunc tamen 
+      concordi<lb ed="#V" n="126" break="no"/>ter ab omnibus tenetur sententia magistri: quam etia sub duabus 
+      <lb ed="#V" n="127"/>conclusionibus pono.
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e324">
+      ⁋ Prima est quod essentia non generat.
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e327">
+      ⁋ 2a est quod 
+      <lb ed="#V" n="128"/>essentia non generatur.
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e332">
+      ⁋ Primam probo sic. si diuina essentia 
+      <lb ed="#V" n="129"/>generat. aut generat essentiam diuinam: aut patrem: aut filium: 
+      <lb ed="#V" n="130"/>aut spiritum sanctum: sed nullum istorum generat. igitur non generat. ma 
+      <!--98.xml-->
+      <pb ed="#V" n="52-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>ior patet. non enim aliud apparet quod ipsa posset dici generare. et si 
+      di<lb ed="#V" n="2" break="no"/>catur quod non: eadem ratione tollit: minor probatur: quia nihil generat 
+      <lb ed="#V" n="3"/>id quod ipsum est per Aug. primo de tri. et de immor. anime. essentia 
+      <lb ed="#V" n="4"/>aut est essentia: aut est pater et filius et spiritus sctus.
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e355">
+      ⁋ 2a eadem 
+      <lb ed="#V" n="5"/>virtute probatur. Nam si est genita aut ab essentia: aut a patre vel a 
+      <lb ed="#V" n="6"/>filio vel a sputum secundo: nullum horum potest dici propter causam iam 
+      di<lb ed="#V" n="7" break="no"/>ctam.
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e364">
+      ⁋ Utraque conclusio probatur simul per determinationem concilii ex 
+      <lb ed="#V" n="8"/>de summa tri. et fide catholica. c. damnamus. vbi papa. Nos 
+      <lb ed="#V" n="9"/>inquit sacro approbante concilio credimus et approbamus 
+      <lb ed="#V" n="10"/>confitemurque cum petro quod vna quedam res etc. Et sequitur quod 
+      <lb ed="#V" n="11"/>illa res non est generans: nec genita neque procedens: sed est pater 
+      <lb ed="#V" n="12"/>fi. et us scilicet pater qui generat. filius qui gignitur: et s scilicet qui procedit 
+      <lb ed="#V" n="13"/>vbi sicut patet: de plano tota de hoc sententia magri 
+      appro<lb ed="#V" n="14" break="no"/>hatur. Ad hoc est intentio expressa Aug. 7. de tri. sicut magister dducit. 
+      <lb ed="#V" n="15"/>Ad rationeg in oppositum. Ad primam dicicit quidam quod in ea con 
+      <lb ed="#V" n="16"/>mittitur duplex falla scilicet figure dictio 
+      <lb ed="#V" n="17"/>nis: pro eo quod in maiore et in minore non est idem modus praedicatio 
+      <lb ed="#V" n="18"/>nis. Nam in maiore cum dicitur omnis prater generat: est praedicatio 
+      forma<lb ed="#V" n="19" break="no"/>lis: cum omne verbum praedicetur formaliter et non per identitatem. in 
+      mi<lb ed="#V" n="20" break="no"/>nore vero qua dicitur essentia est paiter: est praedicatio tantum per identitatem: et sic 
+      <lb ed="#V" n="21"/>non sequitur. Est etiam fatia accidentis: quia patri inquantum de 
+      esen<lb ed="#V" n="22" break="no"/>tia praedicatur secundum ydentitatem accidit quod generat: et ideo ipsum non 
+      <lb ed="#V" n="23"/>est medium sufficiens ad concludendum graesenare de essentia. 
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e401">
+               <lb ed="#V" n="24"/>⁋ Sed neutra responsio valet quicquam: quoini alius et alius 
+      mo<lb ed="#V" n="25" break="no"/>dus praedicandi in maiore et in minore nisi aliud interueniat 
+      <lb ed="#V" n="26"/>non committit faium figure dictionis. Patet: nam alias hic esset 
+      <lb ed="#V" n="27"/>faitia figure dictionis. omne animal est sensibile: omnis homo est animal: igitur 
+      <lb ed="#V" n="28"/>omnis homo est sensibilis: quia in maiore est praedicatio secundi modi di 
+      <lb ed="#V" n="29"/>cendi per se: et in minore praedicatuo primi: et generaliter quandocumque propria 
+      <lb ed="#V" n="30"/>pactio superioris praedicatur de per se inferiori per ipsum superius tam 
+      <lb ed="#V" n="31"/>quam per medium esset fatia figure dictionis.
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e421">
+      ⁋ Item quandocumque 
+      ali<lb ed="#V" n="32" break="no"/>patio probaretur de aliquo per diffinitionem subiecti esset fatia figure 
+      <lb ed="#V" n="33"/>dictenis: quia alius modus praedicandi est quo patio praedicatur de 
+      <lb ed="#V" n="34"/>diffinitione subiecti ab eo quo diffinitio subiecti praedicatur de 
+      <lb ed="#V" n="35"/>subiecto: et sic in multis demonstrationibus esset fallacia: quod non 
+      <lb ed="#V" n="36"/>est dicendum. Similiter hic esset fallatis. omne animal est album: omnis homo 
+      <lb ed="#V" n="37"/>est animal: igitur omnis homo est albus: cum praedicatuo maioris sit per accidens. 
+      <lb ed="#V" n="38"/>et praedicatuso minoris per se: et sic prima responsio nulla.
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e439">
+      ⁋ 2a quoque est 
+      insu<lb ed="#V" n="39" break="no"/>ficiens: quoniam sic in multis bonis sillogismis esset fatia acciden 
+      <lb ed="#V" n="40"/>tis. verbi gratia. in vltimo nunc assignato. Nam animali inquantum 
+      <lb ed="#V" n="41"/>praedicatur de homine accidit quod sit album multo magis quam sit pa 
+      <lb ed="#V" n="42"/>trin accidens generare: inquantum de essentia praedicatur.
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e450">
+      ⁋ Praeterea secund 
+      <lb ed="#V" n="43"/>istum doc. ibidem accipitur accidens non pro eo quod realiter adest 
+      <lb ed="#V" n="44"/>et abest: nec pro eo quod accidentaliter praedicatur: sed generaliter pro 
+      <lb ed="#V" n="45"/>omni exneo a ratione subiecti: et sic generare est accidens patri: et sic se 
+      <lb ed="#V" n="46"/>quitur quod in multis demonstrationibus esset talis fallatia: sicut patet in 
+      <lb ed="#V" n="47"/>priori solutione. Et ideo dico quod in praedicto sillogismo si pater eam 
+      <lb ed="#V" n="48"/>dem habeat suppositionem in vtraque praemissa: et vtrobique teneat 
+      sub<lb ed="#V" n="49" break="no"/>stantiue nulla penitus est fallatis.
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e469">
+      ⁋ Quod et quidam alius concedit. dce 
+      <lb ed="#V" n="50"/>talem modum arguendi in omnibus tenere praeter quam in diuinis 
+      <lb ed="#V" n="51"/>et causa est: quia numquam alibi possunt tres res: quarum nulla est alia: esst 
+      <lb ed="#V" n="52"/>vnam rem nuoa: et ita ibi solum potest aliquid vere affirmari de vna in 
+      <lb ed="#V" n="53"/>larum trium rerum: et tamen negari ab illa re quaest ille tres res propter 
+      <lb ed="#V" n="54"/>identitatem illius rei cum illis tribus rebus et propter distin 
+      <lb ed="#V" n="55"/>ctionem illarum trium rerum inter se: et sic secundum hunc dicendum est in divinis 
+      <lb ed="#V" n="56"/>talem formam arguendi non tenere. Et ideo quamuis praemisse vere sint:  
+      <lb ed="#V" n="57"/>tamen est falsa.
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e489">
+      ⁋ Sed hec responsio est omnino irrationalis. Tum quod 
+      <lb ed="#V" n="58"/>sic dicendo tollitur omnis via ad probandum vel reprodandum aliquid 
+      <lb ed="#V" n="59"/>circa diuina: cum enim catholici volent aliquid probare co 
+      <lb ed="#V" n="60"/>tra hereticos pro libito dicetur discursum et omnem illationen 
+      <lb ed="#V" n="61"/>non valere: esto quod perfecte sint regulati: et sic nihil ex 
+      credi<lb ed="#V" n="62" break="no"/>tis aut in scriptura contentis poterimus contra ipsos arguere 
+      <lb ed="#V" n="63"/>Tum quia sic dicere nihil aliud est quam fidem nostram 
+      cath<lb ed="#V" n="64" break="no"/>licamque doctrinam contrariam esse certe rationi de plano confiteri: sic 
+      <lb ed="#V" n="65"/>que falsam: ac per hoc contenendam propria confessione assere. 
+      <!--98.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 52-r b -->
+               <lb ed="#V" n="66"/>re. Et ideo talibus obuians Aug. in epistola ad marcellius di 
+      <lb ed="#V" n="67"/>cit. Si manifestissime certeque rationi velut scripturarum scaunrum 
+      <lb ed="#V" n="68"/>obiicitur auctoritas non intelligit qui hoc facit et non scriptura 
+      <lb ed="#V" n="69"/>rum illarum sensum ad quem penetrare non potuit: sed suum 
+      po<lb ed="#V" n="70" break="no"/>tius obiicit veritati: nec quod in eis: sed quod in seipo velut pro eis in 
+      <lb ed="#V" n="71"/>uenit opponit. vt quid est fuisset. tantum studium oportunum sanctorum 
+      <lb ed="#V" n="72"/>et doctorum ad soluendas rationes impugnantium catholicam verita 
+      <lb ed="#V" n="73"/>tem: facile quippe fuit dicere quod rationes contrarie: et si in aliis 
+      <lb ed="#V" n="74"/>valerent: non tamen in his valebant: quod friuolum omnino est. 
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e535">
+               <lb ed="#V" n="75"/>⁋ Respondeo igitur ad rationem quod vel eius maior est falsa: vel 
+      <lb ed="#V" n="76"/>sillogismus est non regulatus per dici de omni: et per consequens non 
+      <lb ed="#V" n="77"/>efficax discursus: cum sit affirmatiuus. vnde sciendum quod vt simul 
+      <lb ed="#V" n="78"/>logismus sit regulatus per dici de omni: non sufficit maiorem 
+      <lb ed="#V" n="79"/>propositionem esse vniversalem in prima figura: nisi per eam denoteturquod de 
+      <lb ed="#V" n="80"/>quocumque verificatur subiectum: de eodem verificatur praedicatu. Nam 
+      <lb ed="#V" n="81"/>sicut dicit Auerroys primo priorum. brima est inter propositionem vniversalem 
+      <lb ed="#V" n="82"/>et dictum de omni. per propositionem enim vniversalem non denotatur nisi quod 
+      <lb ed="#V" n="83"/>praedicatum vrificetur de quolibet suo subiecto vel singulari: sic 
+      <lb ed="#V" n="84"/>quod quelibet eius singularis est vera. Sed per dictum de 
+      <lb ed="#V" n="85"/>omni vniversaliter hoc denotant: et vltra quod de quocumque verificatur 
+      sub<lb ed="#V" n="86" break="no"/>iectum et praedicatum. Unde dicit sic. Et per dictum quidem de 
+      <lb ed="#V" n="87"/>omni vult cum non inueniatur aliquid in omni subiecto de quo non 
+      <lb ed="#V" n="88"/>praedicatur praedicatum: et illud est per hoc vt sit praedicatu inuentum 
+      <lb ed="#V" n="89"/>in omni subiecto: et omni quod disponitur per subiectum: vt sit 
+      <lb ed="#V" n="90"/>dictum vnum: omne quod est animal est corpus: cum volumus in eo in 
+      <lb ed="#V" n="91"/>tentionem dicti de omni: non est eius intentio: vnumquodque ex anima 
+      <lb ed="#V" n="92"/>libus est corpus: sed vnumquodque animalium: et omne quod disponitur per 
+      <lb ed="#V" n="93"/>vnum quod vis animalium est corpus. Et hec est diferenti inter dictum de 
+      <lb ed="#V" n="94"/>omni quod agitur principium in hoc libro et inter propositionem vniversalem: hec Commen. 
+      <lb ed="#V" n="95"/>Ex hoc ad formam rationis: cum enim dicitur omnis pater genuit: aut 
+      de<lb ed="#V" n="96" break="no"/>notatur per hanc non solum: quod quilibet pater genuit. sic quod hec sit vera 
+      <lb ed="#V" n="97"/>hic pater genuit: et similiter illa. hic pater genuit: et sic de sin 
+      <lb ed="#V" n="98"/>gulis eius singularibus: sed est omne de quo dicitur pater: 
+      ve<lb ed="#V" n="99" break="no"/>omne quod est pater genuit: et per dici de omni: tunc sillogismus debi 
+      <lb ed="#V" n="100"/>te regularetur: et maior eius est falsa. est enim hec falsa omne 
+      <lb ed="#V" n="101"/>quod est pater genuit. Si pater teneatur substantiue et 
+      suppo<lb ed="#V" n="102" break="no"/>nat pro ypostasi quo solo modo minor est vera: aut non denotatur quod one 
+      <lb ed="#V" n="103"/>de quo verificatur pater genuit: sed solum quod illa vniversalis est vera et tunc maior  
+      <lb ed="#V" n="104"/>vera: sed sillogismus non regulatur per dici de omni: et per consequens inuti 
+      <lb ed="#V" n="105"/>lis est discursus.
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e605">
+      ⁋ Eodem modo responsio ad istos sillogismos: omne quod 
+      <lb ed="#V" n="106"/>est illud quod est pater generat: essentia divina est illud quod est pater: 
+      <lb ed="#V" n="107"/>igitur essentia divina gieserat. Item omne quod est illud quod graerat: gnieserat: essen 
+      <lb ed="#V" n="108"/>tia divina est illud quod ginderat. Nam ipsa est pater qui gnieserat: vt dicit 
+      <lb ed="#V" n="109"/>concilium: ergo essentia divina generat. Dico namque: aut quod per 
+      <lb ed="#V" n="110"/>maiores istorum sillogismorum denotatur quod de quocumque 
+      dici<lb ed="#V" n="111" break="no"/>tur subiectum: dicitur praedicatum: et tunc sunt false. Nam hec est fal 
+      <lb ed="#V" n="112"/>sa: omne quod est illud quod est pater gnaestentat: et hec similiter. omne quod est 
+      <lb ed="#V" n="113"/>illud quod graerat: grieserat. Nam essentia divina est illud quod est pater: et 
+      <lb ed="#V" n="114"/>est illud quod grinderat: et tamen essentia divina non generat. Aut per 
+      <lb ed="#V" n="115"/>huiusmodi maiores denotatur non quod de quocumque dicitur subiectum 
+      <lb ed="#V" n="116"/>dicitur praedicatum. Et tunc sillogismi illi non regulantur per 
+      <lb ed="#V" n="117"/>dici de omni.
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e634">
+      ⁋ Ad 2am rationem dico primo quod eisdem modis a 
+      diuer<lb ed="#V" n="118" break="no"/>sis responio quibus ad primam: quae responsiones est similiter refelluntur si 
+      <lb ed="#V" n="119"/>cut et ille. Et ideo potest vno modo dici quod ad perfectionem 
+      sil<lb ed="#V" n="120" break="no"/>logismi expositoriis requiritur quod quilibet terminus sic sit singu 
+      <lb ed="#V" n="121"/>laris quod non praedicetur de pluribus. quantumcumque autem sit 
+      singula<lb ed="#V" n="122" break="no"/>ris: si tamen praedicetur de plutribus forma non est bona: nec tunc 
+      procedi<lb ed="#V" n="123" break="no"/>tur per expositionem: quo procedit. P. primo priorum: vbi probat conuersio 
+      <lb ed="#V" n="124"/>nes propositionum de inesse: et est sillogismos 3a figure. Nunc autem 
+      <lb ed="#V" n="125"/>quamuis hic terminus essentia sit singularis: quia non habet plura 
+      erg<lb ed="#V" n="126" break="no"/>pria supposita logice loquendo id est per se singutia: primo tamen de plu 
+      <lb ed="#V" n="127"/>ribus. verbi gratia. de personis. ideo iste terminus essentia. non potest in per 
+      <lb ed="#V" n="128"/>fecto sillogismo expositorio assumi: et maxime cum aliis 
+      ter<lb ed="#V" n="129" break="no"/>minis non communibus his de quibus essentia dicitur: sicut sunt ter 
+      <lb ed="#V" n="130"/>mini personales et notionales. Si tamen eius communitas restringe¬ 
+      <!--99.xml-->
+      <pb ed="#V" n="52-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>retur ad aliquod non praedicabile de plibus: valeret sillogismus. 
+      <lb ed="#V" n="2"/>vbi gratia sic dicendo. hic patrgenerat. hic patr est quod est eentia. 
+      <lb ed="#V" n="3"/>demonstrando aliquid non cmmne: vtpote vpostasim patris: tunc 
+      <lb ed="#V" n="4"/>vtique sequitur: ergo hoc quod est essentia generat: eodem demonstrato in 
+      <lb ed="#V" n="5"/>minore et contrane: et est contravsa.
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e682">
+      ⁋ Aliter potest dici. s quod sillogismus 
+      <lb ed="#V" n="6"/>expositorius non est euidens ex se neque perfectus: sed orte per 
+      <lb ed="#V" n="7"/>fici per dici de omi: aut de nullo sicut et alii fillogismi iperfe 
+      <lb ed="#V" n="8"/>cti. vbi gratia. sit ille expositorius. sortes est albus. sortes est mu 
+      <lb ed="#V" n="9"/>sicus. igitur musicus est albus. vel in piues figura sumendo sub. mu 
+      <lb ed="#V" n="10"/>sicus esortes. hoc sic debet parfici: oe quod est sortes est album: mus 
+      <lb ed="#V" n="11"/>cus est sortes: igitur etc. Illeant qui sic perfici non potest: est 
+      inutil<lb ed="#V" n="12" break="no"/>Et haiei videtur de intentione. b. ppriorum in illo cap: quo aute 
+      <lb ed="#V" n="13"/>reducemus: vbi inter alias causas deceptionis quibus putatur alio 
+      <lb ed="#V" n="14"/>ars esse fillogismus et non est: assignat vnam: videlem paitionem silem 
+      <lb ed="#V" n="15"/>terminorum. Et dat extrema de sillogismo cuius me est singu/ 
+      <lb ed="#V" n="16"/>lare a hoc aliquid. vnum exnem aristomenes intelligibilis semper est 
+      <lb ed="#V" n="17"/>aristo. est aristo. intelligibilis: igitur aristo. semper est. Aliud 
+      <lb ed="#V" n="18"/>exemplum. michalus musicus corrumpetur cras: michalus est 
+      <lb ed="#V" n="19"/>michalus musicus: igitur michalus corrumpetur eras. Et dic. 
+      pi<lb ed="#V" n="20" break="no"/>hos non esse sillogismos: quia maior non est velis: sed oporteret su 
+      <lb ed="#V" n="21"/>mere. ome quod est aristomenes etc. quae falsa est. et in alio: ome quod est 
+      <lb ed="#V" n="22"/>michalus etc. quae falsa est nec tamen de exemplis curandum est: sed 
+      con<lb ed="#V" n="23" break="no"/>sideranda eius intentio: que est: quod omnis sillogismus bonue 
+      <lb ed="#V" n="24"/>reduciturad perfectos sillogismos prime: et regulatur per illa prinus:  
+      <lb ed="#V" n="25"/>eper consequens ille sillogismus quae sic regulari non pot inutilis est: tales 
+      <lb ed="#V" n="26"/>aut sunt sillogismi dei. sam hec est falsa. oe quod est hic 
+      pa<lb ed="#V" n="27" break="no"/>ter etc. et hec solum mihi pius placet.
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e733">
+      ⁋ Ad Aus dico quod ma 
+      <lb ed="#V" n="28"/>ior est va in his quae sic sunt vna res quod vnum eorum non est aliqua 
+      <lb ed="#V" n="29"/>plura quae aliud non sit. Si vo aliquod eorum sit aliquae plura: reli: 
+      <lb ed="#V" n="30"/>quum autem non sit illa plura: non est inconueniens aliquid 
+      <lb ed="#V" n="31"/>proprium vni illorum plurium competere vni illorum et non alteri: et 
+      <lb ed="#V" n="32"/>quantum ad talia propositio non est va. quaeuis autem persona patris et 
+      <lb ed="#V" n="33"/>eentia sint vna res indistincta: eentia tamen est plures prarne e 
+      <lb ed="#V" n="34"/>psona non est ille psone plures: quampropter non est 
+      inconueni<lb ed="#V" n="35" break="no"/>ens aliquid proprium vni parsone: puta gnanre competere patri et 
+      <lb ed="#V" n="36"/>non essentie: sicut et plures psonas competere essentie: et non 
+      <lb ed="#V" n="37"/>persone patris.
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e757">
+      ⁋ Ad An reampon negando antecedens quia quando aliquod dter 
+      <lb ed="#V" n="38"/>minabile sumptum cum aliquae determiatione praedius de aliqua: re 
+      <lb ed="#V" n="39"/>quiritur quod dterminaus ve praedicetur de determinabili: et quod tam 
+      <lb ed="#V" n="40"/>determina: quam determinabile praedicetur de principali subto. 
+      <lb ed="#V" n="41"/>Sicut ad vitatem istius. sortes est homo albus: requritur veritas 
+      <lb ed="#V" n="42"/>istarum trium. sortes est homo: sortes est albus: homo est albus. Et quia hec 
+      <lb ed="#V" n="43"/>est falsa. eentia est generans: si luy generans. sumatur participialiter et 
+      <lb ed="#V" n="44"/>pure adiectiue: ion hec est falsa. eentia estpargnans.
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e775">
+      ⁋ Ista 
+      <lb ed="#V" n="45"/>solutis deficit. pr quodem: quia negat illud antecedens: cum tamen ipsum in simili a 
+      <lb ed="#V" n="46"/>firmet concilium in pallegato. c. damnamus: loquens de illa re 
+      <lb ed="#V" n="47"/>coni quae espiter et fi et sissi essentia dina di. Et sic eadem res estpi 
+      <lb ed="#V" n="48"/>et fi. et ssab vtroque procedens. eadem ratione dmecitet est quod ipsa eer 
+      <lb ed="#V" n="49"/>tia est filius a patre procedens vel nascens seu natus. et quod ipsa est pate 
+      <lb ed="#V" n="50"/>gnanns filium. et nec dun quod in praedicto concilio seu dicto concilu 
+      <lb ed="#V" n="51"/>lypocedens. statpure adiectiue et participialiter. et dficit in rati 
+      <lb ed="#V" n="52"/>ne quam reddit. siam de sorte nigro vtique conceditur quod ipse est 
+      <lb ed="#V" n="53"/>monacus albus: hec tamen est falsa. sortes est albus.
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e797">
+      ⁋ Responded 
+      <lb ed="#V" n="54"/>igiter negando consequentia primam. Ad probationem per deim. p. dico quod. 
+      hi<lb ed="#V" n="55" break="no"/>ad efficaciam illius consequene non solum ponit illam conditione qua in 
+      <lb ed="#V" n="56"/>ar: dicta est: sed et quandam aliam addit. ssi secundum sepraediceturea  
+      <lb ed="#V" n="57"/>non secundum acecens i. simpliciter et non cum aliquae addito vel dtermiatio 
+      <lb ed="#V" n="58"/>ne quodsbet istorum praedicetur di subto illo. Nunc autem non sic est in pro 
+      <lb ed="#V" n="59"/>posito: quia hic generans non praedicatur patet se de essentia si partici 
+      <lb ed="#V" n="60"/>pialiter et adiectiue tantum sumatur: sicut oportet si et consequentia debeat va 
+      <lb ed="#V" n="61"/>lere.
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e817">
+      ⁋ Ad Am probationem concedo prius consequentia et nego Am. Et 
+      <lb ed="#V" n="62"/>ad probationem dico quod illa reus tunc haent tantum vlr vitatem quando il 
+      <lb ed="#V" n="63"/>lud supius vlr praedicatur de illo inferiori et de omni de quae illud in 
+      <lb ed="#V" n="64"/>ferius praedicatur. ita quod non solum praedicatur de illo inferiori distribu 
+      <lb ed="#V" n="65"/>to promnibus suis per suppositis: sed et pro omnibus de quibus ipsum dieitr sic 
+      <!--99.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 52-v b -->
+               <lb ed="#V" n="66"/>quod talis propoto vlis possit esse maior in sillogismo perfecte regu. 
+      <lb ed="#V" n="67"/>lato per dici ooi. Et haepoatuem: quia tal regla tet per meus intrinsecum et pro 
+      <lb ed="#V" n="68"/>batur per sillogismum: cuius maior est quedam vlis: cuius 
+      <lb ed="#V" n="69"/>subiectum est praedicatum atestetis: et paedicatum est praedicatum 
+      <lb ed="#V" n="70"/>consequentis. vbi gratia h: sortes est albus: ergo sortes est coloratus. probatur sic: 
+      <lb ed="#V" n="71"/>oe album est coloratum: sortes est albus: igister sortes est coloratus: et si 
+      <lb ed="#V" n="72"/>militr estd aliis. Nuncant in proposito ly generamns. non est taliter superius 
+      <lb ed="#V" n="73"/>ad hegnans. Nam hec est falsa. omne quod est haignans est genans: ion 
+      <lb ed="#V" n="74"/>onsequentia illan valem.
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e854">
+      ⁋ Ad ctode cum distr eenus estpoater filii. ddicibet quod lypiatr. 
+      <lb ed="#V" n="75"/>praet et accipi: vt infra inuit magitr dv. vno vt signat vposta 
+      <lb ed="#V" n="76"/>simquae habet filium. Alious vt signat notionem seu propetate. sgnam 
+      <lb ed="#V" n="77"/>re filium. Et prie: vt dicunt aliqui tentur substantiue. tus vo modo 
+      adie<lb ed="#V" n="78" break="no"/>ctiue tantum. Si peraccipiatur concedo propositionem: est n. essentia psona 
+      <lb ed="#V" n="79"/>illa quae vtique habet filium: et hi est essepatrem filim termio sic sumpto: et 
+      <lb ed="#V" n="80"/>tem nego consequentia
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e871">
+      ⁋ Ad probationem cum doestrion patr quia geuit. Et vl 
+      <lb ed="#V" n="81"/>tra cu additur: ion filius quia genitus etc. dieet quod in omnibus illis accipi 
+      <lb ed="#V" n="82"/>tur pater et filius adiectiue. quodlibet n.on quae pater vt est adiectiuum 
+      vifi<lb ed="#V" n="83" break="no"/>cat significatiuegeuit. Et similiter dmebem eston hiae termio filius. on 
+      <lb ed="#V" n="84"/>orm ant quod omne id genueritod quae desterposter prersumptum. cum vo vltra argui 
+      <lb ed="#V" n="85"/>tur. si eentia est poater filum filius es filius esentie. Dico quod hec consequentia n 
+      <lb ed="#V" n="86"/>valem: nisi pater in aestete teneatur adiectiue: quod negatum est. Si n. 
+      <lb ed="#V" n="87"/>teneatur substantiue non valem consequentia quod patet. siam idem est dictu essen 
+      <lb ed="#V" n="88"/>tia est pater filum in b sensu: et dicere esentia eypostasis quae habet filium 
+      <lb ed="#V" n="89"/>igitr filius est filius eentie. son sequitur: sed si aliquod debeat sequi 
+      <lb ed="#V" n="90"/>sequitur hec: ergo filius est filius vpostasis: quae est eentia. sed id nihil est 
+      <lb ed="#V" n="91"/>contra propsition. Si vo luy patr inapente sumatur adiectiue: sic nego illud. 
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e897">
+               <lb ed="#V" n="92"/>⁋ Et cum probatur. dico hanc esse veram pater filum est eentia: igitur per con 
+      <lb ed="#V" n="93"/>uersionem. eentia estpoater filii. dico quod in psus autm luy pater. tenetur n ad  
+      <lb ed="#V" n="94"/>iectiue: sed potius substantiue: et tunc eodems debet teneri in alia in 
+      <lb ed="#V" n="95"/>quae praedicatur: et tunc nihil contra nos: vt prius patuit. Aut tenetur adie 
+      <lb ed="#V" n="96"/>ctiue: etem praet dici vt dicunt aliqui quod oro est incongrua: cum adiecti 
+      <lb ed="#V" n="97"/>uum adiectiue sumptum per se non possit essen subem: nisi intelligatur eius 
+      <lb ed="#V" n="98"/>substansicui adiacet: et tunc hest sic supplenda: si va sit et 
+      intel<lb ed="#V" n="99" break="no"/>ligibilis. is qui est pater filum est esentia: et tuc conuertetur in hanc. 
+      <lb ed="#V" n="100"/>essentia est is qui est patr filii. Ex hac autem non sequitur. essentia 
+      <lb ed="#V" n="101"/>generat: vt satis patet ex dicti.
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e921">
+      ⁋ Ad on nego consequentia Ad prerum proo 
+      <lb ed="#V" n="102"/>bationem dico quod illa indefinita non conuertitur in istam 
+      singula<lb ed="#V" n="103" break="no"/>rem: sed in istam particularem aliquod quod est essentia diuina 
+      estge<lb ed="#V" n="104" break="no"/>nerans nisi sumeretur hec loco prime tamquam equiualens 
+      sibi<lb ed="#V" n="105" break="no"/>alias non esset proprie particularis. vn sciendum quod sicut nulla 
+      <lb ed="#V" n="106"/>alia propositio in qua subucitur terminus conis est particularis 
+      pro<lb ed="#V" n="107" break="no"/>prie loquendo: vel vellis: nisi per signum vele vel particulare subum 
+      <lb ed="#V" n="108"/>denotet stare pro aliquo: si sit singularis numeri: vel aliqu  
+      <lb ed="#V" n="109"/>bus si sit pluralis: vel si sit velis pro omnibus silad que illud est 
+      <lb ed="#V" n="110"/>cone: sic nec aliqua in quae subucitur eentia diuina vel diuinitas 
+      <lb ed="#V" n="111"/>em proprie particularis vel velis: nisi per aliquod signum vle vel 
+      <lb ed="#V" n="112"/>particulare denotetur stare subemt respcum eorum quibus comnis existit. 
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e947">
+               <lb ed="#V" n="113"/>⁋ Cum igitur essentia dina non sit comnis pluribus essentiis 
+      <lb ed="#V" n="114"/>dinis: set sit conis pluribus quae stet essentia dina: nec ista erit parti 
+      <lb ed="#V" n="115"/>cularis aliquae eentia dina est generans: immo nec propria qut intel 
+      <lb ed="#V" n="116"/>ligibilis npius quam ista: aliquis sortes currit: nisi forte potesatur 
+      <lb ed="#V" n="117"/>vice istius signi vocal aliqud quod est esentia dina est genrans. 
+      <lb ed="#V" n="118"/>slec estm hec erat velis. nulla essentia dina est genans. sic nec 
+      <lb ed="#V" n="119"/>huius. nullus sortes currit: si sortes sit nomen proprium vni 
+      <lb ed="#V" n="120"/>tantum.
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e967">
+      ⁋ Per hoc patet ad aliam probationem quod cum 
+      <lb ed="#V" n="121"/>ista. nulla essentia diuina etc. non sit vniuersalis non 
+      con<lb ed="#V" n="122" break="no"/>uerteretur in illam. nullum generans etc. non pius quam ista 
+      sin<lb ed="#V" n="123" break="no"/>gularis. eentia diuina non est generans: sed si debeat sumi 
+      <lb ed="#V" n="124"/>velis proprie sumetur hec. nullu quod est essentia diuina ete. Sed 
+      <lb ed="#V" n="125"/>patet quod tunc non sumitur oppoi consequentis: et per consequens non probatur consequentia 
+      <lb ed="#V" n="126"/>illa per modum istum: probaretur ant illa qua inferretur hoc consequens.  
+      <lb ed="#V" n="127"/>aliquod quod est essentia diuina est generans: et illud concedo. 
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e985">
+               <lb ed="#V" n="128"/>⁋ Per praedicta potest responderi ad multa argumenta que 
+      <lb ed="#V" n="129"/>fiunt tam syllogistice quam entimematice contra veritates 
+      mate<lb ed="#V" n="130" break="no"/>riepraesentis. Syllogistice fic. nulla eentia diuia gnantipater. 
+      <!--100.xml-->
+      <pb ed="#V" n="53-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>generat: igitur paiter non est essentia diuina: et aliter sumendo. nulla essen 
+      <lb ed="#V" n="2"/>tia diuina generat. pater est essentia diuina: igitur pater non generat. 
+      <lb ed="#V" n="3"/>Nam maior non est vniversalis. Et si debeat fieri oportebit dici: 
+      nul<lb ed="#V" n="4" break="no"/>lum quod generat est esentia: et melius sic: nullum quod est essentia diuina 
+      <lb ed="#V" n="5"/>generat: que vtique est falsa. Entimematice sic. omnis essentia 
+      di<lb ed="#V" n="6" break="no"/>uina est ingenita: igitur tantum ingenitum est essentia diuina. per illam 
+      re<lb ed="#V" n="7" break="no"/>gulam. Ab vniversali ad exclusiuam de terminis transpositis etc. Patet 
+      <lb ed="#V" n="8"/>quod non valet. quia illa prima est vniversalis improprie: sed hec. omne quod est essentia 
+      <lb ed="#V" n="9"/>diuina est ingenitum: quae est falsa: cum filius non sit ingenitum. Ex  
+      <lb ed="#V" n="10"/>his potest scire studiosis quid in aliis sit dicendum.
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e1023">
+      ⁋ Ad aliam dico. 
+      <lb ed="#V" n="11"/>quod vtique aliqua res generat filium scilicet hypostasis prima seu persona quod 
+      <lb ed="#V" n="12"/>est paiter: et illa vtique res scilicet persona est essentia: et per consequens res quae est est 
+      <lb ed="#V" n="13"/>sentia generat filium: et hanc concedo: si hec res supponat pro hy 
+      <lb ed="#V" n="14"/>postasi. Et cum vlterius infertur: igitur essentia generat filium: neg 
+      <lb ed="#V" n="15"/>consequentia. Non enim sequitur persona quae est essentia generat filium: igitur essen 
+      <lb ed="#V" n="16"/>tia generat filium: sicut non sequitur. persona quae est essentia non est filius: 
+      <lb ed="#V" n="17"/>igitur essentia non est filius. Antecedens enim est verum: si persona supponat pro 
+      <lb ed="#V" n="18"/>persona pratris: et tamen consequens est falsum.
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e1043">
+      ⁋ Ad vltimam dico sicut 
+      <lb ed="#V" n="19"/>communiter dicitur et bene: vt docet magister in littera: quod sancti communiter ad  
+      <lb ed="#V" n="20"/>exprimendum vnitatem essentie et persone summamque simplicitatem 
+      <lb ed="#V" n="21"/>eiusdem emphatice et latius sunt locuti quam patiatur sermonis 
+      pro<lb ed="#V" n="22" break="no"/>prietas: propter quod eorum improprietates non sunt extendende aut vt 
+      <lb ed="#V" n="23"/>proprie recipiende: sed potius exponende: vt scilicet nominia abstracta 
+      <lb ed="#V" n="24"/>exponantur per concreta: aut per personalia: et ideo cum dicitur essentia de 
+      es<lb ed="#V" n="25" break="no"/>sentia. sapientia de sapientia. debet exponi sic: essentia de essentia. id est 
+      <lb ed="#V" n="26"/>filius qui est essentia est de patre qui est eadem ipsa essentia. Et illa. 
+      <lb ed="#V" n="27"/>vt diuinitatem eius de natura patris natam esse non dubites: sic: vt di 
+      <lb ed="#V" n="28"/>uinitatem eius id est filium diuinitatem aut qui est diuinitas de natura 
+      pa<lb ed="#V" n="29" break="no"/>tris. id est de patre nam: vel qui est natura diuina seu diuinitas natam esse 
+      <lb ed="#V" n="30"/>non dubites. Et eodem modo ad illam Ansel. et omnium aliorum 
+      <lb ed="#V" n="31"/>sanctorum qui similiter sunt locuti: et sic ante ipsos in huiusmodi locutionibus 
+      <lb ed="#V" n="32"/>exponi debere docet Aug. 7. de tri. vbi ait sic. Et ideo christus 
+      <lb ed="#V" n="33"/>virtus et sapientia dei: quia de patre virtute et sapientia est ipse vir 
+      <lb ed="#V" n="34"/>tus et sapientia est: sicut lumen dei de patre lumine et fons vite apud 
+      <lb ed="#V" n="35"/>deum patrem vtique fontem vite. Et lib. 15. sicut inquit scientia nostra 
+      il<lb ed="#V" n="36" break="no"/>li scientie dei: sic et nostrm verbum quod nascitur de nostra scientia 
+      dissimi<lb ed="#V" n="37" break="no"/>le est illi verbo dei: quod natum est de patris essentia. Et exponens 
+      <lb ed="#V" n="38"/>hanc locutionem qua dixit. verbum natum de patris essentia: nul 
+      <lb ed="#V" n="39"/>lo interposito ait: est autem ac si diceremus de patris scientia: de patris 
+      <lb ed="#V" n="40"/>apientia: vel quod est expressius de patre scientia: de patre sapientia. Et statim 
+      <lb ed="#V" n="41"/>ibidem. sequuntur verba supra allegata in quibus dicit verbum esse es¬t 
+      <lb ed="#V" n="42"/>sentiam de essentia: sapientiam de sapientia. Ansel. quoque postquam 
+      di<lb ed="#V" n="43" break="no"/>xit quod est superius allegatum scilicet filius est essentia nata de patris est 
+      <lb ed="#V" n="44"/>sentia: sequenti. c. exponens. hoc inquit est dicere filius est essentia pa 
+      <lb ed="#V" n="45"/>tris quod non est differens essentia de patris essentia: vbi manife 
+      <lb ed="#V" n="46"/>ste docet ex quo sensu sit intelligendum filium esse essentiam natam 
+      <lb ed="#V" n="47"/>de patris essentia.
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e1108">
+      ⁋ Ad auctoritatem Ricar. dico cum reue 
+      <lb ed="#V" n="48"/>rentia quod sententia magistri non caret auctoritatibus: cum plures 
+      <lb ed="#V" n="49"/>habeat Aug. et quae omnium est validissima auctoritatem vniversalis sanct 
+      <lb ed="#V" n="50"/>matris ecclesie eam primo aliis approbantis.
+    </p>
+            <p xml:id="grvnZZ-ed1e32-d1e1117">
+      ⁋ Contra se est non 
+      <lb ed="#V" n="51"/>habet auctoritates ad rem et sensum earum: et si forte sonus verbo 
+      <lb ed="#V" n="52"/>rum illorum videatur contrarius: non autem sermoni res: sed sermo rei est 
+      <lb ed="#V" n="53"/>subiectus: vt hoc ipse allegat ex verbis hylarii 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

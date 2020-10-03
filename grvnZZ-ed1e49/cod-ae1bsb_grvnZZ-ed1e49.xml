@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#Rimini">Gregory of Rimini</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2020-10-03">October 03, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-ae1bsb">Venice 1503</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-03" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="grvnZZ-ed1e49"><!-- l1d13q1 -->
+            <head xml:id="grvnZZ-ed1e49-Hd1e106">Quaestio 1</head>
+            <head xml:id="grvnZZ-ed1e49-Hd1e109" type="question-title">Utrum processio spiritus sancti, id est spiratio, sit generatio</head>
+            <p xml:id="grvnZZ-ed1e49-d1e112">
+               <lb ed="#V" n="3"/>⁋ Distinctionis. XIII. Questio. I 
+      <lb ed="#V" n="4"/>CIrca distinctionem. 13. Quero an proces 
+      <lb ed="#V" n="5"/>sio spiritus sancti aut spiratio sit 
+      gene<lb ed="#V" n="6" break="no"/>ratio:
+    </p>
+            <p xml:id="grvnZZ-ed1e49-d1e123">
+      ⁋ Arguitur quod sic. omnis productio 
+      vi<lb ed="#V" n="7" break="no"/>uentis a viuente eiusdem naturae numero vel specie 
+      <lb ed="#V" n="8"/>est generatio: spiratio est huiusmodi ergo etc. Maior 
+      <lb ed="#V" n="9"/>qui patet per locum a diffinitione. Sic enim diffinitur 
+      <lb ed="#V" n="10"/>communtietr gaenseratio strictissime sumpta: et secundum quod conceditur in 
+      <lb ed="#V" n="11"/>deo. minor est nota est secundum fidem. Nam spiritus secus est viuens et 
+      <lb ed="#V" n="12"/>eiusdem nature cum patre: et non minus quam pater et filius sint 
+      <lb ed="#V" n="13"/>eiusdem nature. ergo eius productio est productio viuentis etc. 
+    </p>
+            <p xml:id="grvnZZ-ed1e49-d1e141">
+               <lb ed="#V" n="14"/>⁋ otra spiritum sanctus non est genitus: vt dicitur in secundum 
+      <lb ed="#V" n="15"/>l bolo athanasi. ergo spiratio non est generatio: 
+      <lb ed="#V" n="16"/>et consequentia patens est. 
+      <lb ed="#V" n="17"/>Respondeo veritas. q. certa est. Nam cum non sit nisi 
+      <lb ed="#V" n="18"/>vnus filius in trinitate. Iuxta quod 
+      scni<lb ed="#V" n="19" break="no"/>bitur Io. 3. Sic deus dilexit mundum vt filium suum vnigenitum 
+      <lb ed="#V" n="20"/>darent etc. propter quod in symbolo apostolorum confitemsur 
+      vni<lb ed="#V" n="21" break="no"/>cum dei filium. et cum ideo filius: quia genitus et quia filius vtique 
+      <lb ed="#V" n="22"/>genitus. vt dicit Aug. 5. de tri. constant quod spitus scus non est 
+      fi<lb ed="#V" n="23" break="no"/>lius neque genitus. et per consequens nec eius processio est generatio. 
+    </p>
+            <p xml:id="grvnZZ-ed1e49-d1e166">
+               <lb ed="#V" n="24"/>⁋ Quamuis autem ita sit. differentiam tamen spirationis a generatione: et cur 
+      <lb ed="#V" n="25"/>productio filii sit generatio: non autem productio s scilicet et cur. s scilicet non 
+      <lb ed="#V" n="26"/>sit etiam filius: ita vt ambo producti dicantur filii: et geniti 
+      <lb ed="#V" n="27"/>in vita ista per tales quales non sumus) explicari 
+      repu<lb ed="#V" n="28" break="no"/>to impossibile. Et ratio est: quoniam productio vtraque est ineffabilis 
+      <lb ed="#V" n="29"/>et incomprehensibilis a nobis in statu praesenti: sic dicit Aug. 
+      <lb ed="#V" n="30"/>et habetur in littera.
+    </p>
+            <p xml:id="grvnZZ-ed1e49-d1e184">
+      ⁋ Assignant tamen aliqui differentiam harum 
+      produ<lb ed="#V" n="31" break="no"/>ctionum ex differentia producentium: quoniam filius est ab vno tantum: spiritus 
+      <lb ed="#V" n="32"/>autem secus a duobus: filius autem nullus potest esse duorum: nisi 
+      <lb ed="#V" n="33"/>vnus illorum sit plater et alter mater. quod in trinitate imaginari 
+      <lb ed="#V" n="34"/>absurdissimum est. Et hanc rationem assignat Aug. 15. de tri. et 
+      <lb ed="#V" n="35"/>Ansel. moodio.
+    </p>
+            <p xml:id="grvnZZ-ed1e49-d1e197">
+      ⁋ Sed ista ratio non est euindenter vnquequaque suf 
+      <lb ed="#V" n="36"/>ficiens: quia vbi productum eodem modo penitus est a duobus nec 
+      <lb ed="#V" n="37"/>aliter ab vno: quam ab altero: neque ab ambobus simul: quam ab 
+      <lb ed="#V" n="38"/>altero tantum: ibi productio. ex hoc precise quod est a duobus non 
+      <lb ed="#V" n="39"/>videtur minus debere dici generatio: quam si esset ab vno tantum: 
+      <lb ed="#V" n="40"/>ceteris simul concurrentibus. vnitas enim et pluralitas producen 
+      <lb ed="#V" n="41"/>tium non variat rationem productionis. sicut patet quod productrio vnius: 
+      <lb ed="#V" n="42"/>ignis a duobus non minus dicitur generatio: quam productio vnius ab 
+      <lb ed="#V" n="43"/>vno. spiritus scunus autem quamuis sit a duobus. eodem tamen modo penitus est 
+      <lb ed="#V" n="44"/>ab vtroque vt in praecedenti. q. dictum est.
+    </p>
+            <p xml:id="grvnZZ-ed1e49-d1e219">
+      ⁋ Ex hoc patet quod non 
+      <lb ed="#V" n="45"/>sequitur. si spiritus scus esset filius duorum: quam esset vnius tanquam 
+      <lb ed="#V" n="46"/>patris: et alterius velut matris: cum filius non sit vniformiter 
+      <lb ed="#V" n="47"/>ex patre et matre: alioquin non esset vnus pater vel mater: 
+      po<lb ed="#V" n="48" break="no"/>tius quam alter nec econverso
+    </p>
+            <p xml:id="grvnZZ-ed1e49-d1e230">
+      ⁋ Alii assignant differentiam ex princius quo 
+      <lb ed="#V" n="49"/>vnius: et principio quo alterius. Dicunt enim quod productionis filii 
+      <lb ed="#V" n="50"/>principium quo est intellectus: et productionis. s scilicet est voluntas.
+    </p>
+            <p xml:id="grvnZZ-ed1e49-d1e237">
+      ⁋ Istud 
+      <lb ed="#V" n="51"/>sset non valet. Tum quia neutrius productionis est aliquod principium quo 
+      <lb ed="#V" n="52"/>distincum a principio quod. vt supra probatum est. Tum quia intellectus et 
+      <lb ed="#V" n="53"/>voluntas in deo nullo modo ex naturatura rei distinguuntur. vt etiam 
+      <lb ed="#V" n="54"/>supra patet. et ideo si vnius illarum est intellectus principium etiam 
+      vo<lb ed="#V" n="55" break="no"/>luntas erit eius principium: et econverso
+    </p>
+            <p xml:id="grvnZZ-ed1e49-d1e251">
+      ⁋ Alii dant differentiam ex diuer 
+      <lb ed="#V" n="56"/>sitate modi procedendi: quoniam vnus procedit quo natus: 
+      ali<lb ed="#V" n="57" break="no"/>autem quo datus. Et hanc ponit Aug. 5. de tri. sed nec istud  
+      <lb ed="#V" n="58"/>sufficit cum non declaret quod spiritus scus non procedit quo 
+      na<lb ed="#V" n="59" break="no"/>tus.
+    </p>
+            <p xml:id="grvnZZ-ed1e49-d1e262">
+      ⁋ Aliter assignatur ista differentia ex ipsis productis. Nam 
+      fi<lb ed="#V" n="60" break="no"/>lius est verbum quod pater intelligendo se producit. spiritus autem 
+      <lb ed="#V" n="61"/>scuns est donum quod pater et filius se amando producunt. verbum 
+      <lb ed="#V" n="62"/>autem ex eo quod verbum: simile est rei intellecte cuius est verbum: 
+      <lb ed="#V" n="63"/>sed donum non ex eo quod donum est simile: sed potest esse dissimile. 
+      <lb ed="#V" n="64"/>productio autem viuentis similis producenti est generatio. quamuis ergo 
+      <lb ed="#V" n="65"/>spiritus secuns quod est donum patris et filii sit similis patri et filion: 
+      <!--143.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 74-v b -->
+               <lb ed="#V" n="66"/>non minus quam filius patri: quia cum non est similis ex hoc quod est do 
+      <lb ed="#V" n="67"/>num: ideo eius productio non est eius generatio. et ista ratio sumitur. 
+      <lb ed="#V" n="68"/>ab Ansel. mondloion. etc.
+    </p>
+            <p xml:id="grvnZZ-ed1e49-d1e291">
+      ⁋ Quamuis autem hec sit subtilis via ad  
+      <lb ed="#V" n="69"/>manifestandum differentiam praedictam: nihilominus tamen nec ipsa 
+      eui<lb ed="#V" n="70" break="no"/>dens est: quoniam eque incognitum est nobis quod spiritus scus non sit 
+      <lb ed="#V" n="71"/>verbum patris et filii: sicut quod eius productio non sit generatio: et 
+      <lb ed="#V" n="72"/>etiam immanifestum est quod ipse non sit filius. Unde cum . scilicet sit eque 
+      <lb ed="#V" n="73"/>similis patri et filio: sicut filius patri et intellectio a volitio 
+      <lb ed="#V" n="74"/>nullo modo distinguantur ex natura rei in deo non apparet cur spiritus 
+      <lb ed="#V" n="75"/>scuns non sit verbum quod se intelligendo producut pater et filius: 
+      <lb ed="#V" n="76"/>ita bene sicut filius est verbum quod se intelligendo paiter 
+      produ<lb ed="#V" n="77" break="no"/>cit.
+    </p>
+            <p xml:id="grvnZZ-ed1e49-d1e313">
+      ⁋ Dico ergo quod spiratio et generatio sunt distincte productio 
+      <lb ed="#V" n="78"/>nes et seipsis formaliter sunt distincte: sicut filius qui est genera 
+      <lb ed="#V" n="79"/>tio: et spiritus scuns qui est spiratio sunt seipsis distincti: vt 
+      su<lb ed="#V" n="80" break="no"/>pra dicebatur. et quod suiratio non est generatio: nec generatio est 
+      spi<lb ed="#V" n="81" break="no"/>ratio. sicut. s scilicet non est filius: nec filius.s scilicet est. id est donum: et quod 
+      pro<lb ed="#V" n="82" break="no"/>cessio spiritus scint ideo est spiratio: quia spiritus secus est. scilicet seu donum: 
+      <lb ed="#V" n="83"/>et processio seu productio filii est generatio: quia filius est filius seu  
+      <lb ed="#V" n="84"/>verbum.
+    </p>
+            <p xml:id="grvnZZ-ed1e49-d1e331">
+      ⁋ Quia autem iste sit verbum et filius: non sit autem donum: et 
+      <lb ed="#V" n="85"/>per consequens eius productio que non est nisi ipse (vnde dicitur 
+      pro<lb ed="#V" n="86" break="no"/>ductio filii intransitiue id est que est filius) sit generatio a non sit 
+      <lb ed="#V" n="87"/>spiratio: et quod iste sit donum: non sit autem verbum nec filius: ac per 
+      <lb ed="#V" n="88"/>hoc eius productio sit spiratio: et non sit generatio. Dico quod non 
+      <lb ed="#V" n="89"/>est mihi possibile intelligere: sicut etiam dicit de se Aug. 15. c 
+      <lb ed="#V" n="90"/>de tri. et contra maxium. vt habetur in littera. Damen. etiam lib. primo coa 
+      <lb ed="#V" n="91"/>ait. quoniam quidem est diferentia generationis et processionis didicimus. Quis 
+      <lb ed="#V" n="92"/>autem est inodus differentie: nequaquam. Quamuis autem intelligere ista 
+      <lb ed="#V" n="93"/>non possumus: veraciter tamen sic esse confitemur et credimus. 
+    </p>
+            <p xml:id="grvnZZ-ed1e49-d1e353">
+               <lb ed="#V" n="94"/>⁋ Ad rationem principalem dico: quod illa diffinitio non est perfecte expli a 
+      <lb ed="#V" n="95"/>catiua generationis divine: neque cum ea conuertibilis nec aliqua talis a no 
+      <lb ed="#V" n="96"/>bis dari potest. cum illa generatio sit incomprehensibilis a nobis. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

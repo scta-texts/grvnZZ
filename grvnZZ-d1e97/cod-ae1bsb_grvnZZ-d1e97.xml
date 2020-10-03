@@ -1,0 +1,2223 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#Rimini">Gregory of Rimini</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2020-10-03">October 03, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-ae1bsb">Venice 1503</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-03" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="2-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="grvnZZ-d1e97"><!-- l1prolq1 -->
+            <head xml:id="grvnZZ-d1e97-Hd1e106">Quaestio 1</head>
+            <head xml:id="grvnZZ-d1e97-Hd1e109" type="question-title">Utrum de obiecto theologico per theologicum discursum notitia proprie scientifica acquiratur</head>
+            <p xml:id="grvnZZ-d1e97-d1e112">
+               <pb ed="#V" n="2-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>⁋ Lectura in primo sententiarum excellentissimi sacre theo 
+      <lb ed="#V" n="2"/>logie professoris Gregorum de ariminio: prioris generalis 
+      quon<lb ed="#V" n="3" break="no"/>dam totius ordinis fratrum heremitarum Sancti Augu 
+      <lb ed="#V" n="4"/>stini feliciter incipit. Questio. I 
+      <lb ed="#V" n="5"/>Irca prologum primi 
+      <lb ed="#V" n="6"/>libri 
+      sententia<lb ed="#V" n="7" break="no"/>rum. Quero primo. Utrum 
+      <lb ed="#V" n="8"/>de obiecto theologico: per 
+      <lb ed="#V" n="9"/>theologicum discursum 
+      no<lb ed="#V" n="10" break="no"/>ticia proprie scientifica 
+      ac<lb ed="#V" n="11" break="no"/>quiratur.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e143">
+      Et arguo primo quod 
+      <lb ed="#V" n="12"/>sic. slam per theologicum 
+      <lb ed="#V" n="13"/>discursum acquiritur 
+      noti<lb ed="#V" n="14" break="no"/>cia superior fide. ergo 
+      noti<lb ed="#V" n="15" break="no"/>cia scientifica. consequentia patet: quoniam 
+      <lb ed="#V" n="16"/>nulla noticia alia a 
+      scien<lb ed="#V" n="17" break="no"/>scia est superior fide: si qua 
+      <lb ed="#V" n="18"/>enim esset: illa vt videtur 
+      <lb ed="#V" n="19"/>esset opinio: sed secundum hug. de sacramentis. libro. Io: fides est 
+      opinio<lb ed="#V" n="20" break="no"/>erior. Unde diffiniens fidem ait: quod est certitudo 
+      <lb ed="#V" n="21"/>animi de rebus absentibus supra opinionem et infra scientiam 
+      <lb ed="#V" n="22"/>constituta. Antecedens probatur: quoniam alias fidelis theologus 
+      <lb ed="#V" n="23"/>inutiliter homo theologicos discursus exerceret: quia non plus 
+      <lb ed="#V" n="24"/>postquam ante cognosceret.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e174">
+      ⁋ Confirmatur: quia alias doctus 
+      <lb ed="#V" n="25"/>theologus non haberet maiorem noticiam de veritatibus theo 
+      <lb ed="#V" n="26"/>logicis quam simplex fidelis. contra <ref xml:id="grvnZZ-d1e97-Rd1e180">Aug. 14o de trini.</ref> 
+      dicen<lb ed="#V" n="27" break="no"/>tem: quod <quote xml:id="grvnZZ-d1e97-Qd1e185" source="http://scta.info/resource/adt-l14-d1e1535" synch="110-120">hac scientia non pollent fideles plurimi: quamuis 
+        pol<lb ed="#V" n="28" break="no"/>leant ipsa fide plurimum</quote>.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e192">
+      ⁋ 2o ad quaestionem arguo ex 
+      intentio<lb ed="#V" n="29" break="no"/>ne Aug. contra epistolam fundamenti dicentis. ego namque 
+      ca<lb ed="#V" n="30" break="no"/>tholicam fidem profiteor. et per illam me ad certam sci 
+      <lb ed="#V" n="31"/>entiam peruenturum esse presumo: ergo secundum ipsum 
+      ha<lb ed="#V" n="32" break="no"/>bita fide contingit peruenire ad scientiam eorum que cre 
+      <lb ed="#V" n="33"/>duntur. hoc autem non est nisi per theologicum exercitium et 
+      theo<lb ed="#V" n="34" break="no"/>ogicas probationes. igitur etc.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e208">
+      ⁋ 3o idem <ref xml:id="grvnZZ-d1e97-Rd1e210">Augu. 14. de trini.</ref> 
+               <lb ed="#V" n="35"/>dicit quod eam scientiam qua scitur: <quote xml:id="grvnZZ-d1e97-Qd1e215" source="http://scta.info/resource/adt-l14-d1e1535" synch="142-158">quemadmodum illud  
+        <lb ed="#V" n="36"/>quod credimus piis opituletur et contra impios defendatur: proprio 
+        <lb ed="#V" n="37"/>vocabulo scientiam appellare videtur apostolus</quote>. et hac <quote xml:id="grvnZZ-d1e97-Qd1e222" source="http://scta.info/resource/adt-l14-d1e1535" synch="110-120">
+                  <seg type="qs">non 
+            <lb ed="#V" n="38"/>pollent</seg>: vt premisit et iam allegatum est: <seg type="qs">fideles plurimi 
+              <lb ed="#V" n="39"/>quaeuis plurimum fide polleant</seg>
+               </quote>. Cum igitur huiusmodi scientia non sit ni 
+      <lb ed="#V" n="40"/>si theologia. de qua loquimur. scilicet que per theologicos 
+      di<lb ed="#V" n="41" break="no"/>scursus acquiritur habetur propositum. 
+      <lb ed="#V" n="42"/>Ad oppositum arguitur. per nullum discursum 
+      <lb ed="#V" n="43"/>non demonstratiuum acquiritur 
+      no<lb ed="#V" n="44" break="no"/>ticia proprie scientifica. Sola enim demonstratio est 
+      syllo<lb ed="#V" n="45" break="no"/>gismus faciens scire. Sed nullus discursus theologicus 
+      <lb ed="#V" n="46"/>est syllogismus demonstratiuus: cum quilibet constet ex 
+      <lb ed="#V" n="47"/>vtraque vel altera credita. igitur etc. 
+      <lb ed="#V" n="48"/>In ista questione erunt articuli. 4 Primo 
+      <lb ed="#V" n="49"/>namque videbitur in generali quod  
+      <lb ed="#V" n="50"/>est obiectum scientie seu quid scitur per scientiam per 
+      demonstra<lb ed="#V" n="51" break="no"/>tionem acquisitam: et per hoc patebit quid proprie est obiectum 
+      <lb ed="#V" n="52"/>theologicum.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e264">
+      ⁋ 2o inquiretur quis discursus est proprie theolo 
+      <lb ed="#V" n="53"/>gicus.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e269">
+      ⁋ 3o videbitur quis ex actibus et habitibus intellectus 
+      <lb ed="#V" n="54"/>proprie dicitur scientia.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e274">
+      ⁋ 4o: quod queritur principaliter. 
+      <lb ed="#V" n="55"/>Quantum ad primum dicitur a quibusdam quod differentia est 
+      in<lb ed="#V" n="56" break="no"/>ter obiectum et subiectum scientiae. quia subiectum 
+      <lb ed="#V" n="57"/>scientiae est subiectam conclusionis: obiectum autem scientiae est illud quod 
+      <lb ed="#V" n="58"/>scitur et immediate terminat actum sciendi. huiusmodi autem est ipsa con 
+      <lb ed="#V" n="59"/>clusio scita: et ita subiectum est pars obiecti: et si sit obiectum 
+      <lb ed="#V" n="60"/>non est nisi partiale.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e290">
+      ⁋ Pro isto dicto innuitur ratio duplex. 
+      <lb ed="#V" n="61"/>prima est quod nihil scitur nisi verum: sola autem propositio est 
+      <lb ed="#V" n="62"/>vera. ergo sola propotio scitur: et non nisi conclusio ergo etc.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e298">
+      ⁋ 2o obiectum scientie 
+      de<lb ed="#V" n="63" break="no"/>monstrationis vniversalis est conclusio ipsius demonstrationis. ergo a cuiusli 
+      <lb ed="#V" n="64"/>bet scientie per demonstrationem acquisite obiectum est conclusio 
+      <lb ed="#V" n="65"/>demonstrationis illius. Assumptum probatur: quia vel ipsa conclu¬ 
+      <!--2.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 2-r b -->
+               <lb ed="#V" n="66"/>sio demonstrationis vniversalis est obiectum illius scientie: et habetur 
+      <lb ed="#V" n="67"/>propositum: vel res extra animam: sed hoc esse non potest: quia nec 
+      <lb ed="#V" n="68"/>res vniversalis: cum nulla sit huiusmodi nec res singularis: quia non potius 
+      <lb ed="#V" n="69"/>vna quam alia significata per subiectum conclusionis. verbi gratia. 
+      <lb ed="#V" n="70"/>si conclusio sit hec. omnis triangulus habet tres. etc et non 
+      <lb ed="#V" n="71"/>plus vnus singularis triangulus quam alius est obiectum. 
+      er<lb ed="#V" n="72" break="no"/>go quilibet: et cum omne obiectum actus sciendi 
+      cognosca<lb ed="#V" n="73" break="no"/>tur ab intellectu: sequitur quod demonstrans homo conclusionem 
+      <lb ed="#V" n="74"/>actu et immediate cognoscat quemlibet singularem triangulum: 
+      <lb ed="#V" n="75"/>quod est falsum.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e335">
+      ⁋ 3o potest sic argui. idem est obiectum immedia 
+      <lb ed="#V" n="76"/>tum actus sciendi et actus assentiendi ei quod scitur. siue 
+      <lb ed="#V" n="77"/>actus sciendi distinguatur ab actu assentiendi siue non: sed  
+      <lb ed="#V" n="78"/>sola propositio est obiectum actus assentiendi: non enim assen 
+      <lb ed="#V" n="79"/>tit quis nisi complexo quod iudicat esse verum: quin immo non est 
+      <lb ed="#V" n="80"/>aliud alicui assentire quam iudicare illud esse verum. ergo etc. 
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e348">
+               <lb ed="#V" n="81"/>⁋ Confirmatur. quia si obiectum assensus sit res extra: eadem 
+      <lb ed="#V" n="82"/>ratione et obiectum dissensus. Ponatur igitur quod aliquis 
+      de<lb ed="#V" n="83" break="no"/>monstraret deum esse eternum. iste scit et assentit quod deus 
+      <lb ed="#V" n="84"/>est eternus: et simul hoc dissentit vel dissentire potest quod 
+      <lb ed="#V" n="85"/>deus non est eternus. et per consequens si res ad extra sit obiectum 
+      <lb ed="#V" n="86"/>eadem res: scilicet deus est obiectum assensus et dissensus. et 
+      <lb ed="#V" n="87"/>eidem simul quis assentit et dissentit: quod est impossibile.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e366">
+      ⁋ Item propositio 
+      <lb ed="#V" n="88"/>per se nota quae est principium demonstrationis est obiectum assensus 
+      <lb ed="#V" n="89"/>intellectualis. ergo et conclusio demonstrata est obiectum 
+      assen<lb ed="#V" n="90" break="no"/>sus scientialis ac per hoc et scientie.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e375">
+      ⁋ Praeterea res ad extra esset 
+      <lb ed="#V" n="91"/>obiectum assensus sola apprehensio eius sufficeret ad 
+      cau<lb ed="#V" n="92" break="no"/>sandum assensum de ipsa. et per consequens superfluum foret 
+      forma<lb ed="#V" n="93" break="no"/>re propositionem qua mediante causaretur assensus.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e384">
+      ⁋ 4o 
+      <lb ed="#V" n="94"/>quod nihil omnino est. non est obiectum scientiae vel assensus: sed fre 
+      <lb ed="#V" n="95"/>quenter quod significatur per conclusionem demonstrationis est 
+      <lb ed="#V" n="96"/>omnino nihil: sicut patet si demonstraretur quod infinitum vel aliud  
+      <lb ed="#V" n="97"/>possibile non est. igitur etc.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e396">
+      ⁋ 5o secundum philosophum 6o ethicorum illud  
+      <lb ed="#V" n="98"/>est scibile quod est demonstrabile. ergo illud scitur per scientiam 
+      <lb ed="#V" n="99"/>genitam per demonstrationem: quod per illam demonstratur. hec autem 
+      <lb ed="#V" n="100"/>est sola conclusio. ergo etc.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e405">
+      ⁋ Confirmatur secundum eundem ibidem 
+      <lb ed="#V" n="101"/>qui vult quod intellectus sit principiorum et scientia conclusionem.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e410">
+      ⁋ Ista 
+      <lb ed="#V" n="102"/>opinio non apparet mihi vera: ideo contra eam et pro responsione 
+      <lb ed="#V" n="103"/>ad articulum istum pono 3 conclusiones.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e417">
+      ⁋ Prima est. quod 
+      con<lb ed="#V" n="104" break="no"/>clusio demonstrationis non est obiectum scientie acquisite per de 
+      <lb ed="#V" n="105"/>monstrationem. 2a est. quod nec res ex. 3a est: quod significatum 
+      <lb ed="#V" n="106"/>totale conclusionis est obiectum scientie. ex qua patebit quod signi 
+      <lb ed="#V" n="107"/>ficatum totale conclusionis theologice est obiectum theologie acquisi 
+      <lb ed="#V" n="108"/>te per theologicum discursum. Et similiter theologie que est 
+      <lb ed="#V" n="109"/>circa theologicum principium: obiectum est significatum totale dicti 
+      <lb ed="#V" n="110"/>principii.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e435">
+      ⁋ Primam conclusionem probo.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e438">
+      ⁋ Primo sic. si obiectum 
+      <lb ed="#V" n="111"/>sciente esset ipsa conclusio. sequeretur quod quilibet actu sciens scientia 
+      <lb ed="#V" n="112"/>acquisita per demonstrationem actu apprehenderet conclusionem 
+      <lb ed="#V" n="113"/>sue demonstrationis. hoc patet. Sed consequens probatur esse falsum per 
+      <lb ed="#V" n="114"/>experientiam. Nam plerumque: immo quasi semper contingit quod 
+      demon<lb ed="#V" n="115" break="no"/>strans quamuis formet conclusionem: non tamen actu reflectitur super illam 
+      <lb ed="#V" n="116"/>apprehendendo ipsam: sed directe figit suum aspectum in id quod 
+      <lb ed="#V" n="117"/>ipsa significat. nihilominus tamen acquirit scientiam per illam 
+      de<lb ed="#V" n="118" break="no"/>monstrationem: cum sit syllogismus faciens scire.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e459">
+      ⁋ 
+      Confir<lb ed="#V" n="119" break="no"/>matur: quia si conclusio apprehendatur. aut appreheditur tantum 
+      ap<lb ed="#V" n="120" break="no"/>prehensione que simplex intelligentia aut apprehensione etiam 
+      <lb ed="#V" n="121"/>iudiciaria qua cognoscitur aliquod one ipsa. primum non obuiat. 
+      <lb ed="#V" n="122"/>Nam talis apprehensio non est scientia: vt nunc de scientia loquimur: cum per 
+      quam<lb ed="#V" n="123" break="no"/>libet sciam sciatur aliquid alicui inesse vel non inesse: quod 
+      sim<lb ed="#V" n="124" break="no"/>plici apprehensioni non conuenit.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e475">
+      ⁋ Praeterea apprehensio non per 
+      <lb ed="#V" n="125"/>se causatur per demonstrationem: quin immo si absque praemissis con 
+      <lb ed="#V" n="126"/>clusio illa formaretur in intellectu non minus eam intueri ille 
+      <lb ed="#V" n="127"/>posset et apprehendere tali apprehensione simplici. scientia 
+      <lb ed="#V" n="128"/>autem de qua loquimur non nisi per demonstrationem acquiritur. 
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e486">
+               <lb ed="#V" n="129"/>⁋ Rursum non tantum conclusio demonstrationis: sed et prima 
+      <lb ed="#V" n="130"/>principia possunt sic apprehendi et similiter ipsa simplex apprehen¬ 
+      <!--3.xml-->
+      <pb ed="#V" n="2-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>sio que non est propositio: quin immo etiam et vna propositio 
+      <lb ed="#V" n="2"/>falsa: et tamen nec prima principia nec apprehensio incomplexa nec 
+      <lb ed="#V" n="3"/>propositio falsa scitur scientia: de qua nunc loquimur. ergo etc. 
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e506">
+               <lb ed="#V" n="4"/>⁋ Si dicatur quod conclusio apprehenditur apprehensione iudiciaria 
+      <lb ed="#V" n="5"/>et enunciatiua: hoc erit vt videtur: apprehensione qua 
+      cognosci<lb ed="#V" n="6" break="no"/>tur ipsa conclusio esse conformis rei seu esse vera. Nam nul 
+      <lb ed="#V" n="7"/>la alia videtur esse ad propositum. sed certum est quod non quili 
+      <lb ed="#V" n="8"/>bet demonstrans habet talem noticiam de suam conclusione. Unde 
+      <lb ed="#V" n="9"/>nec geometer demonstrans latera trianguli descripti 
+      se<lb ed="#V" n="10" break="no"/>cundum doctrinam prime conclusis primi euclidis esse equalia considerat 
+      <lb ed="#V" n="11"/>vel apprehendit: quod conclusio qua enunciat illa esse equalia est vera. nec 
+      <lb ed="#V" n="12"/>medicus concludens tali morbo talem debere dari 
+      medici<lb ed="#V" n="13" break="no"/>nam cogitat quod sua conclusio est vera quamuis vterque cognoscere fa 
+      <lb ed="#V" n="14"/>cillime possit.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e532">
+      ⁋ Praeterea sicut aliud est querere vtrum latera 
+      hu<lb ed="#V" n="15" break="no"/>ius trianguli sint equalia: et aliud vtrum hec propositio latera 
+      hu<lb ed="#V" n="16" break="no"/>ius trianguli sunt equalia. sit vera. sic aliud est scire hoc 
+      <lb ed="#V" n="17"/>et aliud est scire illud. Et certum est quod primum scire vel solum 
+      <lb ed="#V" n="18"/>vel maxime est geometre: et tale acquiritur in eo per 
+      demonstra<lb ed="#V" n="19" break="no"/>tionem ergo eius obiectum non est conclusio illa.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e545">
+      ⁋ Praeterea nec secundi scire 
+      <lb ed="#V" n="20"/>illa conclusio est obiectum totale. nam per ipsum scitur quod illa conclusio est 
+      <lb ed="#V" n="21"/>vera. et per consequens si aliqua propositio debeat dici obiectum eius. erit hec 
+      <lb ed="#V" n="22"/>latera huius trianguli sunt equalia: est propositio vera: et eius pars est 
+      <lb ed="#V" n="23"/>illa prima contra vt patet.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e557">
+      ⁋ Item et ipsa non est conclusio demonstrationis per 
+      <lb ed="#V" n="24"/>quam aquiritur ipsum secundum scire. et per consequens nullius scientie obiectum 
+      <lb ed="#V" n="25"/>est contra demonstrationis per quam acquiratur.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e564">
+      ⁋ 2o ad 
+      principa<lb ed="#V" n="26" break="no"/>le suppono quod sic esse vel non sic esse. non est propositionem enun 
+      <lb ed="#V" n="27"/>ciantem sic esse vel non sic esse veram. et hec suppositio nota 
+      <lb ed="#V" n="28"/>est: et patet etiam per philosophum in postpraedicamentis. capitulo de priori. vbi 
+      <lb ed="#V" n="29"/>vult quod quamuis illa adinuicem conuertantur secundum consequentiam: 
+      nihilo<lb ed="#V" n="30" break="no"/>minus tamen sic esse est causa quod propositio sit vera et non est conclusio. et per consequens: 
+      <lb ed="#V" n="31"/>sic esse non est propositionem enunciantem sic esse veram.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e580">
+      ⁋ Item sup 
+      <lb ed="#V" n="32"/>pono: quod sic esse non est propositio enuncians sic esse: et hoc etiam dicit philosophus 
+      <lb ed="#V" n="33"/>in postpraedicamentis. capitulo de oppositis. Non est autem inquit quod sub 
+      <lb ed="#V" n="34"/>affirmatione et negatione iacet affirmatio a negatio. et 
+      pro<lb ed="#V" n="35" break="no"/>bat. affirmatio namque est oratio affirmatiua et negatio oratio 
+      ne<lb ed="#V" n="36" break="no"/>gatiua: horum vero que sub affirmatione et negatione sunt nul 
+      <lb ed="#V" n="37"/>lum est oratio. Suppono etiam 3o quod propositio aliqua non est ipsam 
+      <lb ed="#V" n="38"/>esse veram. hoc patet. nam alias quicuque apprehenderet 
+      propositio<lb ed="#V" n="39" break="no"/>nem: apprehenderet ipsam esse veram. Item quia contingit 
+      eam<lb ed="#V" n="40" break="no"/>dem propositionem esse veram et falsam successiue. his 
+      super<lb ed="#V" n="41" break="no"/>positius arguo sic. per demonstrationem cuius conclusio est. super quamli 
+      <lb ed="#V" n="42"/>bet lineam finitam rectam contingit triangulum equilaterum 
+      <lb ed="#V" n="43"/>collocare. acquiritur scientia qua precise scitur quod super quamlibet 
+      <lb ed="#V" n="44"/>lineam finitam rectam contingit etc. igitur illius scientie non est 
+      obie<lb ed="#V" n="45" break="no"/>ctum ipsa conclusio. Antecedens patet: quia si aliquid aliud sciretur: non videretur 
+      <lb ed="#V" n="46"/>quod aliud quam quod illa contra est vera: sed hoc est falsum. nam licet hoc 
+      <lb ed="#V" n="47"/>sciatur hoc est per alium discursum. quo ex eo quod super quamlibet 
+      <lb ed="#V" n="48"/>lineam etc. infertur quod propositio illud enuncians est vera. et per 
+      <lb ed="#V" n="49"/>consequens per aliam scientiam.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e622">
+      ⁋ Confirmatur: quia sicut non idem est sic 
+      <lb ed="#V" n="50"/>esse. et propositionem enunciantem sic esse: esse veram. vt patet ex 
+      post<lb ed="#V" n="51" break="no"/>praedicamentis et ex prima suppositione: sic non eodem actu sciendi 
+      <lb ed="#V" n="52"/>scitur vtrumque. consequentia nota est: quia super quamlibet lineam etc. non 
+      <lb ed="#V" n="53"/>est ipsa conclusio vt patet ex secunda suppositione: sed per ipsam significa 
+      <lb ed="#V" n="54"/>tur: et sicut de illa conclusione argutum est: ita et de qualibet respectu 
+      <lb ed="#V" n="55"/>scientie acquisite per demonstrationem: cuius ipsa est conclusio: argui potest.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e638">
+      ⁋ Praterea 
+      <lb ed="#V" n="56"/>arguo quod nullius scientie contra demonstrationis sit obiectum: quia si 
+      <lb ed="#V" n="57"/>esset alicuius vel illius qua scit sic esse sicut ipsa significatt: vel 
+      <lb ed="#V" n="58"/>illius qua scitur. quod ipsa est vera: non enim apparet cuius alterius: sed 
+      <lb ed="#V" n="59"/>neutrius: quia neutrum dictorum scibilium vel scitorum ipsa est obie 
+      <lb ed="#V" n="60"/>ctum vt patet ex 2a et 3a suppositionibus.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e651">
+      ⁋ 2am conclusionem probo primo 
+      <lb ed="#V" n="61"/>quia si res extra esset obiectum multe scietie essent de 
+      contingenti<lb ed="#V" n="62" break="no"/>bus aliter se habere tamquam de obiectis: consequens est falsum accipien 
+      <lb ed="#V" n="63"/>do scientiam proprie. Nam vt ait philosophus 6o ethicorum. Omnes 
+      suspica<lb ed="#V" n="64" break="no"/>mur quod scimus non contingere aliter se habere et ex hoc con 
+      <lb ed="#V" n="65"/>cludit quod scibile est eternum et ex necessitate et eandem sententiam po¬ 
+      <!--3.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 2-v b -->
+               <lb ed="#V" n="66"/>nit primo posteriorum. consequentia tenet. Nam omnis res corruptibilis potest 
+      <lb ed="#V" n="67"/>aliter se habere secundum philosophum. et secundum veritatem: omnis res preter 
+      de<lb ed="#V" n="68" break="no"/>um est contingens et non necessaria. Si vero res ex sint obiecta 
+      <lb ed="#V" n="69"/>scientiarum multe scientie et physice et geometrice et alie plures esent 
+      <lb ed="#V" n="70"/>de rebus aliis a deo a contingentibus. Et pro certo ad nullum 
+      <lb ed="#V" n="71"/>verum sensum saluari posset quod huiusmodi essent de necessariis 
+      <lb ed="#V" n="72"/>et impossibilibus aliter se habere et eternis et alia his similia dictis 
+      <lb ed="#V" n="73"/>philosophorum si res extra scirentur seu essent scientiarum obiecta.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e689">
+      ⁋ 2o si res 
+      <lb ed="#V" n="74"/>ex essent obiectum totale scientie: vt nunc de obiecto loquimur: 
+      ea<lb ed="#V" n="75" break="no"/>dem ratione res extra essent obentum opinionis et fidei et erroris. et per consequens 
+      <lb ed="#V" n="76"/>contingeret quod idem homo idem sciret et opinaretur et crederet et etiam 
+      <lb ed="#V" n="77"/>ignoraret ignorantia contrarie dispositionis quae error nominatur: que 
+      <lb ed="#V" n="78"/>omnis sunt absurda: patet consequentia Nam contingit eundem scire quod 
+      <lb ed="#V" n="79"/>deus est eternus: opinari quod solus et immediate moueat 
+      ce<lb ed="#V" n="80" break="no"/>lum: credere quod sit trinus in personis: errare putans quod sit in 
+      <lb ed="#V" n="81"/>vigore finitus.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e709">
+      ⁋ 3o si res esset obiectum scientie esset et obiectum 
+      <lb ed="#V" n="82"/>assensus scientialis. Nam eidem assentimus quod scimus. et simi 
+      <lb ed="#V" n="83"/>li ratione esset obiectum fidei. et vlterius sequitur ex hoc quod 
+      ali<lb ed="#V" n="84" break="no"/>quis fidelis licite ita firmiter crederet diabolo sicut deo. 
+      <lb ed="#V" n="85"/>Nam fidelis licite eque firmiter credit quod dyabolus non est 
+      <lb ed="#V" n="86"/>omnipotens sic quod deus est omnipotens. sequitur est quod eidem assentiret simul et 
+      <lb ed="#V" n="87"/>dissentiret sic in confirmatione rationis opposite recitate declarabatur. Omnia 
+      <lb ed="#V" n="88"/>hec autem sunt absurda. quare etc.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e727">
+      ⁋ 3a conclusio probatur. primo quia vel 
+      <lb ed="#V" n="89"/>obiectum scientie totale est conclusio vel tota demonstratio vel res 
+      <lb ed="#V" n="90"/>extra vel significatum totale conclusionis. seu significata totalia 
+      prae<lb ed="#V" n="91" break="no"/>missarum et conclusionis. sed non conclusio vt prius probatum est. nec etiam tota 
+      de<lb ed="#V" n="92" break="no"/>monstratio sicut eisdem probari potest. nec etiam res extra: vt patet ex 
+      <lb ed="#V" n="93"/>2a conclusione. nec significata omnium propositionum demonstrationis: quia vt 
+      <lb ed="#V" n="94"/>infra patebit: non eodem actu omnia cognoscuntur. igitur significatum 
+      <lb ed="#V" n="95"/>totale conclusionis.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e745">
+      ⁋ 2o idem est obentum scientie et assensus scientialis siue 
+      as<lb ed="#V" n="96" break="no"/>ensus sit scientia siue distinguatur. Nam ei quod quis scit assentit: sed 
+      <lb ed="#V" n="97"/>obiectum assensus scientialis est significatum conclusionis: ei enim assentit quis 
+      <lb ed="#V" n="98"/>habens demonstrationem quod significat contra demonstrationis. Unde habens 
+      de<lb ed="#V" n="99" break="no"/>monstrationem quod super lineam rectam finitam etc. assensu scientiali 
+      <lb ed="#V" n="100"/>assentit et credit id ipsum quod significat illa conclusio et idem est de quocum 
+      <lb ed="#V" n="101"/>que alio assensu siue fidei siue opinionis. Nam per illum 
+      <lb ed="#V" n="102"/>id creditur quod complexum conforme significatur. Unde sic per istam. deus 
+      <lb ed="#V" n="103"/>est omnipotens. significatur deum esse omnipotentem: sic fidelis credit deum esse 
+      <lb ed="#V" n="104"/>omnipotentem: et ita de aliis consimilter.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e767">
+      ⁋ Ex hoc vlterius patet: quod est 
+      <lb ed="#V" n="105"/>obiectum theologicum. Nam idipsum quod est significatum totale 
+      pro<lb ed="#V" n="106" break="no"/>positionis theologice.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e774">
+      ⁋ Contra istud argui potest primo: quia vel 
+      <lb ed="#V" n="107"/>significatum totale propositionis est aliquid. vel nihil. si nihil ergo nihil est 
+      <lb ed="#V" n="108"/>obiectum scientie: et sic scientie nullum habet obiectum: cuius oppositum Si aliquid: vel ens 
+      <lb ed="#V" n="109"/>in anima: vel ens ex animam. si ens in anima: vel complexum: vel incomplexum 
+      <lb ed="#V" n="110"/>non incomplexum vt patet. ergo complexum: quod est contra primam conclusionem.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e786">
+      ⁋ Item per 
+      <lb ed="#V" n="111"/>rationes prime conclusionis probari potest quod non sit ens in anima complexum 
+      <lb ed="#V" n="112"/>vel incomplexum. Si ens extra animam hebentur contra secundam conclusionem.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e793">
+      ⁋ 2o de 
+      <lb ed="#V" n="113"/>talibus significatis propositionum videtur nullo modo posse dici quod sint eter 
+      <lb ed="#V" n="114"/>na et ex necessitate a non contingentia aliter se habere. ergo non sunt 
+      <lb ed="#V" n="115"/>obiecta scientiarum. Assumptum patet: quia sicut supra tangebatur: nihil 
+      <lb ed="#V" n="116"/>aliud a deo est necessarium. hec autem significata non sunt deus. 
+      <lb ed="#V" n="117"/>ergo etc.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e806">
+      ⁋ 3o ex 3a conclusione argui potest contra 2am. Nam significatum 
+      <lb ed="#V" n="118"/>istius propositionis scibilis. deus est. est deum esse. hoc enim ipsa 
+      <lb ed="#V" n="119"/>significat. et hoc potest esse obiectum alicuius scientie a assensus: sed deum 
+      <lb ed="#V" n="120"/>esse non est aliud quam deus. quod probatur. quia omni alio a deo circumscri 
+      <lb ed="#V" n="121"/>pto deus est. ergo cum deus sit vera: immo verissima et summa res extra 
+      <lb ed="#V" n="122"/>animam aliquod obiectum scientie est res extra animam: quod est contra conclusionem 2am. 
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e819">
+               <lb ed="#V" n="123"/>⁋ Ad primum dicendum: quod hoc nomen aliquid. sicut et ista alia sibi 
+      syno<lb ed="#V" n="124" break="no"/>nima ens et res possunt accipi tripliciter. vno modo communissime. secundum quod omne 
+      <lb ed="#V" n="125"/>significabile complexe vel incomplexe et hoc vere vel false: 
+      dici<lb ed="#V" n="126" break="no"/>tur res a aliquid: isto modo philosophus in postprodicamentis. capitulo de 
+      opposi<lb ed="#V" n="127" break="no"/>tis significata propositionum contradictoriam vocat res: vt ibi patet. et eodem 
+      <lb ed="#V" n="128"/>modo accipit re ibidem. capitulo de priori. cum ait. dum res est vel non est 
+      <lb ed="#V" n="129"/>oratio vera vel falsa necesse dicitur esse: non enim quia homo non est aut quia 
+      <lb ed="#V" n="130"/>asinus non est ista oratio. homo est asinus. est falsa: sed quia homo non 
+      <!--4.xml-->
+      <pb ed="#V" n="3-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>est asinus: nec quia homo est: aut quia albedo est: aut etiam quia homo 
+      <lb ed="#V" n="2"/>et albedo sunt: ideo hec est vera. homo est albus: sed quia homo est albus: et 
+      <lb ed="#V" n="3"/>ideo res ibi accipitur pro significato totali propositionis: scilicet pro hominem 
+      <lb ed="#V" n="4"/>esse album. et hoc manifeste patet ibidem ex textu. Ita est alibi in 
+      <lb ed="#V" n="5"/>diuersis locis. vt infra diffusius tangetu.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e856">
+      ⁋ Alio modo sumunit 
+      <lb ed="#V" n="6"/>pro omni significabili complexe vel incomplexe: sed vere id est per 
+      veram<lb ed="#V" n="7" break="no"/>enunciationem: quod autem false tantum dicitur non ens. et sic accipit philosophus. 
+      <lb ed="#V" n="8"/>5o meta. capitulo de ente. vbi distinguit ens in eo quod significat 
+      essen<lb ed="#V" n="9" break="no"/>tiam: et quod significat verum et falsum dicit esse non ens. et idem 6o  
+      <lb ed="#V" n="10"/>meta. circa finem: quod autem inquit vt verum ens et non ens vt 
+      fal<lb ed="#V" n="11" break="no"/>sum: quoniam secundum compositionem et dionem etc. Sic etam accipit non ens 
+      pri<lb ed="#V" n="12" break="no"/>mo posteriorum. cum ait: quod non est non est. id est non contingit scire: vt quod 
+      <lb ed="#V" n="13"/>diameter sit simeter.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e876">
+      ⁋ 3o o sumuntur ista vt significant aliquam 
+      <lb ed="#V" n="14"/>essentiam siue entitatem existentem. et hoc modo quod non existit dicit 
+      <lb ed="#V" n="15"/>nihil: iuxta illud Augu. contra epistolam fundamenti. constat quod non 
+      <lb ed="#V" n="16"/>est nihil est.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e886">
+      ⁋ Nunc ad argumentum cum dicitur vtrum istud totale significatum 
+      <lb ed="#V" n="17"/>sit aliquid vel nihil dico quod si aliquid sumatur primo vel 2o modo est aliquid. 
+      <lb ed="#V" n="18"/>si vero 3o modo sumatur non est aliquid. vnde hominem esse animal non est aliquid. 
+      <lb ed="#V" n="19"/>sed est hominem esse substantiam animatam sensibilem rationalem: nec 
+      <lb ed="#V" n="20"/>hominem esse risibilem est aliquid: sed est hominem posse ridere.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e897">
+      ⁋ Et si 
+      <lb ed="#V" n="21"/>inferas. ergo hominem esse aial est nihil: quamuis secundum aliquos 
+      <lb ed="#V" n="22"/>hec consequentia posset negari. et similiter consequens pro nunc tamen concedo consequens 
+      <lb ed="#V" n="23"/>quem admodum philosophus. 4. meta. satis proprie principium dat istam. non ens 
+      <lb ed="#V" n="24"/>est non ens. et hoc dico sumendo opposite ad aliquid tertio 
+      <lb ed="#V" n="25"/>modo sumptum. et vlterius concedo aliud quod infert scilicet nihil est 
+      <lb ed="#V" n="26"/>obiectum scientie siue hec propositio sit affirmatiua et valeat istam. non 
+      <lb ed="#V" n="27"/>ens est obiectum scientie siue negatiua valens hanc. nullum ens 
+      <lb ed="#V" n="28"/>est obiectum scientie eodem modo quo prius accipiendo ens. Sed  
+      <lb ed="#V" n="29"/>vlteriorem consequentia nego qua dicitur ergo scientia nullum habet obiectum. Nam 
+      <lb ed="#V" n="30"/>habet obiectum quod non est ens.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e921">
+      ⁋ Ad secundam dicendum: quod non ideo 
+      <lb ed="#V" n="31"/>dicuntur sciente esse de eternis et necessariis etc. quia earum obiecta 
+      <lb ed="#V" n="32"/>dicuntur entitates quedam eterne et necessarie: quoniam nulla eni 
+      <lb ed="#V" n="33"/>titas alia a deo siue in anima siue ex animam est eterna et necessaria: sed 
+      <lb ed="#V" n="34"/>ideo dicuntur esse de necessariis: quia ea que sciuntur non 
+      contin<lb ed="#V" n="35" break="no"/>git non sic esse. verbi gratia. hoc scibile super quamlibet lineam 
+      re<lb ed="#V" n="36" break="no"/>ctam finitam posse triangulum equilaterum collocari ideo dicitur ne 
+      <lb ed="#V" n="37"/>cessarium: quia necesse est super quamlibet lineam etc. posse triangulus 
+      <lb ed="#V" n="38"/>equilaterus collocari. et dicitur eternum: quia semper super quamlibet huiusmodi 
+      <lb ed="#V" n="39"/>lineam potuit et poterit triangulus etc. Et eodem modo cetera 
+      scibi<lb ed="#V" n="40" break="no"/>lia quae proprie scibilia dicuntur vtpote quae sunt significata conclusionum syllorum 
+      <lb ed="#V" n="41"/>demonstratorum intelligi debent necessaria et eterna. et similiter 
+      <lb ed="#V" n="42"/>obiecta proponum aliarum necessariarum.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e950">
+      ⁋ Ad 3m concedo quod deum 
+      <lb ed="#V" n="43"/>esse non est aliud id est alia entitas quam deus: nec tamen est deus: sed  
+      <lb ed="#V" n="44"/>nulla omnino entitas est: nec sequitur. omni alio a deo 
+      circunscri<lb ed="#V" n="45" break="no"/>pto deus est. ergo deus est deum esse. Sicut etiam non sequitur. omni alio 
+      <lb ed="#V" n="46"/>ab homine circunscripto homo non est. ergo homo est hominem non esse: nec 
+      <lb ed="#V" n="47"/>sequitur. omni alio ab homine et deo circunscripto homo est iustus. ergo 
+      <lb ed="#V" n="48"/>hono est hominem iustum esse. vel homo est hominem deo posito vel non 
+      <lb ed="#V" n="49"/>circunscripto iustum esse: nam vtrobique antecedens est verum. et consequens falsum. 
+      <lb ed="#V" n="50"/>Et innumerabiles alie instantie possent dari.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e970">
+      ⁋ Ad rationes 
+      <lb ed="#V" n="51"/>opi dicendum. ad primam respondetur negando minore. vbi 
+      scien<lb ed="#V" n="52" break="no"/>dum est quod non solum enunciationes ipse dicuntur vere vel false: sed 
+      <lb ed="#V" n="53"/>earum enuciabilia seu significata adequata: licet in alio et alio 
+      sen<lb ed="#V" n="54" break="no"/>su. vnde. P. in postpraedicamentis. capitulo de oppositis vult quod significa 
+      <lb ed="#V" n="55"/>ta propositionum contradictoriarum sint adinuicem opposita sicut et ipse 
+      pro<lb ed="#V" n="56" break="no"/>ositiones contradictorie. et infra dicit quod si vnum est verum et reliquum 
+      <lb ed="#V" n="57"/>falsum et dicuntur hocod vera et falsa quadam extrinseca denomina¬: 
+      <lb ed="#V" n="58"/>tione ab ipsis enunciabilibus veris et falsis. vnde illud 
+      dici<lb ed="#V" n="59" break="no"/>tur falsum enunciabile cuius enunciatio est falsa: vel esset falsa si 
+      <lb ed="#V" n="60"/>esset. et illud verum cuius enunciatio est vera vel esset vera si 
+      for<lb ed="#V" n="61" break="no"/>maretur. vel aliter. illud dicitur verum quod est enunciabile per veram enum 
+      <lb ed="#V" n="62"/>tiationem. illud falsum quod per falsam. isto modo dicimus quod hominem non 
+      <lb ed="#V" n="63"/>esse asinum est verum: et hominem esse asinum est falsum. Etiam si nia 
+      <lb ed="#V" n="64"/>alisenunciatio creata existeret.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1003">
+      ⁋ Possunt aut et omnia talia 
+      <lb ed="#V" n="65"/>vctustcestuibilia dici vera a veritate increata quae omnium eorum et 
+      <!--4.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 3-r b -->
+               <lb ed="#V" n="66"/>cuiuslibet eorum est verum iudicium. Et secundum hoc dicunt aug. in 
+      soli<lb ed="#V" n="67" break="no"/>loquiis et anselmus in de veritate in monolo. suo. quod antequam 
+      mun<lb ed="#V" n="68" break="no"/>dus fieret verum erat mundum fore: et si mundus interiret verum 
+      <lb ed="#V" n="69"/>esset mundum interisse: et ita est si nulla creatura esset verum esset 
+      <lb ed="#V" n="70"/>nullam creaturam esse: et quodlibet denominaretur verum a prima 
+      <lb ed="#V" n="71"/>veritate. Et iste modus dicendi potior est quia secundum modum 
+      prio<lb ed="#V" n="72" break="no"/>rem nullam creaturam esse non esset verum possibile: sed falsum 
+      <lb ed="#V" n="73"/>possibile: quod non videtur dandum.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1033">
+      ⁋ Sed tunc quomodo falsum 
+      <lb ed="#V" n="74"/>dicetur falsum cum nulla sit falsitas prima a qua ipsum 
+      pos<lb ed="#V" n="75" break="no"/>sit denominari falsum. huic dicitur quod nullum dicetur falsum: et quod de 
+      <lb ed="#V" n="76"/>talibus contradictoriis enunciabilibus non tmet atma: quod si vnum est verum 
+      <lb ed="#V" n="77"/>reliquum est falsum. Sed quod reliquum non est verum quamuis quarumlibet 
+      <lb ed="#V" n="78"/>contradictoriarum enunciationum vna sit vera et reliqua falsa.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1046">
+      ⁋ 
+      Pos<lb ed="#V" n="79" break="no"/>set tamen forte non inconuenienter dici quod reliquum est falsum. non 
+      <lb ed="#V" n="80"/>quidem falsum: quia falso signo significetur: sed quia non eo quod omnium 
+      <lb ed="#V" n="81"/>verorum est signum et a quo omne verum denotat ipsum 
+      significa<lb ed="#V" n="82" break="no"/>tur. vel 3o potest dici aliquod enunciabile esse verum: quia sic est si ipsum 
+      <lb ed="#V" n="83"/>est affirmatiuum tantum vel affirmatie enunciabile: vel quia sic non est si 
+      <lb ed="#V" n="84"/>est negatiuum. verbi gratia. hominem esse animal est verum. Quia homo est 
+      <lb ed="#V" n="85"/>imal. Et hominem non esse asium est verum: quia homo non est asinus: et sic de 
+      <lb ed="#V" n="86"/>aliis. Siue tamen hoc vel alio modo dicatur: patet quod non solum ipse 
+      pro<lb ed="#V" n="87" break="no"/>positiones dicuntur vere: sed etiam earum significata adequata: et de 
+      tali<lb ed="#V" n="88" break="no"/>bus veris sunt scientie tamquam de obiectis.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1070">
+      ⁋ Ad 2am nego antecedens. 
+      <lb ed="#V" n="89"/>Ad probationem dicendum quod nec conclusio demonstrationis nec res aliqua 
+      <lb ed="#V" n="90"/>extra est obiectum sed significatum adequatum conclusionis: quod quidem neque ipsum nec 
+      <lb ed="#V" n="91"/>aliqua eius pars est aliqua res sicut ibi: res sumit scilicet pro aliqua eentia vel 
+      <lb ed="#V" n="92"/>entitate existente in rerum natura.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1081">
+      ⁋ Ad 3am nego minorem. ad proba 
+      <lb ed="#V" n="93"/>tionem dico quod non assentimus proprie loquendo nisi significabili per 
+      <lb ed="#V" n="94"/>complexum: nec aliunde vere dicimur assentire alicui complexo 
+      <lb ed="#V" n="95"/>nisi quia assentimus ei quod ipsum significat: seu quod idem est: quia 
+      credi<lb ed="#V" n="96" break="no"/>mus sic esse vel non sic esse sicut ipsum enunciat.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1092">
+      ⁋ Confirmatio 
+      <lb ed="#V" n="97"/>non est contra sed facit pro conclusione 2a.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1097">
+      ⁋ Ad illud quod additur de propositione 
+      <lb ed="#V" n="98"/>per se non: patet quid est dicendum ex sensu dato quo dicimur 
+      asseni<lb ed="#V" n="99" break="no"/>re propositioni.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1105">
+      ⁋ Aliud quod additur non est contra quia arguit quod res extra non 
+      <lb ed="#V" n="100"/>est obiectum assensus: quod concedo. Si autem reducat contra propositum arguen 
+      <lb ed="#V" n="101"/>do quod si obiectum assensus esset significatum propositionis adequitum 
+      suffice<lb ed="#V" n="102" break="no"/>ret noticia illius: nec oporteret formare propositionem propter huiumod 
+      <lb ed="#V" n="103"/>assensum: dicendum quod vbi assensus est noticia vel causatur ex 
+      no<lb ed="#V" n="104" break="no"/>titia obiecti sicut sunt assensus intellectus et scientie ipsa 
+      noticia<lb ed="#V" n="105" break="no"/>obiecti assensus est et propositio quaedam et mentalis enuciatio: et vel 
+      <lb ed="#V" n="106"/>tra illam non est necessaria propositio alia praeter assensum quamuis aliquando ante 
+      <lb ed="#V" n="107"/>illam habeatur propositio idem significans quae non est noticia qua cognoscitur sic 
+      <lb ed="#V" n="108"/>esse sicut contingit in adiscente per doctrinam qui prius auditas 
+      pro<lb ed="#V" n="109" break="no"/>positiones concipit et consimiles format antequam cognoscat sic esse: vbi autem 
+      <lb ed="#V" n="110"/>assensus non est noticia nec causatur ex noticia obiecti sicut est de 
+      <lb ed="#V" n="111"/>assensu fidei: ibi est necessaria propositio vt significetur nobis cui assen 
+      <lb ed="#V" n="112"/>tire debeamus.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1136">
+      ⁋ Ad 4m patet ex responsione primi. Ad vltimum: 
+      <lb ed="#V" n="113"/>dicendum quod scibile dicitur demonstrabile idest per demonstrationem 
+      <lb ed="#V" n="114"/>ognoscibile: vnde demonstratio est syllogismus faciens scire: 
+      <lb ed="#V" n="115"/>tale autem cognoscibile non est conclusio demonstrationis: sed eius signi 
+      <lb ed="#V" n="116"/>ficatum. Satis tamen in vsu est vt dicatur aliqua conclusio scibilis et scita 
+      <lb ed="#V" n="117"/>et aliqua credita et aliqua opiniata: quorum dictorum verus sensus est 
+      <lb ed="#V" n="118"/>quod illius significatum est scitum illius creditum illius vero opiniatum: siue quia 
+      <lb ed="#V" n="119"/>creditur existinatur sic esse vt ille significant reddendo sina singularis. 
+      <lb ed="#V" n="120"/>Se secundo articulo dicit vnus doctorum quod in 
+      <lb ed="#V" n="121"/>theologia multiplex processus 
+      repe<lb ed="#V" n="122" break="no"/>ritur. aliquando enim proceditur ad conclusionem scitam vel sciendam vt cum que 
+      <lb ed="#V" n="123"/>ritur vtium deus sit vnus vel infinitus: et sic de aliis conclusionibus metaphycis 
+      <lb ed="#V" n="124"/>quae in theoemda tractantur.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1165">
+      ⁋ Aliquando vero proceditur ad conclusionem credendam 
+      <lb ed="#V" n="125"/>de qua mundum determinatum est quid tenendum vt cum queritur vtrum 
+      <lb ed="#V" n="126"/> scit distingueretur a filio si non procederet ab eo: et huiusmodi.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1172">
+      ⁋ Aliquando 
+      <lb ed="#V" n="127"/>atum ad conclusionem creditam et determinatam per fidem.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1177">
+      ⁋ In 2o processu 
+      <lb ed="#V" n="128"/>otet incedi quadruplici via. prima ex vna propositione credita et alia 
+      <lb ed="#V" n="129"/>necessaria.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1184">
+      ⁋ 2a ex ambabus creditis.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1188">
+      ⁋ 3a ex vna credita 
+      <lb ed="#V" n="130"/>et atia probabili.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1193">
+      ⁋ 4a ex ambabus probabilibus.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1196">
+      ⁋ 5a enim via 
+      <!--5.xml-->
+      <pb ed="#V" n="3-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>scilicet ex ambabus necessariis coincideret in primum processum: 
+      <lb ed="#V" n="2"/>qui est ad conclusionem sciendam: quoniam processus ex ambabus necessariis 
+      <lb ed="#V" n="3"/>scientificus est et facies scire.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1212">
+      ⁋ In primo processu acquiri 
+      <lb ed="#V" n="4"/>tur habitus metaphisicus et non theologicus: et primo 
+      <lb ed="#V" n="5"/>probatur: quia omnis demonstratiua noticia de deo ea de diuinis 
+      veri<lb ed="#V" n="6" break="no"/>tatibus est metaphysica: vt patet 6o meta. per Commentatorem domintem quod 
+      <lb ed="#V" n="7"/>ad scientiam diuinam pertinemt illa in quorum diffinitione po 
+      <lb ed="#V" n="8"/>nitur deus: sicut in diffinitione naturalium natuam.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1225">
+      ⁋ 2a probatur: quia ta 
+      <lb ed="#V" n="9"/>lis habitus non supponit fidem: quin immo cogeret intendum cuiuscumque 
+      <lb ed="#V" n="10"/>ad assensum. Sed theoemoda supponit fidem. iuxta illud Aug. contra 
+      <lb ed="#V" n="11"/>epistolam fundamenti. Ego fidem catholicam profiteor et per illam 
+      <lb ed="#V" n="12"/>me ad certam scientiam peruenturum esse presumo: et illo ysa. nisi 
+      cre<lb ed="#V" n="13" break="no"/>dideritis non intelligetis.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1238">
+      ⁋ In 2o processu quacumque via 
+      pro<lb ed="#V" n="14" break="no"/>cedatur non acquiritur theoemida: non enim ex prima vel 2a: quia ex am 
+      <lb ed="#V" n="15"/>babus creditis aut vna credita et alia necessaria non acqui 
+      <lb ed="#V" n="16"/>ritur alius habitus a fide. Nec etiam ex 3a vel ex 4a: quia et 
+      <lb ed="#V" n="17"/>ex ambabus probabilibus et ex altera tantum probabili acqui 
+      <lb ed="#V" n="18"/>ritur opinio tantum: theologia autem nec fides est vt patet per <ref xml:id="grvnZZ-d1e97-Rd1e1251" target="http://scta.info/resource/adt-l14-d1e1535" synch="92-158">Aug. 14. de 
+        <lb ed="#V" n="19"/>tri. qui hanc scientiam a fide distinguit</ref>: nec est est opinio: quia opinio 
+      <lb ed="#V" n="20"/>necessario est cum formidine: quae non stat cum fide: theopmida vero 
+      <lb ed="#V" n="21"/>necessario supponit fidem vt probatum est. ergo etc.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1262">
+      ⁋ In 3o  
+      <lb ed="#V" n="22"/>autem processu scilibet ad propositionem creditam et determinatam ex 
+      propositio<lb ed="#V" n="23" break="no"/>nibus scilicet probabilibus sumptis ex aliis scientiis: Cum est 
+      dissol<lb ed="#V" n="24" break="no"/>uuntur dubia et termini exponuntur acquiritur habitus proprie thec 
+      <lb ed="#V" n="25"/>logicus.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1273">
+      ⁋ Ex istis patet quod secundum hanc opinionem discursus proprie 
+      <lb ed="#V" n="26"/>theologicus est qui ex propositionibus probabilibus: vel saltem ex altera 
+      <lb ed="#V" n="27"/>probabili est ad conclusiones creditas: et de quibus iam determina 
+      <lb ed="#V" n="28"/>tum est per fidem: quid sit tenendum.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1282">
+      ⁋ Ex quo duo alia sequum 
+      <lb ed="#V" n="29"/>tur.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1287">
+      ⁋ primum est: quod principim theo modo sunt tantum modo propositiones probabiles in 
+      lu<lb ed="#V" n="30" break="no"/>mine naturali.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1292">
+      ⁋ 2m est. quod conclusiones proprie theologice sunt sole 
+      pro<lb ed="#V" n="31" break="no"/>positiones credite: et de quibus determinatum est quod sunt tenende 
+      <lb ed="#V" n="32"/>per fidem: quales sunt omnes articuli fidei.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1299">
+      ⁋ Et quia quodlibet 
+      prae<lb ed="#V" n="33" break="no"/>dictorum reputo falsum: idcirco contra opinionem istam: pono tres conclusionem 
+      <lb ed="#V" n="34"/>Quarum. Prima est quod nullus discursus: proprie theolo 
+      <lb ed="#V" n="35"/>gicus est ex propositionibus mere probabilibus: distinguendo 
+      proba<lb ed="#V" n="36" break="no"/>biles: contra per se notas vel immediatas. et est contra creditas vt disti 
+      <lb ed="#V" n="37"/>guit iste doctor.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1313">
+      ⁋ 2a quod propositiones probabiles non sunt principi 
+      <lb ed="#V" n="38"/>theomodo proprie sumpte.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1318">
+      ⁋ 3a quod non solum propositiones credite et iam 
+      <lb ed="#V" n="39"/>determinate vt credantur sunt conclusiones proprie theologice.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1323">
+      ⁋ 
+      Pri<lb ed="#V" n="40" break="no"/>mam conclusionem probo primo sic. nullus discursus ex se natus causare opinionem 
+      <lb ed="#V" n="41"/>tantum modo de sua conclusione seu de significato sue conclusionis est theologicuius proprie. Sed 
+      <lb ed="#V" n="42"/>omnis discursus ex mere probabilibus est huiusmodi ergo etc. maior patet: 
+      <lb ed="#V" n="43"/>quoniam omnis discursus proprie theologicus natus est causare theoiam 
+      <lb ed="#V" n="44"/>theomoda autem proprie sumpta etiam secundum istum non est opinio quin immo secundum 
+      <lb ed="#V" n="45"/>ipsum nec est ei compossibilis in eodem subiecto circa eandem conclusionem 
+      <lb ed="#V" n="46"/>minor probatur: quoniam secundum eundem ex ambabus probabilibus: immo 
+      <lb ed="#V" n="47"/>ex altera probabili qualiscumque sit reliqua acquiritur opri tantum.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1343">
+      ⁋ 2o 
+      <lb ed="#V" n="48"/>secundum istum doctorem nullus discursus ex ambabus 
+      euidenti<lb ed="#V" n="49" break="no"/>bus et necessariis est proprie theologicus. ergo nec aliquis ex 
+      am<lb ed="#V" n="50" break="no"/>babus probabilibus: probatur consequentia per dicta eiusdem: quoniam ratio quare 
+      <lb ed="#V" n="51"/>primus non est theologicus vt dicit est: quoniam habitus causatus ex 
+      <lb ed="#V" n="52"/>eo non supponit fidem: sed constat secundum eum quod opinio non supponit 
+      <lb ed="#V" n="53"/>fidem: immo nec eam secum compatitur: vt in eadem quaestione ipse dicit. et 
+      <lb ed="#V" n="54"/>ex tali discursu non nisi opinio acquiritur. ergo etc.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1361">
+      ⁋ 3o quemlibet 
+      <lb ed="#V" n="55"/>discursum ex propositionibus probabilibus ad conclusionem creditam 
+      contin<lb ed="#V" n="56" break="no"/>git elici mediante habitu ab hominie carente penitus theo 
+      <lb ed="#V" n="57"/>proprie dicta: ergo nullus discursus ex probabilibus ad conclusionem 
+      cre<lb ed="#V" n="58" break="no"/>ditam est theologicus: et per consequens est vniversaliter nullus ex probabilibus 
+      <lb ed="#V" n="59"/>ad qualemcumque sit conclusionem: sicut patet ex dictis istius: consequentia probatur: 
+      <lb ed="#V" n="60"/>qui discursus et habitus quo mediante elicitur sunt vnigenei 
+      <lb ed="#V" n="61"/>ita quod si vnus est phycus vel metaphysicum aut qualiscumque: talis est et 
+      <lb ed="#V" n="62"/>alius: non enim discursus elicitus mediante habitu geometrico 
+      <lb ed="#V" n="63"/>est metaphisicus vel moralis. nec elicitus mediante opi. est 
+      <lb ed="#V" n="64"/>scientificus. Constat autem quod discursus elicitus a carente theomia: 
+      <lb ed="#V" n="65"/>mediante tamen aliquo habitum non est elsicitus mediante theomisa: sed 
+      <!--5.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 3-v b -->
+               <lb ed="#V" n="66"/>mediante habitu. qui non est theomius. Antecedens probatur. Nam gentilis 
+      <lb ed="#V" n="67"/>philosophus carens prorsus fide. et per consequens theo od secundum istum potest ex 
+      pro<lb ed="#V" n="68" break="no"/>babilibus concludere quod cetera sunt a deo facta: quam 
+      <lb ed="#V" n="69"/>conclusionem nos credimus ad bonum intellectum 
+      lo<lb ed="#V" n="70" break="no"/>quendo. Et huiusmodi discursus frequentare potest donec 
+      <lb ed="#V" n="71"/>in eo habitus generetur: quo mediante postmodum prompte et 
+      <lb ed="#V" n="72"/>faciliter in similes discursus prosiliet.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1409">
+      ⁋ Et si dicat quod iste non 
+      <lb ed="#V" n="73"/>procedit ad conclusionem a se creditam. quamuis creditam a nobis. Doctor 
+      <lb ed="#V" n="74"/>autem iste intelligit primo:
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1417">
+      ⁋ Contra. ponatur quod iste fiat christianus et cre 
+      <lb ed="#V" n="75"/>dat hanc conclusionem quam prius opiniabatur: nec tamen studeat in theomia: 
+      con<lb ed="#V" n="76" break="no"/>stat quod ipse equae faciliter postea exibit in similem discursum: et to 
+      <lb ed="#V" n="77"/>precedet ad conclusionem a se creditam: nec tamen habebit habitum theomordo: nisi 
+      <lb ed="#V" n="78"/>forsan diceretur quod habitus qui prius non erat theoia superueniente 
+      <lb ed="#V" n="79"/>fide factus sit theous: quod friuolum est.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1430">
+      ⁋ Consimiliter itaque dicendum est 
+      <lb ed="#V" n="80"/>quod ex similibus discursibus a christiano theologo frequentatis ante 
+      <lb ed="#V" n="81"/>quam habuerit habitum non acquiritur theoloeria: sed alius aliquis habitus 
+      <lb ed="#V" n="82"/>quem etiam sine theologia posset acquirere.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1439">
+      ⁋ 4o ex dictis opinantis 
+      <lb ed="#V" n="83"/>sic. nullus discursus ex probabilibus ad conclusionem credendam nondum 
+      <lb ed="#V" n="84"/>determinatam est theologicus: ergo nec discursus ex probabilibus 
+      <lb ed="#V" n="85"/>ad conclusionem creditam. antecedens patet: ex dictis eius recitatis. consequentiam 
+      probor<lb ed="#V" n="86" break="no"/>uoniam si illa conclusio redenda determinetur per ecclesiam: et fiat 
+      cre<lb ed="#V" n="87" break="no"/>dita: tunc similis processus omnino ei qui prius erat ad credendam 
+      <lb ed="#V" n="88"/>erit ad credita: et mediante eodem hitum elicietur: et tamen ille 
+      ha<lb ed="#V" n="89" break="no"/>bitus non erit theologia: nisi diceretur quod opinio et habitus non theologi 
+      <lb ed="#V" n="90"/>cus superueniente determinatione eclarie fiat theologia: quod nul 
+      <lb ed="#V" n="91"/>lus diceret compos mentis.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1461">
+      ⁋ 5o si theologicus discursus esset 
+      <lb ed="#V" n="92"/>ex propositionibus probabilibus in luine naturali: sequeretur quod neganti 
+      sa<lb ed="#V" n="93" break="no"/>cram scripturam: et maxime quo ad dicta eius praecitise credita: 
+      proba<lb ed="#V" n="94" break="no"/>ri posset theologice veritas theologica: consequens est falsum: consequentia patet. 
+      <lb ed="#V" n="95"/>quoniam adhuc relinquarentur propositiones probabiles: ex quibus potest argui 
+      <lb ed="#V" n="96"/>eodem modo quo si assentiret sacre scripture: falsitas consequentis proba 
+      <lb ed="#V" n="97"/>tur: ex intentione bti dionysii in de dici non. ibi enim cum 
+      probas<lb ed="#V" n="98" break="no"/>set consubsiectalitatem trium personarum divinarum ex auctoritatibus sacre 
+      <lb ed="#V" n="99"/>scripture ait. Si enim est aliquis diuinis prorsus eloquiis 
+      in<lb ed="#V" n="100" break="no"/>surgens longe erit omnino a sapientia qua apud nos est: alia autem 
+      <lb ed="#V" n="101"/>translatio habet. a nostra philosophia: quod idem importat: et nisi ei cure sit 
+      <lb ed="#V" n="102"/>divine sapiene eloquiorum quo modo nos curabimus ei manum porrigere 
+      <lb ed="#V" n="103"/>ad theologicam scientiam. vbi alia translatio habet. quo modo nobis cura 
+      <lb ed="#V" n="104"/>sit istius manuductionis ad theologicam scientiam et sequitur. Si 
+      <lb ed="#V" n="105"/>autem ad eloquiorum veritatem mentem adhibet iste: nos et canone et 
+      <lb ed="#V" n="106"/>luine vtentes ad responsionem vt potentes sumus ibimus. et ibi vocat 
+      <lb ed="#V" n="107"/>canonem et lumen ipsam scripturam: et subdit. Est enim: tamen ex 
+      di<lb ed="#V" n="108" break="no"/>uinis eloquiis divinas declarationes assumentes vt quandam 
+      <lb ed="#V" n="109"/>rectum optimam veritatis etc.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1503">
+      ⁋ Ex istis patet: quod secundum intentionem 
+      <lb ed="#V" n="110"/>bti dionysu quod non assentienti sacro canoni theologice proba 
+      <lb ed="#V" n="111"/>ri non potest veritas illa quae secundum istum doctorem est propriissime dicitur 
+      theo<lb ed="#V" n="112" break="no"/>ogica: et idem iudicium est de aliis theologicis veritatibus.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1512">
+      ⁋ 2a  
+      <lb ed="#V" n="113"/>probatur ex prima: quia si propositiones probabiles essent principio in theomoido: 
+      proces<lb ed="#V" n="114" break="no"/>sus ex talibus ad conclusiones theologicas essent proprie theologice. 
+      <lb ed="#V" n="115"/>sed oppositum huius est probatum. ergo etc.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1522">
+      ⁋ 2o si sic esset sequeretur quod theo 
+      <lb ed="#V" n="116"/>logia proprie supta subalternaretur aliis habitibus huabuanis et 
+      <lb ed="#V" n="117"/>non qualibuscumque sed opinionibus: quod nimis derogat eius 
+      digni<lb ed="#V" n="118" break="no"/>tati. patet consequentia quia sumeret ab illis principio sua.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1531">
+      ⁋ 3am conclusionem 
+      probo<lb ed="#V" n="119" break="no"/>sic. omnis conclusio sequens ex propositionibus vere theologicis est conclusio 
+      theolo<lb ed="#V" n="120" break="no"/>gica. patet: quoniam conclusiones et principim sunt vnigenea. sed aliqua conclusio non 
+      deter<lb ed="#V" n="121" break="no"/>minata et huusmodi ergo etc. probatur minor: quoniam ex dictis sacre 
+      scri<lb ed="#V" n="122" break="no"/>pture quae sunt propositiones vere theologice sequun multe conclusiones non 
+      <lb ed="#V" n="123"/>determinate per ecclaiam ad credendum. vnde ista. s scilicet procedit a patre 
+      <lb ed="#V" n="124"/>et filio. antequam esset determinata ex eisdem sacre scripture dictis 
+      <lb ed="#V" n="125"/>sequebatur ex quibus sequitur postquam est determinata.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1549">
+      ⁋ Confirma 
+      <lb ed="#V" n="126"/>tur: quoniam ideo ecclesia praecise eam determinauit: quia vidit eam sequi 
+      <lb ed="#V" n="127"/>necessario ex dictis sacre scripture.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1556">
+      ⁋ Respeno ergo ad 
+      articu<lb ed="#V" n="128" break="no"/>lum quod discursus proprie theologicus est qui constat ex dictis site 
+      <lb ed="#V" n="129"/>propositionibus in sacra scriptura contentis: vel ex his que 
+      dedu<lb ed="#V" n="130" break="no"/>cuntur ex eis: vel saltem ex altera huius: istud probat prims  
+      <!--6.xml-->
+      <pb ed="#V" n="4-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>auctoritate praeallegata beati dionysii: vult enim quod non 
+      as<lb ed="#V" n="2" break="no"/>sentienti eloquiis sacre scripture non potest manuductio fie 
+      <lb ed="#V" n="3"/>ri ad theologicam scientiam: cum ergo non aliud sit manuductio ad  
+      <lb ed="#V" n="4"/>theologicam scientiam quam discursus gignitiuus theologice scientie qui 
+      <lb ed="#V" n="5"/>solus dicitur proprie theous: sicut etiam ille tantum modo dicitur geometricus pe 
+      <lb ed="#V" n="6"/>quem acquiritur geotemoia: sequitur quod nullus discursus non procedens 
+      <lb ed="#V" n="7"/>ex dictis sacre scripture: vel ex his quae deducuntur ex eis est 
+      <lb ed="#V" n="8"/>theologicus: patet consequentia quoniam si alius esset: tunc ex concesser illis ex 
+      <lb ed="#V" n="9"/>quibus costaret posset adhuc theologice argui contra non ad 
+      <lb ed="#V" n="10"/>quiescentem sacre scripture: si autem nullus alius est. ergo ille est 
+      <lb ed="#V" n="11"/>qui ex sacra scriptura procedit vt dictum est. et hec consequentia patet: quoniam 
+      <lb ed="#V" n="12"/>potingit aliquem esse discursum theologicum.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1598">
+      ⁋ Confirmat etiam 
+      <lb ed="#V" n="13"/>hoc ex alia parte auctoritatis qua ait. Si aut ad eloquiorum 
+      <lb ed="#V" n="14"/>veritatem mentem adhibeat iste: et nos et canone et lumine vtem 
+      <lb ed="#V" n="15"/>tes ad responsionem vt potentes sumus ibimus. et similiter ex eo quod subi 
+      <lb ed="#V" n="16"/>dit. Et enim in diuinas declarationes assumentes etc.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1609">
+      ⁋ 2o idem 
+      <lb ed="#V" n="17"/>probatur ex communi omnium conceptione. Nam omnes arbitrantur tunc solum 
+      <lb ed="#V" n="18"/>theolog. ce aliquid probare cum ex dictis probant sacre scripture. 
+      <lb ed="#V" n="19"/>vnde si. verbi gratia quaratur vtium deus sit eternus: et vnus probet quod 
+      <lb ed="#V" n="20"/>sic ex eternitate motus sicut processit philosophus. 12. meta. alius autem 
+      <lb ed="#V" n="21"/>probet ex eo quod scriptum est. Io p. in principio erat verbum etc. sicutpro 
+      <lb ed="#V" n="22"/>bat aug. de fide ad peterus vel si queratur: vtrum deus sit aliquo 
+      <lb ed="#V" n="23"/>mutabilis et probet aliquis quod non per rationem sumptam ex motu 
+      <lb ed="#V" n="24"/>sicut incessit. P. S. phycorum. alius vero per illud quod scriptum est exo. Ego 
+      <lb ed="#V" n="25"/>sum qui sum. et praes. Tum autem idem ipse es etc. sic probat <ref xml:id="grvnZZ-d1e97-Rd1e1630">Aug. 5. de tri.</ref> 
+               <lb ed="#V" n="26"/>et <ref xml:id="grvnZZ-d1e97-Rd1e1636">de fide ad petrus</ref> aut per illud aporo. prime ad thy. qui solus habet 
+      <lb ed="#V" n="27"/>immortalitate: sicut idem Aug. probat contra maxim. li.r 3. non est dubium 
+      <lb ed="#V" n="28"/>quod omnes consentient primas vtriusque conclusionis probiones non esse 
+      theolo<lb ed="#V" n="29" break="no"/>gicas: et similiter quaslibet alias que ex propositionibus sumptis ex huanis 
+      <lb ed="#V" n="30"/>scientiis procedent. Reliquas vero et similes quascumque dicerent esse 
+      <lb ed="#V" n="31"/>theologicas.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1651">
+      ⁋ 3o vt doctor cuius opri reprobata est pro se 
+      assu<lb ed="#V" n="32" break="no"/>mit: et verum est: processus <ref xml:id="grvnZZ-d1e97-Rd1e1655">Aug. in li. de tri.</ref> ad declarandum quod 
+      <lb ed="#V" n="33"/>deus est trinus et vnus est vere theologicus. Similiter proces 
+      <lb ed="#V" n="34"/>sus eiusdem contra faustum ad probandum christum natum fuisse ex 
+      maria<lb ed="#V" n="35" break="no"/>vergine: et spiritum sanctum fuisse locutum per prophetas: vt ipse as 
+      <lb ed="#V" n="36"/>sumit est vere theologicus. Sed rogo illum reuerendum magstm vbi 
+      <lb ed="#V" n="37"/>in predictis libris praedictas veritates probauit Augu. ex proba 
+      <lb ed="#V" n="38"/>bilibus propositionibus aut aliis qualibuscumque ex mundanis sumptis do 
+      <lb ed="#V" n="39"/>ctrinis: puto quod inuenire non poterit: sed hoc solum inueniet quod ex 
+      <lb ed="#V" n="40"/>auctoritatibus probauit scripture. hoc confirmat est dictum proprium 
+      <lb ed="#V" n="41"/>Augu. quod idem doctor pro se allegat: sed inaduertenter vt esti 
+      <lb ed="#V" n="42"/>morcum non pro eo: sed prorsus contra eum militet: ait enim <ref xml:id="grvnZZ-d1e97-Rd1e1680">Augu. 
+        <lb ed="#V" n="43"/>primo de tri.</ref> 
+               <quote xml:id="grvnZZ-d1e97-Qd1e1685" source="http://scta.info/resource/adt-l1-d1e36" synch="3-4">Omnes quos legere potui qui ante me scripserunt 
+        <lb ed="#V" n="44"/>de trinitate que deus est: divinorum librorum veterum et nouorum 
+        ca<lb ed="#V" n="45" break="no"/>tholici tractatores hec intendunt secundum scripturas docere 
+        <lb ed="#V" n="46"/>quod pater et filius et spiritus sanctus vnius eiusdem subiecte: inseparabili 
+        equal<lb ed="#V" n="47" break="no"/>tate: diuinam insinuent vnitatem</quote>: non ait secundum alias scientias 
+      <lb ed="#V" n="48"/>vel doctrinas aut probabiles propositiones: sed secundum scripturas 
+      <lb ed="#V" n="49"/>inquit suiciter divinas. huc accedit illud dictum magistri quod 
+      <lb ed="#V" n="50"/>etiam iste doctor pro se allegat. Ait enim <ref xml:id="grvnZZ-d1e97-Rd1e1703">magister in prologo</ref>
+               <lb ed="#V" n="51" break="no"/>se intendere fide nostram <quote xml:id="grvnZZ-d1e97-Qd1e1708" source="http://scta.info/resource/pll1prol-qifacc" synch="11-14">dauidice turris clipeis <unclear>communire</unclear>
+               </quote> 
+               <lb ed="#V" n="52"/>Sed numquid per clipeos turris dauidice intelligit propositiones 
+      pro<lb ed="#V" n="53" break="no"/>babiles: aut etiam in doctrinis aliis probatas: et non potius 
+      au<lb ed="#V" n="54" break="no"/>ctoritates sacre scripture: Ex hoc vlterius patet quod principio theo mo 
+      <lb ed="#V" n="55"/>sic sumpte qua scilicet per theologicos discursus acquiritur sunt ipse sa 
+      <lb ed="#V" n="56"/>cri canonis veritates: quoniam ad ipsas stat vltimata resolutio 
+      <lb ed="#V" n="57"/>totius discursus theologici et ex eis primo cuncte conclusiones theo modo 
+      de<lb ed="#V" n="58" break="no"/>ducuntur: conclusiones aut theologicas distinguendo contra principio dico omnes 
+      <lb ed="#V" n="59"/>veritates non secundum se formaliter in sacra scriptura contentas: sed 
+      <lb ed="#V" n="60"/>ex contentis in ipsa de necessitate sequentes: et hoc siue sint 
+      <lb ed="#V" n="61"/>articuli fidei siue non: siue est sint scibiles vel scite per scientiam 
+      <lb ed="#V" n="62"/>aliam vel non: siue est sint determinate per ecclsariam siue non. Cete 
+      <lb ed="#V" n="63"/>rarum autem veritatum: scilicet non sequentium ex dictis sacre scriptu 
+      <lb ed="#V" n="64"/>re nullam dico esse conclusionem theologicam: hoc autem probatur ex dictis 
+      <lb ed="#V" n="65"/>Augustini. 14. de tri. vbi dicit se <quote xml:id="grvnZZ-d1e97-Qd1e1744" source="http://scta.info/resource/adt-l14-d1e1535" synch="74-109">huic scientie tribuere non 
+      <!--6.xml-->
+      <cb ed="#V" n="b"/> 
+                  <!-- 4-r b -->
+                  <lb ed="#V" n="66"/>quicquid ab homine sciri potest in rebus humanis: sed illud tantum 
+      <lb ed="#V" n="67"/>quo fides saluberrima quae ad veram beatitudinem ducit gignitur. 
+      <lb ed="#V" n="68"/>nutritur defenditur: roboratur</quote>. sed constat quod quodlibet tale vel expresse 
+      <lb ed="#V" n="69"/>ecundum se continetur in sacra scriptura vel ex contentis in ea de 
+      <lb ed="#V" n="70"/>ducitur: alioquin non ipsa sufficeret ad nostram salutem et nostre 
+      de<lb ed="#V" n="71" break="no"/>fensionem fidei etc. quod est contra <ref xml:id="grvnZZ-d1e97-Rd1e1767">Aug. 2o de doc. chri.</ref> dicentem 
+      <lb ed="#V" n="72"/>quod <quote xml:id="grvnZZ-d1e97-Qd1e1772" source="http://scta.info/resource/addc-l2-d1e680" synch="52-65">quicquid homo extra didicerit si noxium est ibi damnatur: si vtilo 
+        <lb ed="#V" n="73"/>ibi inuenitur</quote>.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1778">
+      ⁋ Sed contra hoc quod dictum est de principiis 
+      theo<lb ed="#V" n="74" break="no"/>ogie potest argui primo: quia vt dicitur primo topicorum. principium sunt ergo 
+      <lb ed="#V" n="75"/>non per alia: sed per seipsa habent fidem. Sed auctoritates contente 
+      <lb ed="#V" n="76"/>in sacro canone non per seipsas: sed per aliud habent fidem. puta per 
+      <lb ed="#V" n="77"/>auctoritatem ecclesie. iuxta illud Aug. contra epistolam fundamen 
+      <lb ed="#V" n="78"/>ti. Ego euange mdo non crederem nisi me ecclesie catholice 
+      con<lb ed="#V" n="79" break="no"/>mouerent auctoritates. et infra catholicis percipientibus 
+      euan<lb ed="#V" n="80" break="no"/>gelio credidi: et idem pluries seu simile dicit.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1796">
+      ⁋ 2o contra idem potest 
+      <lb ed="#V" n="81"/>argui secundum rationes quibus doctor cuius opinio recitata est probat quod 
+      <lb ed="#V" n="82"/>articuli fidei non sint principim theologie. constat enim quod 
+      multi<lb ed="#V" n="83" break="no"/>articuli expresse secundum se continentur in sacra scriptura. etiam quia ad 
+      <lb ed="#V" n="84"/>quelibet in scriptura contenta possunt rationes eius applicari. 
+      Ar<lb ed="#V" n="85" break="no"/>guit autem sic. nulla scientia procedit ad sua principim prima concludentia: 
+      <lb ed="#V" n="86"/>sed potius ex eis ad aa: sed theomodia procedit ad concludendos 
+      <lb ed="#V" n="87"/>articulos: et similiter aa quae expresse in sacra scriptura continentur. 
+      <lb ed="#V" n="88"/>vnde omnes doctores theologici formant quaestiones de articulis 
+      fi<lb ed="#V" n="89" break="no"/>dei: vt vtrum deus sit tantum vnus. vtrum omimpotens. immensus: et sic de aliis 
+      <lb ed="#V" n="90"/>articulis et contentis in sacro canonion. et ad eas declarandum et 
+      <lb ed="#V" n="91"/>concludendum procedunt. ergo etc.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1822">
+      ⁋ 3o quod vt patet ex intentione <ref xml:id="grvnZZ-d1e97-Rd1e1824">Aug. 14. de 
+        <lb ed="#V" n="92"/>tri.</ref> 
+               <ref xml:id="grvnZZ-d1e97-Rd1e1829">superius allegata</ref>. Intentio habitus theologici est <quote xml:id="grvnZZ-d1e97-Qd1e1832" source="http://scta.info/resource/adt-l14-d1e1535" synch="106-109">fidem gigne 
+        <lb ed="#V" n="93"/>re: defendere: et roborare</quote>: sed hoc non faceret nisi procederet 
+      <lb ed="#V" n="94"/>ad articulos tamquam ad conclusiones ergo etc.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1840">
+      ⁋ 4o: quia sicut supra tactum est 
+      <lb ed="#V" n="95"/>in recitando opinionem setur quod theologia esset fides vel opinio: et vtrumque 
+      <lb ed="#V" n="96"/>est falsum.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1847">
+      ⁋ Ad primum dico ad maiorem quod non est intelligendum quod 
+      <lb ed="#V" n="97"/>prima non habent fidem per alia: sic quod nihil aliud ab ipsis principiis 
+      <lb ed="#V" n="98"/>sit causa assentiendi eis. Nam hoc est secumum: sicut patet in principiis quae sumuntur 
+      <lb ed="#V" n="99"/>ex experientiis singularium quorum assensus causa est experimentum: cuius 
+      <lb ed="#V" n="100"/>causae est fuerunt experientie multe singularium: vt dicitur <ref xml:id="grvnZZ-d1e97-Rd1e1857">2o posteriorum 
+        <lb ed="#V" n="101"/>in fine</ref>: et in proheo: meta. Sed intelligendum est quod non habent fidem per 
+      <lb ed="#V" n="102"/>alia supicite principio ex quibus ipsa demonstrentur: ita quod assensus illorum 
+      <lb ed="#V" n="103"/>aliorum sit per se causa assensus circa ipsa. tunc ad hunc senum nego 
+      <lb ed="#V" n="104"/>maiorem. nec auctoritas Augu. est contra. Quoniam non dixit se credere 
+      <lb ed="#V" n="105"/>euanguilario per assensum quem habeat ad aliquod aliud principium ex quo 
+      euange<lb ed="#V" n="106" break="no"/>lium demonstraretur vel syllogisti probetur esse verum: sed solum ex auctoritate 
+      <lb ed="#V" n="107"/>ecclesie tamquam ex causa mouente ipsum ad fidem euangels. Et est 
+      <lb ed="#V" n="108"/>quaesi simile huic dicto quod iste vel alius dicere potuisset: 
+      <quote xml:id="grvnZZ-d1e97-Qd1e1878">non crede<lb ed="#V" n="109"/>rem euangelio nisi me ecclarie scientas commoueret</quote>. vel si tempore christi: 
+      <lb ed="#V" n="110"/>dixisset aliquis credentium: non credum euam modo nisi christi 
+      miracula<lb ed="#V" n="111" break="no"/>me mouerent. Ex quibus dictis etsi fidei euang. causa aliqua 
+      assigna<lb ed="#V" n="112" break="no"/>retur in talibus: non tamen aliquod principium prim cuius fides causa esset vt euango 
+      cre<lb ed="#V" n="113" break="no"/>deretur.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1893">
+      ⁋ Dices immo scilicet istud. omne quod eccla iubet esse credendum: est 
+      <lb ed="#V" n="114"/>credum quem ex ino principio cum miori iam habita per experientiam euantum iubet 
+      <lb ed="#V" n="115"/>ecclaria esse credendum concluditur euangelium esse verum atque credendum: 
+      <lb ed="#V" n="116"/>et ita esse sicut ipsum enunciat: et simili modo probatur de qualibet parte scriptu 
+      <lb ed="#V" n="117"/>re.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1904">
+      ⁋ Rspono quod quaeuis possibile fuerit Augu. ex tali principio credere 
+      <lb ed="#V" n="118"/>euangelio: non hoc tamen necessario concluditur ex eius autoritle: posito tamen quod 
+      <lb ed="#V" n="119"/>ita fuerit adhuc: non tamen sequitur quod illud fuerit in eo 
+      <lb ed="#V" n="120"/>principium per se theologicum. ita quod assensus 
+      theologi<lb ed="#V" n="121" break="no"/>cus acquisitus in eo per aliquem theologicum discursum 
+      redu<lb ed="#V" n="122" break="no"/>ceretur vltimate in ipsum per se: quod patet ex duobus.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1917">
+      ⁋ Primo quidem: quoniam 
+      <lb ed="#V" n="123"/>respectu conclusionis theologice seu significati conclusionis eiusdem rationis 
+      di<lb ed="#V" n="124" break="no"/>scursum ipse habuit quem humerunt vel habuissent si eam 
+      theo<lb ed="#V" n="125" break="no"/>logice conclusissent primi theologi qui cum christo fuerunt. Constat 
+      <lb ed="#V" n="126"/>aut quod illi vtpote apostoli non habebant pro principio sui discursus 
+      theo<lb ed="#V" n="127" break="no"/>logici. Sen quod ecclara iussit esse credendum etc. quin potius huissent 
+      <lb ed="#V" n="128"/>illud vel hoc de futuro. omne quod ecclaria iubet etc. pro conclusione 
+      theolo<lb ed="#V" n="129" break="no"/>gica deducibili necessario ex doctria christi. ergo nec Augu. nec alius 
+      <lb ed="#V" n="130"/>theologus habent illam proposionem pro per se principio ue theologie. secundum quod 
+      <!--7.xml-->
+      <pb ed="#V" n="4-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>de theo mida est nunc sermo.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1946">
+      ⁋ 2o quia si illud esset per se principium 
+      discur<lb ed="#V" n="2" break="no"/>sus theologici sequitur quod quilibet articulus fidei 
+      theologi<lb ed="#V" n="3" break="no"/>ce concluderetur sic arguendo. Se quod ecclesia iubet etc. sed 
+      huc<lb ed="#V" n="4" break="no"/>articulum. vbi gratia.s scilicet procedit a patre et filio. ecclesia iubet esse 
+      cre<lb ed="#V" n="5" break="no"/>dendum. ergo etc. Et sic de quolibet. Sed constat quod quamuis vere et bene 
+      <lb ed="#V" n="6"/>concludatur: non tamen theologice: nisi illa maior sumatur tamquam conclusio 
+      al<lb ed="#V" n="7" break="no"/>terius theologici discursus: quo scilicet ipsa ex sacra scriptura 
+      <lb ed="#V" n="8"/>sit deducta: alioquin quilibet fidelis et nouiter baptimatus adul 
+      <lb ed="#V" n="9"/>tus qui numquam legit vel audiuit sacramn scripturam recipiens 
+      sim<lb ed="#V" n="10" break="no"/>bolum credendum ab eccluara: et habens illud principium theologice posset 
+      <lb ed="#V" n="11"/>concludere quemlibet articulum fidei: et sic absque studio a 
+      no<lb ed="#V" n="12" break="no"/>ticia sacre scripture foret theologus: quod nullus sapiens de 
+      <lb ed="#V" n="13"/>ceret sicut puto.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1975">
+      ⁋ Ad 2am concedo maiorem de praedicatione 
+      sim<lb ed="#V" n="14" break="no"/>pliciter: quamuis elenchice possen illam probare: minorem nego si 
+      in<lb ed="#V" n="15" break="no"/>telligatur de articulis expresse et formaliter in sacra scriptura 
+      <lb ed="#V" n="16"/>contentis. vnde si theologo negetur deum esse tantum vnum vel 
+      omnin<lb ed="#V" n="17" break="no"/>potentem nulla probatio ei restat alia nisi ostenderet hoc esse 
+      <lb ed="#V" n="18"/>scriptum in canon.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e1988">
+      ⁋ Ad probandum aut alios articulos non secundum se 
+      <lb ed="#V" n="19"/>contentos in sacra scriptura vtique theologice procedit ex 
+      di<lb ed="#V" n="20" break="no"/>ctis sacre scripture. Quod autem adducitur de doctoribus et 
+      dispu<lb ed="#V" n="21" break="no"/>tantibus quaestiones formatas de articulis non valet contra propositum: quoniam 
+      <lb ed="#V" n="22"/>cum ipsi tales propositiones inducunt non ex scriptura: non 
+      fa<lb ed="#V" n="23" break="no"/>ciunt hoc immediate per habitum theologicum: sed per alium vt per phycum 
+      <lb ed="#V" n="24"/>vel per metaphisicum. aut alium aliquem. vnde purus phisicus qui numquam 
+      <lb ed="#V" n="25"/>vidisset canonem biblie. similes ratioes faceret: et forte aliquando for 
+      <lb ed="#V" n="26"/>tiores: et tamen talem nullus diceret habere theologiam.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e2009">
+      ⁋ Confirma 
+      <lb ed="#V" n="27"/>tur est illud per ipsum met arguentem: vult enim ipse quod nullus discur 
+      <lb ed="#V" n="28"/>sus ex notis et necessariis est theologicus: et tamen constat quod 
+      docto<lb ed="#V" n="29" break="no"/>res disputantes vtrum deus sit infinitus et eternus: si possunt probans 
+      <lb ed="#V" n="30"/>illa ex necessis et euidentibus et multo libentius quam ex probabilibus tantum 
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e2020">
+               <lb ed="#V" n="31"/>⁋ Ad 3am dicendum quod fidem gignit theologus inquantum theologus vel 
+      <lb ed="#V" n="32"/>probando ex sacra scriptura: si illud non contineat secundum se in ipsa vel si 
+      <lb ed="#V" n="33"/>continetur ostendendo vbi: et exponendo scripturam et remouendo du 
+      <lb ed="#V" n="34"/>bia. non autem probando per dictam probabilia vel huiusmodi inquantum theologus 
+      <lb ed="#V" n="35"/>est nisi forte pro tanto diceretur hoc facere: quia alie scientie ancillant et 
+      <lb ed="#V" n="36"/>subseruiunt sacre scripture iuxta illud prouerbiorum. Misit 
+      <lb ed="#V" n="37"/>ancillas suas vt vacarent ad artem. Et ideo ipsa quasi architecta 
+      <lb ed="#V" n="38"/>eis vtitur. in obsequium suum.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e2040">
+      ⁋ Ad 4m concedo quod theolomia est fides 
+      <lb ed="#V" n="39"/>in sensu qui dabitur articulo 4o huius quaestionis. vbi etia respondebitur 
+      <lb ed="#V" n="40"/>ad auctoritatem Aug. qua adducta est in contrarium. 
+      <lb ed="#V" n="41"/>unc tertio videndum est quis ex actibus intellectu 
+      <lb ed="#V" n="42"/>proprie dicitur scientia: accipiendo scientiam pro actu 
+      <lb ed="#V" n="43"/>2o qui dicitur scire.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e2053">
+      ⁋ Similiter quis habitus dicitur proprie scientia: et est optia inq 
+      <lb ed="#V" n="44"/>sitio huius: quia est circa obiectum scientie. quod proprie est illud quod significatur per 
+      <lb ed="#V" n="45"/>conclusionem demonstrationis: vt patet ex primo articulo. intellectus aut 
+      <lb ed="#V" n="46"/>habet actum enunciandi et actum cognoscendi et actum credendi seu 
+      <lb ed="#V" n="47"/>assentiendi. nam per ipsam conclusionem enunciat sic esse si est affirmatiua 
+      <lb ed="#V" n="48"/>vel non sic esse si est negatiua. cognoscit est sic esse sict enunciat. vnde 
+      <lb ed="#V" n="49"/>primo posterio. dicitur quod scire est per demonstrationem intelligere. et quod 
+      demon<lb ed="#V" n="50" break="no"/>stratio est syllogismus faciens scire: non solum aut enunciat et cogno 
+      <lb ed="#V" n="51"/>scit sic esse: sed etiam credit seu assentit quod ita est: vnde paulo post dicit 
+      <lb ed="#V" n="52"/>philosophus: quod oportet credere et scire rem in huiusmodi habendo syllogismum quem 
+      <lb ed="#V" n="53"/>vocamus demonstrationem. et idem consequenter repetit de conclusionibus et de 
+      princi<lb ed="#V" n="54" break="no"/>piis. et Augu. in soliloquiis libro lo De inquit quod scimus fortasse 
+      <lb ed="#V" n="55"/>et credere dicimur: at non omne quod credimus est scire.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e2082">
+      ⁋ potest 
+      <lb ed="#V" n="56"/>aut esse dubium: vtrum alio actu enunciet et alio cognoscat et alio 
+      as<lb ed="#V" n="57" break="no"/>sentiat: et si sic: quis horum trium actuum proprie scientia apellatur.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e2089">
+      ⁋ poteos 
+      <lb ed="#V" n="58"/>si quidem primo videri alicui quod ipsa conclusio deonstrationis existens in intellectum est 
+      <lb ed="#V" n="59"/>actus distinctus ab actu assentiendi et ab actu cognoscendi. 
+      <lb ed="#V" n="60"/>prim quidem quia contingit intellectum formare huiusmod conclusionem et ignorare vtrum 
+      <lb ed="#V" n="61"/>sic sit sicut enunciat. Et similiter non assentire: sed dubitare: quin immo et 
+      <lb ed="#V" n="62"/>dissentire. vbi gratia. multi formant in mente istam proposionem. dya 
+      <lb ed="#V" n="63"/>meter est incommensurabilis coste: qui tamen non cognoscunt sic esse 
+      <lb ed="#V" n="64"/>nec assentiunt: immo sicut philosophus in prohemio meta. dicit. mirum vert 
+      <lb ed="#V" n="65"/>esse omnibus si quid mimmorum non mensuratur: et ideo multi dubitans 
+      <lb ed="#V" n="66"/>et forte credut oppositum.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e2112">
+      ⁋ Confirmatur: quia omnis conclusio demonstrationis 
+      <!--7.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 4-v b -->
+               <lb ed="#V" n="67"/>est quaestio 2o posteriorum. et per consequens dubitabilis propositio ergo nulla est 
+      for<lb ed="#V" n="68" break="no"/>maliter cognitio vel assensus saltem talis qualem habet per demonstra 
+      <lb ed="#V" n="69"/>tionem quis de significato sue conclusionis. nam tali cognitione et 
+      assen<lb ed="#V" n="70" break="no"/>su scit et estimat quod impossibile est aliter se habere: vt patet primo poste 
+      <lb ed="#V" n="71"/>riorum
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e2132">
+      ⁋ 2o si conclusio esset talis cognitio: ipsa esset propositio per se nota. 
+      <lb ed="#V" n="72"/>et per consequens indemonstrabilis. patet consequentia quia statim ipsa posita 
+      <lb ed="#V" n="73"/>in intellectum intellectus assentiret: quoniam quandocumque intellectus euidenter 
+      <lb ed="#V" n="74"/>cognoscit sic esse vel non sic esse mox assentit. omnis autem talis est 
+      <lb ed="#V" n="75"/>propositio per se nota.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e2143">
+      ⁋ 3o sicut quidam doctor arguit sequitur quod periret sci 
+      <lb ed="#V" n="76"/>re nisi tota demratio sit scire: quia silobliuio deleat praemissas 
+      <lb ed="#V" n="77"/>et quantumcumque remaneat conclusio non est euidens sic esse sic significatur per 
+      <lb ed="#V" n="78"/>conclusionem euidentia qua prius. licet per memoriam aliquo modo cognoscatur. 
+      <lb ed="#V" n="79"/>euidenter. sequitur enim. sciui hoc. ergo hoc est verum. ergo conclusio ipsa no 
+      <lb ed="#V" n="80"/>est illa euidentia. recolo enim me euidenter sciuisse aliquo 
+      <lb ed="#V" n="81"/>quod modo non scinto. ergo vel nullus actus est scire. vel tota demonstratio 
+      <lb ed="#V" n="82"/>tantum est scire. vel scire est effectus demonstratonis ab ea distinctus: quod 
+      <lb ed="#V" n="83"/>est propositum.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e2163">
+      ⁋ 4o sequitur quod eadem propositio in mente esset succes 
+      <lb ed="#V" n="84"/>siue: immo etiam simul credere et opinari et scire: quia simul habetur aucto 
+      <lb ed="#V" n="85"/>ritas cui adhereatur et medium probabile et medium demonstratiuum 
+      <lb ed="#V" n="86"/>et tunc habetur intrinsece et extrinsece quicquid requiritur ad 
+      quen<lb ed="#V" n="87" break="no"/>libet istorum actuum.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e2174">
+      ⁋ 5o sequeretur quod simul quis posset 
+      assenti<lb ed="#V" n="88" break="no"/>re et dissentire sic esse: quia simul cum propositione eadem quam ponis assen 
+      <lb ed="#V" n="89"/>sum potest stare propositio quam ponis dissensum. et propositio alia que po 
+      <lb ed="#V" n="90"/>neretur media assentiendi et dissentiendi. quod probatur: quia nulle 
+      <lb ed="#V" n="91"/>propositiones plus repugnant quam contradictorie: sed iste simul in mente 
+      <lb ed="#V" n="92"/>se compatiuntur. secundum Comen. 6o metaphisice.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e2187">
+      ⁋ 6o non minus 
+      <lb ed="#V" n="93"/>sufficit propositio euidentior ad causandum assensum a se distinctum 
+      <lb ed="#V" n="94"/>quam alia minus euidens vel alie minus euidentes. sed ille 
+      <lb ed="#V" n="95"/>sufficiunt vt patet in topyco. nam ille causant assensum ab eis distinctum 
+      <lb ed="#V" n="96"/>probo: quia demonstratiua probo oppositi causat vel causare potest dissensum 
+      <lb ed="#V" n="97"/>sic esse illis propositionibus topicis stantibus in mente. ergo ille manent et 
+      <lb ed="#V" n="98"/>non manet ille assensus per eas causatus: quia tunc homo assentiret simul 
+      <lb ed="#V" n="99"/>et dissentiret sic esse: quod est impossibile.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e2206">
+      ⁋ 7o quia non minus 
+      <lb ed="#V" n="100"/>vna propositio esset suus assensus quam alia: sed aliqua cui assenti 
+      <lb ed="#V" n="101"/>tur non est suus assensus: sicut patet de illo qui videns 
+      bacu<lb ed="#V" n="102" break="no"/>lum cuius pars est in aqua format hanc propositionem. istem baculus est 
+      <lb ed="#V" n="103"/>fractus: et iudicat sic esse. Quod enim ipsa non sit talis 
+      assen<lb ed="#V" n="104" break="no"/>sus probatur: quia postquam est certificatus per tactum vel per 
+      demonstratio<lb ed="#V" n="105" break="no"/>nem aut alio modo: quod ipse non est fractus adhuc habet eandem propositionem in 
+      <lb ed="#V" n="106"/>mente: nec tamen assentit alias simul assentiret et dissentiret.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e2224">
+      ⁋ 8o  
+      <lb ed="#V" n="107"/>fidelis et infidelis in omni actu simplici cognoscendi conuenire possunt. 
+      <lb ed="#V" n="108"/>et per consequens formare possunt propositiones ex illis eiusdem rationis: et tamen 
+      <lb ed="#V" n="109"/>vnus assentit ei quam format: et alius non assentit alii quam format 
+      <lb ed="#V" n="110"/>eiusdem rationis. ergo neutra est assensus fidei: et eadem ratione nulla 
+      <lb ed="#V" n="111"/>onclusio est assensus scientie.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e2237">
+      ⁋ 8o quamcumque propositionem formaret fidelis 
+      <lb ed="#V" n="112"/>nisi velit non assentiret. Si aut assensus esset aliqua illarum propositionum 
+      <lb ed="#V" n="113"/>vel multe propositiones vellet nollet assentire. ergo assensus 
+      fi<lb ed="#V" n="114" break="no"/>dei non est propositio cui assentitur. et eadem ratioe nec assensus scientie.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e2246">
+      ⁋ 2o  
+      <lb ed="#V" n="115"/>ptest argui quod actus quo cognoscitur sic esse sicu enunciat conclusio sit alius ab 
+      <lb ed="#V" n="116"/>actu quo creditur seu assentitur sic esse.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e2253">
+      ⁋ Primo quidem: quis 
+      <lb ed="#V" n="117"/>aliquando videmus actum cognoscendi seperari ab actu assentiendi. 
+      <lb ed="#V" n="118"/>sicut patet in eo qui habet rationes probabiles ad vtramque partem 
+      con<lb ed="#V" n="119" break="no"/>tradictionis dubitat de vtraque et neutri assentit: et tamen per il 
+      <lb ed="#V" n="120"/>as rationes probabiles habet aliquam noticiam libet debilem et imperfe 
+      <lb ed="#V" n="121"/>ctam.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e2266">
+      ⁋ 2o quia alius est habitus quo cognoscitur sic esse et alius qua 
+      <lb ed="#V" n="122"/>assentitur. ergo et alius est actus cognoscendi aliusque actus 
+      <lb ed="#V" n="123"/>assentiendi. patet consequentia quia diuersi actus ex diuersis actibus generantur 
+      <lb ed="#V" n="124"/>et ad diuersos inclinant. antecedens probatur. nam si aliquis sciens 
+      de<lb ed="#V" n="125" break="no"/>monstrare aliquam conclusionem. vbi gratia. quod dyameter est simeter: fre 
+      <lb ed="#V" n="126"/>quentet huiusmodi demonstrationem generabitur in eo habitus cognoscendi et habitus assen 
+      <lb ed="#V" n="127"/>tiendi conformiter: ita quod quandocumque audiet proferri huiusmodi propositionem est 
+      <lb ed="#V" n="128"/>sine nouo discursu prompte assentiet sic esse. ponatur ergo quod frequen 
+      <lb ed="#V" n="129"/>ter eam audiat et quandocumque audit assentiat. non demonstret autem ipsam: tam 
+      <lb ed="#V" n="130"/>dem deueniet ad hoc quod obliuiscetur demonstrare eam: et tamen prompte il 
+      <lb ed="#V" n="131"/>li assentiet cum audiet illam vel concipiet. ergo deletus eri habitus 
+      <lb ed="#V" n="132"/>demonstrandi et cognoscendi sic esse: non aut habitus asedi. ergo 
+      <!--8.xml-->
+      <pb ed="#V" n="5-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>dum ex habitu poterat in vtrumque actum: alio habitu 
+      po<lb ed="#V" n="2" break="no"/>terit in actum cognoscendi: et alio in actum assentiendis 
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e2304">
+               <lb ed="#V" n="3"/>⁋ Respono ad articulum istum ponendo conclusiones tres. prima est. quod conclu 
+      <lb ed="#V" n="4"/>demonstrationis mentalis proprie accepte est assensus de sic esse 
+      <lb ed="#V" n="5"/>sicut ipsa significat. 2a quod huimo conclusio est cognitio qua cognoscitur sic 
+      <lb ed="#V" n="6"/>esse. 3a conclusio est. quod circa taliter demonstratum vel scitum non sunt 
+      po<lb ed="#V" n="7" break="no"/>nendi tres actus distincti in anima ad enunciandum conclusionem et 
+      cogno<lb ed="#V" n="8" break="no"/>scendum et credendum seu assentiendum sic esse vel non sic esse: sed qui 
+      <lb ed="#V" n="9"/>idem actus sufficit ad hoc: et idem actus est conclusio: noticia: et 
+      assen<lb ed="#V" n="10" break="no"/>sus.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e2324">
+      ⁋ Primam conclusionem probo sic. omnis actus assentiendi seu 
+      assen<lb ed="#V" n="11" break="no"/>sus est enunciatio. ergo conclusio est assensus: antecedens probatur: quoniam nihil aliu 
+      <lb ed="#V" n="12"/>est assentire quam iudicare sic esse: iudicare autem sic esse: est 
+      enum<lb ed="#V" n="13" break="no"/>ciare mentaliter quod sic est: vnde iudicare quod homo est animal est 
+      enun<lb ed="#V" n="14" break="no"/>ciare et affirmare quod homo est animal.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e2335">
+      ⁋ Praeterea omnis actus intellectus 
+      ve<lb ed="#V" n="15" break="no"/>rus vel falsus est enunciatio: omne iudicium seu assensus est verus 
+      <lb ed="#V" n="16"/>vel falsus. ergo etc. maior patet per philosophum 3o de anima: vbi distinguens 
+      <lb ed="#V" n="17"/>oporitiones intellectus dicit quod in quibus est verum vel falsum: et compositio 
+      <lb ed="#V" n="18"/>quaedam intellectuum: minor nota est: sic enim dicimus aliud 
+      iudi<lb ed="#V" n="19" break="no"/>cium esse verum: et aliud falsum: immo et quodlibet esse verum vel falsum: 
+      <lb ed="#V" n="20"/>sicut quamlibet enunciationem dicimus veram vel falsam esse: et sic 
+      <lb ed="#V" n="21"/>patet antecedens: consequentia probatur: quia si conclusio non esset ipse assensus inutiliter et 
+      su<lb ed="#V" n="22" break="no"/>perflue ipsa poneretur in intellectu demonstrante: cum in quolibet tali 
+      <lb ed="#V" n="23"/>intellectum sit assensus qui est enunciatio idipsum significans quod 
+      signi<lb ed="#V" n="24" break="no"/>ficat conclusio: et ipsa conclusio ad nihil valeat ad quod non sufficiat 
+      assen<lb ed="#V" n="25" break="no"/>sus.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e2361">
+      ⁋ 2am conclusionem probo sic. conclusio mentalis demonstratonis elicita 
+      <lb ed="#V" n="26"/>ex habituali scientia est actualis noticia eius quod habitualiter scimus 
+      <lb ed="#V" n="27"/>per scientiam ex qua procedit. ergo conclusio hsoesi est actus cognoscendi sic esse: sicut 
+      <lb ed="#V" n="28"/>significatur per ipsam: et vlterius. ergo quaelibet demonstrationis conclusio est actus 
+      <lb ed="#V" n="29"/>cognoscedi sic esse: sicut ipsa significat.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e2372">
+      ⁋ Prima consequentia patet: quoniam 
+      <lb ed="#V" n="30"/>per habitualem scientiam scimus sic esse. vbi gratia per geometricum 
+      <lb ed="#V" n="31"/>habitum quod anguli trianguli valent duos rectos. 2 consequentia 
+      cla<lb ed="#V" n="32" break="no"/>ra est: antecedens probo: quia conclusio homod non est aliud quam quoddam verbum seu locu 
+      <lb ed="#V" n="33"/>tio quadam mentalis qua scimus sic esse: sicut per habitualem scientiam 
+      no<lb ed="#V" n="34" break="no"/>uimus: sed talis locutio est noticia eius: quod scimus: sicut patet per 
+      <lb ed="#V" n="35"/>
+               <ref xml:id="grvnZZ-d1e97-Rd1e2387">Aug. 15. de tri.</ref> vbi postquam probauit quasdam cogitationes esse cor 
+      <lb ed="#V" n="36"/>dis locutiones subiungit quod tales locutiones si ex scientia 
+      orian<lb ed="#V" n="37" break="no"/>tur sunt quadam visiones seu noticie: vnde ait. <quote xml:id="grvnZZ-d1e97-Qd1e2394" source="http://scta.info/resource/adt-l15-d1e1794" synch="139-182">Nec tamen quia dicimus 
+        <lb ed="#V" n="38"/>locutiones cordis esse cogitationes: ideo non sunt etiam visiones 
+        <lb ed="#V" n="39"/>exorte notitiae de visionibus quando vere sunt: foris enim cum per corpus 
+        <lb ed="#V" n="40"/>hec fiunt: aliud est locutio aliud visio: intus aut cum cogitamus 
+        <lb ed="#V" n="41"/>vtrumque verum est: sed auditio et visio</quote> id est actualis noticia: et infra. 
+      <lb ed="#V" n="42"/>
+               <quote xml:id="grvnZZ-d1e97-Qd1e2408" source="http://scta.info/resource/adt-l15-d1e1801" synch="1-30">necesse est inquit: cum verum loquimur id est quod scimus loquimur: ex ipsa 
+        <lb ed="#V" n="43"/>scientia quam memoria tenemus: nascat verbum quod eiusmodi sit 
+        <lb ed="#V" n="44"/>omnio cuiusmodi est illa scientia de quo nascitur</quote>. et in fine. 12o capitulo <quote xml:id="grvnZZ-d1e97-Qd1e2415" source="http://scta.info/resource/adt-l15-d1e1836" synch="46-70">tunc 
+          in<lb ed="#V" n="45" break="no"/>quit est verbum simillimum rei note de qua gignitur et imago eius quando 
+          <lb ed="#V" n="46"/>de visione scientiae visio cogitationis exoritur quod est verbum lingue 
+          <lb ed="#V" n="47"/>nullius</quote>. Ex quibus habetur clare quod verbum et locutio interior ex 
+      <lb ed="#V" n="48"/>scientia habituali procedens est visio seu noticia actualis eius rei de 
+      <lb ed="#V" n="49"/>qua habemus scientiam eique scientie a qua procedit simillima. Nec potest 
+      <lb ed="#V" n="50"/>dici quod Aug. sumatr verbum vel locutionem pro noticia quae est 
+      sim<lb ed="#V" n="51" break="no"/>plex intelligentia tantum: quin immo: sicut apparet ibi manifeste loqui 
+      <lb ed="#V" n="52"/>tur de cogitationibus et locutionibus enuciatiuis.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e2436">
+      ⁋ 2o 
+      contin<lb ed="#V" n="53" break="no"/>git habere demonstrationem mentalem absque vlla alia proposione quae sit 
+      <lb ed="#V" n="54"/>noticia. ergo conclusio nentalis demonstrationis est noticia patet consequentia quoniam 
+      <lb ed="#V" n="55"/>non contingit demonstrationem haberi sine conclusione: antecedens probatur: quoniam si quis. 
+      <lb ed="#V" n="56"/>verbi gratia. coguoscat quod si aliqua sunt eidem equalia inter se sunt 
+      <lb ed="#V" n="57"/>equalia: et cognoscat simul cum hoc quod a. et b. sunt eidem. verbi 
+      <lb ed="#V" n="58"/>gratia. c. equalia ipse vtique cognoscit quod a. et b. sunt inter 
+      <lb ed="#V" n="59"/>se equalia: et habet demonstrationem perfectam: nec alia peper 
+      il<lb ed="#V" n="60" break="no"/>lud sciendum est necessaria sibi: sed totum hoc est impossibile absque 
+      <lb ed="#V" n="61"/>vlla propositione alia ab istis noticiis: et quaelibet earum: sicut 
+      <lb ed="#V" n="62"/>experientia docet in eo maxime qui ex propria inuentione et 
+      <lb ed="#V" n="63"/>non aliena doctrina ad hanc noticiam deuenerit.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e2463">
+      ⁋ 3o 
+      <lb ed="#V" n="64"/>premisse mentalis demonstrationis sunt noticie quibus cognoscitur 
+      <lb ed="#V" n="65"/>sic esse: sic per ipsas significatur. ergo e conclusio demonstrationis eiusdem est no¬ 
+      <!--8.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 5-r b -->
+               <lb ed="#V" n="66"/>ticia qua cognoscitur sic esse: sic ipsa significat. consequentia patet: quoniam non est ma 
+      <lb ed="#V" n="67"/>ior necessitas ponendi conclusionem et noticiam sibi conformem obiectiue a 
+      <lb ed="#V" n="68"/>se distinctam: quam ponendi premissas et noticias sibi conformes 
+      <lb ed="#V" n="69"/>ab eis distinctas: nec vtilitas aliqua et apparet: cum ad habendum 
+      <lb ed="#V" n="70"/>talem noticiam sufficiant noticie praemissarum id est qua sunt praemisse: antecedens 
+      <lb ed="#V" n="71"/>probatur. et gratia exempli sumo istam minorem demonstrationis 
+      assum<lb ed="#V" n="72" break="no"/>pte in praecedenti ratione. valet. a. et b. sunt equalia c. sint a. et b. due 
+      li<lb ed="#V" n="73" break="no"/>nesse ducte a centris duorum circulorum se secantium ad punctum 
+      se<lb ed="#V" n="74" break="no"/>ctionis que centra sint extremitates linesse c. iuxta doctrinam 
+      <lb ed="#V" n="75"/>prime primi euclidis. constat quod ad cognoscendum quod a. et b. sunt 
+      <lb ed="#V" n="76"/>equalia ipsi c. sufficit cognoscere quod si linesse aliqua trahuntur a 
+      <lb ed="#V" n="77"/>centro circuli ad eius circumferentiam sunt equales: et quod linea a. et 
+      <lb ed="#V" n="78"/>c. trahuntur a centro vnius circuli ad eius circumferentiam. et similiter 
+      li<lb ed="#V" n="79" break="no"/>nea b. et linea c. et totum hoc potest intuitiue cognosci absque 
+      for<lb ed="#V" n="80" break="no"/>matione alterius propositionis 
+      <lb ed="#V" n="81"/>vocalis vel mentalis distincte 
+      <lb ed="#V" n="82"/>ab istis noticiis et qualibet 
+      ea<lb ed="#V" n="83" break="no"/>rum: immo certe si aliqua alia for 
+      <lb ed="#V" n="84"/>maretur inutiliter et superuacue 
+      <lb ed="#V" n="85"/>fieret: et hoc dico in eo qui 
+      <lb ed="#V" n="86"/>mentaliter in seipso demonstrat. 
+      <lb ed="#V" n="87"/>et idem est de maiore: et 
+      quibus<lb ed="#V" n="88" break="no"/>libet primis noticiis complexis: 
+      <lb ed="#V" n="89"/>quoniam preter ipsas nulle alie 
+      <lb ed="#V" n="90"/>propositiones vel noticie sunt necessarie.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e2531">
+      ⁋ 4o hoc probatur ex 
+      in<lb ed="#V" n="91" break="no"/>tentione philosophi pro posteriorum dicentis. quod demostratio est sllecus 
+      apo<lb ed="#V" n="92" break="no"/>decticon id est vt eustratius et ipsemet exponit: secundum quem in habendo 
+      <lb ed="#V" n="93"/>ipsum scimus: hoc autem non esset verum: nisi vel ipsa demostratio vel 
+      <lb ed="#V" n="94"/>aliqua pars eius esset scientia formaliter. sicut nec in habendo aliquem 
+      colo<lb ed="#V" n="95" break="no"/>rem essemus albi: nisi ille color esset albedo formaliter. ergo etc. 
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e2544">
+               <lb ed="#V" n="96"/>⁋ 3a conclusio patet. ex praecedentibus: quoniam si eadem conclusio est assensus: et cogni 
+      <lb ed="#V" n="97"/>tio de sic esse: sic ipsa significat: non tribus actibus distinctis: sed vno 
+      <lb ed="#V" n="98"/>eodemque quis enunciat: cognoscit: et credit seu assentit quod sic est 
+      <lb ed="#V" n="99"/>sicut significat ipsa conclusio Et confirmatur: quoniam nulla experientia vel 
+      <lb ed="#V" n="100"/>ratio quantum apparet cogit ad ponendum illam actuum multitudinem: 
+      <lb ed="#V" n="101"/>nec etia aliqua auctoritas sacramentis quapropter rationabilius illa 
+      multi<lb ed="#V" n="102" break="no"/>tudo negatur quam ponitur.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e2562">
+      ⁋ pro solutione rationum praemitto quod sicut 
+      <lb ed="#V" n="103"/>patet per <ref xml:id="grvnZZ-d1e97-Rd1e2566">Aug. 15. de tri.</ref> et per <ref xml:id="grvnZZ-d1e97-Rd1e2569">Ansel. in monologion.</ref> sicut est per experientiam 
+      volen<lb ed="#V" n="104" break="no"/>ti diligenter aduertere: duplex est genus enunciationum 
+      menta<lb ed="#V" n="105" break="no"/>lium. Quoddam enim est earum qua sunt vocalium enunciationum imagines 
+      <lb ed="#V" n="106"/>vel similitudines ab exterioribus vocibus in animam deriuate vel per 
+      <lb ed="#V" n="107"/>ipsam ficte iuxta modum qui <ref xml:id="grvnZZ-d1e97-Rd1e2581">infra. dis. 3.</ref> declarabitur de abstractione 
+      <lb ed="#V" n="108"/>et fictione in anima specierum vel conceptuum. et iste non sunt eiusdem 
+      <lb ed="#V" n="109"/>rationis in omnibus homnibus. Sed alie sunt in greco: alie in latino est 
+      <lb ed="#V" n="110"/>idem significantes. sicut alie sunt enunciationes vocales quas 
+      <lb ed="#V" n="111"/>profert exterius grecus: ab his quas idem significantes profert 
+      <lb ed="#V" n="112"/>latinus. has in se potest aduertere quilibet cum tacens ore: loquitur 
+      cor<lb ed="#V" n="113" break="no"/>de formando verba similia his quae si ore loqueretur proferret exterius. 
+      <lb ed="#V" n="114"/>Quoddam vero genus est enunciationum mentalium qua nullarum sunt 
+      <lb ed="#V" n="115"/>similitudines vocum: nec secundum illarum diuersitatem in hominibus habentibus. 
+      <lb ed="#V" n="116"/>diuersificantur: sed eedem sunt secundum speciem apud omnes idipsum 
+      <lb ed="#V" n="117"/>naturaliter significantes: quod vocales eis subordinate ad 
+      signifi<lb ed="#V" n="118" break="no"/>causadum ad placitum: et per institutionem significant: et ille sunt 
+      <lb ed="#V" n="119"/>illa verba que nullius lingue sunt: et ista verba: vocalia verba 
+      <lb ed="#V" n="120"/>exterius sonantia: et mentalia primo modo dicta praecedunt secundum sententiam 
+      <lb ed="#V" n="121"/>Aug. hoc autem genus 2m enunciationum mentalium 
+      subdiui<lb ed="#V" n="122" break="no"/>tur: quoniam quedam immediate ex rerum intuitiuis noticiis 
+      incomple<lb ed="#V" n="123" break="no"/>xis: tamquam ex partialibus causis: vel ex aliis complexis vel 
+      in<lb ed="#V" n="124" break="no"/>complexis: ex illis mediate vel immediate causatis seu ex ha 
+      <lb ed="#V" n="125"/>bitibus ex talibus noticiis complexis derelictis causantur: 
+      <lb ed="#V" n="126"/>vel forsitan etiam quedam non ex aliquibus incomplexis 
+      no<lb ed="#V" n="127" break="no"/>ticiis causantur: sed sunt simpliciter prime venientes in 
+      <lb ed="#V" n="128"/>mentem naturaliter: de quibus nescimus quando in nobis 
+      <lb ed="#V" n="129"/>existunt: aut vnde vel quomodo secundum Commen. 3o de anima. 
+      <lb ed="#V" n="130"/>huiusmodi sunt enunciationes ille quas quis absque prolatione exteriori 
+      <!--9.xml-->
+      <pb ed="#V" n="5-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>enunciationum vocalium: et interiori etiam formatione illis 
+      <lb ed="#V" n="2"/>similium format: dum aliquam veritatem mente demonstrat: huiusmodi est essent 
+      <lb ed="#V" n="3"/>quascumque formaret qui nateraliter surdus esset: aut nullam omnino loqua 
+      <lb ed="#V" n="4"/>lam lingue didicisset: dum aliquam veritatem mente 
+      demonstra<lb ed="#V" n="5" break="no"/>ret. Quedam vero sunt quae non ex talibus primis noticiis rerum 
+      <lb ed="#V" n="6"/>aliqua praedictorum modorum causantur: cuiusmodi sunt enunciationes 
+      <lb ed="#V" n="7"/>quibus quis enunciat mente et iudicat sic vel sic esse aut non esse non 
+      <lb ed="#V" n="8"/>cognoscens: tamen intuitiue aut alia noticia prima vel ex intuitiua 
+      <lb ed="#V" n="9"/>deriuata quae sic sit vel non sit: sicut enunciat in mente quis dum 
+      cre<lb ed="#V" n="10" break="no"/>dit vel opinatur. Iste maneries propositionum mentalium sic se 
+      ha<lb ed="#V" n="11" break="no"/>bent quod propositiones primi generis sic sunt enunciationes quod non 
+      <lb ed="#V" n="12"/>sunt noticie formaliter neque assensus non pius quam enunciatonis 
+      <lb ed="#V" n="13"/>vocales quibus sunt similes. Secundi autem generis propositiones et 
+      <lb ed="#V" n="14"/>enunciationes sunt et noticie et assensus. Tertii autem generis 
+      <lb ed="#V" n="15"/>propositiones et enunciationes quadam sunt et assensus: sed non 
+      noti<lb ed="#V" n="16" break="no"/>cie. Ex his autem sequitur quod dissensus non est aliquis actus intelle 
+      <lb ed="#V" n="17"/>ctus a qualibet assensu distinctus: quin immo quilibet est assensus 
+      <lb ed="#V" n="18"/>quidam: quod probatur quando cum assensus mentalis sit enunciatio 
+      <lb ed="#V" n="19"/>dissensus erit enunciatio sibi opposita: que erit est assensus 
+      <lb ed="#V" n="20"/>sui significati: quod est oppositum significato relique 
+      opposite<lb ed="#V" n="21" break="no"/>vnde sicut assensus quo quis assentit seu credit dyametrum 
+      <lb ed="#V" n="22"/>esse symetrum non est aliud quam iudicium quo affirmat 
+      dya<lb ed="#V" n="23" break="no"/>metrum esse symetrum: et dissensus oppositus non est aliud quam iu 
+      <lb ed="#V" n="24"/>dicium quo negatur dyametrum esse symetrum: et ipse est: sicut patet 
+      <lb ed="#V" n="25"/>assensus sui significati scilicet quod dyameter non est symeter: vnde assen 
+      <lb ed="#V" n="26"/>sus et dissensus non sunt nisi assensus oppositi et quilibet assen 
+      <lb ed="#V" n="27"/>sus potest dici dissensus eius: cuius opposita enunciatio est 
+      assen<lb ed="#V" n="28" break="no"/>sus. Ulterius sequitur ex istis quod non omnis mentalis enunciatio 
+      <lb ed="#V" n="29"/>est assensus: licem omnis assensus sit mentalis enunciatio. Et quod 
+      <lb ed="#V" n="30"/>quamuis omnis noticia complexa. id est de compleo: enunciabili sit 
+      men<lb ed="#V" n="31" break="no"/>talis enunciatio: non tamen econverso omnis mentalis enunciatio est talis 
+      <lb ed="#V" n="32"/>noticia. Item quod quamuis omnis huiusmodi noticia sit assensus: non quilibet tamen 
+      <lb ed="#V" n="33"/>assensus est talis noticia. Sequitur et quod licem aliqui syllogismi 
+      <lb ed="#V" n="34"/>vocales: et aliqui etitam mentales vtpote vocalibus similes aliquando 
+      <lb ed="#V" n="35"/>dicantur et vocentur demonstrationes: proprie tamen et stricte loquen 
+      <lb ed="#V" n="36"/>do de demonstratione: qua scilicet est smllatus: in quem habendo scimus illi soli 
+      <lb ed="#V" n="37"/>syllogismi mentales qui constant ex propositionibus que sunt formaliter 
+      <lb ed="#V" n="38"/>noticie dicuntur et sunt demonstrationes. Alii vero de quibus dictum 
+      <lb ed="#V" n="39"/>est solum modo dicuntur demonstrationes: quia sunt veris 
+      demonstra<lb ed="#V" n="40" break="no"/>tionibus in significando subordinati: vnde ad placitum ea ipsi si 
+      <lb ed="#V" n="41"/>gnificant quae isti significant naturaliter: vel etiam quia eis mediantibus ad  
+      <lb ed="#V" n="42"/>hos qui sunt vere demonstrationes deuenitur: sicut per vocalem 
+      de<lb ed="#V" n="43" break="no"/>monstrationem doctorum inducitur discipulus ad considerationem 
+      <lb ed="#V" n="44"/>eorum ex quorum noticiis in eius anima vera demonstratio generatur. 
+      <lb ed="#V" n="45"/>Notanda autem est diligenter talis diuersitas demonstrationum 
+      <lb ed="#V" n="46"/>quoniam plura dicta philosophi et aliorum intelligenda sunt de istis quae non de 
+      <lb ed="#V" n="47"/>illis: et econverso sicut diligenter considerans potest aduertere.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e2743">
+      ⁋ Sed 
+      <lb ed="#V" n="48"/>potest moueri dubium. Utrum ipsa enunciatio mentalis sit 
+      essen<lb ed="#V" n="49" break="no"/>tialiter composita ex partialibus noticiis quibusdam simplicibus: quarum 
+      <lb ed="#V" n="50"/>vna sit subiectum et alia praedicatum: an vnus sit actus non ex talibus 
+      <lb ed="#V" n="51"/>partibus constans. Et pro nunc videtur mihi rationabilius dici quod ta 
+      <lb ed="#V" n="52"/>lis enunciatio mentalis cuiuscumque generis mentalium sit non 
+      <lb ed="#V" n="53"/>est taliter composita.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e2759">
+      ⁋ Pro qua parte arguo sic. si esset sic 
+      compo<lb ed="#V" n="54" break="no"/>sita propositio mentalis cum eadem sit ratio in cuctis quantum ad hoc 
+      <lb ed="#V" n="55"/>vt videtur possibile esset esse duas propositiones mentales naturaliter et non 
+      <lb ed="#V" n="56"/>ad placitum significantes omnino similes: et eiusdem rationis specifice: 
+      <lb ed="#V" n="57"/>quarum vna esset possibilis: immo etiam de facto vera et reliqua prorsus 
+      <lb ed="#V" n="58"/>impossibilis: consequens hoc est falsum: nam quaelibet tales propositiones idem adequa 
+      <lb ed="#V" n="59"/>te significant: et per consequens si vna est vera vel possibilis et reliqua et econtra: et 
+      <lb ed="#V" n="60"/>consequentia declarat. nam propositio mentalis cui subordinatur hec vocalis. 
+      <lb ed="#V" n="61"/>omnis albedo est entitas. possibilis est: immo de facto vera: ea vero cui 
+      <lb ed="#V" n="62"/>subordinatur ista vocalis. omnis entitas est albedo. est penitus 
+      <lb ed="#V" n="63"/>impossibilis. Sed si iste componerentur sic ex termins omnino similes 
+      <lb ed="#V" n="64"/>et eiusdem speciei essent termini vtriusque: et cum tales sint in eodem 
+      <lb ed="#V" n="65"/>subiecto indiuisibili: primo et per consequens nulla situatione aut alia ha 
+      <!--9.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 5-v b -->
+               <lb ed="#V" n="66"/>bitudinie inter se vel ad sua tota possint variari in vna magis 
+      <lb ed="#V" n="67"/>quam in alia vtique ipse propositiones erunt eiusdem rationis specifice. 
+      <lb ed="#V" n="68"/>Non enim est intelligibile quod sint aliqua duo tota: quorum qualibet pars 
+      <lb ed="#V" n="69"/>pinius similis sit alicui parti alterius: et econverso et qualitercumque vna se 
+      <lb ed="#V" n="70"/>habet ad suum totum vel ad alias compartes sui totius taliter se habeat 
+      <lb ed="#V" n="71"/>sibi similis in alio toto ad suum totum et suas compartes: quin illa tota 
+      <lb ed="#V" n="72"/>sint similia: et eiusdem rationis.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e2810">
+      ⁋ Praeterea non apparet modus possibilis 
+      ta<lb ed="#V" n="73" break="no"/>lis compositionis: nam si quis nihil affirmans vel negans habeat 
+      noticias<lb ed="#V" n="74" break="no"/>aliquas simplices: et deinde formet propositionem: non apparet qua 
+      varia<lb ed="#V" n="75" break="no"/>tio fiat in illis: propter quam adiuicem plus componant quam prius nec 
+      pro<lb ed="#V" n="76" break="no"/>dest ad hoc si de nouo causatur aliquis conceptus alius: siue 
+      cathego<lb ed="#V" n="77" break="no"/>reumaticus: siue sincathegoreumatius: quia nec cum illo: nec propter 
+      <lb ed="#V" n="78"/>priem aliqua ipsarum plus componet cum alia quam prius adiuicem 
+      compo<lb ed="#V" n="79" break="no"/>nerent: cum prius ita essent in eodem subiecto adequate sicut postea est ipse 
+      <lb ed="#V" n="80"/>conceptus nouiter additus.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e2830">
+      ⁋ Praeterea cur vna pars erit subiectum vel 
+      <lb ed="#V" n="81"/>praedicatum potius quam alia vel econuerso certe non videtur posse 
+      assi<lb ed="#V" n="82" break="no"/>gnari causa cum sit in eodem subiecto primo et equaliter nate sint subiici 
+      <lb ed="#V" n="83"/>et praedicari supposito quod sint. Ex quo vlterius sequi videtur quod vel neu 
+      <lb ed="#V" n="84"/>tra erit sic subiectum aut praedicatum: ac per hoc nulla erit propositio 
+      men<lb ed="#V" n="85" break="no"/>talis sic composita vel vtraque erit et subiectum et praedicatu: et si sic 
+      <lb ed="#V" n="86"/>sequitur quod eadem propositio nuoa erit vera et impossibilis: sicut vna subordinia 
+      <lb ed="#V" n="87"/>tarum eidem est vera: et altera impossibilis: vt patet in exemplo supra 
+      posi<lb ed="#V" n="88" break="no"/>to: sed hoc nullatenus videtur dandum ergo.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e2850">
+      ⁋ Forte dret aliquis ad istam 
+      <lb ed="#V" n="89"/>quod quamquam sint similes talium propositionum partes: ac est in eodem subiecto primo: 
+      <lb ed="#V" n="90"/>propter ordinem tamen diuersum productionis earum diuerse propositiones 
+      <lb ed="#V" n="91"/>resultant: et non est eadem pars patedtm speciem subiectum in vna et praedicatum in 
+      al<lb ed="#V" n="92" break="no"/>tera: sed eius quod in vna est subiectum similis est in altera praedicatum: similiter 
+      <lb ed="#V" n="93"/>eiusdem propositionis pars prius producta est subiectum: posterius vero 
+      <lb ed="#V" n="94"/>producta est praedicatum.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e2866">
+      ⁋ Ista responsio non valet: tum quia talis 
+      <lb ed="#V" n="95"/>successio productionum irrationabiliter ponitur: cum enim in 
+      intelle<lb ed="#V" n="96" break="no"/>ctu possunt esse et produci plures actus diuersarum rationum vt 
+      pro<lb ed="#V" n="97" break="no"/>babitur in prima distinctione: valde mirum erit si simul totam 
+      <lb ed="#V" n="98"/>vnam propositionem producere non poterit.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e2877">
+      ⁋ Praeterea vel hoc idem 
+      <lb ed="#V" n="99"/>oportebit dicere contingere in angelis: quod nimis videtur absurdum. cum 
+      <lb ed="#V" n="100"/>Augu. dicat. 4. super gend. quod mens angelica cuncta que vo est 
+      <lb ed="#V" n="101"/>luerit simul noticia facillima comprehendit. et co 3 6. quod omnia 
+      <lb ed="#V" n="102"/>simul mens angelica potest que sigillatim per ordinem 
+      conne<lb ed="#V" n="103" break="no"/>xarum causarum sermo distinguit vel eadem in illis remanebit 
+      <lb ed="#V" n="104"/>difficultas: qualite scilice hiomodi propositiones diuersificantur in eis etcetera quae 
+      <lb ed="#V" n="105"/>argumentata sunt.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e2895">
+      ⁋ Praeterea ostat quod deus saltem potest cuiuslibet 
+      <lb ed="#V" n="106"/>talium propositionum partes simul in intellectu producere: et tunc 
+      <lb ed="#V" n="107"/>stabit difficultas premissa: Tum quia data tali successione 
+      <lb ed="#V" n="108"/>productionum non impeditur argumentum: nam ex quo 
+      <lb ed="#V" n="109"/>partes vtriusque sunt penitus similes et subiectum idem primo 
+      <lb ed="#V" n="110"/>varia successio productionum non faciet quod diuersa tota 
+      re<lb ed="#V" n="111" break="no"/>sultent: siue enim prius fiat tectum quam paries vel econtra 
+      dummo<lb ed="#V" n="112" break="no"/>do identitas sit in partibus non alterius rationis domus 
+      re<lb ed="#V" n="113" break="no"/>sultabit ex his quam ex illis: ita si prius manus animalis gene. 
+      <lb ed="#V" n="114"/>retur quam cor: et similiter qualiscumque alius esset ordo 
+      genera<lb ed="#V" n="115" break="no"/>tionis membrorum: dummodo non sint alia et alia membra: sed ea 
+      <lb ed="#V" n="116"/>dem adequate generarentur non aliud et aliud secundum speciem corp 
+      <lb ed="#V" n="117"/>resultaret: sed idem vt clarum est: sic in proposito. Ex istis ergo 
+      <lb ed="#V" n="118"/>patet quod affirmatio a negatio in intellectu non dicuntur actus 
+      con<lb ed="#V" n="119" break="no"/>positi essentialiter ex talibus noticiis partialiter distinctis quarum 
+      <lb ed="#V" n="120"/>vna sit subiectum et reliqua praedicatum vt multi putant: sed quia 
+      <lb ed="#V" n="121"/>equiualent in significando pluribus vocibus vel scripturis 
+      <lb ed="#V" n="122"/>propositionem vocalem vel scriptam suo modo omponentibus: 
+      <lb ed="#V" n="123"/>vel quia compositionem aut diuisionem significant in entibus ad modum lo 
+      <lb ed="#V" n="124"/>quendi Commentator. 6o meta. dicens quod vera affirmatiua significat composit pro 
+      <lb ed="#V" n="125"/>sitionem in entibus: et vera negatiua diuisionem.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e2942">
+      ⁋ Ex his respondeo 
+      <lb ed="#V" n="126"/>ad rationes. Ad primam dico quod antecedens est verum de conclusione mentalis ergo 
+      <lb ed="#V" n="127"/>demonstrationis constantis ex propositionibus mentalibus primo modo primo 
+      <lb ed="#V" n="128"/>sumptis: non autem de conclusione demonstrationis 
+      constan<lb ed="#V" n="129" break="no"/>tis ex propositionibus mentalibus 2o modo dictis: que scilicet sunt noticie 
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e2953">
+               <lb ed="#V" n="130"/>⁋ Ad confirmationem cum dicitur quod omnis conclusio demon¬ 
+      <!--10.xml-->
+      <pb ed="#V" n="6-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>strationis est questio: dico quod hoc potest habere duplicem sen 
+      <lb ed="#V" n="2"/>sum. vnum accipiendo conclusionem pro propositione illa que est 
+      <lb ed="#V" n="3"/>pars tertia demonstrationis: et tunc dico quod illud est verum 
+      <lb ed="#V" n="4"/>de conclusione demonstrationis vocalis et mentalis etiam primo 
+      <lb ed="#V" n="5"/>modo sumpte: non autem de conclusione demonstrationis men 
+      <lb ed="#V" n="6"/>talis accepte secundo modo. Alium sensum potest habere 
+      ac<lb ed="#V" n="7" break="no"/>cipiendo per conclusionem significatum conclusionis: vt sit 
+      <lb ed="#V" n="8"/>sensus. omne concludibile demostratiue seu per conclusionem 
+      <lb ed="#V" n="9"/>demonstrationis significabile est questio. igitur queribile. et 
+      <lb ed="#V" n="10"/>hoc vniuersaliter est verum: et in hoc sensu magis forte lo 
+      <lb ed="#V" n="11"/>cuti sunt auctores et rationabiliter: quoniam sic proprie ipsa 
+      conclu<lb ed="#V" n="12" break="no"/>sio non dicitur scibilis vel scita: sed quod significatur per illam: vt 
+      <lb ed="#V" n="13"/>patet ex primo articulo. Sicut nec ipsa proprie dicitur queri: 
+      <lb ed="#V" n="14"/>seu esse queribilis seu dubitabilis: sed potius quod signifi 
+      <lb ed="#V" n="15"/>catur per ipsam: et in hoc sensu concedo vlterius quod conclusio 
+      <lb ed="#V" n="16"/>demonstrationis etiam mentalis secundo modo accepte est 
+      <lb ed="#V" n="17"/>dubitabilis: quia scilicet eius significatum est dubitabile: licem non 
+      <lb ed="#V" n="18"/>sit dubitabile ab habente conclusionem ipsam significantem 
+      <lb ed="#V" n="19"/>isto modo acceptam.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3005">
+      ⁋ Ad 2m dico quod talis conclusio 
+      poti<lb ed="#V" n="20" break="no"/>dici debet noticia et assensus quam per se nota. Tum quia quod per ipsam 
+      <lb ed="#V" n="21"/>significatur non est per se notum: sed per noticias aliorum 
+      <lb ed="#V" n="22"/>priorum enunciabilium taliter est notum: quoniam noticie il 
+      <lb ed="#V" n="23"/>lorum sunt cause noticie qua formaliter ipsum cognoscitur 
+      <lb ed="#V" n="24"/>et ad hunc intellectum sunt accipienda dicta auctorum dicen 
+      <lb ed="#V" n="25"/>tium conclusionem non esse per se notam. vel etia potest 
+      im<lb ed="#V" n="26" break="no"/>telligi de conclusione demonstrationis vocalis et 
+      menta<lb ed="#V" n="27" break="no"/>lis primo modo accepte.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3025">
+      ⁋ Ad 3m dico quod verum conclu 
+      <lb ed="#V" n="28"/>dit de conclusione vocalis demonstrationis: et de conclu 
+      <lb ed="#V" n="29"/>sione mentalis primo modo dicte: non autem de conclusione 
+      <lb ed="#V" n="30"/>demonstrationis mentalis accepte secundo modo: vnde 
+      <lb ed="#V" n="31"/>si illa maneret deletis praemissis vtique illud esset scitum et eui 
+      <lb ed="#V" n="32"/>dens sicut prius: quemadmodum et iste doctor habet dicere: quod 
+      <lb ed="#V" n="33"/>si nota conclusionis maneret deletis noticiis premissarum: illud ad  
+      <lb ed="#V" n="34"/>huc esset scitum et euidens sicut prius.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3043">
+      ⁋ Ad 4m nego consequentiam. 
+      <lb ed="#V" n="35"/>ad probationem dico quod sicut aliud est medium demonstratiuum 
+      <lb ed="#V" n="36"/>et aliud probabile et aliud creditiuum: quoniam primum componitur 
+      <lb ed="#V" n="37"/>ex propositionibus que sunt noticie et assensus: duo vero sequen 
+      <lb ed="#V" n="38"/>tia ex propositionibus que sunt assensus tantum licem alterius et 
+      alte<lb ed="#V" n="39" break="no"/>rius rationis: sic alia est conclusio mentalis que est scire: alia que est 
+      <lb ed="#V" n="40"/>opinari: et alia quae est credere.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3059">
+      ⁋ Praeterea falsum est quod simul in mente 
+      <lb ed="#V" n="41"/>habeantur medium demonstratiuum et medium probabile: acc 
+      <lb ed="#V" n="42"/>piendo illa media pro his que componuntur ex propositionibus mentali 
+      <lb ed="#V" n="43"/>bus secundo modo vel tertio modo acceptis: vtrum autem si accipiani 
+      <lb ed="#V" n="44"/>illa media pro compositi ex propositionibus mentalibus primi modi possunt 
+      <lb ed="#V" n="45"/>simul esse in intellectu: non curo: quia nihil ad propositum: eo quod nul 
+      <lb ed="#V" n="46"/>lius eorum conclusio est scire vel opinari. et praeterea esto quod eadem eset 
+      <lb ed="#V" n="47"/>vtriusque conclusio non sequitur inconueniens illatum.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3078">
+      ⁋ Ad 5m nego 
+      con<lb ed="#V" n="48" break="no"/>sequentiam: et similiter propositionem assumptam ad eius probationem. Et cum dicitur 
+      <lb ed="#V" n="49"/>quod nulle propositiones magis repugnant etc. dico primo quod si hoc in 
+      <lb ed="#V" n="50"/>telligatur de repugnantia quantum ad simul esse in eodem subiecto a 
+      <lb ed="#V" n="51"/>non quantum ad esse verum: sicut oportet intelligi: quamuis concedendum 
+      <lb ed="#V" n="52"/>sit quod nulle propositiones plus repugnant quam contradictorie peper illam 
+      <lb ed="#V" n="53"/>dictionem quam: que confundit terminum sequentem: tamen verum est quod contr 
+      <lb ed="#V" n="54"/>dictoriis aliqua non contradictorie plus repugnant. Nam alique 
+      <lb ed="#V" n="55"/>contradictorie mentales scilicet primi modi vtique possunt simul esse: et tamen 
+      pro<lb ed="#V" n="56" break="no"/>positiones mentales secundi modi quarum vna sit scientia et alia 
+      <lb ed="#V" n="57"/>opinio eiusdem enunciabilis seu significati non possunt simul esse 
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3102">
+               <lb ed="#V" n="58"/>⁋ 2o dico quod dictum Commentatoris intelligendum est de propositionibus 
+      <lb ed="#V" n="59"/>contradictoriis et mentalibus primi modi: non autem secundi: siue sin 
+      <lb ed="#V" n="60"/>opiniones: siue scientie: quamuis loquendo de scientia secundum quod est noticia 
+      ve<lb ed="#V" n="61" break="no"/>ri necessarii qualis est conclusio demonstrationis de qua loquimur: 
+      <lb ed="#V" n="62"/>ipsa nullam possit habere contradictoriam mentalem secundi modoi 
+      <lb ed="#V" n="63"/>quod patet: quia contradictorium sui enunciabilis est impossibile: et per consequens 
+      <lb ed="#V" n="64"/>nec complexe scibile.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3120">
+      ⁋ Ad 6um potest concedi: maior 
+      accipi<lb ed="#V" n="65" break="no"/>endo illas propositiones eiusdem modi vtrobique: puta quod ambe 
+      <!--10.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 6-r b -->
+               <lb ed="#V" n="66"/>sint de primo modo mentalium vel ambe de mentalibus secundi modi 
+      <lb ed="#V" n="67"/>minor autem neganda est. Ad probationem dicendum quod propositiones medii 
+      <lb ed="#V" n="68"/>topici mentales secundi modi non causant assensum a se 
+      distin<lb ed="#V" n="69" break="no"/>ctum: sed quaelibet est assensus quidam. probatio vero quae adducitur 
+      <lb ed="#V" n="70"/>assumit falsum scilicet quod demonstratiua probatio possit causare dissen 
+      <lb ed="#V" n="71"/>sum oppositum stantibus illis: quamquam forte posset causare stantibus aliis 
+      <lb ed="#V" n="72"/>ppositionibus topicis de primo genere mentalium propositionum: sed il 
+      <lb ed="#V" n="73"/>as non dico esse assensus.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3149">
+      ⁋ Ad 7o dico quod si fiat compara¬ e 
+      <lb ed="#V" n="74"/>tio inter propositiones mentales: quarum qualiet est de primo genere menta. 
+      <lb ed="#V" n="75"/>lium: aut inter eas quarum qualibet est de primo genere sub secundo 
+      <lb ed="#V" n="76"/>genere mentalium contento scilicet earum que sunt noticie et assensus: 
+      <lb ed="#V" n="77"/>aut vero inter eas quae pertinent ad 2m genus sub 2o genere 
+      com<lb ed="#V" n="78" break="no"/>tentum scilicet que sunt assensus tantum: maior est vera: sed si absolute 
+      <lb ed="#V" n="79"/>de propositionibus mentalibus sit comparatio falsa est: quoniam nulla de 
+      <lb ed="#V" n="80"/>primo genere est assensus vel dissensus: quaelibet autem de reliquis 
+      <lb ed="#V" n="81"/>duobus generibus est assensus vel dissensus: nec hoc inconueniens 
+      <lb ed="#V" n="82"/>debet reputari: cum sit prorsus alterius et alterius rationis: sicut etiam 
+      <lb ed="#V" n="83"/>nulla de primo genere est noticia: quaelibet aut de 2o secundi siue erg 
+      <lb ed="#V" n="84"/>primo secundi est noticia: nec mirum: cum nulla de primo genere signi 
+      <lb ed="#V" n="85"/>ficet suum enunciabile naturaliter: sed mere ad placitum: sicut et 
+      voca<lb ed="#V" n="86" break="no"/>lis propositio: cuius ipsa est similitudo: quaelibet autem reliquarum sit 
+      natura<lb ed="#V" n="87" break="no"/>lis similitudo et signum sui enunciabilis. idipsum reperitur etiam 
+      <lb ed="#V" n="88"/>lin terminis incomplexe significantibus: nullus enim talium 
+      voca<lb ed="#V" n="89" break="no"/>lis vel mentalis prmi modi est formaliter noticia: sicut nec 
+      ali<lb ed="#V" n="90" break="no"/>quis est naturale signum significati: sed ad placitum tantum: et tamen termini 
+      <lb ed="#V" n="91"/>mentales secundi modi sunt formaliter noticie: sicut et naturalia sunt 
+      <lb ed="#V" n="92"/>signa suorum significatorum: tunc cum assumitur de propositione quam 
+      for<lb ed="#V" n="93" break="no"/>mat videns baculum: cuius pars est in aqua: dico quod illa propositio qua 
+      iu<lb ed="#V" n="94" break="no"/>dicat primo baculum esse fractum non manet in mente postquam 
+      cer<lb ed="#V" n="95" break="no"/>tificatus est de opposito: sed si postea aliquam formaret: vel etiam 
+      <lb ed="#V" n="96"/>si qua remaneat quam pus formasset enuncians baculum esse 
+      <lb ed="#V" n="97"/>fractum: non est illa qua formaliter iudicauit prius ipsum esse fractum: 
+      <lb ed="#V" n="98"/>sed alia et secundum iudicium et secundum speciem: est enim de prima manerie 
+      menta<lb ed="#V" n="99" break="no"/>lium: quarum nulla vt sepe dictum est: est assensus vel dissensus. 
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3208">
+               <lb ed="#V" n="100"/>⁋ Ad 8m concedo quod fidelis et infidelis possunt formare 
+      pro<lb ed="#V" n="101" break="no"/>positiones eiusdem rationis: propositiones inquam mentales primi 
+      ge<lb ed="#V" n="102" break="no"/>neris: sed si fidelis assentiat et non infidelis: fidelis habebit 
+      <lb ed="#V" n="103"/>vnam de 2o genere mentalium qua scilicet assensus erit et infidelis nullam 
+      <lb ed="#V" n="104"/>habebit eiusdem rationis.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3221">
+      ⁋ Ad qoum patet: quid dicendum: quoniam non nisi de ar 
+      <lb ed="#V" n="105"/>propositionibus primi generis concludit.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3227">
+      ⁋ Ad primum eorum quibus arguitur erta 
+      <lb ed="#V" n="106"/>quod actus cognoscendi distiguitur ab actu assentiendi. Duend quod tam 
+      <lb ed="#V" n="107"/>sic dubitans noticiam nullam complexam qua scilicet cognoscat sic esse: dei 
+      <lb ed="#V" n="108"/>cuiusmodi noticia nunc loquimur: habet perfectam vel imperfectam 
+      <lb ed="#V" n="109"/>accipiendo proprie cognoscere. et istud patet: quoniam nec simpliciter 
+      cre<lb ed="#V" n="110" break="no"/>dens per auctoritatem vel testimonium aliorum: vel etiam determinate 
+      <lb ed="#V" n="111"/>alteram partem opinans propter rationes quae sibi de altera parte videntur 
+      pro<lb ed="#V" n="112" break="no"/>babiliores: de quibus tamen magis videretur quam de sic dubitate habet 
+      <lb ed="#V" n="113"/>aliquam noticiam proprie dictam de a se credito vel opiniato: vnde 
+      <lb ed="#V" n="114"/>Aug. in de vtilitate credendi ait. intelligens omnis credit: qui assen c 
+      <lb ed="#V" n="115"/>tit credit: et omnis qui opinatur: non omnis qui credit intelligit: nullus qo 
+      <lb ed="#V" n="116"/>opinatur intelligit.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3253">
+      ⁋ Ad 2m nego antecedens si intelligatur de assensu ergo 
+      <lb ed="#V" n="117"/>scientifico. Ad probationem dico: quod ex illo casu non probatur antecedens 
+      <lb ed="#V" n="118"/>quoniam habitus demonstrandi alicuius est vel totaliter vel partialiter ab 
+      ha<lb ed="#V" n="119" break="no"/>bitu cognoscendi sic esse: sicut conclusio ignificat: et si ipse sit totaliter alius: 
+      <lb ed="#V" n="120"/>tunc habitus demonstrandi non est habitus cognoscendi: sed habitus 
+      qui<lb ed="#V" n="121" break="no"/>dam quae prompte quis ordinate vtitur habitibus praemissarum ad aliam 
+      <lb ed="#V" n="122"/>conclusionem sumendo scilicet debitam maiorem et sub illa debitam miorem quem 
+      <lb ed="#V" n="123"/>habitum quidem dicunt esse logicum specialem: quam Comementis dicit quamlibet sci 
+      <lb ed="#V" n="124"/>entiam habere. Si vero nullus talis habitus detur oportet dicere quod non per 
+      ha<lb ed="#V" n="125" break="no"/>bitum conclusionis tantum: sed et per habitus praemissarum elicitur demonstratio: ita quod omne 
+      <lb ed="#V" n="126"/>simul dicantur habitus dem srationis qui vtique quocumque illorum deleto non 
+      <lb ed="#V" n="127"/>remanent quamuis reliqui remaneant.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3279">
+      ⁋ Praeterea artimum sumpsit dubium 
+      <lb ed="#V" n="128"/>scilicet quod ille penitus obliuisceretur demonstrare et ipse assentiat me 
+      <lb ed="#V" n="129"/>diante habitu scientie. Nam videtur rationabiliter dici posse quod non: 
+      <lb ed="#V" n="130"/>sed quod quia meminit se alias sciuisse et demonstrasse conclusionem
+      
+      <!-- missing folios missing end of article 3 (q.1 ) and beginning of a4 (q. 1)-->
+      <pb ed="#V" n="6-v"/>
+               <cb ed="#V" n="a"/>
+               <pb ed="#V" n="NaN-v"/>
+               <cb ed="#V" n="a"/>
+               <!--11.xml-->
+      
+               <pb ed="#V" n="7-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>etiam eadem ratione fides non est necessaria propter 
+      as<lb ed="#V" n="2" break="no"/>sensum illius qua enunciatur veritas de articulo: non apparet 
+      <lb ed="#V" n="3"/>quo ipsa sit necessaria propter assensum alicuius: vnde clare apparet 
+      <lb ed="#V" n="4"/>hanc opinionem repugnare sibi ipsi dieno ex vna parte quod arti: 
+      <lb ed="#V" n="5"/>culi non tantum sunt crediti: sed etiam euidenter noti ex per se noti 
+      <lb ed="#V" n="6"/>et per medium demonstratiuum ex alia vero ponendo quod 
+      fi<lb ed="#V" n="7" break="no"/>des est necessaria: vt assentiatur articulis: nec aliquid valet 
+      il<lb ed="#V" n="8" break="no"/>lud dictum de repugnantia apparente: et ineuidentia 
+      concomitan<lb ed="#V" n="9" break="no"/>te: quo enim quod est euidenter scitum reuocari potest in 
+      du<lb ed="#V" n="10" break="no"/>bium propter aliquod aliud apparens:
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3327">
+      ⁋ Praeterea ta dicendum esset 
+      <lb ed="#V" n="11"/>quod propter assensum aliarum propositionum naturaliter scitarum erit 
+      ne<lb ed="#V" n="12" break="no"/>cessaria aliqua fides vltra scientiam ne reuocentur in dubium propter 
+      <lb ed="#V" n="13"/>aliquam apparentiam in oppositum: quod nec ipsi nec aliqui sapientes 
+      <lb ed="#V" n="14"/>dicerent.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3338">
+      ⁋ Ad primam rationem opi. respondeo simpliciter negando 
+      <lb ed="#V" n="15"/>maiorem et merito: cum expresse dicat apostolus: quod fides est 
+      argumen<lb ed="#V" n="16" break="no"/>tum non apparentium: et quod sine fide impossibile est placere deo. ergo secend 
+      <lb ed="#V" n="17"/>eum tenemur credere non apparentia: et per consequens non perse 
+      no<lb ed="#V" n="18" break="no"/>bis nota: aut ex talibus deducta. Augu. quoque. 13. de tri. 
+      in<lb ed="#V" n="19" break="no"/>quit quod propterea credere iubemur: quia id quod credere 
+      iube<lb ed="#V" n="20" break="no"/>mur videre non possumus: cum est tertio articu. parisien. 3 7. 
+      <lb ed="#V" n="21"/>eam expresse condenet. dicens quod nihil est credendum: nisi per se notum vel 
+      <lb ed="#V" n="22"/>nisi ex perse notis possit demonstrari error.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3358">
+      ⁋ Ad 
+      probatio<lb ed="#V" n="23" break="no"/>nem cum assumitur quod nullus tenetur firmius adherere conclusioni quam 
+      <lb ed="#V" n="24"/>sit certitudo noticie propter quam illi adhereret: ista posset 
+      con<lb ed="#V" n="25" break="no"/>cedi cum aliqua conditione scilicet si ille teneatur adherere conclusioni praecise 
+      <lb ed="#V" n="26"/>propter certitudinem noticie: vbi autem non subest dicta 
+      condi<lb ed="#V" n="27" break="no"/>tio propositio est simpliciter neganda: in proposito autem non subest: quoniam 
+      <lb ed="#V" n="28"/>non praecise propter certitudinem aliquam noticie proprie loquendo 
+      <lb ed="#V" n="29"/>siue conclusio ium: siue principiorum tenetur catholicus adherere talibus: 
+      <lb ed="#V" n="30"/>quin immo quicquid sibi proponatur per scripturam vel ecclesiam 
+      <lb ed="#V" n="31"/>fore credendum nulla alia noticia habita credere tenetur. 
+      <lb ed="#V" n="32"/>Ad confirmationem cum dicitur nullus credidit nisi quia illud 
+      si<lb ed="#V" n="33" break="no"/>bi constat: si loquatur de constantia noticie falsum est: si de constam 
+      <lb ed="#V" n="34"/>tia adhesionis: tunc etiam potest negari: quia equivalet isti. nullus 
+      <lb ed="#V" n="35"/>credit aliquod: nisi quia credit illud. que in sua proprietate non 
+      <lb ed="#V" n="36"/>est vera.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3392">
+      ⁋ Ad 2m dicendum: quod nullo istorum modorum quis tenetur 
+      <lb ed="#V" n="37"/>articulos credere: nec etiam ipsi articuli proponuntur ipsi 
+      in<lb ed="#V" n="38" break="no"/>tellectui fidelis aliquo istorum modorum: sed proponuntur vt 
+      <lb ed="#V" n="39"/>credendi auctoritate et testimonio dei reuelantis vel per se vel 
+      <lb ed="#V" n="40"/>ter ecclesiam suam.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3403">
+      ⁋ Ad 3m patet. quod nihil valet ex eo quod fides 
+      <lb ed="#V" n="41"/>simplicis fidelis non habentis theologiam non minus est deter 
+      <lb ed="#V" n="42"/>minata ad verum quam fides maximi theologi: et tamen non per thec 
+      <lb ed="#V" n="43"/>logiam aut alium habitum aliquem: vnde ergo est quod fidelis inquantum huiusmsmodi 
+      <lb ed="#V" n="44"/>semper credit verum set fides sua in nullo est falsa: Dico quod ideo est: quia 
+      <lb ed="#V" n="45"/>primo credit auctoritati dei reuelantis: quae nec falli nec falle 
+      <lb ed="#V" n="46"/>re potest.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3419">
+      ⁋ Ad 4o concedo quod aliquid est primo creditum cui 
+      <lb ed="#V" n="47"/>adhereo propter se id est non propter aliud creditum: nec est sequitur quod 
+      il<lb ed="#V" n="48" break="no"/>lud sit per se notum: quia talis assensus vel adhesio non est ex 
+      no<lb ed="#V" n="49" break="no"/>ticia rei praesentis aut alia ali qua proprie loquendo et stricte de 
+      no<lb ed="#V" n="50" break="no"/>ticia: sicut est noticia qua primis propositionibus assentimus: ac per 
+      <lb ed="#V" n="51"/>hoc nec est assensus proprius per se notus.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3432">
+      ⁋ Ad rationem secunde 
+      <lb ed="#V" n="52"/>conclusionis dicendum: quod ad hoc quod ex aliquo medio generetur habitus 
+      pro<lb ed="#V" n="53" break="no"/>prie scientificus non sufficit quod illud sit necessarium: sed cum 
+      <lb ed="#V" n="54"/>hoc requiritur quod sit ex per se notis vel per experientiam vel ex his 
+      <lb ed="#V" n="55"/>que ex taliter notis deducuntur euidenter: ostensum autem est 
+      <lb ed="#V" n="56"/>quod illud medium non est tale.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3445">
+      ⁋ Praeterea potest dici quod illud medium 
+      <lb ed="#V" n="57"/>non est necessarium cum maior vere sit contingens. Nam possibile 
+      <lb ed="#V" n="58"/>est deum aliqua que reuelauit non reuelasse. vbi gratia dicta de 
+      <lb ed="#V" n="59"/>futuro.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3454">
+      ⁋ Ad alia dicta opri non expedit respondere.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3458">
+      ⁋ Alii 
+      di<lb ed="#V" n="60" break="no"/>xerunt et quod ex discursu theologico acquiritur scientia proprie 
+      di<lb ed="#V" n="61" break="no"/>cta: sed subalternata scientie dei et beatorum: cuius probatio est. 
+      <lb ed="#V" n="62"/>Qoniam omnis habitus procedens ex principiis sibi creditis: notis 
+      <lb ed="#V" n="63"/>autem in lumine superioris scientiae est proprie scientia subalterna 
+      <lb ed="#V" n="64"/>ta: patet de musica que vtique est proprie scientia subalternata: quia 
+      <lb ed="#V" n="65"/>Irca procedit ex principiis sibi creditis et notis in arismetrica: et 
+      <!--11.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 7-v b -->
+               <lb ed="#V" n="66"/>idem est de perspectiua quae credit principia que sunt nota in geoio. 
+      <lb ed="#V" n="67"/>sed procedit theologia ex principiis tantum in ea creditis 
+      qua<lb ed="#V" n="68" break="no"/>lia sunt articuli et alia conteta in sacra scriptura: notis aut in 
+      lu<lb ed="#V" n="69" break="no"/>mine superioris: sciente scilicet dei et beatorum. ergo etc.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3489">
+      ⁋ Pro ista opi 
+      <lb ed="#V" n="70"/>arguitur ab aliis sic. perspectiuus inquantum perspectiuus est sciens: patet. 
+      <lb ed="#V" n="71"/>quia perspectiua est species scientie: sed perspectiuus non est geosmtio inquantum per 
+      <lb ed="#V" n="72"/>spectiuus. ergo perspectiuus inquantum non est geoemia est sciens: sed inquantum 
+      <lb ed="#V" n="73"/>non est geometra non habet noticiam de his principiis: ergo non est necessium 
+      <lb ed="#V" n="74"/>omnem scientiam habere noticiam de suis principiis.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3502">
+      ⁋ Confirmatur: quia 
+      <lb ed="#V" n="75"/>perspectiua est scientia disticta a geoemia: et tamen vt sic non habet noticiam 
+      <lb ed="#V" n="76"/>suorum principiorum: ergo si aliquis habens perspectiuam non habens 
+      geome<lb ed="#V" n="77" break="no"/>triam ille crederet tantum sua principia: et tamen esset sic vere sciens: sic 
+      <lb ed="#V" n="78"/>est in proposito de theologia nra.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3513">
+      ⁋ Confirmatur 2o quia deus 
+      <lb ed="#V" n="79"/>potest conseruare in intellectu alicuius habitum perspectiue: non 
+      con<lb ed="#V" n="80" break="no"/>seruando in eo habitum geo moio: sed in tali intellectu ipsa perspectiua 
+      <lb ed="#V" n="81"/>est vere scientia subalterna: et tamen de principiis suis ille non 
+      ha<lb ed="#V" n="82" break="no"/>veret noticiam: sed fidem tantum.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3524">
+      ⁋ Praeterea scientia subalterna 
+      inquan<lb ed="#V" n="83" break="no"/>tum subalterna supponit sua principia et non nouit ea: sed 
+      in<lb ed="#V" n="84" break="no"/>quantum est scientia subalterna est scientia. ergo aliqua scientia supponit sua 
+      <lb ed="#V" n="85"/>principia et non nouit ea: sic ergo est de theomia.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3533">
+      ⁋ Contra hanc opi contr 
+      <lb ed="#V" n="86"/>Arguo primo sic: aut noticia conclusionis vel enunciabilis per conclusionem 
+      <lb ed="#V" n="87"/>fit nota nobis naturaliter ex alia pori noticia complexa aut non: si 
+      <lb ed="#V" n="88"/>non: ergo non est scientia proprie loquendo que dicitur esse conclusionis: sed potius 
+      <lb ed="#V" n="89"/>dicitur esse principium intellectus et propositionis immediate: et illa etiam est 
+      quae<lb ed="#V" n="90" break="no"/>dam metalis noticia et propositio immediata. Si vero fit in 
+      <lb ed="#V" n="91"/>nobis ex alia priori noticia complexa: illa noticia ex qua fit est 
+      <lb ed="#V" n="92"/>noticia principii: siue eius quod per principium importatur: ergo omnis scientia quae in 
+      no<lb ed="#V" n="93" break="no"/>bis naturaliter acquiritur fit in nobis ex noticia principiorum: et per consequens 
+      <lb ed="#V" n="94"/>cuiuslibet scientie naturaliter acquisite principio sunt vel fuerunt habenti illam 
+      sci<lb ed="#V" n="95" break="no"/>entiam nota.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3558">
+      ⁋ Confirmatur per philosophum primo posterio. dicens quod necesse est 
+      de<lb ed="#V" n="96" break="no"/>monstratiuam scientiam originalem esse ex veris et primis et 
+      notiori<lb ed="#V" n="97" break="no"/>bus et prioribus et causis conclusionis: originatur enim huomodi scientia ex veris no 
+      <lb ed="#V" n="98"/>ticiis primis et notioribus id est euidentioribus et prioribus et causis 
+      <lb ed="#V" n="99"/>conclusionis scilicet mentalis: quoniam ille prime noticie quae vtique sunt prime 
+      de<lb ed="#V" n="100" break="no"/>monstrationis metalis vtique sunt causae noticie quem est conclusio: vel si 
+      <lb ed="#V" n="101"/>secundum alios dicatur: quod propositio non est noticia: tunc est sensus quod 
+      noti<lb ed="#V" n="102" break="no"/>cie principiorum sunt pores et causae noticie conclusionis. Et addit philosophus 
+      <lb ed="#V" n="103"/>quod sine his vtique erit syllatus: demonstratio aut non erit: non enim faciet 
+      <lb ed="#V" n="104"/>cientiam. Item ita dicit quod necesse est non solum cognoscere prima id est 
+      <lb ed="#V" n="105"/>principia seu que per illa significantur: sed et magis: semper enim inquit propter 
+      <lb ed="#V" n="106"/>quod est vnumquodque et illud magis. Et subdit: quoniam quod scimus et cre 
+      <lb ed="#V" n="107"/>dimus per prima. id est per noticias primorum illa scimus et credimus 
+      ma<lb ed="#V" n="108" break="no"/>gis. Ex quibus patet: secundum ipsum quod quaelibet scientia acquiritur ex noticiis 
+      <lb ed="#V" n="109"/>pincipiorum suorum. Ex quo sequitur illud quod prius. Per hoc patet. quod 
+      <lb ed="#V" n="110"/>non sufficit principio esse alteri nota: vt ego scientiam habeam de 
+      co<lb ed="#V" n="111" break="no"/>clusione: quoniam per nullam noticiam existentem in alio causari potest 
+      imme<lb ed="#V" n="112" break="no"/>diate et naturaliter aliqua scientia in mente mea. Cum ergo principio theologie 
+      <lb ed="#V" n="113"/>non sint neque fuerint nobis nota: vt isti concedunt theopmodia que 
+      <lb ed="#V" n="114"/>acquiritur de communi lege in theologia de qua etiam nunc est sermo non est 
+      <lb ed="#V" n="115"/>vere scientia.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3604">
+      ⁋ 2o si scientia subalterna potest acquiri suis principiis et 
+      <lb ed="#V" n="116"/>non notis acquirenti: sed tamen creditis notis: aut habenti superiorem 
+      <lb ed="#V" n="117"/>scientiam: eadem ratione et scientia non subalterna poterit acquiri ab aliqua 
+      <lb ed="#V" n="118"/>esto quod non nouerit eius principia: dummodo credat illa: et alius noue 
+      <lb ed="#V" n="119"/>rit: non enim ratio potior ibi est quam hic: et per consequens non oportebat 
+      di<lb ed="#V" n="120" break="no"/>cere quod theologia est scientia subalterma: sed absolute poterat dici 
+      <lb ed="#V" n="121"/>scientia.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3620">
+      ⁋ Ad primam rationem opi. quamuis maior sit impropria: quoniam 
+      <lb ed="#V" n="122"/>nulli scientie siue subalterne siue non subalterne sua principim sunt 
+      <lb ed="#V" n="123"/>credita vel nota: cum nulla sit principiorum suorum fides vel 
+      intel<lb ed="#V" n="124" break="no"/>lectus: tamen si trahatur ad bonum intellectum: vt dicatur omnis habit 
+      <lb ed="#V" n="125"/>procedens ex principiis in lumine superioris scientiae tantum notis est scientia 
+      <lb ed="#V" n="126"/>subalterma: hoc potest intelligi dupliciter: vno modo quod illa principio sint no 
+      <lb ed="#V" n="127"/>ta habenti ipsam scientiam: cuius sint principim: et sic potest concedi: sed tunc patet quod 
+      <lb ed="#V" n="128"/>minor est falsa: quia principi theo modso non sunt nota theologo: vt 
+      <lb ed="#V" n="129"/>dicunt. Alio modo quod non sint nota illi: sed credita alteri: et 
+      <lb ed="#V" n="130"/>tunc est ipsa falsa: quia ex noticia principiorum existente in vno non 
+      <!--12.xml-->
+      <pb ed="#V" n="8-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>causatur noticia conclusionis in alio.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3651">
+      ⁋ Ad probationem de musica 
+      <lb ed="#V" n="2"/>respectu arismetrice. dico quod nullus ignorans arismetricam 
+      <lb ed="#V" n="3"/>nisi principio musice per experientiam: aut per aliam viam noscet: sed tantumo: cre 
+      <lb ed="#V" n="4"/>deret: acquireret musicam quae est scientia: sed tantum modoquendam habitum creditum 
+      <lb ed="#V" n="5"/>et quandam fidem: quam si vellemus possemus appellare musicam 
+      cre<lb ed="#V" n="6" break="no"/>ditiuam.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3664">
+      ⁋ Ad aliam dimissis multis aliorum solutionibus. Dico primo quod 
+      <lb ed="#V" n="7"/>ratio peccat in forma tripliciter: tum quia est in 3a figura 
+      mi<lb ed="#V" n="8" break="no"/>nore existente negatiua: tum quia altera praemissarum existente ne 
+      <lb ed="#V" n="9"/>gatiua conclusio est affirmatiua: tum etiam: quia medium intrat conclusionem 
+      <lb ed="#V" n="10"/>Si vero reducatur ad debitam formam non sequitur: aliqua conclusio ad suum 
+      <lb ed="#V" n="11"/>propositum sicut potest faciliter patere inspicienti.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3677">
+      ⁋ 2o dico: quod sicut non 
+      <lb ed="#V" n="12"/>solum habitus scientifici dicuntur phisici vel metaphisici: sed 
+      <lb ed="#V" n="13"/>etiam aliqui opinati: vnde frequenter philosophus quorumdam antiquorum 
+      <lb ed="#V" n="14"/>opiniones: licet falsas vocat phisicas: quorumdam dicit non esse 
+      <lb ed="#V" n="15"/>phisicas: sic etiam et quidam habitus crediti possunt dici metaphisici et 
+      <lb ed="#V" n="16"/>geometrici et arismetrici: et talis esset perspectiuus ille habitus quem 
+      <lb ed="#V" n="17"/>quis acquireret simpliciter credens principia perspectiue.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3694">
+      ⁋ hoc aut 
+      <lb ed="#V" n="18"/>prouenit: quia aliunde nominatur habitus phisicus vel metaph. et huiusmodi 
+      <lb ed="#V" n="19"/>et aliunde scientia dicitur Nam ex eo quod de talibus vel talibus rebus est 
+      <lb ed="#V" n="20"/>obiectiue dicitur phisicus vel aliquis talis: vt patet 6o metaphisice: 
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3703">
+               <lb ed="#V" n="21"/>⁋ Dicitur aut scientia ex eo: quod est habitualis noticia ex actualibus 
+      <lb ed="#V" n="22"/>vel ex his que per tales mediate vel immediate noticiis 
+      <lb ed="#V" n="23"/>conclusionis causatis ex noticiis prioribus etc. iuxta doctrinam 
+      <lb ed="#V" n="24"/>philosophi prio posteriorum acquisitam. Et ideo praeter defectum rationis quo ad  
+      <lb ed="#V" n="25"/>formam: est etiam deffectus in materia: quoniam vtraque istarum. perspectiuus inquantum 
+      <lb ed="#V" n="26"/>perspectiuus est sciens: perspedimentum inquantum perspectia est scientia: est falsa.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3719">
+      ⁋ Ad  
+      <lb ed="#V" n="27"/>primam confirmatione dico: quod non omnis perspectiua est scientia: sed illa 
+      du<lb ed="#V" n="28" break="no"/>taxat quae est euidens noticia ex euidenti noticia suorum principiorum 
+      imme<lb ed="#V" n="29" break="no"/>diate vel mediate genita: aut aliqua alia eiusdem rationis quam 
+      <lb ed="#V" n="30"/>deus immediate per seipum vellet causare.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3730">
+      ⁋ Ad 2am confirmationem: 
+      <lb ed="#V" n="31"/>dico primo quod idem argumentum posst fieri de scientia non subalterna 
+      supposi<lb ed="#V" n="32" break="no"/>to quod intellectus principiorum distinguatur ab habitu conclusionis: et sic 
+      pari<lb ed="#V" n="33" break="no"/>ter potuissent dixisse absolute: quod theologia est scientia absque 
+      <lb ed="#V" n="34"/>quod adderent subalterna: quod tamen non dicerent.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3741">
+      ⁋ Dico 2o quod 
+      <lb ed="#V" n="35"/>si aliquam perspectiuam: quae nunc de facto est scientia: deus conseruaret absque 
+      <lb ed="#V" n="36"/>geoemtia: adhuc ipsa esset scientia apta nata in actus similes: in quos 
+      <lb ed="#V" n="37"/>nunc est: si cetera pariter concurrerent: non aut ex hoc sequitur quod 
+      per<lb ed="#V" n="38" break="no"/>spectiua quae acquireretur in aliquo carente geoemia esset scientia.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3752">
+      ⁋ Ad 3am 
+      <lb ed="#V" n="39"/>rationem concedo quod scientia subalterna: et similiter non subalterna non nouit 
+      <lb ed="#V" n="40"/>sua principia: quia scientia non est principiorum vt supra dictum est: sed tam 
+      <lb ed="#V" n="41"/>hec quam illa est noticia ex noticiis suorum principiorum causata. 
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3762">
+               <lb ed="#V" n="42"/>⁋ Rsponsio ergo nunc aliter ad articulum istum. Et pono conclusiones 4 
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3767">
+               <lb ed="#V" n="43"/>⁋ Prima est. quod ex discursu theologico non per se acquiritur 
+      <lb ed="#V" n="44"/>scientia.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3774">
+      ⁋ 2a quod acquiritur adhesio in animo dantis fidem sacre scripture 
+      <lb ed="#V" n="45"/>in aliis autem non.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3779">
+      ⁋ 3a quod non acquiritur adhesio cum formidine. 
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3782">
+               <lb ed="#V" n="46"/>⁋ 4a quod acquirit fides quadam: ex quo patebit quod habitus 
+      theo<lb ed="#V" n="47" break="no"/>logie qui consequenter acquiritur est quidam habitus creditiuus et fides 
+      <lb ed="#V" n="48"/>idam acquisita.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3791">
+      ⁋ Primam conclusionem probo sic. Smnis discursus 
+      <lb ed="#V" n="49"/>per quem per se acquiritur scientia est ex propositionibus primis et immediatis 
+      no<lb ed="#V" n="50" break="no"/>te sunt: patet ex primo posteriorum. vbi philosophus dicit: quod sine his 
+      vti<lb ed="#V" n="51" break="no"/>que erit sillogismus: sed non faciet scientiam: sed discursus theolo 
+      <lb ed="#V" n="52"/>gicuius non est ex talibus: cum sit ex creditis: vt patet ex articulo 2o er 
+      <lb ed="#V" n="53"/>go etc.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3805">
+      ⁋ Confirmatur: quia omnis discursus faciens per se scire est de 
+      <lb ed="#V" n="54"/>monstratio: patet ex diffinitione demonstrationis primo posteriorum 
+      <lb ed="#V" n="55"/>sed discursus theous non est demonstratio: alias infidelem etiam in 
+      <lb ed="#V" n="56"/>naturalibus bene dispositum faceret scire et assentire conclusioni 
+      theologi<lb ed="#V" n="57" break="no"/>ce: quod patet falsum.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3816">
+      ⁋ 2o nullus discursus primo innitens auctori 
+      <lb ed="#V" n="58"/>tati generat scientiam: sed omnis discursus theologicus est huiusmodi: vt patet 
+      <lb ed="#V" n="59"/>ex articulo 2o ergo etc. maior patet: quia ex auctoritate sola fides 
+      <lb ed="#V" n="60"/>gignitur: iuxta illud Augu. in de vtilitate credendi. quod intel 
+      <lb ed="#V" n="61"/>ligimus demus rationi: quod credimus auctoritati. et in primo de libro 
+      <lb ed="#V" n="62"/>ar.o ait: num ad auctoritatem legis confugiendum censes homnibus iam 
+      <lb ed="#V" n="63"/>non tamen credere: sed intelligere cupientibus: q. d. nullo modo. vbi 
+      <lb ed="#V" n="64"/>manifeste innuit quod probatio per auctoritate non scientiam: sed tantumo 
+      <lb ed="#V" n="65"/>fidem aggenerat.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3836">
+      ⁋ 3o nullus discursus theologicus maiorem 
+      <!--12.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 8-r b -->
+               <lb ed="#V" n="66"/>euidentiam vel certiudinem facit de veritate aliqua 
+      theologi<lb ed="#V" n="67" break="no"/>ca quam alius theologicus discursus faciat de veritate 
+      theo<lb ed="#V" n="68" break="no"/>logica contingenti per nullam experientiam nobis 
+      notam<lb ed="#V" n="69" break="no"/>ergo nullus discursus theologicus per se facit scientiam: 
+      <lb ed="#V" n="70"/>consequentia patet: quoniam nulla veritas contingens quae non est nota no 
+      <lb ed="#V" n="71"/>bis per experientiam est eque nobis nota: sicu illa de qua 
+      ha<lb ed="#V" n="72" break="no"/>bemus scientiam: antecedens probatur: quoniam siue theologice probetur: quod 
+      <lb ed="#V" n="73"/>deus est trinus et vnus: siue quod est eternus vel sapiens: aut quam 
+      <lb ed="#V" n="74"/>cumque aliam veritatem necessariam vel contingentem mere cre 
+      <lb ed="#V" n="75"/>dibilem: aut etiam naturaliter scibilem: quis theologice probet: non 
+      <lb ed="#V" n="76"/>maiorem faciet de ea euidentiam vel certitudinem quam faciet 
+      <lb ed="#V" n="77"/>alius de ista veritate quod deus iudicabit mundum: et quod 
+      secu<lb ed="#V" n="78" break="no"/>lum finietur: aut alia mere contingente si theologice probet 
+      il<lb ed="#V" n="79" break="no"/>lam: patet: quoniam vterque ex auctoritatibus sacre scripture proce 
+      <lb ed="#V" n="80"/>det: vt dictum est in arti. 2o non maiorem autem euidentiam vel 
+      <lb ed="#V" n="81"/>certitudinem faciet in mente vna auctoritas sacre scripture 
+      <lb ed="#V" n="82"/>inquantum huius quam alia: sicut patet. ergo etc.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3882">
+      ⁋ 2a conclusio quo ad  
+      <lb ed="#V" n="83"/>primam partem probatur: quoniam omnis discursus necessitans intellictum 
+      <lb ed="#V" n="84"/>credentis sacran scripturam ad assentiendum ei: cui alias non 
+      as<lb ed="#V" n="85" break="no"/>sensisset per se causat in illo adhesionem: hoc patet: sed 
+      discur<lb ed="#V" n="86" break="no"/>sus theologicus est huiusmodi probatio: quia si theologice probetur 
+      <lb ed="#V" n="87"/>aliqua veritas non formaliter contenta in sacra scriptura: nec per 
+      <lb ed="#V" n="88"/>ecclesiam determinata ad credendum: cui est ante huiusmodi probatio 
+      <lb ed="#V" n="89"/>nem non assensisset fidelis: necessitatur talis intellectus ad 
+      as<lb ed="#V" n="90" break="no"/>sentiendum illi: quoniam impossibile est naturaliter assentire principiis 
+      <lb ed="#V" n="91"/>quin assentiat conclusioni: si appareat euidenter quod necessa 
+      <lb ed="#V" n="92"/>rio sequitur ex illis. Quo ad aliam partem: patet conclusio: quia 
+      <lb ed="#V" n="93"/>constat quod discursus theologicus non causat adhesionem 
+      <lb ed="#V" n="94"/>in animo alicuius pagani vel alterius non recipientis 
+      sa<lb ed="#V" n="95" break="no"/>cram scripturam ad fidem: esto quod ille ita nouerit 
+      conclu<lb ed="#V" n="96" break="no"/>sionem sequi ex premissis: sicut fidelis catholicus vel 
+      theo<lb ed="#V" n="97" break="no"/>logus.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3917">
+      ⁋ Confirmatur etiam ista conclusio ex 
+      auctorita<lb ed="#V" n="98" break="no"/>te Dionysui de diui. non allegata superius in articulo 
+      secum<lb ed="#V" n="99" break="no"/>do questionis huius.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3924">
+      ⁋ 3a conclusio probatur: quia omnis 
+      <lb ed="#V" n="100"/>adherens sine formidine aliquibus praemissis: adheret 
+      si<lb ed="#V" n="101" break="no"/>ne formidine conclusioni: quam noscit necessario sequi ex 
+      <lb ed="#V" n="102"/>illis: hoc patet: quia non apparet: vnde isti contingat formido: 
+      <lb ed="#V" n="103"/>qui nec ex premissis: cum eis assentiat firmiter: et sine 
+      for<lb ed="#V" n="104" break="no"/>midine: nec ex illatione: cum illam cognoscat esse necessariam.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3938">
+      ⁋ 
+      Con<lb ed="#V" n="105" break="no"/>firmatur: quia non videtur possibile naturaliter: quod aliquis euidenter 
+      cogno<lb ed="#V" n="106" break="no"/>scat eta indubitanter assentiat: quod antecedens non potest esse verum sine consequente. 
+      <lb ed="#V" n="107"/>Et indubitanter assentiat antecedenti: quin indubitanter est consequen 
+      <lb ed="#V" n="108"/>ti quod cognoscit euidenter et indubitanter esse consequens ad illud. Pre 
+      <lb ed="#V" n="109"/>misse aut in discursu theologico debite regulato sunt antecedens ad  
+      <lb ed="#V" n="110"/>conclusionem theologicam: sed danus firmam fidem sacre scripture assentit 
+      <lb ed="#V" n="111"/>dubitanter praemissis discursus theologici: vt patet: ex arti. 2o  
+      <lb ed="#V" n="112"/>ergo etc.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3958">
+      ⁋ 2o quia alias periculosum esset in theologia studere: quia de 
+      <lb ed="#V" n="113"/>tali studio consurgeret dubitatio circa sacram scripturam: vbi 
+      <lb ed="#V" n="114"/>autem dubitatio est: fides non est: vt dicit hu. de san. libo primo. Et <ref xml:id="grvnZZ-d1e97-Rd1e3964">Aug. 8o 
+        <lb ed="#V" n="115"/>de tri.</ref> vult quod in his quae ad fidem pertinent: sicut est scriptura sacra: non 
+      <lb ed="#V" n="116"/>licet dicere forte: quia dubsitinem importat: vnde ait. <quote xml:id="grvnZZ-d1e97-Qd1e3971" source="http://scta.info/resource/adt-l8-d1e974" synch="279-301">salua fide licet 
+        <lb ed="#V" n="117"/>dicere forte vergo maria talem faciem habebat. forte aut non talem: forte 
+        <lb ed="#V" n="118"/>aut de vergie natus est christus nemo salua fide christiana dixerit</quote>: et sic 
+      <lb ed="#V" n="119"/>de studio theolo modo quis fieret hereticus: consequentia priomo. quia quicumque 
+      du<lb ed="#V" n="120" break="no"/>bitat de veritate consequentis et certus est de consequentia eius ad antecedens: consequentur dubitatis 
+      <lb ed="#V" n="121"/>de veritate antecedentis. igitur si theologus de veritate 
+      con<lb ed="#V" n="122" break="no"/>clusionis theologice dubitaret: quam vtique certus est sequi ex 
+      <lb ed="#V" n="123"/>sacra scriptura: consequentur dubitaret de veritate sacre scripture. 
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e3990">
+               <lb ed="#V" n="124"/>⁋ 4a conclusio faciliter probatur: quia omnis assensus absque 
+      <lb ed="#V" n="125"/>euidentia et formidine est fides: hec satis clara et sententialiter su 
+      <lb ed="#V" n="126"/>mitur ab hug. de sa. vbi proximo supra: sed adhesio causa 
+      <lb ed="#V" n="127"/>ta in animo firmiter credentis sacre scripture est huiusmodi: vt pat 
+      <lb ed="#V" n="128"/>ex conclusionibus praecedentibus. ergo etc. Ex hoc etiam vlterius 
+      <lb ed="#V" n="129"/>patet: vt dicebatur: quod habitus ex huiusmodi adhesionibus derelictus est 
+      <lb ed="#V" n="130"/>habitus creditiuus et fides quadam habitualis acquisita: et per 
+      <!--13.xml-->
+      <pb ed="#V" n="8-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>consequens theo modoa sic accepta fides quadam est. Ex hoc vlterius sequitur 
+      <lb ed="#V" n="2"/>quod theomia sic accepta non potest ab infideli sic acquiri: nec est possi 
+      <lb ed="#V" n="3"/>bile aliquem infidelem esse theologum. Et loquor de infideli sim 
+      <lb ed="#V" n="4"/>pliciter: qualis est purus gentilis vel paganus: nulli parti 
+      scri<lb ed="#V" n="5" break="no"/>pture sacre dans fidem. Si vero accipiatur theologia non pro huiusmodi 
+      <lb ed="#V" n="6"/>habitu: sed pro eo vel his quo vel quibus: quis nouit sensum 
+      <lb ed="#V" n="7"/>scripture: et vnum dictum exponere et probare per aliud: necnatn ex 
+      <lb ed="#V" n="8"/>eius dictis alia deducere quae non formaliter continentur in ea: huiusmod 
+      <lb ed="#V" n="9"/>theologia non solum in fideli: sed in infideli potest acquiri: sicut est clarum. 
+      <lb ed="#V" n="10"/>Ad rationes principales quonis.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e4036">
+      ⁋ Ad primum cum ass 
+      <lb ed="#V" n="11"/>mitur: quod per theologicum discursum ad 
+      <lb ed="#V" n="12"/>quiritur noticia superior fide. Si intelligatur de noticia comple 
+      <lb ed="#V" n="13"/>xa qua cognoscit sic esse: sicut significat conclusio istius discursus: 
+      quic<lb ed="#V" n="14" break="no"/>quid sit de consequentia nego antecedens. Et cum dicitur alias fidelis inutilitr huiusmod 
+      <lb ed="#V" n="15"/>discursus theologicos exerceret: nego. quia quamuis non acquirat 
+      <lb ed="#V" n="16"/>talem noticiam: acquirit tamen habitum probandi ex sacra scriptura 
+      <lb ed="#V" n="17"/>theologicam veritatem: et per consequens defendendi et roborandi 
+      fi<lb ed="#V" n="18" break="no"/>dem contra impios: et nutriedi in ipsis fidelibus: necnatino et nouam 
+      <lb ed="#V" n="19"/>fidem acquirit de his veritatibus: quae non sunt expresse contente in 
+      <lb ed="#V" n="20"/>scriptura: nec determinate per fidem quas explicite antea non 
+      <lb ed="#V" n="21"/>credebat: iste autem non modicus: sed valde magnus est fru 
+      <lb ed="#V" n="22"/>ctus.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e4065">
+      ⁋ Ad confirmationem de noticia illa loquendo de qua ne 
+      <lb ed="#V" n="23"/>gatum est antecedens: concedo quod magnus theologus non habet maiorem 
+      <lb ed="#V" n="24"/>noticiam quam simplex fidelis: nec forte maiorem fidem: saltem non 
+      <lb ed="#V" n="25"/>est necessarium de his ita esse: que simplex fidelis explici 
+      <lb ed="#V" n="26"/>te credit: nihilominus tamen habet aliam noticiam: quam non habet 
+      fide<lb ed="#V" n="27" break="no"/>lis scilicet probandi et defendendi etc. vt dictum est. Et de noticia tal 
+      <lb ed="#V" n="28"/>vel scientia loquitur ibi Aug. sicut patet intuenti.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e4081">
+      ⁋ Ad 2m potest dici 
+      <lb ed="#V" n="29"/>dupliciter. vno modo: quod per scientiam certam intelligamus claram 
+      visio<lb ed="#V" n="30" break="no"/>nem que fidei succedit in patria. Et iste sensus roboratur ex 
+      <lb ed="#V" n="31"/>dicto eius. <ref xml:id="grvnZZ-d1e97-Rd1e4089">9. de trini.</ref> vbi ait. <quote xml:id="grvnZZ-d1e97-Qd1e4092" source="http://scta.info/resource/adt-l9-d1e1027" synch="214-233">certa enim fides vtcumque inchoat 
+        <lb ed="#V" n="32"/>cognitionem: cognitio vero certa non perficitur: nisi post hanc 
+        vi<lb ed="#V" n="33" break="no"/>tam: cum videbimus facie ad faciem.</quote>
+            </p>
+            <p xml:id="grvnZZ-d1e97-d1e4101">
+      ⁋ 2o illud potest 
+      intel<lb ed="#V" n="34" break="no"/>ligi: quod etiam in hac vita prasumebat se peruenturum ad certam 
+      scien<lb ed="#V" n="35" break="no"/>tiam: deo scilicet specialiter reuelante et illam infundente: sicut plerumque 
+      fe<lb ed="#V" n="36" break="no"/>cisse vere credentibus de multis credibilibus prie credendum est: 
+      <lb ed="#V" n="37"/>et huic sensui fauet dictum eiusdem. 2o de li. arbi. dicens Neque quisquam 
+      <lb ed="#V" n="38"/>inueniendo fit ydoneus: nisi antequam crediderit quod est postes 
+      <lb ed="#V" n="39"/>cogniturus: quapropter domini preceptum obtemperantes quaramus 
+      in<lb ed="#V" n="40" break="no"/>stanter: quod enim hortate et ipso quaerimus: eodem ipso demonstran 
+      <lb ed="#V" n="41"/>te inuenimus: quantum hoc in vita et a nobis talibus inuenir 
+      <lb ed="#V" n="42"/>queunt: nam et a melioribus: et dum has terras incolunt et certe a 
+      <lb ed="#V" n="43"/>bonis et piis omnibus post hanc vitam euidentius atque perfectius ista 
+      <lb ed="#V" n="44"/>cerni obtinerique credendum est: et nobis ita forte sperandum est: et 
+      <lb ed="#V" n="45"/>hunc sensum eum in verbis allegatis habuisse innuunt etia clare 
+      <lb ed="#V" n="46"/>verba quae paulo post subdit. Sequamur inquit eos qui nos inuitant 
+      <lb ed="#V" n="47"/>prius credere quod nondum valemus intueri: vt ipsa fide 
+      valentio<lb ed="#V" n="48" break="no"/>res facti quod credimus intelligere mereamur: non iam homnibus. 
+      <lb ed="#V" n="49"/>sed ipso deo mentem intrinsecus illuminante atque fifmante: sed  
+      <lb ed="#V" n="50"/>constat quod talis scientia non est theoria ia que communiter per 
+      theologico<lb ed="#V" n="51" break="no"/>discursus acquiritur.
+    </p>
+            <p xml:id="grvnZZ-d1e97-d1e4143">
+      ⁋ Ad 3m dico quod sicut patet intuenti ibidem 
+      <lb ed="#V" n="52"/>Aug. vocat scientiam illum habitum vel illos: quo vel quibus quis no 
+      <lb ed="#V" n="53"/>ait defendere fidem etc. vt supra dicebatur: hoc enim scire 
+      quadammon<lb ed="#V" n="54" break="no"/>vtique scire est: sed non est scire quod ita sit: sicut significat 
+      con<lb ed="#V" n="55" break="no"/>clusio: de quo scire erat questio praesens etc.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

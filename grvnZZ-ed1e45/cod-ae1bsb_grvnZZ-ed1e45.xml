@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#Rimini">Gregory of Rimini</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2020-10-03">October 03, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-ae1bsb">Venice 1503</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-03" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="70-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="grvnZZ-ed1e45"><!-- l1d10q1 -->
+            <head xml:id="grvnZZ-ed1e45-Hd1e106">Quaestio 1</head>
+            <head xml:id="grvnZZ-ed1e45-Hd1e109" type="question-title">Utrum voluntas divina sit principium productivum spiritus sancti</head>
+            <p xml:id="grvnZZ-ed1e45-d1e112">
+               <lb ed="#V" n="16"/>⁋ Distinctionis. X. Questio. I 
+      <lb ed="#V" n="17"/>CIrca distinctionem. 10 Quero: an 
+      vo<lb ed="#V" n="18" break="no"/>luntas diuina sit principium 
+      pro<lb ed="#V" n="19" break="no"/>ductiuum spiritus sancti.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e123">
+      ⁋ Arguitur quod sic. Nam 
+      <lb ed="#V" n="20"/>principium productiuum amoris mutui 
+      pa<lb ed="#V" n="21" break="no"/>tris et filii est principium productiuum spiritus 
+      san<lb ed="#V" n="22" break="no"/>cti: sed voluntas diuina est principium amoris 
+      <lb ed="#V" n="23"/>mutui patris et filii. ergo etc. maior patet: quoniam per 
+      <lb ed="#V" n="24"/>multas sanctorum auctoritates magister probat in praesenti 
+      di<lb ed="#V" n="25" break="no"/>stictione quod spiritus sanctus est amor commnis et mutuus patris et 
+      fi<lb ed="#V" n="26" break="no"/>lii: minor est patet: quoniam huiusmodi amor est vere productus et spiratus: 
+      <lb ed="#V" n="27"/>et per consequens aliquid est eius principium productiuum: et non apparet aliud 
+      <lb ed="#V" n="28"/>quam voluntas patris et filii: quia omnis amor productus a 
+      volunta<lb ed="#V" n="29" break="no"/>te elicitur.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e147">
+      ⁋ 2o spiritus sanctus libere et non naturaliter producitur: 
+      <lb ed="#V" n="30"/>ergo voluntas est principium productiuum eius. consequentia patet: quoniam prima 
+      <lb ed="#V" n="31"/>radix libertatis est in voluntate. Et antecedens patet: quoniam spiritus secuns 
+      <lb ed="#V" n="32"/>procedit non quo natus: sed quo datus: et donum patris et filii: 
+      <lb ed="#V" n="33"/>vt patet per Aug. 5. de tri. et sequenti. de ratione aut doni est quod 
+      <lb ed="#V" n="34"/>libere donetur. quare etc. 
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e161">
+               <lb ed="#V" n="35"/>⁋ ontra essentia diuina non est principium productiuum 
+      <lb ed="#V" n="36"/>filii. vt supra patet. dis. 5. et eadem ratione nec spei 
+      <lb ed="#V" n="37"/>ritus sancti: ergo voluntas diuina non est principium productiuum 
+      <lb ed="#V" n="38"/>spiritus sancti. consequentia patet: quoniam voluntas divina est penitus indisti 
+      <lb ed="#V" n="39"/>cta ex natura rei ab ipsa essentiat omnino sibi eadem: vt supra patet.dicenseod 
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e174">
+               <lb ed="#V" n="40"/>⁋ hic duo tanguntur videnda pro praesenti quesito. vnum est quod 
+      <lb ed="#V" n="41"/>queritur: aliud vtrum spiritus sanctus producatur. 
+      <lb ed="#V" n="42"/>libere vel naturaliter: quod implicatur in secundo argumento. 
+      <lb ed="#V" n="43"/>Quantum ad primum loquendo conformiter ad 
+      illu<lb ed="#V" n="44" break="no"/>quod supra. dis. 2e dictum est de pricipio 
+      pro<lb ed="#V" n="45" break="no"/>ductiuo filii. Dico quod voluntas non est principium spiritus sancti 
+      <lb ed="#V" n="46"/>productiuum: quod probo per similes rationes quibus probatum est quod 
+      essen<lb ed="#V" n="47" break="no"/>tia divina non est principium productiuum filii.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e194">
+      ⁋ Primo sic. omne quod 
+      <lb ed="#V" n="48"/>est principium productiuum spiritus sancti: producit spiectum scendum. voluntas 
+      <lb ed="#V" n="49"/>diuina non producit spiectum scendum: ergo etc. minor patet: quoniam sicut essentia 
+      <lb ed="#V" n="50"/>ommunis non generat aut generatur: nec spirat aut spiratur: vt dicit 
+      con<lb ed="#V" n="51" break="no"/>cilium: sic nec voluntas: cum voluntas sit idem esentie adequate 
+      <lb ed="#V" n="52"/>et omnibus modis ex natura rei. Marior vero probatur: quoniam in deo non 
+      <lb ed="#V" n="53"/>distiguitur principium productiuum a principio quod producit: vt ibi proba 
+      <lb ed="#V" n="54"/>tum est. ergo omne quod in deo principium productiuum est producit. et per consequens omne 
+      <lb ed="#V" n="55"/>principium producens spiectum sanctum: producit spectum scuntdum.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e214">
+      ⁋ 2o voluntas 
+      <lb ed="#V" n="56"/>divina est spiritus sanctus: ergo voluntas divina non est productiua spiritus 
+      <lb ed="#V" n="57"/>sancti. patet antecedens: et consequentia probatur. vt ibi.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e221">
+      ⁋ 3o si voluntas divina esset 
+      <lb ed="#V" n="58"/>principium productiuum spiritus sancti: ipsa diceretur relatiue ad ipsum 
+      <lb ed="#V" n="59"/>consequens est falsum. consequentia patet. et falsitas consequentis declaratur: sicut ibi 
+      decla<lb ed="#V" n="60" break="no"/>ratum est.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e230">
+      ⁋ Et responsiones quae dari possent reprobantur: vt ibi su 
+      <lb ed="#V" n="61"/>pra probatum est de voluntate: sic potest probari de essentia et natura divina: 
+      <lb ed="#V" n="62"/>vt est communis tribus. Quamuis enim volutas divina sit pliter qui est principium 
+      pro<lb ed="#V" n="63" break="no"/>ductiuum spiritus sancti: ipsa tamen non est principium productiuum spus sancti 
+      <lb ed="#V" n="64"/>quod idem est dictu: sicut quamuis essentia divina sit piter qui gnat: ipsa tame 
+      <lb ed="#V" n="65"/>non generat vt dicit concilium.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e244">
+      ⁋ Contra istam conclusionem arguitur a quibus¬ 
+      <!--135.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 70-v b -->
+               <lb ed="#V" n="66"/>dam sic. Quecumque voluntas perfecta habens obiectum diligibile 
+      si<lb ed="#V" n="67" break="no"/>bi praesentatum est principium producendi amorem ade quatum sibi et obiecto id est 
+      <lb ed="#V" n="68"/>amorem tantum quantum potest habere respectum talis obiecti. ergo voluntas 
+      <lb ed="#V" n="69"/>divina habens essentiam divinam summe sibi praesentatam et diligibilem est 
+      <lb ed="#V" n="70"/>principium producendi amorem adequatum sibi et illi obiecto: cum autem tam ipsa 
+      <lb ed="#V" n="71"/>quam essentia sit infinita: amor adequatus ei necessario est infinitus: et per 
+      <lb ed="#V" n="72"/>consequens voluntas divina est principium producedi amorem infinitum. Et vltra 
+      <lb ed="#V" n="73"/>vt idem doc. alibi dducit: vlterius cum amor infinitus sit deus et 
+      <lb ed="#V" n="74"/>per se subsistens: et productum necessario sit distinctum a producente: 
+      <lb ed="#V" n="75"/>qui nihil producit se: sequitur quod ille amor sit persona subsistens 
+      <lb ed="#V" n="76"/>distincta a producente. talis autem persona est spitus scuns: ergo voluntas 
+      <lb ed="#V" n="77"/>divina est principium producendi spectum scentum.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e279">
+      ⁋ Alii probant idem sic. secundum 
+      fi<lb ed="#V" n="78" break="no"/>dem spitus secunus producitur a patre et filio: ergo si sit aliquod principium 
+      produ<lb ed="#V" n="79" break="no"/>ctiuum illius cum illud non posset esse relatio: quoniam vna relatio non 
+      <lb ed="#V" n="80"/>potest esse principium elicitiuum alterius relationis correlatiue nec 
+      <lb ed="#V" n="81"/>sui ipsius: oportet quod principium elicitiuum sit aliquod absolutum: sed 
+      ni<lb ed="#V" n="82" break="no"/>hil est absolutum in divinis: nisi essentia divina: quae omnibus modis ex 
+      <lb ed="#V" n="83"/>natura rei est voluntas. ergo nisi aliquis modus logycalis vel 
+      granma<lb ed="#V" n="84" break="no"/>ticalis impediat: sic concedendum est de essentia quod est principium 
+      eli<lb ed="#V" n="85" break="no"/>citiuum spirationis: ita eodem modo concedendum est de voluntate. 
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e299">
+               <lb ed="#V" n="86"/>⁋ 2o secundum istos spiritus secus est amor et caritas: sed talis persona  
+      <lb ed="#V" n="87"/>producitur a voluntate tamquam a pricipio elicitiuo. ergo etc.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e306">
+      ⁋ Ad  
+      <lb ed="#V" n="88"/>primum dico quod antecedens non est verum de voluntate illa quae est amor illi 
+      <lb ed="#V" n="89"/>obiecti: talis enim voluntas non plus est principium producendi illum 
+      <lb ed="#V" n="90"/>amorem: quam sit pricipium producendi se ipsam: et quam amor ille sit 
+      <lb ed="#V" n="91"/>principium producendi voluntatem aut seipum: divina vero voluntas est suus 
+      <lb ed="#V" n="92"/>amor: et amor essentie divine est spis scuns: sicut essentia divina quae est 
+      <lb ed="#V" n="93"/>sua voluntas est spiritus scus: et ideo non est principium producendi spectum scundum 
+      <lb ed="#V" n="94"/>vel amorem suum: ex quo etiam patet quod non est de ratione voluntatis in communi 
+      <lb ed="#V" n="95"/>nec sibi per se conuenit: quod sit principium producendi amorem suum. 
+      <lb ed="#V" n="96"/>Nec sequitur. voluntas creata est principium producendi amorem 
+      <lb ed="#V" n="97"/>suum. ergo et quaelibet voluntas aut voluntas divina: sic isti idem 
+      alibi<lb ed="#V" n="98" break="no"/>ad istud propositum virtualiter sumunt.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e332">
+      ⁋ Ad secundam concedo antecedens. et cum 
+      <lb ed="#V" n="99"/>infertur. ergo si sit aliquod principium productiuum: illud est absolutum. nego 
+      <lb ed="#V" n="100"/>consequentia dico quod pater et similiter filius: est principium productiuum spiritus sancti: 
+      <lb ed="#V" n="101"/>Cum probatur quod non: quoniam relatio non est principium productiuum 
+      rela<lb ed="#V" n="102" break="no"/>tionis relatiue. hoc quidem falsum est: et secundum istu sic arguentem: et patet fal 
+      <lb ed="#V" n="103"/>sitas. in divinis quod. nam paiter principium productiuum est filii: et relatio patris 
+      <lb ed="#V" n="104"/>ad filium: quae non est aliqua entitas distincta a patre: sed est ipse pater: est 
+      <lb ed="#V" n="105"/>etiam principium productiuum filiationis: sicut et filii qui est ipsa 
+      filia<lb ed="#V" n="106" break="no"/>tio subsistens: vt filiatio sumitur pro relatione correlatiua 
+      pa<lb ed="#V" n="107" break="no"/>ternitatis: quicquid ergo est principium productiuum filii: est productiuum 
+      <lb ed="#V" n="108"/>filiationis et cuiuscumque patur est productiuus: eius est productiua 
+      pa<lb ed="#V" n="109" break="no"/>ternitas: in creaturis est: supposito quod relatio non sit entitas 
+      <lb ed="#V" n="110"/>secundum se distincta ab entitatibus absolutis: et infra ostendetur: et 
+      <lb ed="#V" n="111"/>iste doctor concedit: sed sit eadem entitas cum entitate absolu 
+      <lb ed="#V" n="112"/>ta necesse est concedere: quod sicut calor est productiuus caloris: sic 
+      <lb ed="#V" n="113"/>relatio productiui ad producentem vel productum quae est eadem ca 
+      <lb ed="#V" n="114"/>lori producto.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e369">
+      ⁋ Et si dicatur quod quamuis pater et filius sint principi 
+      <lb ed="#V" n="115"/>productiuum spiritus sancti: principium quidem quod: non tamen principium qua. et de isto 
+      <lb ed="#V" n="116"/>est quaestio
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e377">
+      ⁋ Dicendum quod talis distinctio principiorum quod et quo. locum 
+      <lb ed="#V" n="117"/>non habet in deo: vbi principium quod. est simplex omnino sicut supra. dis. 7. 
+      de<lb ed="#V" n="118" break="no"/>claratum est.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e384">
+      ⁋ Ad tertiam rationem concedo quod spiritus secus est 
+      chari<lb ed="#V" n="119" break="no"/>tas patris et filii: et cum dicitur quod talis persona producitur a voluntate 
+      <lb ed="#V" n="120"/>tamquam a principio elicitiuo. nego: sed dico quod producitur a patre et filio 
+      <lb ed="#V" n="121"/>quae sunt voluntas: et pater et filius qui sunt voluntas sunt principium productiuum 
+      <lb ed="#V" n="122"/>spiritus sancti: nec ex hoc sequitur: quod voluntas sit principium productiuum 
+      <lb ed="#V" n="123"/>spiritus sancti: sicut non sequitur paiter qui est essentia generat. ergo essentia generat etc. 
+      <lb ed="#V" n="124"/>Quantum ad secundum arti. vtrum spiritus sanctus producam 
+      <lb ed="#V" n="125"/>tur libere vel naturaliter: respondet idem 
+      <lb ed="#V" n="126"/>dotc. quod producitur libere. non autem naturaliter: sicut econuerso filius 
+      <lb ed="#V" n="127"/>producitur naturaliter et non libere. vnde ex dictis eius est 
+      <lb ed="#V" n="128"/>possunt accipi quatuor conclusiones ad propositum. prima est e 
+      <lb ed="#V" n="129"/>quod spitus scus producitur necessario. 2a quod producitur libere 
+      <lb ed="#V" n="130"/>Tertia quod non producitur naturaliter. 4a quod necessitas et libertas 
+      <!--136.xml-->
+      <pb ed="#V" n="71-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>sunt compossibiles eidem principio productiuo respectu eius 
+      <lb ed="#V" n="2"/>dem productionis.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e423">
+      ⁋ Prima conclusio porobatur: quia voluntas 
+      diui<lb ed="#V" n="3" break="no"/>na necessario est principium volendi diuinam essentiam. ergo in 
+      <lb ed="#V" n="4"/>supposito conueniente productioni: sicut est pater et filius necessario est 
+      <lb ed="#V" n="5"/>principium producendi amorem adequatum sibi et essentie 
+      intel<lb ed="#V" n="6" break="no"/>ligendo adequationem: sicut in primo articulo expositum est. talis 
+      <lb ed="#V" n="7"/>autem amor productus spiritus sanctus est. Antecedens probatur per hoc: quoniam 
+      <lb ed="#V" n="8"/>voluntas diuina necessario est in actu secundo et recto: et 
+      respe<lb ed="#V" n="9" break="no"/>ctu prmi obiecti: hoc autem est essentia diuina.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e441">
+      ⁋ 2a conclusio probatur sic: 
+      <lb ed="#V" n="10"/>voluntas diuina est principium libere volendi essentiam diuinam. 
+      <lb ed="#V" n="11"/>ergo est principium libere producendi amorem adequatum etc. et per 
+      <lb ed="#V" n="12"/>consequens spectum sanctum. Antecedens probatur: quoniam omnis potentia operatiua circa 
+      <lb ed="#V" n="13"/>vnum in ordine ad aliud est operatiua circa vtrumque: sicut pos 
+      <lb ed="#V" n="14"/>cognitiua conclusionis propter principium: est et cognitiua principii: sicut 
+      ar<lb ed="#V" n="15" break="no"/>guit etam P. 2o de anima. de sensu communi: et eadem ratione potentia 
+      opera<lb ed="#V" n="16" break="no"/>tiua eius quod est ad finem propter ipsum finem: etiam est operatiua circa 
+      <lb ed="#V" n="17"/>finem: sed voluntas diuina est operatiua et volitiua eorum que sunt 
+      <lb ed="#V" n="18"/>ad finem id est creaturarum propter finem: qui finis est essentia diuina. ergo 
+      <lb ed="#V" n="19"/>est etiam operatiua circa essentiam. Cum ergo circa ea que sunt ad  
+      <lb ed="#V" n="20"/>finem sit operatiua libere et non naturaliter. ergo etiam libere et non na 
+      <lb ed="#V" n="21"/>turaliter erit operatiua circa diuinam essentiam: et per consequens 
+      libe<lb ed="#V" n="22" break="no"/>re vult illam: et consequentia patet: quoniam impossibile est quod oppositi modi 
+      operan<lb ed="#V" n="23" break="no"/>di vel principiandi competant eidem principio productiuo: tales 
+      <lb ed="#V" n="24"/>autem sunt modi principiandi naturaliter et libere: qui primo 
+      distin<lb ed="#V" n="25" break="no"/>guunt potentiam actiuam: vt patet. 2o phycorum. Unde ex hoc 
+      pos<lb ed="#V" n="26" break="no"/>set verius argui ad propositum sic: voluntas diuia est principium 
+      pro<lb ed="#V" n="27" break="no"/>ducendi creaturas libere. ergo est principium producendi libere 
+      <lb ed="#V" n="28"/>spectum sanctum. consequentia probatur: supposito quod ipsa sit principium producendi 
+      <lb ed="#V" n="29"/>spectum sanctum: ex hoc quod modi praedicti producendi eidem principio 
+      pro<lb ed="#V" n="30" break="no"/>ductiuo non possunt competere.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e489">
+      ⁋ Et per idem probatur. 3a conclusio sic 
+      vo<lb ed="#V" n="31" break="no"/>luntas est principium producendi libere spiectum sanctum. ergo non naturaliter 
+      <lb ed="#V" n="32"/>Quarta conclusio probatur. primo auctoritas Aug. in ench. dicens neque 
+      <lb ed="#V" n="33"/>enim culpanda est voluntas: aut voluntas non est: aut libera 
+      <lb ed="#V" n="34"/>dicenda non est qua beati sic esse volumus vt esse miseri non 
+      <lb ed="#V" n="35"/>solum nolimus: sed nequaquam prorsus velle possimus: sicut ergo 
+      <lb ed="#V" n="36"/>anima nostra est nunc nolle infelicitatem: ita tunc velle iniquitatem 
+      <lb ed="#V" n="37"/>non poterit. Ex hac auc. patet quod btitudinem et necessario et libe 
+      <lb ed="#V" n="38"/>re volumus: et per consequens et necessitas et libertas eidem principio 
+      re<lb ed="#V" n="39" break="no"/>spectu eiusdem operis conueniunt.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e511">
+      ⁋ 2o idem probatur ratione: quia 
+      li<lb ed="#V" n="40" break="no"/>bertas est conditio intrinseca voluntatis vt comparatur ad actum: 
+      <lb ed="#V" n="41"/>quod ergo non repugnat voluntati vt comparatur ad actum non 
+      repu<lb ed="#V" n="42" break="no"/>gnat libertati eius: sed necessitas eius non repugnat 
+      volunta<lb ed="#V" n="43" break="no"/>ti comparate ad productionem: cum ipsa sit principium necessario 
+      <lb ed="#V" n="44"/>producendi amorem: vt est probatum. ergo nec essitas non 
+      repu<lb ed="#V" n="45" break="no"/>gnat libertati voluntatis in comparatione ad eandem 
+      productio<lb ed="#V" n="46" break="no"/>nem.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e530">
+      ⁋ 3o necessitas non tollit conditionem principii 
+      producti<lb ed="#V" n="47" break="no"/>ui perfecti: cum ipsa sit perfectio in principio productiuo. Nam in 
+      <lb ed="#V" n="48"/>omni conditione entis cui est possibilis ipsa est perfectionis: es 
+      <lb ed="#V" n="49"/>quod sit nobilior differentia entis. Est autem possibilis productioni 
+      <lb ed="#V" n="50"/>eius cuius neutrum extremum requirit contingentiam in productione 
+      <lb ed="#V" n="51"/>vt est in proposito de productione spiritus sancti. ergo ipsa non 
+      <lb ed="#V" n="52"/>tollit libertatem quae est conditio principii productiui perfecti 
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e546">
+               <lb ed="#V" n="53"/>⁋ Et si dicatur quo est hoc possibile cum liberum ex eo quod libe 
+      <lb ed="#V" n="54"/>rum est: videatur posse determinare se ad hoc producendum 
+      <lb ed="#V" n="55"/>et ad suum oppositum. quod autem necessario producit 
+      determina<lb ed="#V" n="56" break="no"/>tum est ex se ad vnum. Respondent quod sicut qualibet forma actiua 
+      <lb ed="#V" n="57"/>sequitur immediate quod sit principium agenti: ita immediate consequitur 
+      <lb ed="#V" n="58"/>eam proprius modus agendi. Et ideo sicut non est aliqua causa quaere 
+      <lb ed="#V" n="59"/>talis forma agat: nisi quia est talis forma. ita non est aliqua 
+      <lb ed="#V" n="60"/>causa quare habet tale modum agendi: nisi quia est talis forma. vnde sicut 
+      <lb ed="#V" n="61"/>non est alia causa quare calor est calefactiuus: nisi quia calor est ca 
+      <lb ed="#V" n="62"/>lor: ita non est alia causa: quare calor est principium agendi naturaliter 
+      <lb ed="#V" n="63"/>seu per modum nature: nisi quia calor est calor.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e572">
+      ⁋ Eodem modo modo sicut 
+      <lb ed="#V" n="64"/>non est alia causa quare volutas vult sic scilicet libere necessario vel 
+      <lb ed="#V" n="65"/>contingenter: nisi quia voluntas est voluntas: nec iste conditiones 
+      <!--136.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 71-r b -->
+               <lb ed="#V" n="66"/>actionis necessitas vel contingentia sunt differentie essentiales acti 
+      <lb ed="#V" n="67"/>ui principii. Sed accidentales non conuertibiles: cum actiuo principio 
+      <lb ed="#V" n="68"/>naturali: nec cum libero. vnde et actiuum naturale potest contingenter agere: 
+      <lb ed="#V" n="69"/>quoniam potest impediri: et per consequens pari ratione actiuum liberum potest necessario 
+      <lb ed="#V" n="70"/>agere.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e596">
+      ⁋ hec opinio plura falsa continet. et ideo pro eius 
+      improba<lb ed="#V" n="71" break="no"/>tione: et solutione praesentis articuli pono tres conclusiones
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e601">
+      ⁋ Prima l 
+      <lb ed="#V" n="72"/>quod libertas et necessitas in agendo non sunt compossibiles in eo: 
+      <lb ed="#V" n="73"/>dem principio respectum eiusdem actionis. Siue quod idem est dictu. non est 
+      <lb ed="#V" n="74"/>possibile idem productiuum vel actiuum agere vel producere 
+      <lb ed="#V" n="75"/>idem libere et necessario. Et accipio liberum: vt distinguitur 
+      con<lb ed="#V" n="76" break="no"/>tra naturale: et libere agere contra naturaliter agere: et secundum quod istis termin 
+      <lb ed="#V" n="77"/>nis vsi sunt sancti et philosophi et doc. communiter.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e617">
+      ⁋ 2a quod idem principium potest 
+      <lb ed="#V" n="78"/>esse principium naturale: vnius productionis: et liberum respectum alterius. 
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e623">
+               <lb ed="#V" n="79"/>⁋ 3a quod spiritus sanctus producitur naturaliter et non libere: et in omni 
+      <lb ed="#V" n="80"/>bus sumo hunc terminum liberum vel libere: vt distinguitur contra 
+      <lb ed="#V" n="81"/>naturale: et naturaliter sicut prius.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e632">
+      ⁋ Prima conclusio dependet in sua 
+      pro<lb ed="#V" n="82" break="no"/>batione ex differentia modi agendi naturaliter et libere: siue agentis 
+      <lb ed="#V" n="83"/>liberi et naturalis inquantum huiusmodi. Et dico quod differentia consistit in hoc quoniam 
+      <lb ed="#V" n="84"/>illud dicitur agens nale: quod positis omnibus requisitis ad agendum: 
+      <lb ed="#V" n="85"/>et nullo existente impedimento ita quod possit agere necessario 
+      <lb ed="#V" n="86"/>agit: nec est in eius potestate non agere: agens vero illud dicitur 
+      li<lb ed="#V" n="87" break="no"/>berum quod eodem modo omnibus positis ita vt possit agere non 
+      ne<lb ed="#V" n="88" break="no"/>cessario agit: sed in potestatem eius est vt agat et non agat. Et 
+      quan<lb ed="#V" n="89" break="no"/>uis euidens sit: vel faciliter esse possit aliqua talia esse: quod tamen 
+      il<lb ed="#V" n="90" break="no"/>lud dicatur naturale: illud vero liberum probari non potest nisi per 
+      <lb ed="#V" n="91"/>auctoritatem.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e656">
+      ⁋ Et illud probo primo per philosophum. 9. metaph. 
+      <lb ed="#V" n="92"/>vbi dans differentiam inter potentias actiuas rationales et 
+      irratio<lb ed="#V" n="93" break="no"/>nales ait tales quidem potentias scilicet irrationales necesse est quando 
+      <lb ed="#V" n="94"/>vt possint actiuum et passiuum appropinquant: hoc quidem face 
+      <lb ed="#V" n="95"/>re illud vero pati: illas vero scilicet rationales: non necesse est supple 
+      <lb ed="#V" n="96"/>hoc facere et illud pati. Sed constat per omnem concessionem et 
+      <lb ed="#V" n="97"/>per illummet doctorem: cuius est opinio recitata: quod hic. P. 
+      <lb ed="#V" n="98"/>per potentias irrationales intelligit eas quas communiter vocams 
+      <lb ed="#V" n="99"/>actiuas naturales. vnde ipsemet. dicens quod ista diffinitio est cum illis 
+      <lb ed="#V" n="100"/>eadem: quas. P. ponit in secundo physicorum de causis 
+      agen<lb ed="#V" n="101" break="no"/>tibus secundum propositum: et non secundum propositum: quas post 
+      vo<lb ed="#V" n="102" break="no"/>cat intellectum et naturam: vnde per ista tria non secundum 
+      propo<lb ed="#V" n="103" break="no"/>situm: a nam: et potentia irrationalis intelligitur vt. dicens illud 
+      prim<lb ed="#V" n="104" break="no"/>cipium actiuum: quod communiter dicimus nam. ergo secundum. P. et istum 
+      <lb ed="#V" n="105"/>docores principium actiuum naturale dicitur illud: quod necessario agit 
+      <lb ed="#V" n="106"/>dum est in dispositione: in qua potest agere: et per consequens principium 
+      <lb ed="#V" n="107"/>liberum ex opposito constitutum est illud quod non necessario agit: 
+      <lb ed="#V" n="108"/>sed potest agere et non agere: vt dictum est. hoc idem patet. per Augu. 
+      <lb ed="#V" n="109"/>3o de lib ar. vbi querens an motus voluntatis: quo ipsa ali 
+      <lb ed="#V" n="110"/>incommutabili bono auertitur et conuertitur ad commutabile: 
+      <lb ed="#V" n="111"/>sit ei naturalis: sicut motus deorsum naturalis est lapidi. determi 
+      <lb ed="#V" n="112"/>nat quod non: et dans conuenientiam et differentiam inter eos in ordine ad 
+      <lb ed="#V" n="113"/>lapidem et voluntatem: ait. in eo est simulis illi motui quo 
+      deor<lb ed="#V" n="114" break="no"/>sum versus lapre. fertur: quoniam sicut iste proprie est lapidis: sic 
+      il<lb ed="#V" n="115" break="no"/>le animi. veruntamen in eo dissimilis: quod in potestate non 
+      <lb ed="#V" n="116"/>habet lapis cohibere motum quo mouetur inferius: 
+      ani<lb ed="#V" n="117" break="no"/>mus aut dum non vult non ita mouetur: vt superioribus 
+      de<lb ed="#V" n="118" break="no"/>sertis inferiora diligat: et ideo lapidi naturalis est ille motus:  
+      <lb ed="#V" n="119"/>animo vero iste voluntarius: vbi patet: quod ideo dicit descensum 
+      <lb ed="#V" n="120"/>esse lapidi naturalem: quia non est in potestate lapidis 
+      cohibe<lb ed="#V" n="121" break="no"/>re descensum suum. id est non descendere siue moueri deorsum: il 
+      <lb ed="#V" n="122"/>le vero motus animi: ideo non est ei naturalis: sed voluntarius vt 
+      <lb ed="#V" n="123"/>voluntarium contra naturale distinguitur: quia in eius 
+      potesta<lb ed="#V" n="124" break="no"/>te est non sic moueri.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e730">
+      ⁋ Item infra. dicit quod non est nobis 
+      li<lb ed="#V" n="125" break="no"/>berum: quod in potestate non habemus: aut potest esse liberum 
+      <lb ed="#V" n="126"/>quod habemus in potestate.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e737">
+      ⁋ Ex quo patet secundum ipsum. quod 
+      <lb ed="#V" n="127"/>oimne quod est nobis liberum est in potestate nostra: illud aut 
+      <lb ed="#V" n="128"/>solum dicitur esse in potestate nostra quod possumus facere et non face 
+      <lb ed="#V" n="129"/>rem. vnde. P. tertio ethicorum dicit: quod in quibus est in 
+      no<lb ed="#V" n="130" break="no"/>bis. id est in potestate nostra operari et non operari supple 
+      <!--137.xml-->
+      <pb ed="#V" n="71-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>est in nobis: et in quibus non est. id est in quibus est in nobis 
+      <lb ed="#V" n="2"/>non operari: etiam operari est in nobis. ergo illud solum est in nobis 
+      li<lb ed="#V" n="3" break="no"/>verum: sic accipiendo liberum: quod et eius oppositum possumus: 
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e761">
+               <lb ed="#V" n="4"/>⁋ Item Damen. 2o lib. ECorums inquit que fiunt: hec quidem sunt in 
+      no<lb ed="#V" n="5" break="no"/>bis: hec aut non in nobis. ergo in nobis quidem sunt qua nos sumus libe 
+      <lb ed="#V" n="6"/>ri arbitrio facere et non facere: hec enim omnia quae per nos volunta 
+      <lb ed="#V" n="7"/>rie aguntur: non enim voluntarie dicerentur agi actu non existente in 
+      <lb ed="#V" n="8"/>nobis. Ex quibus est patet: quod ea tantum voluntarie agere dicimur quae 
+      <lb ed="#V" n="9"/>sunt in nobis: et quae facere et non facere possumus: et voluntarium 
+      <lb ed="#V" n="10"/>accipit: sicut supra Aug. Ex his omnibus manifeste colligitur: 
+      <lb ed="#V" n="11"/>quod respectum illius tantum principium actiuum dicitur esse liberum quod et suum 
+      opposi<lb ed="#V" n="12" break="no"/>tum est in eius potestate: et per consequens illud tantum fit ab aliquo 
+      princi<lb ed="#V" n="13" break="no"/>pio libere: quod fit ab illo contingenter non necessario.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e786">
+      ⁋ Ex quo 
+      <lb ed="#V" n="14"/>vlterius sequitur quod impossibile est idem ab aliquo fieri vel produ 
+      <lb ed="#V" n="15"/>ci necessario et libere: vt libere produci distiguitur contra produci 
+      <lb ed="#V" n="16"/>naturaliter: alioquin idem produceretur necessario et non produceretu 
+      <lb ed="#V" n="17"/>necessario ab eodem quod implicat contradictionem.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e797">
+      ⁋ Praeterea constat 
+      <lb ed="#V" n="18"/>quod distinctio principii actiui vel productiui naturalis: a principio 
+      <lb ed="#V" n="19"/>libero inquantum huius: non attenditur secundum entitates eorum in se et 
+      <lb ed="#V" n="20"/>absolute: vt tales entitates sunt: quoniam secundum entitatem 
+      aliquan<lb ed="#V" n="21" break="no"/>do vnum principium naturale magis conuenit cum vno principio libero¬. 
+      <lb ed="#V" n="22"/>verbi grata. principium quo naliter producitur filius dei cum principio  
+      <lb ed="#V" n="23"/>quo libere causantur creature: quam duo libera principia inter se: 
+      <lb ed="#V" n="24"/>vt voluntas dei et voluntas nostra: quarum vtraque est principium liberum: 
+      <lb ed="#V" n="25"/>sed inquantum sunt actiua et principium actiuum. vnde vtrumque dicitur tale 
+      conno<lb ed="#V" n="26" break="no"/>tando aliquo modo actum: vt patet in diffinitionibus exprimentibus 
+      <lb ed="#V" n="27"/>quid nomins horum terminorum: principium liberum et principium naturale.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e821">
+      ⁋ Ista 
+      <lb ed="#V" n="28"/>ergo diuersitas vel sumitur secundum diuersitatem actuum: quorum 
+      <lb ed="#V" n="29"/>sunt principia: vel secundum diuersitatem modi eliciendi vel 
+      princi<lb ed="#V" n="30" break="no"/>piandi suos actus non primo modo. Nam duo principia actiua vnum 
+      natura<lb ed="#V" n="31" break="no"/>le et alterum liberum possunt similium actuum: secundum species esse principia: siout 
+      <lb ed="#V" n="32"/>deus libere potest producere calorem eiusdem speciei cum calore quem 
+      <lb ed="#V" n="33"/>ignis producit naturaliter. ergo hec diuersitas sumitur secundum diuersos 
+      <lb ed="#V" n="34"/>modos principiandi: siue quia aliter et aliter principiant suos actus: non 
+      <lb ed="#V" n="35"/>autem apparet quae diuersitas illa sit: nisi quia hoc necessario 
+      princi<lb ed="#V" n="36" break="no"/>piat: illud autem non necessario sed contingenter: seu quia hic habet in sua 
+      <lb ed="#V" n="37"/>potestate actum suum illud vero non: iuxta intellectu supra datum. 
+      <lb ed="#V" n="38"/>Et ex hoc etiam statim probatur conclusio sumpra posita: quoniam impossibile est quod 
+      <lb ed="#V" n="39"/>eiusdem sit idem principium necessario et libere: quia tunc esset necessario et 
+      <lb ed="#V" n="40"/>contingenter.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e852">
+      ⁋ 2a conclusio est quod idem potest esse principium naturale et liberum respectum 
+      <lb ed="#V" n="41"/>diuersarum productionum: hoc probatur primo: quoniam deus pater est naturale principium 
+      <lb ed="#V" n="42"/>filii: vt supra. dis. 6. patet: et omnes concedunt: et idem est liberum principium 
+      <lb ed="#V" n="43"/>creaturarum: non enim naturaliter: sed libere produxit et producit ad extra 
+      <lb ed="#V" n="44"/>nec potest dici quod secundum aliud et aliud principioum quo. sit principium huius et illius 
+      <lb ed="#V" n="45"/>productionis: cum eius simplicitas non recipiat talem 
+      distinctio<lb ed="#V" n="46" break="no"/>nem principiorum vt supra probatum est. dis. 7. Et nihilominus si 
+      con<lb ed="#V" n="47" break="no"/>cederetur talis distinctio: illud idem haberetur. Nam secundum doc. contra quem 
+      <lb ed="#V" n="48"/>arguo: essentia divina est principium quo generationis filii partiale saltim. vnde 
+      <lb ed="#V" n="49"/>ipsa cum intellectu concurrit ad memoriam fecudam quae est principium gi 
+      <lb ed="#V" n="50"/>gnendi filium secundum ipsum. Et constat quod est principium naturale non liberum respe 
+      <lb ed="#V" n="51"/>ctu generationis filii. Et tamen eadem ipsa penitus indisticta est 
+      princi<lb ed="#V" n="52" break="no"/>pium creaturarum: vt fatetur concilium. extra de summa trini. et fide ca 
+      <lb ed="#V" n="53"/>tholica. cap. Dannamus. Et constat quod non naturaliter: sed mere 
+      li<lb ed="#V" n="54" break="no"/>vere principiat creaturas.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e885">
+      ⁋ 2o idem potest esse principium contingens et 
+      <lb ed="#V" n="55"/>necessarium respectum diuersorum. ergo idem potest esse principium naturale et libe 
+      <lb ed="#V" n="56"/>rum respectum diuersorum. Antecedens patet etiam secundum doc. istum qui vult: quod 
+      vo<lb ed="#V" n="57" break="no"/>luntas divina sit principium necessarium productionis spiritus sancti: 
+      <lb ed="#V" n="58"/>et contingens productionis creaturarum: et secundum veritatem pliter divinus 
+      <lb ed="#V" n="59"/>necessario producit: et ambo spiectum scentum: et tamen contingenter creatu 
+      <lb ed="#V" n="60"/>ras. consequentia patet: quoniam non est maior impossibilitas consequentis quam 
+      antece<lb ed="#V" n="61" break="no"/>dentis: quoniam vel modi principiandi necessario et contingenter sunt 
+      <lb ed="#V" n="62"/>idem: cum modis principiandi naturaliter et libere: vel modi 
+      prin<lb ed="#V" n="63" break="no"/>cipiandi naturaliter et libere non maiorem habent 
+      incompossibili<lb ed="#V" n="64" break="no"/>tatem ad inuicem quam illi: sicut patet in rationibus eorum: qui oppositionem 
+      <lb ed="#V" n="65"/>includunt respectum eiusdem.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e911">
+      ⁋ Praeterea sicut dictum est naturale principium 
+      <!--137.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 71-v b -->
+               <lb ed="#V" n="66"/>et principium liberum non dicuntur de aliquo absolute: sed respectu 
+      <lb ed="#V" n="67"/>ad aliud. puta principiatum vel productionem: et ideo quamuis non 
+      <lb ed="#V" n="68"/>possint verificari de eodem respectum eiusdem: nulla tamen repu 
+      <lb ed="#V" n="69"/>generatia est nisi aliud obuiet: quod non apparet vt de eodem 
+      re<lb ed="#V" n="70" break="no"/>spectu diuersorum verificentur: sicut patet in multis oppositis 
+      <lb ed="#V" n="71"/>relatiuis. Nam idem potest esse principium et principiatum respectum 
+      <lb ed="#V" n="72"/>diuersorum: equale et inequale: maius et minus: et sic de mul 
+      <lb ed="#V" n="73"/>tis aliis.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e938">
+      ⁋ 3am conclusione scilicet quod spiritus sanctus naturaliter producitur et a 
+      <lb ed="#V" n="74"/>non libere. probo sic. impossibile est spiectum non produci. ergo spiritus 
+      <lb ed="#V" n="75"/>sanctus non producitur libere: sed producitur naliter. Antecedens patet: et a 
+      <lb ed="#V" n="76"/>catholicis communiter conceditur: et probatur ex eo quod impossibile 
+      <lb ed="#V" n="77"/>est spiectum scuntum non esse: cum sit verus deus. ergo impossibile est ipsum 
+      <lb ed="#V" n="78"/>non produci: consequentia patet: quoniam spiritus scus non habet esse nisi quia producitur: vt 
+      <lb ed="#V" n="79"/>patet per Aug. 5. de tri. et li. 15. principalsr consequentia patet ex dictis in pia conclusione 
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e954">
+               <lb ed="#V" n="80"/>⁋ Quantum ad primam partem conclusionis scilicet quod non libere 
+      produ<lb ed="#V" n="81" break="no"/>catur accipiendo liberum prout distiguitur contra naturaliter: et quantum 
+      <lb ed="#V" n="82"/>ad aliam partem scilicet quod naturaliter: probatur: quoniam omnis productio non 
+      <lb ed="#V" n="83"/>libera et necessaria est naturalis.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e965">
+      ⁋ 2o filius naturaliter 
+      produ<lb ed="#V" n="84" break="no"/>citur a patre. ergo spiritus sanctus naturaliter producitur a patre. Et 
+      <lb ed="#V" n="85"/>vltra ergo spitus secus naturaliter producitur. Antecedens certum est. et consequentia 
+      <lb ed="#V" n="86"/>secunda statim apparet pro eo quod non est dicendum quod spiritus secuns procedat 
+      <lb ed="#V" n="87"/>a patre naturaliter et a filio non naturaliter: sed quantum ad hoc 
+      vniformi<lb ed="#V" n="88" break="no"/>ter ab vtroque procedit. ergo si a patre procedit naturaliter: sequitur quod a 
+      fi<lb ed="#V" n="89" break="no"/>lio etia naturaliter. Et si ab vtroque naturaliter: sequitur quod simpliciter producitur 
+      <lb ed="#V" n="90"/>naturaliter. Primam consequentia probo: quoniam ratio quaere filius dicitur naturaliter proce 
+      <lb ed="#V" n="91"/>dere: vel est ratione modi producendi: puta quia non contingenter: sed ne 
+      <lb ed="#V" n="92"/>cessario producitur: et cum spiritus secus eque necessario producatur a patre: 
+      <lb ed="#V" n="93"/>sequitur quod et ipse naturaliter ab eo producitur: vel est propter principium a quo 
+      pro<lb ed="#V" n="94" break="no"/>ducitur. Et similiter idem patet: quoniam eadem persona patris est principium vtriusque 
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e991">
+               <lb ed="#V" n="95"/>⁋ Et si dicatur quod quamuis vtriusque sit idem principium producens: non tamen 
+      <lb ed="#V" n="96"/>est idem principium quo producit vtrumque: sed alio producit filium et aliqo 
+      <lb ed="#V" n="97"/>producit spectum sanctum: propter quam diuersitatem formalis 
+      prin<lb ed="#V" n="98" break="no"/>cipii productiui vnus naturaliter: alter autem non 
+      natura<lb ed="#V" n="99" break="no"/>liter producitur.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e1004">
+      ⁋ Contra hoc. primo: quia distinctio princi ¬ 
+      <lb ed="#V" n="100"/>piorum quod et quo non habet locum in deo vt supra probatum est 
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e1009">
+               <lb ed="#V" n="101"/>⁋ 2o esto quod detur talis distinctio idem sequitur: quoniam vel 
+      prin<lb ed="#V" n="102" break="no"/>cipium quo pater producit spiritum sanctu erit relatio: vel 
+      <lb ed="#V" n="103"/>aliquid absolutum. Si relatio constat quecumque sit illa 
+      re<lb ed="#V" n="104" break="no"/>latio) quod non magis erit principium liberum: quam erit liberum 
+      <lb ed="#V" n="105"/>principium filii quicquid illud ponatur: cum secundum istam 
+      imagina<lb ed="#V" n="106" break="no"/>tionem relatio non sit voluntas: aut aliquid in quo sit prima ratio 
+      <lb ed="#V" n="107"/>libertatis: et per consequens non possit esse principium libere 
+      produ<lb ed="#V" n="108" break="no"/>ctionis. Si absolutum: quicquid illud ponatur idem sequitur: cum 
+      <lb ed="#V" n="109"/>nulla omnino ex parte rei: sit in deo distinctio absolutorum vt 
+      <lb ed="#V" n="110"/>probatum est dis. 8. et ideo idem erit principium quo vtriusque 
+      pro<lb ed="#V" n="111" break="no"/>ductionis.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e1036">
+      ⁋ hec conclusio onfirmatur auctoritas hyllatur. 5. de trini. et 
+      <lb ed="#V" n="112"/>allagatur a magtro infra. dis¬ 10 dicens quod ex virtute nature in 
+      ean<lb ed="#V" n="113" break="no"/>dem naturam natiuitate subsistit filius: et ex virtute nature in 
+      <lb ed="#V" n="114"/>eandem naturam processione subsistit spiritus scus. id est ex patre qui est 
+      <lb ed="#V" n="115"/>pirtus ingenita naturaliter subsistit scilicet filius nascendo: et spiritus scuns 
+      <lb ed="#V" n="116"/>procedendo. Sic ergo dico accipiendo libere produci vt 
+      distin<lb ed="#V" n="117" break="no"/>guitur contra produci naturaliter: et vtendo istis vocabulis secundum vsum 
+      <lb ed="#V" n="118"/>sanctorum et philosophorum et doctorum communiter non debet concedi spiectum scntum 
+      <lb ed="#V" n="119"/>produci libere: sed numeraliter sicut conceditur de filio: nec eius productio 
+      <lb ed="#V" n="120"/>patet dici libera vel voluntaria: sumendo voluntarium distincte 
+      <lb ed="#V" n="121"/>a naturali: sicut non dicitur voluntaria productio filii: et sic dixerunt 
+      an<lb ed="#V" n="122" break="no"/>tiqui et communes doc.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e1062">
+      ⁋ Si aut omne illud dicatur libere et voluntarie 
+      <lb ed="#V" n="123"/>prduci quod producit complacenter: et a producente voluntate: sic potest 
+      <lb ed="#V" n="124"/>dici quod spiritus secus producitur voluntarie et libere: quo est filius 
+      <lb ed="#V" n="125"/>dici potest produci voluntarie: vt supra patet. dis. 6. Sed sic non acci 
+      <lb ed="#V" n="126"/>pitur libere vel voluntarie: vt distiguitur contra naturaliter proprie 
+      <lb ed="#V" n="127"/>loquendo: quin immo simul de eodem repectu eiusdem possunt verificari: sicut 
+      <lb ed="#V" n="128"/>deus libere hoc modo diligit se: et tamen naturaliter: et filius libere et vo 
+      <lb ed="#V" n="129"/>luntarie producitur: et etitm naturaliter: nec in tali significatione generali 
+      <lb ed="#V" n="130"/>sunt vsi istis vocabulis auctores distinguentes modos agen¬ 
+      <!--138.xml-->
+      <pb ed="#V" n="72-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>di vel producendi libere et naturaliter vt supra visum est.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e1091">
+      ⁋ Ad ratio 
+      <lb ed="#V" n="2"/>nes opinionis contra conclusionem primam concedo scilicet quod necessario producitur 
+      <lb ed="#V" n="3"/>spiritus sanctus: quamuis propositio assumpta in probatione illius: et postea 
+      <lb ed="#V" n="4"/>pluries in aliis dictis scilicet quod voluntas est principium producendi spiritum 
+      <lb ed="#V" n="5"/>scntum: sit falsa vt patuit in primo arti.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e1102">
+      ⁋ Ad rationem secunde conclusionis dicent 
+      <lb ed="#V" n="6"/>quod voluntas divina non est principium volendi: nec libere vult essentiam 
+      <lb ed="#V" n="7"/>diuinam vt libere distiguitur contra naturaliter. Ad probationem dico 
+      <lb ed="#V" n="8"/>quod ipsa libere vult creaturas et contingenter: et tamen suam essentiam 
+      <lb ed="#V" n="9"/>necessario: et non libere: nec est inconueniens tales modos 
+      op<lb ed="#V" n="10" break="no"/>positos de eodem respectum diuersorum verificari: sicut est secundum ipsos 
+      <lb ed="#V" n="11"/>velle contingenter verificatur de voluntate dei respectum creatu 
+      <lb ed="#V" n="12"/>rarum: et necessario velle verificatur de eodem respectum divine 
+      essen<lb ed="#V" n="13" break="no"/>tie. Nec sequitur. voluntas diuina libere vult creaturas. ergo 
+      <lb ed="#V" n="14"/>libere vult essentiam dei: sicut est secundum eos non sequitur. vult contin 
+      <lb ed="#V" n="15"/>genter creaturas. ergo vult contingenter esentiam dei: nec econverso sequitur. 
+      <lb ed="#V" n="16"/>vult necessario essentiam dei. ergo vult necessario creaturas. Et per 
+      <lb ed="#V" n="17"/>idem patet ad aliam formam ibi factam: quoniam non est inconueniens idem 
+      prin<lb ed="#V" n="18" break="no"/>cipium productiuum esse alicuius productiuum naturaliter: et alicuius 
+      alte<lb ed="#V" n="19" break="no"/>rius libere: sict dictum est supra.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e1135">
+      ⁋ Ad auctoritas Augu. pro quarta 
+      <lb ed="#V" n="20"/>conclusione dicendum primo quod Aug. non. dicens voluntatem esse liberam respectum voli 
+      <lb ed="#V" n="21"/>tionis btintudinis: nec respectum volitionis infelicitatis. Sed. dicens 
+      <lb ed="#V" n="22"/>voluntatem qua volumus btintudinem: et non possumus velle 
+      <lb ed="#V" n="23"/>infelicitatem esse liberam: et hoc verum est. Nam multos alios act 
+      <lb ed="#V" n="24"/>potest contingenter elicere respectum quorum ipsa est vere libera. vtrum 
+      <lb ed="#V" n="25"/>autem respectum volitionis beatitudinis ipsa sit libera vel non: suo 
+      <lb ed="#V" n="26"/>loco videbitur. et sic quamuis voluntas beatorum non sit pro tunc 
+      li<lb ed="#V" n="27" break="no"/>bera respectum peccati: est tamen libera respectum aliorum multorum 
+      <lb ed="#V" n="28"/>actuum qui peccata non sunt: nec potest dici quod voluntatem hic acci 
+      <lb ed="#V" n="29"/>piat pro actu volitionis: quem vocet voluntatem liberam: sed acci 
+      <lb ed="#V" n="30"/>pit pro potentia volitiua: sicut euidenter ostendunt illa verba que 
+      se<lb ed="#V" n="31" break="no"/>quuntur. Sicut ergo anima nostra etc.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e1164">
+      ⁋ 2o potest dici quod Aug. non loquitur 
+      <lb ed="#V" n="32"/>de libertate: quae opponitur necessitati naturali in agendo: de quo dictum 
+      <lb ed="#V" n="33"/>est quod est quaedam contingentia et facultas ad vtrumlibet. Sed de 
+      liber<lb ed="#V" n="34" break="no"/>tate qua opponitur seruituti pectiem et miserie: qua vtique tanto ma 
+      <lb ed="#V" n="35"/>ior est in voluntate: quanto ipsa immunior et liberior est a 
+      pecca<lb ed="#V" n="36" break="no"/>to: et quanto minus impelli et instigari potest ad peccatum: et facilius 
+      <lb ed="#V" n="37"/>et liberius potest elicere bonum actum: et hec libertas erit in 
+      bea<lb ed="#V" n="38" break="no"/>tis perfecta. Et hunc intellectum se habere demonstrat in verbis 
+      imme<lb ed="#V" n="39" break="no"/>diate praecedentibus auctoritas allegata. Ait enim multo quippe libe 
+      <lb ed="#V" n="40"/>rius erit arbitrium quod omnino non poterit seruire peccato. In 
+      <lb ed="#V" n="41"/>ter has aut libertates seu modos accipiendi libertatem: differentia 
+      <lb ed="#V" n="42"/>magna est: sicut patet per magscunu lib. 2o dis. 26.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e1191">
+      ⁋ Ad rationes 
+      di<lb ed="#V" n="43" break="no"/>co quod libertas est conditio voluntatis vt comparatur ad actum: non 
+      <lb ed="#V" n="44"/>ad quemcumque: sed ad eum quem potest habere et non habere: et respectum talis 
+      <lb ed="#V" n="45"/>actus vtique sibi repugnat necessitas: licem non repugnet 
+      si<lb ed="#V" n="46" break="no"/>bi respectum actus: quem habet necessario. Sed respectum illius non est libera. 
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e1202">
+               <lb ed="#V" n="47"/>⁋ Ad aliam dico quod necessitas: non tollit conditionem principii 
+      <lb ed="#V" n="48"/>perfecti nec libertatem eius: nec econverso Nam propter necessitatem eius 
+      re<lb ed="#V" n="49" break="no"/>spectu eorum quorum est principium necessarium non tollitur eius 
+      liber<lb ed="#V" n="50" break="no"/>tas respectu eorum quorum est principium liberum: necessitas tamen et li 
+      <lb ed="#V" n="51"/>bertas non insunt principio perfecto respectum eiusdem: vel proprius 
+      <lb ed="#V" n="52"/>loquendo: dico quod principium productiuum perfectum: non iccirco est 
+      <lb ed="#V" n="53"/>non liberum: respectu eorum quorum est liberum: quia est necessarium 
+      prin<lb ed="#V" n="54" break="no"/>cipium eorum quorum est necessarium: siue quo necessario producit: nec 
+      <lb ed="#V" n="55"/>qui ipsum est necessarium respectum eorum que producit necessario. ideo 
+      <lb ed="#V" n="56"/>non est liberum: respectu eorum qua producit libere. Ueruntamen 
+      ni<lb ed="#V" n="57" break="no"/>hil quod producitur ab eo necessario producitur ab ipso libere: nec 
+      <lb ed="#V" n="58"/>propter hoc tollitur eius perfectio: sicut non tollitur ex eo quod contingenter 
+      pro<lb ed="#V" n="59" break="no"/>ducit aliqua et non necessario: et aliqua necessario et non contingen 
+      <lb ed="#V" n="60"/>ter. Et nullum quod ab eo producitur necessario: producitur ab eodem 
+      <lb ed="#V" n="61"/>contingenter. Et cum dicitur quod necessitas est perfectionis in omni conditione 
+      <lb ed="#V" n="62"/>entis cui est possibilis. dico quod hoc concesso nihil ad propositum 
+      <lb ed="#V" n="63"/>qui ipsa non est possibilis productioni libere: sicut nec productioni 
+      <lb ed="#V" n="64"/>contingenti.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e1244">
+      ⁋ Ad dubium quod ipsi mouent contra se non respondent suffi 
+      <lb ed="#V" n="65"/>cienter: quia esto quod modus agendi consequitur naturam principii acti¬ 
+      <!--138.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 72-r b -->
+               <lb ed="#V" n="66"/>ui: impossibile tamen est quod oppositi modi agendi consequantur naturam 
+      <lb ed="#V" n="67"/>vnius principii respectu eiusdem productionis vel producti: 
+      ta<lb ed="#V" n="68" break="no"/>les autem sunt producere naturaliter: et producere libere vt 
+      osten<lb ed="#V" n="69" break="no"/>sum est. Et cum dicitur agere necessario non competit vniversaliter actioni na 
+      <lb ed="#V" n="70"/>turali: quoniam potest impediri: et per consequens contingenter tantum agit: non valet 
+      <lb ed="#V" n="71"/>Nam ideo non dicitur agens naturale agere necessario: quia sit simpliciter 
+      <lb ed="#V" n="72"/>necessarium ipsum agere: sic enim nullum agens causatum esset naturale: cum 
+      <lb ed="#V" n="73"/>quodlibet possit non agere: vt si desunt alia quae necessario requi 
+      <lb ed="#V" n="74"/>runtur ad actionem: quodlibet etiam potest non esse: et per consequens non agere. Et 
+      <lb ed="#V" n="75"/>tamen omnes concedunt aliquod agens causatum agere naturaliter: et aliquod 
+      <lb ed="#V" n="76"/>libere. Sed ideo dicitur agere necessario: quando positis omnibus requisitis 
+      <lb ed="#V" n="77"/>ad actionem eius: et nullo existente impedimento sic quod ipatut potest 
+      <lb ed="#V" n="78"/>agere: non potest ex se non agere: sed stantibus illis necessario 
+      <lb ed="#V" n="79"/>agit. Econtra autem agens liberum positis omnibus etc. sic quod ipsum 
+      <lb ed="#V" n="80"/>possit agere adhuc ex se nullo variato: nec ex parte sua nec 
+      <lb ed="#V" n="81"/>alterius: sed vniformiter omnibus remanentibus potest non agere: 
+      <lb ed="#V" n="82"/>et ex hoc dicitur agere contingenter: et sic intelligitur differentia ipsorum 
+      <lb ed="#V" n="83"/>quantum ad agere necessario et contingenter: sicut patet. 9. 
+      meta<lb ed="#V" n="84" break="no"/>physice: et hoc modo sumendo omne agens naturaliter agit 
+      necessa<lb ed="#V" n="85" break="no"/>rio: et omne quod sic agit necessario agit naturaliter. Item omne ages liberum 
+      <lb ed="#V" n="86"/>agit contingeter isto modo: et omne quod sic agit contingenter agit liber. 
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e1301">
+               <lb ed="#V" n="87"/>⁋ Ad rationes principales ad primam nego minorem: 
+      <lb ed="#V" n="88"/>ad probationem dico quod amor productus. id est spiritus sanctus 
+      <lb ed="#V" n="89"/>non producitur a voluntate: sed ab his quae sunt voluntas: sicut nes 
+      <lb ed="#V" n="90"/>filius producitur ab essentia: sed ab eo qui est essentia: nec sapientia 
+      <lb ed="#V" n="91"/>genita id est filius producitur a sapientia vel ab intellectu: sed ab eo 
+      <lb ed="#V" n="92"/>qui est sapientia intellectus et essentia. Et cum dicitur quod omnis amor 
+      produ<lb ed="#V" n="93" break="no"/>ctus elicitur a voluntate: dicendum quod hoc non est verum de 
+      amo<lb ed="#V" n="94" break="no"/>re qui est ipsa voluntas: et cuius nulla voluntas que non est ipse 
+      <lb ed="#V" n="95"/>est productiua: sicut est in proposito. Nam spiritus sanctus est 
+      vo<lb ed="#V" n="96" break="no"/>luntas diuina: et nulla voluntas que non est spiritus sanctus 
+      <lb ed="#V" n="97"/>est productiua spiritus sancti.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e1327">
+      ⁋ Aduertendum tamen est quo 
+      <lb ed="#V" n="98"/>sensu dici debeat in diuinis amor productus et sapientia 
+      ge<lb ed="#V" n="99" break="no"/>nita. Nam bene et male posset intelligi vt supra patet. distin. 5a  
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e1334">
+               <lb ed="#V" n="100"/>⁋ Ad secundam nego antecedens. Et ad probationem dico quod aliud 
+      <lb ed="#V" n="101"/>est esse donum: et aliud donari seu esse donatum: sic dicit Augu. 
+      <lb ed="#V" n="102"/>5. de tri. quamuis ergo donari sit liberum: et quod donatur libere do 
+      <lb ed="#V" n="103"/>netur: non tamen quod est donum: est libere donum. Et quia vt. dicens Aug 
+      <lb ed="#V" n="104"/>4. de tri. spectum sanctum donum dei esse: est a patre procedere: quamuis 
+      <lb ed="#V" n="105"/>spiritus sanctus libere donetur: non tamen libere procedit.
+    </p>
+            <p xml:id="grvnZZ-ed1e45-d1e1351">
+      ⁋ Et cum 
+      <lb ed="#V" n="106"/>Aug. dicens quod spiritus sanctus exit quo datus: dicendum quod non accipit 
+      <lb ed="#V" n="107"/>proprie datum: quia vt. dicens spitus sanctus non fuit eternaliter datus: 
+      <lb ed="#V" n="108"/>sicut nec eternaliter fuit creatura cui daretur. sed datum pro 
+      do<lb ed="#V" n="109" break="no"/>non posuit. Exit ergo quo datus. id est quo donum. ideo consequentur lib. 5. ait 
+      <lb ed="#V" n="110"/>Sed quia sic procedebat vt esset donabile: iam donum erat: et  
+      <lb ed="#V" n="111"/>antequam esset cui daretur. Aliter enim intelligitur dum dicitur donum: aliter dum 
+      <lb ed="#V" n="112"/>dicitur donatum. Nam donum potest esse antequam detur: donatum autem nisi 
+      <lb ed="#V" n="113"/>datum fuerit: nullo modo dici potest. Et quia Augu. ibi datus pro 
+      <lb ed="#V" n="114"/>dono ponit. ideo magister ad hoc innuendum allegans praedictam 
+      au<lb ed="#V" n="115" break="no"/>cto. Aug. infra. dis. 13. ait. Nam vt ait <ref xml:id="grvnZZ-ed1e45-Rd1e1374">Aug. eode lib. de trini.</ref> 
+               <lb ed="#V" n="116"/>procedit a patre: non quo natus: sed quo datus vel donum. vnde et 
+      <lb ed="#V" n="117"/>per hanc adiectionem. vel donum. exposuit illud quod dicitur 
+      <lb ed="#V" n="118"/>datus. Et hec de distinctione. 10 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

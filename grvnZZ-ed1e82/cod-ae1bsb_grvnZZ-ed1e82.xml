@@ -1,0 +1,1546 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#Rimini">Gregory of Rimini</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2020-10-03">October 03, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-ae1bsb">Venice 1503</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-03" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="130-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="grvnZZ-ed1e82"><!-- l1d38q1 -->
+            <head xml:id="grvnZZ-ed1e82-Hd1e106">Quaestio 1</head>
+            <head xml:id="grvnZZ-ed1e82-Hd1e109" type="question-title">Utrum aliqua enuntiatio singularis de inesse categorematica 
+      de futuro in materia contingit ad utrumlibet sit vera</head>
+            <p xml:id="grvnZZ-ed1e82-d1e112">
+               <lb ed="#V" n="39"/>⁋ Distinctionis. XXXII. Questio. I 
+      <lb ed="#V" n="40"/>SUper distinctionem. 38. in qua magister 
+      <lb ed="#V" n="41"/>tractat de praescientia dei respectu 
+      <lb ed="#V" n="42"/>rerum enunciabilium futurorum. Quero primo 
+      <lb ed="#V" n="43"/>vtrum aliqua enunciatio singularis de inesse 
+      ca<lb ed="#V" n="44" break="no"/>thegorica de futuro in materia contingenti ad  
+      <lb ed="#V" n="45"/>svtrulibet sit vera.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e130">
+      ⁋ Et arguo: quod non. quia si ali 
+      <lb ed="#V" n="46"/>qua talis esset vera sequeretur per naturam contradictorio 
+      <lb ed="#V" n="47"/>rum quod sua contradictoria esset falsa. sed hoc non est verum. cum contingens 
+      <lb ed="#V" n="48"/>ad vtrumlibet non sit plus determinatum ad esse quam ad non esse: alio 
+      <lb ed="#V" n="49"/>quin non esset contingens ad vtrumlibet: nec est possibile vnam partem contradictio 
+      <lb ed="#V" n="50"/>nis esse veram determinate: et aliam determinate falsam. cum 
+      <lb ed="#V" n="51"/>non sit potior ratio quod vna sit vera quam quod reliqua.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e146">
+      ⁋ 2o si aliqua 
+      <lb ed="#V" n="52"/>talis propositio esset vera. ergo vel esset necessaria vel contingens. 
+      <lb ed="#V" n="53"/>non necessaria: quia tunc illud futurum necessario eueniret. et sic non esset 
+      <lb ed="#V" n="54"/>ad vtrumlibet. nec contingens. quia tunc posset esse non vera. et si sic vel 
+      <lb ed="#V" n="55"/>posset esse non vera ante positionem illius futuri in esse. quod 
+      enun<lb ed="#V" n="56" break="no"/>ciat vel non ante: sed tamen post.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e160">
+      ⁋ Si 2o modo sequitur sicut prius quod illud 
+      <lb ed="#V" n="57"/>necessario ponetur in esse et non contingenter. primum aut non potest dici: quia eugo 
+      <lb ed="#V" n="58"/>ratione in aliquo instanti vel tempore ante positionem illius in esse 
+      <lb ed="#V" n="59"/>ipsa est vera: eadem ratione et in quolibet antequam illud ponatur et 
+      <lb ed="#V" n="60"/>per consequens necesse est ipsam esse veram toto tempore praecedente esse illius. 
+      <lb ed="#V" n="61"/>ac per hoc illud necessario eueniret.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e173">
+      ⁋ Assumpta consequentia patet. quia sicut 
+      <lb ed="#V" n="62"/>omne quod est quando est necesse est esse: vt dicit. P. sic omne quod est verum. quando 
+      <lb ed="#V" n="63"/>est verum. necesse est esse verum. Unde ex eodem posset argui aliter sic. 
+      <lb ed="#V" n="64"/>si talis propositio nunc est vera. ergo suum enunciabile nunc est futurum: 
+      <lb ed="#V" n="65"/>et vltra. ergo nunc necessario est futurum pia consequentia est euidens. Et 2a sic pro¬ 
+      <!--248.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 130-r b -->
+               <lb ed="#V" n="66"/>batur. quia sicut omne quod est quando est necesse est esse: ita omne quod est futurum 
+      <lb ed="#V" n="67"/>quando est futurum. necesse est esse futurum. et si necesse est esse futurum necessario 
+      <lb ed="#V" n="68"/>eueniet.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e197">
+      ⁋ 3o idem probatur auctoritate philosophi primo pryarme. vbi 
+      <lb ed="#V" n="69"/>expresse determinatur quod nulla talis propositio est vera.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e202">
+               <lb ed="#V" n="70"/>Ad oppositum arguo sic. si nulla huiusmodi propositio 
+      <lb ed="#V" n="71"/>est vera igitur quelibet est 
+      fal<lb ed="#V" n="72" break="no"/>sa. ergo cuiuslibet contradictoria est vera: ergo aliqua est vera. ergo de primo ad 
+      vlti<lb ed="#V" n="73" break="no"/>mum: si nulla est vera aliqua est vera. et sic contradictoria simul sunt vera. quod 
+      <lb ed="#V" n="74"/>est impossibile pria consequentia probatur. quia omnis enunciatio est oratio in qua est verum vel 
+      <lb ed="#V" n="75"/>falsum. vt patet ex eius diffinitione primo pryarmenias. et 2a consequentia patet 
+      <lb ed="#V" n="76"/>per legem contradictoriarum. reliqua consequentie sunt ex se note.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e220">
+               <lb ed="#V" n="77"/>In hac quaestione erunt articuli tres. Nam quia inter 
+      ali<lb ed="#V" n="78" break="no"/>quos est controuersia: quid circa hoc quasi 
+      <lb ed="#V" n="79"/>tum fuerit opinatus philosophus.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e229">
+      ⁋ Primo ostendam quae fuit eius opinio quod 
+      <lb ed="#V" n="80"/>etiam tangit tertium argumentum. 2o videbitur quid secundum veritatem 
+      <lb ed="#V" n="81"/>tenendum sit de quasito.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e237">
+      ⁋ 3o quia de contingenti principaliter 
+      inquiri<lb ed="#V" n="82" break="no"/>tur videbitur quando continges est contingens: an scilicet quando est aut quando non 
+      <lb ed="#V" n="83"/>est. et simul cum hoc de veritate illius propositionis philosophi. 
+      <lb ed="#V" n="84"/>assumpte in tertio argumento. 
+      <lb ed="#V" n="85"/>Quantum ad primum sciendum: quod philosophus tractans in primo pyar. 
+      <lb ed="#V" n="86"/>de enunciationibus contradictoriis: et ostedens 
+      <lb ed="#V" n="87"/>qualiter se habent adinuicem secundum veritatem et falsitatem: determinat: quod 
+      cuius<lb ed="#V" n="88" break="no"/>libet contradictionis siue sit propositionum quarum vna est vniversalis et alia 
+      <lb ed="#V" n="89"/>particularis: siue propositionum singularium de praesenti vel de pre 
+      <lb ed="#V" n="90"/>terito. vna pars est determinate vera et altera determinate falsa. 
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e259">
+               <lb ed="#V" n="91"/>⁋ Sed non est sic de quibuslibet propositionibus contradictoriis de 
+      fu<lb ed="#V" n="92" break="no"/>turo singularibus. quia non de illis quae sunt circa futura contingen 
+      <lb ed="#V" n="93"/>tia ad vtrumlibet. Unde quantum ad hoc poesit ipse duas conclusiones.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e268">
+      ⁋ Qua 
+      <lb ed="#V" n="94"/>rum. Prima est: quod non omnis propositio singularis de futuro ca 
+      <lb ed="#V" n="95"/>thegorica et de inesse de simplici praedicato affirmatiua vel 
+      <lb ed="#V" n="96"/>negatiua est vera vel falsa. ita quod non cuiuslibet contradictionis de 
+      fu<lb ed="#V" n="97" break="no"/>turo hec pars determinate est vera vel illa: et similiter nec ista 
+      de<lb ed="#V" n="98" break="no"/>terminate vel illa est falsa. quia non contradictionis de futuro con 
+      <lb ed="#V" n="99"/>tingenti ad vtrumlibet. verbi gratia. huius contradictonis. antichristus erit. 
+      <lb ed="#V" n="100"/>antichristus non erit. nec hec pars determinate antichristus erit est vera. 
+      <lb ed="#V" n="101"/>vel falsa. nec hec pars determinate antichristus non erit est va vel 
+      <lb ed="#V" n="102"/>falsa.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e290">
+      ⁋ Et intelligendum est dictum philosophi de propositionibus 
+      singu<lb ed="#V" n="103" break="no"/>laribus quarum subiecta sunt simplius videlibet vel pronomia 
+      de<lb ed="#V" n="104" break="no"/>monstratiua praecise: vt hoc. istud vel illud. vel nominia propria. 
+      <lb ed="#V" n="105"/>vt Plato ea antichristus. Nam habentium subiecta composita mul 
+      <lb ed="#V" n="106"/>te sunt false. et opposite sunt vere. vbi gratia. si demonstretur vnus 
+      <lb ed="#V" n="107"/>ethiops. et dicatur hoc album disputabit cras: constat ipsam esse fal 
+      <lb ed="#V" n="108"/>sam: et eius oppositam scilicet hanc. hoc album non disputabit cras. esse 
+      <lb ed="#V" n="109"/>veram. eodem demonstrato. similiter si ethyops quidam vocetur Plato. 
+      <lb ed="#V" n="110"/>hec determinate est falsa. plato albus disputabit cras. et eis 
+      <lb ed="#V" n="111"/>oppositia est vera: sumpto hoc nomine Plato vtrobique pro ethiope illo. 
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e312">
+               <lb ed="#V" n="112"/>⁋ 2a conclusio P. est: quod licet neutra talium determinate vera sit. non tamen 
+      <lb ed="#V" n="113"/>positio singularis negatiua de copulato praedicato ex 
+      praedi<lb ed="#V" n="114" break="no"/>catis illarum ambarum est vera. verbi gratia. quamuis nec hec sit vera ant 
+      <lb ed="#V" n="115"/>christus erit. nec ista antichristus non erit. ista tamen non est vera antichristus ne 
+      <lb ed="#V" n="116"/>que erit neque non erit. quod tamen posset aliquibus apparere sequi ex prim¬ 
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e325">
+               <lb ed="#V" n="117"/>⁋ Primam conclusionem sic intellectam probat. P. dupiter. Primo sic. 
+      <lb ed="#V" n="118"/>si omnis it inquit ipse.) affirmatio vel negatio vera vel falsa est: 
+      <lb ed="#V" n="119"/>et omne necesse est esse vel non esse. hanc consequentia probat dupliciter. 
+      Pri<lb ed="#V" n="120" break="no"/>ma probatio in hoc fundatur quod semper veritatem propositiois concomitatur esse 
+      <lb ed="#V" n="121"/>rei: ita quod seper sic est vel non est: sic propositio enunciat si est vera: quaecumque 
+      <lb ed="#V" n="122"/>propositio sit illa. et econverso esse rei concomitatur veritas propositionis 
+      enuncian<lb ed="#V" n="123" break="no"/>tis sicut est non esse autem rei sequitur falsitas propositionis et econverso Unde ait:  
+      <lb ed="#V" n="124"/>quoniam si verum est dicere. quoniam est album vel non est album: necesse est 
+      <lb ed="#V" n="125"/>album vel non album esse. et si est album vel non est album. verum 
+      <lb ed="#V" n="126"/>est affirmare vel negare. et si non est mentitur supple affirmans. et 
+      <lb ed="#V" n="127"/>si mentitur: non est. Unde Boetius exponens ait sic. quod de futuro 
+      <lb ed="#V" n="128"/>possit esse iudicium: a praesentibus trahit exemplum. ait enim hanc esse 
+      <lb ed="#V" n="129"/>rerum consequentia: vt rem subsistentem propositionis veritas consequatur. veritatem 
+      <lb ed="#V" n="130"/>propositionis rei de qua loquitur propositio essentia concomitatur.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e359">
+      ⁋ Et 
+      <!--249.xml-->
+      <pb ed="#V" n="130-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>infra. veritas quidem rei que est. et res que est veritati: 
+      <lb ed="#V" n="2"/>falsitas vero rei que non est et res que non est falsitati conuerti 
+      <lb ed="#V" n="3"/>tur. Si ergo affirmatio est vera ita erit. et si negatio est vera 
+      <lb ed="#V" n="4"/>ita non erit Sic igitur nihil erit ad vtrumlibet. Nam ad 
+      vtrum<lb ed="#V" n="5" break="no"/>libet vt ait ibi philosophus nihil magis vel sic vel non sic: se habet 
+      <lb ed="#V" n="6"/>aut habebit. Et Boetius. vtrulibet est cuius euentus dubius 
+      <lb ed="#V" n="7"/>est vel indistinctus. id est quod equaliter esse vel non esse conuenit. si autem 
+      <lb ed="#V" n="8"/>nihil ad vtrumlibet. ergo quodlibet necessario erit vel necessario non 
+      <lb ed="#V" n="9"/>erit.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e388">
+      ⁋ 2o probatur eadem consequentia. quia si omnis affirmatio vel 
+      nega<lb ed="#V" n="10" break="no"/>tio etc. tunc inquit. P. si aliquid est nunc album: verum erat dicere 
+      <lb ed="#V" n="11"/>primo: quoniam erit album: et semper fuit verum dicere de quolibet eorum quae facta 
+      <lb ed="#V" n="12"/>sunt: quoniam erit. quod si semper verum est dicere quoniam est vel erit: non 
+      <lb ed="#V" n="13"/>potest hoc non esse vel non futurum esse. quod autem non potest non fieri: 
+      impos<lb ed="#V" n="14" break="no"/>sibile est non fieri. et quod impossibile est non fieri: necesse est fieri. omnia ergo 
+      <lb ed="#V" n="15"/>que futura sunt necesse est fieri. Et probata ista consequentia 
+      pro<lb ed="#V" n="16" break="no"/>bat philosophus illud consequens esse falsum quoniam alioquin non oporteret de 
+      futu<lb ed="#V" n="17" break="no"/>ris consiliari. neque negociari. quoniam si facimus hoc illud erit. 
+      <lb ed="#V" n="18"/>si non facimus nihil minus erit. quoniam nihil prohibet in millesi 
+      <lb ed="#V" n="19"/>mum annum hunc dicere quoniam illud erit: hunc vero negare. Et si 
+      <lb ed="#V" n="20"/>nullus hoc diceret: nihilominus illud erit vel non erit. quia non 
+      <lb ed="#V" n="21"/>propter nostrum affirmare vel negare illud erit vel non erit. 
+      <lb ed="#V" n="22"/>Unde (vt ait ibi boetius) siue dicatur aliquid siue non. quicquid  
+      <lb ed="#V" n="23"/>vere praedici potuisset illud etiam si non praedicatur: euenire necesse est. 
+      <lb ed="#V" n="24"/>iccirco enim vere praedicatur. quia vere praedici potest. Et iccirco vere praedici potest:  
+      <lb ed="#V" n="25"/>qui immutabiliter futurum etiam patet etiam falsitas consequentis vt ait. Philosophus. quia 
+      ma<lb ed="#V" n="26" break="no"/>nifestum est nos esse principium futurorum: et dominos actuum nostrorum multa pos 
+      <lb ed="#V" n="27"/>se esse. et non esse: et non omnia ex necessitate enunciare sicut declarat 
+      <lb ed="#V" n="28"/>per exempla.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e432">
+      ⁋ 2o probat philosophus eandem conclusionem iuxta finem dicti 
+      <lb ed="#V" n="29"/>libri sic. sicut se habent res ad esse vel non esse: sic orationes enun 
+      <lb ed="#V" n="30"/>tiantes illas esse vel non esse ad veritatem vel falsitatem. sed 
+      <lb ed="#V" n="31"/>futura contingentia sunt indeterminata ad esse et non esse 
+      sim<lb ed="#V" n="32" break="no"/>pliciter. ergo et ipse orationes indeterminate sunt. et non plus hec 
+      <lb ed="#V" n="33"/>que enunciat rem futuram esse. est vera. quam illa quae enunciat 
+      <lb ed="#V" n="34"/>eam non esse futuram nec econverso et sic patet pia conclusio
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e448">
+      ⁋ Secundam conclusionem 
+      <lb ed="#V" n="35"/>probat philosophus in illa parte. at vero quoniam neutrum etc. dupliciter. primo quia 
+      <lb ed="#V" n="36"/>si haec esset vera antichristus neque erit neque non erit. sumatur gratia exempli 
+      <lb ed="#V" n="37"/>haec sequitur quod non cuiuslibet contradictonis si vna pars est falsa: altera est vera. 
+      <lb ed="#V" n="38"/>quinimmo continget quod alicuius contradictionis vna pars erit falsa: et relioqua 
+      <lb ed="#V" n="39"/>erit non vera: quod est contra primum principium. consequentia vero patet: quia si hec est 
+      <lb ed="#V" n="40"/>vera. antichristus neque erit neque non erit. ergo hec affirmatiua an 
+      <lb ed="#V" n="41"/>tichristus erit est falsa: quia ipsa affirmat illud quod illa in sua prima 
+      <lb ed="#V" n="42"/>parte negat vere. sed probatum est in prima conclusione quod illa non est 
+      <lb ed="#V" n="43"/>vera. antichristus non erit. ergo harum duarum contradictoriarum 
+      affirmati<lb ed="#V" n="44" break="no"/>ua est falsa. et negatiua non est vera. Et eodem modo probatur. 
+      <lb ed="#V" n="45"/>quod negatiua est falsa. et affirmatiua non vera. quia si hec est 
+      <lb ed="#V" n="46"/>vera. antichristus neque erit neque non erit. ergo propter hoc: quia dicitur 
+      <lb ed="#V" n="47"/>neque non erit. sequitur quod hec sit falsa. antichristus non erit. Et 
+      pro<lb ed="#V" n="48" break="no"/>batum est in prima conclusione quod hec non est vera. antichristus erit. ergo 
+      hu<lb ed="#V" n="49" break="no"/>ius contradictionis non est vera affirmatiua: cum tamen negatiua sit 
+      <lb ed="#V" n="50"/>falsa. quod pariter repugnat primo principio cuius lex est. quod si 
+      <lb ed="#V" n="51"/>vna pars est falsa: reliqua est vera: quaecumque sit illa. hanc rationem 
+      <lb ed="#V" n="52"/>ponit philosophus. cum ait. principium enim cum sit affirmatio falsa: erit 
+      <lb ed="#V" n="53"/>negatio non vera. et cum sit hec falsa scilicet negatio: contingit 
+      affir<lb ed="#V" n="54" break="no"/>mationem non esse veram. amplius si illa sit vera: sequitur sicut 
+      <lb ed="#V" n="55"/>dicit Boetius quod ambe erunt false. quia nec esset quod 
+      affirma<lb ed="#V" n="56" break="no"/>tio dicit esse futurum. nec non esset quod negatio non esse praedixit. 
+      <lb ed="#V" n="57"/>et sic vtraque est falsa: quod est impossibile.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e500">
+      ⁋ 2o probat philosophus 
+      eandem<lb ed="#V" n="58" break="no"/>conclusionem. quia si illa esset vera sequitur quod tale futurum ex necessitate 
+      <lb ed="#V" n="59"/>erit et non ad vtrumlibet. Consequentiam probat per fundamentum 
+      <lb ed="#V" n="60"/>prime rationis ad primam conclusionem quoniam sicut in praedicatis simplicibus 
+      <lb ed="#V" n="61"/>dictum est. quia si verum est dicere quod hoc est album. oportet illud esse 
+      al<lb ed="#V" n="62" break="no"/>bum. et eodem: si de futuro dicatur. sic etiam est in praedicatis 
+      composi<lb ed="#V" n="63" break="no"/>tis. et ideo ait quod si verum est dicere de aliquo quoniam est album et magnum 
+      <lb ed="#V" n="64"/>oportet vtraque esse. et similiter si verum erit cras. oportet esse cras. id est si verum 
+      <lb ed="#V" n="65"/>est dicere de aliquo quod erit album et magnum cras oportet ipsum 
+      <!--249.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 130-v b -->
+               <lb ed="#V" n="66"/>esse album et magnum cras. ergo si verum erit dicere quod neque erit neque non 
+      <lb ed="#V" n="67"/>erit. oportet ipsum neque fore neque non. et sic non ad vtrumlibet. id est 
+      <lb ed="#V" n="68"/>contingens fore et non fore. Tunc philosophus concludit conclusionem primam que est 
+      <lb ed="#V" n="69"/>principaliter intenta. quonaim 2a non principaliter. sed potius ad 
+      excluden<lb ed="#V" n="70" break="no"/>dum oppositam que videretur forsitan alicui sequi ex prima: introdu 
+      <lb ed="#V" n="71"/>cta fuit dicens. Que ergo contingunt inconuenientia. hec sunt. et huiusmodi 
+      <lb ed="#V" n="72"/>alia. si omnes affirmationes et negationes vel in his que in 
+      <lb ed="#V" n="73"/>vniversalibus dicuntur vniversaliter: vel in his quae sunt singularia: necesse est op 
+      <lb ed="#V" n="74"/>positarum hanc esse veram: illam vero falsam.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e546">
+      ⁋ Ex his ergo patet. ipsum  
+      <lb ed="#V" n="75"/>voluisse quod alicuius oppositionis contradictorie non est hec pars 
+      <lb ed="#V" n="76"/>demonstrata vera: et illa falsa: aut econtra. Sed cum ipse in principio 
+      <lb ed="#V" n="77"/>huius inquisitionis dicat. quod in his que sunt et qua facta sunt. id est 
+      <lb ed="#V" n="78"/>praesentibus et praeteritis. necesse est affirmationem vel negationem 
+      ve<lb ed="#V" n="79" break="no"/>ram esse vel falsam esse. in vniversalibus quidem vniversaliter semper hanc quidem 
+      ve<lb ed="#V" n="80" break="no"/>ram: illam vero falsam. et in his etiam que sunt singularia. id est 
+      <lb ed="#V" n="81"/>contradictoriis singularibus. Constat quod in oppositionibus 
+      contradicto<lb ed="#V" n="82" break="no"/>riis de futuro saltem quae sunt singulares non hec 
+      determina<lb ed="#V" n="83" break="no"/>te sit vera et illa falsa. quod et statim explicite ibidem ipse 
+      <lb ed="#V" n="84"/>proposuit: et consequenter sicut ex recitatis patet prolixe probare 
+      co<lb ed="#V" n="85" break="no"/>natus est. et eandem prorsus sententiam concludit in fine illius libri. 
+      <lb ed="#V" n="86"/>Sed aduertendum quod quamquam. P. dicat quod non cuiuslibet 
+      contradi<lb ed="#V" n="87" break="no"/>ctionis hec est vera: illa vero falsa: tamen cum hoc vult quod cuiusli 
+      <lb ed="#V" n="88"/>bet contradictionis altera est vera et altera falsa nec vnquam ibi 
+      <lb ed="#V" n="89"/>inuenitur dicere. quod non cuiuslibet contradictionis altera est vera. 
+      <lb ed="#V" n="90"/>et altera falsa: sed semper cum signo singulari vel cum 
+      pronomi<lb ed="#V" n="91" break="no"/>ne demonstrativo: nunquam autem cum particulari quale est alter vel 
+      <lb ed="#V" n="92"/>altera. quinimmo cum tali signo dicit expresse oppositum. etiam in 
+      <lb ed="#V" n="93"/>contradictionibus singularibus de futuro ad vtrumlibet. Unde de 
+      <lb ed="#V" n="94"/>talibus loquens circa finem ait. horum enim necesse est quidem alteram 
+      <lb ed="#V" n="95"/>partem contradictionis esse veram vel falsam: non tamen hoc vel illud: sed 
+      <lb ed="#V" n="96"/>vtrumlibet. id est non tamen hanc designatam vel illam: sed vnam vel 
+      alte<lb ed="#V" n="97" break="no"/>ram indisticte. Ex quo manifeste patet. quod demonstratis 
+      quibuscum<lb ed="#V" n="98" break="no"/>que duobus contradictoriis singularibus de futuro hec 
+      particula<lb ed="#V" n="99" break="no"/>ris secundum. P. est vera. altera harum duarum est vera. et tamen nulla 
+      <lb ed="#V" n="100"/>eius singularis est vera. ita quod non contingit dicere hec est 
+      ve<lb ed="#V" n="101" break="no"/>ra. siue hec siue illa demonstratur. Et similiter hec particularis est 
+      <lb ed="#V" n="102"/>vera altera istarum est falsa. et tamen non habet aliquam singularem veram. 
+      <lb ed="#V" n="103"/>quoniam non conuenit vere dici haec est falsa siue demonstretur 
+      affirma<lb ed="#V" n="104" break="no"/>tiua siue negatiua. Ex istis autem patet. euidenter quod opinio 
+      <lb ed="#V" n="105"/>fuit philosophi quod nulla propositio singularis de futuro contingenti est deter 
+      <lb ed="#V" n="106"/>minate secundum se sumpta va vel falsa. Et miror multum quo aliquis 
+      <lb ed="#V" n="107"/>intelligens putet. P. illud non sensisse praeserti saltem cum oppositum 
+      <lb ed="#V" n="108"/>dicentes nullum textum vel sententiam P. ad probationem sui dicti 
+      ad<lb ed="#V" n="109" break="no"/>ducant vel adducere possint quod autem dicunt quidam non esse 
+      veri<lb ed="#V" n="110" break="no"/>simile ipsum sic errasse cum multa manifesta inconuenientia ex hoc 
+      <lb ed="#V" n="111"/>sequantur ista apparenter: non est amicabilis excusatio: sed 
+      po<lb ed="#V" n="112" break="no"/>tius secundum veritatem accusatio: quoniam sequela inconuenientium non eum illud 
+      <lb ed="#V" n="113"/>non sensisse: sed non debuisse sensisse conuincit. Praeterea stat quod etiam 
+      <lb ed="#V" n="114"/>tulius tam magnus. P. que propter rationem suprafactam philosophi negauit omnem 
+      <lb ed="#V" n="115"/>praescientiam futurorum: vt patebit in quaestione sequenti: hubuit est in 
+      primis<lb ed="#V" n="116" break="no"/>sa conclusione cum. P. conuenire. Item moderni magni doctores 
+      di<lb ed="#V" n="117" break="no"/>xerunt conclusionem. P. non solum fuisse de intentione philosophi sed etiam esse 
+      veris<lb ed="#V" n="118" break="no"/>simam et vtique demonstratiuam propter quod non sic excluditur ex toto ve 
+      <lb ed="#V" n="119"/>risimile quod. P. illam fuerit opinatus quamquam ipsa sit falsa. Cui est 
+      ac<lb ed="#V" n="120" break="no"/>cidit quod in pluribus aliis turpissime errauit. Et in aliquibus etiam 
+      <lb ed="#V" n="121"/>sibi contradixit vt patet in conclusione praecedenti.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e651">
+      ⁋ Supra dictam quoque conclusionem 
+      <lb ed="#V" n="122"/>quam nullus debet dubitare fuisse: quidam doctor dicit esse verissimam 
+      <lb ed="#V" n="123"/>et ad eius oppositam necessario sequi inconuenientia ad quae deducit  
+      <lb ed="#V" n="124"/>P. Unde ad eius declarationem probat duas conclusiones.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e660">
+      ⁋ Quarum  
+      <lb ed="#V" n="125"/>prima est quod si talis proportio est vera illa immutabiliter et ineuitabiliter est vera.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e665">
+      ⁋ 2a 
+      <lb ed="#V" n="126"/>quod ex illa ineuitabiliter et necessario sequitur: quod tale futurum necessario 
+      <lb ed="#V" n="127"/>ponatur in esse.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e672">
+      ⁋ Prima probatur dupliciter pro quidem: quia si ipsa 
+      mu<lb ed="#V" n="128" break="no"/>tari posset ne sit vera. aut ergo in instanti quo est va. Aut in 
+      praece<lb ed="#V" n="129" break="no"/>denti. Aut in sequenti vsque ad instans in quo res fiet. Aut 
+      <lb ed="#V" n="130"/>in instanti in quo res fiet. Nec potest dici principium quia tunc in eodem 
+      <!--250.xml-->
+      <pb ed="#V" n="131-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>instanti esset vera et non esset vera. Nec 2m. tum quia in instanti dato est 
+      <lb ed="#V" n="2"/>vera. ergo et in omni praecedenti fuit vera. Et ita si tunc mutari 
+      pote<lb ed="#V" n="3" break="no"/>rat in falsitatem poterat simul esse vera et non vera. tum quia si in instan 
+      <lb ed="#V" n="4"/>ti praecedente mutaretur. sequitur quod ante amitteret veritatem quam 
+      <lb ed="#V" n="5"/>haberet. quod nihil est dictu. Nec 3m dici potest. quia si in aliquo 
+      <lb ed="#V" n="6"/>tali instanti. ( vtpote cras.) sit falsa: impossibile est quod fuerit 
+      he<lb ed="#V" n="7" break="no"/>ri vera. detur enim opposit scilicet quod fuerit heri vera: et hodie falsa. hoc 
+      <lb ed="#V" n="8"/>erit propter aliquam mutationem factam in re. sed hoc est falsum: quia 
+      <lb ed="#V" n="9"/>nondum res est. nec subest alicui potentie in actu. et per consequens 
+      <lb ed="#V" n="10"/>cum nihil mutetur circa re) nihil mutabitur circa propositionem. 
+      <lb ed="#V" n="11"/>Nec valet dici 4m scilicet quod in instanti in quo res fiet 
+      mute<lb ed="#V" n="12" break="no"/>tur propositio a sua veritate. tum quia veritas illa transit in praeteritum. 
+      <lb ed="#V" n="13"/>Nam vsque ad illud instans verum fuit quod illud erit. quod autem 
+      <lb ed="#V" n="14"/>transit in praeteritum incommutabile est. vt patet 6o ethicorum. hoc 
+      <lb ed="#V" n="15"/>solo priuatur deus etc. Tum etiam si tunc mutetur: aut hoc erit quia 
+      <lb ed="#V" n="16"/>significatum eius poneretur in esse. et sic non mutabitur: sed potius con 
+      <lb ed="#V" n="17"/>firmabitur in sua veritate. aut oppositum sui significati ponetur 
+      <lb ed="#V" n="18"/>in esse et tunc est non mutabitur: quia sequitur: quod numquam fuit vera sed 
+      <lb ed="#V" n="19"/>semper falsa. Cum ergo in nullo instanti talis propositio possit 
+      muta<lb ed="#V" n="20" break="no"/>ri a veritate in falsitatem: necessario est immutabiliter vera si ipsa 
+      <lb ed="#V" n="21"/>est vera.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e733">
+      ⁋ 2o sic. illud quo posito in esse pro aliquo instanti 
+      <lb ed="#V" n="22"/>ponetur pro semper in esse: si pro aliquo instanti ponatur esse 
+      <lb ed="#V" n="23"/>ponitur immutabiliter esse. patet quia illud quod sibi determinat 
+      <lb ed="#V" n="24"/>sempiternitatem in essendo in nullo tempore mutari potest. sed si 
+      <lb ed="#V" n="25"/>propositio de futuro pro aliquo instanti ponitur vera: ponit pro semper 
+      <lb ed="#V" n="26"/>vera. Nam si pro aliquo instanti est vera: pro quolibet instanti 
+      praece<lb ed="#V" n="27" break="no"/>denti et subsequenti: quandiu suum significatum est futurum: est vera. 
+      <lb ed="#V" n="28"/>Et tunc in instanti quo illud ponitur transit a futuritione in 
+      <lb ed="#V" n="29"/>presentialitatem. et est verum quod illud est et postea in 
+      praeteritio<lb ed="#V" n="30" break="no"/>nem et erit verum deinceps in eternum quod illud fuit. et sic perpe 
+      <lb ed="#V" n="31"/>tuabiliter illa veritas primanebit. si ergo propositio de futuro potitur pro 
+      ali<lb ed="#V" n="32" break="no"/>quo instanti vera est immutabiliter vera. Secunda propositio probatur. quia 
+      <lb ed="#V" n="33"/>sequitur consequentia necessaria: propositio de futuro est vera. ergo tale 
+      <lb ed="#V" n="34"/>futurum ponetur in esse: hoc probatur 2a. Primo quia ex 
+      oppo<lb ed="#V" n="35" break="no"/>sito consequentis sequitur oppositum antecedentis. sequitur enim. tale futurum: 
+      <lb ed="#V" n="36"/>verbi gratia sortes erit) non ponetur in esse: ergo sortes non erit. et vltra 
+      <lb ed="#V" n="37"/>ergo hec non est vera sortes erit. et ita vniversaliter sequitur. futurum quod 
+      pro<lb ed="#V" n="38" break="no"/>positio enunciat futurum: et non erit vel non ponitur in esse. ergo illa 
+      <lb ed="#V" n="39"/>propositio de futuro non est vera. 2o idem probatur: quia idem penitus 
+      <lb ed="#V" n="40"/>significant futurum et venturum. ergo si aliquid est futurum. sequitur quod 
+      <lb ed="#V" n="41"/>illud eueniet. et si hec est vera: aliquid. vebi gratia. sortes erit de ne 
+      <lb ed="#V" n="42"/>cessitate hec est vera. sortes eueniet. et ponetur in esse. et sic patet quod 
+      <lb ed="#V" n="43"/>hec consequentia est est necessaria. propositio de futuro est vera. ergo tale 
+      futu<lb ed="#V" n="44" break="no"/>rum ponetur in esse: ergo si antecedens est immutabile et ineuitabile consequens est 
+      <lb ed="#V" n="45"/>immutabile et ineuitabile. probatum est autem supra quod si propositio de fu 
+      <lb ed="#V" n="46"/>turo est vera. ipsa est immutabiliter vera. igitur si propositio de futuro 
+      <lb ed="#V" n="47"/>est vera. futurum ineuitabiliter ponetur in esse. et sic nihil 
+      contingen<lb ed="#V" n="48" break="no"/>ter eueniet: vt deducebat. P. Et hoc quantum ad primum articulum. 
+      <lb ed="#V" n="49"/>Nunc secundo videndum quid secundum veritatem sentien 
+      <lb ed="#V" n="50"/>dum est de quasito. Et circa hoc pono 
+      <lb ed="#V" n="51"/>8. conclusiones
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e801">
+      ⁋ Prima est quod omnis propositio singularis de futuro est 
+      <lb ed="#V" n="52"/>vera vel falsa. ita quod cuiuslibet talis contradictionis contingit vere dici. 
+      <lb ed="#V" n="53"/>hec pars determinate est vera et illa falsa: quamuis nos que sit 
+      de<lb ed="#V" n="54" break="no"/>terminate vera vel falsa nesciamus. Et hanc conclusionem probo prim 
+      <lb ed="#V" n="55"/>ex eodem principio super quo principaliter. P. sustentatus est in probando 
+      <lb ed="#V" n="56"/>conclusionem oppositam: videlibet quod veritatem propositionis sequitur esse rei et econverso 
+      <lb ed="#V" n="57"/>Et non esse rei concomitatur falsitas propositionis et econverso quod quidem tatet 
+      <lb ed="#V" n="58"/>in qualibet materia: et in cuiuslibet temporis propositionibus secundum. P. vt supra patet. 
+      <lb ed="#V" n="59"/>Sumo ergo istam gratia. exempli. antichristus erit. Et arguo sic. 
+      <lb ed="#V" n="60"/>hec est vera. aut non vera. si est vera habeo propositum. si non 
+      <lb ed="#V" n="61"/>tunc sic: sequitur. hec. antichristus erit non est vera: ergo antichristus non 
+      <lb ed="#V" n="62"/>erit. et antecedens est verum per responsionem. ergo et consequens erit verum. vltra. 
+      <lb ed="#V" n="63"/>ergo hec est falsa antichristus erit: per legem contradictoriarum qua et. P 
+      <lb ed="#V" n="64"/>supra in secunda conceusione vsus est: videlibet si vna est vera relioqua 
+      <lb ed="#V" n="65"/>est fla et econverso et sic habetur propositum scilicet quod hec. antichristus erit est vera 
+      <!--250.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 131-r b -->
+               <lb ed="#V" n="66"/>vel falsa. quia sequitur. hec est falsa. ergo est vera vel falsa. 
+      Simi<lb ed="#V" n="67" break="no"/>liter ex alio habetur intentum. quia opposita est vna singularis 
+      <lb ed="#V" n="68"/>de futuro: et est vera vt conclusum est quod autem sequatur. hec non est 
+      ve<lb ed="#V" n="69" break="no"/>ra antichristus erit. ergo antichristus non erit. sicut assumptum est primo patet quia 
+      <lb ed="#V" n="70"/>ex opposito consequentis sequitur oppositum antecedentis. sequitur enim per principium 
+      <lb ed="#V" n="71"/>assumptum de mutua consequentia rei ad vitatem propositionis. 
+      anti<lb ed="#V" n="72" break="no"/>christus erit. ergo hec est vera antichristus erit. et per consequens contradicit illi 
+      <lb ed="#V" n="73"/>antecedenti.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e859">
+      ⁋ 2o ex eodem principio arguo sic. aut hec propositio antichristus erit : 
+      <lb ed="#V" n="74"/>est vera. et habeo propositum. aut non: et tunc arguo. si hec non est vera 
+      <lb ed="#V" n="75"/>ergo antichristus non erit. patet ex proxima probatione per illud assumptum 
+      <lb ed="#V" n="76"/>et vltra per aliquod primium quia scilicet non esse rei concomitatur falsitas. 
+      <lb ed="#V" n="77"/>in propositionibus sequitur. antichristus non erit. ergo hec est falsa antichristus 
+      <lb ed="#V" n="78"/>erit. ergo quicquid sequitur ad consequens sequitur ad antecedens. sequitur hec anti 
+      <lb ed="#V" n="79"/>christus erit non est vera. ergo hec antichristus erit est falsa: et si sic ergo eius 
+      <lb ed="#V" n="80"/>opposita est vera. Et ex eode principio sequitur si non vtraque secundum 
+      <lb ed="#V" n="81"/>se sit vera vel falsa. et sic contradictorie erunt simul vere et simul false:  
+      <lb ed="#V" n="82"/>quod est simpliciter falsum et inconueniens. et. P. met. in hac materia repu 
+      <lb ed="#V" n="83"/>tat eta impossibile: vt patet in probatione sue secunde conclusionis quod autem 
+      vtrum<lb ed="#V" n="84" break="no"/>que sequatur probo. et vt breuius fiat sit a. ista propositio antichristus erit. 
+      <lb ed="#V" n="85"/>et sit b. opposita scilicet antichristus non erit. et ita in sequentibus 
+      sup<lb ed="#V" n="86" break="no"/>ponant a. et b. pro illis propositionibus. tunc sic. a. non est vera. 
+      <lb ed="#V" n="87"/>ergo a. est falsa. patet ex praemissis rationibus. Item b. non est vera. 
+      <lb ed="#V" n="88"/>ergo b. est falsa. patet eodem modo et sic ambe false. Et vlterius sic. a. 
+      <lb ed="#V" n="89"/>est falsa. ergo per legem contradictoriarum b. est vera. et per idem 
+      <lb ed="#V" n="90"/>sequitur. b. est falsa. ergo a. est vera. et sic ambe simul vere: et 
+      ambe<lb ed="#V" n="91" break="no"/>simul false.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e901">
+      ⁋ 2o ad idem ex alio principio verissimo et firmissimo: 
+      <lb ed="#V" n="92"/>videlibet quod contradictionis non est dare medium per abnegationem 
+      <lb ed="#V" n="93"/>quod idem. P. dicit esse verissimum 4o meta. iuxta finem: et 
+      negan<lb ed="#V" n="94" break="no"/>tes hoc ipse improbat ibidem. Unde postquam probauit contradictoria non 
+      <lb ed="#V" n="95"/>contingere esse simul vera satis cito subdit. at vero nec contradictonis me 
+      <lb ed="#V" n="96"/>dium nihil esse contingit: sed necessarium. aut dicere aut 
+      ne<lb ed="#V" n="97" break="no"/>gare vnum de vno quodcumque sit illud. Item in proposita materia 
+      <lb ed="#V" n="98"/>vult idem principium esse verum. Unde in 2a conclusione dicit et probat quod non 
+      <lb ed="#V" n="99"/>vere diciter de aliquo contingenti neque erit neque non erit. Ex hoc 
+      ar<lb ed="#V" n="100" break="no"/>guitur sic. impossibile est esse medium hoc modo inter contradictoria aliqua. 
+      er<lb ed="#V" n="101" break="no"/>go impossibile est aliquam propositionem esse neque veram neque falsam. ergo 
+      <lb ed="#V" n="102"/>a. non est neque vera neque falsa. et per consequens est vera vel falsa. et ita de 
+      <lb ed="#V" n="103"/>b. et de qualibet singulari demonstrata potest inferri. Secunda consequentia 
+      <lb ed="#V" n="104"/>patens est. et primam probo sicut ipse philosophus. vbi supra quarto meta. 
+      <lb ed="#V" n="105"/>probat antecedens. sumit enim pro principio diffinitionem veri et falsi. 
+      <lb ed="#V" n="106"/>dicens. dicere namque ens non esse: aut hoc c scilicet non ens) esse 
+      fal<lb ed="#V" n="107" break="no"/>sum. aut enim ens esse aut non ens non esse verum. Ex quo patet 
+      <lb ed="#V" n="108"/>quod quaelibet propositio enuncians esse quod est: vel fuisse quod fuit: aut futu 
+      <lb ed="#V" n="109"/>rum esse quod erit: vel non esse quod non est: vel non fuisse quod non fuit:  
+      <lb ed="#V" n="110"/>aut non fore quod non erit: est vera. secus autem est falsa. Si ergo sit 
+      possi<lb ed="#V" n="111" break="no"/>bile aliquam propositionem esse neque veram neque flam: sit illa gratia 
+      exen<lb ed="#V" n="112" break="no"/>pli a. tunc arguo. a. non est vera neque falsa. ergo neque antichristus erit. 
+      <lb ed="#V" n="113"/>neque antichristus non erit. patet. quia si non sequitur stabit oppositum scilicet vel 
+      <lb ed="#V" n="114"/>antichristus erit: vel antichristus non erit. Si igitur antichristus erit. ergo a. 
+      <lb ed="#V" n="115"/>enunciat forte illud quod erit. et per consequens est vera. et repugnat antecedenti. 
+      <lb ed="#V" n="116"/>Si vero antichristus non erit. ergo ipsa est falsa. quia enunciat fore quod non 
+      <lb ed="#V" n="117"/>erit: quod est antecedenti repugnat. et per consequens primum consequens sequebatur scilicet neque 
+      <lb ed="#V" n="118"/>antichristus erit neque antichristus non erit. Ex quo vltra sequitur. 
+      <lb ed="#V" n="119"/>antichristus neque erit neque non erit. ergo habetur medium in contradictio 
+      <lb ed="#V" n="120"/>ne.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e966">
+      ⁋ Forsitan concedet quis istam consequentiam. a. non est vera neque 
+      <lb ed="#V" n="121"/>falsa: ergo neque antichristus erit neque antichristus non erit: sed vlterio 
+      <lb ed="#V" n="122"/>rem negabit in qua infertur ista cathegorica de praedicato 
+      co<lb ed="#V" n="123" break="no"/>pulato antichristus neque erit neque non erit.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e975">
+      ⁋ Contra. primo quidem 
+      <lb ed="#V" n="124"/>ex concesso habetur propositum: quia exquo ista est impossibilis. 
+      ne<lb ed="#V" n="125" break="no"/>que antichristus erit neque antichristus non erit. ergo ista ex qua sequitur est 
+      <lb ed="#V" n="126"/>impossibilis: quod est propositum. quod autem hec sit impossibilis. patet: quia ex ipsa 
+      <lb ed="#V" n="127"/>sequitur quod vtraque contradictoria sit falsa. sicut etiam patet per 
+      probatio<lb ed="#V" n="128" break="no"/>nem philosophi. ac etm Boetii supra in prima ratione secunde conclusionis. 
+      il<lb ed="#V" n="129" break="no"/>lud autem repugnat primo principio ac etiam ipsi. P. quarto meta. ac etiam 
+      <lb ed="#V" n="130"/>vbi supra qui reputat impossibile quod si vna contradictoriarum sit vera reli¬ 
+      <!--251.xml-->
+      <pb ed="#V" n="131-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>qua non sit falsa. et econtra.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e1001">
+      ⁋ 2o quia secunda consequentia etiam est necessaria. ext 
+      <lb ed="#V" n="2"/>eo quod semper ex copulatiua cuius partes sunt due singulares 
+      <lb ed="#V" n="3"/>de inesse negatiue ad cathegoricam singularem etiam de inesst 
+      <lb ed="#V" n="4"/>negatiuam de praedicato copulato ex praedicatis partium copula 
+      <lb ed="#V" n="5"/>tiue et de eodem subiecto est necessaria consequentia vrbi gratia. sortes non scri 
+      <lb ed="#V" n="6"/>bit neque sortes disputat. ergo sortes neque scribit neque disputats 
+      <lb ed="#V" n="7"/>nec est possibile instantiam reperire in aliqua materia.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e1017">
+      ⁋ Praeterea oppositum 
+      <lb ed="#V" n="8"/>consequentis. valet. hec antichristus erit vel non erit. nullo modo est 
+      compossibi<lb ed="#V" n="9" break="no"/>le cum ista: neque antichristus erit neque antichristus non erit sicut patet 
+      <lb ed="#V" n="10"/>cuilibet intuenti. ergo ista consequentia est bona.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e1027">
+      ⁋ Praeterea probo istam 
+      prin<lb ed="#V" n="11" break="no"/>cipalem consequentiam ex eodem fundamento sic. si a. non est vera. cum 
+      <lb ed="#V" n="12"/>ipsa enunciet antichristum fore. ergo antichristus non erit. et si ipsa 
+      <lb ed="#V" n="13"/>non est falsa. ergo nec antichristus non erit. ergo si ipsa non est vera neque 
+      <lb ed="#V" n="14"/>falsa. ergo antichristus quem enunciat fore neque erit neque non erit. 
+      <lb ed="#V" n="15"/>Et due prime consequentie patent ex diffinitionibus veri et falsi. et 
+      <lb ed="#V" n="16"/>tertia est euidens. quia vtrumque antecedens infert propositum consequens
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e1043">
+      ⁋ Praetere 
+      <lb ed="#V" n="17"/>P. per hoc praecise quod omnis affirmans vel negans necessario vet 
+      <lb ed="#V" n="18"/>rum dicit vel mentitur. probat quod nullius contradictionis est medium 
+      <lb ed="#V" n="19"/>ergo eum oportet vlterius concederequo omnis enunciatio sit vera vel 
+      fal<lb ed="#V" n="20" break="no"/>sa.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e1054">
+      ⁋ Praeterea ipse ibidem probans nullius contradictionis esse medium 
+      <lb ed="#V" n="21"/>arguit. quod si alicuius ponatur. eadem ratione et cuiuslibet ponetur. 
+      ni<lb ed="#V" n="22" break="no"/>si quis loquatur ad libitum. vnde ait. amplius praeter omnes oportet esse 
+      <lb ed="#V" n="23"/>medium contradictionis nisi orationis causa dicatur. ita in proposito 
+      <lb ed="#V" n="24"/>si alicuius contradictionis negatur hanc esse veram illam vero falsam: 
+      <lb ed="#V" n="25"/>eodem modo dici poterit in qualibet siue sint propositiones de praesunti 
+      <lb ed="#V" n="26"/>siue de praeterito. Et certum est: quod numquam magis illud poterit 
+      re<lb ed="#V" n="27" break="no"/>probari quam in illis de futuro. quoniam non poterit argui efficaci 
+      <lb ed="#V" n="28"/>ter nisi virtute primi principii quod quidem equaliter valet vel non 
+      <lb ed="#V" n="29"/>in omnibus. quapropter ista peroptime infringunt primum principium. 
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e1076">
+               <lb ed="#V" n="30"/>⁋ Praeterea sicut contradictionis singularium cathegoricarum de futu 
+      <lb ed="#V" n="31"/>ro contingenti negatur hanc determinate esse veram illam vero 
+      fal<lb ed="#V" n="32" break="no"/>sam: pariter poterit negari quod contradictoriarum de futuro contin 
+      <lb ed="#V" n="33"/>genti. quarum vna sit vniversalis reliqua particularis: simpliciter. ypotheticarum 
+      <lb ed="#V" n="34"/>vt copulatiue et disiunctiue et universaliter quarumcumque contradictoriarum. cir 
+      <lb ed="#V" n="35"/>ca futura contingentia. hec determinate sit vera illa vero falsa. et per 
+      <lb ed="#V" n="36"/>consequens vniversaliter excludi poterit primum principium a materia futurorum. ac per nihil 
+      <lb ed="#V" n="37"/>certum poterit affirmari vel negari de eis: quod est ipsi. P. 
+      <lb ed="#V" n="38"/>repugnat.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e1098">
+      ⁋ 3o principaliter ex alio principio ab omnibus et a philosopho 
+      <lb ed="#V" n="39"/>etiam in hac maria concesso scilicet quod impossibile est aliqua contradictoria esse 
+      <lb ed="#V" n="40"/>simul vera in quacumque materia formentur. artcio principaliter ad conclusionem 
+      <lb ed="#V" n="41"/>sic. sequitur. a. non est vera neque falsa. ergo antichristus erit: et anti 
+      <lb ed="#V" n="42"/>christus non erit: ergo si antecedens est verum. cum consequens includat duas contradicto 
+      <lb ed="#V" n="43"/>rias due contradictorie erunt simul vere. probo autem consequentiam primam. quia si 
+      <lb ed="#V" n="44"/>a. non est vera cum sit propositio affirmatiua. ergo enunciat fore quod 
+      <lb ed="#V" n="45"/>non erit. patet ex diffinitione veri: et non enunciat fore nisi anti 
+      <lb ed="#V" n="46"/>christum. ergo antichristus non erit. si quoque ipsa non est falsa. ergo 
+      enun<lb ed="#V" n="47" break="no"/>ciat fore illud quod erit. patet quia exquo enunciat antichristum fore si 
+      <lb ed="#V" n="48"/>antichristus non erit. est falsa. patet ex diffinitione falsi. ergo ex opposito 
+      <lb ed="#V" n="49"/>consequentis scilicet non est falsa. sequitur oppositum antecedentis scilicet antichristus erit.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e1124">
+      ⁋ 4o 
+      <lb ed="#V" n="50"/>ista positus repugnat aliis principiis in se veris et a philosopho 
+      alibi<lb ed="#V" n="51" break="no"/>concessis tamquam certissimis. primo quidem: quia sicut supra 
+      demon<lb ed="#V" n="52" break="no"/>stratis quibuscumque singularibus de futuro contradictoriis hec 
+      <lb ed="#V" n="53"/>particularis est vera. altera illarum est vera. si ergo vt dicit nec 
+      <lb ed="#V" n="54"/>hec demonstrata est vera nec illa. sequitur quod est aliqua 
+      particula<lb ed="#V" n="55" break="no"/>ris vera cuius sunt alique singulares et nulla tamen est 
+      <lb ed="#V" n="56"/>vera. patet. sed hoc expresse repugnat sibi primo priorum 
+      <lb ed="#V" n="57"/>iuxta principium. vbi probans conuersionem propositionum. et 
+      pr<lb ed="#V" n="58" break="no"/>mo quidem vniuersalis negatiue tandem ad hoc virtualiter 
+      <lb ed="#V" n="59"/>reducit quod si particularis est vera affirmatiua: oportet 
+      <lb ed="#V" n="60"/>quod predicatum verificetur de subiecto pro aliquo 
+      singu<lb ed="#V" n="61" break="no"/>lari demonstrato: et per consequens quod aliqua singularis 
+      <lb ed="#V" n="62"/>eius sit vera. verbi gratia. conuertatur ista. nullum b. est 
+      <lb ed="#V" n="63"/>a. nullum a. est b. probat quia si non sequitur. oppositum 
+      <lb ed="#V" n="64"/>detur. scilicet aliquod a. vt c. est b. tunc non erit verum 
+      <lb ed="#V" n="65"/>vt ait quod nullum b. est a. quia cquod estb. est a. et per conse 
+      <!--251.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 131-v b -->
+               <lb ed="#V" n="66"/>quens b. est a. quod est oppositum primi 
+      <lb ed="#V" n="67"/>constat autem quod totum hoc sustentatur in eo: 
+      <lb ed="#V" n="68"/>quod designatur aliquod singulare sub a. de 
+      <lb ed="#V" n="69"/>quo vrificatur b. Unde et Auerroys 
+      ibi<lb ed="#V" n="70" break="no"/>dem sumpto opposito primi consequentis scilicet hoc 
+      <lb ed="#V" n="71"/>quoddam a. est b. ponamus inquit illud 
+      ali<lb ed="#V" n="72" break="no"/>quod sensibile sitque c. etc. Si autem 
+      dica<lb ed="#V" n="73" break="no"/>tur quod non oportet dare aliquod singulare 
+      si<lb ed="#V" n="74" break="no"/>gnatum sub a. probatio nulla erit. Nam 
+      <lb ed="#V" n="75"/>ille due non formaliter contradicunt. nul lum b. est 
+      <lb ed="#V" n="76"/>a. quoddam a. est b. quare non probabitur conuersio 
+      <lb ed="#V" n="77"/>illa. et per consequens nec econverso alicuius alterius propositionis. cum quelibet 
+      pro<lb ed="#V" n="78" break="no"/>betur vltimate per conuersionem vniversalis negatiue. et vltra sequitur 
+      <lb ed="#V" n="79"/>quod omnis perfectio sillogismorum qui per conuersionem perficiunt sit 
+      <lb ed="#V" n="80"/>inualida et infirma. et sic tollitur magna pars logice et doctri 
+      <lb ed="#V" n="81"/>ne. P. Unde in hac materia hec conuersio: et consequentia posset negari. nul 
+      <lb ed="#V" n="82"/>la propositio singularis cathegorica de futuro contingenti est vera 
+      <lb ed="#V" n="83"/>propositio ergo nulla propositio vera est propositio singularis 
+      cathegorica<lb ed="#V" n="84" break="no"/>de futuro contingenti. sam oppositum consequentis non repugnat antecedenti 
+      <lb ed="#V" n="85"/>formaliter. nec dabitur aliqua singularis ex qua posset inferri op 
+      <lb ed="#V" n="86"/>positum antecedentis. nec potest dici quod per propriam conuersionem habetur op 
+      <lb ed="#V" n="87"/>positum antecedentis. quia vt dictum est: quelibet alia propositio conuertitur virtute 
+      <lb ed="#V" n="88"/>conuersionis vniversalis negatiue. sicut patet primo priorum. sed ne 
+      <lb ed="#V" n="89"/>gare illam conuersionem certum est non esse bene logicum. 
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e1221">
+               <lb ed="#V" n="90"/>⁋ Praeterea sequitur vnum de duobus. videlibet quod erit aliqua propositio 
+      <lb ed="#V" n="91"/>niversalis falsa cuius qualibet singularis est vera. vel due contradictorie 
+      <lb ed="#V" n="92"/>simul vere: quod est absurdum. de secundo quidem patet ratione primi principii. 
+      <lb ed="#V" n="93"/>de primo autem quia per propositionem vniversalem si est affirmatiua non 
+      de<lb ed="#V" n="94" break="no"/>notatur nisi quod praedicatum affirmetur vere de quolibet singulari 
+      <lb ed="#V" n="95"/>sui subiecti: aut quod vere negatur a quolibet singulari sui 
+      subie<lb ed="#V" n="96" break="no"/>cti si sit negatiua: et ideo vniversalis et copulatiua ex omnibus eius 
+      singu<lb ed="#V" n="97" break="no"/>laribus semper conuertuntur. et impossibile est vnam esse veram quin 
+      <lb ed="#V" n="98"/>reliqua sit vera et econuerso: propter quod et commune dictum est. quod ad ver 
+      <lb ed="#V" n="99"/>tatem vniversalis sufficit quamlibet singularem eius esse veram. Sed  
+      <lb ed="#V" n="100"/>consequentia probo. Nam demonstratis gratia exempli a. et b. secundum philosophum. hec 
+      <lb ed="#V" n="101"/>est vera. altera illarum est natura aut igitur hoc etiam est nam neutia istarum 
+      <lb ed="#V" n="102"/>est natura que est contradictoria prime: et sequitur 2a pars consequentis. aut 
+      <lb ed="#V" n="103"/>ipsa est falsa. quod dicere oportet cum eius contradictoria ponatur vera. 
+      <lb ed="#V" n="104"/>et tunc sequitur prima pars consequentis. quia vtraque singularis eius est vera 
+      <lb ed="#V" n="105"/>Nam hec est vera. hec demonstrata a. non est vera. Et simi 
+      <lb ed="#V" n="106"/>liter hec est vera. hec demonstrata propositioe b. non est vera. et iste sunt 
+      <lb ed="#V" n="107"/>singulares istius vniversalis. neutra istarum est vera demonstratis a. et b. 
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e1263">
+               <lb ed="#V" n="108"/>⁋ Item sequitur ex hac opinione. P. quod aliqua disiunctiua erit vera 
+      <lb ed="#V" n="109"/>cuius nulla pars erit vera. quod est videtur inconueniens logico. consequentia 
+      <lb ed="#V" n="110"/>patet. Nam hec copulatiua est falsa. antichristus non erit neque 
+      <lb ed="#V" n="111"/>antichristus non erit. Nam ex ipsa sequitur quod due contradictorie sint 
+      <lb ed="#V" n="112"/>simul vere. sicut supra per philosophum in sua 2a conclusione et Boetium 
+      <lb ed="#V" n="113"/>declarabatur quod ex ista de copulato praedicato antichristus neque 
+      <lb ed="#V" n="114"/>erit neque non erit sequitur: quod due contradictorie sunt simul false. 
+      <lb ed="#V" n="115"/>et eque patenter nihil plus sequitur ex ipsa copulatiua. cum ergo 
+      <lb ed="#V" n="116"/>ipsa sit falsa sequitur per legem condictoriarum quod eius contradictoria 
+      <lb ed="#V" n="117"/>est vera. ea autem est ista disiunctiua. vel antichristus erit vel 
+      anti<lb ed="#V" n="118" break="no"/>christus non erit. cuius neutra pars est vera secundum philosophum.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e1289">
+      ⁋ Ultimo 
+      <lb ed="#V" n="119"/>specialiter contra doctorem illum consentientem in opposita 
+      con<lb ed="#V" n="120" break="no"/>clusione. P. arguo thect. quia si vera sit ista positius. sequitur quod nul 
+      <lb ed="#V" n="121"/>la prinum modo singularis de futuro contingenti contenta in sacra scri 
+      <lb ed="#V" n="122"/>ptura esset vera. patet consequentia. sed probo consequens esse falsum. sumo enim 
+      <lb ed="#V" n="123"/>hanc scripturam actu. primo. hic iesus qui assumptus est a vobis in 
+      <lb ed="#V" n="124"/>celum sic veniet. aut hec est vera. et habeo propositum: aut non 
+      <lb ed="#V" n="125"/>est vera. et tunc sequitur quod hic iesus non veniet. quod est expresse 
+      <lb ed="#V" n="126"/>hereticum. et consequentia patet ex principio primo assumpto.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e1309">
+      ⁋ Praeterea in sacra 
+      scri<lb ed="#V" n="127" break="no"/>ptura non solum tales praenunciationes ponuntur: sed etiam habetur ex 
+      <lb ed="#V" n="128"/>presse quod ipse sunt vere. ergo dicere illas non esse veras est hereti 
+      <lb ed="#V" n="129"/>cum. Assumptum patet ex apoc. Ioan. ibi enim dicitur Et absterget 
+      <lb ed="#V" n="130"/>omnem lachrymam ab oculis eorum. que est prienumo singularis de fu¬ 
+      <!--252.xml-->
+      <pb ed="#V" n="132-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>turo contingenti. Et immediate dicitur Ioanni scribe quia hec verba 
+      <lb ed="#V" n="2"/>fidelissima sunt et vera.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e1331">
+      ⁋ Praeterea aug. in libro de praedestinatio 
+      <lb ed="#V" n="3"/>ne gratie qui etiam intitulatur de voluntate dei. Cum in sacrarum 
+      <lb ed="#V" n="4"/>inquit voluminibus litterarum: seu futurorum quid prophetico 
+      <lb ed="#V" n="5"/>spiritu praenunciationibus: seu preteritorum hystorica verita 
+      <lb ed="#V" n="6"/>te narrantibus: seu vite monita apostolica auctoritate tre 
+      <lb ed="#V" n="7"/>dentibus: aliqua veluti diuersum sonante sententia. vel 
+      <lb ed="#V" n="8"/>monetur lector. vel sollicitatur auditor: sequitur hic lucidius 
+      <lb ed="#V" n="9"/>apparere: ibi altius latere: nusquam tamen deesse nouerit verita 
+      <lb ed="#V" n="10"/>tem. Ecce quod numquam deest veritas in his que spiritu 
+      prophe<lb ed="#V" n="11" break="no"/>tico futura praenunciantur. plurime autem auctoritates tam 
+      ca<lb ed="#V" n="12" break="no"/>nonis quam sanctorum ad id possent adduci. sed iste nunc satis 
+      <lb ed="#V" n="13"/>sint.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e1357">
+      ⁋ Secundo si nulla enunciatio singularis etc. sequitur 
+      <lb ed="#V" n="14"/>quod deus non certe et determinate praesciret que pars contingentis 
+      <lb ed="#V" n="15"/>sit futura vel non. patet quia cuiuscumque sciti enuciatio si forme 
+      <lb ed="#V" n="16"/>tur est vera. sed consequens est hereticum expresse vt patebit in 
+      se<lb ed="#V" n="17" break="no"/>quenti quaestione.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e1369">
+      ⁋ 2a conclusio est quod omnis talis propositio vera de eor 
+      <lb ed="#V" n="18"/>quod est vere futurum. quandocumque fuit si fuit. fuit vera. Et si sempe 
+      <lb ed="#V" n="19"/>fuisset: semper fuisset vera. probo sic et sumatur a gratia exempli. quia 
+      <lb ed="#V" n="20"/>sicut de vna probatur. ita de qualibet potest probari. Et arguo sic. a. 
+      <lb ed="#V" n="21"/>est vera. ergo antichristus erit si antichristus erit quandocumque fuit. si fuit. fuit 
+      <lb ed="#V" n="22"/>vera. et si semper fuisset: semper fuisset vera. maior patet ex primo principio assum 
+      <lb ed="#V" n="23"/>pto ex prime conclusionis probatione. minor probatur. quia si a. semper fuit 
+      <lb ed="#V" n="24"/>set: semper enunciasset antichristum fore. et per consequens enunciasset 
+      <lb ed="#V" n="25"/>futurum quod vere futurum erat. et per consequens per diffinitionem veri 
+      se<lb ed="#V" n="26" break="no"/>quitur quod semper fuisset vera: et suppono quod sicut nunc a 
+      signifi<lb ed="#V" n="27" break="no"/>cat ita semper significet. quia si non fuisset significatiua. aut 
+      <lb ed="#V" n="28"/>fuisset instituta ad aliquid significandum probatio non procederet. 
+      <lb ed="#V" n="29"/>Eodem modo modo potest probari quod si aliqua talis est falsa si semper fuisset: seper 
+      <lb ed="#V" n="30"/>fuisset falsa. sic arguendo. si b. est falsa ergo antichristus non 
+      <lb ed="#V" n="31"/>erit. Patet quia si antichristus erit ipsa non est falsa. ergo si b. semper fuisset:  
+      <lb ed="#V" n="32"/>semper fuisset falsa. quia enunciasset non fore quod vere erat fu 
+      <lb ed="#V" n="33"/>turum.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e1406">
+      ⁋ 3a conclusio quod nulla propositio singularis de inesse 
+      affirma<lb ed="#V" n="34" break="no"/>tiua vel negatiua de futuro cuius enunciabile sit vere futurum 
+      <lb ed="#V" n="35"/>contingens ad vtrumlibet est necessario vel ineuitabiliter vera. 
+      <lb ed="#V" n="36"/>probo sic. Cuiuslibet talis singularis contradictoria est 
+      possibi<lb ed="#V" n="37" break="no"/>lis. ergo nulla est necessaria vel ineuitabiliter vera. Consequen 
+      <lb ed="#V" n="38"/>tia patet. quia alioquin contingeret aliqua contradictoria simul esse vera. 
+      <lb ed="#V" n="39"/>Antecedens probatur ex eo: quod tale contingens potest fore potest et non fore. et 
+      <lb ed="#V" n="40"/>si ponatur inesse sicut est possibile. tunc affirmatiua erit vera. et per 
+      <lb ed="#V" n="41"/>consequens contradictoria negatiue est possibilis. Si vero non 
+      pone<lb ed="#V" n="42" break="no"/>retur inesse tunc negatiua erit vera. et per consequens contradictoria affirma 
+      <lb ed="#V" n="43"/>tiua est possibilis.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e1430">
+      ⁋ 4a conclusio quod nulla propositio de inesse 
+      particula<lb ed="#V" n="44" break="no"/>ris vel vniversalis affirmatiua enuncians aliquam entitatem contin 
+      <lb ed="#V" n="45"/>gentem futuram esse futuram est necessaria. Probatur quia hec est 
+      pos<lb ed="#V" n="46" break="no"/>sibilis. nulla entitas contingens futura erit. ergo nulla talis 
+      vni<lb ed="#V" n="47" break="no"/>uersalis vel particularis est necessaria. consequentia patet: quia illud antecedens 
+      <lb ed="#V" n="48"/>est incompossibile cuilibet tali vniversali vel particulari. Antecedens autem patet. 
+      <lb ed="#V" n="49"/>qui possibile est quod nulla huiusmodi vnquam fiet. et per consequens quod nulla sit 
+      <lb ed="#V" n="50"/>futura. quo posito hec erit vera. nulla entitas contingens fu 
+      <lb ed="#V" n="51"/>tura erit.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e1450">
+      ⁋ Ex hoc infero quod falsum dicunt aliqui docto 
+      <lb ed="#V" n="52"/>res ponentes has esse necessarias. omne contingens futurum 
+      <lb ed="#V" n="53"/>erit. si futurum in vtraque sumatur pro aliqua entitate contingen 
+      <lb ed="#V" n="54"/>te futura. et patet quia hec est possibilis. nullum futurum continges 
+      <lb ed="#V" n="55"/>erit: quae est contradictoria particularis et contraria vniversalis. Dico tamen quod vtra 
+      <lb ed="#V" n="56"/>que harum est necessaria. si subiecta stent pro enunciabilibus comple 
+      <lb ed="#V" n="57"/>xis enunciationum de futuro tam affirmatiuarum quam negatiuarum 
+      <lb ed="#V" n="58"/>probo. quia impossibile est quin cuiuslibet contradictionis de futu 
+      <lb ed="#V" n="59"/>ris contingentibus alterum contradictoriorum enunciabilium sit fu 
+      <lb ed="#V" n="60"/>turum. hoc patet. quia ex opposito sequitur quod esset possibile esse 
+      <lb ed="#V" n="61"/>aliquas duas enunciationes de talibus futuris inuicem contradicto 
+      <lb ed="#V" n="62"/>riis: quarum neutra esset vera: quod est falsum. patet quia illud enum 
+      <lb ed="#V" n="63"/>ciabile dico futurum quod contingit enunciari per enunciationem 
+      <lb ed="#V" n="64"/>de futuro veram affirmatiuam vel negatiuam. sicut si hec est 
+      ve<lb ed="#V" n="65" break="no"/>ra. ego legam cras. dicimus quod futurum est. quod ego legam 
+      <!--252.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 132-r b -->
+               <lb ed="#V" n="66"/>cras. Et si ista sit vera. ego non legam cras dicimus quod futurum 
+      <lb ed="#V" n="67"/>est quod ego non legam cras. hoc modo loquitur Augu. de 
+      <lb ed="#V" n="68"/>vno martire cum ait. futurum erat vt reges terre qui propter 
+      <lb ed="#V" n="69"/>ydola persequebantur christianos quod propter christum ydola 
+      dele<lb ed="#V" n="70" break="no"/>rent. dicens. futurum non quidem hanc enunciatione. sed quod per 
+      <lb ed="#V" n="71"/>ipsam significatur. Et eodem modo dici potest de enunciabili enucia 
+      <lb ed="#V" n="72"/>tionis negatiue. futurum erat vt reges propter christum ydola non 
+      <lb ed="#V" n="73"/>adorarent: et sicut talia enunciabilia dicuntur futura sic potest 
+      <lb ed="#V" n="74"/>dici quod erunt. quo modo loquendi frequenter vtitur 
+      scriptu<lb ed="#V" n="75" break="no"/>ra diuina. Unde oportetee. 3o. Et erit in die illo dicit dominus voca  
+      <lb ed="#V" n="76"/>bit me vir meus et non vocabit me baalim. Et loquitur de 
+      <lb ed="#V" n="77"/>sinagoga. vbi patet quod de vtroque enunciabili scilicet affirmatiue et 
+      <lb ed="#V" n="78"/>negatiue dicit: et erit et hoc sepissime in scripturis propheti 
+      <lb ed="#V" n="79"/>cis inuenitur: quae locutio vtrum sit propria vel impropria non 
+      cu<lb ed="#V" n="80" break="no"/>ro. ergo necesse est aliqua esse futura. ex quo sequitur quod hec non 
+      <lb ed="#V" n="81"/>potest esse falsa. aut non esse vera. omne futurum erit. ac per hoc est 
+      <lb ed="#V" n="82"/>necessaria. et per consequens est sua particularis: quamuis autem ipsa sit 
+      <lb ed="#V" n="83"/>necessaria: nulla tamen eius singularis est necessaria. quia 
+      nul<lb ed="#V" n="84" break="no"/>lum tale futurum est de necessitate futurum. cum cuiuslibet oppositum 
+      <lb ed="#V" n="85"/>sit possibile. et ideo nulla talis est necessaria. hoc futurum erit. quia quaelibet huiusmodi 
+      <lb ed="#V" n="86"/>implicat quod illud sit necessario futurum: quod tamen contingit non 
+      <lb ed="#V" n="87"/>esse futurum. et per consequens quaelibet huiusmodi est contingens et non necessaria. 
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e1537">
+               <lb ed="#V" n="88"/>⁋ 5a conclusio est: quod quelibet talis singularis potest numquam fuisse vera. probo. 
+      <lb ed="#V" n="89"/>qui quodcumque per huiusmo propositionem enunciatur fore potest non esse futurum. 
+      <lb ed="#V" n="90"/>et quodcumque enunciat non esse futurum: potest esse futurum. ergo quelibet ta 
+      <lb ed="#V" n="91"/>lis potest numquam fuisse vera. Antecedens est notum ex eo: quod illud est contingens 
+      <lb ed="#V" n="92"/>ad vtrumlibet. Consequentia probatur: quia de quolibet sequitur hoc non est 
+      <lb ed="#V" n="93"/>futurum. ergo numquam fuit vera propositio enstencians ipsum esse futurum 
+      <lb ed="#V" n="94"/>quinymo si aliqui enunciauit ipsum esse futurum: ipsa fuit falsa. et 
+      <lb ed="#V" n="95"/>intelligo semper: quod pro eo tempore et illo modo enuciauerit ipsum 
+      <lb ed="#V" n="96"/>esse futurum: quo ponitur non esse futurum.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e1559">
+      ⁋ 5a conclusio quod que 
+      <lb ed="#V" n="97"/>libet talis singularis de futuro enuncians pro aliquo deter 
+      <lb ed="#V" n="98"/>minato tempore vel instanti futuro. potest esse successiue vera et 
+      <lb ed="#V" n="99"/>falsa. sic tamen quod affirmartiua potest esse falsa postquam fuit 
+      <lb ed="#V" n="100"/>vera. non autem vera postquam fuit falsa. et negatiua potest esse vera 
+      <lb ed="#V" n="101"/>postquam fuit falsa. non autem falsa postquam fuit vera. Prima pars 
+      <lb ed="#V" n="102"/>probat scilicet de affirmatiua sic. possibile est quod eius contradictoria 
+      <lb ed="#V" n="103"/>sit vera. postquam ipsa fuit vera. ergo possibile est quod ipsa sit fal 
+      <lb ed="#V" n="104"/>sa postquam fuit vera. consequentia patet: quia quandocumque sua contradictoria est vera 
+      <lb ed="#V" n="105"/>ipsa si est: est falsa. Antecedens probat: quia si ponatur inesse illud quod 
+      <lb ed="#V" n="106"/>enunciat futurum: postea sua contradictoria est vera. verbi gratia. ista 
+      <lb ed="#V" n="107"/>antichristus erit in c. sit c. nomen proprium alicuius determinate 
+      fu<lb ed="#V" n="108" break="no"/>turi. Si antichristus erit in c. sic ponitur si ista sit vera. post c. 
+      <lb ed="#V" n="109"/>hec eius opposita erit vera. antichristus non erit in c. quia numquam 
+      <lb ed="#V" n="110"/>c. erit postea et tunc illa affirmatiua erit falsa: et erit verum 
+      <lb ed="#V" n="111"/>dicere de ipsa quod ipsa est falsa postquam fuit vera.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e1595">
+      ⁋ Quia autem 
+      <lb ed="#V" n="112"/>ipsa non possit esse vera postquam fuit falsa. probatur: quia ipsa non 
+      <lb ed="#V" n="113"/>potest esse vera nisi ante c. supposito quod nullum instans praeteritum 
+      pos<lb ed="#V" n="114" break="no"/>sit esse futurum. et sequitur si in aliquo instanti ante c. sit vera: 
+      <lb ed="#V" n="115"/>quod semper quandocumque prius fuit si fuit. fuit vera. vt patet ex 
+      secunda<lb ed="#V" n="116" break="no"/>coclusione si vero semper fuit vera quandocumque fuit postquam fuerit. ergo nunquam 
+      <lb ed="#V" n="117"/>ante fuit falsa. et per consequens impossibile est quod ipsa sit vera postquam fuit fal 
+      <lb ed="#V" n="118"/>sa.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e1613">
+      ⁋ 2a pars consequenis scilicet de negatiua probatur sic. affirmatiua 
+      <lb ed="#V" n="119"/>potest esse falsa postquam fuit vera. ergo negatiua eius opposita potest 
+      <lb ed="#V" n="120"/>esse vera postquam fuit falsa. antecedens probatum est. consequentia vero patet. quia sem 
+      <lb ed="#V" n="121"/>per quando affirmatiua est vera: negatiua (si est) est falsa: et 
+      <lb ed="#V" n="122"/>quando affirmatiua est falsa negatiua est vera. Quia autem ipsa non 
+      <lb ed="#V" n="123"/>possit esse falsa postquam fuit vera. probo. quia ista. antichristus non 
+      <lb ed="#V" n="124"/>erit in c. non potest esset falsa in c. nec in aliquo alio instanti 
+      <lb ed="#V" n="125"/>post c. patet: ergo si debeat esse falsa hoc erit in aliquo instanti ante 
+      <lb ed="#V" n="126"/>c. quod si ponatur: sequitur: vt patet ex 2a conclusione quod semper quandocumque prius 
+      <lb ed="#V" n="127"/>fuit si fuit. fuit falsa. et per consequens numquam fuit vera. Ex quo 
+      se<lb ed="#V" n="128" break="no"/>quitur quod impossibile est ipsam esse falsam postquam fuit vera. 
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e1637">
+               <lb ed="#V" n="129"/>⁋ Conclusio 7a est quod nulla talis propositio affirmatiua vel 
+      nega<lb ed="#V" n="130" break="no"/>tiua potest esse successiue vera aut falsa. et vera pro instanti illo 
+      <!--253.xml-->
+      <pb ed="#V" n="132-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>pro quo enunciat aliquid fore vel non fore. hoc patet quia si 
+      pro<lb ed="#V" n="2" break="no"/>quocumque instanti ante illud pro quo enunciat aliqua talis pro 
+      <lb ed="#V" n="3"/>positio sit vera: sequitur quod numque prius fuit falsa: sed si fuit quando 
+      <lb ed="#V" n="4"/>cumque fuit: fuit vera. et si pro aliquo instanti ante illud 
+      poni<lb ed="#V" n="5" break="no"/>tur esse falsa. consequens est quod numquam antea fuit vera: sed si fuit 
+      quaesdo<lb ed="#V" n="6" break="no"/>cumque fuit: fuit falsa. et ista patent ex secunda conclusione. 
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e1663">
+               <lb ed="#V" n="7"/>⁋ Dctaua propositio est quod si illa propositio dicatur 
+      mu<lb ed="#V" n="8" break="no"/>tabiliter vera que potest mutari de veritate in falsitatem 
+      <lb ed="#V" n="9"/>seu magis proprie loquendo que potest esse vera et falsa 
+      <lb ed="#V" n="10"/>successiue: sic quod aliquando verum sit dicere de ipsa. hec est 
+      <lb ed="#V" n="11"/>falsa: et prius fuit vera. illa vero dicatur immutabiliter vera que non 
+      <lb ed="#V" n="12"/>sic mutari potest. et simpliciter falsa dicatur immutabiliter falsa in eo 
+      <lb ed="#V" n="13"/>dem sensu: quelibet propositio talium affirmatiua vera est 
+      <lb ed="#V" n="14"/>simpliciter loquendo mutabiliter vera: et quelibet negatiua falsa: 
+      <lb ed="#V" n="15"/>est mutabiliter falsa: affirmatiua vero falsa est immutabiliter 
+      fal<lb ed="#V" n="16" break="no"/>sa. et negatiua vera est immutabiliter vera. Et patet ex sexta conclusione. Non 
+      <lb ed="#V" n="17"/>simpliciter autem loquendo: sed cum determinatione scilicet quod sit vera vel 
+      <lb ed="#V" n="18"/>falsa mutabiliter ante illud instans pro quo enuciat. idest 
+      <lb ed="#V" n="19"/>quod possit esse successiue vera et falsa. aut falsa et vera ante 
+      <lb ed="#V" n="20"/>instans illud. Sic enim dico quod nulla est mutabiliter vera: 
+      <lb ed="#V" n="21"/>vel falsa sed quelibet vera est immutabiliter vera. et quelibet falsa immu 
+      <lb ed="#V" n="22"/>tabiliter falsa. et totum patet ex septima conclusione.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e1700">
+      ⁋ Ex praedictis etiam 
+      <lb ed="#V" n="23"/>patet. quo tales propositiones possunt incipere esse vere vel false: et quo 
+      <lb ed="#V" n="24"/>non possunt. Nam sic aliqua propositio potest vel non potest esse vera postquam 
+      fu<lb ed="#V" n="25" break="no"/>it non vera. aut falsa. postquam fuit non falsa. sic potest incipere esse 
+      <lb ed="#V" n="26"/>vera vel falsa. affirmatiua autem potest esse falsa postquam fuit non 
+      <lb ed="#V" n="27"/>falsa. quia potest esse falsa postquam fuit vera. vt patet ex sexta conclusione. ergo 
+      <lb ed="#V" n="28"/>potest incipere esse falsa. et quia non potest esse vera. postquam fuit non 
+      ve<lb ed="#V" n="29" break="no"/>ra: vt ibidem patet. ideo non potest incipere esse vera. Et simili modo probatur. 
+      <lb ed="#V" n="30"/>quod negatiua potest incipere esse vera. et non potest incipere esse falsa. 
+      <lb ed="#V" n="31"/>Et aduerte. quod proprie non dicitur propositio incipere esse vera ex hoc praecise 
+      <lb ed="#V" n="32"/>quod ipsa est vera: et non fuit prius vera. quia si nunquam ipsa fuit prius. 
+      <lb ed="#V" n="33"/>et modo sit: et sit vera. verum est quod ipsa est vera. et nunquam prius fuit 
+      <lb ed="#V" n="34"/>vera. nec tamen quaelibet talis proprie dicitur incipere esse vera: sed illa tantum 
+      <lb ed="#V" n="35"/>quae prius fuit non vera: aut si fuisset: fuisset non vera. alioquin quae 
+      <lb ed="#V" n="36"/>li et propositio vera nouiter formata diceretur incipere esse vera. 
+      <lb ed="#V" n="37"/>et sic vna propositio geometrica inciperet esse vera. quod tamen in communi vsu 
+      <lb ed="#V" n="38"/>loquendi absurdum diceretur. Quia vero ante instans vel tempus fu 
+      <lb ed="#V" n="39"/>turum pro quo enunciat propositio nulla talis potest esse falsa. postquam fu 
+      <lb ed="#V" n="40"/>it non falsa. aut vera. postquam fuit non vera. vt patet ex 7a conclusione: 
+      <lb ed="#V" n="41"/>patet quod nulla potest ante illud instans vel tempus incipere esse vera vel 
+      <lb ed="#V" n="42"/>incipere esse falsa.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e1746">
+      ⁋ Sed contra potest argui. sumendo 
+      aliquam<lb ed="#V" n="43" break="no"/>t ale propositionem et sit gratia exempli b. sic. b. non est vera: et potest 
+      <lb ed="#V" n="44"/>tante instans pro quo enunciat esse vera. ergo b. potest ante 
+      <lb ed="#V" n="45"/>llud instans incipere esse vera. Antecedens patet ex 3a conclusione. et consequentia taet: 
+      <lb ed="#V" n="46"/>ex eo quod in aestete includitur vtraque exponens consequentis.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e1758">
+      ⁋ Et 
+      pos<lb ed="#V" n="47" break="no"/>set sic confirmari consequentia. nam sequitur. b. non est vera. et erit ante 
+      <lb ed="#V" n="48"/>illud instans vera. ergo b. ante illud instans incipit vel incipiet 
+      <lb ed="#V" n="49"/>esse vera. ergo eodem modo sequitur. b. non est vera etc. ergo potest incipere etc. 
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e1767">
+               <lb ed="#V" n="50"/>⁋ Respono ad primum concedo antecedens posito quod b. sit propositio falsa. et 
+      <lb ed="#V" n="51"/>nego consequentia. et est ratio quia esto quod iste essent exponentes consequentis 
+      <lb ed="#V" n="52"/>qui tamen illud verbum potest non praecedit in antecedente nisi alteram earum: et 
+      <lb ed="#V" n="53"/>in consequente praecedit illum infinitiuum incipere. et per consequens equiualet 
+      <lb ed="#V" n="54"/>vtramque e xponentem consequentis: ideo per antecedens non denotatur quod copulati 
+      <lb ed="#V" n="55"/>ua de inesse composita ex illis exponentibus possit esse vera ante illi 
+      <lb ed="#V" n="56"/>instans: sed solum denotatur quod vna illarum scilicet hec. b. est vera. sit 
+      pos<lb ed="#V" n="57" break="no"/>sibilis ante illud instans. sed in consequente denotatur quod tota 
+      copula<lb ed="#V" n="58" break="no"/>tiua possit esse vera ante illud instans. et ideo consequentia non valet. 
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e1789">
+               <lb ed="#V" n="59"/>⁋ Et per idem patet ad secundum quod prima consequentia cuius antecedens et consequens sunt 
+      <lb ed="#V" n="60"/>mere de inesse est bona. quamuis antecedens includat incompossibilia. 
+      <lb ed="#V" n="61"/>Unde secunda consequentia non valet nec sequitur ex prima propter causam dictam 
+      <lb ed="#V" n="62"/>sed bene sequitur: possibile est quod b. non sit vera: et erit ante illud instans vera. 
+      <lb ed="#V" n="63"/>ergo b. potest incipere etc. sic tamen quod antecedens sumeretur in sensu composito et 
+      <lb ed="#V" n="64"/>denotaretur totam copulatiuam sequentem esse possibilem: 
+      <!--253.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 132-v b -->
+               <lb ed="#V" n="65"/>sed tunc tale antecedens est falsum. 
+      <lb ed="#V" n="66"/>Quantum ad tertium articulum in quo 
+      viden<lb ed="#V" n="67" break="no"/>dum est an contingens est contingens 
+      <lb ed="#V" n="68"/>quando est. vel quando non est: premitto quid 
+      intelligo<lb ed="#V" n="69" break="no"/>per hoc nomen contingens. Et dico iuxta sententiam philosophi. 
+      <lb ed="#V" n="70"/>primo priorum. quod idem quod per hanc orationem. possibile non necessarium. Nam 
+      <lb ed="#V" n="71"/>impossibile non dicimus contingere: neque etia necessarium nisi equiuoce vt 
+      <lb ed="#V" n="72"/>ibi dicit. P. Et ideo diffiniens contingens ait. Dico autem contingere 
+      <lb ed="#V" n="73"/>vel contingens quod cum non sit necessium posito inesse nihil erit per hoc 
+      <lb ed="#V" n="74"/>impossibile. Et quia possibile dicitur quo posito non sequitur impossibile. idem est hoc totum 
+      <lb ed="#V" n="75"/>dictu quod contingens est quod cum non sit necessium est possibile. Est ergo diffiniti 
+      <lb ed="#V" n="76"/>potingentis non necessirum possibile vel econverso possibile non necessium. sicut ergo aliquid  
+      <lb ed="#V" n="77"/>dicitur posse esse et non necesse esse aut posse non esse et non necesse 
+      <lb ed="#V" n="78"/>non esse: sic dicitur contingens esse vel contingens non esse. et non solum quando 
+      <lb ed="#V" n="79"/>est praedicatur secundum adiacens: sed etiam quando 3m qualecumque sit praedicatum 
+      <lb ed="#V" n="80"/>Et quia non necesse esse: et possibile non esse se consequuntur. ideo contingens 
+      <lb ed="#V" n="81"/>quod est possibile esse et non necesse esse: est possibile esse et possibile non esse.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e1848">
+      ⁋ Et 
+      <lb ed="#V" n="82"/>hinc est: quod frequenter dicitur quod contingens est indeterminatum ad esse 
+      <lb ed="#V" n="83"/>et non esse. quod non debet intelligi de indeterminatione de inesse: 
+      vide<lb ed="#V" n="84" break="no"/>libet quod contingens non sit nec non sit. quia hoc est impossibile respectu 
+      cu<lb ed="#V" n="85" break="no"/>iuscumque praedicati: alias esset possibile quod duo contradictoria essent simul 
+      <lb ed="#V" n="86"/>falsa. Sed intelligendum est de indeterminatione de necessario 
+      <lb ed="#V" n="87"/>negatiue. valet quod non est necesse esse nec necesse non esse. vel de 
+      inde<lb ed="#V" n="88" break="no"/>terminatione de possibili affirmatiue. valet quod potest esse et potest 
+      <lb ed="#V" n="89"/>non esse: qui duo sensus sententialiter equipollent.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e1868">
+      ⁋ hoc praemisso patet 
+      <lb ed="#V" n="90"/>quod tunc contingens est contingens quando potest esse et potest non esse.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e1873">
+      ⁋ Ad 
+      vi<lb ed="#V" n="91" break="no"/>dendum ergo vtrum quando res est sit contingens esse: aut quando non est. viden 
+      <lb ed="#V" n="92"/>dum est vtrum quando res est possit non esse: an quando non est. hoc autem potest du 
+      <lb ed="#V" n="93"/>intelligi. Uno modo quod quando res est tunc sit in potentia vt in futuro non sit. 
+      <lb ed="#V" n="94"/>Alio modo quod tunc sit in potentia vt non sit tunc. et hoc adhuc dubiur. Uno modo 
+      <lb ed="#V" n="95"/>sic quod propositio enuncians ipsum non esse tunc potest esse vera in futuro. 
+      <lb ed="#V" n="96"/>Alio modo quod tunc sit possibile ipsam esse veram. vbi gratia. sit a. aliquod singu 
+      <lb ed="#V" n="97"/>lare actu existens nunc siue in instanti praesente: quod vocetur b. quod nunc 
+      <lb ed="#V" n="98"/>a. possit non esse potest intelligi 3. vno modo quod nunc a. potest in futuro 
+      <lb ed="#V" n="99"/>non esse. ita quod possibile est post nunc seu post instans b. hanc esse 
+      <lb ed="#V" n="100"/>veram. a. non est. Secundus sensus est quod nunc a. potest in futuro non esse 
+      <lb ed="#V" n="101"/>in isto instanti quod est b. ita quod possibile est quod post b. hec sit ve 
+      <lb ed="#V" n="102"/>ra. a. non est in b. Tertius sensus est quod nunc a. potest non esse nunc: aut 
+      <lb ed="#V" n="103"/>quod possibile sit hanc a. non esse: vel a. non est in b. esse nunc veram. 
+      <lb ed="#V" n="104"/>et eodem modo potest etiam 3a intelligi quod res que nunc non est potest esse. 
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e1907">
+               <lb ed="#V" n="105"/>⁋ Secundum sensum primum articulus iste non habet difficultatem. Nam 
+      <lb ed="#V" n="106"/>certum est. quod potest sic probari breuiter. aliquid nunc est. quod non 
+      <lb ed="#V" n="107"/>impossibile est non esse. ergo aliquid nunc est quod nunc potest non esse. et vltra. 
+      <lb ed="#V" n="108"/>ergo aliquid quando est potest non esse. Et eodem modo potest argui quod aliquid quando 
+      <lb ed="#V" n="109"/>non est) potest esse. quia aliquid nunc non est: quod non est impossibile esse etc. 
+      <lb ed="#V" n="110"/>Antecedens primum patet. quia multa sunt singularia et corruptibilia et 
+      an<lb ed="#V" n="111" break="no"/>nihilabilia. et per consequens non impossibilia non esse. que tamen nunc 
+      <lb ed="#V" n="112"/>actu sunt in rerum natura. et consequentie sunt satis euidentes.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e1927">
+      ⁋ Praetere 
+      <lb ed="#V" n="113"/>si hoc non sit verum sequitur quod nihil sit possibile non esse nisi 
+      <lb ed="#V" n="114"/>quando non est. nec aliquid possibile esse nisi quando est. sicut opinati sunt 
+      <lb ed="#V" n="115"/>megarici: quorum opiniones. P. reprobat. 9. meta. sic enim. vt 
+      <lb ed="#V" n="116"/>dicit ibi. P. sequitur quod habens visum non potest videre nisi quando 
+      <lb ed="#V" n="117"/>actu videt. nec edificator potest edificare nisi quando actu edifi 
+      <lb ed="#V" n="118"/>cat: nec aliquid quod non fit potest fieri: aut quod non mouetur moueri. 
+      <lb ed="#V" n="119"/>et generaliter tollitur omnis possibilitas generationis vel corruptionis 
+      <lb ed="#V" n="120"/>vel noue mutatonis in entibus qua omnia sunt absurda.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e1947">
+      ⁋ Sed 
+      <lb ed="#V" n="121"/>contra hoc potest argui. quia si aliquid quando est potest non esse. ergo quando aliquid potest 
+      <lb ed="#V" n="122"/>esse: potest non esse: et vltra. ergo aliquid simul et semel potest esse et non esse. consequentis 
+      <lb ed="#V" n="123"/>prima patet: quia quando aliquid est potest esse. 2a patet: quia idem 
+      <lb ed="#V" n="124"/>est dictu. quando potest esse potest non esse et simul et se 
+      <lb ed="#V" n="125"/>mel potest esse et non esse.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e1960">
+      ⁋ Ad hoc dicunt aliqui 
+      argu<lb ed="#V" n="126" break="no"/>mentationem esse necessariam: et concedunt consequens 
+      <lb ed="#V" n="127"/>quod dicunt esse verum. licet non in sensu composito 
+      <lb ed="#V" n="128"/>quia impossibile est quod idem simul sit et non sit.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e1969">
+      ⁋ Sed. 
+      <!--254.xml-->
+      <pb ed="#V" n="133-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>illud non est bene dictum. Nam sequitur: aliquid simu 
+      <lb ed="#V" n="2"/>et semel potest esse et non esse. ergo aliquid potest esse et non esse. signetur  
+      <lb ed="#V" n="3"/>aliquid tale: et illo demonstrato arguo. hoc potest esse et non esse. 
+      <lb ed="#V" n="4"/>ergo ista est possibilis hoc est et non est: quod tamen est falsum: et consequentia patet 
+      <lb ed="#V" n="5"/>qui quelibet cathegorica singularis de possibili cuius subiectum 
+      <lb ed="#V" n="6"/>est nomen proprium: aut pronomen demonstratiuum praecise: si est 
+      <lb ed="#V" n="7"/>vera habet aliquam de inesse possibilem: ita quod quaelibet talis si est vera: 
+      <lb ed="#V" n="8"/>est vera tam in sensu composito quam in sensu diuiso.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e1995">
+      ⁋ Respono 
+      <lb ed="#V" n="9"/>ergo aliter. et nego consequentia secundam: non enim sequitur: aliquid quando potest 
+      <lb ed="#V" n="10"/>esse potest non esse. ergo aliquid simul et semel potest esse et non esse: sed 
+      se<lb ed="#V" n="11" break="no"/>quitur. ergo aliquid simul potest esse: et potest non esse: ita quod consequens sit vna 
+      co<lb ed="#V" n="12" break="no"/>pulatiua composita ex duabus de possibili: ista tamen non inferi 
+      <lb ed="#V" n="13"/>primam: sicut etiam non sequitur. hoc demonstrato petro: potest por 
+      <lb ed="#V" n="14"/>tare hunc lapidem: et sit lapis pondus adequatum virtuti 
+      pe<lb ed="#V" n="15" break="no"/>tri: et potest portare hunc lapidem demonstrato alio eiusden 
+      <lb ed="#V" n="16"/>ponderis. ergo ptes vel habet eo demonstrato: potest portare hunc 
+      lapi<lb ed="#V" n="17" break="no"/>dem: et hunc vtroque demonstrato. Similiter ista copulatiua de possibili 
+      <lb ed="#V" n="18"/>non requirit ad eius veritatem vnam de inesse copulatiuam possibilem: 
+      <lb ed="#V" n="19"/>sed sufficit quod vtraque eius pars diuisim sit possibilis: sicut patet: i 
+      <lb ed="#V" n="20"/>exemplo addito. Tunc ad probationem consequentie. Dico quod non est idem 
+      <lb ed="#V" n="21"/>dictu etc. sed est idem dictu quando potest esse potest non esse: et simul et 
+      se<lb ed="#V" n="22" break="no"/>mel potest esse et potest non esse.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e2029">
+      ⁋ Secundum aut sensum secundum adhuc 
+      mi<lb ed="#V" n="23" break="no"/>nus habet difficultatem articulus iste. Nam per solam praeteritionem 
+      <lb ed="#V" n="24"/>instantis b. (sit b. instans in quo petrus est siue petrus corri 
+      <lb ed="#V" n="25"/>patur siue maneat) hec erit vera: petrus non est in a. et ideo 
+      <lb ed="#V" n="26"/>hec est vera in secundo sensu. petrus qui est in b. potest non esse in b 
+      <lb ed="#V" n="27"/>Sed in tertio sensu arti. est difficilis. Et circa ipsum sunt opi 
+      <lb ed="#V" n="28"/>niones contrarie: mihi tamen apparet vera esse que dicit quod aliquid 
+      <lb ed="#V" n="29"/>quod est nunc: potest non esse nunc: sic quod propositio enuncians ipsum non 
+      <lb ed="#V" n="30"/>esse. sit nunc vera.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e2049">
+      ⁋ hanc conclusionem probo primo et suppono communiter 
+      <lb ed="#V" n="31"/>cum aliis quod est aliqua causa libera. Et quod causa libera in hoc differt 
+      <lb ed="#V" n="32"/>a naturali: quia positis omnibus requisitis ad agendum potest agere et poens 
+      <lb ed="#V" n="33"/>non agere. Naamlis aut non potest non agere: sed necessario agit: sicut 
+      <lb ed="#V" n="34"/>patet. 6o meta. et vtrasque partes doctores concedunt.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e2060">
+      ⁋ Tunc 
+      su<lb ed="#V" n="35" break="no"/>mo aliquam vnam causam liberam: et sit voluntas petrus que vocatur. 
+      <lb ed="#V" n="36"/>a. que positis omnibus requisitis ad volendum c. potest elicere 
+      voli<lb ed="#V" n="37" break="no"/>tionem circa c. et potest non elicere. Et suppono aliud satis commun 
+      <lb ed="#V" n="38"/>ter concessum quod voluntas potest volitionem producere in instanti: quod 
+      <lb ed="#V" n="39"/>suo loco probabitur. Sit ergo instans in quo omnia requisita ad 
+      volen<lb ed="#V" n="40" break="no"/>dum c. concurrunt b. Arguo sic a. potest elicere volitionem 
+      cir<lb ed="#V" n="41" break="no"/>ca c. in instanti b. et potest non elicere illam volitionem in istanti b. et 
+      <lb ed="#V" n="42"/>a. vel elicit talem volitionem in b. vel non elicit talem 
+      volitio<lb ed="#V" n="43" break="no"/>nem in b. ergo vel a. potest elicere volitionem circa c. et in instanti b 
+      <lb ed="#V" n="44"/>et tamen tunc non elicit: vel potest non elicere huiusmodi volitionem in 
+      in<lb ed="#V" n="45" break="no"/>stanti b. et tamen tunc elicit: et vocetur volitio illa dicens et tunc 
+      vlteri<lb ed="#V" n="46" break="no"/>infero. ergo vel hec propositio dicens non est: potest esse vera in instanti b. et tamen 
+      <lb ed="#V" n="47"/>tunc hec est vera dicens est vel hec propositio dicens est: potest esse vera in instan 
+      <lb ed="#V" n="48"/>ti b. et tamen tunc hec est vera. dicens non est: et siue hoc detur: siue illud 
+      <lb ed="#V" n="49"/>habetur propositum. Antecedens primum quantum ad primam partem eiusdem ex 
+      <lb ed="#V" n="50"/>suppositione prima patet: quo ad secundam vero ex virtute primi principi 
+      <lb ed="#V" n="51"/>consequentia est prima clara e: quia si a. elicit huiusmodi volitionem in instanti b. 
+      <lb ed="#V" n="52"/>et potest elicere eam in b. et potest etiam non elicere in b. ergo elicit in b. 
+      <lb ed="#V" n="53"/>et potest non elicere in b. Eodem modo modo patet: quod si ipsa non elicit quod ipsa 
+      <lb ed="#V" n="54"/>non elicit: et tamen ipsa potest elicere: consequentia est secunda euidens est: quia si 
+      <lb ed="#V" n="55"/>a. potest non elicere dicens in instanti b. hec potest esse vera. in instanti b 
+      <lb ed="#V" n="56"/>a. non elicit dicens et per consequens hec est potest esse vera. dicens non est: et similiter s 
+      <lb ed="#V" n="57"/>a. potest elicere dicens etc. potest esse vera in instanti b. et per consequens est hec 
+      <lb ed="#V" n="58"/>dices st: potest tunc esse vera.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e2115">
+      ⁋ Ex quo patet: quod vtraque istarum dicens est 
+      <lb ed="#V" n="59"/>dicens non est: diuisim potest esse vera in instanti b. et constat quod altera 
+      <lb ed="#V" n="60"/>tantum est vera. Si ergo hec sit vera. dicens est ergo tunc ipsa est vera in 
+      in<lb ed="#V" n="61" break="no"/>stanti b. et tamen hec. dicens non est. potest tunc esse vera: quamuis non sit 
+      <lb ed="#V" n="62"/>possibile quod vtraque coniunctim et simul sit vera: sed si 
+      affir<lb ed="#V" n="63" break="no"/>matiua est vera: negatiua est falsa: et econtra: si negatiua est 
+      <lb ed="#V" n="64"/>vera: affirmatiua est falsa. Si quis autem secundam suppositionem praemis 
+      <lb ed="#V" n="65"/>sam scilicet quod voluntas potest elicere volitionem in instanti non admita 
+      <!--254.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 133-r b -->
+               <lb ed="#V" n="66"/>teret: formetur ratio de deo: et aliqua creatura quam potest deus in 
+      <lb ed="#V" n="67"/>instanti producere libere: et pariter concluditur propositum
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e2144">
+      ⁋ Praeterea s t  
+      <lb ed="#V" n="68"/>b. instans praesens et arguo sic: hec consequentia. deus potest producere in b. 
+      <lb ed="#V" n="69"/>vnum angelum. ergo deus producit in b. vnum angelum. non est bona 
+      <lb ed="#V" n="70"/>in b. et antecedens est verum: vt patet: ex supposinnibus: et non implicat contra 
+      <lb ed="#V" n="71"/>dictionem. ergo oppositum consequentis potest esse verum simul cum antecedente in 
+      instan<lb ed="#V" n="72" break="no"/>ti b. alias contingeret quod et consequens et eius oppositum essent 
+      simu<lb ed="#V" n="73" break="no"/>falsa in b. et sic hec. deus non producit vnum angelum in b. et hec. 
+      <lb ed="#V" n="74"/>deus potest producere vnum angelum in b. possunt simul esse vere in 
+      <lb ed="#V" n="75"/>b. ponatur ergo inesse: et habetur propositum: quia tunc simul dum ista 
+      <lb ed="#V" n="76"/>est vera: deus non producit vnum angelum in b. hec est possibilis 
+      <lb ed="#V" n="77"/>deus producit vnum angelum in b. licet ipsa sit falsa: nec possit esse 
+      <lb ed="#V" n="78"/>simul vera cum prima.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e2170">
+      ⁋ Quia autem prima consequentia sic simpliciter sumpta primo 
+      <lb ed="#V" n="79"/>non sit bona in b. vt primo assumpsi. probo primo: quia si illa esset 
+      <lb ed="#V" n="80"/>tunc bona: eadem ratione ista esset tunc bona: deus potest producere 
+      <lb ed="#V" n="81"/>duos angelos in b. ergo producit duos angelos in b. et similiter 
+      <lb ed="#V" n="82"/>hec. deus potest producere tres in b. ergo producit tres in b. Et vltra. 
+      <lb ed="#V" n="83"/>ergo quotquot potest producere in b. tot producit in b. quod tamen est 
+      <lb ed="#V" n="84"/>falsum: quia in nullo instanti deus potest tot producere: quin pos 
+      <lb ed="#V" n="85"/>sit tunc plures producere
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e2189">
+      ⁋ 2o quia si tunc ista esset bona consequentia  
+      <lb ed="#V" n="86"/>eadem ratione hec esset bona: deus non potest producere vnum 
+      <lb ed="#V" n="87"/>angelum in b. ergo deus non producit vnum angelum in b. 
+      <lb ed="#V" n="88"/>et per consequens hec etiam esset bona. deus potest non producere vnum 
+      <lb ed="#V" n="89"/>angelum in b. et potest producere vnum angelum in b. ergo producit 
+      <lb ed="#V" n="90"/>vnum angelum in b. et non producit vnum angelum in b. sed  
+      <lb ed="#V" n="91"/>constat quod ista non est bona: quia antecedens est verum et consequens 
+      <lb ed="#V" n="92"/>implicat contradictionem.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e2207">
+      ⁋ 3o quod consequentia non sit bona: patet ex 
+      <lb ed="#V" n="93"/>differentia agentis liberi et agentis naturalis supra premissa. 
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e2212">
+               <lb ed="#V" n="94"/>⁋ hanc conclusionem tenere habent quicumque tenent deum 
+      <lb ed="#V" n="95"/>potuisse producere creaturam aliquam ab eterno: et quicumque  
+      <lb ed="#V" n="96"/>etiam tenent quod possibile fuit angelum mereri in primo in 
+      <lb ed="#V" n="97"/>stanti sui esse: de quibus suis locis videbitur.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e2223">
+      ⁋ Sed 
+      con<lb ed="#V" n="98" break="no"/>tra eam arguit quidam doctor tenens partem oppositam: et 
+      <lb ed="#V" n="99"/>supponit vnum quod dicit esse communiter tam a theologis quam a. P. 
+      <lb ed="#V" n="100"/>concessum scilicet quod per nullam potentiam etiam diuinam potest fieri de 
+      <lb ed="#V" n="101"/>preterito non preteritum: quin semper sit post verum dicere quod 
+      <lb ed="#V" n="102"/>fuit preteritum: quo supposito arguitur sic. hec modo est 
+      ve<lb ed="#V" n="103" break="no"/>ra. voluntas vult c. in instanti b. ponatur quod ita sit. ergo post b. 
+      <lb ed="#V" n="104"/>semper hec erit vera. voluntas voluit c. in instanti b. immo et 
+      <lb ed="#V" n="105"/>necessaria: quia omnis propositio vera mere de presenti habet 
+      <lb ed="#V" n="106"/>aliquam de preterito necessariam: et per consequens sua op 
+      <lb ed="#V" n="107"/>posita erit impossibilis. Ex quo sequitur. quod si ista 
+      mo<lb ed="#V" n="108" break="no"/>do sit vera in instanti b. per nullam potentiam potest vnquam 
+      fie<lb ed="#V" n="109" break="no"/>ri quod ipsa sit falsa in instanti b. et per consequens: nec quod ista sit 
+      <lb ed="#V" n="110"/>vera in b. voluntas non vult c. in b.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e2254">
+      ⁋ 2o ad idem potest 
+      ar<lb ed="#V" n="111" break="no"/>gui ex intentione magistri secundo sententiarum. dis. 26. vbi 
+      <lb ed="#V" n="112"/>ait: sciendum est quod li. ar. ad presens vel ad preteritum non 
+      <lb ed="#V" n="113"/>refertur: sed ad futura contingentia: quod enim est in 
+      pre<lb ed="#V" n="114" break="no"/>senti: determinatum est: nec enim in potestate nostra est: vt 
+      <lb ed="#V" n="115"/>tunc sit vel non sit quando est: potest enim non esse vel aliud  
+      <lb ed="#V" n="116"/>esse postea: sed non potest non esse: dum est vel aliud esse dum 
+      <lb ed="#V" n="117"/>illud est quod est: sed in futuro an hoc sit vel illud ad 
+      pote<lb ed="#V" n="118" break="no"/>statem li. ar. spectat. Eandem sententiam ponit 
+      venerabilissi<lb ed="#V" n="119" break="no"/>mus hugo lib. primo de sacra.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e2276">
+      ⁋ 3o si in instanti b. est 
+      voli<lb ed="#V" n="120" break="no"/>tio vel aliquid aliud: et possibile est: quod in eo instanti ipsa 
+      <lb ed="#V" n="121"/>non sit: ponatur in esse: et tunc sequitur quod in eodem instanti 
+      <lb ed="#V" n="122"/>sit a non sit: quod est impossibile.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e2286">
+      ⁋ 4o potest argui per istam propositionem. P. omne 
+      <lb ed="#V" n="123"/>quod est quando est: necesse est esse.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e2291">
+      ⁋ Pro solutione praedictorum praemitto quod 
+      <lb ed="#V" n="124"/>aliquid quod est in aliquo instanti possit non esse in illo instanti: sic quod 
+      pro<lb ed="#V" n="125" break="no"/>positio enuncians illud non esse possit esse vera in illo instanti potest 
+      intel<lb ed="#V" n="126" break="no"/>ligi tripliciter. Uno modo quod hic sit possibile in sensu composito sic quod in illo 
+      in<lb ed="#V" n="127" break="no"/>stanti ista res simul cum hoc quod ipsa est non sit in illo 
+      instan<lb ed="#V" n="128" break="no"/>ti: et quod tam propositio enuncians ipsam esse quam propositio enuncians 
+      <lb ed="#V" n="129"/>ipsam non esse coniunctim: et simul in illo instanti sint vere: et iste 
+      <lb ed="#V" n="130"/>sensus est vere impossibilis perper implicationem contradictionis 
+      <!--255.xml-->
+      <pb ed="#V" n="133-v"/>
+               <cb ed="#V" n="a"/>
+            </p>
+            <p xml:id="grvnZZ-ed1e82-d1e2315">
+               <lb ed="#V" n="1"/>⁋ Alio modo potest concipi vel intelligi hoc esse possibile in 
+      <lb ed="#V" n="2"/>sensu diuiso: et hoc adhuc dupliciter. Uno modo quod aliqua res euot 
+      <lb ed="#V" n="3"/>est in aliquo instanti dato possit iam posita inesse desinere esse 
+      <lb ed="#V" n="4"/>et de esse transmutari in non esse in eodem dato instanti: et quod propo 
+      <lb ed="#V" n="5"/>sitio enuncians ipsam esse desinat esse vera: et de vera fiat 
+      fal<lb ed="#V" n="6" break="no"/>sa: sic quod in illo instanti ipsa sit falsa: et econverso sua opposita desi 
+      <lb ed="#V" n="7"/>nat esse falsa: et fiat vera: et ille sensus est est impossibilis: quoniam talis 
+      <lb ed="#V" n="8"/>transmutatio et successio non est possibilis in instanti.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e2335">
+      ⁋ Alio 
+      <lb ed="#V" n="9"/>modo: quod absolute et simpliciter quod possibile est istam rem non tunc esse 
+      <lb ed="#V" n="10"/>et non poni per suam causam in esse et propositionem enunciantem istam 
+      <lb ed="#V" n="11"/>non esse esse in illo instanti veram. Et ille sensus verus est: et 
+      ni<lb ed="#V" n="12" break="no"/>hil inconuenientis includit.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e2346">
+      ⁋ Tunc ad rationes. Ad primam con 
+      <lb ed="#V" n="13"/>cessa pro nunc ista suppositione quamuis oppositum aliqui et 
+      ma<lb ed="#V" n="14" break="no"/>gni doctores tenuerunt est theologi.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e2353">
+      ⁋ Dico quod si voluntas 
+      <lb ed="#V" n="15"/>vult aliquid in instanti b. postea seper erit hec vera: voluntas 
+      vo<lb ed="#V" n="16" break="no"/>luit hoc in instanti b. ita quod ista consequentia nunc est necessaria. 
+      volun<lb ed="#V" n="17" break="no"/>tas vult hoc in b. ergo post b. semper hec erit vera si formetur 
+      volun<lb ed="#V" n="18" break="no"/>tas voluit hoc in b. Sed dico: quod antecedens est contingens: et potest non esse 
+      <lb ed="#V" n="19"/>verum etiam in instanti b. vt probatum est: et si ponatur ipsum non esse 
+      <lb ed="#V" n="20"/>verum in b. sicut est possibile iuxta tertium sensum praemissum ista vo 
+      <lb ed="#V" n="21"/>luntas voluit hoc in b. non erit vera post b. et per consequens nec necessaria 
+      <lb ed="#V" n="22"/>nec eius opposita impossibilis. Si tamen ponatur antecedens verum in b. quia non 
+      <lb ed="#V" n="23"/>est possibile quod cum hac suppositione eius oppositum sit verum 
+      <lb ed="#V" n="24"/>in b. nec in primo nec in 2o sensu: ideo nec post b. ista erit possibilis: vo 
+      <lb ed="#V" n="25"/>luntas non voluit hoc in b. Et vt dicit arguens per nullam potentia 
+      <lb ed="#V" n="26"/>poterit vnquam fieri quod ista sit falsa in b. voluntas vult hoc in b 
+      <lb ed="#V" n="27"/>sic enim sequeretur quod ipsa fuisset vera in b. et adhuc fuisset falsa 
+      <lb ed="#V" n="28"/>in b. et per consequens eius opposita est fuisset vera in b. quod est impossibile. Et 
+      <lb ed="#V" n="29"/>ita patet: quod hec ratio procedit contra primum sensum et 2o m: non autem contra 3m. Et 
+      <lb ed="#V" n="30"/>re vera si dictus arguens velit loqui consequenter hoc ipsum haberet 
+      tene<lb ed="#V" n="31" break="no"/>re. Nam in 2 scilicet quodli. q. 6. tenet quod angelus potuit 
+      mereri<lb ed="#V" n="32" break="no"/>et demereri in primo instanti. Et ad hoc probandum in quadam ratione assu 
+      <lb ed="#V" n="33"/>mit quod angelus potuit in primo instanti se libere conformare 
+      re<lb ed="#V" n="34" break="no"/>cte rationi et non conformare. Et infra in soluendo quandam obiectio 
+      <lb ed="#V" n="35"/>nem quae est quod actus non est imputabilis ad meritum vel demeri. 
+      <lb ed="#V" n="36"/>tum. nisi fiat scienter et contingenter: ita quod possit oppositum elicere 
+      <lb ed="#V" n="37"/>concedit vtramque conditionale esse necessariam ad actum merito 
+      <lb ed="#V" n="38"/>rium: et dicit quod vtraque potest esse in instanti. Ex quibus euidenter patet: 
+      <lb ed="#V" n="39"/>quod in illa. q. vult expresse quod angelus in illo instanti quo se 
+      con<lb ed="#V" n="40" break="no"/>formauit recte rationi et habuit actum meritorium (si ita fuitu 
+      <lb ed="#V" n="41"/>potuit se non conformare tunc: et habere tunc actum demeritorium 
+      <lb ed="#V" n="42"/>et non habere demeritorium.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e2417">
+      ⁋ Praeterea ibidem dicit. quod deliberatio: 
+      <lb ed="#V" n="43"/>vel perfecta cognitio: aut syllus practicus requisitus ad actum 
+      <lb ed="#V" n="44"/>meritorium potest esse non solum in tempore et respectum actus futuri: sed est 
+      <lb ed="#V" n="45"/>in instanti: et respectum actus qui elicitur in illo instanti: ex quo est 
+      <lb ed="#V" n="46"/>patet: quod dictum est.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e2428">
+      ⁋ Ad 2m dicendum. quod intentio venerabilissimi 
+      <lb ed="#V" n="47"/>hugo et magistri directe vadit contra secundum sensum. Nam potesta: 
+      <lb ed="#V" n="48"/>nostri liberi arbitrii non est respectu eius: quod fuit (vt scilicet per nos 
+      <lb ed="#V" n="49"/>fieri possit quod non fuerit) nec est respectum eius quod ia actu est: vt 
+      <lb ed="#V" n="50"/>possimus facere ipsum quod actu est non esse in hoc instanti in quo est: 
+      <lb ed="#V" n="51"/>quaeuis possemus facere ipsum in futuro non esse: sed non vadit contr 
+      <lb ed="#V" n="52"/>tertium sensum: nec procedit eorum intentio: sicut statim patet 
+      conside<lb ed="#V" n="53" break="no"/>ranti.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e2446">
+      ⁋ Ad 3m dicendum: quod simpliciter et absolute loquendo potest po 
+      <lb ed="#V" n="54"/>ni in esse quod ista volitio non sit in illo instanti: quia possibile est quod eim 
+      <lb ed="#V" n="55"/>causa non producat eam in illo instanti: et si ponatur tunc oppositum 
+      <lb ed="#V" n="56"/>nec ponitur nec positum est: nec ipsa est in isto instanti: sicut nec 
+      <lb ed="#V" n="57"/>ipsam producit sua causa: et sic non sequitur contradictio: sequitur aut si ips 
+      <lb ed="#V" n="58"/>ponatur inesse et simul cum hoc esset possibile istam non tunc esse: ita quod hec 
+      pro<lb ed="#V" n="59" break="no"/>positio enuncians istam non esse: potest esse tunc vera: quod ego non 
+      di<lb ed="#V" n="60" break="no"/>co.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e2464">
+      ⁋ Ad 4m dico: quod ista dictio quando potest stare in dicta propositio 
+      <lb ed="#V" n="61"/>ne aduerbialiter vel coniunctionaliter: ita quod equivalet huic communiun 
+      <lb ed="#V" n="62"/>ctioni si. Nam vt dicit Bome. primo liro de sniluialis ypoteticis: ita potest 
+      <lb ed="#V" n="63"/>fieri conditionalis cum hac conditione cum: sicut cum hac 
+      condi<lb ed="#V" n="64" break="no"/>tione si. Unde ita est conditionalis ista: cum homo est. animalis 
+      <lb ed="#V" n="65"/>est: sicut ista: si homo est. animal est. et sunt eiusdem potestatis vt 
+      <!--255.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 133-v b -->
+               <lb ed="#V" n="66"/>dicit: et idem iudicium potest esse de. quando sicut de cum. Si vero ly. 
+      <lb ed="#V" n="67"/>quando. stet ibi aduerbialiter vel ista propositio sumetur in sensu 
+      co<lb ed="#V" n="68" break="no"/>posito: et sic est vera. Nam per ipsam denotatur quod hec sit neces 
+      <lb ed="#V" n="69"/>saria. Smne quod est quando est est: et hoc est verum: licet non habeat 
+      <lb ed="#V" n="70"/>aliquam singularem necessariam praeter hanc deus vel homo 
+      cdmmon<lb ed="#V" n="71" break="no"/>strato eo quod est deus) est quando est. Nam quolibet alio demonstrato 
+      <lb ed="#V" n="72"/>singularis quaecumque est contingens. vebi gratia. ista hoc 
+      demonstra<lb ed="#V" n="73" break="no"/>to: petrus est quando est: est contingens. Nam petro non existente ipsa est 
+      fal<lb ed="#V" n="74" break="no"/>sa: et ita quaelibet alia. Uel ista propositio sumitur in sensu 
+      diui<lb ed="#V" n="75" break="no"/>so. Et hoc adhuc dupliciter contingit: quia vel ipsa est temporalis: et tunc 
+      <lb ed="#V" n="76"/>equivalet huic copulatiue: omne quod est aliquando est: et omne tale 
+      <lb ed="#V" n="77"/>tunc est necesse esse: et sic ipsa est falsa: sicut et secunda pars huius 
+      <lb ed="#V" n="78"/>copulatiue: quia nulla res praeter deum aliquando est necesse esse. Uel 
+      <lb ed="#V" n="79"/>potest esse de temporali extremo: et tunc vel de temporali subiecto: et sic tomo 
+      <lb ed="#V" n="80"/>hoc: omne quod est quando est erit subiectum: et reliquum erit praedicatum: quod 
+      <lb ed="#V" n="81"/>denotatur verificari de illo subiecto cum modo necessitatis: et sic 
+      <lb ed="#V" n="82"/>etiam est falsa: quod patet arguendo sic: omne quod est quando est: necesse est 
+      <lb ed="#V" n="83"/>esse: sed petrus e quando est: ergo petrum necesse est esse: minor est vera. 
+      <lb ed="#V" n="84"/>ponatur quod petrus sit aliquis homo actu existens: et tamen conclusio est falsa: vel potest 
+      <lb ed="#V" n="85"/>esse de temporali praedicato: et tunc hoc tantum: quod est erit subiectum et 
+      <lb ed="#V" n="86"/>reliquum praedicatu: et sic adhuc dico quod est falsa: quamuis aliqui 
+      <lb ed="#V" n="87"/>dicant oppositum: sic arguendo. Sdene quod est necesse vel de ne ¬ 
+      <lb ed="#V" n="88"/>cessitate est quando est: sed petrus est. ergo petrus de necessitate e 
+      <lb ed="#V" n="89"/>est quando est. que conclusio est falsa: et idem iudicium est si dicatur.  
+      <lb ed="#V" n="90"/>mne quod est de necessitate est quando est: quia tunc sequeretur. quod 
+      <lb ed="#V" n="91"/>petrus de necessitate esset quando est: et pariter erit falsa. Cuius 
+      <lb ed="#V" n="92"/>ratio est: quia cum ista sit singularis habens pro subiecto nomen 
+      <lb ed="#V" n="93"/>proprium precise si ipsa est vera in sensu diuiso: est etiam 
+      ve<lb ed="#V" n="94" break="no"/>ra in sensu composito: et per consequens hec erit necessaria. petrus 
+      <lb ed="#V" n="95"/>est quando est: sed constat quod hoc est falsum. Nam posito quod 
+      <lb ed="#V" n="96"/>peties non sit: sicut est possibile: tunc ipsa erit falsa. Nam 
+      se<lb ed="#V" n="97" break="no"/>quitur. petrus est quando est. ergo petrus est aliquando. et vltra. ergo petrus est. et 
+      con<lb ed="#V" n="98" break="no"/>stat. quod tunc consequens est falsum. ergo et antecedens. Et ideo dico: quod 
+      <lb ed="#V" n="99"/>si ista propositio: omne quod est etc. sumatur in sensu diuiso: et 
+      ly<lb ed="#V" n="100" break="no"/>quando. stet aduerbialiter quocumque accipiatur ipsa est falsa. Si vero 
+      <lb ed="#V" n="101"/>ly. quando. stet coniunctionaliter modo praemisso: sic dico quod ista propositio 
+      <lb ed="#V" n="102"/>potest esse conditionalis vel de conditionato extremo: si sit con 
+      <lb ed="#V" n="103"/>ditionalis. tunc ly. necesse potest denotare consequentiam esse 
+      ne<lb ed="#V" n="104" break="no"/>cessariam: et tunc propositio est vera. Nam hec est necessaria: omne quod 
+      <lb ed="#V" n="105"/>est si est est: vel sic. Si omne quod est est: ipsum est. Et potest 
+      de<lb ed="#V" n="106" break="no"/>notare necessitatem consequentis: et tunc denotatur. quod si aliquid est 
+      quod<lb ed="#V" n="107" break="no"/>cumque sit illud) quod ipsum de necessitate est. Et patet: quod hoc sit 
+      fal<lb ed="#V" n="108" break="no"/>sum. Si vero sit de conditionali subiecto: tunc est est falsa: quia 
+      <lb ed="#V" n="109"/>denotatur per eam quod de quocumque dicitur hoc subiectum conditionatum 
+      <lb ed="#V" n="110"/>est si est. dicitur hoc predicatum est: cum modo necessitatis: quod est 
+      fal<lb ed="#V" n="111" break="no"/>sum. Nam vere dicitur quod petrus est: si est. et tamen hec est falsa. petrus de neces 
+      <lb ed="#V" n="112"/>sitate est. Sed si predicatum sit conditionale tunc propositio 
+      <lb ed="#V" n="113"/>est vera: quoniam tunc eius subiectum est tantum hoc quod est. Et 
+      deno<lb ed="#V" n="114" break="no"/>tatur quod de quocumque dicitur est: dicatur mediante modo ne 
+      <lb ed="#V" n="115"/>cessitatis est si est: et hoc est verum. Unde quocumque quod est 
+      <lb ed="#V" n="116"/>demonstrato: hec est vera: hoc demonstrato aliquo de 
+      ne<lb ed="#V" n="117" break="no"/>cessitate est si est. Ex qua non sequitur. ergo hoc de 
+      necessi<lb ed="#V" n="118" break="no"/>tate est: sed est fallacia secundum quid ad simpliciter. Et hoc est quod. P. 
+      <lb ed="#V" n="119"/>dicit. Non enim idem est inquit: omne esse necessario 
+      quan<lb ed="#V" n="120" break="no"/>do est: et simpliciter esse ex necessitate: et accipit quando est pro si 
+      <lb ed="#V" n="121"/>est: tunc applicando ad propositum dico: quod quauis 
+      volitio<lb ed="#V" n="122" break="no"/>vel aliqua res contingens que est in aliquo instanti de 
+      <lb ed="#V" n="123"/>necessitate sit in illo instanti: si est in illo instanti: non tamen 
+      <lb ed="#V" n="124"/>de necessitate est in illo instanti.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e2612">
+      ⁋ Nunc respondeo ad 
+      ra<lb ed="#V" n="125" break="no"/>tiones. P. pro prima sua conclusione. Et cum primo arguit quod si ert 
+      <lb ed="#V" n="126"/>omnis affirmatio vel negatio est vera vel falsa: omne necesse est esse. 
+      <lb ed="#V" n="127"/>vel necesse est non esse. nego consequentia. Et ad probationem cum dicitur quod si 
+      <lb ed="#V" n="128"/>est verum dicere: quoniam aliquid est album: necesse est illud esse album. Et eodem 
+      <lb ed="#V" n="129"/>si verum est dicere: quoniam aliquid erit album necesse est illud fore album. 
+      Di<lb ed="#V" n="130" break="no"/>co quod si ly necesse. notet necessitatem consequentis vtraque proportio est falsa. 
+      <!--256.xml-->
+      <pb ed="#V" n="134-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>Unde posito quod petrus sit albus: verum est dicere. petrus est ali 
+      <lb ed="#V" n="2"/>bus: et tamen non est necesse petrum esse album. Si vero notet 
+      neces<lb ed="#V" n="3" break="no"/>sitatem consequentie concedo vtramque: sed tunc non probatur propositum: quia licem 
+      <lb ed="#V" n="4"/>consequentia ista sit necessaria: verum est dicere quod petrus est albus. ergo 
+      <lb ed="#V" n="5"/>petrus est albus. tamen tam antecedens quam consequens simpliciter est contingens. Et ideo esto 
+      <lb ed="#V" n="6"/>quod ista sit vera petrus erit albus. adhuc petrus poterit non fore 
+      <lb ed="#V" n="7"/>albus: sicut est ipsa poterit non esse vera: et potest numquam fuisse vera: cum 
+      <lb ed="#V" n="8"/>etiam dicitur si affirmatio est vera ita etc. concedo a nego aliam qua 
+      in<lb ed="#V" n="9" break="no"/>fertur. ergo nihil erit ad vtrumlibet nec valet probatio: quia non dicitur 
+      ali<lb ed="#V" n="10" break="no"/>quid ad vtrumlibet: quia non magis erit quam non erit: aut econtra: sed quia non 
+      <lb ed="#V" n="11"/>magis potest esse quam non esse aut econtra: seu quia et potest esse et potest non esse: cum 
+      <lb ed="#V" n="12"/>quo bene stat quod ipsum determinate erit: aut determinate non erit. 
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e2660">
+               <lb ed="#V" n="13"/>⁋ Ad 2am probationem concedo quoniam de quolibet eorum quae facta sunt semper 
+      <lb ed="#V" n="14"/>fuit verum dicere: quoniam erit: et quandocumque propositio fuisset formata 
+      fu<lb ed="#V" n="15" break="no"/>isset vera: et simpliciter de quolibet eorum quae futura sunt: verum est 
+      dice<lb ed="#V" n="16" break="no"/>re quoniam erit: et sic semper fuit est verum dicere: cum hoc tamen stat etiam quod 
+      <lb ed="#V" n="17"/>que facta sunt contingenter fuerunt facta: et propositiones enunciantes 
+      <lb ed="#V" n="18"/>quoniam erunt contingenter fuerunt vere: et poterunt numquam fuisse vere: 
+      <lb ed="#V" n="19"/>et ea quae erut contingenter erunt et possunt non fore. et ipse propositiones possunt 
+      <lb ed="#V" n="20"/>numquam fuisse vere: vnde vt patet: vtraque probatio. que tamen est vnica 
+      in<lb ed="#V" n="21" break="no"/>virtute vertitur super hoc quod si propositio de futuro sit vera: et fuerit 
+      <lb ed="#V" n="22"/>vera: sit de necessitate vera: et non possit non esse aut non 
+      fuis<lb ed="#V" n="23" break="no"/>se vera: quod si verum esset vtique probatio esset efficax: sed illud (vt 
+      <lb ed="#V" n="24"/>supra probatum est) prorsus est falsum: et ideo probatio qui exinde 
+      pro<lb ed="#V" n="25" break="no"/>cedit nullius momenti existit.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e2692">
+      ⁋ Ad 2am rationem concedo quod sicut 
+      <lb ed="#V" n="26"/>res se habent ad esse vel non esse: sic orationes ad veritatem vel 
+      falsi<lb ed="#V" n="27" break="no"/>tatem: sic scilicet intelligendo quod sicut res se habent ad esse vel non esse in 
+      <lb ed="#V" n="28"/>presenti: sic orationes de praesenti enunciantes eas esse vel non esse 
+      <lb ed="#V" n="29"/>ad veritatem vel falsitatem: et sicut se habent ad fuisse in praeterito 
+      <lb ed="#V" n="30"/>vel non fuisse: sic orationes de praeterito ad veritatem vel 
+      falsita<lb ed="#V" n="31" break="no"/>tem. Et sicut se habent ad futurum esse vel non: sic est orationes de 
+      fu<lb ed="#V" n="32" break="no"/>turo ad veritatem vel falsitatem: et patet. quod sic debet intelligi 
+      proposi<lb ed="#V" n="33" break="no"/>tio et aliter non habet veritatem. Et tunc ad minorem dico quod sunt 
+      <lb ed="#V" n="34"/>determinata ad futurum esse vel non esse hoc est determinate erunt 
+      <lb ed="#V" n="35"/>vel determinate non erunt: quamuis contingenter et non necessario. 
+      <lb ed="#V" n="36"/>Et ideo simpliciter orationes tales de futuro sunt determinate ad 
+      ve<lb ed="#V" n="37" break="no"/>ritatem et falsitatem quamuis contingenter. Unde talis determinatio de 
+      <lb ed="#V" n="38"/>inesse tantum: non tollit contingentiam futuri quae consistit in indetermina 
+      <lb ed="#V" n="39"/>tione de possibili: quia scilicet potest fore et potest non fore: et non in indete 
+      <lb ed="#V" n="40"/>minatione de inesse: qua scilicet dicitur quod neque erit neque non erit. quia hoc 
+      <lb ed="#V" n="41"/>est impossibile: et oportet alterum tantum determinate fore: contingenter tamen: 
+      <lb ed="#V" n="42"/>quamuis vtrumque eorum sit nobis ignotum: et ideo patet: quod ista ratio est 
+      po<lb ed="#V" n="43" break="no"/>tius ad propositum.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e2734">
+      ⁋ Ad rationes secunde conclusionis non oportet respondere: 
+      <lb ed="#V" n="44"/>ua conclusio vera est et illam concedo.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e2739">
+      ⁋ Nunc ad rationes illius doctoris 
+      <lb ed="#V" n="45"/>quod prima sua conclusione respondeo a praemitto quod propositionem esse immu 
+      <lb ed="#V" n="46"/>tabiliter veram: potest intelligi dupliciter. Uno modo immutabiliter id est ne 
+      <lb ed="#V" n="47"/>cessario ea ineuitabiliter et non contingenter: in qua 
+      significatio<lb ed="#V" n="48" break="no"/>ne ille aliquando videtur vti hoc vocabulo immutabiliter. Alio modo 
+      <lb ed="#V" n="49"/>immutabiliter id est quod non possit esse falsa vel non vera postquam fuit 
+      <lb ed="#V" n="50"/>vera: sic quod sit aliquando verum dicere hec nunc est falsa: et prius fuit 
+      <lb ed="#V" n="51"/>vera: et sic non est aliud propositionem esse immutabiliter veram quam non 
+      pos<lb ed="#V" n="52" break="no"/>se mutari de veritate in falsitatem vel magis proprie loquende 
+      <lb ed="#V" n="53"/>non posse esse prius veram et postea falsam.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e2761">
+      ⁋ hoc praemisso 
+      di<lb ed="#V" n="54" break="no"/>co: quod illa sua prima propositio in vtroque sensu est falsa. Nam vt 
+      <lb ed="#V" n="55"/>patet ex secundo arti. quelibet talis propositio vera de futuro est contin 
+      <lb ed="#V" n="56"/>genter vera: et potest fore et esse et fuisse non vera: et ideo nulla talis 
+      <lb ed="#V" n="57"/>est immutabiliter vera in primo sensu. Item propositio talis 
+      ve<lb ed="#V" n="58" break="no"/>ra potest esse falsa postquam fuit vera: et per consequens non est immutabilie 
+      <lb ed="#V" n="59"/>vera in secundo sensu.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e2777">
+      ⁋ Tunc ad primam rationem cum dicit: si potes 
+      <lb ed="#V" n="60"/>mutari ne sit vera: aut in instanti in qua est vera aut in praecedenti etc. 
+      <lb ed="#V" n="61"/>dico quod aut intelligitur quod possit mutari ne sit vera. id est quod 
+      sim<lb ed="#V" n="62" break="no"/>pliciter possit non esse vera: aut quod possit non esse vera postquam 
+      <lb ed="#V" n="63"/>fuit vera: si primo modo dico quod et in instanti in quo est vera: et 
+      <lb ed="#V" n="64"/>in praecedenti et in sequenti.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e2790">
+      ⁋ Et cum arguitur contra primum quod non: quia 
+      <lb ed="#V" n="65"/>tunc simul esset vera et non vera. nego consequentia. Nam quamuis illa sit 
+      <!--256.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 134-r b -->
+               <lb ed="#V" n="66"/>nunc vera antichristus erit: quia tamen possibile est antichristum non fore: 
+      <lb ed="#V" n="67"/>possibile est istam non esse veram nec vnquam fuisse: et si poneretur in 
+      <lb ed="#V" n="68"/>esse ista non esset tantum non vera: sed nec tunc nec antea vnquam 
+      fuis<lb ed="#V" n="69" break="no"/>set vera.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e2811">
+      ⁋ Et per idem patet ad primam probationem qua probatur quod 
+      <lb ed="#V" n="70"/>non in instanti praecedenti. 2a vero probatio et ea simpliciter qui sequitur 
+      <lb ed="#V" n="71"/>ptra non vadunt secundum primum sensum: sed secundum 2m de mutari. in quo 
+      <lb ed="#V" n="72"/>sensu 2o dico quod talis propositio potest mutari de veritate in 
+      in<lb ed="#V" n="73" break="no"/>stanti in quo res fiet: non autem in aliquo praecedenti. Et ad primam 
+      pro<lb ed="#V" n="74" break="no"/>bationem contra hocc cum dicitur quod ista veritas transit in praeteritum) 
+      di<lb ed="#V" n="75" break="no"/>co quod probatio est ad propositum. Nam quia transit in praeteritum ideo non 
+      <lb ed="#V" n="76"/>remanet vera: sed ex tunc illa de praeterito est vera: et ipsa: quia 
+      enun<lb ed="#V" n="77" break="no"/>ciat futurum quod non est futurum est falsa. Unde nunc ista est falsa: 
+      <lb ed="#V" n="78"/>et heretica. christus crucifigetur: et tamen fuit vera antequam 
+      crucifige<lb ed="#V" n="79" break="no"/>retur.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e2835">
+      ⁋ Ad 2am probationem dico: quod ideo mutatur: quia suum 
+      signifi<lb ed="#V" n="80" break="no"/>cutum ponitur in esse et fit praesens: nec amplius est futurum: nec ex hoc 
+      <lb ed="#V" n="81"/>pofirmatur in sua veritate: vt dictum est: et sic patet: quod prima eius ratio non 
+      <lb ed="#V" n="82"/>valet. Dico vlterius quod si valeret probaretur quod nulla 
+      proposi<lb ed="#V" n="83" break="no"/>tio de praesenti est contingens: sed quaelibet necessaria: quod tamen est 
+      euiden<lb ed="#V" n="84" break="no"/>ter falsum: etiam secundum omnes probatio. sumo istam. sedet petrus quam quilibet 
+      <lb ed="#V" n="85"/>concederet non esse necessariam: et ponatur quod nunc primo sit vera. 
+      pro<lb ed="#V" n="86" break="no"/>bo hoc posito quod sit immutabiliter vera: quia si posset mutari: aut 
+      <lb ed="#V" n="87"/>in instanti in quo est vera: et tunc simul esset vera et non vera: quod est 
+      <lb ed="#V" n="88"/>impossibile: aut in instanti alio praecedente et hoc non: quia ante non fuit 
+      ve<lb ed="#V" n="89" break="no"/>ra: et non potest perdere veritatem antequam habeat illam: nec in instanti 
+      <lb ed="#V" n="90"/>sequente: quia tunc illa veritas transit in praeteritum etc. ergo cum non inue 
+      <lb ed="#V" n="91"/>niatur instans in quo possit mutari: ipsa est immutabiliter vera. 
+      pro<lb ed="#V" n="92" break="no"/>pationes omnes sunt sue: et tamen conclusio est falsa.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e2866">
+      ⁋ Ad aliam rationem 
+      si<lb ed="#V" n="93" break="no"/>distributio illa sit communis pro omnibus instantibus preteritis 
+      <lb ed="#V" n="94"/>et futuris: patet ex dictis quod minor est falsa. Si vero sit 
+      restri<lb ed="#V" n="95" break="no"/>cta ad instantia precedentia instans factionis rei: et 
+      intel<lb ed="#V" n="96" break="no"/>ligatur quod sit immutabiliter id est necessario vera: tunc 
+      ma<lb ed="#V" n="97" break="no"/>ior est falsa: et patet ex dictis: et ex secunda et tertia conclusione 
+      se<lb ed="#V" n="98" break="no"/>cundi articuli. secunda eius propositio est vera: nec contra 
+      pre<lb ed="#V" n="99" break="no"/>dicta: ideo ad eius rationes non oportet respondere.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e2884">
+      ⁋ Ad 
+      <lb ed="#V" n="100"/>primam rationem principalem: patet ex dictis. Nam licem 
+      con<lb ed="#V" n="101" break="no"/>tingens non sit determinatum determinatione de 
+      neces<lb ed="#V" n="102" break="no"/>sario: quia scilicet de necessitate sit futurum: vel de necessitate sit 
+      <lb ed="#V" n="103"/>non futurum. quin immo sit indeterminatum 
+      indetermina<lb ed="#V" n="104" break="no"/>tione de necessario negatiue vel de possibili 
+      affirmati<lb ed="#V" n="105" break="no"/>tue: vt supra dictum est: est tamen determinatum 
+      determi<lb ed="#V" n="106" break="no"/>natione de inesse: quia scilicet vel determinate erit: vel determi 
+      <lb ed="#V" n="107"/>nate non erit. Et ideo vna propositio de futuro est 
+      deter<lb ed="#V" n="108" break="no"/>minate vera: et altera determinate falsa: contingenter 
+      ta<lb ed="#V" n="109" break="no"/>men.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e2908">
+      ⁋ Ad rationem secundam dico: quod talis propositio 
+      <lb ed="#V" n="110"/>est contingens: nec est idem apud me propositionem hanc 
+      <lb ed="#V" n="111"/>vel istam esse determinate veram vel falsam: et eam esse 
+      <lb ed="#V" n="112"/>necessariam.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e2917">
+      ⁋ Et quid sit respondendum ad 
+      vlterio<lb ed="#V" n="113" break="no"/>rem processum: patet ex dictis. Unde sicut dicebatur: quod ista 
+      <lb ed="#V" n="114"/>omne quod est quado est etc. est tantum vera si sit 
+      condi<lb ed="#V" n="115" break="no"/>tionalis: et denotetur necessitas consequentie: aut si sit de 
+      <lb ed="#V" n="116"/>conditionali predicato: qui forte modi mutuo 
+      conuertum<lb ed="#V" n="117" break="no"/>tur: sic dico simpliciter quod in altero tantum duorum sensuum: 
+      <lb ed="#V" n="118"/>vel in vtroque est vera. omne quod est verum quando est 
+      <lb ed="#V" n="119"/>verum de necessitate est verum: cum hoc tamen stat quod 
+      <lb ed="#V" n="120"/>simpliciter sit contingenter verum et hoc quo ad primam 
+      <lb ed="#V" n="121"/>formam.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e2940">
+      ⁋ Ad secundam etiam dico eodem modo: quod omne 
+      <lb ed="#V" n="122"/>quod est futurum quando est futurum de necessitate est 
+      <lb ed="#V" n="123"/>futurum: et cum hoc stat quod simpliciter loquendo sit 
+      con<lb ed="#V" n="124" break="no"/>tingenter futurum.
+    </p>
+            <p xml:id="grvnZZ-ed1e82-d1e2949">
+      ⁋ Ad tertiam dico: quod in hac parte 
+      <lb ed="#V" n="125"/>P. deceptus est et turpiter et logyce et physice errauit: vt  
+      <lb ed="#V" n="126"/>natet ex dictis. Et virtualiter alibi suis dictis 
+      contradi<lb ed="#V" n="127" break="no"/>cit: sicut quarto metha. vt patet articu. secundo: et in 
+      libel<lb ed="#V" n="128" break="no"/>o de fortuna bona: vbi dicit deum videre futura: sicut  
+      <lb ed="#V" n="129"/>patet in precedenti questione: et ideo non solum a nobis: 
+      <lb ed="#V" n="130"/>sed a seipso in hac parte negandus est. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,1096 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 3</title>
+            <author ref="#Rimini">Gregory of Rimini</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 3</title>
+               <date when="2020-10-03">October 03, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-ae1bsb">Venice 1503</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-03" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="150-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="grvnZZ-ed1e95"><!-- l1d42-44q3 -->
+            <head xml:id="grvnZZ-ed1e95-Hd1e106">Quaestio 3</head>
+            <head xml:id="grvnZZ-ed1e95-Hd1e109" type="question-title">Utrum sequendo praecise naturalem rationem sit ponenedum 
+      Deum esse infiitae potentiae seu virtutis intensive</head>
+            <p xml:id="grvnZZ-ed1e95-d1e112">
+               <lb ed="#V" n="59"/>⁋ Distinctionis. XLII. XLIII. et XLIIII. Quaestio. III.
+      <lb ed="#V" n="60"/>TErtio quero vtrum sequendo praecise natura 
+      <lb ed="#V" n="61"/>lem rationem sit ponendum: deum esse 
+      infi<lb ed="#V" n="62" break="no"/>nite potentie seu virtutis intensiue.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e123">
+      ⁋ Et videtur quod non 
+      <lb ed="#V" n="63"/>quia illud non est ponendum sequendo rationem 
+      nati<lb ed="#V" n="64" break="no"/>ralem: quod philosophi maxime rerum veritates ratione 
+      <lb ed="#V" n="65"/>inuestigantes negauerunt: sed deum esse huiusmodi infi 
+      <lb ed="#V" n="66"/>nite virtutis intensiue philosophi negauerunt: siout 
+      <!--289.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 150-v b -->
+               <lb ed="#V" n="67"/>patebit statim de eorum principe scilicet <sic>Aristotile</sic>. ergo etc.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e146">
+               <lb ed="#V" n="68"/>Ad oppositum sic: sequendo naturalem ratione ponendum est
+      <lb ed="#V" n="69"/> aliquid esse in rerum natura quo maius non potest 
+      <lb ed="#V" n="70"/>cogitari. ergo sequendo rationem nalem: ponendum est aliquid virtutis 
+      <lb ed="#V" n="71"/>infinite intensiue: et vltra. ergo deum esse virtutis infinite. consequentie 
+      <lb ed="#V" n="72"/>patent: quia si est aliquid quo maius cogitari non potest: ipsum est 
+      infi<lb ed="#V" n="73" break="no"/>nite virtutis: cum quolibet non infinite virtutis maius 
+      cogi<lb ed="#V" n="74" break="no"/>tari possit.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e165">
+      ⁋ Ulterius patet: quod si est aliquid quo matus 
+      cogita<lb ed="#V" n="75" break="no"/>ri non potest: illud est deus: et per consequens si aliquid est huiusmodi: deus est infini 
+      <lb ed="#V" n="76"/>te virtutis. Antecedens autem probatur ratione venerabilis Ansel. in 
+      pro<lb ed="#V" n="77" break="no"/>solum. sic. aliquid quo maius cogitari non potest est in intellectu: et non 
+      <lb ed="#V" n="78"/>solum in intellectu. ergo est in re. consequentia patet: et antecedens quo ad primam partem 
+      <lb ed="#V" n="79"/>probat ipse: quia audiens hoc quod ego dico aliquid quo maius cogi 
+      <lb ed="#V" n="80"/>tari non potest intelligit quod audit: et quod intelligit in 
+      intel<lb ed="#V" n="81" break="no"/>lectu eius est: est si non intelligatur illud esse.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e183">
+      ⁋ Praeterea inquit. si quo 
+      <lb ed="#V" n="82"/>maius cogitari non potest: non intelligitur: vel cogitatur nec est 
+      <lb ed="#V" n="83"/>in intellectu vel cogitatione: profecto deus aut non est quo 
+      ma<lb ed="#V" n="84" break="no"/>ius cogitari non possit aut non intelligitur vel cogitatur et non 
+      <lb ed="#V" n="85"/>est in intellectu vel cogitatione: et vtrumque vt dicit falsum est 
+      <lb ed="#V" n="86"/>Et hanc 2am probationem ponit contra insipientem. Secunda pars antecedenti e 
+      <lb ed="#V" n="87"/>probatur ab eodem in prososis. vbi supra: quia si quo maius cogitari 
+      <lb ed="#V" n="88"/>non potest est in solo intellectu: potest cogitari esse et in re. quod 
+      mai<lb ed="#V" n="89" break="no"/>est: et per consequens: vt subdit id ipsum quo maius cogitari non potest 
+      <lb ed="#V" n="90"/>est quo maius cogitari potest: quod non contingit: maiores est 
+      pro<lb ed="#V" n="91" break="no"/>bationes ad ide adducit contra insipien. vide ibi. Et sic 
+      <lb ed="#V" n="92"/>patet. illud antecedens naturali ratione probatum.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e209">
+               <lb ed="#V" n="93"/>Respondeo in quaestione ista erunt tres articuli. Nam
+      <lb ed="#V" n="94"/>primo videbitur quod one quesito sense 
+      <lb ed="#V" n="95"/>runt philosophus et Commenta. quoniam de hoc doctores nostri varia 
+      con<lb ed="#V" n="96" break="no"/>struunt. 2o quid sit secundum veritatem sentiendum. 3o contra 
+      <lb ed="#V" n="97"/>dicta ponentur impugnationes et soluentur
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e222">
+               <lb ed="#V" n="98"/>Quantum ad primum dicunt philosophum aliqui sensisse er
+      <lb ed="#V" n="99"/> deum esse potentie infinite intensiue. hoc autem 
+      <lb ed="#V" n="100"/>probatur primo: quoniam P. 8o physi. 4o tracta. et vlti. in illo capitulo  
+      <lb ed="#V" n="101"/>Quod autem hoc necesse est impartibile esse. volens principaliter 
+      <lb ed="#V" n="102"/>ostendere quod primus motor non est commnniunctus 
+      magnitudi<lb ed="#V" n="103" break="no"/>ni: probat primo ipsum esse infinitum: et deinde vltra ex hoc 
+      <lb ed="#V" n="104"/>concludit quod est virtus non in magnitudine: talem ergo 
+      infini<lb ed="#V" n="105" break="no"/>tatem intelligit in antecedente qualem repugnat non posse stare cum 
+      <lb ed="#V" n="106"/>opposito consequentis: alioquin faceret consequentiam: quam putaret 
+      <lb ed="#V" n="107"/>infirmam: sed constat secundum opinionem. P. quod infinitas 
+      duratio<lb ed="#V" n="108" break="no"/>nis tantum non repugnat magnitudini: cum celum secundum eum 
+      <lb ed="#V" n="109"/>sit infinitum duratione. ergo in antecedente non sumit infinitate 
+      <lb ed="#V" n="110"/>talem. restat ergo dicere quod intelligat de infinitate in vigo 
+      <lb ed="#V" n="111"/>re intensiue.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e255">
+      ⁋ Confirmatur. per probationem consequentie. P. arguit  
+      <lb ed="#V" n="112"/>enim quod illa virtus infinita esset in magnitudine finita: sicut 
+      <lb ed="#V" n="113"/>oporteret si esset in magnitudine: cum nulla magnitudo 
+      <lb ed="#V" n="114"/>sit secundum eum aut esse possit infinita: ideo vtique ipsa moue 
+      <lb ed="#V" n="115"/>ret in non tempore: constat autem quod illud non esset 
+      con<lb ed="#V" n="116" break="no"/>sequens secundum ipsum: si illa sit infinita duratione tantum.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e268">
+      ⁋ 2o 
+      <lb ed="#V" n="117"/>idem ostenditur ex eo quod illa probatio. P. nullum finitum 
+      <lb ed="#V" n="118"/>mouet per tempus infinitum etc. si bene intelligatur de 
+      <lb ed="#V" n="119"/>infinitate vigoris intensiua probat. non est autem 
+      ve<lb ed="#V" n="120" break="no"/>risimile. P. latuisse quantum et quid probaret ratio sua.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e280">
+      ⁋ Quia autem 
+      <lb ed="#V" n="121"/>sic probet ratio sua. dicunt quidem patere: si maior intelligatur de eo 
+      <lb ed="#V" n="122"/>quod mouet independenter et non vt alterius instrumntum. Unde si sic 
+      <lb ed="#V" n="123"/>formetur ratio nullum finitum intensiue mouet vel mouere potest primo et 
+      in<lb ed="#V" n="124" break="no"/>dependenter tempore infinito: deus mouet secundum P. vel saltem 
+      moue<lb ed="#V" n="125" break="no"/>re potest secundum veritatem primo et independenter tempore infinito. ergo deus 
+      <lb ed="#V" n="126"/>non est finitus intensiue: vel arguendo affirmatiue. omne 
+      poten<lb ed="#V" n="127" break="no"/>mouere primo et independenter tempore infinito est infinitum seu virtutis 
+      <lb ed="#V" n="128"/>infinite intensiue: deus est huiusmodi ergo etc. sic inqunt ratio est demonstratiua: 
+      <lb ed="#V" n="129"/>quod declaratur. Nam minor non est dubia: maior autem patet: quia omne 
+      <lb ed="#V" n="130"/>tale potens est ex se vicere resistentiam mobilis per infinitum 
+      <lb ed="#V" n="131"/>tempus: quod non posset: si non esset infinite virtutis intensiue 
+      <!--290.xml-->
+      <pb ed="#V" n="151-r"/>
+               <cb ed="#V" n="a"/>
+            </p>
+            <p xml:id="grvnZZ-ed1e95-d1e313">
+               <lb ed="#V" n="1"/>⁋ Aliter declaratur: quia omne tale mouet a se: et per consequens a se 
+      ve<lb ed="#V" n="2" break="no"/>ex se habet virtutem motiuam: ac per hoc etiam entitatem: omne autem quod quid 
+      <lb ed="#V" n="3"/>habet a se: habter ab illo in tota plenitudinie quae potest illi competere: 
+      nihi<lb ed="#V" n="4" break="no"/>enim habter limitate in aliquo nisi habeatur ab aliquo agente determi 
+      <lb ed="#V" n="5"/>nante illud ad certum gradum: quia si vnum ens a se habet 
+      plenitudi<lb ed="#V" n="6" break="no"/>nem entitatis: aliud aut ens a se non habet plenitudinem talem: sed  
+      <lb ed="#V" n="7"/>limitatam entitatem hoc videretur a casu: cum non sit ratio de vno 
+      <lb ed="#V" n="8"/>plus quam de alio: casus aut in his quae sunt a se esse non potest: sed plenitu 
+      <lb ed="#V" n="9"/>do entitatis et potentie actiue: sine infinitate intensiua non potest esse 
+      <lb ed="#V" n="10"/>ergo etc.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e337">
+      ⁋ 3o id quod respicit per seipsum effcantiam infinitum: vt 
+      infini<lb ed="#V" n="11" break="no"/>tus est: est virtutis infinite: deus secundum P. est huiusmodi: igitur etc. maior ap 
+      <lb ed="#V" n="12"/>paret: quia effectus infinitus: vt infinitus est: non est nisi a causa 
+      infinita<lb ed="#V" n="13" break="no"/>Minor declaratur: quia secundum intentionem. P. generatio et corruptio 
+      inferio<lb ed="#V" n="14" break="no"/>rum quantum ad suam difformitatem. valet quod aliquando est generatio: aliquando non 
+      <lb ed="#V" n="15"/>et similiter corruptio reducitur ad motu solis in obliquo circulo 
+      <lb ed="#V" n="16"/>et ad alios motus inferiores: quantum ad vniformitatem aut puta 
+      <lb ed="#V" n="17"/>qui omni anno tali tempore est generatio: et similiter de corruptione reducitur 
+      <lb ed="#V" n="18"/>in superiorem motum. puta in primum. Et deinde in suu motorem. et hoc pro 
+      <lb ed="#V" n="19"/>tanto: quia quanto motor est superior: tanto est simplicior et magis 
+      re<lb ed="#V" n="20" break="no"/>gularem et vnitam virtutem et operationem: sic suo modo est de ipso motu 
+      <lb ed="#V" n="21"/>celesti. Nam quantum ad diuersitatem. valet. vt cuiuslibet reuolutio 
+      <lb ed="#V" n="22"/>snis motus est in se infinitus: infinities tamen replicatus reducitur in me 
+      <lb ed="#V" n="23"/>tores secundos: nec arguit in eis infinitam virtutem: quia quaelibet reuo 
+      <lb ed="#V" n="24"/>lutio est infinita: duratio aut et replicatio infinita talis 
+      effcun<lb ed="#V" n="25" break="no"/>reducitur in eos per accidens: quia scilicet durant in infinitum et non fatigantur:. 
+      <lb ed="#V" n="26"/>quantum autem ad suam vnitatem: vt scilicet est vnus et continuus reducitur in prim 
+      <lb ed="#V" n="27"/>motorem per se: vt sic est infinitus: et ideo secundum. P. primus motor pro primo et 
+      <lb ed="#V" n="28"/>per se effcum respicit motum infinitum vt infinitus est. Und quantum est 
+      <lb ed="#V" n="29"/>de se motum infinitum quem facit tempore infinito faceret simul in infi 
+      <lb ed="#V" n="30"/>nitis mobilibus. Nam simul moueret infinita si essent vel vnum 
+      in<lb ed="#V" n="31" break="no"/>finitum si esset.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e385">
+      ⁋ Constat aut quod omne quod posset mouere infinita vi 
+      <lb ed="#V" n="32"/>vnum infinitum si esset: est infinite virtutis intensiue. quare etc. quare patet inten 
+      <lb ed="#V" n="33"/>tio. P. quod autem eadem fuerit intentio Commentatoris. potest probari ex eo quod 
+      <lb ed="#V" n="34"/>i 2o meta. ait. quod motus celestis componitur ex duobus 
+      motori<lb ed="#V" n="35" break="no"/>bus: quorum vnus est finite motionis: et est anima existens in eo: et ali 
+      <lb ed="#V" n="36"/>ter motionis infinite: et est potentia quae non est in materia.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e398">
+      ⁋ Constat aut 
+      <lb ed="#V" n="37"/>quod illam animam non intendit astruere finite motionis indura 
+      <lb ed="#V" n="38"/>tione: cum sit eterna et infatigabilis secundum eum: sed virtutis fini 
+      <lb ed="#V" n="39"/>te in vigore mouendi intensiue. ergo eodem modo astruit illam potentia 
+      <lb ed="#V" n="40"/>que non est in materia infinita intensiue: illa autem secundum ipsum est deus 
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e409">
+               <lb ed="#V" n="41"/>⁋ Mihi autem his non obstantibus videtur: sicut et multis aliis quod 
+      <lb ed="#V" n="42"/>ista non fuerit intentio. P. neque Commenta. Et primo ostendo hoc 
+      <lb ed="#V" n="43"/>de. P. supponendo primo duo: vnum est secundum opinionem. P. quod de 
+      <lb ed="#V" n="44"/>est motor appropratus primi orbis: et hoc declarabitur in 2o  
+      <lb ed="#V" n="45"/>istud etam concedunt doctoritas quorum est opinio recitata. secundum quod patet ex 
+      <lb ed="#V" n="46"/>probationibus eorum. Alid est quod secundum opinionem. P. deus mo 
+      <lb ed="#V" n="47"/>uet de necessitate naturae et non libere et contingenter: et hoc etiam communi 
+      <lb ed="#V" n="48"/>ter conceditur fuisse opinionis eiusdem. Et probatur est: quia alioquin 
+      <lb ed="#V" n="49"/>posset suum orbem mouere irregulariter scilicet tardius mouendo 
+      <lb ed="#V" n="50"/>quam nunc mouet: et rursus eque velociter: sicut nunc: cuius op 
+      <lb ed="#V" n="51"/>positum nititr ipse probare 2o celi: aut quod magis impossibile esset 
+      <lb ed="#V" n="52"/>motum celi cessare.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e439">
+      ⁋ Ex his autem duobus fundamentis ma 
+      <lb ed="#V" n="53"/>nifeste concluditur secundum P. deum non esse infinite virtutis intensiue. 
+      <lb ed="#V" n="54"/>Nam sequaeretur quod de facto moueret vel volueret in instanti: patet 
+      <lb ed="#V" n="55"/>consequentia quia mouet celum. ex primo supposito: et ex 2o mouet naturaliter. 
+      <lb ed="#V" n="56"/>et per consequens secundum vltimum sue potentie. Constat autem secundum eundem et secundum 
+      <lb ed="#V" n="57"/>veritatem: quod si aliqua virtus naturaliter mouens esset infinita intensiue 
+      <lb ed="#V" n="58"/>instanti moueret: consequens patet esse falsum ad sensum: et impossibile secundum ei 
+      <lb ed="#V" n="59"/>opinionem.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e457">
+      ⁋ 2o certum est vel quod. P. concederet et haberet secundum sua 
+      <lb ed="#V" n="60"/>principia concedere: quod si deus haberet infinitam virtutem mouendi 
+      mo<lb ed="#V" n="61" break="no"/>ueret vel saltem mouere posset velocius quam nunc celum mouea 
+      <lb ed="#V" n="62"/>tur: nec dum hoc: sed etiam sine proportione velocius: et per consequens in no 
+      <lb ed="#V" n="63"/>tempore: alioquin non secundum proportionem motoris potentie ad potentiam moti: 
+      <lb ed="#V" n="64"/>esset velocitas et tarditas motus: cuius oppositum frequenter dicit 
+      <lb ed="#V" n="65"/>et similiter Commenta. 2o celi. et pluribus aliis locis.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e473">
+      ⁋ Et rursus 
+      <!--290.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 151-r b -->
+               <lb ed="#V" n="66"/>constat: quod secundum ipsum consequens est falsum. Unde 2o celi dicit quod sicut 
+      ne<lb ed="#V" n="67" break="no"/>que citharimare: neque ire in quocumque tempore est possibile: sed est 
+      vni<lb ed="#V" n="68" break="no"/>uscuiusque actus determinatus minimum tempus ad non excedere 
+      <lb ed="#V" n="69"/>sic neque moueri celum in quocumque tempore est possibile: hoc autem non 
+      <lb ed="#V" n="70"/>potest secundum eum dici prouenire ex parte motus: sed ex parte 
+      virtu<lb ed="#V" n="71" break="no"/>tis mouentis: quae non potest mouere in quocumque paruo tempore: sicut 
+      <lb ed="#V" n="72"/>nec cytharimans in quantolibet paruo tempore potest suas chordas 
+      tan<lb ed="#V" n="73" break="no"/>gere: neque ambulans determinatum spatium potest in quocumque tempore 
+      <lb ed="#V" n="74"/>illud transire: sed in determinato: in cuius minore non potest: quamuis 
+      <lb ed="#V" n="75"/>nec illi spatio repugnet transire in minore: neque chordis 
+      cy<lb ed="#V" n="76" break="no"/>thare tangi vel percuti: vt certum est: et istud scilicet quod talis 
+      termina<lb ed="#V" n="77" break="no"/>tio veniat ex natura motoris: patet etiam manifeste per Commentatoris. 2o celi 
+      <lb ed="#V" n="78"/>in auctoritas eius infra vltimo allegata.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e510">
+      ⁋ Confirmatur i llud per 
+      <lb ed="#V" n="79"/>eundem ibidem exponentem. vbi ait. Et non debet aliquis contradicere 
+      <lb ed="#V" n="80"/>huic inductioni: dicendo quod ho c non est nisi in potentiis finiti natura 
+      <lb ed="#V" n="81"/>libus: vos autem scilicet Aristo. et Commenta. dicitis quod potentia motoris 
+      <lb ed="#V" n="82"/>celi est infinita: quia nos intendimus per infinitum non nisi infinitatem 
+      <lb ed="#V" n="83"/>motionis. id est quod motio eorum non cessat: infinitas aut intensionis: 
+      <lb ed="#V" n="84"/>vt illic non sit proportio inter potentiam motoris et moti impossibile est 
+      <lb ed="#V" n="85"/>in formis inquantum sunt forme. Et in commento praecedente dicit: quod 
+      <lb ed="#V" n="86"/>si potentia motoris esset sic infinita motus inueniretur in instanti: vult 
+      <lb ed="#V" n="87"/>ergo Commentators. quod si potentia motoris esset infinita intensiue: non esset 
+      <lb ed="#V" n="88"/>tempus minimum in quo posset mouere. Et sic procederet 
+      obie<lb ed="#V" n="89" break="no"/>ctio contra. P. et ipsum: et patet propositum.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e536">
+      ⁋ 3o si deus esset sic infinitus 
+      <lb ed="#V" n="90"/>quantumcumque maius mobile quam esset primum si esset: posset mouere: quin 
+      <lb ed="#V" n="91"/>immo corpus actu infinitum: si illud posset moueri: et ista consequentia 
+      <lb ed="#V" n="92"/>concederetur a. P. et consequens negaretur. ergo et antecedens. De consequentia patet: ex eo quod 
+      <lb ed="#V" n="93"/>secundum quod virtus excedit virtutem: sic maius mobile potest moue 
+      <lb ed="#V" n="94"/>re secundum ipsum.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e549">
+      ⁋ Item. 12o meta. ipse et Commen. ibidem. dicunt 
+      <lb ed="#V" n="95"/>substantias separatas mouentes excedere se in 
+      nobilita<lb ed="#V" n="96" break="no"/>te secundum ordinem et magnitudinem orbium motorum ab eis: 
+      <lb ed="#V" n="97"/>ita quod que maiorem orbem mouet notior est aut nobilior: 
+      <lb ed="#V" n="98"/>et per consequens potentior: igitur si aliqua sit in infinitum 
+      poten<lb ed="#V" n="99" break="no"/>tior in infinitum maius mouere posset si esset. Quia aut consequens 
+      <lb ed="#V" n="100"/>sit falsum secundum eum: patet 2o celi: et maxime secundum translationem 
+      an<lb ed="#V" n="101" break="no"/>tiquam: ac etiam commenti qui talis est. Si in aliquo orbium 
+      <lb ed="#V" n="102"/>erraticorum essent plures stelle esset orbis vltimus in 
+      labo<lb ed="#V" n="103" break="no"/>re: cum mouet orbes qui sunt post ipsum motu diuerso: et reuoli 
+      <lb ed="#V" n="104"/>uit ipsos: huius autem causam reddit ibi Commenta. quoniam tunc potentia 
+      <lb ed="#V" n="105"/>moti qui adderet super potentiam motoris esset infinita intensi 
+      <lb ed="#V" n="106"/>ue. Et ideo statim addit. P. ibi. quod iam diximus multotiens: quod ose 
+      <lb ed="#V" n="107"/>corpus finitum habet potentiam etiam finitam. Et nostra translatio 
+      <lb ed="#V" n="108"/>habet. omnis finiti corporis ad finitum virtus est. id est virtus 
+      <lb ed="#V" n="109"/>ipsum mouet est finita.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e585">
+      ⁋ hoc idem Commentatoris. 12o meta. vbi ait. 
+      <lb ed="#V" n="110"/>quod verum est dicere corpus celeste habere potentiam finitam: et hec est in 
+      <lb ed="#V" n="111"/>tentio eius: quod dicit Arist. esse in celo: quoniam si in primo celo 
+      es<lb ed="#V" n="112" break="no"/>sent plures stelle aut maiores. aut tardius moueretur aut 
+      <lb ed="#V" n="113"/>omnino non: non quia lassitudo accidat ei: sed propter defectum 
+      propor<lb ed="#V" n="114" break="no"/>tionis: quae est inter motorem et motum: motor enim non mouet:  
+      <lb ed="#V" n="115"/>nisi quia potentia eius erit maior potentia moti. Et quanto fuerit maius 
+      tam<lb ed="#V" n="116" break="no"/>to potentia eius erit maior: et cum potentia motoris non superabundaue 
+      <lb ed="#V" n="117"/>rit non poterit mouere ipsum: et si modicum superabundauerit 
+      <lb ed="#V" n="118"/>mouebit tardius. Ex quo autem patet: tam falsitas consequentis secundum istos 
+      <lb ed="#V" n="119"/>quam conclusionis que principaliter intendit: hanc totam rationem in virtu 
+      <lb ed="#V" n="120"/>te ponit Commentator secundo celi. vbi ait. visum est quod 
+      propor<lb ed="#V" n="121" break="no"/>tio est terminata in corporibus celestibus: et ideo non erg 
+      <lb ed="#V" n="122"/>cumque motor eorum sic mouet: quodcumque corpus sic neque 
+      <lb ed="#V" n="123"/>mouet in quacumque velocitate: sed vnumquodque eorum 
+      mo<lb ed="#V" n="124" break="no"/>uet motum proprium: et in velocitate propria. Et subdit: iam enim 
+      <lb ed="#V" n="125"/>declaramus quod additio potentie motoris super potentiam 
+      <lb ed="#V" n="126"/>moti: non est infinita: nisi in tempore scilicet in eternitate 
+      motio<lb ed="#V" n="127" break="no"/>nis: neque in velocitate: neque in multitudinie motuum: neque in 
+      <lb ed="#V" n="128"/>magnitudinie corporum: quoniam si esset in magnitudinie corporum et 
+      <lb ed="#V" n="129"/>motuum multitudinie et velocitate motuum esset possibile inuenire 
+      <lb ed="#V" n="130"/>motum in non tempore. et corpus motum infinitum: quod est impossibile. 
+      <!--291.xml-->
+      <pb ed="#V" n="151-v"/>
+               <cb ed="#V" n="a"/>
+            </p>
+            <p xml:id="grvnZZ-ed1e95-d1e640">
+               <lb ed="#V" n="1"/>⁋ Sic ergo patet: non fuisse intentionis. P. deum esse infinite virtutis 
+      <lb ed="#V" n="2"/>intensiue: quod aut eadem fuerit intentio Commentatoris satio 
+      <lb ed="#V" n="3"/>patet: ex praeallegatis. Et potest hoc ex eo patere quod. 8o phy. super par 
+      <lb ed="#V" n="4"/>te illa in qua. P. probat quod primus motor non est virtus coniuncta 
+      ma<lb ed="#V" n="5" break="no"/>gnitudini. ait enim sic. Dupliciter potentie motiue possunt dici infinie: aut 
+      <lb ed="#V" n="6"/>qui actio earum non cessat: aut quia motus earum est tante 
+      velocita<lb ed="#V" n="7" break="no"/>tis quod non inuenitur magis scilicet quod illud quod ab his mouetur 
+      veloci<lb ed="#V" n="8" break="no"/>mouetur omni mobili: quod aut aliqua potentia sit infinite motionis patet 
+      hun<lb ed="#V" n="9" break="no"/>modum impossibile est nisi motus possit fieri in instanti. Et subdit 
+      <lb ed="#V" n="10"/>motores ergo siue materiales fuerint: siue non materiales secundum hunc 
+      mo<lb ed="#V" n="11" break="no"/>dum conueniunt in hoc quod motio eorum sit finita. Et eandem sententiam 
+      po<lb ed="#V" n="12" break="no"/>nit in lib. de subiecta orbis.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e669">
+      ⁋ Item. 2o celi. Necesse est inquit vt 
+      <lb ed="#V" n="13"/>omnis motus nateralis et voluntarius habeat velocitatem terminatam: 
+      <lb ed="#V" n="14"/>qui omnis motus haberet motorem terminatum: et si esset possibile inuenire 
+      <lb ed="#V" n="15"/>velocitatem non terminatam: tunc motor non haberet potentiam termia 
+      <lb ed="#V" n="16"/>tam. ergo neque naturam terminatam: quia sic intelligerentur ex suo esse 
+      re<lb ed="#V" n="17" break="no"/>proprie ei. Et post subdit quod si potentie motoris celestium 
+      <lb ed="#V" n="18"/>essent infinite in vigore mouendi: non esset proportio inter 
+      mo<lb ed="#V" n="19" break="no"/>torem et rem motam.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e687">
+      ⁋ Item postea infert: quod inueniretur motus in 
+      in<lb ed="#V" n="20" break="no"/>stanti: et omne hoc est inquit impossibile. Et finaliter concludit sic. Et ideo 
+      <lb ed="#V" n="21"/>credendum est quod potentie mouentium sunt terminate proportionis ad  
+      <lb ed="#V" n="22"/>corpora mota: et quod infinitas non inuenitur in eis: nisi propter 
+      eterni<lb ed="#V" n="23" break="no"/>tatem. Ex his patet: quod ipse Commen. non posuit talem infinitatem 
+      <lb ed="#V" n="24"/>potentie in deo: quin immo oppositum totis viribus conatus est 
+      proba<lb ed="#V" n="25" break="no"/>re.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e703">
+      ⁋ Pro itentione itaque. P. et Commentatoris ac solutione 
+      pro<lb ed="#V" n="26" break="no"/>bationum oppositarum. Est sciendum quod deum esse infinitum potest ine 
+      <lb ed="#V" n="27"/>telligi dupliciter. Uno modo secundum primanentiam siue durationem est 
+      <lb ed="#V" n="28"/>sendi. Alio modo secundum potentiam agendi vel mouendi: et hoc dupli 
+      <lb ed="#V" n="29"/>citer: sicut supra tactum est per Commen scilicet extensiue: quia scilicet potest 
+      <lb ed="#V" n="30"/>eternaliter et sine fine mouere. Alio modo intensiue scilicet quod possit 
+      <lb ed="#V" n="31"/>quaecumque velocitate termiata in infinitum: et sine proportione 
+      ve<lb ed="#V" n="32" break="no"/>locius mouere: aut etiam quantolibet corpore in infinitum maius 
+      <lb ed="#V" n="33"/>posset mouere quantum est ex se.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e723">
+      ⁋ Item virtus motiua quaedam 
+      <lb ed="#V" n="34"/>est motiua localiter quadam alteratiue. Primo modo certum est quod 
+      <lb ed="#V" n="35"/>ipsi posuerunt deum infinitum: quin immo etiam et alias subiectas ab 
+      <lb ed="#V" n="36"/>stractas et cetera corpora. 2o etiam modo posuerunt ipsum infinitum 
+      <lb ed="#V" n="37"/>et similiter quemlibet motorem celestem. 3o autem modo nec ipsum nec 
+      ali<lb ed="#V" n="38" break="no"/>quem alium posuerunt esse infinitum: sicut supra probatum est: et in 
+      ho<lb ed="#V" n="39" break="no"/>sensu 3o procedit articulus iste.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e740">
+      ⁋ Et tunc ad primam probationem 
+      <lb ed="#V" n="40"/>aliorum dico quod. P. numquam fecit talem consequentia: deus est infinitus. ergo non est 
+      <lb ed="#V" n="41"/>virtus in magnitudinie.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e747">
+      ⁋ Sed arguit sic: nullum finitun 
+      <lb ed="#V" n="42"/>mouet tempore infinito: omnis virtus in magnitudine est finita. ergo 
+      <lb ed="#V" n="43"/>nulla virtus in magnitudinie mouet tempore infinito: sed tunc poest 
+      <lb ed="#V" n="44"/>sumi sub. deus mouet tempore infinito: ergo non est virtus in 
+      ma<lb ed="#V" n="45" break="no"/>gnitudinie: et hec est conclusio ibi principaliter intenta: in cuius rationis prae 
+      <lb ed="#V" n="46"/>missis qualiter accipiatur finitum: et vtrum ratio efficaciter probet 
+      in<lb ed="#V" n="47" break="no"/>tentum ad praesens pertranseo. Si tamen fieret ista consequentia. deus est infinitus 
+      <lb ed="#V" n="48"/>ergo non est virtus in magnitudinem: adhuc ipsa esset bona secunu 
+      <lb ed="#V" n="49"/>P. si antecedens intelligeretur de infinitate secundi modi scilicet extensiua 
+      <lb ed="#V" n="50"/>in mouendo localiter. Unde ex hoc. quod deus potest localiter mouere 
+      <lb ed="#V" n="51"/>per infinitum tempus. infertur quod non est virtus in magnitudinie.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e771">
+      ⁋ Et 
+      <lb ed="#V" n="52"/>vlterius dico: quod talis infinitas motonis patet eum repugnat vir 
+      <lb ed="#V" n="53"/>tuti coniuncte magnitudini. Nam quamuis aliqua in magnitudinie 
+      <lb ed="#V" n="54"/>existens posset durare: ac etiam alterare per tempus infinitum: nulla 
+      <lb ed="#V" n="55"/>tamen ipsum potest mouere localiter tempore infinito cum quaelibet talis secundum ipsum 
+      <lb ed="#V" n="56"/>sit ex suo motu fatigabilis.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e784">
+      ⁋ Ad confirmationem dicitur quod non 
+      <lb ed="#V" n="57"/>ex hoc solum: quod illa virtus esset in magnitudinie: infert. P. quod 
+      mo<lb ed="#V" n="58" break="no"/>ueret in instanti: sed si esset in magnitudinie: et cum hoc moueret 
+      <lb ed="#V" n="59"/>tempore infinito: tunc sequeretur secundum ipsum quod moueret in instanti: et est ratio: 
+      <lb ed="#V" n="60"/>qui cum esset fatigabilis non posset tempore infinito mouere: 
+      nis<lb ed="#V" n="61" break="no"/>esset infinita intensiue: et tunc vtique moueret secundum ipsum in instanti: et 
+      <lb ed="#V" n="62"/>hoc est: quod ait Commentatoris. in li. de subiecta orbis. dicens Et manifestum est: 
+      <lb ed="#V" n="63"/>quod si poneremus corpus celeste componi ex materia et forma: quod 
+      <lb ed="#V" n="64"/>secundum eum poneretur: si poneretur quod motor eius esset virtus 
+      materia<lb ed="#V" n="65" break="no"/>lis seu in magnitudinie existens velut forma constituens per se vnum 
+      <!--291.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 151-v b -->
+               <lb ed="#V" n="66"/>cum corpore celesti: quemadmodum anima cum corpore in animalibus quae sunt 
+      <lb ed="#V" n="67"/>hic. Sequeretur inquit in ipso esse virtutem finite actionis in 
+      ten<lb ed="#V" n="68" break="no"/>pore.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e819">
+      ⁋ Et est manifestum: quod si in corpore composito ex materia et 
+      <lb ed="#V" n="69"/>forma esset virtus infinita in tempore: sequeret in ipso esse 
+      virtu<lb ed="#V" n="70" break="no"/>tem infinitam in ipsa actione et passione: et est impossibile: quod intelligit 
+      <lb ed="#V" n="71"/>Aru. ex positione virtutum quibus mouentur corpora celestia in 
+      <lb ed="#V" n="72"/>corpore id est si ponantur tales virtutes esse in corpore: vocat autem vt 
+      <lb ed="#V" n="73"/>ibi patet: virtutem infinitam in tempore quae supra vocata est infinita 
+      <lb ed="#V" n="74"/>extensiue: et econtra vocat finitam in tempore cuius actio tempore finitur: infi 
+      <lb ed="#V" n="75"/>nitam autem in actione vocamus eam quam vocamus infinitam 
+      intensi<lb ed="#V" n="76" break="no"/>ue.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e839">
+      ⁋ Ad aliam probationem qua dicitur quod ratio P. demonstrat talem 
+      <lb ed="#V" n="77"/>infinitatem in deo: si reguletur illo modo: dico primo quod talis regu 
+      <lb ed="#V" n="78"/>latio non est secundum mentem. P. cum ipse ibidem et in. 12o meta. vbi  
+      <lb ed="#V" n="79"/>eandem petit probationem: non tantum intendebat loqui de motore 
+      sim<lb ed="#V" n="80" break="no"/>pliciter primo: sed communiter de omnibus motoribus celestibus. Unde in 
+      <lb ed="#V" n="81"/>i2. illa probatione facta: et vt sibi videtur. concluso per illam quod est dare 
+      <lb ed="#V" n="82"/>aliquam subiectam immaterialem et abstractam: inquirit postea: vtrum sit vna  
+      <lb ed="#V" n="83"/>tantum huiusmodi subiecta vel plures: et concludit quod plures: non igitur. P. cum 
+      <lb ed="#V" n="84"/>dicit nullum finitum mouet tempore infinito: intendit tantum de eo 
+      <lb ed="#V" n="85"/>quod primo ea independenter mouet quale est primum principium: quod vnum 
+      <lb ed="#V" n="86"/>est tantum secundum numerum.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e864">
+      ⁋ 2o dico: quod illa maior sumpta cum 
+      addi<lb ed="#V" n="87" break="no"/>tione praedicta: quamuis vera sit: quia nihil mouet primo 
+      independen<lb ed="#V" n="88" break="no"/>ter nisi deus: supposito quod moueat: et ipse vtique secundum veritatem 
+      <lb ed="#V" n="89"/>est infinitus intensiue: secundum tamen. P. de cuius intentione nunc quaeritur: ipsa 
+      <lb ed="#V" n="90"/>sic absolute sumpta et intellecta de infinitate intensiua vigo 
+      <lb ed="#V" n="91"/>ris est falsa: quoniam secundum ipsum qualibet virtus abstracta a materia est 
+      im<lb ed="#V" n="92" break="no"/>fatigabilis: et qua ratione potest mouere per vnam diem potest per 
+      infi<lb ed="#V" n="93" break="no"/>nitum tempus: quia post quamcumque motionem est equalis vigoris: et omnino 
+      <lb ed="#V" n="94"/>eodem modo proportionata suo mobili inuariato: quale est corpus 
+      <lb ed="#V" n="95"/>celeste: sicut antea erat: et per hoc eque potens in illud. Unde 
+      <lb ed="#V" n="96"/>Commen. 2o celi et mundi. Cum motor inquit et res mota 
+      abscin<lb ed="#V" n="97" break="no"/>duntur a prima materia non abscidetur suum esse: neque suum opus quod est 
+      mo<lb ed="#V" n="98" break="no"/>uere ea moueri. Et in li. de subiecta orbis. ait. quod virtus 
+      infini<lb ed="#V" n="99" break="no"/>ta in actione ipsa et passione in se hoc est quam vocamus 
+      infini<lb ed="#V" n="100" break="no"/>tam intensiue non exit in corpore: siue fuerit celeste: siue 
+      ge<lb ed="#V" n="101" break="no"/>nerabile aut corruptibile: et subdit. virtutes vero infinite 
+      <lb ed="#V" n="102"/>in actione et passione in tempore esse necessrium est in corporibuscelestibus:  
+      <lb ed="#V" n="103"/>passione autem in moueri: quia simpliciter sunt simplicia: actione autem 
+      <lb ed="#V" n="104"/>in mouere: quia sue forme non constituuntur per suum subiectum: et 
+      vtrum<lb ed="#V" n="105" break="no"/>que est impossibile in corporibus generabilibus et corruptibilibus: quia siunt 
+      <lb ed="#V" n="106"/>oposita ex materia et forma. het ipse. Ex qubus patet: quod vir 
+      <lb ed="#V" n="107"/>tutes motiue celorum: quia non constituuntur per subiecta: 
+      <lb ed="#V" n="108"/>sicut forme materiales: ideo sunt infinite in actione in tempore 
+      <lb ed="#V" n="109"/>li. agunt seu mouent in tempore infinito. Nec ad hoc secundum 
+      <lb ed="#V" n="110"/>ipsum oportet quod sint infinite intensiue.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e919">
+      ⁋ Tunc ad primam 
+      <lb ed="#V" n="111"/>probationem illius maioris: patet quid dicendum. Nam ex 
+      <lb ed="#V" n="112"/>quo virtus est infatigabilis eque potest in finito tempore 
+      <lb ed="#V" n="113"/>vincere resistentiam mobilis qualiscumque debeat 
+      intelli<lb ed="#V" n="114" break="no"/>gi talis resistentia: sicut vincere vna die.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e930">
+      ⁋ Alia 
+      proba<lb ed="#V" n="115" break="no"/>tio minus valet. Tum quia plenitudo entitatis et potentie 
+      <lb ed="#V" n="116"/>vtique est sine infinitate intensiua. Tum quia secundum eudem non 
+      <lb ed="#V" n="117"/>solum primum: sed etiam alie substantie abstracte habent a se 
+      <lb ed="#V" n="118"/>et entitatem et virtutem: cum secundum eum: vt in secundo patebit: sint 
+      <lb ed="#V" n="119"/>penitus improducte: et tamen nulla est infinita intensiue: nec est ita 
+      <lb ed="#V" n="120"/>perfecta: ac secundum modum loquendi arguentis habet tantam plenitudinem 
+      <lb ed="#V" n="121"/>entitatis quantam deus.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e948">
+      ⁋ Ad 3am rationem dico quod loquendo in proposito 
+      <lb ed="#V" n="122"/>de effcum qui est motus: siue proprie: siue improprie motus dicat effcuns: 
+      <lb ed="#V" n="123"/>ipsum esse infinitum potest intelligi dupliciter. Uno modo extensiue: et sic idem est ipsum 
+      <lb ed="#V" n="124"/>esse infinitum quod esse durationis infinite. Alio modo intensiue: et 
+      <lb ed="#V" n="125"/>sic idem est quod esse velocitatis infinite. Cum ergo dicitur illud quod respicit 
+      <lb ed="#V" n="126"/>effcntum infinitum vt infinitus est etc. Dico quod si respicit effcntium primo modo es 
+      <lb ed="#V" n="127"/>virtutis infinite correspondenter extensiue secundum P. non autem intensiue: 
+      <lb ed="#V" n="128"/>sed tunc. P. negaret minorem. Amplius dico quod. P. ita 
+      di<lb ed="#V" n="129" break="no"/>ceret quemlibet illum motorem respicere suum modum: vt infinitus et conti 
+      <lb ed="#V" n="130"/>nuus est: sicu primus motor suum: nec oppositum ostendi posset ex dictis. P. 
+      <!--292.xml-->
+      <pb ed="#V" n="152-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>Quod autem vlterius additur quod primus motor quantum est ex se 
+      mo<lb ed="#V" n="2" break="no"/>tum infinitum faceret in infinitis mobilibus: aut in vno infinito si 
+      <lb ed="#V" n="3"/>esset: certum est quod hoc negaretur a. P. et etiam a Commentatore: sicut 
+      <lb ed="#V" n="4"/>expresse patet ex supra allegatis.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e985">
+      ⁋ Ad auctoritas. Commen. respondet 
+      <lb ed="#V" n="5"/>vnus doctor quod Commentator loquitur de finitate et infinitate 
+      du<lb ed="#V" n="6" break="no"/>rationis ex se: sic intelligendo quod motus coniunctus: qui quadammo est in 
+      <lb ed="#V" n="7"/>materia celi: sicut importatur per hoc nomen coniunctus: est in potentia ad mouendum: 
+      <lb ed="#V" n="8"/>et quantum est ex se: est eta in potentia ad quietem: ita quod quantum est ex se potest 
+      <lb ed="#V" n="9"/>cessare a motione actiua celi: et hoc est secundum Commentatoris. quia est forma 
+      <lb ed="#V" n="10"/>aliqualiter coniuncta: et in mouendo mouetur accidentaliter: sicut patet ex 
+      pro<lb ed="#V" n="11" break="no"/>cessu eiusdem commenti: et ideo non est de se infinite motionis: sed 
+      fi<lb ed="#V" n="12" break="no"/>nite: quia si sue naturae derelinquaeretur a primo motore cessaret a 
+      mo<lb ed="#V" n="13" break="no"/>tione sua propter causam dictam: et ita infinitas motus necessario est propter alium 
+      <lb ed="#V" n="14"/>motorem in quo non est potentia omnino ad quietem: neque esentialiter: neque 
+      ac<lb ed="#V" n="15" break="no"/>cidentaliter: quia neutro modo mouet: et illud est primum simpliciter separatum ab 
+      <lb ed="#V" n="16"/>omni materia: et propter suam seperationem est infinite motionis secundum duratio 
+      <lb ed="#V" n="17"/>nem.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1016">
+      ⁋ Ista responsio non est secundum mentem Commentatoris: quod patet primo ex eo 
+      <lb ed="#V" n="18"/>quod dicit motorem coniunctum motori accidentaliter ex suo motore: 
+      <lb ed="#V" n="19"/>hoc enim expresse contradicit Commentatori in de subiecta orbis. vbi dit 
+      <lb ed="#V" n="20"/>fuse probat quod tales motores: quaes vocat formas et animas cor 
+      <lb ed="#V" n="21"/>porum celestium non constituuntur per sua subiecta: neque mouentur acciden 
+      <lb ed="#V" n="22"/>taliter per motum eorum. Unde ait: quod tunc mouere eorum esset infinitum: 
+      <lb ed="#V" n="23"/>quod enim mouetur quando mouet impossibile est: vt sit principium motus eterni: 
+      <lb ed="#V" n="24"/>vt dicit Arum. et in 2o capitio probans idem scilicet quod non constituuntur per subiecta 
+      <lb ed="#V" n="25"/>deducit ad hoc tamquam ad inconueniens quod tunc mouerentur ex se 
+      <lb ed="#V" n="26"/>per accidens.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1039">
+      ⁋ 2o ex eo quod dicit talem motorem posse quantum est ex 
+      <lb ed="#V" n="27"/>se cessare a motione. Nam Commenta. 12o meta. dicit quod necess 
+      <lb ed="#V" n="28"/>est vt motus eternus habeat motorem qui est actio pura sine aliqua 
+      <lb ed="#V" n="29"/>potentia id est qua in nulla hora est motor in potentia: et post subdit quod omne 
+      eter<lb ed="#V" n="30" break="no"/>num est actio pura. Unde vult ipse quod omnis motor celestis sit 
+      <lb ed="#V" n="31"/>omnino immotus: tam essentialiter quam accidentaliter: et semper necessario actu 
+      mo<lb ed="#V" n="32" break="no"/>uens. Unde 2o celi. Ex hoc probat necessario esse motum celi: et loquitur 
+      <lb ed="#V" n="33"/>generaliter de omnibus motoribus: vt patet ibi. Quod etiam confirmatur ex 
+      <lb ed="#V" n="34"/>eo: quod postquam. 12o meta. P. et Commentatoris. probauerunt: esse subiectam 
+      <lb ed="#V" n="35"/>eternam mouentem qua nullo modo nec per se: nec per accidens mouetur 
+      ne<lb ed="#V" n="36" break="no"/>que est in potentia ad non mouendum inquit. Utrum talis subiecta sit vna vel 
+      <lb ed="#V" n="37"/>plures: et determinat quod sunt plures.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1065">
+      ⁋ 3o deficit responsio: quia cum secundum 
+      <lb ed="#V" n="38"/>Commenta. deus ipse sit motor coniuctus primo mobili: et anima et 
+      for<lb ed="#V" n="39" break="no"/>ma ipsius quemadmodum alii motores dicuntur forme suorum 
+      <lb ed="#V" n="40"/>mobilium: vt patet in de subiecta orbis: et in multis aliis locis: vt 
+      <lb ed="#V" n="41"/>probabitur in secudo: et etiam secundum istum doctorem: cum in eadem 
+      <lb ed="#V" n="42"/>questione dicat: quod deus secundum intentionem philosophi et Commentatoris 
+      <lb ed="#V" n="43"/>effectiue mouet celum: et constat quod primum mobile non habet 
+      du<lb ed="#V" n="44" break="no"/>os motores effectiue: et quod habet suum coniunctum motorem: vt 
+      cete<lb ed="#V" n="45" break="no"/>ri orbes: ac per hoc deus sit secundum Commentato. motor 
+      appro<lb ed="#V" n="46" break="no"/>priatus primo mobili. Sequeretur quod ipse moueretur accidentaliter: 
+      <lb ed="#V" n="47"/>et esset in potentia ad non mouendum: et quod infinitas sue motionis sit 
+      <lb ed="#V" n="48"/>ab alio motore est qui nullo modo mouetur: que omnia sunt absus 
+      <lb ed="#V" n="49"/>da et contra intentionem Commenta. ex toto.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1094">
+      ⁋ Respono ergo aliter: et 
+      di<lb ed="#V" n="50" break="no"/>co iuxta superius dicta: quod motor celi secundum Commenta. est vno mode 
+      <lb ed="#V" n="51"/>motionis finite scilicet intensiue: et alio modo infinite scilicet extensiue: et quod 
+      <lb ed="#V" n="52"/>isto modo habeat motionem infinitam prouenit ex eo quod ipse non est in 
+      <lb ed="#V" n="53"/>materia e hoc ipse intendit ibidem: sicut patet: ex eo quod nullo interposito 
+      <lb ed="#V" n="54"/>subdit declarans sensum praedictorum verborum. Secundum ergo inquit 
+      <lb ed="#V" n="55"/>quod mouetur a potentia finita mouetur in tempore: et hoc est motionem esse 
+      infi<lb ed="#V" n="56" break="no"/>nitam intensiue: et in hoc dicit diuersari motus celestes in 
+      velocita<lb ed="#V" n="57" break="no"/>te et tarditate: secundum diuersitatem proportionis finitatis huiusmodi 
+      mo<lb ed="#V" n="58" break="no"/>toris ad sua mota. Et postea addit: et in hoc in quo conueniunum 
+      <lb ed="#V" n="59"/>quod moueretur a potentia non in materia habent eternitatem motus et conti 
+      <lb ed="#V" n="60"/>nuitatem: et sic motus celestis qui est finitus primo mod scilicet velo 
+      <lb ed="#V" n="61"/>citatis finite et infinitus extensiue id est eternus habet finitatem ex 
+      fi<lb ed="#V" n="62" break="no"/>nitate intensiua motoris et infinitatem ex infinitate extensiua 
+      <lb ed="#V" n="63"/>motoris quae conuenit ex eius modi separatione a materia.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1127">
+      ⁋ Utrum 
+      <lb ed="#V" n="64"/>autem sint duo motores essentialiter distincti: vel vnus secundum essen 
+      <lb ed="#V" n="65"/>tiam et duo secundum dispositionem iuxta modum loquendi Commentato. seu  
+      <!--292.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 152-r b -->
+               <lb ed="#V" n="66"/>dicitur mouens scilicet vt agens: et vt finis: et quomo ab ipso motur 
+      <lb ed="#V" n="67"/>habeat eternitatem: et quo non: videbitur in 2o vbi inquiretur: vtrum 
+      <lb ed="#V" n="68"/>secundum intentionem philosophi et Commenta. deus sit motor appropriatus 
+      <lb ed="#V" n="69"/>alicui orbi: ad nostrm autem propositum nunc id non est opus discutere. 
+      <lb ed="#V" n="70"/>Quantum ad 2m arti. dico duo.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1151">
+      ⁋ Primum est quod 
+      <lb ed="#V" n="71"/>alibet insequendo naturalem rationem habet ponetur aut 
+      <lb ed="#V" n="72"/>saltem non negare: quod est aliqua res infiniti vigoris intensiue pror: quia 
+      <lb ed="#V" n="73"/>aliqua sunt naturaliter concedenda esse simpliciter possibilia vel saltem no 
+      <lb ed="#V" n="74"/>neganda esse possibilia quae non possunt poni: et sciuntur etia non pos 
+      <lb ed="#V" n="75"/>se poni in esse: nisi per virtute infinitam intensiue. ergo vel est conceden 
+      <lb ed="#V" n="76"/>dum esse aliquam talem virtutem: vel saltem non est negandum: patet consequentia 
+      <lb ed="#V" n="77"/>qui numquam consequens est negandum: nisi antecedens ad quod illud scitur esse consequens sit 
+      <lb ed="#V" n="78"/>negandum. Assumptum declaratur in pluribus. Nam quod aliquod corpus 
+      <lb ed="#V" n="79"/>intense calidum transmutetur in instanti in frigiditate intensam: 
+      <lb ed="#V" n="80"/>cum non appareat nec euidenter possit apparere implicare vel 
+      in<lb ed="#V" n="81" break="no"/>ferre contradictionem: non apparet esse impossibile: et per consequens non est negandum 
+      <lb ed="#V" n="82"/>esse possibile simpliciter.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1180">
+      ⁋ Item quod vnum corpus per prius sit in 
+      <lb ed="#V" n="83"/>vno loco: et in instanti terminante illud sit in alio distante: nul 
+      <lb ed="#V" n="84"/>la videtur contradictio: et ideo nec illud est negandum esse possibile. Similiter quod 
+      <lb ed="#V" n="85"/>celum in infinitum velocius posset moueri 
+      (sincathegoreuma<lb ed="#V" n="86" break="no"/>tice accipiendo infinitum) non videtur implicare contradictionem: et per 
+      con<lb ed="#V" n="87" break="no"/>sequens nec impossibile: et multa alia possunt commemorari: quae non 
+      <lb ed="#V" n="88"/>sunt neganda esse possibilia simpliciter: et tamen cum hoc non possunt poni 
+      <lb ed="#V" n="89"/>inesse: nisi a potentia seu virtute infinita. Et hoc etam scitur per 
+      regu<lb ed="#V" n="90" break="no"/>las communiter concessas de proportionibus virtutum mouentium inter 
+      <lb ed="#V" n="91"/>se: secundum proportionem velocitatis motionum ipsarum.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1203">
+      ⁋ 2m est quod 
+      <lb ed="#V" n="92"/>naturaliter loquendo ponendum est: vel saltem non est negandum deum esse 
+      <lb ed="#V" n="93"/>infinite virtutis intensiue: patet. quia ex quo non est negandum esse 
+      <lb ed="#V" n="94"/>aliquam virtutem infinitam: vt probatum est: et hoc videtur importare 
+      dignita<lb ed="#V" n="95" break="no"/>tem et perfectionem simpliciter: non est negandum a deo cui ex coi 
+      conce<lb ed="#V" n="96" break="no"/>ptione omne quod est simpliciter dignitatis et excellentie attribuitur 
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1216">
+               <lb ed="#V" n="97"/>⁋ Confirmatur: quia supra. dis. 2. probatum est naturaliter esse ponendum 
+      <lb ed="#V" n="98"/>deum esse actiuum et productiuum aliorum. Cum igitur non sit negandum 
+      <lb ed="#V" n="99"/>aliquam vim actiuam infinitam: non videtur esse negandum diuinam virtutem 
+      <lb ed="#V" n="100"/>esse infinitam. 
+      <lb ed="#V" n="101"/>Nunc ergo est arguendum contra dicta: et hoc dupliciter. Primo probando 
+      <lb ed="#V" n="102"/>deum non esse virtutis infinite. 2o probando hoc non esse ponendum inse 
+      <lb ed="#V" n="103"/>quendo rationem naturalem.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1234">
+      ⁋ primum probatur primo sic: si esset virtutis infinite 
+      <lb ed="#V" n="104"/>non haberet potentiam terminatam: et sic neque naturam terminatam: hoc aut est 
+      fal<lb ed="#V" n="105" break="no"/>sum.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1241">
+      ⁋ 2o si deus esset infinite virtutis moueret vel saltem 
+      mo<lb ed="#V" n="106" break="no"/>uere posset in instanti. consequens est falsum. Tum quia motus est successio quae 
+      <lb ed="#V" n="107"/>in instanti esse non potest: Tum quia mobile simul esset in omnibus partibus spacii 
+      <lb ed="#V" n="108"/>super quo moueretur. Tum 3o quia pari ratione posset celum in instanti 
+      ver<lb ed="#V" n="109" break="no"/>tere versione completa: sed hoc est falsum. Nam sequaeretur quod esset 
+      mu<lb ed="#V" n="110" break="no"/>tatum per positum: et tamen non esset mutatum: quia ipsum totum et quaelibet pars eius: 
+      <lb ed="#V" n="111"/>esset in loco eodem primo in quo fuit prius. Unde supposito quod celum 
+      <lb ed="#V" n="112"/>quiesceret per tempus: et sol esset in oriente si in instanti verteret in eodem 
+      <lb ed="#V" n="113"/>instanti sol esset in oriente: sicut prius erat: et ita quaelibet pars celi et 
+      to<lb ed="#V" n="114" break="no"/>tum celum: et per consequens non esset mutatum.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1263">
+      ⁋ 3o si deus esset infinite 
+      vir<lb ed="#V" n="115" break="no"/>tutis posset producere aliquam formam. vbi gratia. calorem infinitum 
+      in<lb ed="#V" n="116" break="no"/>tensiue: similiter multitudinem infinitam et corpus aliquod infinitum: et illud 
+      <lb ed="#V" n="117"/>etiam mouere posset localiter: qua omnia sunt impossibilia: et consequentia quae ad omnia patet 
+      <lb ed="#V" n="118"/>ex proportione virtutis ad vitutem et effectum correspondentium adiui 
+      <lb ed="#V" n="119"/>cem. Et has rationes tres in virtute tangit Commentatoris. in diuersis 
+      lo<lb ed="#V" n="120" break="no"/>cis: vt ex dictis eius allegatis supra patet.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1279">
+      ⁋ 4o si deus esset 
+      virtu<lb ed="#V" n="121" break="no"/>tis infinite esset etiam perfectionis infinite: et si sic sequeretur quod nullum 
+      <lb ed="#V" n="122"/>aliorum entium a deo esset aliqua modo ao perfectius vel imperfectius: sed omni 
+      <lb ed="#V" n="123"/>essent equae perfecta: quod est falsum. consequentia probatur: quia omnia dicuntur mag 
+      <lb ed="#V" n="124"/>vel minus perfecta: secundum quod magis vel minus appropinquant vel 
+      di<lb ed="#V" n="125" break="no"/>stant a primo: cum aut quodlibet aliud sit finitum. sequitur quod quodlibet 
+      dista<lb ed="#V" n="126" break="no"/>ret a deo in infinitum: et per consequens non vnum plus alio.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1296">
+      ⁋ Praeterea deus est 
+      <lb ed="#V" n="127"/>mensura omnium aliarum subiectarum: vt patet. 10eo meta: per Commentatoris. et 
+      ibi<lb ed="#V" n="128" break="no"/>dem habter: mensura est quid minimum in io genere qui est mensura. ergo 
+      <lb ed="#V" n="129"/>deus non est infinitus: quia tunc potius esset maxium: et iste due vltime 
+      rto<lb ed="#V" n="130" break="no"/>nes discretius probant quod deus non sit infinite perfectionis vel entitatis. 
+      <!--293.xml-->
+      <pb ed="#V" n="152-v"/>
+               <cb ed="#V" n="a"/>
+            </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1314">
+               <lb ed="#V" n="1"/>⁋ Rspono. quod sicut illimitatum et infinitum secundum essentiam potest 
+      intelli<lb ed="#V" n="2" break="no"/>gi dupliciter scilicet extensiue et intensiue: sic per oppositum finitum secundum 
+      essen<lb ed="#V" n="3" break="no"/>tiam potest capi dupliciter: si ergo in praedicato maioris finitum capiatur vt 
+      <lb ed="#V" n="4"/>opponit infinito secundum essentiam extensiue: sic concedo conclusionem 
+      accipi<lb ed="#V" n="5" break="no"/>endo in ea eodem modo terminum illum. Nam constat quod deus non est 
+      <lb ed="#V" n="6"/>quodlibet ens vel entia infinita: sed vnum singulare immo 
+      vnici<lb ed="#V" n="7" break="no"/>et maxime vnum: et ideo non est infinitus extensiue secundum essentiam. Si vero 
+      <lb ed="#V" n="8"/>accipiatur infinitum secundum essentiam intensiue: sic quocumque modo acci 
+      <lb ed="#V" n="9"/>piatur in exemplis adductis prosvlleti maior est falsa.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1336">
+      ⁋ Ad  
+      <lb ed="#V" n="10"/>2am respondo. quod consequentia non apparet necessaria: qualitercumque etiam in consequente 
+      ac<lb ed="#V" n="11" break="no"/>cipiatur mouere scilicet siue pro motione successiua: siue pro muta 
+      <lb ed="#V" n="12"/>tione subita. Nam hoc solo posito: quod aliquod corpus 
+      qualiter<lb ed="#V" n="13" break="no"/>cumque et quantumcumque velociter motum: vel possibile moueri: in infi 
+      <lb ed="#V" n="14"/>nitum velocius deus posset mouere: saluaretur optime infinitas 
+      <lb ed="#V" n="15"/>sue virtutis: nec sequeretur ex hoc quod posset in instanti. Secundo 
+      di<lb ed="#V" n="16" break="no"/>co. quod si capiatur mouere large pro scilicet subita mutatione quod consequens 
+      <lb ed="#V" n="17"/>non est falsum etc.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1356">
+      ⁋ Tunc probatio prima non est ad propositum: quia 
+      <lb ed="#V" n="18"/>mutatio subita non est successiua. Ad aliam aut cum dicitur quod tun 
+      <lb ed="#V" n="19"/>mobile esset simul in omnibus partibus spatii. potest dupliciter responderi. vno 
+      <lb ed="#V" n="20"/>modo vt aliqui dicunt: quod illud non sequitur. Nam posset deus corpus 
+      <lb ed="#V" n="21"/>de extremo ad extremum subito mutare: non mutando ipatut 
+      <lb ed="#V" n="22"/>per medium: sicut corpus christi: existens in celo accedit ad altare: 
+      <lb ed="#V" n="23"/>non accedens ad aliqua loca media.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1372">
+      ⁋ Alio modo respondeo et di 
+      <lb ed="#V" n="24"/>co: quod si deus vellet: posset etiam per medium subito corpus de extre 
+      <lb ed="#V" n="25"/>mo ad extremum mutare: et tunc in illo instanti illud corpus simul esse 
+      <lb ed="#V" n="26"/>in omnibus partibus spatii: et post illud instans non esset nisi in termino 
+      <lb ed="#V" n="27"/>ad quem: nec illud est impossibile: sicut nec quod idem sit corpus per tempus in 
+      <lb ed="#V" n="28"/>pluribus locis simul: quod vtique deus potest facere.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1385">
+      ⁋ Ad 3am proba 
+      <lb ed="#V" n="29"/>tionem falsitatis dicti consequentis: concedo similiter quod deus posset subito 
+      <lb ed="#V" n="30"/>complete reuoluere celum. Et dico: quod tunc celum esset mutatum 
+      <lb ed="#V" n="31"/>et cum probatur quod non dico quod non sequitur. hoc est in eodem loco in 
+      <lb ed="#V" n="32"/>quo prius fuit. ergo non est mutatum secundum locum: quia si simul cum hoc quod est 
+      <lb ed="#V" n="33"/>eodem loco in quo prius fuit: sit etiam in aliquo in quo prius non 
+      <lb ed="#V" n="34"/>fuit: vtique ipsum est mutatum. Exemplum in mutatione secundum formam 
+      <lb ed="#V" n="35"/>posito quod aer tenebrosus sit calidus: deinde nlla mutatione 
+      <lb ed="#V" n="36"/>facta in ipso secundum calorem: fiat lucidus: tunc verum est dicere: 
+      aer<lb ed="#V" n="37" break="no"/>est sub eadem forma sub qua prius fuit: et tamen falsum est quod non 
+      <lb ed="#V" n="38"/>sit mutatus secundu formam: et similiter si vnum corpus existens in oriete deus 
+      <lb ed="#V" n="39"/>poneret in occidente non remouendo ipsum de priori loco: sicut 
+      <lb ed="#V" n="40"/>bene posset: adhuc illud esset mutatum secundum locum quamuis esset in eo 
+      <lb ed="#V" n="41"/>dem loco in quo prius fuit. Sic in proposito quamuis celum esset in 
+      il<lb ed="#V" n="42" break="no"/>lo instanti ipsum et omnes eius partes in eodem loco in quo prius erant: ni 
+      <lb ed="#V" n="43"/>hilominus in eodem instanti ipsum et qualibet pars eius esset in alio lo 
+      <lb ed="#V" n="44"/>co in quo prius non fuit: et ideo non esset verum ipsum non esse mutatum 
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1423">
+               <lb ed="#V" n="45"/>⁋ Ad 3am potest primo negari consequentia sicut et precedens. Nam 
+      <lb ed="#V" n="46"/>sufficeret ad infinitatem virtutis quod quantocumque calore finito 
+      <lb ed="#V" n="47"/>possibili posset deus facere intensiorem: et quaelibet 
+      multitudin<lb ed="#V" n="48" break="no"/>possibili finita maiorem: et quantocumque possibili finito maius: et 
+      <lb ed="#V" n="49"/>quantocumque etiam corpore finito possibili posset maius moue 
+      <lb ed="#V" n="50"/>re dato quod non posset facere calorem infinitum: aut 
+      multitudi<lb ed="#V" n="51" break="no"/>nem aut magnitudinem actu infinitam. Secundo concedo consequens quantum 
+      <lb ed="#V" n="52"/>ad singulas tres partes primas: et probabitur in sequenti quaestione: 
+      <lb ed="#V" n="53"/>similiter quantum ad vltimam concedo: quod deus quantum est ex sufficientia suc 
+      <lb ed="#V" n="54"/>virtutis vtique posset mouere corpus infinitum. Si autem non pos 
+      <lb ed="#V" n="55"/>set: quod non assero: hoc esset praecise: quia illud moueri non posset 
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1449">
+               <lb ed="#V" n="56"/>⁋ Ad 4. quicquid sit de consequentia. concedo primum consequens sed 
+      vlterio<lb ed="#V" n="57" break="no"/>rem nego consequentia. Ad probationem dicendum: quod illud dictum non est intel 
+      <lb ed="#V" n="58"/>ligendum de distantia vel propinquitate secundum excessum maiorem 
+      ve<lb ed="#V" n="59" break="no"/>minorem perfectionis diuine ad alia entia. Nam quamlibet excedit 
+      <lb ed="#V" n="60"/>infinite libet excessu equiuoco: et ideo nec proprie vnam magis exce 
+      <lb ed="#V" n="61"/>dit quam aliam: sed est intelligendum secundum maiorem vel minorem similitudi 
+      <lb ed="#V" n="62"/>nem vel conuenientiam: secundum quam aliquid commune vniuoce dicitur de deo  
+      <lb ed="#V" n="63"/>aliis: et secundum talem maiore vel minorem conuenientiam debet intelligi 
+      <lb ed="#V" n="64"/>maior et minor perfectio aliorum.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1471">
+      ⁋ hoc autem non impeditur propter in 
+      <lb ed="#V" n="65"/>finitatem dei: sicut esto quod esset vna albedo infinita intensiue: et 
+      <!--293.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 152-v b -->
+               <lb ed="#V" n="66"/>vna nigredo. 10 graduum: et similiter vna rubedo 10 graduum: 
+      <lb ed="#V" n="67"/>quamuis ia albedo excederet excessu graduali tam nigredinem 
+      <lb ed="#V" n="68"/>quam rubedinem datam infinite: nec vnam plus quam aliam. Adhuc tamen 
+      <lb ed="#V" n="69"/>maior esset conuenientia inter illam albedinem et rubedinem: quam in 
+      <lb ed="#V" n="70"/>ter albedinem et nigredinem. Et propter hoc posset dici quod ia albedo 
+      <lb ed="#V" n="71"/>magis appropinquret et minus distaret: et per hoc esset perfectior 
+      <lb ed="#V" n="72"/>quam nigredo data. Ad aliud quod additur dicendum quod quamuis mensu 
+      <lb ed="#V" n="73"/>ra que est per replicationem: vt vlna et vncia et alie quibus quanta 
+      <lb ed="#V" n="74"/>mensurantur sit quid minimum secundum quantitatem: ad bonum tamen 
+      intelle<lb ed="#V" n="75" break="no"/>ctum qui habetur 10 meta. mensura tamen secundum perfectionem qualis est  
+      <lb ed="#V" n="76"/>deus mensura aliorum entium) non oportet quod sit minimum secundum 
+      perfe<lb ed="#V" n="77" break="no"/>ctionem: vnde albedo que ponitur mensura in genere colorum 
+      <lb ed="#V" n="78"/>non est minima secundum perfectionem inter colores: sed primaxima: 
+      <lb ed="#V" n="79"/>sic in proposito. Et si argumentum valeret non solum probaret 
+      <lb ed="#V" n="80"/>deum esse non infinite perfectionis: quin immo quod esset minime 
+      im<lb ed="#V" n="81" break="no"/>ter cetera entia: quod absurdum est.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1517">
+      ⁋ Ad rationes principales 
+      <lb ed="#V" n="82"/>dico: quod maior illa est falsa: quoniam naturaliter est ponendum deum intelli 
+      <lb ed="#V" n="83"/>gere omnia alia a se: sicut supra monstratum est: et tamen dum a 
+      propos<lb ed="#V" n="84" break="no"/>to hanc materiam Arist. tractauit: oppositum sensit quamuis in hoc sibi 
+      <lb ed="#V" n="85"/>alibi contradixerit: vt supra. dis. 3o. patet: et sicut hec ita multa alia 
+      <lb ed="#V" n="86"/>sunt ponenda naturaliter loquendo de deo que ipse non posuit. 
+      <lb ed="#V" n="87"/>Unde potest dici quod talis argumentatio. hoc non posuit philosophus. ergo 
+      <lb ed="#V" n="88"/>non est ponendum: non est rotocinatiua neque demostratiua neque 
+      <lb ed="#V" n="89"/>probabilis: sed est tantum accusatio eius: quia hoc ponere debuit: sicut 
+      <lb ed="#V" n="90"/>contra negantes casum: per pea quia antiqui nihil sunt locuti de eo 
+      <lb ed="#V" n="91"/>dicit Comentator. 2o phy.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1541">
+      ⁋ Ratio Ansel. ad partem 
+      opposi<lb ed="#V" n="92" break="no"/>tam: quamuis verum concludat: non est tamen meo iudicio 
+      demonstrati<lb ed="#V" n="93" break="no"/>ua: sicut ipse putauit dicens in prologo suo supra prososibis. quod ipsa 
+      <lb ed="#V" n="94"/>nullo alio indiget ad se probandum. Unde primo ostendam: quod 
+      mo<lb ed="#V" n="95" break="no"/>dus arguendi non est efficax: deinde soluam rationem.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1552">
+      ⁋ Primum 
+      <lb ed="#V" n="96"/>patet: quia si ille modus arguendi esset bonus: similiter posset probari. quod 
+      <lb ed="#V" n="97"/>est aliqua albedo qua maius aliquid cogitari non potest: patet 
+      arguen<lb ed="#V" n="98" break="no"/>do in sua forma sic: albedo quae non potest aliquid maius cogitari 
+      <lb ed="#V" n="99"/>est in intellectu: et non in solo intellectu. ergo est in re. consequentia patet: vt 
+      <lb ed="#V" n="100"/>sua. Et prima pars antecedentis probatur: quia audiens hoc quod dico 
+      albe<lb ed="#V" n="101" break="no"/>do qua non potest aliquid maius cogitari: intelligit quod audit. et 
+      <lb ed="#V" n="102"/>quod intelligit est in intellectu eius etc. Et secunda et pars similiter sue 
+      pro<lb ed="#V" n="103" break="no"/>batur: quia si in solo intellectu potest cogitari esse in re quod maius est: et 
+      <lb ed="#V" n="104"/>sic albedinie qua maius cogitari non potest aliquid maius 
+      cogita<lb ed="#V" n="105" break="no"/>ri potest: et similiter cetere probationes sue possunt ad hoc applicari 
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1577">
+               <lb ed="#V" n="106"/>⁋ Rspono ergo ad rationem: sicut supra facta est: cum enim arguitur sic. 
+      <lb ed="#V" n="107"/>sequendo rationem naturalem est ponendum aliquid esse in rerum natura quae 
+      <lb ed="#V" n="108"/>maius non potest cogitari. ergo sequendo naturalem rationem ponendum 
+      <lb ed="#V" n="109"/>est aliquid infinite virtutis intensiue. Dico quod duplex potest esse 
+      <lb ed="#V" n="110"/>sensus antecedentis: vnus secundum quod ly. maius potest intelligi praecedere totum 
+      <lb ed="#V" n="111"/>illud: potest cogitari. Alius secundum quod potest sequi: et hoc bene differt: sicut patet 
+      <lb ed="#V" n="112"/>in exemplo: supposito quod impossibile sit aliquam esse formicam 
+      ma<lb ed="#V" n="113" break="no"/>iorem elephante: hec est vera nulla formica maior elephante 
+      <lb ed="#V" n="114"/>potest cogitari: patet quia sua contradictoria est falsa scilicet aliqua formica 
+      <lb ed="#V" n="115"/>maior elephante potest cogitari: nullam enim singularem habet veram: 
+      <lb ed="#V" n="116"/>sed quaelibet singularis est falsa propter falsam implicationem a parte 
+      <lb ed="#V" n="117"/>subiecti: siue demonstraretur formica existens: siue non existens.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1606">
+      ⁋ Et 
+      <lb ed="#V" n="118"/>tamen. si ly. maior postponatur sic: nulla formica potest cogitari 
+      <lb ed="#V" n="119"/>maior elephante. ipsa est falsa: nihil enim prohibet aliquam immo cer 
+      <lb ed="#V" n="120"/>te quamlibet formicam quemquam cogitare esse maiorem elephante. 
+      <lb ed="#V" n="121"/>Si aut antecedens sumatur primo modo. Dico quod philosophus et quilibet tenens aliquid 
+      <lb ed="#V" n="122"/>vnum perfectissimum in entibus: et illud esse non infinite virtutis inten 
+      <lb ed="#V" n="123"/>siue concederet: et antecedens et negaret consequentia: et propositionem assumptam ad 
+      <lb ed="#V" n="124"/>probationem consequent scilicet illam qualibet non infinite virtutis maius potest 
+      co<lb ed="#V" n="125" break="no"/>gitari) diceret esse falsam: quamuis concederet istam quolibet non 
+      <lb ed="#V" n="126"/>infinite virtutis aliquid potest cogitari esse maius) sed per istam non 
+      <lb ed="#V" n="127"/>probaretur consequentia vt patet. Si aut antecedens sumatur 2o modo antecedens vtique 
+      negan<lb ed="#V" n="128" break="no"/>dum est: diceret enim quod quaelibet existente: aut etiam possibili aut cogitabili 
+      <lb ed="#V" n="129"/>potest cogitari aliquid esse maius: seu vere seu false.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1635">
+      ⁋ Tunc ad  
+      <lb ed="#V" n="130"/>probationem Ansel. cum dicitur aliquid quo maius cogitari non potest est in 
+      <!--294.xml-->
+      <pb ed="#V" n="153-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>intellectu: et non solum in intellectu. ergo etiam in re. Patet. quia si 
+      de<lb ed="#V" n="2" break="no"/>beat esse ad propositum oportet quod ly maius intelligatur sequi ly potest cogita 
+      <lb ed="#V" n="3"/>ri: quia in illo sensu negaretur antecedens primum et tunc distinguo antecedens istius 
+      <lb ed="#V" n="4"/>consequentie Ansel. quoniam vel ipsum supponit materialiter vel significatiue et perso 
+      <lb ed="#V" n="5"/>naliter. Si primo modo et ipsum sit propositio quaedam vocalis conceo illud. et similiter 
+      <lb ed="#V" n="6"/>consequens si in ipso eodem modo supponat subiectum eius: sed tunc nihil ad 
+      pro<lb ed="#V" n="7" break="no"/>positum. Nam constat quod illa vox non est infinite virtutis. Sed si in 
+      <lb ed="#V" n="8"/>consequente subiectum supponat significatiue. patet quod consequentia ntia est: sicut et ista. hec 
+      <lb ed="#V" n="9"/>vox aliquid quod non est: est. ergo aliquid quod non est: est. nam antecedens est verum. 
+      <lb ed="#V" n="10"/>et consequens implicat contradictionem si subiectum supponat significatiue. Si 
+      <lb ed="#V" n="11"/>vero in illo antecedente subiectum supponat 2o o sic dictuo quod negandum esset quam 
+      <lb ed="#V" n="12"/>ad primam partem ab eo qui teneret nihil esse tale. Et cum probatur quod 
+      <lb ed="#V" n="13"/>audiens hoc: quod dcieo aliquid quo maius cogitari non potest intelligit quod 
+      <lb ed="#V" n="14"/>audit: et quod intelligit est in intellectum.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1677">
+      ⁋ Dico primo quod si inter has 
+      <lb ed="#V" n="15"/>duas propositiones hoc intelligitur. et hoc est in intellectu. fiat differentia sicu 
+      <lb ed="#V" n="16"/>videtur Ansel. facere contra insipi. Unde neganti hanc consequentiam. intel 
+      <lb ed="#V" n="17"/>ligitur. ergo est in intellectum. nititur illam probare. hec enim falsa est: omne quod 
+      <lb ed="#V" n="18"/>quis intelligit est in intellectu. Nam lapidem quis intelligit: et tamen 
+      <lb ed="#V" n="19"/>lapis non est in intellectum. nec probatio quam adducit Ansel. valet 
+      <lb ed="#V" n="20"/>ait enim quod sicut omne quod cogitatur: cogitatione cogitatur: et quod cogita 
+      <lb ed="#V" n="21"/>tur sicut cogitatur sic est in cogitatione: ita omne quod intelligitur in 
+      <lb ed="#V" n="22"/>intellectu intelligitur etc. Nam est hec assumpta. omne quod cogitatur est 
+      <lb ed="#V" n="23"/>in cogitatione est falsa. vt patet de lapide. non distinguendo autem 
+      <lb ed="#V" n="24"/>inter illas sicut et frequenter antiqui non distinguebant. Et cum 
+      <lb ed="#V" n="25"/>dicitur aliquid esse in intellectum. si pro eodem accipiatu. ac si dicatur quod 
+      <lb ed="#V" n="26"/>illud intelligitur: concedo propositionem: sed nihil ad propositum: quia audi 
+      <lb ed="#V" n="27"/>ens illam vtique intelligit illam: et illa intelligitur ab eo. Sed non 
+      <lb ed="#V" n="28"/>sequitur: hec vox: aliquid quo maius cogitari non potest intelligitur. 
+      <lb ed="#V" n="29"/>ergo aliquid quo maius cogitari non potest intelligit. si subiectum consequentis 
+      <lb ed="#V" n="30"/>supponat significatiue. Sicut etiam non sequitur hec vox. quod non potest co 
+      <lb ed="#V" n="31"/>gitari potest cogitari. ergo quod non potest cogitari potest cogitari. Nam 
+      <lb ed="#V" n="32"/>antecedens est verum. nam audiens hoc quod dico (quod non potest cogitari) 
+      co<lb ed="#V" n="33" break="no"/>gitat quod audit: et quod cogitat cogitatur. et tamen consequens implicat 
+      contradi<lb ed="#V" n="34" break="no"/>ctionem si subiectum supponat significatiue. Similiter audiens hanc 
+      vo<lb ed="#V" n="35" break="no"/>cem maius eo quae maius cogitari non potest) intelligit quod audit:  
+      <lb ed="#V" n="36"/>et illa vox intelligitur ab eo: et tamen non sequitur: hec vox maius 
+      <lb ed="#V" n="37"/>eo etc. intelligitur. ergo maius eo quo maius cogitari non potest 
+      intel<lb ed="#V" n="38" break="no"/>ligitur. Nam antecedens est verum: et consequens si subiectum supponat significatiue est 
+      <lb ed="#V" n="39"/>falsum etiam secundum Ansel. Nam ex ipso sequitur ex eo quod maius cogitari 
+      <lb ed="#V" n="40"/>non potest aliquid maius cogitari potest: quod ipse dicit esse impossibile in 
+      <lb ed="#V" n="41"/>prima probatione 2a partis antecedentis: et contra insipi.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1738">
+      ⁋ Et si dicatur: quod 
+      au<lb ed="#V" n="42" break="no"/>diens hanc vocem (aliquid quo maius cogitari non potest) si sit no 
+      <lb ed="#V" n="43"/>te lingue: non solum intelligit sicut vnam vocem non significatiuam: cum 
+      <lb ed="#V" n="44"/>in eius auribus formatur: sed intelligit quod ipsa significat. Unde et qui 
+      <lb ed="#V" n="45"/>hanc dicit esse veram: aliquid quo maius cogitari non potest est in re. et 
+      <lb ed="#V" n="46"/>qui eam dicit esse falsam intelligit quid significet ipsa proporitio. et per 
+      <lb ed="#V" n="47"/>consequens quid significet subiectum: et si sic. ergo illud quod per illam significatur 
+      in<lb ed="#V" n="48" break="no"/>telligitur: et per consequens hec est vera. aliquid quo maius cogitari non potest 
+      <lb ed="#V" n="49"/>intelligitur subiecto supponente significatiue.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1758">
+      ⁋ Rsponsio: et concedo quod i 
+      <lb ed="#V" n="50"/>lud quod significatur per illam propositionem intelligitur. sed nego vlteriorem 
+      <lb ed="#V" n="51"/>consequentiam. Et patet instantia quoniam etiam audiens hanc vocem: quod non potest 
+      co<lb ed="#V" n="52" break="no"/>gitari. aut hanc quod non potest intelligi intelligit quod ipsa significat: sicut 
+      <lb ed="#V" n="53"/>etiam intelligit hanc esse falsam: quod non potest cogitari potest cogitari. 
+      <lb ed="#V" n="54"/>Et illud quod per eam significatur intelligit ab eo. Et tamen non sequitur. ergo quod 
+      <lb ed="#V" n="55"/>non potest cogitari cogitatur: aut quod non potest intelligi intelligitur. 
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1775">
+               <lb ed="#V" n="56"/>⁋ Unde scientum est quod non omnis terminus potest pro eo supponere significa 
+      <lb ed="#V" n="57"/>tiue et personaliter quod ipsum significat: sicut patet de his terminis 
+      nihi<lb ed="#V" n="58" break="no"/>et non aliquid: quorum vterque significat omnem rem. et omne quod est. licet 
+      distru<lb ed="#V" n="59" break="no"/>ctiue non constructiue. vt ibidem Ansel. ait. de casu dyaboli. et 
+      <lb ed="#V" n="60"/>tamen neuter pro aliquo quod est personaliter supponere potest. ita est est de 
+      <lb ed="#V" n="61"/>istis termis incogitabile quod non potest cogitari: et multis aliis 
+      <lb ed="#V" n="62"/>et de hoc de quo agitur aliquid quo maius cogitari non potest) et per hoc 
+      <lb ed="#V" n="63"/>patet quod illa probatio prima illius primo partis antecedentis non valet. nec eta secunda¬. 
+      <lb ed="#V" n="64"/>quoniam dicens nullam rem esse. quae non posset cogitari maius. 
+      conceda<lb ed="#V" n="65" break="no"/>consequens pro illa parte. deus non est quo maius cogitari non potest: nec re¬ 
+      <!--294.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 153-r b -->
+               <lb ed="#V" n="66"/>putabit hoc falsum: si intelligitur ly maius sequi ly potest 
+      cogita<lb ed="#V" n="67" break="no"/>ri.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1810">
+      ⁋ Ad alias vero probationes Ansel. pro 2a parte antecedentis non 
+      <lb ed="#V" n="68"/>oportet respondere: quia omnes supponunt primam partem esse veram.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1815">
+      ⁋ Sed contra verum 
+      <lb ed="#V" n="69"/>iam dictum scilicet quod hec est falsa. maius eo cogitari potest quo non potest 
+      <lb ed="#V" n="70"/>aliquid maius cogitari. est opinio cuiusdam moderni tenentis quod 
+      <lb ed="#V" n="71"/>maius cogitari potest: quo nihil maius cogitari potest: quam probat 
+      <lb ed="#V" n="72"/>sic. maius deo potest cogitari: et nihil maius deo potest cogitari. ergo 
+      <lb ed="#V" n="73"/>maius potest cogitari quo nihil maius potest cogitari. consequentia patet. Et 
+      <lb ed="#V" n="74"/>probatur antecedens. Primo quo ad primam partem. quia quicumque cogitat de isto 
+      <lb ed="#V" n="75"/>maius deo non potest esse) verum cogitat: et intelligit. et per consequens 
+      <lb ed="#V" n="76"/>vererum cogitatur ab eo. Et sequitur. verum cogitatur ab eo. ergo maius deo 
+      <lb ed="#V" n="77"/>cogitatur ab eo: quia illud est maxia pars illius veri. ergo maius deo cogi 
+      <lb ed="#V" n="78"/>tari potest.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1839">
+      ⁋ 2a vero pars antecedentis probatur. quia ipsa est vna vniversalis cuius  
+      <lb ed="#V" n="79"/>quaelibet singularis est vera: patet discurrendo: quia nec hoc nec illud  
+      <lb ed="#V" n="80"/>quicumque demrato siue existente siue non: sed imaginato.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1846">
+      ⁋ hec 
+      di<lb ed="#V" n="81" break="no"/>cta videntur mihi falsa: et includere multipliciter repugnantiam. 
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1851">
+               <lb ed="#V" n="82"/>⁋ Unde primo arguo contra conclusionem. quia si maius deo potest cogitari etc. ergo  
+      <lb ed="#V" n="83"/>aliquo qui non potest maius cogitari potest maius cogitari. et vltra. 
+      <lb ed="#V" n="84"/>ergo vel isto quo non potest maius cogitari potest maius cogitari: 
+      <lb ed="#V" n="85"/>vel isto quo non potest etc. et sic per disiunctiuam discurrendo per 
+      sin<lb ed="#V" n="86" break="no"/>gularia quaelibet existentia vel non existentia: sed cogitabilia. Erit ergo 
+      ali<lb ed="#V" n="87" break="no"/>qua talis singularis vera. isto quo non potest maius cogitari potest 
+      <lb ed="#V" n="88"/>maius cogitari: sed manifestum est quod ex hoc sequitur ista copulatiua. 
+      <lb ed="#V" n="89"/>isto potest maius cogitari: et isto non potest maius cogitari: cuius 
+      par<lb ed="#V" n="90" break="no"/>tes eodem demonstrato indubitanter sunt contradictorie: eodem modo arguo 
+      <lb ed="#V" n="91"/>contra antecedens consequentie facte: quia si maius deo potest cogitari. ergo aliquid maius 
+      <lb ed="#V" n="92"/>deo potest cogitari: et nihil maius deo potest cogitari. et hanc 
+      <lb ed="#V" n="93"/>consequentiam concedit vt statim patebit.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1881">
+      ⁋ Sed vltra ex hoc infero. 
+      <lb ed="#V" n="94"/>ergo deo aliquid maius potest cogitari: et deo nihil maius potest 
+      co<lb ed="#V" n="95" break="no"/>gitari: patet: quia cum deus sit terminus simplex non refert vtrum 
+      <lb ed="#V" n="96"/>praeponatur aut postponatur comperatiuo. Et vltra. ergo deo potest ali 
+      <lb ed="#V" n="97"/>quid maius cogitari: et deo non potest aliquid maius cogitari: 
+      <lb ed="#V" n="98"/>quod consequens includit duas singulares vere contradictorias adinuicem. 
+      <lb ed="#V" n="99"/>Et consequentia patet. quia prima pars consequentis equiualiet in significando primao parti antecedent 
+      <lb ed="#V" n="100"/>et 2a secunde. et ex hoc est declaratur consequentia proxime facta. Nam sequitur. deo 
+      <lb ed="#V" n="101"/>non potest aliquid maius cogitari: et deo potest aliquid maius 
+      cogita<lb ed="#V" n="102" break="no"/>ri. ergo aliquo quo non post maius cogitari potest maius cogitari. 
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1903">
+               <lb ed="#V" n="103"/>⁋ Praeterea arguo sicut ipsemet arguit contra se. quia sequitur. maius deo 
+      <lb ed="#V" n="104"/>potest cogitari. ergo aliquid maius deo potest cogitari. consequentia patet. quia 
+      particula<lb ed="#V" n="105" break="no"/>ris et indefinita conuertuntur. cum ergo quicquid stat cum antecedente. stet cum consequente: 
+      <lb ed="#V" n="106"/>si ista. nihil maius deo potest cogitari. stat cum ista indefinita: 
+      <lb ed="#V" n="107"/>stabit est cum illa particulari: sed ista particularis. aliquid maius 
+      <lb ed="#V" n="108"/>deo potest cogitari: et ista vniversalis: nihil maius deo potest cogitari: 
+      <lb ed="#V" n="109"/>sunt contradictorie. ergo due contradictorie adinuicem erunt simul vere. 
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1921">
+               <lb ed="#V" n="110"/>⁋ Respondet ipse concedendo omnia quae dicta sunt: praeter id quod dicitur 
+      <lb ed="#V" n="111"/>quod ille sunt contradictorie. Unde dicit quod ad hoc quod alique due 
+      pro<lb ed="#V" n="112" break="no"/>positiones sint contradictorie. non sufficit quod vna sit vniversalis negatiuam 
+      <lb ed="#V" n="113"/>et alia particularis affirmatiua conuenientes in subiectis et 
+      prae<lb ed="#V" n="114" break="no"/>dicatis: sed vltra hocrequiritur quod per illam particularem affirmatiuam 
+      <lb ed="#V" n="115"/>denotetur aliquid esse in re. vel etiam quod ex illa sequatur aliquid esse. sic 
+      <lb ed="#V" n="116"/>autem non est in proposito. quia ita bene possunt cogitari ea qui non sunt nec 
+      <lb ed="#V" n="117"/>esse possunt: sicut illa quae sunt vel esse possunt.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1941">
+      ⁋ Ista responsio non valet. primo 
+      <lb ed="#V" n="118"/>quidem. quia si hec sit vera vt concedit. aliquod maius deo potest 
+      cogita<lb ed="#V" n="119" break="no"/>ri. ergo aliqua singularis eius. ergo aliquo existente vel non existente: sed 
+      <lb ed="#V" n="120"/>imaginato vel cogitabili demonstrato vna talis est vera. hoc ma 
+      <lb ed="#V" n="121"/>ius deo cogitari potest: sed secundum eum huius vniversalis. nihil maius deo potest co 
+      <lb ed="#V" n="122"/>gitari: quaelibet singularis est vera: quodcumque existens vel non existens: sed ima 
+      <lb ed="#V" n="123"/>ginatum demonstretur. ergo hec singularis negabilia est vera. hoc maius deo non 
+      <lb ed="#V" n="124"/>potest cogitari: eodem demonstrato: quod in affirmata demonstratur: et sic simul de 
+      <lb ed="#V" n="125"/>eodem idem vere affirmatur et negatur: quod est contra primo principium.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e1961">
+      ⁋ Confirmatur quia 
+      <lb ed="#V" n="126"/>cum ipsa sit particularis affirmata si sit vera subiectum pro aliquao determia 
+      <lb ed="#V" n="127"/>te supponit: et quicquid sit illud: siue existens siue cogitabtie tantum. vere 
+      <lb ed="#V" n="128"/>contingit dicere. hoc maius deo potest cogitari. 2o quia hoc quod dicitut scilicet il 
+      <lb ed="#V" n="129"/>las non esse contradictorias est expresse contra philosophum primo pyar. si attendatur 
+      il<lb ed="#V" n="130" break="no"/>le locus vbi ostendit philosophus quae propositioes sunt contradictorie et causam quam assi¬ 
+      <!--295.xml-->
+      <pb ed="#V" n="153-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>gnat nulla est: quia tunc nec iste essent contradictorie. nullum possibile est 
+      <lb ed="#V" n="2"/>impossibile. aliquod possibile est impossibile: quoniam ea quae nec sunt nec possunt esse sunt in 
+      <lb ed="#V" n="3"/>possibilia. et ideo quia eius ratio valet per istam particularem affirmitam non denotatur 
+      <lb ed="#V" n="4"/>nec ex ipsa setu aliquid esse: ne iste erunt propter eandem causam. nullum 
+      inco<lb ed="#V" n="5" break="no"/>gitabile cogitatur: aliquid incogitatie cogitatur. et eadem ratioe et prime due 
+      <lb ed="#V" n="6"/>et iste: et universaliter quacumque due propositioes: quarum scilicet vna vniversalis negabtilia est vera et 
+      <lb ed="#V" n="7"/>altera particularis affirmata conuenientes in subiectis et praedicatis in 
+      <lb ed="#V" n="8"/>ibus praedicetur aliquid quod posset verificari pro non ente possunt concedi esse 
+      <lb ed="#V" n="9"/>vere.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e2000">
+      ⁋ Deinde arguo contra probationem illius antecedentis. Nam per similem mo 
+      <lb ed="#V" n="10"/>dum probaretur quod non potens cogitari potest cogitari. quod 
+      manife<lb ed="#V" n="11" break="no"/>ste contradictionem includit. declaratur autem hoc. Nam quicumque cogitati 
+      <lb ed="#V" n="12"/>de isto. non potens cogitari non est lapis ipse verum cogitat. et 
+      in<lb ed="#V" n="13" break="no"/>telligit. et per consequens verum cogitatur ab eo. Et sequitur verum cogitatur. 
+      <lb ed="#V" n="14"/>ab eo. ergo non potens cogitari cogitatur ab eo. quia illud est max 
+      <lb ed="#V" n="15"/>pars illius veri. ergo non potens cogitari potest cogitari: totus 
+      proces<lb ed="#V" n="16" break="no"/>sus similis est suo.
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e2019">
+      ⁋ Ad rationem eius respondeo: et nego antecedens ratione prim 
+      <lb ed="#V" n="17"/>partis. si subiectum supponat personaliter: sict oportet vt arguatur ad propositum 
+      <lb ed="#V" n="18"/>et ita est videtur eo vti arguens cum concedat consequentiam inter illam 
+      inde<lb ed="#V" n="19" break="no"/>finitam et particularem: quod verum non esset si subiectum indefinite non super 
+      <lb ed="#V" n="20"/>poneret personaliter. Ad probationem concedo quod qui cogitat de isto 
+      <lb ed="#V" n="21"/>maius deo non potest esse) verum cogitat: et verum cogitatur ab eo. 
+      <lb ed="#V" n="22"/>Sed cum vlterius infertur. ergo maius deo cogitatur ab eo. si in isto 
+      <lb ed="#V" n="23"/>consequente subiectum suppionat materialiter concedo consequens sed nihil ad propositum Si 
+      <lb ed="#V" n="24"/>vero personaliter nego consequentiam. Et ad probationem qua dicitur quod maius deo 
+      <lb ed="#V" n="25"/>est maxima pars illius veri. dico est quod est falsa. si subiectum 
+      suppo<lb ed="#V" n="26" break="no"/>nat personaliter. et hoc qualitercumque accipiatur verum: cum dicitur quod verum 
+      <lb ed="#V" n="27"/>cogitatur ab eo. Nam si accipiatur pro ipsa enuciatione vera. hac scilicet 
+      <lb ed="#V" n="28"/>maius deo non potest esse) patet quod ista est falsa. maius deo. est pars 
+      <lb ed="#V" n="29"/>enunciationis huius maius deo non potest esse. Si vero accipiatur verum 4a 
+      <lb ed="#V" n="30"/>vero enunciabili seu significato illius enunciationis vere. quamuis aliqui 
+      <lb ed="#V" n="31"/>modo licet improprie posset concedi quod significatum per subiectum sit pars signi 
+      <lb ed="#V" n="32"/>ficati totalis: et et aliqua modo cogitatum. Dico quod pro illo significato 
+      <lb ed="#V" n="33"/>partiali nec pro aliquo alio supponit in ista. maius deo non potest 
+      <lb ed="#V" n="34"/>esse: nec oportet quod pro aliquo supponat. cum ipsa sit negabila sicut in 
+      <lb ed="#V" n="35"/>ista quae vtique vera est quod non potest cogitari non potest cogitari: subiectum 
+      <lb ed="#V" n="36"/>purod nullo supponit. Quecumque conr hunc doctorem dicta sunt 
+      proce<lb ed="#V" n="37" break="no"/>dunt intelligendo quod ly maius praecedat ly cogitari: quo est ipse 
+      <lb ed="#V" n="38"/>videtur semper accipere. Si aut intelligeretur sequi vt esset sensus sue 
+      <lb ed="#V" n="39"/>conclusionis quod aliquid potest cogitari aliquo maius quo nihil potest co 
+      <lb ed="#V" n="40"/>gitari maius. adhuc conclusio esset falsa: et per easdem rationes reprobatur. 
+    </p>
+            <p xml:id="grvnZZ-ed1e95-d1e2074">
+               <lb ed="#V" n="41"/>⁋ Sed tunc respondem modo ad rationem suam neganda esset 2a pars antecedentis. Nam 
+      <lb ed="#V" n="42"/>illius vniversalis multe singulares essent false: sicut libet false quis 
+      <lb ed="#V" n="43"/>multa singularia posset cogitare deo esse maiora. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

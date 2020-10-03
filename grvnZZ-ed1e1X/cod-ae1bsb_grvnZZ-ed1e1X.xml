@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#Rimini">Gregory of Rimini</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2020-10-03">October 03, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-ae1bsb">Venice 1503</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-03" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="159-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="grvnZZ-ed1e1X"><!-- l1d45q1 -->
+            <head xml:id="grvnZZ-ed1e1X-Hd1e106">Quaestio 1</head>
+            <head xml:id="grvnZZ-ed1e1X-Hd1e109" type="question-title">Utrum voluntas dei sit omnium, quae fiunt, prima efficiens causa</head>
+            <p xml:id="grvnZZ-ed1e1X-d1e112">
+      <!-- beginning of question missing because 158v and 159r seem missing -->
+      <!--305.xml-->
+               <pb ed="#V" n="159-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>mediate. omnia autem que deus fecit: voluntate vtique fecit:  
+      <lb ed="#V" n="2"/>vt dicit Aug. ad Orosium contra Priscilianistas. Item quia 
+      <lb ed="#V" n="3"/>deus est sua voluntas omni modo quo est deus cuius ipse est 
+      <lb ed="#V" n="4"/>causa et voluntas est est causa.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e132">
+      ⁋ Confirmatur: quia quod fit: vel fiu 
+      <lb ed="#V" n="5"/>immediate a deo: vel ab aliquo quod immediate vel mediate est 
+      <lb ed="#V" n="6"/>factum a deo: alioquin aliquid esset quod nec esset deus nec a deo 
+      <lb ed="#V" n="7"/>factum: quod est contra <ref xml:id="grvnZZ-ed1e1X-Rd1e140">Aug. primo de tri.</ref> vbi sententialiter per talem consequentia 
+      pro<lb ed="#V" n="8" break="no"/>bat filium dei esse deum: filius dei non est factus: quia omnia quae fcausa 
+      <lb ed="#V" n="9"/>sunt: per ipsum facta sunt. Si autem non est factus: non est creatura. 
+      <lb ed="#V" n="10"/>si autem non est creatura est eiusdem substantie cum patre.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e151">
+      ⁋ Item 
+      <lb ed="#V" n="11"/>format aliam ex opposito consequentis prime consequentie. si filius inquit non 
+      <lb ed="#V" n="12"/>est eiusdem substantie cuius est pater. ergo facta substantia est: neutra autem 
+      <lb ed="#V" n="13"/>consequentia vllius esset momenti contra eum qui opinaretur filium non 
+      <lb ed="#V" n="14"/>esse factum: et tamen in substantia a deo patre diuersum: si aliqua 
+      <lb ed="#V" n="15"/>alia res a deo esset non facta. nam pariter de filio sicut de il 
+      <lb ed="#V" n="16"/>la dici posset: et ideo ibi Aug. dicit vniversaliter quod omnis substantia quae deus 
+      <lb ed="#V" n="17"/>non est: creatura est: et quae creatura non est: deus est.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e170">
+      ⁋ Pro hac 
+      con<lb ed="#V" n="18" break="no"/>clusione sunt auctoritates Aug. plures allegate in hac di 
+      <lb ed="#V" n="19"/>stinctione a Magistro.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e177">
+      ⁋ 2am conclusionem probo expressa 
+      de<lb ed="#V" n="20" break="no"/>terminatione Aug. 7. super Gen. ad litteram. vbi opinionem opi 
+      <lb ed="#V" n="21"/>positam recitat. Et ex auctoritate scripture reprobat sic. 
+      <lb ed="#V" n="22"/>di. Sunt enim qui arbitrantur tantummodo mundum ipsum factum 
+      <lb ed="#V" n="23"/>a deo: cetera iam fieri ab ipso mundo: sicut ille ordinauit et 
+      <lb ed="#V" n="24"/>iussit. deum autem ipsum nihil operari. hec est opinio quae vt patet non 
+      ne<lb ed="#V" n="25" break="no"/>gat: sed affirmat deum esse mediate causam eorum qua nunc fiunt in 
+      <lb ed="#V" n="26"/>mundo. iuxta vnum sensum praemissum de causa mediata: sed so 
+      <lb ed="#V" n="27"/>lum negat ipsum immediate talia nunc operari seu facere: hanc 
+      <lb ed="#V" n="28"/>autem mox reprobans subdit. Contra quos profertur illa sententia 
+      <lb ed="#V" n="29"/>domini. pater vsque nunc operatur. Et ne quis putaret apud se 
+      <lb ed="#V" n="30"/>illum operari: sed operari non in hoc mundo. pater in me 
+      <lb ed="#V" n="31"/>manens inquit ipse facit opora sua: et sicut paiter suscitat mortuos 
+      <lb ed="#V" n="32"/>et viuificat: sic et filius quos vult viuificat. Denique quia non 
+      <lb ed="#V" n="33"/>solum magna atque praecipua: verum etiam ista terrena et extrema 
+      <lb ed="#V" n="34"/>ipse operatur. Ita dicit apostolus. stulte tum quod seminas non 
+      viui<lb ed="#V" n="35" break="no"/>ficatur: nisi pus moriatur: et quod seminas non corpus quod 
+      futu<lb ed="#V" n="36" break="no"/>rum est seminas: sed nudum granum forte tritici aut alicuius cen 
+      <lb ed="#V" n="37"/>terorum: deus autem dat illi corpus quomodo voluerit et 
+      vni<lb ed="#V" n="38" break="no"/>tuique seminum proprium corpus. Et scribuntur hoc verba ad Cortuis. 
+      <lb ed="#V" n="39"/>prime.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e223">
+      ⁋ Item eodem libro Non solum inquit tunc deus 
+      planta<lb ed="#V" n="40" break="no"/>uit paradisum: sed etiam nunc omnia qui nascuntur. quis enim alius 
+      <lb ed="#V" n="41"/>etiam nunc ista creat: nisi qui vsque nunc operatur: sed creat hoc 
+      mo<lb ed="#V" n="42" break="no"/>do ex his quae iam sunt: tunc autem ab illo cum omnino nulla essent 
+      <lb ed="#V" n="43"/>creata sunt.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e234">
+      ⁋ Item. Quid enim quod post pluuiam exoritur ab aliquo 
+      <lb ed="#V" n="44"/>fit nisi ab eodem deo. Et infra dicit quod in principio fecit hec deus po 
+      <lb ed="#V" n="45"/>tentia verbi sui sine pluuia sine humano opere. nam eta nunc ipse 
+      <lb ed="#V" n="46"/>facit: sed iam per pluuiam et hominum manus: quamuis neque qui 
+      plan<lb ed="#V" n="47" break="no"/>tat sit aliquid neque qui rigat: sed qui incrementum dat deus. 
+      <lb ed="#V" n="48"/>Ex quibus patet secundum sententiam Aug. expresse quod ad productionem 
+      cu<lb ed="#V" n="49" break="no"/>iuslibet talium deus immediate simul cum aliis causis secundis 
+      <lb ed="#V" n="50"/>et principalius quam ille concurrit: propter quam principalitatem dicit 
+      <lb ed="#V" n="51"/>aliquando ista non nisi a deo creari et fieri.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e254">
+      ⁋ Item ad conscer 
+      <lb ed="#V" n="52"/>tium. Quod queris inquit verum signum sigillatim a creatore deo 
+      <lb ed="#V" n="53"/>corporum liniamenta formentur non te mouebit si quantum potest 
+      <lb ed="#V" n="54"/>huana mens potentiam divine operationis intelligas: quo enim 
+      ne<lb ed="#V" n="55" break="no"/>gare poterimus deum etiam nunc operari cuncta quae creantur. cum 
+      <lb ed="#V" n="56"/>consequens dicat. Pater meus vsque nunc operatur. Et subdit mu 
+      <lb ed="#V" n="57"/>ta ad propositum directe ad intentionem istam. Item in libro de 
+      <lb ed="#V" n="58"/>cathetiçandis rudibus non longe ante finem. expresse dicit 
+      <lb ed="#V" n="59"/>deum immediate operari ad formationem humani corporis in 
+      <lb ed="#V" n="60"/>vtero matris et eius consequenter incrementum. Et idem iudicium 
+      <lb ed="#V" n="61"/>est de ceteri quae naturaliter fiunt. Ait enim sic. Ubi erat ista moles 
+      <lb ed="#V" n="62"/>corporis tui et ista forma membrorumque compago ante paucos 
+      <lb ed="#V" n="63"/>annos prius quam natus: vel etiam prius: quam in matris vtero 
+      conce<lb ed="#V" n="64" break="no"/>ptus esses: vbi erat hoc moles et hoc statura corporis tui: non 
+      <lb ed="#V" n="65"/>ne de occultis huius creature secretis domino deo inuisi 
+      <!--305.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 159-v b -->
+               <lb ed="#V" n="66"/>biliter formante processit in lucem. certisque etatum incrementis 
+      <lb ed="#V" n="67"/>in istam magnitudinem formamque surrexit:
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e298">
+      ⁋ Item 6o super Gen  
+      <lb ed="#V" n="68"/>et 3o libro contra Iulianum. Quis autem inquit christianus ignoret 
+      <lb ed="#V" n="69"/>quod ille qui primum hominem fecit ex puluere: omnes febricet ex 
+      <lb ed="#V" n="70"/>semine. Et eandem sententiam ponit libro 3o contra Maxi. circa 
+      fine<lb ed="#V" n="71" break="no"/>Etiam 2o Machabeorum. dicebat illa scam mater filiis suis:  
+      <lb ed="#V" n="72"/>nescio qualiter in vtero meo apparuistis. et sequitur. singulorum 
+      <lb ed="#V" n="73"/>membra non ego ipsa compegi: sed enim mundi creator qui 
+      forma<lb ed="#V" n="74" break="no"/>uit homnis natiuitatem. Et similiter Aug. contra Iulianum post 
+      <lb ed="#V" n="75"/>iam allegata verba mox subdit. Nec ipsi parentes possunt 
+      ho<lb ed="#V" n="76" break="no"/>minem facere: licet ex parentibus deus. Ex his patet manifeste 
+      <lb ed="#V" n="77"/>quod istorum omnium effectuum naturalium dei voluntas est causa: 
+      con<lb ed="#V" n="78" break="no"/>causantibus tamen simul ipsis virtutibus naturalibus rebus a deo 
+      <lb ed="#V" n="79"/>in ipsa institutione mundi tributis. Quia autem etiam omnium 
+      effe<lb ed="#V" n="80" break="no"/>ctuum voluntarie ipse sit causa idem expresse. dicens 83d. q. vbi ex. 
+      <lb ed="#V" n="81"/>hoc quod omne quidem fit in mundo est opus divine prouidentie: 
+      con<lb ed="#V" n="82" break="no"/>cludit quod quicquid in mundo gignitur sup. operum humanorum 
+      <lb ed="#V" n="83"/>partim diuinitus gignitur partim nostra voluntate. Et quia 
+      <lb ed="#V" n="84"/>prima pars huius dicti conclusa est ex prioribus continuo in sequen 
+      <lb ed="#V" n="85"/>tibus probat 2m. Et nec dubium quod non minus eorum qua ab 
+      ange<lb ed="#V" n="86" break="no"/>lis fiunt ipse est causa partialis immediate: cum non minus eorum 
+      <lb ed="#V" n="87"/>actiones et opoera ad prouidentiam diuinam pertineant. Ex his 
+      <lb ed="#V" n="88"/>autem potest sic ratio ad conclusionem formari. quaecumque fiunt voluntarie: vel 
+      <lb ed="#V" n="89"/>naturaliter immediate a deo fiunt. hoc patet ex dictis: sed quaecumque fiunt:  
+      <lb ed="#V" n="90"/>fiunt voluntarie vel naturaliter: vt patet. ergo etc. hec tota ratio potest 
+      ha<lb ed="#V" n="91" break="no"/>beri ab eodem Aug. super Gen. libro 8o vbi sententia eius est quod omnis est 
+      <lb ed="#V" n="92"/>operatio que est in mundo est naturalis vel voluntaria: et quaelibet 
+      <lb ed="#V" n="93"/>earum est operatio diuine prouidentie.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e358">
+      ⁋ 2o sic. omne quod est fa 
+      <lb ed="#V" n="94"/>ctum: deus immediate conseruat. ergo omne quod est factum: deus 
+      im<lb ed="#V" n="95" break="no"/>mediate de non esse ad esse produxit: et omne quod fit immediate 
+      <lb ed="#V" n="96"/>facit: antecedens patebit ex 3a conclusione probatur tamen ipsum: et etiam consequentia aucto. 
+      <lb ed="#V" n="97"/>etiam Sapientiae. dicente deo: quo posset aliquid permanere: nisi est 
+      <lb ed="#V" n="98"/>tu voluisses: aut quod a te vocatum non esset conseruaretur. Ex cuius 
+      <lb ed="#V" n="99"/>auctoritas prima parte si attente inspiciatur patet probari antecedens et consequentia ex 
+      <lb ed="#V" n="100"/>secunda.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e376">
+      ⁋ 3o probatur hec conclusio expresse ex dictis Ansel. de casu 
+      <lb ed="#V" n="101"/>hyaboli. vide ibi.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e381">
+      ⁋ 4o probatur ratione: quia omne quod fit ab 
+      ali<lb ed="#V" n="102" break="no"/>qua creatura plura alia similia in eade specie sunt periter 
+      possibi<lb ed="#V" n="103" break="no"/>lia ab illa fieri: patet. ergo omne quod fit a creatura: fit etiam a deo 
+      imme<lb ed="#V" n="104" break="no"/>diate concreante. patet consequentia supra distinctio 26. in secunda ratione conclusionis articuli 
+      <lb ed="#V" n="105"/>primi. Et vltra. ergo omnium quae fiunt deus est immediate causa 
+      effici<lb ed="#V" n="106" break="no"/>ens. Et consequentia patet: quia quaecumque fiunt: vel a deo fiunt vel a creatu 
+      <lb ed="#V" n="107"/>ra non distingo nunc vtrum vna vel pluribus.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e397">
+      ⁋ 3a conclusio probatur. 
+      <lb ed="#V" n="108"/>primo auctoritas Aug. 4. super Gen. ad litteram. vbi ait sic. Creatoris 
+      <lb ed="#V" n="109"/>namque potentia et omnipotentis atque omnitenentis virtus est 
+      <lb ed="#V" n="110"/>causa subsistendi omni creature: que virtus ab eis que 
+      crea<lb ed="#V" n="111" break="no"/>ta sunt regendi: si aliquando cessaret: simul et illorum 
+      cessa<lb ed="#V" n="112" break="no"/>ret species: omnisque natura concideret. non enim sicut structor edium 
+      <lb ed="#V" n="113"/>cum fabricauit abscedit: atque illo cessante et abscedente stat 
+      <lb ed="#V" n="114"/>opus eius: ita mundus vel ictu oculi stare poterit. Si enim deus 
+      <lb ed="#V" n="115"/>regnum sui subtraxerit per vim: et quod dominus ait. pa 
+      <lb ed="#V" n="116"/>ter meus vsque nunc operatur continuationem quandam 
+      <lb ed="#V" n="117"/>operis eius: que vniuersam creaturam continet admini 
+      <lb ed="#V" n="118"/>strat ostendit. Et consequenter ad huius probationem 
+      addu<lb ed="#V" n="119" break="no"/>cit auctoritas scripture que de sapientia increata ait. quod 
+      attin<lb ed="#V" n="120" break="no"/>git a fine vsque ad finem fortiter et disponit omnia 
+      suaui<lb ed="#V" n="121" break="no"/>ter. Item aliam apostoli. actuum. 17. In illo viuimus 
+      mo<lb ed="#V" n="122" break="no"/>uemur et sumus: quod verbum vt ait Aug. liquide cogitatum 
+      <lb ed="#V" n="123"/>quantum humana mens valet: adiuuat hanc sententiam que 
+      <lb ed="#V" n="124"/>credimus et dicimus deum in his que creauit 
+      indesinen<lb ed="#V" n="125" break="no"/>ter operari: neque enim tanquam substantia eius sic in illo sumus: 
+      <lb ed="#V" n="126"/>quemadmodum dictum est quod habeat vitam in sementipso: sed vtique cum 
+      <lb ed="#V" n="127"/>aliud sumus quam ipse non ob aliud in illo sumus: nisi quia id operatur: 
+      <lb ed="#V" n="128"/>et hoc est opus quo omnia continet. Et postea subdit. quod si tale 
+      <lb ed="#V" n="129"/>opus a rebus subtraxerit esse aliquid omnino desineret 
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e447">
+               <lb ed="#V" n="130"/>⁋ Item libro modo secundo dicit. quod si vere subtrabat deus inti 
+      <!--306.xml-->
+      <pb ed="#V" n="160-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>mam operationem qua eam substituit et facit continuo: tanquam 
+      <lb ed="#V" n="2"/>extincta nulla remanebit. Et sequenti capitulo. ait. quod deus 
+      <lb ed="#V" n="3"/>id quod fecit: ita continuatum operatur: vt nec vlla aliarum 
+      <lb ed="#V" n="4"/>rerum: nec illorum angelorum natura subsistat si non opi 
+      <lb ed="#V" n="5"/>retur. Item contra Iulianum libro 6o bonitas inquit 
+      ope<lb ed="#V" n="6" break="no"/>rationis diuine si subtrahatur formandis promouendisque 
+      <lb ed="#V" n="7"/>seminibus et viuifi andis quibuscumque viuentibus: non so 
+      <lb ed="#V" n="8"/>lum gignenda non aguntur: sed ad nihilum penitus etiam 
+      <lb ed="#V" n="9"/>genita rediguntur. Et per hanc auctoritatem probatur etiam 
+      <lb ed="#V" n="10"/>precedens conclusio. Plures etiam auctoritas sanctorum possent ad  
+      <lb ed="#V" n="11"/>duci: sed iste sufficiant. ex qubus manifeste patet quod omnem rem 
+      <lb ed="#V" n="12"/>quecumque sit illa deus conseruat et continuat in esse: quam cont 
+      <lb ed="#V" n="13"/>nuationem vel conseruationem scriptura vocat intimam operatio 
+      <lb ed="#V" n="14"/>nem et factionem. Et ideo deus secundum hunc sensum dicitur quamcumque rem 
+      <lb ed="#V" n="15"/>quandiu est operari et facere.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e491">
+      ⁋ 2o idem euidenter probatur auct 
+      <lb ed="#V" n="16"/>dapiem. inducta in ratione 2a pro conclusione praecedenti: et similiter per 
+      apo<lb ed="#V" n="17" break="no"/>stolum dicentem de christo ad Comli. omnia per ipsum et in ipso creata 
+      <lb ed="#V" n="18"/>sunt. Et sequitur quod omnia in ipso constant: glosa. qui in omnibus 
+      <lb ed="#V" n="19"/>secundum diuinitatem infusus omnia sustinet.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e503">
+      ⁋ Item ad hebre. 
+      <lb ed="#V" n="20"/>de eodem scribitur. portans omnia verbo virtutis sue (vbi glo 
+      <lb ed="#V" n="21"/>sa) sicut ab eo creata sunt omnia ita per eum immutabile con 
+      <lb ed="#V" n="22"/>seruantur.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e512">
+      ⁋ Probatur 3o ratione: quia si aliqua res esset que non 
+      in<lb ed="#V" n="23" break="no"/>mediate conseruaret a deo: vel illa a nullo dependeret in 
+      <lb ed="#V" n="24"/>esse: et per hoc a deo annihilari non posset: quod est erroneum. 
+      <lb ed="#V" n="25"/>vel dependeret a sola creatura et ab ea sola conmsnuaretur: et tunc 
+      <lb ed="#V" n="26"/>illa vel consuaret naturaliter vel libere: si naturaliter non posset i 
+      <lb ed="#V" n="27"/>la res quam confuat per aliquam potentiam annihilari vel desine 
+      <lb ed="#V" n="28"/>re esse: remanente ea quae sola hanc naturaliter confuat: quod etm es 
+      <lb ed="#V" n="29"/>roneum est: et satis declaratur ex eo quod inter omnes res creatas 
+      li<lb ed="#V" n="30" break="no"/>men in aere a sole diffusum maxime videtur a sole dependere 
+      <lb ed="#V" n="31"/>in esse et ab eo conseuari: et tamen in hora mortis christi remanente 
+      <lb ed="#V" n="32"/>sole tenebre facte sunt super vniuersam terram: quod non 
+      fui<lb ed="#V" n="33" break="no"/>set possibile si lumen a sole tantum et non a deo immediate pri 
+      <lb ed="#V" n="34"/>us fuisset conseuatum. Si vero dicatur quod illa creatura coneseuans 
+      <lb ed="#V" n="35"/>libere conseruet: sequitur quod deus non poterit illam annihilare 
+      <lb ed="#V" n="36"/>remanente creatura confuante et consruare volente: quod est erro 
+      <lb ed="#V" n="37"/>neum est. sic enim potentior in aliquo esset creatura quam deus: et 
+      vo<lb ed="#V" n="38" break="no"/>luntate creature omnipotentis voluntatis impediretur effi 
+      <lb ed="#V" n="39"/>ctus: quod est erro neum secundum Augu. in ench.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e551">
+      ⁋ 4a conclusio. valet 
+      <lb ed="#V" n="40"/>quod quorumcunque deus est causa: est prima causa simpliciter: satis 
+      <lb ed="#V" n="41"/>patet: quia deus a nullo effici aut moueri aliquo modo potest: quorum 
+      <lb ed="#V" n="42"/>alterum sequeretur: si modo aliquo haberet causam efficientem.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e560">
+      ⁋ Ao 
+      <lb ed="#V" n="43"/>hoc etiam est auctoritas Augu. primo libro de generatione. contra Mggstr 
+      <lb ed="#V" n="44"/>nicheos. iuxta principium. vbi ait. quod voluntas dei omnium eugt 
+      <lb ed="#V" n="45"/>sunt causa est. Si autem habet causam voluntas dei. est aliquid quod 
+      <lb ed="#V" n="46"/>antecedit voluntatem dei: quod nephas est credere. Et ponitur hoc 
+      <lb ed="#V" n="47"/>auctoritas in praesenti distinctione prolixe a magistro.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e573">
+      ⁋ 5a conclum 
+      <lb ed="#V" n="48"/>sio. valet. quod non omnium que fiunt deus solus est causa 
+      imme<lb ed="#V" n="49" break="no"/>diat est producens: nec est omnium quae facta sunt solus est causa 
+      in<lb ed="#V" n="50" break="no"/>mediate conseruans. Prima pars huius conclusionis probatur. 
+      <lb ed="#V" n="51"/>qui si solus immediate produceret omnia que fiunt: nulla 
+      creatu<lb ed="#V" n="52" break="no"/>ra immediate aliquid produceret: et si sic. ergo nullo modo: pri 
+      <lb ed="#V" n="53"/>ma consequentia patet. Et secunda probatur: quia si aliquo modo a non 
+      <lb ed="#V" n="54"/>immediate. ergo mediate: aut grgo mediante creatura: et tunc 
+      ni<lb ed="#V" n="55" break="no"/>hil immediate ageret: quod repugnat antecedenti: vel mediate: 
+      <lb ed="#V" n="56"/>et tunc vel mediante alia creatura: vel immediate: et sic in in 
+      <lb ed="#V" n="57"/>finitum: aut mediante deo: et tunc deus erit instrumentum 
+      <lb ed="#V" n="58"/>creature in agendo a non prima causa: quod est impossibile et 
+      repro<lb ed="#V" n="59" break="no"/>batum in praecedeti conclusione. sequitur ergo quod creatura nihil omnins 
+      <lb ed="#V" n="60"/>produceret: sed hoc contra experientiam est: nam videmus quod ad 
+      <lb ed="#V" n="61"/>multarum rerum praesentiam multe res in aliis generantur: sicut 
+      <lb ed="#V" n="62"/>ad praesentiam solis lumen in aere: et ad praesentiam ignis calor in 
+      <lb ed="#V" n="63"/>susceptibili proximo: et hoc semper contingit nisi esset impe 
+      <lb ed="#V" n="64"/>dimetum: quod non esset nisi talia huiusmodi res causarent.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e612">
+      ⁋ Ad 
+      ho<lb ed="#V" n="65" break="no"/>etiam est auctoritas scripture in Gen. ex qua patet deum rebus 
+      <!--306.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 160-r b -->
+               <lb ed="#V" n="66"/>creatis virtutes productiuas et vires causales indidisse: quin 
+      <lb ed="#V" n="67"/>bus in tempore congruos effectus producuntur: et idem patet per Aug. expo 
+      <lb ed="#V" n="68"/>nentem: qui inter cetera propositum affirmantia. ait. super Gen. libro 8o  
+      <lb ed="#V" n="69"/>quod in prima creatione terra producendi virtutem latenter acceparat: 
+      <lb ed="#V" n="70"/>qua virtute fit vt etiam nunc talia terra progignat. Item Salua. 
+      <lb ed="#V" n="71"/>in Euange. Luc. dicit quod arbores producunt ex se fructum quae 
+      <lb ed="#V" n="72"/>oinia vera non essent: si omnium quae fiunt solus deus esset causa efficiens. 
+      <lb ed="#V" n="73"/> 2o probatur auctoritate <ref xml:id="grvnZZ-ed1e1X-Rd1e640">Aug. 7. de ci. dei.</ref> dicentis sic. <quote xml:id="grvnZZ-ed1e1X-Qd1e643" source="http://scta.info/resource/adcd-l7-d1e1087" synch="304-317">Itaque deus 
+        <lb ed="#V" n="74"/>administrat omnia quae creauit: vt etiam ipsa proprios exercere 
+        <lb ed="#V" n="75"/>et agere motus sinat</quote>. Ex quibus patet quod nec solus deus nec 
+      so<lb ed="#V" n="76" break="no"/>la creatura agat ista quae fiunt. Secunda quoque pars conclusionis patet ad  
+      <lb ed="#V" n="77"/>sensum. videmus enim quod lumen causatum a sole vel alio corpore 
+      <lb ed="#V" n="78"/>luminoso confuatur ab illo: vnde illo deficiente vel absente de 
+      <lb ed="#V" n="79"/>ficit esse lumen: ita est est de pluribus aliis rebus.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e661">
+      ⁋ Contra istam 
+      <lb ed="#V" n="80"/>conclusionem potest argui. Et primo contra primam partem. primo quidem: quia sequitur quod 
+      <lb ed="#V" n="81"/>idem effcus esset a duobus agentibus: quod Commentator. 7. meta. dicens esse 
+      im<lb ed="#V" n="82" break="no"/>possibile.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e670">
+      ⁋ 2o quia tunc deus et creatura: non haberent aliquem 
+      <lb ed="#V" n="83"/>ordinem in productione creature: et per consequens casualiter ad 
+      producen<lb ed="#V" n="84" break="no"/>dum concurrerent.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e677">
+      ⁋ 3o quia si tam deus quam creatura producerent 
+      ali<lb ed="#V" n="85" break="no"/>quam qualitatem. vbi grati calorem: illa alteratio est velocior quam si 
+      fi<lb ed="#V" n="86" break="no"/>ret ab altero illorum tantum: et ita sequitur quod si agens naturale duplum 
+      <lb ed="#V" n="87"/>ad primum produceret talem calorem: proportio motus ad motum 
+      <lb ed="#V" n="88"/>in velocitate non esset secundum proportionem illorum agentium naturalium: quia 
+      <lb ed="#V" n="89"/>neutrum est totale ratione cuius est velocitas in alteratione. consequens aut 
+      <lb ed="#V" n="90"/>est contra. P. in multis locis.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e693">
+      ⁋ Deinde potest argui contra secundam 
+      <lb ed="#V" n="91"/>partem: quia si sic vtrumque immediate consnuaret: et per consequens actio 
+      vni<lb ed="#V" n="92" break="no"/>non dependeret ab actione alterius tamquam a causa: et ita sequitur quod 
+      <lb ed="#V" n="93"/>posito: quod actio dei consseuantis maneret agente naturali non conseuan 
+      <lb ed="#V" n="94"/>te: adhuc res talis maneret: quia consnnuaretur a deo: consequens est 
+      impos<lb ed="#V" n="95" break="no"/>sibile: quia si maneret absque consuante naturali: per illam solam 
+      actio<lb ed="#V" n="96" break="no"/>nem dei consqeuatiuam qua prius conseuabatur: sequitur quod agens naturale ni 
+      <lb ed="#V" n="97"/>hil agebat prius ad eius conqeuationem: quia eo amoto ceteris vt 
+      <lb ed="#V" n="98"/>prius vniformiter ominquaque manentibus: nihil minus res illa con 
+      <lb ed="#V" n="99"/>seruatur. Et eadem virtute argui potest contra primam conclusionis partem. valet. 
+      <lb ed="#V" n="100"/>quod posita sola productione dei: naturali agente non producente: adhuc 
+      <lb ed="#V" n="101"/>ille effectus produceretur: et per consequens nihil agit ad ipsum agens naturale. 
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e719">
+               <lb ed="#V" n="102"/>⁋ Ad primum concedo quod idem effectus potest esse a diuersis 
+      agen<lb ed="#V" n="103" break="no"/>tibus: maxime si sint diuersarum rationum agentia atque partialia 
+      <lb ed="#V" n="104"/>sicut in proposito patet in aliis: quoniam eadem species caloris in 
+      me<lb ed="#V" n="105" break="no"/>dio vel organo sensus causatur immediate ab obiecto a a luce: 
+      si<lb ed="#V" n="106" break="no"/>militer et eadem visio ab obiecto a a luce causatur et multa alia 
+      exen<lb ed="#V" n="107" break="no"/>pla possent tam philosophice quam theologice dari: propter quod dictum 
+      <lb ed="#V" n="108"/>Commentatoris. in hoc nullius debet esse auctoritas nec certe est in proposito 
+      <lb ed="#V" n="109"/>de quo loquitur si bene attendetur.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e739">
+      ⁋ Ad 2m dico quod si intelligat 
+      <lb ed="#V" n="110"/>de ordine causalitatis mutue: ita quod vna agat mediante alia 
+      <lb ed="#V" n="111"/>per modum supra dictum sine ordine concurrunt: nec tamen a 
+      ca<lb ed="#V" n="112" break="no"/>su sicut vlterius infertur: quin immo secundum ordinem diuine 
+      prouiden<lb ed="#V" n="113" break="no"/>tie quae ab eterno statuit: vt approximatis rebus: quibus 
+      indi<lb ed="#V" n="114" break="no"/>turus erat causales virtutes aliis quas facturus erat 
+      ho<lb ed="#V" n="115" break="no"/>rum effectuum susceptiuas ipse ad coagendum concurreret. 
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e756">
+               <lb ed="#V" n="116"/>⁋ Ad 3m cum dicitur quod alteratio facta a deo et creatura: est ve 
+      <lb ed="#V" n="117"/>locior quam si fieret ab altero tantum: dico quod vel intelligitur ab ali 
+      <lb ed="#V" n="118"/>tero id est creatura tantum: et sic propositio implicat impossibile: quoniam 
+      <lb ed="#V" n="119"/>impossibile est solam creaturam aliquid agere: vel intelligitur ab 
+      al<lb ed="#V" n="120" break="no"/>tero id est a deo: et tunc dico quod hoc potest intelligi dupliciter. Uno 
+      <lb ed="#V" n="121"/>supposito quod non aliter ageret quam agit simul cum creatura: et sic 
+      <lb ed="#V" n="122"/>etiam implicat impossibile. Nam eo modo agendi quo partialiter simul 
+      <lb ed="#V" n="123"/>agit cum creatura: non est impossibile eum agere sine ea. Et per hoc 
+      <lb ed="#V" n="124"/>etiam patet solutio ad illud quod vltimo tangebatur in sequenti 
+      arti<lb ed="#V" n="125" break="no"/>culo. si autem non sic intelligatur sed absolute: sicut deo placeret 
+      <lb ed="#V" n="126"/>agere: cum posset equae velociter et velocius et minus velociter 
+      <lb ed="#V" n="127"/>patet quod consequentia non est necessaria: quia tamen sine assumptionem illius consequentie 
+      ar<lb ed="#V" n="128" break="no"/>gumentum sequens retinet suam difficultatem: dico quod licem 
+      ali<lb ed="#V" n="129" break="no"/>ud agens naturale duplum ad illud naturale praecise: non sit duplum 
+      <lb ed="#V" n="130"/>ad totale agens date alterationis: adhuc stabit proporme velo¬ 
+      <!--307.xml-->
+      <pb ed="#V" n="160-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>citatis motuum secundum proportionem agentium naturalium: quoniam sicut 
+      <lb ed="#V" n="2"/>nec primum agens naturale est totale: sed tantum partiale agens 
+      al<lb ed="#V" n="3" break="no"/>terationis sue: sic nec duplum erit totale: sed etiam partiale: et 
+      <lb ed="#V" n="4"/>cum eo deus qui libere communicat: coaget sic proportionaliter quod in 
+      du<lb ed="#V" n="5" break="no"/>plo velocior fiet alteratio.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e808">
+      ⁋ Ad argumentum contra 2am partem conclusionis. 
+      <lb ed="#V" n="6"/>dico quod quamuis deus possit absque naturali agente comsnuare: non tamen 
+      <lb ed="#V" n="7"/>illo modo conseuandi quo partialiter cum illo conseuat. est enim alius 
+      mo<lb ed="#V" n="8" break="no"/>dus conseruandi ab eo qui se solo coneuat: et similiter a modo 
+      conserua<lb ed="#V" n="9" break="no"/>tionis creature secum partialiter conseuantis. Et ideo aliquo modo 
+      <lb ed="#V" n="10"/>potest dici quod actio vtriusque pendet ab altero: ita scilicet intelligen 
+      <lb ed="#V" n="11"/>do quod neutra sine altera consseuaret. Et propterea cum dicitur posito 
+      <lb ed="#V" n="12"/>quod actio dei conseruantis maneret agete non conseruante 
+      im<lb ed="#V" n="13" break="no"/>plicat impossibile. Nam neutra illarum ab altera potest separari: 
+      <lb ed="#V" n="14"/>et similiter dico de productione vtriusque: quod neutra ab altera 
+      sepa<lb ed="#V" n="15" break="no"/>rari potest: et vtralibet remota remouetur reliqua: hoc est si 
+      crea<lb ed="#V" n="16" break="no"/>tura non ageret: non ageret deus: et si deus non ageret: non age 
+      <lb ed="#V" n="17"/>ret creatura: quapropter non sequitur quod creatura non agit: nec 
+      <lb ed="#V" n="18"/>quod non conseruat sicut vlterius inferebatur.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e839">
+      ⁋ 5a conclusio etiam certa 
+      <lb ed="#V" n="19"/>est: et patet manifeste ex auctoritate praeallegata scripture Sapientie. xiso: 
+      <lb ed="#V" n="20"/>quatem in psalis omnia quecumque voluit fecit. Et apostolus ad Eph. dicit 
+      <lb ed="#V" n="21"/>quod deus omnia operat secundum consilium voluntatis sue. Et Aug. in 
+      <lb ed="#V" n="22"/>ench. dicit. quod deus non nisi volens quicquam facit. ergo libere et con 
+      <lb ed="#V" n="23"/>tingenter. Ratione potest argui: quia si aliquid necessario faceret vel con 
+      <lb ed="#V" n="24"/>seruaret: aliud quam deus esset necesse esse et non posset non esse: quod 
+      <lb ed="#V" n="25"/>est erroneum: consequentia patet: quia deus est necesse esse: et non potest non esse. 
+      <lb ed="#V" n="26"/>ergo et omne cui necessario dat esse et hec sufficiant pro ista conclusionem 
+      <lb ed="#V" n="27"/>qui ipsa communiter ab omnibus catholicis conceditur.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e861">
+      ⁋ 5a conclusio probatur 
+      <lb ed="#V" n="28"/>sic. ipossibile est deum velle aliquid facere et non facere illud:  
+      <lb ed="#V" n="29"/>et quicquid deus facit contingeter facit: seu potest non facere. 
+      <lb ed="#V" n="30"/>rgo quaecumque deus facit contingenter vult facere. antecedens quo ad secundam 
+      <lb ed="#V" n="31"/>partem patet ex praecedenti conclusione: quo ad primam partem probatur: quia 
+      alio<lb ed="#V" n="32" break="no"/>quin voluntas dei non esset omimpotens et inuincibilis et inexple 
+      <lb ed="#V" n="33"/>bilis: quod est erroneum: consequentia vero probatur: quia ex opposito 
+      con<lb ed="#V" n="34" break="no"/>sequentis scilicet quod aliqua que deus facit non contingenter vult i 
+      <lb ed="#V" n="35"/>la facere: sequitur ergo non potest non velle illa facere: et tunc quero: 
+      <lb ed="#V" n="36"/>an sit possibile ipsum non facere illa aut non: Si non est 
+      pos<lb ed="#V" n="37" break="no"/>sibile deum non facere illa. ergo non quicquid deus facit contingen 
+      <lb ed="#V" n="38"/>ter facit: quod repugnat secunde parti antecedentis. Si autem est 
+      possibi<lb ed="#V" n="39" break="no"/>le deum non facere illa. ergo aliqua que impossibile est deum non 
+      <lb ed="#V" n="40"/>velle facere est possibile deum non facere. Et per consequens 
+      pos<lb ed="#V" n="41" break="no"/>sibile est deum velle aliquid facere: et non facere illud: quod est 
+      <lb ed="#V" n="42"/>oppositum prime partis antecedentis.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e896">
+      ⁋ Sed contra istam conclusionem potest argui ex 
+      <lb ed="#V" n="43"/>rationibus cuiusdam doctores sic: si deus quaecumque facit: contingenter vult 
+      <lb ed="#V" n="44"/>facere. aut velle suum quo vult ipsa facere que facit: est in 
+      se<lb ed="#V" n="45" break="no"/>simpliciter contingens: aut habitudo illius velle ad illa qua vult fa 
+      <lb ed="#V" n="46"/>cere est contingens: hec videtur nota: quia si et ipsum velle esset ne 
+      <lb ed="#V" n="47"/>cessarium et cum hoc etiam heret habitudinem necessariam ad volita: non 
+      <lb ed="#V" n="48"/>contingenter: sed necessario vellet illa. primum non potest dici cum velle 
+      di<lb ed="#V" n="49" break="no"/>uinum sit deus: et per consequens absolute in se et simpliciter necesse esse: nec 
+      <lb ed="#V" n="50"/>2m quia vel talis habitudo est relato rationis: vel realis addita 
+      <lb ed="#V" n="51"/>ipsi velle. Non rationis: quia talis non habet esse nisi in intellectu 
+      <lb ed="#V" n="52"/>obiectiue: et per consequens nullo intellectum apprehendente deus non 
+      <lb ed="#V" n="53"/>vellet illa producibilia: quod est erroneum: nec realis: quia dei ad  
+      <lb ed="#V" n="54"/>creaturam nulla est relatio realis: et iterum nihil potest esse 
+      reale<lb ed="#V" n="55" break="no"/>in deo quod non sit deus. Relinquitur ergo quod illa sit ipsummet velle 
+      <lb ed="#V" n="56"/>diuinum: et per consequens sicut velle diuinum est simpliciter necessium. sic 
+      <lb ed="#V" n="57"/>et ipsa habitudo.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e931">
+      ⁋ 2o si deus quaecumque facit contingenter vult 
+      <lb ed="#V" n="58"/>facere. ergo quaecumque vult facere potest non velle facere: et quaecumque 
+      vo<lb ed="#V" n="59" break="no"/>luit facere: potuit non velle facere: sed hoc est falsum. probo 
+      <lb ed="#V" n="60"/>et loquamur igitur gratia exempli de mundo quem deus fecit et 
+      <lb ed="#V" n="61"/>voluit facere secundum praedicta: si deus voluit contingenter facere 
+      <lb ed="#V" n="62"/>mundum. ergo potuit nolle illud facere: et si sic. ergo illud nolle 
+      po<lb ed="#V" n="63" break="no"/>tuit esse in deo: et per consequens potuit esse deus. constat autem quod quicquid 
+      <lb ed="#V" n="64"/>potuit esse deus de necessitate est deus. ergo deus habuit et hodie 
+      <lb ed="#V" n="65"/>habet illud nolle. Sed hoc est falsum cum iam creauerit. ergo non po 
+      <!--307.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 160-v b -->
+               <lb ed="#V" n="66"/>tuit nolle creare vel facere mundum: et per consequens de necessitate: 
+      <lb ed="#V" n="67"/>voluit creare et non contingenter. Et ex hoc concludit doctor 
+      <lb ed="#V" n="68"/>ille: quod impossibile est velle diuinum here aliquam habitudinem 
+      <lb ed="#V" n="69"/>secundum quam sit verum dicere quod noluerit aut voluerit mundum 
+      <lb ed="#V" n="70"/>creare.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e969">
+      ⁋ Propter has rationes: que tamen in virtute non sunt 
+      ni<lb ed="#V" n="71" break="no"/>si vna: idem consequentur dicit quod deus per nullum velle intrinum 
+      partici<lb ed="#V" n="72" break="no"/>pans formalem rationem volitionis determinatur ad aliquid produ 
+      <lb ed="#V" n="73"/>cendum: quoniam vt dicit alias sequeretur quod deus necessitate abso 
+      <lb ed="#V" n="74"/>luta produce: et extra se: quod est erroneum. consequentia patet: quia velle 
+      diui<lb ed="#V" n="75" break="no"/>num est in se simpliciter et absolute necessirum: cum sit deus: et certum 
+      <lb ed="#V" n="76"/>est quod deo volente pro aliquo instanti productionem alicuius: de 
+      <lb ed="#V" n="77"/>necessitate sequitur productio illius in illo instanti: alioquin stam 
+      <lb ed="#V" n="78"/>te voluntate posset non sequi productio: et per consequens voluntas dei 
+      <lb ed="#V" n="79"/>esset inefficax et posset frustrari: quod deo repugnat. ergo 
+      produ<lb ed="#V" n="80" break="no"/>ctio illa nesario sequitur aliquid simpliciter et absolute necessium. ergo 
+      <lb ed="#V" n="81"/>ipsa est absolute necessaria: et deus de necessitate producit quicquid 
+      pro<lb ed="#V" n="82" break="no"/>ducit.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e998">
+      ⁋ Praeterea velle includit imperfectionem: cum sit in 
+      qua<lb ed="#V" n="83" break="no"/>dam tendentia et respectum non habiti: et expecctans pro fine ipsam 
+      <lb ed="#V" n="84"/>productionem: qua habita iam cessat: quod omnino deo repugnat: 
+      <lb ed="#V" n="85"/>Quasdam alias rationes adducit: sed quia ille procedunt ac si 
+      pone<lb ed="#V" n="86" break="no"/>retur. quod velle dei esset res distincta a deo quod nullus dicit: ideo 
+      <lb ed="#V" n="87"/>illas non recito. Concludit ergo consequentur quod deus producit quicquid 
+      pro<lb ed="#V" n="88" break="no"/>ducit absque hoc quod determinetur per aliquod velle intrinum ad  
+      <lb ed="#V" n="89"/>producendum quod producit: nihilominus tamen dicitur voluntarie 
+      produce<lb ed="#V" n="90" break="no"/>re: et quod producit quia vult producere: propterea quia in sua potestate habet 
+      <lb ed="#V" n="91"/>producere et non producere: sicut si verbi gratia. ignis in sua potestate et 
+      <lb ed="#V" n="92"/>ominio haberet praesentem stipulam ignire et non ignire: dum 
+      igni<lb ed="#V" n="93" break="no"/>et diceretur voluntarie ignitum. Et quaerenti cur igniret responde 
+      <lb ed="#V" n="94"/>tur: quia vult: non quia velle exprimeret aliquem actu 
+      determi<lb ed="#V" n="95" break="no"/>nantem sed tantum plenitudinem potestatis.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e1029">
+      ⁋ Ista opinio quantum mihi 
+      <lb ed="#V" n="96"/>apparet: nec in conclusionibus nec in probationibus continet veritatem: vnde 
+      <lb ed="#V" n="97"/>considerandum est quod vel ista opinio intendit solum modo negare deum 
+      <lb ed="#V" n="98"/>determinari ad producendum per aliquod velle a se distinctum: et 
+      <lb ed="#V" n="99"/>quasi adueniens deo penitus ex se indeterminato ea indrespnti: et 
+      <lb ed="#V" n="100"/>ipsum determinans ad producendum: et tunc in hoc frustra la 
+      <lb ed="#V" n="101"/>borat: cum nunquam aliquis catholicus vel. P. hoc dixerit: sed omnes 
+      <lb ed="#V" n="102"/>pariter consentiant: quod sicut deus est sua scientia et noticia qua no 
+      <lb ed="#V" n="103"/>uit quicquid nouit: sic est suum velle quo vult quicquid vult. 
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e1049">
+               <lb ed="#V" n="104"/>⁋ Praeterea ue rationes si valent non solum illud probant: sed etiam: quod 
+      <lb ed="#V" n="105"/>nec per aliquod velle a se distinctum determinate vult 
+      produ<lb ed="#V" n="106" break="no"/>cere quando producit: nec antequam producat: determinate vult 
+      pro<lb ed="#V" n="107" break="no"/>ducere in aliquo instanti vel tempore futuro: et universaliter nihil vult se 
+      <lb ed="#V" n="108"/>facere vel se facturum: neque etiam non vult: et pono nonuult 
+      <lb ed="#V" n="109"/>vt est vna dictio a non oratio: et hunc intellectum vtique eum 
+      ha<lb ed="#V" n="110" break="no"/>vere sue rationes compellunt: sicut patet inspicienti: et aliqua verba 
+      ex<lb ed="#V" n="111" break="no"/>primunt: sicut supra patet. cum ait. quod impossibile est velle diui 
+      <lb ed="#V" n="112"/>num habere aliquam habitudinem secundum quam sit verum dicere quod 
+      vo<lb ed="#V" n="113" break="no"/>luerit aut noluerit creare mundum.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e1073">
+      ⁋ Item aliter non 
+      proce<lb ed="#V" n="114" break="no"/>deret contra alios doctores: sicut tamen idem intendit: sic aut 
+      in<lb ed="#V" n="115" break="no"/>tellecta eius conclusio vtique falsa est: quod patet: primo quidem: quia secundum 
+      <lb ed="#V" n="116"/>eam sequitur: quod deus non ab eterno determinate aliquos 
+      <lb ed="#V" n="117"/>voluit creare: et finaliter eis dare vitam eternam: aliquibus non 
+      <lb ed="#V" n="118"/>voluit dare: sed voluit pro suis peccatis dare eternam penam: 
+      <lb ed="#V" n="119"/>et per consequens nec ab eterno quosdam praedestinauit: et 
+      quos<lb ed="#V" n="120" break="no"/>dam reprobauit: quod est erroneum. Et patet consequentia quia praedestinare 
+      <lb ed="#V" n="121"/>est velle seu propositum dandi vitam eternam: reprobare 
+      ve<lb ed="#V" n="122" break="no"/>ro propositum non dandi: vt supra patuit.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e1095">
+      ⁋ Praeterea propheta 
+      di<lb ed="#V" n="123" break="no"/>cit quod quecumque voluit deus fecit: aut ergo per ly voluit 
+      signi<lb ed="#V" n="124" break="no"/>ficatur velle diuinum determinate faciendi: vt sit sensus quod 
+      <lb ed="#V" n="125"/>quecumque deus determinate voluit facere fecit: et habetur 
+      pro<lb ed="#V" n="126" break="no"/>positum: aut significatur solum modo potestatis dominium faciendi et 
+      <lb ed="#V" n="127"/>non faciendi vt isti dicunt: et tunc est sensus: quod quaecumque deus po 
+      <lb ed="#V" n="128"/>tuit facere et non facere fecit: sed constat hoc esse falsum et 
+      con<lb ed="#V" n="129" break="no"/>tra sacram scripturam et sanctos dicentes: deum multa po 
+      <lb ed="#V" n="130"/>tuisse fecisse que non fecit: et facere que non facit: vt patet 
+      <!--308.xml-->
+      <pb ed="#V" n="161-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>per magistrum supra. distinctione. 43.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e1125">
+      ⁋ Praeterea secundum ipsam 
+      <lb ed="#V" n="2"/>positionem: aut deus precise quia potest facere et non facere 
+      di<lb ed="#V" n="3" break="no"/>citur velle facere: aut quia facit: et tamen quod facit potest non 
+      <lb ed="#V" n="4"/>facere: non potest dici primum. quia tunc sequitur quod omne quod  
+      <lb ed="#V" n="5"/>deus potest facere et potest non facere ipse vult facere: quod ex 
+      <lb ed="#V" n="6"/>presse est contra Augustinum in ench. dicentem: quod voluntas 
+      <lb ed="#V" n="7"/>dei multa potest que non vult: nec 2m quia sequitur quod nullam 
+      <lb ed="#V" n="8"/>rem antequam fieret a deo deus vellet illam facere. Cuius 
+      <lb ed="#V" n="9"/>oppositum dicit apostolus ad Ephe. cum ait. elegit nos ante 
+      <lb ed="#V" n="10"/>mundi constitutionem vt essemus sancti: et plura subdit ad  
+      <lb ed="#V" n="11"/>propositum de eterna dei praedestinatione et voluntate qua vo 
+      <lb ed="#V" n="12"/>luit apostolos sanctificare: et finaliter beatificare.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e1151">
+      ⁋ Sed 
+      <lb ed="#V" n="13"/>forte dicetur quod secundum opinionem praemissam: deus dicitur velle 
+      fa<lb ed="#V" n="14" break="no"/>cere que facit: quia facit: et potest non facere: et eodem modo dici 
+      <lb ed="#V" n="15"/>tur velle se facturum: quia potest facere in futuro et non face 
+      <lb ed="#V" n="16"/>re: et tamen faciet: et ideo quia ante mundi constitutionem 
+      ha<lb ed="#V" n="17" break="no"/>buit plenam potestatem faciendi apostolos sanctos et non 
+      <lb ed="#V" n="18"/>faciendi: et cum hoc ipse facturus erat eos sanctos: ideo 
+      <lb ed="#V" n="19"/>dicitur elegisse eos vt essent sancti.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e1169">
+      ⁋ Sed istud non 
+      suf<lb ed="#V" n="20" break="no"/>ficit: quia pari ratione de quolibet hominie: qui de aliquo 
+      fien<lb ed="#V" n="21" break="no"/>do ab ipso vsque ad annum nunquam habuit propositum: immo nec 
+      <lb ed="#V" n="22"/>vnquam cogitauit: posset dici quod ipse vult illud facere: quod nul 
+      <lb ed="#V" n="23"/>lus sane mentis diceret. Sic enim sequeretur quod beatus 
+      Pe<lb ed="#V" n="24" break="no"/>trus ante passionem christi: dum erat in gratia et habebat 
+      spi<lb ed="#V" n="25" break="no"/>ritum sanctum volebat negare christum. Et similiter quilibet iustus 
+      <lb ed="#V" n="26"/>et existens in charitate qui aliquando facturus est aliquod pec 
+      <lb ed="#V" n="27"/>catum mortale nunc vult facere illud: et per consequens existens 
+      <lb ed="#V" n="28"/>in gratia est in peccato mortali: et consequentia patet: quia quilibet talis habet 
+      <lb ed="#V" n="29"/>potestatem faciendi et non faciendi: et cum hoc etiam est 
+      factu<lb ed="#V" n="30" break="no"/>rus: patet ergo quod conclusio non est vera. Probationes quoque 
+      <lb ed="#V" n="31"/>nihil valent: quoniam pari modo probaretur quod deus non 
+      deter<lb ed="#V" n="32" break="no"/>minate prescit aliquod futurum: quod est erroneum. assumptum patet. 
+      <lb ed="#V" n="33"/>qui ita praescientia dei est deus: et necesse esse: sicut velle diuinum. 
+      <lb ed="#V" n="34"/>quatem non minus est impossibile quod deus presciat aliquid et 
+      il<lb ed="#V" n="35" break="no"/>lud sit futurum: quam quod vellet aliquid facere: et illud non fiat:  
+      <lb ed="#V" n="36"/>et ita omnis argumentatio facta de volitione poterit suo 
+      <lb ed="#V" n="37"/>modo formari de praescientia.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e1211">
+      ⁋ Respondeo ergo ad rationes ad 
+      pri<lb ed="#V" n="38" break="no"/>mam: quamuis vtatur multa improprietate sermonis: ad bonum 
+      <lb ed="#V" n="39"/>tamen intellectum secundum illum modum loquendi: dico quod nec velle 
+      <lb ed="#V" n="40"/>diuinum: quo vult hec vel illa facere: nec eius habitudo ad  
+      <lb ed="#V" n="41"/>ea que vult facere est contingens: sed simpliciter necesse esse:  
+      <lb ed="#V" n="42"/>ipsum tamen velle quo vult hoc vel illud facere est contingen 
+      <lb ed="#V" n="43"/>ter velle vel volitio faciendi illa et illa habitudo est con 
+      <lb ed="#V" n="44"/>tingenter habitudo ad illa: sicut praescientia de a. futuro continge 
+      <lb ed="#V" n="45"/>ti est simpliciter et absolute necesse esse: cum ipsa sit deus: et similiter 
+      <lb ed="#V" n="46"/>eius habitudo ad prescitum: que habitudo non est nisi 
+      ipsa<lb ed="#V" n="47" break="no"/>met praescientia: est etiam simpliciter necesse esse: et tamen 
+      praescien<lb ed="#V" n="48" break="no"/>tia de a. futuro est contingenter praescientia de ipso: et illa 
+      ha<lb ed="#V" n="49" break="no"/>bitudo est contingenter habitudo ad illud: et ideo non obstam 
+      <lb ed="#V" n="50"/>te quod prescientia sit necesse esse: deus non necessario: sed  
+      <lb ed="#V" n="51"/>contingenter prescit: ita in proposito non obstante quod velle 
+      di<lb ed="#V" n="52" break="no"/>uinum et habitudo eius ad volita quae non est nisi ipsum secundum 
+      <lb ed="#V" n="53"/>rem est simpliciter necesse esse: contingenter tamen et non 
+      ne<lb ed="#V" n="54" break="no"/>cessario deus vult facere que vult facere.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e1250">
+      ⁋ Ad 2am con 
+      <lb ed="#V" n="55"/>cedo consequens et vlterius dico: quod deus potuit nolle facere 
+      mum<lb ed="#V" n="56" break="no"/>dum. Et cum infertur. ergo illud nolle potuit esse in deo: et 
+      <lb ed="#V" n="57"/>per consequens deus. Respondeo quod ly nolle. quod est subiectum huius 
+      con<lb ed="#V" n="58" break="no"/>sequentis: vel supponit pro eo quod potuit esse nolle facere 
+      mum<lb ed="#V" n="59" break="no"/>dum: vel pro eo quod fuit nolle facere mundum. si secundo 
+      modo<lb ed="#V" n="60" break="no"/>nego consequentiam: quia nullum tale nolle fuit. Si primo modo: con 
+      <lb ed="#V" n="61"/>cedo etiam illatum. Et cum infertur. ergo illud nolle fuit in deo 
+      <lb ed="#V" n="62"/>et deus: nego consequentiam: et tunc cum arguitur quicquid potuit deus 
+      <lb ed="#V" n="63"/>esse de necessitate fuit: et est deus: sed nolle producere mundum 
+      <lb ed="#V" n="64"/>potuit esse deus. igitur de necessitate fuit et est deus. vel sic 
+      <lb ed="#V" n="65"/>quicquid potuit esse in deo de necessitate fuit in deo et est 
+      <!--308.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 161-r b -->
+               <lb ed="#V" n="66"/>in deo: nolle producere mundum potuit esse in deo. ergo etc. 
+      <lb ed="#V" n="67"/>concedo maiorem vtriusque syllogismi. minorem autem distinguo: 
+      <lb ed="#V" n="68"/>quia vel subiectum supponit pro eo quod fuit: et sic nego ipsam: vel pro 
+      <lb ed="#V" n="69"/>eo quod potuit esse: et sic concedo: et tunc conclnsio non sequitur. 
+      <lb ed="#V" n="70"/>ex praemissis: non enim sequitur. quicquid potuit esse deus fuit deus:  
+      <lb ed="#V" n="71"/>sed quod potuit esse nolle producere mundum: potuit esse deus. ergo 
+      nol<lb ed="#V" n="72" break="no"/>le producere mundum fuit deus: sed sequitur. ergo quod potuit esse nolle 
+      <lb ed="#V" n="73"/>producere mundum fuit deus: et istam concedo. Nam ipsa eadem essen 
+      <lb ed="#V" n="74"/>tia divina quae fuit deus et volitio producendi mundu potuit esse vo 
+      <lb ed="#V" n="75"/>litio producendi mundum: sicut eadem esentia ipsa fuit praescientia. 
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e1304">
+               <lb ed="#V" n="76"/>⁋ Ad aliam qua probatur quod nullo velle intrinseco sit determi  
+      <lb ed="#V" n="77"/>natus ad producendum: quia tunc sequitur: quod deus necessitate ab 
+      <lb ed="#V" n="78"/>soluta produceret: patet responsio ex solutione prime ratiois.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e1314">
+      ⁋ Ad aliam 
+      <lb ed="#V" n="79"/>rationem qua dicitur quod illud velle importat imperfectionem. 
+      nego<lb ed="#V" n="80" break="no"/>Et ad probatione cum dicitur quod est intendentia et respectu non 
+      ha<lb ed="#V" n="81" break="no"/>biti. dico quod si intelligat quod sit intendentia respectu non 
+      habi<lb ed="#V" n="82" break="no"/>ti quasi desiderium habendi aliquid sibi commodum vel vtile aut 
+      <lb ed="#V" n="83"/>quomodo sibi bonum quod non habet falsum est. Si autem dicat ipsum esse 
+      <lb ed="#V" n="84"/>intendentia praecise: quia est respectu alicuius futuri et non existentis 
+      <lb ed="#V" n="85"/>quod deus vult fore. dico quod istud nullam imperfectionem importat 
+      <lb ed="#V" n="86"/>Sed quod addit quod expectat pro fine ipsam productionem: qui 
+      babi<lb ed="#V" n="87" break="no"/>ta cessat. Dico falsum esse. Nam eodem velle quo vult aliquid  
+      <lb ed="#V" n="88"/>fore antequam sit vult postquam est ipsum esse: ita quod non cessat primum vel 
+      <lb ed="#V" n="89"/>le et aliud succedit: vt iste imaginatur: quamuis illo velle quo 
+      <lb ed="#V" n="90"/>deus antequam res est vult ipsam creare postquam creata est non velit 
+      <lb ed="#V" n="91"/>ipsam creare: sed potius conseruare. Et est simile de praescientia alicuius. 
+      <lb ed="#V" n="92"/>Nam illo facto praesente non amplius prescitur a deo: et tamen non 
+      <lb ed="#V" n="93"/>cessat praescientia dei: sed remanet: licet ipsa non remanet praescien 
+      <lb ed="#V" n="94"/>tia eius: sicut nec illud remanet futurum. Et satis simile 
+      <lb ed="#V" n="95"/>huic dicit <ref xml:id="grvnZZ-ed1e1X-Rd1e1353">Aug. 12. de ciui. dei.</ref> vbi vult quod eodem velle quo  
+      <lb ed="#V" n="96"/>deus vult rem non esse dum non est: vult etiam esse postquam est: 
+      <lb ed="#V" n="97"/>ita quod non cessat primum velle: quamuis non sit amplius velle vt 
+      <lb ed="#V" n="98"/>non sit. vnde hec sunt verba eius. <quote xml:id="grvnZZ-ed1e1X-Qd1e1362" source="http://scta.info/resource/adcd-l12-d1e1749" synch="252-289">In deo non alteram praecedentem 
+        <lb ed="#V" n="99"/>altera subsequens mutauit aut sustulit voluntatem: sed vna 
+        <lb ed="#V" n="100"/>eademque sempiterna et immutabili voluntate res quas condi 
+        <lb ed="#V" n="101"/>dit: vt et prius non essent egit: quandiu non fuerunt: et vt posterius 
+        <lb ed="#V" n="102"/>essent quando esse ceperunt</quote>. Exemplum dictum de igne: quod 
+      fin<lb ed="#V" n="103" break="no"/>tunt: non etiam valet ad propositum. Nam posito quod ignis 
+      ha<lb ed="#V" n="104" break="no"/>veret talem potestatem precise: ita quod non haberet volitionem 
+      <lb ed="#V" n="105"/>de igniendo: seu non vellet ignire: non puto quod aliquis sane meni 
+      <lb ed="#V" n="106"/>tis diceret quod quando igniret vellet ignire aut igniret volunta 
+      <lb ed="#V" n="107"/>rie. vtrumque autem de deo dicit scriptura scilicet quod vult producere et 
+      <lb ed="#V" n="108"/>quod voluntarie producit.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e1387">
+      ⁋ Ad primum argumentum principale 
+      con<lb ed="#V" n="109" break="no"/>cedo consequens et cum probatur esse falsum. Dico ad probationem primam 
+      <lb ed="#V" n="110"/>quod sicut mala inquantum sunt: sunt a deo: vt patebit in secundo. sic 
+      <lb ed="#V" n="111"/>etiam inquantum sunt: sunt volita ab eo: non autem inquantum 
+      <lb ed="#V" n="112"/>mala sunt a deo: et ita intelligenda est auctoritas prophete: 
+      <lb ed="#V" n="113"/>et in secundo hoc plenius declarabitur.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e1400">
+      ⁋ Ad 2am probationem 
+      <lb ed="#V" n="114"/>falsitatis eiusdem consequentis cum dicitur quod sequitur quod deus sit omne 
+      <lb ed="#V" n="115"/>quod fit: quia eius voluntas est eius essentia. dico quod nec consequentia 
+      <lb ed="#V" n="116"/>nec probatio valet: sicut nec sequitur quod deus sit omne quod  
+      <lb ed="#V" n="117"/>prescit: non obstante quod eius praescientia est eius essentia.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e1411">
+      ⁋ Ad  
+      <lb ed="#V" n="118"/>2am rationem dico quod causam esse necessariam potest intelligi dupliciter. 
+      <lb ed="#V" n="119"/>vno modo quod ipsa sit et non possit non esse. Alio modo quod ipsa sit causa et 
+      <lb ed="#V" n="120"/>non possit non esse causa seu non possit non causare. In primo sensu 
+      <lb ed="#V" n="121"/>voluntas dei est causa necessaria: non autem in secundo: ideo 
+      <lb ed="#V" n="122"/>non sequitur quod ea que fiunt non possunt non fieri.
+    </p>
+            <p xml:id="grvnZZ-ed1e1X-d1e1424">
+      ⁋ Ad 3am 
+      <lb ed="#V" n="123"/>dico quod aliquid fieri a casu potest intelligi dupliciter. Uno modo quod ipsum 
+      <lb ed="#V" n="124"/>a quacumque causa fit partiali vel totali fiat casualiter siue quod sit 
+      <lb ed="#V" n="125"/>effectus casualis respectu cuiuscumque sue cause. Alio modo quod non sit 
+      <lb ed="#V" n="126"/>casualis respectu cuiuslibet cause: sed respectu alicuius tantum. 
+      Pri<lb ed="#V" n="127" break="no"/>mo modo dico nullum effectum in mundo esse casualem: quia cuiuslibet 
+      <lb ed="#V" n="128"/>divina voluntas est causa totalis vel partialis: et quilibet est effectus 
+      <lb ed="#V" n="129"/>diuine prouidentie quae nihil casualiter agere potest: et per consequens 
+      <lb ed="#V" n="130"/>nullus effectus est in mundo simpliciter casualis: quod etiam Aug. 
+      <!--309.xml-->
+      <pb ed="#V" n="161-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>propter tactam rationem ex intentione determinauit. 83 q. et 
+      <lb ed="#V" n="2"/>5 super Gen. cui etiam sententialiter concordat <ref xml:id="grvnZZ-ed1e1X-Rd1e1454">Boetius lib. 5. de 
+        con<lb ed="#V" n="3" break="no"/>solatione prosa prima</ref>. 2o autem modo dico esse effectum aliquem 
+      causa<lb ed="#V" n="4" break="no"/>lem scilicet respectu cause particularis causate a qua propter concursum 
+      <lb ed="#V" n="5"/>alterius cause potest effectus non intentus prouenire: qui si vterque 
+      <lb ed="#V" n="6"/>fuerit non opinatus nec intentus dicetur respectu vtriusque casualis 
+      <lb ed="#V" n="7"/>Si vero ab vna intentus: ab altera autem non: respectu vnius tantum iu 
+      <lb ed="#V" n="8"/>dicabitur casualis. Exemplum primi. si tam debitor quam creditor pergen 
+      <lb ed="#V" n="9"/>tes ad forum mutuo se inueniant: cum tamen neuter perrexerit vt 
+      <lb ed="#V" n="10"/>alterum inueniret. Exemplum secundi. si creditor pergat vt debitorem 
+      in<lb ed="#V" n="11" break="no"/>ueniat quem scit illuc iturum: debitor autem non ideo vadat vt inue 
+      <lb ed="#V" n="12"/>niatur vel inueniat creditorem. Inueniat autem hunc creditor: non 
+      <lb ed="#V" n="13"/>dicetur creditor debitorem casualiter inuenisse: sed econverso debitor 
+      ca<lb ed="#V" n="14" break="no"/>sualiter inuenisse perhibetur creditorem: et sic talis concursus respectum 
+      <lb ed="#V" n="15"/>vnius est casualis: respectum autem alterius nequequam: ita est quamuis effe 
+      <lb ed="#V" n="16"/>ctus aliquis sit casualis respectum vnius vel omnium causarum suarum 
+      causa<lb ed="#V" n="17" break="no"/>tarum si plures concurrant: non tamen respectu vniversalis cause que est 
+      di<lb ed="#V" n="18" break="no"/>uina voluntas et prouidentia potest esse casualis. Ad hoc etiam 
+      <lb ed="#V" n="19"/>faciunt plures auctoritates <ref xml:id="grvnZZ-ed1e1X-Rd1e1494">Aug. 3. de trini.</ref> que a 
+      <ref xml:id="grvnZZ-ed1e1X-Rd1e1497">magi<lb ed="#V" n="20" break="no"/>stro recitantur in distinctione presenti.</ref> 
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

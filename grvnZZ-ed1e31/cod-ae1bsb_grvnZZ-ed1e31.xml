@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 4</title>
+            <author ref="#Rimini">Gregory of Rimini</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 4</title>
+               <date when="2020-10-03">October 03, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-ae1bsb">Venice 1503</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-03" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="49-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="grvnZZ-ed1e31"><!-- l1d3q4 -->
+            <head xml:id="grvnZZ-ed1e31-Hd1e106">Quaestio 4</head>
+            <head xml:id="grvnZZ-ed1e31-Hd1e109" type="question-title">Utrum Deum possimus naturaliter cognoscere</head>
+            <p xml:id="grvnZZ-ed1e31-d1e112">
+      <!--94.xml-->
+               <cb ed="#V" n="b"/> 
+               <!-- 49-r b -->
+               <lb ed="#V" n="66"/>⁋ Distinctionis. III. Questio. IIII 
+      <lb ed="#V" n="67"/>POstquam quesitum est de modo 
+      cognoscen<lb ed="#V" n="68" break="no"/>di creaturas: videndum est 
+      <lb ed="#V" n="69"/>de modo cognoscendi deum. Et ideo quaero. An deum 
+      <lb ed="#V" n="70"/>possimus cognoscere naturaliter.
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e132">
+      ⁋ Arguitur quod non: 
+      <lb ed="#V" n="71"/>quia simpliciter <sic>simpliciter</sic> aut totaliter scitu: aut totaliter 
+      <lb ed="#V" n="72"/>ignoratur: sed deus non potest a nobis totaliter sciri: 
+      <lb ed="#V" n="73"/>cum comphendi non possit: igitur totaliter 
+      ignora<lb ed="#V" n="74" break="no"/>tur. maior patet: quia in simplici non potest esse pars scita et pars 
+      igno<lb ed="#V" n="75" break="no"/>rata.
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e149">
+      ⁋ 2o si deus posset naturaliter a nobis cognosci: tunc naturaliter 
+      pos<lb ed="#V" n="76" break="no"/>semus cognoscere essentiam et dei quiditatem. consequens est falsum 
+      <lb ed="#V" n="77"/>dominte Damascens liro p. quid est deus secundum substantiam et naturam: incomphensi 
+      <lb ed="#V" n="78"/>bile omnino et ignotum est. consequentia patet: quia vt dicit Aug. 10 de tri. 
+      <lb ed="#V" n="79"/>Non recte dicitur sciri aliqua res dum eius ignoratur subiecta. Et. P. 
+      <lb ed="#V" n="80"/>7. meta. dicens quod scientia cuiuslibet est scire quod quid erat illi esse: siue vt 
+      <lb ed="#V" n="81"/>habet littera commenti. Scire quid est per essentiam. Similiter Commen. ibidem 
+      <lb ed="#V" n="82"/>dicens. quod res non sciunt: nisi propter suas quiditates: et certum est 
+      <lb ed="#V" n="83"/>hoc.
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e170">
+      ⁋ 3o dei nullum est fantasma: igitur non est a nobis intelli 
+      <lb ed="#V" n="84"/>gibilis. Antecedens patet: quia solum sensibilium sunt fantasmata. consequentia 
+      pro<lb ed="#V" n="85" break="no"/>batur per. P. 3o de anima. dicens quod nequequam sine fantasmate intelligit anima. 
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e177">
+               <lb ed="#V" n="86"/>⁋ 4o si deus posset naturaliter a nobis cognosci: aut hoc esset quia 
+      <lb ed="#V" n="87"/>apprehenderetur immediate in se: aut quia cognosceretur per 
+      discur<lb ed="#V" n="88" break="no"/>sum ex creaturis. primo modo non: quia talis notitia de deo est nobis 
+      <lb ed="#V" n="89"/>possibilis naturaliter in vita ista: nec 2o modo tum quia in omni tali con 
+      <lb ed="#V" n="90"/>gnitionem medium debet esse proportionatum cognito: nulla autem 
+      crea<lb ed="#V" n="91" break="no"/>tura est proportionata deo: cum sit finita: deus autem infinitus. tum quia 
+      <lb ed="#V" n="92"/>discursus est inter complexa: notitia autem complexi exigit noticiam 
+      <lb ed="#V" n="93"/>vtriusque termini: igitur in fine discursus oportebit deum esse 
+      <lb ed="#V" n="94"/>cognitum: siue sit subiectum conclusi per discursum: siue praedicatum. Et 
+      <lb ed="#V" n="95"/>non apparet qualiter sit cognitum: nisi in se. quod est impossibile: vt probatum est. 
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e201">
+               <lb ed="#V" n="96"/>⁋ Cotra deum esse potest naturaliter cognosci a nobis: igitur deus naturalie 
+      <lb ed="#V" n="97"/>est a nobis cognoscibilis. Antecedens patet per dama 
+      <lb ed="#V" n="98"/>vbi supra. et consequentia est necessaria: eo quod noticia veri 
+      complexi<lb ed="#V" n="99" break="no"/>praesupponit noticiam incomplexam eorum quae per terminos 
+      impor<lb ed="#V" n="100" break="no"/>tantur: vel eius: si vnum tantum importetur per vtrumque.
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e214">
+      ⁋ 2o philosophi 
+      mul<lb ed="#V" n="101" break="no"/>ta demonstrauerunt de deo: igitur cognouerunt deum: et per consequens est 
+      <lb ed="#V" n="102"/>naturaliter cognoscibiluis. Antecedens patet ex. 12. meta. consequentia tbet vt praecedens 
+      <lb ed="#V" n="103"/>hoc patet per aporis. ad ratio. Inuisibilia dei etc.
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e223">
+      ⁋ Item de philosophi 
+      <lb ed="#V" n="104"/>aiens. quod notum inquit est dei manium est in illis. glo. notum id est 
+      <lb ed="#V" n="105"/>noscibile per naturam: igitur etc.
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e230">
+      ⁋ Praeterea sic dicit Aug. 15. de tri. at 
+      <lb ed="#V" n="106"/>guuntur in libro sapientie qui de his qui videntur bona: non potuerunt scin 
+      <lb ed="#V" n="107"/>re eum qui est: nec oporibus attendentes cognouerunt artificem. Non 
+      <lb ed="#V" n="108"/>arguerentur aut si non posset a nobis naturaliter deus cognosci. vnde ibi 
+      <lb ed="#V" n="109"/>subdit in dicto libro scribitur a magnitudine spei et creature: 
+      <lb ed="#V" n="110"/>cognoscibiliter poterit creator horum videri. sapriem. 13
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e244">
+               <lb ed="#V" n="111"/>Respondeo difficilitas quaestionis est principaliter de notitia incomplexa quae 
+      <lb ed="#V" n="112"/>haberi potest de deo naturaliter. Nam nisi aliqua talis esset nobis 
+      <lb ed="#V" n="113"/>possibilis nullam veritatem complexam de deo scire possemus: cum omnis notitia 
+      <lb ed="#V" n="114"/>complexa. seu complexi exigat necessario noticiam incomplexam rei: de qua 
+      <lb ed="#V" n="115"/>formatur complexum illud: vt supra probatum est. et ideo non sufficit 
+      <lb ed="#V" n="116"/>dicere quod deus cognoscitur per discursum ex creaturis: sed oportet dicere 
+      <lb ed="#V" n="117"/>et vlterius assignare modum quo vel ante discursum: vel post ipse 
+      <lb ed="#V" n="118"/>simplici notitia cognoscatur.  
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e264">
+      Ideo pro decularationem pono. 5. conclusiones
+      <lb ed="#V" n="119"/>⁋ Prima est. Deus non est a nobis naturaliter pro statu vie cognoscibilis 
+      <lb ed="#V" n="120"/>imediate in seipso.
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e271">
+      ⁋ 2a quod non est cognoscibilis in aliqui propria 
+      <lb ed="#V" n="121"/>speciem: aut conceptu simplici sibi proprio naturaliter eius repraesentatiuo 
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e276">
+               <lb ed="#V" n="122"/>⁋ 3a quod est cognoscibillis in aliquo conceptu composito sibi proprio. 
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e281">
+               <lb ed="#V" n="123"/>⁋ 4a quod etiam in aliquo conceptu simplici proprio ad plantum 
+      institu<lb ed="#V" n="124" break="no"/>to et connotatiuo.
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e288">
+      ⁋ 5a quod est cognoscibilis in aliquo conceptu 
+      <lb ed="#V" n="125"/>communi simplici naturaliter repraesentatiuo: et a rebus abstrahibili: non tamen 
+      <lb ed="#V" n="126"/>cognitione propria et distincta: sed communi et confusa.
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e296">
+      ⁋ Prima 
+      <lb ed="#V" n="127"/>probatur ex dictis in praecedentibus. q. quoniam omne quod cognoscitur in se ipso 
+      <lb ed="#V" n="128"/>imediate cognoscitur intuitiue: deum autem intuitiue non 
+      possu<lb ed="#V" n="129" break="no"/>mus naturaliter cognoscere. quare etc. Confirmatur: quia secundum apsloltum 
+      vi<lb ed="#V" n="130" break="no"/>sio facialis dei non habentur in hac vita. videre autem deu facialiter 
+      <!--95.xml-->
+      <pb ed="#V" n="49-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>nihil aliud est: quam videre ipsum in seipso immediate: sic quod 
+      <lb ed="#V" n="2"/>nihil aliud medium terminet visionem.
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e318">
+      ⁋ 2a conclusio probatur ex pre 
+      <lb ed="#V" n="3"/>habitis: tum quia nullius rei propriam speciem vel conceptum naturaliter 
+      reprae<lb ed="#V" n="4" break="no"/>sentatiuum possumus habere naturaliter: nisi quam immediate in seipa 
+      <lb ed="#V" n="5"/>apprehendere possumus: vt supra patet: tum quia per nullam speciem: 
+      <lb ed="#V" n="6"/>vel talem conceptu aliquid cognoscitur: quod non sit praecognitu imme 
+      <lb ed="#V" n="7"/>diate in seipso.
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e331">
+      ⁋ 3am conclusionem probat: quia aliquem proprium conceptum 
+      <lb ed="#V" n="8"/>deo possumus componere ex conceptibus simplicibus ex aliis 
+      re<lb ed="#V" n="9" break="no"/>bus abstractis: et illum probare de ente particulariter accepto 
+      <lb ed="#V" n="10"/>igitur possumus deum cognoscere in aliquo conceptu composite 
+      <lb ed="#V" n="11"/>sibi proprio. consequentia patet. ex supradictis. Antecedens probatur. 
+      <lb ed="#V" n="12"/>Nam huiusmodi conceptus necesse esse: summum bonum. sapientia infinita 
+      <lb ed="#V" n="13"/>ens infiniten potentie simpliciter. Item vltimus finis et vniversale bonum 
+      vni<lb ed="#V" n="14" break="no"/>uersi: et si aliqui alium conceptus sibi proprii possint euidenter 
+      pro<lb ed="#V" n="15" break="no"/>bari de ente particulariter sumpto: quia si nullus praedictorum: aut 
+      <lb ed="#V" n="16"/>alius posset sic probari non esset deus a nobis naturaliter cognosci 
+      <lb ed="#V" n="17"/>bilis: sed fide sola tenderemus seu crederemus in ipsum.
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e355">
+      ⁋ 4 
+      <lb ed="#V" n="18"/>conclusio probatur: quia aliquis conceptus connotatiuus: sicut conceptus 
+      <lb ed="#V" n="19"/>cui correspondet in voce iste terminus creatiuum: proprius est deo 
+      <lb ed="#V" n="20"/>Et probari potest de ente vel etiam subiecta particulariter: igitur etc. Est 
+      <lb ed="#V" n="21"/>autem iste conceptus simplex in se: quaeuis plura significet: siue 
+      <lb ed="#V" n="22"/>aliquid significet: et aliquid aliud consignificet. Sic etiam et vox 
+      <lb ed="#V" n="23"/>ista creatiuum simplex est non obstante quod significet aliquid 
+      <lb ed="#V" n="24"/>et aliud consignificet.
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e373">
+      Item est institutus ad platum: et non 
+      <lb ed="#V" n="25"/>naturaliter est alicuius rei repraesentatiuus: sicut et quodlibet signum mentale vel 
+      <lb ed="#V" n="26"/>vocale connotatiuum. Nam conceptus numeraliter repraesentatiuus praecitise eam rem 
+      <lb ed="#V" n="27"/>repraesentat et significat pro qua est potest supponere. Nsam vt supra tali 
+      <lb ed="#V" n="28"/>ctu est et in 2o amplius tangetur: conceptus huiusmodi talis est in esse ficto 
+      <lb ed="#V" n="29"/>et imaginato: qualis res cuius est conceptus est in esse reali extra animam. vnde 
+      <lb ed="#V" n="30"/>conceptus albedinis talis est in esse ficto ea intentionali: qualis albe 
+      <lb ed="#V" n="31"/>do extra in esse reali: ita quod ipse potest dici albedo ficta: sicu species 
+      <lb ed="#V" n="32"/>coloris vocatur color intentionalis. et ideo talis conceptus nihil ali 
+      <lb ed="#V" n="33"/>ud significat praeter eam rem cui est sic similis: et pro qua potest suppone 
+      <lb ed="#V" n="34"/>re. Quapropter conceptus connotatiuus: siue affirmatiuus siue 
+      negati<lb ed="#V" n="35" break="no"/>uus nihil repraesentat naturaliter: sed ex institutionem tantum. vtrum autem 
+      insti<lb ed="#V" n="36" break="no"/>tutio talium conceptuum praesupponat institutionem vocum vel potius 
+      <lb ed="#V" n="37"/>econtra alibi videndum.
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e404">
+      ⁋ 5am conclusione scilicet quod deus est cognoscibilis 
+      <lb ed="#V" n="38"/>in aliquo conceptu simplici communi: non tamen cognitione propria et distin 
+      <lb ed="#V" n="39"/>cte probo. Nam deus est cognoscibilis in aliquo conceptu proprio 
+      compos<lb ed="#V" n="40" break="no"/>to: vt patet ex 3a conclusione: tunc sic: aut ille conceptus est compositus ex concepti 
+      <lb ed="#V" n="41"/>bus simplicibus: quarum quilibet est communis deo et aliis: aut ex aliquo communi 
+      <lb ed="#V" n="42"/>et aliquo proprio: aut praecitse ex propriis creaturis: aut praecise ex 
+      <lb ed="#V" n="43"/>propriis deo. qui cumque duorum primo modo mnotorum detur habetur propositum. Nam illo 
+      <lb ed="#V" n="44"/>conceptu communi ipse cognoscetur: non aut cognitione propria et distincte: siut 
+      <lb ed="#V" n="45"/>nec in aliquo conceptu communi pluribus aliquod illorum distincte cogno 
+      <lb ed="#V" n="46"/>scitur: vt in superioribus patet. 3o vero modus dari non potest: quia con 
+      <lb ed="#V" n="47"/>ceptus compositus ex propriis creaturarum praecise: nullo modo: potest deo 
+      conue<lb ed="#V" n="48" break="no"/>nire: sicut nec conceptus aliquis vni rei proprius alicui alteri conuenit. 
+      <lb ed="#V" n="49"/>Si vero dicatur 4: aut aliquis illorum erit naturaliter repraesentatiuus: aut 
+      <lb ed="#V" n="50"/>nullus: primum non potest dari: quia nullum talem conceptum proprium deo 
+      habe<lb ed="#V" n="51" break="no"/>re possumus numeraliter: vt patet ex 2a conclusione. Si nullus est talis. igitur omnes 
+      <lb ed="#V" n="52"/>sunt instituti ad significandum: omnis aut conceptus significatiuus 
+      <lb ed="#V" n="53"/>lex institutione praesupponit apprehensionem rei in se vel in specie 
+      ali<lb ed="#V" n="54" break="no"/>qua: aut conceptu ad quem significandum instituitur: vt patet: igitur 
+      <lb ed="#V" n="55"/>deus fuit praecognitus et non in se: nec in conceptu naturaliter repraesentatiuo 
+      <lb ed="#V" n="56"/>simplici sibi proprio: igitur in conceptu aliquo namturaliter repraesentatiuo communi: 
+      <lb ed="#V" n="57"/>alioquin procederetur in infinitum
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e451">
+      ⁋ 2o idem probatur: nam vt dictum est in 4 
+      <lb ed="#V" n="58"/>conclusione deus est cognoscibilis in aliquo conceptu simplici proprio 
+      con<lb ed="#V" n="59" break="no"/>notatiuo: omnis autem conceptus connotatiuus aliquem conceptum 
+      abso<lb ed="#V" n="60" break="no"/>lutum praesupponit. cui mediate vel immediate attribuitur: sicut 
+      <lb ed="#V" n="61"/>album attribuitur alicui absoluto: aliquid enim est quod dicitur album: verbi 
+      <lb ed="#V" n="62"/>gratia: liginum vel lapis: aut corpus. et istud et probari potest ex ratione ex 
+      <lb ed="#V" n="63"/>plicante quid significat talis conceptus: verbi gratia: ratio huius nomins. 
+      al<lb ed="#V" n="64" break="no"/>pum est informatum albedine: et ratio huius nominis creatiuum: productiuum 
+      <lb ed="#V" n="65"/>ex nihilo: et huius nominis iustitia quae redditur vnicuique quod suum est: patet 
+      <!--95.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 49-v b -->
+               <lb ed="#V" n="66"/>aut quod quaelibet talis ratio alicui absoluto conceptui attribuitur: siue sit 
+      <lb ed="#V" n="67"/>conceptus subiecte siue entis: siue aliquis alius specialis conceptus vt 
+      <lb ed="#V" n="68"/>dicatur subiecta informata albedine: vel ens informatum 
+      albedi<lb ed="#V" n="69" break="no"/>ne: et sic de aliis: aut igitur conceptus connotatiuus proprius deo 
+      <lb ed="#V" n="70"/>attribuetur tandem conceptui proprio et absoluto deo: aut proprio 
+      <lb ed="#V" n="71"/>creature: aut communi vtrique. Si proprio deo: aut naturaliter significam 
+      <lb ed="#V" n="72"/>ti: aut ex institutione: vt prius. si proprio creature tantum: igitur non erit 
+      <lb ed="#V" n="73"/>proprius deo. si communi habetur propositum.
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e495">
+      ⁋ Ex his euidenter concluditur. 
+      <lb ed="#V" n="74"/>vlterius quod necessario oportet concedere aliquem vnum conceptum communem 
+      <lb ed="#V" n="75"/>deo et creaturis in quid praedicabilem de deo et creaturis: 
+      alio<lb ed="#V" n="76" break="no"/>quin impossibile est saluare quod deus sit cognoscibilis naturaliter a nobis: 
+      <lb ed="#V" n="77"/>vtrum autem ille conceptus sit conceptus entis vel alius: et vtrum per 
+      <lb ed="#V" n="78"/>eandem rationem oporteat ponere communem aliquem quiditatiuum subiecte con 
+      <lb ed="#V" n="79"/>ceptum et accidenti: suo loco poterit discuti.
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e511">
+      ⁋ Contra dicta 
+      pos<lb ed="#V" n="80" break="no"/>set argui et sunt dubis. primo contra primam conclusionem potest argui ex intentione 
+      <lb ed="#V" n="81"/>Aug. 8. de tri. vbi inquirens qualiter homo nondum iustus nouit 
+      <lb ed="#V" n="82"/>quid sit animus iustus: ceteris modis cognoscendi res exclu 
+      <lb ed="#V" n="83"/>sis. concludit quod hoc nouit in veritate interiori: quae est praesens animo 
+      <lb ed="#V" n="84"/>qui hoc valet intueri. et pius aliquantum ait. homo igitur qui creditur. 
+      <lb ed="#V" n="85"/>iustus ex ea forma et veritate diligitur quam cernit et intelligit 
+      <lb ed="#V" n="86"/>apud se ille qui diligit. hec autem veritas interior secundum eundem 
+      <lb ed="#V" n="87"/>non nisi deus est. Unde ibidem inquit. quid est quod accendimur in di 
+      <lb ed="#V" n="88"/>lectionem pauli: cum ista legimus: nisi quod credimus eum ita 
+      vixis<lb ed="#V" n="89" break="no"/>se: videndum tamen sic esse dei ministris non de aliquibus auditum 
+      <lb ed="#V" n="90"/>credimus: sed intus apud nos: aut potius supra in ipsa 
+      veri<lb ed="#V" n="91" break="no"/>tate conspicimus: illum e quem sic vixisse credimus: ex hoc quod 
+      vi<lb ed="#V" n="92" break="no"/>demus diligimus. et nini hanc formam quam semper stabilem atque 
+      <lb ed="#V" n="93"/>incommutabilem cernimus praecipue diligeremus: non ideo 
+      dilige<lb ed="#V" n="94" break="no"/>remus eum: quia eius vitam cum in carne viueret huic forme 
+      <lb ed="#V" n="95"/>coaptatam et congruentem fuisse retinemus. Et paulo post 
+      di<lb ed="#V" n="96" break="no"/>cit: quod in deo conspicimus incommutabilem formam iustitie: secundum quam 
+      <lb ed="#V" n="97"/>hominem viuere oportere iudicamus. Ex hoc patet: quod 
+      inten<lb ed="#V" n="98" break="no"/>tio Aug. est: quod ipsum deum in seipo conspicit qui quid est iustitia vel 
+      <lb ed="#V" n="99"/>iustus animus: et quae forma iusticie seu regula: secundum quam viuem 
+      <lb ed="#V" n="100"/>dum est nouit.
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e559">
+      ⁋ 2o de li. ar. determinat: quod veritates incom 
+      <lb ed="#V" n="101"/>mutabiles numerorum: et veritates sapientie quae sunt prima principium 
+      pra<lb ed="#V" n="102" break="no"/>ctica cognoscuntur a nobis in luce mentis et veritate interiore: quae 
+      <lb ed="#V" n="103"/>vna est omnibus communis: hec incommutabilia vera cernentibus. vnde 
+      ibidem<lb ed="#V" n="104" break="no"/>concludit: quapropter nullo modo negaueris esse incommutabilem 
+      verita<lb ed="#V" n="105" break="no"/>tem: hec omnia qua incommutabiliter vera sunt: continentem: quam non 
+      pos<lb ed="#V" n="106" break="no"/>sis dicere tuam vel meam: vel cuiusquam hominis: sed omnibus 
+      incom<lb ed="#V" n="107" break="no"/>mutabilia vera cernentibus: tamquam miris modis secretum et publi 
+      <lb ed="#V" n="108"/>cum lumen: praesto esse ac se praebere communiter. Et pruius sequenti. c. hanc 
+      <lb ed="#V" n="109"/>inquit veritate de qua diu loquimur: et in qua vna tam multa conspici 
+      <lb ed="#V" n="110"/>mus excellentiorem putas esse quam mens nostra est: an equalem 
+      <lb ed="#V" n="111"/>mentibus nostris: an etiam inferiore: et concludit quod est exellentior. 
+      <lb ed="#V" n="112"/>Et fsequenti. c. dicens quod in eius luce vita beata consistit. et 
+      ex<lb ed="#V" n="113" break="no"/>presse quod est deus: et veritas illa de qua ipse deus: et 
+      veri<lb ed="#V" n="114" break="no"/>tas ait. Si manseritis in verbo meo vere discipuli mei estis: 
+      <lb ed="#V" n="115"/>et cognoscetis veritatem et veritas liberabit vos.
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e594">
+      ⁋ Ex 
+      qu<lb ed="#V" n="116" break="no"/>bus patet quod intentio Aug. est quod prima principim et regule eterne: et alia 
+      <lb ed="#V" n="117"/>incommutabiliter vera immediate cognoscuntur in ipso deo. Et cum 
+      <lb ed="#V" n="118"/>illa primo sint cognita: sequitur quod ipse immediate cognoscatur. 
+      <lb ed="#V" n="119"/>a nobis: et non in aliquo conceptu complexo: qui per aliquem 
+      di<lb ed="#V" n="120" break="no"/>scursum ex aliquibus notis probetur de ente particulariter: 
+      <lb ed="#V" n="121"/>vt supra dicebatur: alias cum omnis certus discursus procedat ex 
+      <lb ed="#V" n="122"/>principiis notis prius: ipsa principim prius nota essent quam deus: et per consequens 
+      <lb ed="#V" n="123"/>non in ipso: vt ait.
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e614">
+      ⁋ 2o quia omne quod cognoscitur distincte et in 
+      <lb ed="#V" n="124"/>particulari cognoscitur immediate in seipso: sed deus sic 
+      co<lb ed="#V" n="125" break="no"/>gnoscitur. igitur. maior probatur ex eo: quod medium per quod aliquid 
+      <lb ed="#V" n="126"/>cognoscitur ducit in noticiam cuiuslibet sibi similis et non 
+      vnius<lb ed="#V" n="127" break="no"/>tantum. minor etiam patet. Nam deum cognoscimus non solum vt essentia 
+      <lb ed="#V" n="128"/>vel substantia quaedam. sed vt hec subitecta. puta perfectissima: vel quae 
+      <lb ed="#V" n="129"/>est principium omnium: quod sibi soli conuenit.
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e631">
+      ⁋ 3o actus intellectuales cogrno 
+      <lb ed="#V" n="130"/>scuntur a nobis immediate in seipsis. igitur deus. antecedens patet supra. 
+      <!--96.xml-->
+      <pb ed="#V" n="50-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>consequentia probatur. quia causa tota propter quam illa cognoscuntur immediate in 
+      <lb ed="#V" n="2"/>seipsis est. quia per se ipsos praesentes sunt intellectui: sed constat 
+      <lb ed="#V" n="3"/>quod deus non minus est praesens intellectui et cuilibet rei. igitur etc 
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e649">
+               <lb ed="#V" n="4"/>⁋ 4o <ref xml:id="grvnZZ-ed1e31-Rd1e653">Aug. 8. de tri.</ref> dans modum quo deus potest a nobis con 
+      <lb ed="#V" n="5"/>gnosci. dicens <quote xml:id="grvnZZ-ed1e31-Qd1e658" source="http://scta.info/resource/adt-l8-d1e958" synch="11-25">Cum itaque audis bonum hoc et bonum illud: quae possunt alias 
+        <lb ed="#V" n="6"/>dici etiam non bona</quote>. verbi gratia. bonus angelus et bonus homo etc. 
+      <lb ed="#V" n="7"/>sequitur: si ergo potueris illis detractis per seipsum perspicere 
+      <lb ed="#V" n="8"/>bonum: perspexeris deum: et si amore inheseris continuo 
+      btinfica<lb ed="#V" n="9" break="no"/>beris. Constat autem quod possumus intelligere bonum secundum se abstra 
+      <lb ed="#V" n="10"/>hendo ab angelo et homine et quolibet alio: quod bonum participa 
+      <lb ed="#V" n="11"/>tione bonum est. Et constat quod illi bono possumus amore 
+      inhe<lb ed="#V" n="12" break="no"/>rere. igitur et in bono possibili intelligi a nobis possumus 
+      btinfi<lb ed="#V" n="13" break="no"/>cari. sed non possumus btinficari nisi in deo immediate: et non 
+      <lb ed="#V" n="14"/>in aliquo conceptu eius simplici vel complexo: igitur ipsum 
+      pos<lb ed="#V" n="15" break="no"/>sumus immediate intelligere.
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e684">
+      ⁋ Contra 2am conclusionem posset 
+      ar<lb ed="#V" n="16" break="no"/>gui: videtur enim quod in conceptu simplici proprio deus possit 
+      cognosci<lb ed="#V" n="17" break="no"/>Nam conceptus boni secundum se secundum Aug. videtur esse conceptus proprius 
+      <lb ed="#V" n="18"/>dei. vnde ait: vbi supra. quid plura et plura bonum hoc: et bonum 
+      <lb ed="#V" n="19"/>illud: tolle hoc et illud: et vide ipsum bonum: si potes ita deum 
+      <lb ed="#V" n="20"/>videbis: non alio bono bonum: sed omnis boni bonum: quod non 
+      <lb ed="#V" n="21"/>esset verum nisi conceptus boni secundum se esset illius dei proprius: sed 
+      <lb ed="#V" n="22"/>talis conceptus boni naturaliter potest haberi: vt docet experientia. 
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e702">
+               <lb ed="#V" n="23"/>⁋ Respondeo ad primum quod aliquid cognosci in veritate superna: 
+      <lb ed="#V" n="24"/>poest intelligi duius. vno modo quod cognoscatur in ea obiectiue: siue vt 
+      <lb ed="#V" n="25"/>in obiecto cognito: sicut res absens cognoscitur in propria specie 
+      <lb ed="#V" n="26"/>Alio modo causaliter sicut color dicitur videri in lumine: non quidem quia ipsum 
+      <lb ed="#V" n="27"/>lumen videatur in eo tamquam in medio cognito cum color videatur. 
+      <lb ed="#V" n="28"/>in seipso immediate vt supra habitum est. sed quia 
+      lu<lb ed="#V" n="29" break="no"/>men est partialis causa visionis: qua color in se videtur: et sic est dicimus 
+      <lb ed="#V" n="30"/>quod prima principiom sunt nota in lumie intellectus agentis: non autem 
+      <lb ed="#V" n="31"/>aliud est lumen intellectus agentis: quam ipsemet intellectus 
+      <lb ed="#V" n="32"/>agens. et constat quod hoc non intelligitur recte: sic quod intellectus agens con 
+      <lb ed="#V" n="33"/>scatur et in eo cognito cognoscantur prima principim: sed quia notitia primorum 
+      princi<lb ed="#V" n="34" break="no"/>piorum immediate causatutr ab intellectu agente saltem partialiter quicquid 
+      <lb ed="#V" n="35"/>sit intellectus agens.
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e733">
+      ⁋ Tunc ad propositum dico quod illa de quibus 
+      <lb ed="#V" n="36"/>loquitur Aug. cognoscuntur in prima veritate secundo mod scilicet causaliter quoniam 
+      <lb ed="#V" n="37"/>ab ipsa causatur illorum noticia: non autem primo scil st obiectiue. et quod 
+      <lb ed="#V" n="38"/>ita intelligat Aug. patet per eum. 2o de li ar. vbi de hac mactia 
+      lo<lb ed="#V" n="39" break="no"/>quitur vbi ait. Non ido sequitur vt ipsa sapientia non sit vna communi 
+      <lb ed="#V" n="40"/>omnibus: quia ea bona que in illa cernunt et eligunt homines multa 
+      <lb ed="#V" n="41"/>et diuersa sunt. Si enim hoc putas: potes et de luce solis dubi 
+      <lb ed="#V" n="42"/>tare quod vna sit. quia multa et diuersa sunt: que in ea cernimus: 
+      <lb ed="#V" n="43"/>Et post subdit. quod sicut multa et diuersa sunt quae in luce 
+      so<lb ed="#V" n="44" break="no"/>vident homines: lux tamen ipsa vna est: ita lux sapientie in qua 
+      <lb ed="#V" n="45"/>ipsa videri possunt: omnibus sapientibus est vna communis. vbi patet: quod sic in 
+      <lb ed="#V" n="46"/>luce sapientie et veritatis quae idem est secundum eundem ibidem: aliqua vider 
+      <lb ed="#V" n="47"/>dicuntur: sic corpora in luce solis: constat autem vt dictum est: quod in 
+      luce<lb ed="#V" n="48" break="no"/>solis non videntur corpora nisi causaliter.
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e764">
+      ⁋ Item patet hoc expressius. <ref xml:id="grvnZZ-ed1e31-Rd1e766">14. 
+        <lb ed="#V" n="49"/>de tri.</ref> vbi dictum est eius expresse: <quote xml:id="grvnZZ-ed1e31-Qd1e771" source="http://scta.info/resource/adt-l14-d1e1656" synch="67-128">vbi nam sunt regule iste scripter 
+          <lb ed="#V" n="50"/>vbi quid sit iustum et iniustum agnoscit: vbi cernit habendum esse: quod 
+          <lb ed="#V" n="51"/>ipse non habet: vbi igitur scripte sunt: nisi in libro lucis illius quae veritas 
+          <lb ed="#V" n="52"/>dicitur vnde omnis lex iusta descendit: et in cor hominis qui operatur iustitiam 
+          <lb ed="#V" n="53"/>non migrando: sed tanquam imprimendo transfertur: sicut imago ex anu 
+          <lb ed="#V" n="54"/>lo ea in ceram transit et anulum non relinquit</quote>. etc. vbi patet: quod ab illa 
+      <lb ed="#V" n="55"/>veritate imprimitur anime lex iusta: et regula iustitie: sicut imago ab 
+      <lb ed="#V" n="56"/>anulo: et sic notitia eorum quae dicuntur in illa cognosci.
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e790">
+      ⁋ Sed contra hoc 
+      di<lb ed="#V" n="57" break="no"/>cetur dubius. Primo hanc responsionem non esse ad intentionem Aug. qui in 
+      lo<lb ed="#V" n="58" break="no"/>cis praeallegatis princius intendit ostendere quo possumus cognoscere 
+      <lb ed="#V" n="59"/>deum scilicet q. de tri. et quo probari potest deum esse scilicet in 2o de li airo hoc 
+      <lb ed="#V" n="60"/>autem non haberetur per ista: si ea de quibus loquitur non cognoscerentur in deo 
+      <lb ed="#V" n="61"/>obiectiue: aut saltem notitia eius esset causa notitia illorum: ita quod deus ipse 
+      <lb ed="#V" n="62"/>sit cognitus.
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e806">
+      ⁋ 2o quia si illa principaliter dicuntur nota in prima veritate so 
+      <lb ed="#V" n="63"/>lum: quia eorum notitia causatur ab ea: cum et notitia conclusionum causetur ab 
+      <lb ed="#V" n="64"/>eo scilicet deo: ita conclusiones possent dici note in primea veritate sicut prima principio 
+      <lb ed="#V" n="65"/>quod non dicitur
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e815">
+      ⁋ Ad primum dico: quod secundum responsionem magis habetur intentio 
+      <!--96.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 50-r b -->
+               <lb ed="#V" n="66"/>Aug. quod patet in 2o de lir ar. volens ostendere deum esse: incipit a quibus 
+      <lb ed="#V" n="67"/>dam imediate notis: sicut est: quod nos sumus viuimus et intelligimus. 
+      <lb ed="#V" n="68"/>vt patet ibidem: et deinde per gradus perfectionum: quia scilicet viuentia praestam 
+      <lb ed="#V" n="69"/>tiora sunt his quae tantum sunt: et intelligentia his quae tantum sunt et viuunt: et tandem 
+      <lb ed="#V" n="70"/>quod est veritas. quae mentibus nostris est praestantior: procedens concludit 
+      fi<lb ed="#V" n="71" break="no"/>naraliter deum esse.
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e837">
+      ⁋ Ex quibus apparet quod notitia dei non est prior: nec 
+      <lb ed="#V" n="72"/>ex illa procedit ad notitiam aliorum. Sed econtra ex aliis nobis 
+      no<lb ed="#V" n="73" break="no"/>tis probatur esse aliquam veritatem primam incommutabilem: ex qua causaliter nota 
+      <lb ed="#V" n="74"/>sunt nobis: quaecumque incommutabiliter vera sunt. Et hoc confirmatu ex. 
+      <lb ed="#V" n="75"/>perientia. Nam multi veritates multas cognoscunt qui deum non 
+      cogno<lb ed="#V" n="76" break="no"/>scunt: nec etiam si deus sic immediate cognosceretur: oporteret etiam 
+      <lb ed="#V" n="77"/>ex aliis notis nobis probare deum esse: sicut oportet 
+      proba<lb ed="#V" n="78" break="no"/>re quod viuimus et intelligimus. Et per hoc patet etiam quod datur modus quo 
+      <lb ed="#V" n="79"/>cognoscitur deus. quia videlicet in illo conceptu composito si 
+      <lb ed="#V" n="80"/>bi proprio veritas prima: in qua causaliter nota sunt quecumque 
+      <lb ed="#V" n="81"/>incommutabiliter vera sunt: qui probatur de ente particulariter 
+      <lb ed="#V" n="82"/>sumpto.
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e863">
+      ⁋ Ad secundam dicendum: quod secundum intentionem 
+      Augustini<lb ed="#V" n="83" break="no"/>vbi supra de li. arbitrio. et. 5. confes. veritas prima non solum 
+      <lb ed="#V" n="84"/>est causa noticie principiorum: sed est conclusionum: et generaliter omnis ve 
+      <lb ed="#V" n="85"/>ritatis. veruntm quia ad noticiam conclusionum cocurrit causaliter 
+      <lb ed="#V" n="86"/>etiam noticia principiorum: et non econuerso: ideo magis dicitur quod principio sunt 
+      <lb ed="#V" n="87"/>nota in prima veritate quam conclusiones: sicut est dicitur de intellectu agen 
+      <lb ed="#V" n="88"/>te: quamuis intellectus agens sit etiam causa noticie conclusionum.
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e879">
+      ⁋ Ad rationem 
+      <lb ed="#V" n="89"/>nctin supra factam cum dicitur quod omne quod cognoscitur distincte: et in 
+      parti<lb ed="#V" n="90" break="no"/>culari: cognoscitur immediate inseipso. Dico quod hoc est falsum 
+      <lb ed="#V" n="91"/>libet enim quod in se ipso immediate cognoscitur: cognoscatur in parti 
+      <lb ed="#V" n="92"/>culari: non tamen econuerso: omne quod cognoscitur in particulari et 
+      distin<lb ed="#V" n="93" break="no"/>cte: cognoscitur immediate in seipso. probatum est enim supra quod 
+      <lb ed="#V" n="94"/>intellectus potest cognoscere singulare absens in particulari et 
+      <lb ed="#V" n="95"/>vt singulare in propria forma et specie illius. Tunc ad probatio 
+      <lb ed="#V" n="96"/>nem cum dicitur quod medium per quod cognoscitur ducit indresponter in 
+      <lb ed="#V" n="97"/>noticiam cuiuslibet sibi similis: et non tantum vnius. hic primo potest 
+      <lb ed="#V" n="98"/>dici quantum spectat ad propositum: quod conceptus proprius deo 
+      <lb ed="#V" n="99"/>nullius alterius est conceptus. nec alicui alteri similis. 
+      <lb ed="#V" n="100"/>quaeuis tales conceptus non sic et eodem: possint dici similes rebus 
+      pro<lb ed="#V" n="101" break="no"/>quibus supponunt: sicut conceptus immediate a rebus 
+      abstra<lb ed="#V" n="102" break="no"/>cti: et species est singulares: quomodocumque tamen conceptus 
+      <lb ed="#V" n="103"/>proprius deo possit fieri similis: vel dici repraesentatiuus dei. 
+      <lb ed="#V" n="104"/>Dico quod est sibi sic proprius: quod nulli alteri est communis: nec sunt 
+      <lb ed="#V" n="105"/>plures quibus sit communis. et ideo per ipsum potest in particulari cogrno 
+      <lb ed="#V" n="106"/>sci.
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e922">
+      ⁋ 2o dico quod illa propositio non est vera etiam in aliis vbi sunt plu 
+      <lb ed="#V" n="107"/>ra eiusdem rationis inter se similia. vnde vt supra probatum est: species 
+      <lb ed="#V" n="108"/>huius albedinis demonstrate sic determinate ducit in 
+      noti<lb ed="#V" n="109" break="no"/>ciam eius quod non in noticiam alterius: quamuis sint multe omnine 
+      <lb ed="#V" n="110"/>sibi similes: nec talis similitudo speciei ad quamlibet albedinem 
+      <lb ed="#V" n="111"/>similem ei a qua causata est: facit quod ipsa sit repraesentatiua cuiuslibet 
+      <lb ed="#V" n="112"/>talis. sicut et visio albedinis huius demonstrate: est 
+      vi<lb ed="#V" n="113" break="no"/>sio eius tantum et nullius alterius: et tamen ipsa visio: vel est species 
+      <lb ed="#V" n="114"/>rei aut saltem eius similitudo: non minor quam species: si species ponatur 
+      di<lb ed="#V" n="115" break="no"/>stincta a visione: sicut ergo visio est visio huius tantum: sic talis 
+      <lb ed="#V" n="116"/>species est huius tantum repraesentatiua: et in eius tantum noticiam ducit. 
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e946">
+               <lb ed="#V" n="117"/>⁋ Ad 3m nego consequentia: nec enim omnis praesentia sufficit vt supra 
+      <lb ed="#V" n="118"/>patet: sed praesentia obiectiua: quand scilicet res praesens causat in intellectu no 
+      <lb ed="#V" n="119"/>ticiam: sine autem tali praesentia non est deus nobis praesens: dum su 
+      <lb ed="#V" n="120"/>mus in mundo isto.
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e957">
+      ⁋ Ad 4m concedo quod possumus 
+      intelli<lb ed="#V" n="121" break="no"/>gere illud bonum in quo possumus btinficari: et illud vtique 
+      <lb ed="#V" n="122"/>deus est: non conceptus dei: sed non sequitur. btinficabimur 
+      <lb ed="#V" n="123"/>in deo immediate. igitur cognoscimus deu immediate: quamuis 
+      <lb ed="#V" n="124"/>sequatur: igitur cognoscemus deum immediate: et similiter sequitur. 
+      <lb ed="#V" n="125"/>beatificamur in deo immediate. ergo cognoscimus deum 
+      immen<lb ed="#V" n="126" break="no"/>diate.
+    </p>
+            <p xml:id="grvnZZ-ed1e31-d1e973">
+      ⁋ Ad dubium contra 2am conclusionem. dico quod conceptus boni 
+      <lb ed="#V" n="127"/>secundum se poest dupliciter intelligi. vno modo: cum praecisione cuiuslibet 
+      alteri<lb ed="#V" n="128" break="no"/>us conceptus communis: aut speciealis positiui vel negatiui: et talis 
+      <lb ed="#V" n="129"/>conceptus nullius boni est proprius: sed omni bono communis: et ideo in 
+      <lb ed="#V" n="130"/>tali conceptu non cognoscitur determinate et in speciali deus:
+      
+      <pb ed="#V" n="50-v"/>
+               <cb ed="#V" n="a"/>
+               <pb ed="#V" n="NaN-v"/>
+               <cb ed="#V" n="a"/>
+               <!-- end of question missing --> 
+               <!-- folio 50v (at 96) and 51r (at 97) missing in manifest -->
+               <!-- next folio appearing is 51v (at 98) and then 52r (at 99) -->
+               <!--97.xml-->
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
