@@ -55,7 +55,8 @@
          <div xml:id="grvnZZ-ed1e33"><!-- l1d5q2 -->
             <head xml:id="grvnZZ-ed1e33-Hd1e106">Quaestio 2</head>
             <head xml:id="grvnZZ-ed1e33-Hd1e109" type="question-title">Utrum divina essentia sit subiectum an formalis terminus divinae generationis</head>
-            <p xml:id="grvnZZ-ed1e33-d1e112">
+           
+           <p xml:id="grvnZZ-ed1e33-d1e112" n="Quaestio">
                <lb ed="#V" n="54"/>⁋ Distinctionis. V. Questio. II 
       <lb ed="#V" n="55"/>Supposito ex questione praecedenti 
       <lb ed="#V" n="56"/>quod essentia diuina nec 
@@ -63,6 +64,8 @@
       <lb ed="#V" n="58"/>subiectum aut formalis terminus diuine gene 
       <lb ed="#V" n="59"/>rationis:
     </p>
+           <div xml:id="grvnZZ-ed1e33-Dd1e128" type="rationes-principales">
+             <head xml:id="grvnZZ-ed1e33-Hd1e130">Rationes principales</head>
             <p xml:id="grvnZZ-ed1e33-d1e128">
       ⁋ Arguitur primo quod sit subiectum. Omne 
       <lb ed="#V" n="60"/>quod per se ingreditur entitatem per se geniti: et non 
@@ -90,8 +93,10 @@
       <lb ed="#V" n="76"/>generationem sit de genere substantie: vt patet. 5. phy. nec est a tota 
       <lb ed="#V" n="77"/>persona filii primo: quia persona includit duo scilicet subiectam et proprietatem: t 
       <lb ed="#V" n="78"/>duobus aut et maxime diuersarum rationum vna productio equae primo denomnina 
-      <lb ed="#V" n="79"/>ri seu specificari non potest: reliquitur igitur quod primo specificetur a filii subiecta. 
-      <lb ed="#V" n="80"/>Sppositum vtriusque probatur sic. nullum imper 
+      <lb ed="#V" n="79"/>ri seu specificari non potest: reliquitur igitur quod primo specificetur a filii subiecta.
+            </p>
+           <p xml:id="grvnZZ-ed1e33-d1e188">
+      <lb ed="#V" n="80"/>Oppositum vtriusque probatur sic. nullum imper 
       fe<lb ed="#V" n="81" break="no"/>ctionem habens necessario annexam est 
       <lb ed="#V" n="82"/>in deo. patet: sed omnis formalis terminus generationis et omne subiectum 
       <lb ed="#V" n="83"/>est huiusmodi igitur etc. minor declaratur: quoniam nec subiectum nec terminus 
@@ -102,11 +107,18 @@
     </p>
             <p xml:id="grvnZZ-ed1e33-d1e202">
       ⁋ Item tam subiectum quam formalis 
-      ter<lb ed="#V" n="88" break="no"/>minus est alteri compossibile: constat aut quod he sunt imperfectiones quadam. 
+      ter<lb ed="#V" n="88" break="no"/>minus est alteri compossibile: constat aut quod he sunt imperfectiones quadam.
+            </p>
+           <p xml:id="grvnZZ-ed1e33-d1e214">
       <lb ed="#V" n="89"/>In. q. duo erunt articuli. In primo inquiretu an 
       substan<lb ed="#V" n="90" break="no"/>tia vel essentia diuina seu natura divina 
       <lb ed="#V" n="91"/>sit subiectum divine generationis. In 2o an sit formalis terminus 
-      <lb ed="#V" n="92"/>Quantum ad primum pono per negatiuam conclusion scilicet quod essentia 
+            </p>
+         </div>
+        <div xml:id="grvnZZ-ed1e33-Dd1e224">
+          <head xml:id="grvnZZ-ed1e33-Hd1e226">Articulus 1</head>
+           <p xml:id="grvnZZ-ed1e33-d1e229">
+      <lb ed="#V" n="92"/>Quantum ad primum pono per negatiuam conclusionem scilicet quod essentia 
       di<lb ed="#V" n="93" break="no"/> uina non est subiectum divine generationis. Probatur. 
       <lb ed="#V" n="94"/>sic. Smne subiectum generationis est realiter distinctum a generatione cuius est subus 
       <lb ed="#V" n="95"/>iectum: essentia divina non est realiter distincta a generatione divina: igitur non est 
@@ -218,20 +230,32 @@
       ⁋ 4o 
       <lb ed="#V" n="37"/>sic. si essentia diuina esset subiectum generationis filii: filius esset 
       ge<lb ed="#V" n="38" break="no"/>nitus ex essentia diuina: et esset ex ea. patet: quia omne genitum cuius ge 
-      <lb ed="#V" n="39"/>nerationis est aliquod subiectum est ex illo subiecto: sed consequens est secuiltum 
+      <lb ed="#V" n="39"/>nerationis est aliquod subiectum est ex illo subiecto:
+            </p>
+          <p xml:id="grvnZZ-ed1e33-d1e437">
+              sed consequens est falsum 
       <lb ed="#V" n="40"/>tum quia ipse est essentia diuina: et essentia diuina est filius: vt patet 
-      <lb ed="#V" n="41"/>per determinationem ecclesie in illo capitulo damnamus: igitur ipse no 
-      <lb ed="#V" n="42"/>est ex esentia: quia nihil est illud ex quo ipsum est: nec econverso sic 
+            <lb ed="#V" n="41"/>per <ref xml:id="grvnZZ-ed1e33-Rd1e443" source="http://scta.info/resource/cice-l1t1-d1e134"><!-- precise ref unclear -->determinationem ecclesie in illo capitulo damnamus</ref>: igitur ipse no 
+      <lb ed="#V" n="42"/>est ex essentia: quia nihil est illud ex quo ipsum est: nec econverso sic 
       <lb ed="#V" n="43"/>homo non est corpus ex quo est: nec est anima ex qua est: nec corp 
-      <lb ed="#V" n="44"/>est homo: sed homnis: et anima similiter: vt notum est. Et Aug. dicit. 15. de 
-      <lb ed="#V" n="45"/>tri. Tum per rationem Ansel. monlogion. 7. qua probat quod creatura non 
+      <lb ed="#V" n="44"/>est homo: sed homnis: et anima similiter: vt notum est. Et <ref xml:id="grvnZZ-ed1e33-Rd1e454">Aug. dicit. 15. de 
+      <lb ed="#V" n="45"/>tri.</ref>
+          </p>
+          <p xml:id="grvnZZ-ed1e33-d1e460">
+            Tum per rationem <ref xml:id="grvnZZ-ed1e33-Rd1e462">Ansel. monlogion. 7.</ref> qua probat quod creatura non 
       <lb ed="#V" n="46"/>est ex seipsa tamquam ex materia. Arguit enim sic. omne quod ex materia est 
       <lb ed="#V" n="47"/>ex aliquo est et eo posterius: quoniam igitur nihil est aliud a seipso 
       <lb ed="#V" n="48"/>vel potius se ipso: sequitur quod nihil sit materialiter ex seipso: igitur. 
       <lb ed="#V" n="49"/>Similiter si filius est ex esentia: est alius ab essentia et posterior 
-      <lb ed="#V" n="50"/>ea: quae falsa sunt. Tum quia nullum omnino simplex est ex aliquo: non 
+      <lb ed="#V" n="50"/>ea: quae falsa sunt.
+          </p>
+          <p xml:id="grvnZZ-ed1e33-d1e477">
+            Tum quia nullum omnino simplex est ex aliquo: non 
       <lb ed="#V" n="51"/>enim dicimus materiam esse ex aliquo: aut formam: filius aut est omnino 
-      <lb ed="#V" n="52"/>simplex. Tum ex auctoritas Aug. 7. de tri. vbi ait. tamen tres per 
+      <lb ed="#V" n="52"/>simplex.
+          </p>
+          <p xml:id="grvnZZ-ed1e33-d1e484">
+            Tum ex auctoritas <ref xml:id="grvnZZ-ed1e33-Rd1e486">Aug. 7. de tri.</ref> vbi ait. tamen tres per 
       <lb ed="#V" n="53"/>sonas vnam essentiam dicimus: tres autem personas ex eadem esen 
       <lb ed="#V" n="54"/>tia non dicimus. Et assignat rationem. quasi inquit aliud ibi sit quod 
       <lb ed="#V" n="55"/>essentia est aliud quod persona: quod suie oporteret si persona esset ex: 
@@ -461,9 +485,17 @@
       <lb ed="#V" n="92"/>qui ipse non est de nihilo vt creatura: et per consequens oportet quod de 
       ali<lb ed="#V" n="93" break="no"/>qua subiecta: aut sit aliqua subiecta: et non apparet nisi subiecta pa 
       <lb ed="#V" n="94"/>tris. ergo est subiecta patris: ac per hoc ex patre qui est subiecta: in qua vel quae 
-      <lb ed="#V" n="95"/>est filius et econuerso. Et sic finitur articulus primus 
+      <lb ed="#V" n="95"/>est filius et econuerso. Et sic finitur articulus primus
+            </p>
+        </div>
+           <div xml:id="grvnZZ-ed1e33-Dd1e908" type="articulus">
+             <head xml:id="grvnZZ-ed1e33-Hd1e910">Articulus 2</head>
+             <head xml:id="grvnZZ-ed1e33-Hd1e913" type="question-title">An essentia divina sit formalis terminus generationis</head>
+             <p xml:id="grvnZZ-ed1e33-d1e916">
       <lb ed="#V" n="96"/>Quantum ad 2m artic. Queritur an essentia diui 
-      <lb ed="#V" n="97"/>na sit formalis terminus generationis 
+      <lb ed="#V" n="97"/>na sit formalis terminus generationis
+             </p>
+             <p xml:id="grvnZZ-ed1e33-d1e923">
       <lb ed="#V" n="98"/>Est vna opinio. dicens quod non. Ad quod ostendendum probat duc 
       <lb ed="#V" n="99"/>per ordinem.
     </p>
@@ -472,7 +504,10 @@
       <lb ed="#V" n="100"/>rationis: et cuiuslibet productionis consistit in hoc quod 
       ca<lb ed="#V" n="101" break="no"/>pit quod sit: et sua realitas accipit vt sit realitas per produ 
       <lb ed="#V" n="102"/>ctionem illam: et non solum vt in alio sit: ratio autem subie 
-      <lb ed="#V" n="103"/>cti consistit in hoc quod recipit illam. Quia autem illa sit ratio 
+      <lb ed="#V" n="103"/>cti consistit in hoc quod recipit illam.
+            </p>
+             <p xml:id="grvnZZ-ed1e33-d1e942">
+              Quia autem illa sit ratio 
       for<lb ed="#V" n="104" break="no"/>malis termini probant primo inducendo. Si enim vt dicunt 
       <lb ed="#V" n="105"/>albedo non accipiat esse per dealbationem: nequaquam esset 
       <lb ed="#V" n="106"/>terminus formalis dealbationis. Similiter nec forma ignis 
@@ -870,8 +905,11 @@
       <lb ed="#V" n="19"/>vitam: accepit iste vitam: quia natus est vita. Similiter intelligendum 
       <lb ed="#V" n="20"/>est accepisse esentiam: quia natus est essentia.
     </p>
+           </div>
+           <div xml:id="grvnZZ-ed1e33-Dd1e1716">
+             <head xml:id="grvnZZ-ed1e33-Hd1e1718">Ad rationes principales</head>
             <p xml:id="grvnZZ-ed1e33-d1e1680">
-      ⁋ ⁋ Ad primum argueus 
+      ⁋ ⁋ Ad primum arguens 
       <lb ed="#V" n="21"/>questionis dicendum: quod essentia diuina non est ingrediens personam 
       <lb ed="#V" n="22"/>filii: nec est aliquid sibi intrinsecum: ex quo sit filius iuxta 
       imagina<lb ed="#V" n="23" break="no"/>tionem in qua procedit argumentum: sed est filius: et filius est ipsa. 
@@ -886,6 +924,7 @@
       <lb ed="#V" n="27"/>situm verum concludit: accipiendo terminum formalem: sed 
       <lb ed="#V" n="28"/>quod non est totalis: sed aliquid eius. Et sic finitur. 
     </p>
+           </div>
          </div>
       </body>
    </text>
