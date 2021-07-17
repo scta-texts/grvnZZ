@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- schema preventing valid use of figure in p
-  <?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><!-- schema preventing valid use of figure in p
+  <?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>--><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -1797,11 +1795,11 @@
           <lb ed="#V" n="15"/>maiorem et merito: cum expresse dicat apostolus: quod fides est 
           argumen<lb ed="#V" n="16" break="no"/>tum non apparentium: et quod sine fide impossibile est placere deo. ergo secend 
           <lb ed="#V" n="17"/>eum tenemur credere non apparentia: et per consequens non perse 
-          no<lb ed="#V" n="18" break="no"/>bis nota: aut ex talibus deducta. Augu. quoque. 13. de tri. 
+          no<lb ed="#V" n="18" break="no"/>bis nota: aut ex talibus deducta. <ref xml:id="grvnZZ-d1e97-Rd1e3384">Augu. quoque. 13. de tri.</ref> 
           in<lb ed="#V" n="19" break="no"/>quit quod propterea credere iubemur: quia id quod credere 
-          iube<lb ed="#V" n="20" break="no"/>mur videre non possumus: cum est tertio articu. parisien. 3 7. 
-          <lb ed="#V" n="21"/>eam expresse condenet. dicens quod nihil est credendum: nisi per se notum vel 
-          <lb ed="#V" n="22"/>nisi ex perse notis possit demonstrari error.
+          iube<lb ed="#V" n="20" break="no"/>mur videre non possumus: cum est tertio <ref xml:id="grvnZZ-d1e97-Rd1e3392">articu. parisien. 37.</ref> 
+          <lb ed="#V" n="21"/>eam expresse condenet. dicens <quote xml:id="grvnZZ-d1e97-Qd1e3397" source="http://scta.info/resource/z88d99-avn8u2-d1e390">quod nihil est credendum: nisi per se notum vel 
+          <lb ed="#V" n="22"/>nisi ex per se notis possit demonstrari error</quote>.
         </p>
         <p xml:id="grvnZZ-d1e97-d1e3358">
           ⁋ Ad 
