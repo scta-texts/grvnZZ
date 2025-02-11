@@ -49,6 +49,7 @@
       <front>
          <div xml:id="starts-on">
             <pb ed="#V" n="74-v"/>
+            <cb ed="#V" n="b"/>
          </div>
       </front>
       <body>
@@ -59,7 +60,7 @@
       vel non ipse sed tantum dona eius</head>
             <p xml:id="grvnZZ-ed1e5Y-d1e112">
                <lb ed="#V" n="97"/>⁋ Distinctionis. XII. X7. etX XvI. Qon. 
-      <lb ed="#V" n="98"/>Irca distinctionem decimamquartam. 15. 
+      <lb ed="#V" n="98"/>CIrca distinctionem decimamquartam. 15. 
       <lb ed="#V" n="99"/>et ideo In quibus magister agit de pro 
       <lb ed="#V" n="100"/>scessione temporali: siue missione vel datione 
       <lb ed="#V" n="101"/>spiritus sctint. Quero vtrum spitus secus scilicet 3a in 
@@ -77,9 +78,9 @@
       gra<lb ed="#V" n="110" break="no"/>tiam: que non est ipse: sed eius donum hominibus dari.
     </p>
             <p xml:id="grvnZZ-ed1e5Y-d1e149">
-      ⁋ 2o Aug. 
-      <lb ed="#V" n="111"/>4o de tri. ait. sicut spiritui sancto donum dei esse: est a patre 
-      proceden<lb ed="#V" n="112" break="no"/>re: ita mitti est cognosci quod ab illo procedat.
+      ⁋ 2o <ref xml:id="grvnZZ-ed1e5Y-Rvn123v">Aug. 
+      <lb ed="#V" n="111"/>4o de tri.</ref> ait. <quote xml:id="grvnZZ-ed1e5Y-Qzxcnmb" source="http://scta.info/resource/adt-l4-d1e643@70-87">sicut spiritui sancto donum dei esse: est a patre 
+      proceden<lb ed="#V" n="112" break="no"/>te: ita mitti est cognosci quod ab illo procedat</quote>.
     </p>
             <p xml:id="grvnZZ-ed1e5Y-d1e157">
       ⁋ Ex his sic. si 
@@ -88,10 +89,17 @@
       <lb ed="#V" n="115"/>et est donum eius: iuxta illud nemo potest dicere dominus deus nisi 
       <lb ed="#V" n="116"/>in spum secndo. prima ad Corntis i2. et idem iudicium est de spum secondo: quod scilicet 
       <lb ed="#V" n="117"/>nemo potest illum cognoscere nisi per eum hanc cognitionem tribuentem. 
+            </p>
+            <p xml:id="grvnZZ-ed1e5Y-d1e161">
       <lb ed="#V" n="118"/>In oppositum est magister in dicens 1n 2. qui per auctoritas Aug. eo 
       <lb ed="#V" n="119"/>et Ambro. probat efficaciter non solum 
       <lb ed="#V" n="120"/>dona: sed ipsam spiritus sancti personam dari. 
-      <lb ed="#V" n="121"/>ifespondeo urorasiarsi us u u uo o o ouda 
+            </p>
+            <p xml:id="grvnZZ-ed1e5Y-d1e171">
+      <lb ed="#V" n="121"/>Respondeo primo ponam aliquas conclusiones 2o obiiciam
+               <!-- missing line break -->contra dicta et soluam
+            </p>
+               <p xml:id="grvnZZ-ed1e5Y-d1e185">
       <lb ed="#V" n="122"/>pono autem conclusiones quatuor. prima est quod ipsa persona spiritus scint 
       <lb ed="#V" n="123"/>secundum se datur homini: et non tantum dona eius. 2a quod 
       quaesdo<lb ed="#V" n="124" break="no"/>cumque datur spitus secuns: datur est aliquod donum eius scilicet gratia gratum 
@@ -103,7 +111,7 @@
     </p>
             <p xml:id="grvnZZ-ed1e5Y-d1e196">
       ⁋ Primam conclusionem scilicet quod spiritus scient persona detur 
-      communi<lb ed="#V" n="130" break="no"/>ter hodie tenent doc.s et magister auctoritas scinctorum probat inlittera 14. dicens 
+      communi<lb ed="#V" n="130" break="no"/>ter hodie tenent doc. et magister auctoritas sanctorum probat in littera 14. dicens 
       <!--144.xml-->
       <pb ed="#V" n="75-r"/>
                <cb ed="#V" n="a"/>
