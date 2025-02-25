@@ -48,7 +48,8 @@
    <text xml:lang="la">
       <front>
          <div xml:id="starts-on">
-            <pb ed="#V" n="-r"/>
+            <pb ed="#V" n="74-v"/>
+            <cb ed="#V" n="a"/>
          </div>
       </front>
       <body>
@@ -79,8 +80,8 @@
       <lb ed="#V" n="18"/>vnus filius in trinitate. Iuxta quod 
       scni<lb ed="#V" n="19" break="no"/>bitur Io. 3. Sic deus dilexit mundum vt filium suum vnigenitum 
       <lb ed="#V" n="20"/>darent etc. propter quod in symbolo apostolorum confitemsur 
-      vni<lb ed="#V" n="21" break="no"/>cum dei filium. et cum ideo filius: quia genitus et quia filius vtique 
-      <lb ed="#V" n="22"/>genitus. vt dicit Aug. 5. de tri. constant quod spitus scus non est 
+      vni<lb ed="#V" n="21" break="no"/>cum dei filium. et cum <quote xml:id="grvnZZ-ed1e49-Qcnuu11" source="http://scta.info/resource/adt-l5-d1e702@51-60">ideo filius: quia genitus et quia filius vtique 
+      <lb ed="#V" n="22"/>genitus</quote>. vt dicit <ref xml:id="grvnZZ-ed1e49-Rvij111" corresp="#grvnZZ-ed1e49-Qcnuu11">Aug. 5. de tri.</ref> constant quod spiritus sanctus non est 
       fi<lb ed="#V" n="23" break="no"/>lius neque genitus. et per consequens nec eius processio est generatio. 
     </p>
             <p xml:id="grvnZZ-ed1e49-d1e166">
