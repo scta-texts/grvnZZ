@@ -63,27 +63,31 @@
     </p>
             <p xml:id="grvnZZ-ed1e47-d1e123">
       ⁋ Et arguitur 
-      <lb ed="#V" n="59"/>quod non sic. pater et filius non sunt vnus spira 
-      <lb ed="#V" n="60"/>tor. spiritus sanctus ergo pater et filius non sunt vnum principium spec 
-      <lb ed="#V" n="61"/>rans spiritum sanctum. Antecedens patet per hyla. 2o de 
+      <lb ed="#V" n="59"/>quod non sic. pater et filius non sunt vnus 
+      spira<lb ed="#V" n="60" break="no"/>tor. spiritus sanctus ergo pater et filius non sunt vnum principium 
+      spir<lb ed="#V" n="61" break="no"/>rans spiritum sanctum. Antecedens patet per hyla. 2o de 
       tri.<lb ed="#V" n="62" break="no"/>vbi ait. quod spiritus secus a patre et filio auctoribus confitendus 
       <lb ed="#V" n="63"/>est. pater ergo et filius sunt auctores spiritus sancti seu spiratores: et non sunt 
       <lb ed="#V" n="64"/>auctor seu spirator. consequentia patet. quia hoc est esse principium spirans 
       <lb ed="#V" n="65"/>spectum sanctum quod esse spiratorem spiritus sancti. 
+            </p>
+            <p xml:id="grvnZZ-ed1e47-d1e145">
       <!--141.xml-->
       <cb ed="#V" n="b"/> 
                <!-- 73-v b -->
                <lb ed="#V" n="66"/>Ad oppositum piter et filius sunt vnus creator et vnum 
       <lb ed="#V" n="67"/>principium producens creaturas. ergo pater et 
-      fi<lb ed="#V" n="68" break="no"/>lius sunt vnus spirator et vnum principium spirans spectum sanctu. Antecedens 
+      fi<lb ed="#V" n="68" break="no"/>lius sunt vnus spirator et vnum principium spirans spiritum sanctum. Antecedens 
       <lb ed="#V" n="69"/>notum est per Aug. 5. de tri. Et consequentia probatur. quoniam non magis ipsi 
       <lb ed="#V" n="70"/>vniuntur in productione creature: quam in productione spiritus sancti 
-      <lb ed="#V" n="71"/>snndeo quamuis de ista. pater et silius sunt vnus spirator sint 
+            </p>
+            <p xml:id="grvnZZ-ed1e47-d1e180">
+      <lb ed="#V" n="71"/>Respondeo quamuis de ista. pater et silius sunt vnus spirator sint 
       <lb ed="#V" n="72"/>diuerse opiniones doc. hec tamen. pater et filius sunt vnum 
-      <lb ed="#V" n="73"/>principium spirans spectum scuentum. communiter conceditur. vnde Aug. 5. de tri. ait. 
-      <lb ed="#V" n="74"/>atendum est patrem et filium principium esse spitus scient: non duo principio: sed 
-      <lb ed="#V" n="75"/>sicut pater et filius vnus deus et ad creaturam relatiue vnus crea  
-      <lb ed="#V" n="76"/>tor et vnus dominus. sic relatiue ad spectum scentum vnum principium. Constat 
+      <lb ed="#V" n="73"/>principium spirans spectum scuentum. communiter conceditur. vnde <ref xml:id="grvnZZ-ed1e47-Rtt1ttt" corresp="#grvnZZ-ed1e47-Qcan567">Aug. 5. de tri.</ref> ait. 
+      <lb ed="#V" n="74"/><quote xml:id="grvnZZ-ed1e47-Qcan567" source="http://scta.info/resource/adt-l5-d1e756@138-172">fatendum est patrem et filium principium esse spiritus sancti: non duo principio: sed 
+      <lb ed="#V" n="75"/>sicut pater et filius vnus deus et ad creaturam relatiue vnus 
+      crea<lb ed="#V" n="76" break="no"/>tor et vnus dominus. sic relatiue ad spectum scentum vnum principium</quote>. Constat 
       <lb ed="#V" n="77"/>ergo ex his concedendum esse quod pater et filius sunt vnum principium 
       spi<lb ed="#V" n="78" break="no"/>rans et non duo spirantia.s cilise. Sed vtrum illud sit proprie dictum 
       <lb ed="#V" n="79"/>et de virtute sermonis concedendum: dubium est. Quoniam principium in 
