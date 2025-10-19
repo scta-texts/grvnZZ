@@ -1,556 +1,556 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Quaestio 1</title>
-        <author ref="#Rimini">Gregory of Rimini</author>
-        <respStmt>
-          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-          <resp>Transcription Editor</resp>
-          <resp>TEI Encoder</resp>
-        </respStmt>
-        
-      </titleStmt>
-      <editionStmt>
-        <edition n="0.0.0-dev">
-          <title>Quaestio 1</title>
-          <date when="2020-10-03">October 03, 2020</date>
-        </edition>
-      </editionStmt>
-      <publicationStmt>
-        <authority>SCTA</authority>
-        <availability status="free">
-          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <listWit>
-          <witness xml:id="V" n="cod-ae1bsb">Venice 1503</witness>
-        </listWit>
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
-      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-      <editorialDecl>
-        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-          guidelines for a diplomatic edition.</p>
-      </editorialDecl>
-    </encodingDesc>
-    <revisionDesc status="draft">
-      <listChange>
-        <change when="2020-10-03" status="draft" n="0.0.0">
-          <p>Created file for the first time.</p>
-        </change>
-      </listChange>
-    </revisionDesc>
-  </teiHeader>
-  <text xml:lang="la">
-    <front>
-      <div xml:id="starts-on">
-        <pb ed="#V" n="55-v"/>
-      </div>
-    </front>
-    <body>
-      <div xml:id="grvnZZ-ed1e34"><!-- l1d6q1 -->
-        <head xml:id="grvnZZ-ed1e34-Hd1e106">Quaestio 1</head>
-        <head xml:id="grvnZZ-ed1e34-Hd1e109" type="question-title">Utrum pater genuerit filium natura et necessitate aut voluntate</head>
-        <p xml:id="grvnZZ-ed1e34-d1e112">
-          <lb ed="#V" n="29"/>⁋ Distinctionis. VI. Questio. I. 
-          <lb ed="#V" n="30"/>CIrca sextam distinctionem. 
-          Que<lb ed="#V" n="31" break="no"/>ro vtrum pater 
-          genue<lb ed="#V" n="32" break="no"/>rit filium natura et necessitate aut voluntate: et 
-          <lb ed="#V" n="33"/>quod naturam probatur. Nam generatio est opus naturesecundu 
-          <lb ed="#V" n="34"/>Damenid liso primo Item filius dei est filius natura secundum 
-          <lb ed="#V" n="35"/>Aug. 15. de tri. igitur pater generat nam: et est 
-          pa<lb ed="#V" n="36" break="no"/>ter nam.
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e132">
-          ⁋ 2o probatur quod necessitate sic: filius 
-          <lb ed="#V" n="37"/>a patre naturaliter genitus. ergo necessario antecedens probatum est. et consequentia tenet ex 
-          <lb ed="#V" n="38"/>differentia potentiarum naturalium et rationabilium data. 9. meta.
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e139">
-          ⁋ 3o 
-          proba<lb ed="#V" n="39" break="no"/>tur quod voluntate sic: pater voluit gignere filium. ergo voluntate 
-          ge<lb ed="#V" n="40" break="no"/>nuit. consequentia patet. Antecedens probatur. Nam dicens Aug. lib. 3. contra max. et 
-          habe<lb ed="#V" n="41" break="no"/>tur infra. dis. 3o. Si paiter noluit generare filium inuidus fuit: sed  
-          <lb ed="#V" n="42"/>hoc consequens est falsum. ergo voluit generare filium. 
-          <lb ed="#V" n="43"/>In oppositum arguitur et quod nec voluntate nec ne 
-          <lb ed="#V" n="44"/>cessitate genuerit filium: 
-          proba<lb ed="#V" n="45" break="no"/>tur auctoritas Aug. ad orosium: qua dicitur et habteur in principio dis. huius. nec 
-          volun<lb ed="#V" n="46" break="no"/>tate inquit: nec necessitate: quia necessitas in deo non est: preire 
-          <lb ed="#V" n="47"/>sapientiam voluntas non potest quae est filius.
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e162">
-          ⁋ 2o quod nec natura autcri. hyel. 
-          <lb ed="#V" n="48"/>2o de synodim. Si quis dicat quod paiter naturali necessitate ductus 
-          ge<lb ed="#V" n="49" break="no"/>s espondeo. nuit anathema sit 
-          <lb ed="#V" n="50"/>et praemitto intellectum. q. Nam potest esse duplex: 
-          <lb ed="#V" n="51"/>sicut: et praedicti ablatiui possunt dupliciter teneri: vt consuetum est 
-          di<lb ed="#V" n="52" break="no"/>ci. possunt enim teneri nominaliter. alio modo possunt teneri aduerbialiter. 
-          <lb ed="#V" n="53"/>Si primo modo adhuc dupliciter. vno modo materialiter: vt construantur 
-          in<lb ed="#V" n="54" break="no"/>ratione termini formaliter denominantis sicut dicimus: quod hoc est a 
-          <lb ed="#V" n="55"/>pum albedinie: et hic fortis fortitudinie: et calefactus calefactione 
-          <lb ed="#V" n="56"/>et visum visione: et sic de aliis denominationibus: tam intrinse 
-          <lb ed="#V" n="57"/>cis quam extrinsecis: et in hoc intellectu patet: quod paiter non generat nes 
-          <lb ed="#V" n="58"/>est generans voluntate: nec necessitate: nec nam: sed generatione. 
-          <lb ed="#V" n="59"/>Alio modo possunt accipi significatiue: et in ratione principii eli 
-          <lb ed="#V" n="60"/>citiui: sicut dicimus quod visibile disgregat albedinie: et ignis 
-          <lb ed="#V" n="61"/>calefacit calore: quia scilicet calor est principium elicitiuum calefactionis 
-          <lb ed="#V" n="62"/>et albedo disgregationis. Sub hoc autem intellectu non 
-          habe<lb ed="#V" n="63" break="no"/>tur principaliter in hac distictione questio ista tractari: et si aliqua 
-          <lb ed="#V" n="64"/>verba magistri possint ad huc intellectum accipi: et hoc patet: 
-          <lb ed="#V" n="65"/>quoniam necessitas non importat secundum se aliquod principium productiuum: 
-          <!--105.xml-->
-          <cb ed="#V" n="b"/> 
-          <!-- 55-v b -->
-          <lb ed="#V" n="66"/>sicut nec contingentia: magis autem denotat modum actionis vel 
-          <lb ed="#V" n="67"/>productionis nae vel voluntatis: aut alterius productiui: et tamen 
-          <lb ed="#V" n="68"/>principaliter in distinctione ista. quaerit an piter necessitate vel 
-          vo<lb ed="#V" n="69" break="no"/>luntate generauerit filium: Secundum autem hunc sensum magis spe 
-          <lb ed="#V" n="70"/>ctat ad distinctionem sequentem. Si vero praedicti ablatiui tene 
-          <lb ed="#V" n="71"/>antur aduerbialiter tunc idem est quarere: an paiter genuerit filium 
-          na<lb ed="#V" n="72" break="no"/>turaliter: necessitate aut voluntate: et in hoc sensu tractanda 
-          <lb ed="#V" n="73"/>est quastio. Primo igitur videndum est an genuerit necessario. 
-          <lb ed="#V" n="74"/>Secundo an naturaliter: et tertio an voluntarie 
-          <lb ed="#V" n="75"/>Quantum ad primum videndum sciendum est: quod ali ¬ 
-          <lb ed="#V" n="76"/>quid dicitur necessarium quandrupliciter vt potest 
-          <lb ed="#V" n="77"/>haberi. ex. P. 5. meta. primo modo dicitur necessarium sine quo res 
-          <lb ed="#V" n="78"/>non potest esse: sict sine hannelitu aut sine cibo non potest esse homo. 
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e238">
-          <lb ed="#V" n="79"/>⁋ 2o illud sine quo res non potest bene esse aut bonum aliquod  
-          <lb ed="#V" n="80"/>acquirere vel malum vitare: sicut sine tali medicia non potest 
-          <lb ed="#V" n="81"/>homo esse sanus: aut sine nauigatione ad talem ciuitatem non potest 
-          lu<lb ed="#V" n="82" break="no"/>crari. Et necessitas duplex praedicta ab aliquibus vocatur 
-          ne<lb ed="#V" n="83" break="no"/>cessitas indigentie: ex eo quod illo necessario primo modo: res indigeat vt 
-          <lb ed="#V" n="84"/>sit: et secundo modo indigeat vt bene sit.
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e254">
-          ⁋ 3o modo dicitur necessium quod aliud 
-          co<lb ed="#V" n="85" break="no"/>git et violentat: sicut contra impetum conaturalem vt iaciens sursum 
-          <lb ed="#V" n="86"/>lapidem necessitat et violentat ipsum: siue contra voluntatem: sicut 
-          <lb ed="#V" n="87"/>rex cogit sibi subiectum ad aliquid quod non vellet: et talis necessi 
-          <lb ed="#V" n="88"/>tas vocatur coactionis et violentie.
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e265">
-          ⁋ 4o modo dicitur necessium id quod 
-          <lb ed="#V" n="89"/>impossibile est non sic se habere: sicut nos dicimus quod deum esse 
-          sapien<lb ed="#V" n="90" break="no"/>tem necessaium est. Nam impossibile est ipsum non esse sapientem: et hic 
-          mo<lb ed="#V" n="91" break="no"/>dus vocatur a pluribus necessitas immutabilitatis: sed tamen 
-          ve<lb ed="#V" n="92" break="no"/>rius vocatur ab aliis. vt. dicens Commentator. 5. meta. necessitas 
-          <lb ed="#V" n="93"/>ineuitabilitatis: nam necessitas sic sumpta: non stat cum 
-          contin<lb ed="#V" n="94" break="no"/>gentia. immutabilitas autem optime stat cum contingentia vt infra 
-          <lb ed="#V" n="95"/>patebit.
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e283">
-          ⁋ Ad propositum ergo adaptando: aliquod agens potest dici 
-          <lb ed="#V" n="96"/>necessarie elicere suam actionem tripliciter. vno modo necessarie id est violenter: sicut 
-          <lb ed="#V" n="97"/>sortes necessarie et violenter dat pecuniam tyranno. Alio modo necessarie 
-          <lb ed="#V" n="98"/>id est indigenter: sicut homo necessarie comedit. 3o modo necessarie id est ineui 
-          <lb ed="#V" n="99"/>tabiliter. sicut diceret. P. quod intelligentia necessario mouet celum. 
-          Se<lb ed="#V" n="100" break="no"/>cundum autem hoc in proposito pono tres conclusiones prima est quod pitur non 
-          ge<lb ed="#V" n="101" break="no"/>nuit filium necessarie id est violenter. 2a quod nec necessare id est 
-          indigen<lb ed="#V" n="102" break="no"/>ter. 3a quod genuit filium necessarie id est ineuitabiliter.
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e301">
-          ⁋ Prima 
-          <lb ed="#V" n="103"/>onclusio patet: quia deus a nullo cogi potest cum sit omimpotens.
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e307">
-          ⁋ 2a conclusio quod 
-          <lb ed="#V" n="104"/>nec necessitate indigentie producit filium. Est aut hic quidam opinio: 
-          <lb ed="#V" n="105"/>quae. dicens quod aliqua modo pater indigenter genuit filium. vnde distinguit 
-          du<lb ed="#V" n="106" break="no"/>plicem indigentiam. vnam formale sicut lignum indiget albedine si  
-          <lb ed="#V" n="107"/>debeat disgregare. Aliam vero obiectiuam: sicut pater in huanis 
-          im<lb ed="#V" n="108" break="no"/>diget filio si debeat esse piter: non quidem formaliter: sed tamquam 
-          obie<lb ed="#V" n="109" break="no"/>cto et termino.
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e323">
-          ⁋ Ad propositum ergo dicitur quod patrem egerefilio tamquam 
-          <lb ed="#V" n="110"/>formali perfectiuo est impossibile. Egere tamen illo tamquam termino sue 
-          per<lb ed="#V" n="111" break="no"/>fectionis est necessium.
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e330">
-          ⁋ Quod probat primo: quod non repugnat 
-          pa<lb ed="#V" n="112" break="no"/>tri quantum ad actum primum et ad esse: non repugnat ei quantum ad bene 
-          <lb ed="#V" n="113"/>esse: sed egere filio non repugnat patri quantum ad esse: quin immo 
-          <lb ed="#V" n="114"/>nec potest esse pater nec intelligi sine filio: ergo non repugnat 
-          pa<lb ed="#V" n="115" break="no"/>tri egere filio tamquam termino quo ad bene esse et secundas 
-          perfectio<lb ed="#V" n="116" break="no"/>nes.
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e343">
-          ⁋ 2o omnis intellecto actualis eget tamquam termino intellectone 
-          <lb ed="#V" n="117"/>obiectali. impossibile est enim rem intelligi nisi ponatur in esse apparenti et 
-          <lb ed="#V" n="118"/>obiectivo. Uerbum aut divinum non est aliud quam divina essentia: et omnis res a 
-          <lb ed="#V" n="119"/>deo cognita posita in esse appaerenti et cognito obiectue. ergo intellecto 
-          <lb ed="#V" n="120"/>divina siue sit in patre: siue in filio: siue in spum scond eget verbo tamquam 
-          <lb ed="#V" n="121"/>termino obiectivo.
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e356">
-          ⁋ 3o magis repugnat egere creaturis qued 
-          <lb ed="#V" n="122"/>egere divino supposite: sed nisi omnis intellecctio divina terminetur ad  
-          <lb ed="#V" n="123"/>verbum tamquam ad id quod de omni re colligitur obiectiue: necesse est ponere 
-          <lb ed="#V" n="124"/>quod intellectio divina egeat creaturis. consequentia patet. quia cum deus 
-          intelli<lb ed="#V" n="125" break="no"/>git rosam necesse est rosam esse in esse appaerenti et obiectivo: et per consequens indi 
-          <lb ed="#V" n="126"/>get creatura in ratione termini: nisi illud esse obiectiuum rose sit 
-          <lb ed="#V" n="127"/>ipsum verbum. vnde dicens quod sicut non est nisi vnica intellectio: sic non est nisi 
-          <lb ed="#V" n="128"/>vnicum esse apparens: et obiectiuum rei create et increate omnis: quod  
-          <lb ed="#V" n="129"/>colligit intellectus divinus de se et omni creatura: et ponit in esse 
-          forma<lb ed="#V" n="130" break="no"/>to: quod quidem sic positum non perficit intellecntionem formaliter: sed intellectio 
-          <!--106.xml-->
-          <pb ed="#V" n="56-r"/>
-          <cb ed="#V" n="a"/>
-          <lb ed="#V" n="1"/>perfecta necessario eget eo vt termino. et quia ipsum non nisi per 
-          <lb ed="#V" n="2"/>generationem habet esse: indiguit pater generatione ipsius tamquam sue 
-          intelle<lb ed="#V" n="3" break="no"/>ctionis obiecto.
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e391">
-          ⁋ Sed hec opinio falsa est: et conclusio supra posita 
-          <lb ed="#V" n="4"/>est his non obstantibus vera: quod probo primo sic: omne quo pater per 
-          <lb ed="#V" n="5"/>se indiget: siue quod necessitate idigentie est necessarium patri: est 
-          <lb ed="#V" n="6"/>illius aliqua modo causa: vel concausa: vt sit: aut vt bne sit: aut non 
-          <lb ed="#V" n="7"/>male sit: sed filius non est causa neque concausa patri vt sit: neque 
-          <lb ed="#V" n="8"/>vt bene sit: neque vt non male sit. ergo filius non est necessarius 
-          pa<lb ed="#V" n="9" break="no"/>tri necessitate indigentie: vt pater aliquo modo vere indigeat 
-          <lb ed="#V" n="10"/>ilio. maior patet. 5o meta. vbi. P. hunc modum necessitatis po 
-          <lb ed="#V" n="11"/>nnens ait. Necesium dicitur sine quo non contingit viuere quasi 
-          con<lb ed="#V" n="12" break="no"/>causali etc. et infra ostendens quod ratio necessarii quod est impossibile aliter 
-          <lb ed="#V" n="13"/>se habere saluatur aliquo modo in hoc modo necessarii: ait. et in 
-          con<lb ed="#V" n="14" break="no"/>causalibus viuendi et boni similiter etc. Et statim concludit quod hec 
-          <lb ed="#V" n="15"/>necessitas causa quidem est. Idem patet ibidem per Commenta. Unde dicit de 
-          <lb ed="#V" n="16"/>hoc modo necessarii loquens: quod necessium dicitur de eo quod est causa 
-          in<lb ed="#V" n="17" break="no"/>permanentis rei: et infra: et similiter dicitur necessarium in causis vite 
-          <lb ed="#V" n="18"/>et boni etc. quod autem iste modus necessitatis sit ille qui dicitur neces 
-          <lb ed="#V" n="19"/>sitas indigentie: certum est per opinionem contrariam ibidem. minor vero 
-          ratio<lb ed="#V" n="20" break="no"/>nis nulli catholico dubia est: non enim imaginabilis est aliquis 
-          <lb ed="#V" n="21"/>modus quo vere filius sit causa patris: nec qui ad esse: cum filius habeat 
-          <lb ed="#V" n="22"/>a patre esse suum: nec quae ad bene esse: cum in patre non sit aliud esse: quam 
-          <lb ed="#V" n="23"/>bene esse. Nec potest dici quod filius sit concausa cum pater omnino 
-          nul<lb ed="#V" n="24" break="no"/>lam habeat causam: et per consequens nec concausam. Et probatur est hec minori 
-          <lb ed="#V" n="25"/>per <ref xml:id="grvnZZ-ed1e34-Rd1e440">Aug. 7. de trini.</ref> vbi probat sapientiam genitam non esse causam 
-          patri<lb ed="#V" n="26" break="no"/>vt sit: neque vt sapiens sit: quoniam si esset ei causa hoc esset: vt dicens 
-          <quote xml:id="grvnZZ-ed1e34-Qd1e446" source="http://scta.info/resource/adt-l7-d1e861" synch="100-118">gignen<lb ed="#V" n="27" break="no"/>do eum: aut faciendo: sed neque genitricem: neque conditricem patris 
-            <lb ed="#V" n="28"/>nullo modo quisquam dixerit sapientiam: quid enim est insanius.</quote>
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e455">
-          ⁋ 2o nullum 
-          <lb ed="#V" n="29"/>quod per seipum et a seipso est et summe est: nullo indiget aliqua modo ad 
-          <lb ed="#V" n="30"/>suum esse siue ad suum bene esse. sed pater per seipm et a seipso et a 
-          nul<lb ed="#V" n="31" break="no"/>lo alio est et summe est. igitur etc. Ex quo sequitur quod nullo modo 
-          indi<lb ed="#V" n="32" break="no"/>get filio. maior patet: quoniam si indigeret aliqua modo iam per illud aliud:  
-          <lb ed="#V" n="33"/>vel ab illo alio esset: vel bene esset: et sic non per seipm. vel a seipo 
-          <lb ed="#V" n="34"/>summe esset. minor certa est omni catholico: nec aliqua praedictarum 
-          <lb ed="#V" n="35"/>rationum potest effugi per distinctionem illam de indigentia formaliter et 
-          <lb ed="#V" n="36"/>obiectiue. quaniam patri repugnat habere causam non solum formalem: 
-          <lb ed="#V" n="37"/>sed quamcumque. Similiter ei repugnat esse per aliquid aliud a se: vel bene 
-          <lb ed="#V" n="38"/>esse: non solum formaliter: sed quolibet mod.
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e479">
-          ⁋ 3o specialiter probo: quod 
-          <lb ed="#V" n="39"/>non indiget filio obiectiue sic: paiter omnia intelligit: vel sapit vel 
-          <lb ed="#V" n="40"/>nouit in seipso et a seipso. ergo non indiget filio tamquam obiecto sue 
-          <lb ed="#V" n="41"/>noticie. consequentia patet. antecedens probatur per <ref xml:id="grvnZZ-ed1e34-Rd1e487">Aug. 15. de tri.</ref> vbi dicens quod <quote xml:id="grvnZZ-ed1e34-Qd1e490" source="http://scta.info/resource/adt-l15-d1e1848" synch="193-203">deus 
-            <lb ed="#V" n="42"/>iter omnia nouit in seipso: omnia nouit in filio</quote>. Et in.<ref xml:id="grvnZZ-ed1e34-Rd1e496"> c. immediate 
-              praece<lb ed="#V" n="43" break="no"/>dente</ref>. dicens quod <quote xml:id="grvnZZ-ed1e34-Qd1e501" source="http://scta.info/resource/adt-l15-d1e1839" synch="108-116">ad omnia quippe scienda quae scit sufficit patri illa 
-                perfe<lb ed="#V" n="44" break="no"/>ctio</quote>. Ex quo sequitur principaliter: quod ad sciendum que scit: nullo 
-          <lb ed="#V" n="45"/>alio a se indigeat: non ergo filio.
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e509">
-          ⁋ 4o patet conclusio auctoritas 
-          expressa<lb ed="#V" n="46" break="no"/>Ansel. mod. vbi dicens sic. Si enim necesse est: vt paiter intelligatur memoriua: 
-          <lb ed="#V" n="47"/>filius intellitia: spiritus amor: vt nec paiter indigeat filio: aut communi spiritum 
-          <lb ed="#V" n="48"/>nec filius patre etc. Et infra. necesse est vt nullus horum trium alio 
-          <lb ed="#V" n="49"/>indigeat: aut ad memorandum: aut ad intelligendum: aut ad 
-          <lb ed="#V" n="50"/>amandum. Constat aut quod si non indiget eo ad aliquid horum non 
-          in<lb ed="#V" n="51" break="no"/>diget etiam ad essendum. Eandem sententiam per omnia ponit Augu. 
-          <lb ed="#V" n="52"/>is. de tri. At vero in illa trinitate quis audeat dicere pa 
-          <lb ed="#V" n="53"/>trem: n ec seipsum: nec filium: nec spiritumsanctum: per se intelli 
-          <lb ed="#V" n="54"/>gere nisi per filium: nec diligere nisi per spiritumsanctum: et 
-          <lb ed="#V" n="55"/>diffuse hoc improbans deducit hoc dicentes ad illud inconue 
-          <lb ed="#V" n="56"/>niens quod oportebit dicere: quod patur a filio habet essentiam: quod 
-          ab<lb ed="#V" n="57" break="no"/>surdissimum: vt. dicens et falsissimum est. Quod profecto incon 
-          <lb ed="#V" n="58"/>ueniens vitare non possunt: qui dicunt patrem indigere filio 
-          <lb ed="#V" n="59"/>tamquam obiecto noticie sue: sic enim necessario dependeret pater a 
-          <lb ed="#V" n="60"/>filio: quantum ad suum intelligere: et esset sibi causa aliquo modo:  
-          <lb ed="#V" n="61"/>vt esset paiater intelligens: et per consequens vt esset: et deus esset: cum in eo 
-          <lb ed="#V" n="62"/>non sit aliud esse et deum esse.
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e548">
-          ⁋ Item Aug. 83. q. hanc opinionem 
-          re<lb ed="#V" n="63" break="no"/>fellit dicens quod ibi nulla indigentia: nulla necessitas: vbi nul 
-          <lb ed="#V" n="64"/>lus defectus: nulla indigentia: nullus autem in deo defectus 
-          <lb ed="#V" n="65"/>nulla igitur necessitas: vbi patet quod ex intentione omnem necessi¬ 
-          <!--106.xml-->
-          <cb ed="#V" n="b"/> 
-          <!-- 56-r b -->
-          <lb ed="#V" n="66"/>tatem: omnem indigentiam negat a deo etc.
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e566">
-          ⁋ Ad rationes 
-          opi<lb ed="#V" n="67" break="no"/>nionis. Ad primam respondendum est per interemptionem 
-          mino<lb ed="#V" n="68" break="no"/>ris. Ad probationem cum dicitur quod pater non potest esse paiter sine filio 
-          <lb ed="#V" n="69"/>concedit: sed ex hoc non sequitur quod indigeat filio vt sit paiter: sicu 
-          <lb ed="#V" n="70"/>nec causa potest esse causa: aut actu causare nisi effectus actu 
-          cau<lb ed="#V" n="71" break="no"/>setur: nec tamen causa indiget effectu vt ipsa causet. Quod igitur. 
-          <lb ed="#V" n="72"/>assumitur vtique probat quod si pater est: necesse est vtique filium 
-          <lb ed="#V" n="73"/>esse: sed non necessitate indigentie: qua pater filio indigeat ad  
-          <lb ed="#V" n="74"/>essendum quo quo modo: sed necessitate ineuitabilitatis tanmm.
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e586">
-          ⁋ 2a 
-          <lb ed="#V" n="75"/>ratio et tertia simul multipliciter deficiunt. primo quidem: quia fictio 
-          <lb ed="#V" n="76"/>est illud quod dicitur de tali intellectione ex esse apparenti. 2o quia esto 
-          <lb ed="#V" n="77"/>quod necesse esset illud ponere: si ponatur intellectio: adhuc 
-          <lb ed="#V" n="78"/>non sequitur quod intellectio eo indigeat: vt ante dictum est.
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e598">
-          ⁋ 3o quia 
-          <lb ed="#V" n="79"/>secundum hoc sequitur quod verbum diuinum indigeat se ipso. quod est 
-          pe<lb ed="#V" n="80" break="no"/>nitus impossibile. consequentia patet. quia ipsum est sua intelligentia qua intel 
-          <lb ed="#V" n="81"/>ligitur. Si igitur omnis intellectio indiget obiectali intellectione 
-          <lb ed="#V" n="82"/>et nulla est obiectalis in deo nisi verbum vt dicit opinio: igitur 
-          <lb ed="#V" n="83"/>indiget verbum verbo: quis autem hoc dixerit: per hoc patet: quod maiori 
-          <lb ed="#V" n="84"/>secunde rationis est neganda: et similiter consequentia.
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e614">
-          ⁋ 3a conclusio hec est quod paiter 
-          ge<lb ed="#V" n="85" break="no"/>nuit filium necessarie id est ineuitabiliter: quod non est aliud nisi quod 
-          <lb ed="#V" n="86"/>impossibile est patrem non generare filium. hanc conclusionem probo primo 
-          <lb ed="#V" n="87"/>sic: pliter non potuit non esse pater: ergo necessario genuit filium. 
-          <lb ed="#V" n="88"/>Antecedens est notum: quia tam necessario pater est paiter: quam necessario est perso 
-          <lb ed="#V" n="89"/>na et deus. consequentia clara est: quia pater est paiter: quia genuit et ei est filius. 
-          <lb ed="#V" n="90"/>sicut patet: per Aug. 5. de tri. et similiter per. P. 5. meta.
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e630">
-          ⁋ 2o filius 
-          <lb ed="#V" n="91"/>semper fuit necesse esse: ergo pater necessario genuit filium. 
-          An<lb ed="#V" n="92" break="no"/>tecedens est certum cum ipse sit deus. consequentia patet: quia 
-          fi<lb ed="#V" n="93" break="no"/>lius per sol am generationem a patre habet quod sit: et quod filius 
-          <lb ed="#V" n="94"/>et quod deus et quicquid ipse est sit: sicut patet per Aug. 5. de 
-          tri<lb ed="#V" n="95" break="no"/>he due rationes confirmantur per eundem eodem lib. vbi 
-          <lb ed="#V" n="96"/>dicit. quod dicitur paiter: et quod dicitur filius eternum et 
-          incommuta<lb ed="#V" n="97" break="no"/>bile est eis: ergo necessarium: et per consequens pater necessario est paiter: 
-          ac<lb ed="#V" n="98" break="no"/>per hoc necessario genuit filium: et filius necessario est filius: 
-          <lb ed="#V" n="99"/>et per consequens necessario a patre genitus. Ex quo vltra 
-          sequi<lb ed="#V" n="100" break="no"/>tur: sicut prius quod pater necessario genuit eum.
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e654">
-          ⁋ 3o idem 
-          <lb ed="#V" n="101"/>patet: auctoritate Danmten. libro primo. vbi ait. Impossibile est enim 
-          <lb ed="#V" n="102"/>deum esse desolatum a naturali germinatione. 
-          germina<lb ed="#V" n="103" break="no"/>tio autem est ex seipso scilicet ex propria substantia similem secundum 
-          <lb ed="#V" n="104"/>naturam generare. Si autem impossibile est deum esse sine 
-          <lb ed="#V" n="105"/>generatione: sequitur quod necessario genuerit.
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e667">
-          ⁋ 4o 
-          impossi<lb ed="#V" n="106" break="no"/>bile est deum esse sine verbo suo perfecto: ergo 
-          necessa<lb ed="#V" n="107" break="no"/>tio semper habuit verbum perfectum. ex quo vltra sequitur quod 
-          <lb ed="#V" n="108"/>necessario genuit filium. Nam eo filius quo verbum: et eo 
-          ver<lb ed="#V" n="109" break="no"/>pum quo filius: vt dicit Aug. 7. de tri.
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e678">
-          ⁋ Item ideo filius: 
-          <lb ed="#V" n="110"/>qui genitus: et quia filius vtique genitus: vt dicit ibidem. 5. de 
-          <lb ed="#V" n="111"/>tri. Antecedens patet. Sicut enim ipossibile est deum esse sine perfecta 
-          <lb ed="#V" n="112"/>sui noticia et sapientia sic impossibile est deum esse sine suo 
-          <lb ed="#V" n="113"/>verbo perfecto. hanc rationem tangit Damemen. libro primo. 
-          di<lb ed="#V" n="114" break="no"/>cens. Non enim fuit vnquam deus inuerbalis. id est sine verbo: semper 
-          <lb ed="#V" n="115"/>enim habet sui ipsius verbum ex seipso genitum. Eande 
-          <lb ed="#V" n="116"/>quoque rationem innuit Augu. 15. de 
-          trini
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e697"><!-- article 2 -->
-          <lb ed="#V" n="117"/>Secundo videndum est vtrum pater genuit filium et 
-          <lb ed="#V" n="118"/>naturaliter: Dicendum est quod sic. Quod 
-          pro<lb ed="#V" n="119" break="no"/>batur. Primo sic. pater genuit filium et non electiue seu 
-          li<lb ed="#V" n="120" break="no"/>vere vel contingenter: ergo genuit eum naturaliter. Antecedens patet ex 3a conclusione 
-          <lb ed="#V" n="121"/>precedentis articuli. Et consequentia tenet ex eo quod nullus modus 
-          <lb ed="#V" n="122"/>prducendi alius potest in deo cogitari. patet etiam ex differentia agentium na 
-          <lb ed="#V" n="123"/>turalium ad alia quae ponitur. 9. meta.
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e712">
-          ⁋ 2o pater genuit filium  
-          <lb ed="#V" n="124"/>sibi consubstantiale: ergo genuit eum naturaliter. consequentia tenet: quoniam omnis 
-          <lb ed="#V" n="125"/>productio subiecti eiusdem naturae cum producente est naturalis: sicut patet 
-          <lb ed="#V" n="126"/>inductiue.
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e721">
-          ⁋ Confirmatur ex intentione Aug. 15. de tri. qui 
-          <lb ed="#V" n="127"/>ponens quomodo filius dei est filius dei natura exponit 
-          <lb ed="#V" n="128"/>ti. de substantia patris genitum et consubstantialem sibi: vt 
-          <lb ed="#V" n="129"/>supra patet. di. precedente. q. 2. et per idem patet quod spiritus scilicet est  
-          <lb ed="#V" n="130"/>naturaliter spiratur: sicut et filius naturaliter generatur. 
-          <!--107.xml-->
-          <pb ed="#V" n="56-v"/>
-          <cb ed="#V" n="a"/>
-          <lb ed="#V" n="1"/>estat 3o videre an paiter genuerit filium voluntarie. Et 
-          <lb ed="#V" n="2"/>dicendum quod hoc potest intelligi tripliciter iuxta consuetam hanc 
-          <lb ed="#V" n="3"/>distinctionem scilicet anstecedenter subsequenter concomitanter. Patrem 
-          <lb ed="#V" n="4"/>autem genuisse filium voluntarie antecedenter est patrem prius volu 
-          <lb ed="#V" n="5"/>isse generare filium: et postea genuisse: sicut prius voluit producere 
-          <lb ed="#V" n="6"/>hominem: posteaque produxit. et in hoc sensu negandum est patrem 
-          volun<lb ed="#V" n="7" break="no"/>tarie genuisse filium: et sic negat Aug. ad orosium et habter in littera 
-          <lb ed="#V" n="8"/>non genuit voluntate: quia praeire sapientiam voluntas non potest. per sapi 
-          <lb ed="#V" n="9"/>entiam intellige filium qui secundum apostolum prima ad corith. Uirtus est et 
-          <lb ed="#V" n="10"/>sapientia patris.
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e760">
-          ⁋ Idem probari potest ratione: quia quod sic voluntarie 
-          pro<lb ed="#V" n="11" break="no"/>ducit: contingenter producitur: pater aut necessario genuit filium: vt supra 
-          <lb ed="#V" n="12"/>patet.
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e767">
-          ⁋ Contra hoc dicitur a quibusdam quod pater primo voluit generationem filum 
-          <lb ed="#V" n="13"/>quam genuerit. vnde dicunt quod paiter in primo signo origis intelligit for 
-          <lb ed="#V" n="14"/>maliter: et tunc est potest habere actum volendi formaliter: in 2o signo ori 
-          <lb ed="#V" n="15"/>ginis gignit filium: nec tamen vult illam gignitionem volitione 
-          se<lb ed="#V" n="16" break="no"/>quente illam gignitionem: sed volitione habita in primo signo originis 
-          <lb ed="#V" n="17"/>qua pater formaliter vult praesupponendo aliquo modo intellectionen 
-          <lb ed="#V" n="18"/>qua piater intelligit: non aut gignitionem verbi.
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e783">
-          ⁋ hec aut nullo 
-          <lb ed="#V" n="19"/>stare possunt: quoniam vel sunt verba sine intellectu vel penitus falsa: 
-          <lb ed="#V" n="20"/>Unde sciendum quod prioritas originis proprie loquendo secundum quod 
-          ve<lb ed="#V" n="21" break="no"/>re concedi potest in diuinis non est alia quam prioritas causalitatis 
-          exten<lb ed="#V" n="22" break="no"/>dendo nomen causalitatis quo plures sancti dicunt vnam personam 
-          <lb ed="#V" n="23"/>esse causam alterius: sicut Aug. Crisosto. et Damen. vt patebit infra. di 
-          <lb ed="#V" n="24"/>stictione. 9. vel strictius loquendo producibilitatis. vnde solum 
-          <lb ed="#V" n="25"/>illud dicitur prius alio origine quod principiat generat vel producit seu 
-          <lb ed="#V" n="26"/>originat alterum: sic illud dicitur prius causalitate quad causat aliud. 
-          il<lb ed="#V" n="27" break="no"/>lud vero dicitur posterius origine quod originatur vel causatur seu 
-          pro<lb ed="#V" n="28" break="no"/>ducitur ab alio. hoc docet nos Danmtens. lib. primo vbi ait. Neque secundum 
-          <lb ed="#V" n="29"/>aliud quidem nisi secundum causam pater est prior filio. Et exponens quomo 
-          <lb ed="#V" n="30"/>intelligenda est ista poritas immediate addit: hoc est quoniam filius est 
-          <lb ed="#V" n="31"/>ex patre genitus: et non pater ex filio. Si ergo in hac priorita 
-          <lb ed="#V" n="32"/>te volumus assignare primum et secundum vel prius et posterius. producens 
-          <lb ed="#V" n="33"/>est primum origine: et productum est 2m. Cum igitur dicitur quod pater in primo signo 
-          <lb ed="#V" n="34"/>originis etc. vel nulla alia prioritas connotatur in praedictis verbis: et 
-          <lb ed="#V" n="35"/>sic est sensus quod pater in primo signo origins. id est in patre intelligit et habet 
-          <lb ed="#V" n="36"/>actum volendi formaliter. Et in secundo signo id est in filio gignit filium 
-          <lb ed="#V" n="37"/>quod est inintelligibile: vel est idem quod dicere quod paiter ex se et non a 
-          fi<lb ed="#V" n="38" break="no"/>lio habet intellectionem et volitionem et hoc est habere in primo signo et habet a 
-          fi<lb ed="#V" n="39" break="no"/>lio quod gignat filium: et hoc est gignere in 2o signo origins. Et patet quod 
-          <lb ed="#V" n="40"/>ista verba aut omnino carent intellectu: aut impossibilitatem implicant: nes 
-          <lb ed="#V" n="41"/>sic faciunt ad propositum nostrm. Nullus enim dubitat quod pater ex se 
-          vo<lb ed="#V" n="42" break="no"/>luerit gignere filium. quae propter si non aliud intelligitur cum dicitur antece¬: 
-          <lb ed="#V" n="43"/>denter voluisse generasse non est ad propositum si vero alia prioritas 
-          im<lb ed="#V" n="44" break="no"/>telligatur ua scilicet non solum intelligatur filius esse a patre et pater est principium filii: 
-          <lb ed="#V" n="45"/>sed etiam aliquo modo praefuisse filio ea prius intellexisse et voluisse quam 
-          ge<lb ed="#V" n="46" break="no"/>nuisse: sic quod in illo priori in quo intelligebat et volebat: nec erat 
-          <lb ed="#V" n="47"/>genatio nec filius: vt verba et rationes eorum praetendunt. sic ex toto siculitum es 
-          <lb ed="#V" n="48"/>quod dicunt: quod patet primo. Nam impossibile est patrem prius intellexisse quam fue 
-          <lb ed="#V" n="49"/>rit. Si ergo intellexit in primo signo. in primo signo fuit: aut ergo in illo signo 
-          <lb ed="#V" n="50"/>fuit pater: vel non. non potest dici secundum: quia sequeretur quod paiter primo fuit: quam 
-          <lb ed="#V" n="51"/>esset pater: quod est contra Ambro. primo de tri. et allegatur infra. dicens q. igitur in 
-          <lb ed="#V" n="52"/>isto signo pater non solum fuit: sed etiam fuit pater. Et vltra: ergo in 
-          <lb ed="#V" n="53"/>illo signo genuit. Nam eo pater quia genuit.
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e861">
-          ⁋ 2o impossibile est 
-          <lb ed="#V" n="54"/>prius fuisse perfectam noticiam vel intellecationem patris: quam fuerit ei 
-          <lb ed="#V" n="55"/>verbum perfectum. ergo impossibile est patrem prius intellexisse quam dixisset 
-          <lb ed="#V" n="56"/>verbum: et per consequens quam genuisse. consequentia patet: quia pro nullo priori potest intel 
-          <lb ed="#V" n="57"/>ligi patris intellectionem fuisse aliquid imperfectum nec verbum prius 
-          <lb ed="#V" n="58"/>esse quam a dicente aliquid sit dictum. Antecedens tamen patet. auctoritate Augu. 15. de 
-          <lb ed="#V" n="59"/>tri. qui vult quod verbum dei nullo modo possit vere cogitari 
-          pri<lb ed="#V" n="60" break="no"/>fuisse formabile quam formatum: quod tamen oportet dicere si intentio 
-          pa<lb ed="#V" n="61" break="no"/>tris aliquo modo praecessisset ipsum verbum: et ratione patet: quia si posita perfe 
-          <lb ed="#V" n="62"/>cta notitia actuali patris seu intellectone non ponitur simul verbum: non 
-          <lb ed="#V" n="63"/>apparet qualiter postea verbum formetur. hoc idem videtur repro 
-          <lb ed="#V" n="64"/>basse Aug. cum dicit vt allegatum est. praeire sapientiam voluntas non 
-          <lb ed="#V" n="65"/>potest.
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e891">
-          ⁋ 3o aut in primo signo filius habuit esse: aut non: si non: cum po 
-          <!--107.xml-->
-          <cb ed="#V" n="b"/> 
-          <!-- 56-v b -->
-          <lb ed="#V" n="66"/>stena habuit esse: sequitur quod habuit esse post non esse: quod est erro 
-          <lb ed="#V" n="67"/>neum. Si habuerit esse: ergo in illo signo fuit generatio eius: quia 
-          <lb ed="#V" n="68"/>vt dicit Aug. 5. de tri. eilius non tantum nascendo habet vt filius sit: capoito: is. 
-          <lb ed="#V" n="69"/>sed omnino vt sit.
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e909">
-          ⁋ 4o secundum hanc viam intellectio est prior volitione 4. 
-          <lb ed="#V" n="70"/>in ipso patre. Nam vt dicit praesupponit eam volitio aliquo modo et 
-          <lb ed="#V" n="71"/>in quaibus reportatis. dicit expresse quod intelligere patris praecedit vel Sco in qo. 
-          <lb ed="#V" n="72"/>le: et velle praecedit dicere sicut et intelligere: quia dicere non est intel repir. dicens  
-          <lb ed="#V" n="73"/>ligere et volitio prior generatione filii: et sic habemus illa tria si¬ q. 2. 
-          <lb ed="#V" n="74"/>gena se inuicem praecedentia et sequentia: in quorum primo est intellectio: in 
-          <lb ed="#V" n="75"/>2o volitio: et in 3o generatio filii: sed eadem ratione qua in patre 
-          praeueni<lb ed="#V" n="76" break="no"/>unt intellectio a volitio generationem filii: in filio similiter praeueniunt 
-          <lb ed="#V" n="77"/>intellectio a volitio se iuicem et conspirationem spiritus sancti: 
-          <lb ed="#V" n="78"/>sicque erunt aia tria signa post illa tria: et in vltimo erit spiratio: 
-          <lb ed="#V" n="79"/>et per consequens in diuinis erunt sex signa: et tantum in vltimo erit . scilicet qua omnia 
-          <lb ed="#V" n="80"/>absona sunt.
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e935">
-          ⁋ Item non apparet qua poritatem intellectio praecedat 
-          <lb ed="#V" n="81"/>volitionem et volitio generationem: nisi prioritate originis. Ex quo sequitur. 
-          <lb ed="#V" n="82"/>quod intellectio patris sit causa volitionis eiusdem: quod impossibile est: nec 
-          <lb ed="#V" n="83"/>isti volunt: et sic similiter volitio erit principium generationis quod in eadem 
-          que<lb ed="#V" n="84" break="no"/>stione ipsi negant ex toto.
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e946">
-          ⁋ 5o intellectio patris et volitio e5o 
-          <lb ed="#V" n="85"/>eiusdem: sicut eius essentia est ipse filius: igitur nullo modo ipsum praecedunt. de 
-          <lb ed="#V" n="86"/>hac opinione tamen magis infra. dicens qo. videbitur.
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e953">
-          ⁋ Dudem igitur quod 
-          <lb ed="#V" n="87"/>non genuit pater filium voluntarie antecedenter: sicut est dicit 
-          ma<lb ed="#V" n="88" break="no"/>gister in littera. Et confirmatur auctoritate Aug. dicentis super eplaram 
-          <lb ed="#V" n="89"/>ad hebre. de domino nostro vhiectu christo: qui cum patre semper fuit et 
-          <lb ed="#V" n="90"/>numquam eum vt esset voluntas. paterna praecessit. Similiter non est dicendum quod 
-          <lb ed="#V" n="91"/>pater voluntarie subsequenter genuerit: quasi voluntate 
-          <lb ed="#V" n="92"/>antecedente: cum nulla talis in eo poni possit: tunc enim vt 
-          ar<lb ed="#V" n="93" break="no"/>guit <ref xml:id="grvnZZ-ed1e34-Rd1e970">Aug. 15. de tri.</ref> Mutabilis esset diuina voluntas: quod capoitio: 2o 
-          <lb ed="#V" n="94"/>est impium dicere.
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e976">
-          ⁋ Restat ergo an voluntarie conco 
-          <lb ed="#V" n="95"/>mitanter genuerit: vt scilicet simul genuerit et voluit generare: 
-          <lb ed="#V" n="96"/>Et dicendum quod hoc dupliciter potest adhuc intelligi: sicut 
-          volun<lb ed="#V" n="97" break="no"/>tarie aliquid fieri dupliciter dici consuetum est. Uno modo 
-          <lb ed="#V" n="98"/>voluntarie id est libere contingenter: sicut quis voluntarie dicitur 
-          <lb ed="#V" n="99"/>mereri et peccare: et hoc modo non genuit voluntarie: cum 
-          pro<lb ed="#V" n="100" break="no"/>batum sit quod necessario ea ineuitabiliter ipsum genuerit: 
-          <lb ed="#V" n="101"/>Alio modo voluntarie id est complacenter: et hoc modo vtique 
-          conce<lb ed="#V" n="102" break="no"/>dendum est. Complacuit enim sibi summe pater in generatione filii sui 
-          <lb ed="#V" n="103"/>predilecti: iuxta illud Mathei. hic est filius meus pre 3o capitul 
-          <lb ed="#V" n="104"/>dilectus in quo mihi bene complacui. Et hoc est quod Magistr 
-          <lb ed="#V" n="105"/>dicit cum ait: quod pater volens genuit filium.
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e1003">
-          ⁋ Ad rationes fa 
-          <lb ed="#V" n="106"/>ctas in principio q. patet: quid sit dicendum. Nam prime tres secundum sensus 
-          <lb ed="#V" n="107"/>predictos verum concludunt eedemque concedende sunt.
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e1010">
-          ⁋ Ad Ad ratioe 
-          <lb ed="#V" n="108"/>primam vero in oppositum dicendum est quod Aug. intelligit de volun 
-          principa<lb ed="#V" n="109" break="no"/>tate precedente et de necessitate violentie.
-        </p>
-        <p xml:id="grvnZZ-ed1e34-d1e1017">
-          ⁋ Ad secundam qua est 
-          <lb ed="#V" n="110"/>de auctoritate hyl. dicendum quod ipse non intelligit significare 
-          <lb ed="#V" n="111"/>filium non esse naturaliter genitum et necessario ac ineuita 
-          <lb ed="#V" n="112"/>biliter a patre quasi pater potuerit ipsum non generare: sed solum 
-          <lb ed="#V" n="113"/>vult exprimere quod pater voluntarie et complacenter et ineui 
-          <lb ed="#V" n="114"/>tabiliter genuit non autem contra propriam voluntatem natu 
-          <lb ed="#V" n="115"/>raliter necessitatus produxit: sicut contra nostram 
-          volun<lb ed="#V" n="116" break="no"/>tatem multa naturali patimur necessitate: vt mortem 
-          se<lb ed="#V" n="117" break="no"/>nectutem et alios naturales defectus. Et quod hec sit eius in 
-          <lb ed="#V" n="118"/>tentio patet: per alia eius ibidem verba que sunt. Non enim no 
-          <lb ed="#V" n="119"/>lente patre vel coactus pater vel naturali necessitate inductus 
-          <lb ed="#V" n="120"/>cum nollet genuit filium: sed mox vt voluit sine tempore in 
-          <lb ed="#V" n="121"/>passibiliter ex se vnigenitum demonstrauit. Ex quibus patet propositum 
-        </p>
-      </div>
-    </body>
-  </text>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#Rimini">Gregory of Rimini</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2020-10-03">October 03, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-ae1bsb">Venice 1503</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-03" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="55-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="grvnZZ-ed1e34"><!-- l1d6q1 -->
+            <head xml:id="grvnZZ-ed1e34-Hd1e106">Quaestio 1</head>
+            <head xml:id="grvnZZ-ed1e34-Hd1e109" type="question-title">Utrum pater genuerit filium natura et necessitate aut voluntate</head>
+            <p xml:id="grvnZZ-ed1e34-d1e112">
+               <lb ed="#V" n="29"/>⁋ Distinctionis. VI. Questio. I. 
+      <lb ed="#V" n="30"/>CIrca sextam distinctionem. 
+      Que<lb ed="#V" n="31" break="no"/>ro vtrum pater 
+      genue<lb ed="#V" n="32" break="no"/>rit filium natura et necessitate aut voluntate: et 
+      <lb ed="#V" n="33"/>quod naturam probatur. Nam generatio est opus naturesecundu 
+      <lb ed="#V" n="34"/>Damenid liso primo Item filius dei est filius natura secundum 
+      <lb ed="#V" n="35"/>Aug. 15. de tri. igitur pater generat nam: et est 
+      pa<lb ed="#V" n="36" break="no"/>ter nam.
+    </p>
+            <p xml:id="grvnZZ-ed1e34-d1e132">
+      ⁋ 2o probatur quod necessitate sic: filius 
+      <lb ed="#V" n="37"/>a patre naturaliter genitus. ergo necessario antecedens probatum est. et consequentia tenet ex 
+      <lb ed="#V" n="38"/>differentia potentiarum naturalium et rationabilium data. 9. meta.
+    </p>
+            <p xml:id="grvnZZ-ed1e34-d1e139">
+      ⁋ 3o 
+      proba<lb ed="#V" n="39" break="no"/>tur quod voluntate sic: pater voluit gignere filium. ergo voluntate 
+      ge<lb ed="#V" n="40" break="no"/>nuit. consequentia patet. Antecedens probatur. Nam dicens Aug. lib. 3. contra max. et 
+      habe<lb ed="#V" n="41" break="no"/>tur infra. dis. 3o. Si paiter noluit generare filium inuidus fuit: sed  
+      <lb ed="#V" n="42"/>hoc consequens est falsum. ergo voluit generare filium. 
+      <lb ed="#V" n="43"/>In oppositum arguitur et quod nec voluntate nec 
+      ne<lb ed="#V" n="44" break="no"/>cessitate genuerit filium: 
+      proba<lb ed="#V" n="45" break="no"/>tur auctoritas Aug. ad orosium: qua dicitur et habteur in principio dis. huius. nec 
+      volun<lb ed="#V" n="46" break="no"/>tate inquit: nec necessitate: quia necessitas in deo non est: preire 
+      <lb ed="#V" n="47"/>sapientiam voluntas non potest quae est filius.
+    </p>
+            <p xml:id="grvnZZ-ed1e34-d1e162">
+      ⁋ 2o quod nec natura autcri. hyel. 
+      <lb ed="#V" n="48"/>2o de synodim. Si quis dicat quod paiter naturali necessitate ductus 
+      ge<lb ed="#V" n="49" break="no"/>s espondeo. nuit anathema sit 
+      <lb ed="#V" n="50"/>et praemitto intellectum. q. Nam potest esse duplex: 
+      <lb ed="#V" n="51"/>sicut: et praedicti ablatiui possunt dupliciter teneri: vt consuetum est 
+      di<lb ed="#V" n="52" break="no"/>ci. possunt enim teneri nominaliter. alio modo possunt teneri aduerbialiter. 
+      <lb ed="#V" n="53"/>Si primo modo adhuc dupliciter. vno modo materialiter: vt construantur 
+      in<lb ed="#V" n="54" break="no"/>ratione termini formaliter denominantis sicut dicimus: quod hoc est 
+      a<lb ed="#V" n="55" break="no"/>pum albedinie: et hic fortis fortitudinie: et calefactus calefactione 
+      <lb ed="#V" n="56"/>et visum visione: et sic de aliis denominationibus: tam intrinse 
+      <lb ed="#V" n="57"/>cis quam extrinsecis: et in hoc intellectu patet: quod paiter non generat nes 
+      <lb ed="#V" n="58"/>est generans voluntate: nec necessitate: nec nam: sed generatione. 
+      <lb ed="#V" n="59"/>Alio modo possunt accipi significatiue: et in ratione principii eli 
+      <lb ed="#V" n="60"/>citiui: sicut dicimus quod visibile disgregat albedinie: et ignis 
+      <lb ed="#V" n="61"/>calefacit calore: quia scilicet calor est principium elicitiuum calefactionis 
+      <lb ed="#V" n="62"/>et albedo disgregationis. Sub hoc autem intellectu non 
+      habe<lb ed="#V" n="63" break="no"/>tur principaliter in hac distictione questio ista tractari: et si aliqua 
+      <lb ed="#V" n="64"/>verba magistri possint ad huc intellectum accipi: et hoc patet: 
+      <lb ed="#V" n="65"/>quoniam necessitas non importat secundum se aliquod principium productiuum: 
+      <!--105.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 55-v b -->
+               <lb ed="#V" n="66"/>sicut nec contingentia: magis autem denotat modum actionis vel 
+      <lb ed="#V" n="67"/>productionis nae vel voluntatis: aut alterius productiui: et tamen 
+      <lb ed="#V" n="68"/>principaliter in distinctione ista. quaerit an piter necessitate vel 
+      vo<lb ed="#V" n="69" break="no"/>luntate generauerit filium: Secundum autem hunc sensum magis 
+      spe<lb ed="#V" n="70" break="no"/>ctat ad distinctionem sequentem. Si vero praedicti ablatiui 
+      tene<lb ed="#V" n="71" break="no"/>antur aduerbialiter tunc idem est quarere: an paiter genuerit filium 
+      na<lb ed="#V" n="72" break="no"/>turaliter: necessitate aut voluntate: et in hoc sensu tractanda 
+      <lb ed="#V" n="73"/>est quastio. Primo igitur videndum est an genuerit necessario. 
+      <lb ed="#V" n="74"/>Secundo an naturaliter: et tertio an voluntarie 
+      <lb ed="#V" n="75"/>Quantum ad primum videndum sciendum est: quod ali ¬ 
+      <lb ed="#V" n="76"/>quid dicitur necessarium quandrupliciter vt potest 
+      <lb ed="#V" n="77"/>haberi. ex. P. 5. meta. primo modo dicitur necessarium sine quo res 
+      <lb ed="#V" n="78"/>non potest esse: sict sine hannelitu aut sine cibo non potest esse homo. 
+    </p>
+            <p xml:id="grvnZZ-ed1e34-d1e238">
+               <lb ed="#V" n="79"/>⁋ 2o illud sine quo res non potest bene esse aut bonum aliquod  
+      <lb ed="#V" n="80"/>acquirere vel malum vitare: sicut sine tali medicia non potest 
+      <lb ed="#V" n="81"/>homo esse sanus: aut sine nauigatione ad talem ciuitatem non potest 
+      lu<lb ed="#V" n="82" break="no"/>crari. Et necessitas duplex praedicta ab aliquibus vocatur 
+      ne<lb ed="#V" n="83" break="no"/>cessitas indigentie: ex eo quod illo necessario primo modo: res indigeat vt 
+      <lb ed="#V" n="84"/>sit: et secundo modo indigeat vt bene sit.
+    </p>
+            <p xml:id="grvnZZ-ed1e34-d1e254">
+      ⁋ 3o modo dicitur necessium quod aliud 
+      co<lb ed="#V" n="85" break="no"/>git et violentat: sicut contra impetum conaturalem vt iaciens sursum 
+      <lb ed="#V" n="86"/>lapidem necessitat et violentat ipsum: siue contra voluntatem: sicut 
+      <lb ed="#V" n="87"/>rex cogit sibi subiectum ad aliquid quod non vellet: et talis 
+      necessi<lb ed="#V" n="88" break="no"/>tas vocatur coactionis et violentie.
+    </p>
+            <p xml:id="grvnZZ-ed1e34-d1e265">
+      ⁋ 4o modo dicitur necessium id quod 
+      <lb ed="#V" n="89"/>impossibile est non sic se habere: sicut nos dicimus quod deum esse 
+      sapien<lb ed="#V" n="90" break="no"/>tem necessaium est. Nam impossibile est ipsum non esse sapientem: et hic 
+      mo<lb ed="#V" n="91" break="no"/>dus vocatur a pluribus necessitas immutabilitatis: sed tamen 
+      ve<lb ed="#V" n="92" break="no"/>rius vocatur ab aliis. vt. dicens Commentator. 5. meta. necessitas 
+      <lb ed="#V" n="93"/>ineuitabilitatis: nam necessitas sic sumpta: non stat cum 
+      contin<lb ed="#V" n="94" break="no"/>gentia. immutabilitas autem optime stat cum contingentia vt infra 
+      <lb ed="#V" n="95"/>patebit.
+    </p>
+            <p xml:id="grvnZZ-ed1e34-d1e283">
+      ⁋ Ad propositum ergo adaptando: aliquod agens potest dici 
+      <lb ed="#V" n="96"/>necessarie elicere suam actionem tripliciter. vno modo necessarie id est violenter: sicut 
+      <lb ed="#V" n="97"/>sortes necessarie et violenter dat pecuniam tyranno. Alio modo necessarie 
+      <lb ed="#V" n="98"/>id est indigenter: sicut homo necessarie comedit. 3o modo necessarie id est 
+      ineui<lb ed="#V" n="99" break="no"/>tabiliter. sicut diceret. P. quod intelligentia necessario mouet celum. 
+      Se<lb ed="#V" n="100" break="no"/>cundum autem hoc in proposito pono tres conclusiones prima est quod pitur non 
+      ge<lb ed="#V" n="101" break="no"/>nuit filium necessarie id est violenter. 2a quod nec necessare id est 
+      indigen<lb ed="#V" n="102" break="no"/>ter. 3a quod genuit filium necessarie id est ineuitabiliter.
+    </p>
+            <p xml:id="grvnZZ-ed1e34-d1e301">
+      ⁋ Prima 
+      <lb ed="#V" n="103"/>onclusio patet: quia deus a nullo cogi potest cum sit omimpotens.
+    </p>
+            <p xml:id="grvnZZ-ed1e34-d1e307">
+      ⁋ 2a conclusio quod 
+      <lb ed="#V" n="104"/>nec necessitate indigentie producit filium. Est aut hic quidam opinio: 
+      <lb ed="#V" n="105"/>quae. dicens quod aliqua modo pater indigenter genuit filium. vnde distinguit 
+      du<lb ed="#V" n="106" break="no"/>plicem indigentiam. vnam formale sicut lignum indiget albedine si  
+      <lb ed="#V" n="107"/>debeat disgregare. Aliam vero obiectiuam: sicut pater in huanis 
+      im<lb ed="#V" n="108" break="no"/>diget filio si debeat esse piter: non quidem formaliter: sed tamquam 
+      obie<lb ed="#V" n="109" break="no"/>cto et termino.
+    </p>
+            <p xml:id="grvnZZ-ed1e34-d1e323">
+      ⁋ Ad propositum ergo dicitur quod patrem egerefilio tamquam 
+      <lb ed="#V" n="110"/>formali perfectiuo est impossibile. Egere tamen illo tamquam termino sue 
+      per<lb ed="#V" n="111" break="no"/>fectionis est necessium.
+    </p>
+            <p xml:id="grvnZZ-ed1e34-d1e330">
+      ⁋ Quod probat primo: quod non repugnat 
+      pa<lb ed="#V" n="112" break="no"/>tri quantum ad actum primum et ad esse: non repugnat ei quantum ad bene 
+      <lb ed="#V" n="113"/>esse: sed egere filio non repugnat patri quantum ad esse: quin immo 
+      <lb ed="#V" n="114"/>nec potest esse pater nec intelligi sine filio: ergo non repugnat 
+      pa<lb ed="#V" n="115" break="no"/>tri egere filio tamquam termino quo ad bene esse et secundas 
+      perfectio<lb ed="#V" n="116" break="no"/>nes.
+    </p>
+            <p xml:id="grvnZZ-ed1e34-d1e343">
+      ⁋ 2o omnis intellecto actualis eget tamquam termino intellectone 
+      <lb ed="#V" n="117"/>obiectali. impossibile est enim rem intelligi nisi ponatur in esse apparenti et 
+      <lb ed="#V" n="118"/>obiectivo. Uerbum aut divinum non est aliud quam divina essentia: et omnis res a 
+      <lb ed="#V" n="119"/>deo cognita posita in esse appaerenti et cognito obiectue. ergo intellecto 
+      <lb ed="#V" n="120"/>divina siue sit in patre: siue in filio: siue in spum scond eget verbo tamquam 
+      <lb ed="#V" n="121"/>termino obiectivo.
+    </p>
+            <p xml:id="grvnZZ-ed1e34-d1e356">
+      ⁋ 3o magis repugnat egere creaturis qued 
+      <lb ed="#V" n="122"/>egere divino supposite: sed nisi omnis intellecctio divina terminetur ad  
+      <lb ed="#V" n="123"/>verbum tamquam ad id quod de omni re colligitur obiectiue: necesse est ponere 
+      <lb ed="#V" n="124"/>quod intellectio divina egeat creaturis. consequentia patet. quia cum deus 
+      intelli<lb ed="#V" n="125" break="no"/>git rosam necesse est rosam esse in esse appaerenti et obiectivo: et per consequens 
+      indi<lb ed="#V" n="126" break="no"/>get creatura in ratione termini: nisi illud esse obiectiuum rose sit 
+      <lb ed="#V" n="127"/>ipsum verbum. vnde dicens quod sicut non est nisi vnica intellectio: sic non est nisi 
+      <lb ed="#V" n="128"/>vnicum esse apparens: et obiectiuum rei create et increate omnis: quod  
+      <lb ed="#V" n="129"/>colligit intellectus divinus de se et omni creatura: et ponit in esse 
+      forma<lb ed="#V" n="130" break="no"/>to: quod quidem sic positum non perficit intellecntionem formaliter: sed intellectio 
+      <!--106.xml-->
+      <pb ed="#V" n="56-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>perfecta necessario eget eo vt termino. et quia ipsum non nisi per 
+      <lb ed="#V" n="2"/>generationem habet esse: indiguit pater generatione ipsius tamquam sue 
+      intelle<lb ed="#V" n="3" break="no"/>ctionis obiecto.
+    </p>
+            <p xml:id="grvnZZ-ed1e34-d1e391">
+      ⁋ Sed hec opinio falsa est: et conclusio supra posita 
+      <lb ed="#V" n="4"/>est his non obstantibus vera: quod probo primo sic: omne quo pater per 
+      <lb ed="#V" n="5"/>se indiget: siue quod necessitate idigentie est necessarium patri: est 
+      <lb ed="#V" n="6"/>illius aliqua modo causa: vel concausa: vt sit: aut vt bne sit: aut non 
+      <lb ed="#V" n="7"/>male sit: sed filius non est causa neque concausa patri vt sit: neque 
+      <lb ed="#V" n="8"/>vt bene sit: neque vt non male sit. ergo filius non est necessarius 
+      pa<lb ed="#V" n="9" break="no"/>tri necessitate indigentie: vt pater aliquo modo vere indigeat 
+      <lb ed="#V" n="10"/>ilio. maior patet. 5o meta. vbi. P. hunc modum necessitatis po 
+      <lb ed="#V" n="11"/>nnens ait. Necesium dicitur sine quo non contingit viuere quasi 
+      con<lb ed="#V" n="12" break="no"/>causali etc. et infra ostendens quod ratio necessarii quod est impossibile aliter 
+      <lb ed="#V" n="13"/>se habere saluatur aliquo modo in hoc modo necessarii: ait. et in 
+      con<lb ed="#V" n="14" break="no"/>causalibus viuendi et boni similiter etc. Et statim concludit quod hec 
+      <lb ed="#V" n="15"/>necessitas causa quidem est. Idem patet ibidem per Commenta. Unde dicit de 
+      <lb ed="#V" n="16"/>hoc modo necessarii loquens: quod necessium dicitur de eo quod est causa 
+      in<lb ed="#V" n="17" break="no"/>permanentis rei: et infra: et similiter dicitur necessarium in causis vite 
+      <lb ed="#V" n="18"/>et boni etc. quod autem iste modus necessitatis sit ille qui dicitur neces 
+      <lb ed="#V" n="19"/>sitas indigentie: certum est per opinionem contrariam ibidem. minor vero 
+      ratio<lb ed="#V" n="20" break="no"/>nis nulli catholico dubia est: non enim imaginabilis est aliquis 
+      <lb ed="#V" n="21"/>modus quo vere filius sit causa patris: nec qui ad esse: cum filius habeat 
+      <lb ed="#V" n="22"/>a patre esse suum: nec quae ad bene esse: cum in patre non sit aliud esse: quam 
+      <lb ed="#V" n="23"/>bene esse. Nec potest dici quod filius sit concausa cum pater omnino 
+      nul<lb ed="#V" n="24" break="no"/>lam habeat causam: et per consequens nec concausam. Et probatur est hec minori 
+      <lb ed="#V" n="25"/>per <ref xml:id="grvnZZ-ed1e34-Rd1e440">Aug. 7. de trini.</ref> vbi probat sapientiam genitam non esse causam 
+      patri<lb ed="#V" n="26" break="no"/>vt sit: neque vt sapiens sit: quoniam si esset ei causa hoc esset: vt dicens 
+      <quote xml:id="grvnZZ-ed1e34-Qd1e446" source="http://scta.info/resource/adt-l7-d1e861" synch="100-118">gignen<lb ed="#V" n="27" break="no"/>do eum: aut faciendo: sed neque genitricem: neque conditricem patris 
+        <lb ed="#V" n="28"/>nullo modo quisquam dixerit sapientiam: quid enim est insanius.</quote>
+            </p>
+            <p xml:id="grvnZZ-ed1e34-d1e455">
+      ⁋ 2o nullum 
+      <lb ed="#V" n="29"/>quod per seipum et a seipso est et summe est: nullo indiget aliqua modo ad 
+      <lb ed="#V" n="30"/>suum esse siue ad suum bene esse. sed pater per seipm et a seipso et a 
+      nul<lb ed="#V" n="31" break="no"/>lo alio est et summe est. igitur etc. Ex quo sequitur quod nullo modo 
+      indi<lb ed="#V" n="32" break="no"/>get filio. maior patet: quoniam si indigeret aliqua modo iam per illud aliud:  
+      <lb ed="#V" n="33"/>vel ab illo alio esset: vel bene esset: et sic non per seipm. vel a seipo 
+      <lb ed="#V" n="34"/>summe esset. minor certa est omni catholico: nec aliqua praedictarum 
+      <lb ed="#V" n="35"/>rationum potest effugi per distinctionem illam de indigentia formaliter et 
+      <lb ed="#V" n="36"/>obiectiue. quaniam patri repugnat habere causam non solum formalem: 
+      <lb ed="#V" n="37"/>sed quamcumque. Similiter ei repugnat esse per aliquid aliud a se: vel bene 
+      <lb ed="#V" n="38"/>esse: non solum formaliter: sed quolibet mod.
+    </p>
+            <p xml:id="grvnZZ-ed1e34-d1e479">
+      ⁋ 3o specialiter probo: quod 
+      <lb ed="#V" n="39"/>non indiget filio obiectiue sic: paiter omnia intelligit: vel sapit vel 
+      <lb ed="#V" n="40"/>nouit in seipso et a seipso. ergo non indiget filio tamquam obiecto sue 
+      <lb ed="#V" n="41"/>noticie. consequentia patet. antecedens probatur per <ref xml:id="grvnZZ-ed1e34-Rd1e487">Aug. 15. de tri.</ref> vbi dicens quod <quote xml:id="grvnZZ-ed1e34-Qd1e490" source="http://scta.info/resource/adt-l15-d1e1848" synch="193-203">deus 
+        <lb ed="#V" n="42"/>iter omnia nouit in seipso: omnia nouit in filio</quote>. Et in.<ref xml:id="grvnZZ-ed1e34-Rd1e496"> c. immediate 
+          praece<lb ed="#V" n="43" break="no"/>dente</ref>. dicens quod <quote xml:id="grvnZZ-ed1e34-Qd1e501" source="http://scta.info/resource/adt-l15-d1e1839" synch="108-116">ad omnia quippe scienda quae scit sufficit patri illa 
+            perfe<lb ed="#V" n="44" break="no"/>ctio</quote>. Ex quo sequitur principaliter: quod ad sciendum que scit: nullo 
+      <lb ed="#V" n="45"/>alio a se indigeat: non ergo filio.
+    </p>
+            <p xml:id="grvnZZ-ed1e34-d1e509">
+      ⁋ 4o patet conclusio auctoritas 
+      expressa<lb ed="#V" n="46" break="no"/>Ansel. mod. vbi dicens sic. Si enim necesse est: vt paiter intelligatur memoriua: 
+      <lb ed="#V" n="47"/>filius intellitia: spiritus amor: vt nec paiter indigeat filio: aut communi spiritum 
+      <lb ed="#V" n="48"/>nec filius patre etc. Et infra. necesse est vt nullus horum trium alio 
+      <lb ed="#V" n="49"/>indigeat: aut ad memorandum: aut ad intelligendum: aut ad 
+      <lb ed="#V" n="50"/>amandum. Constat aut quod si non indiget eo ad aliquid horum non 
+      in<lb ed="#V" n="51" break="no"/>diget etiam ad essendum. Eandem sententiam per omnia ponit Augu. 
+      <lb ed="#V" n="52"/>is. de tri. At vero in illa trinitate quis audeat dicere 
+      pa<lb ed="#V" n="53" break="no"/>trem: n ec seipsum: nec filium: nec spiritumsanctum: per se 
+      intelli<lb ed="#V" n="54" break="no"/>gere nisi per filium: nec diligere nisi per spiritumsanctum: et 
+      <lb ed="#V" n="55"/>diffuse hoc improbans deducit hoc dicentes ad illud 
+      inconue<lb ed="#V" n="56" break="no"/>niens quod oportebit dicere: quod patur a filio habet essentiam: quod 
+      ab<lb ed="#V" n="57" break="no"/>surdissimum: vt. dicens et falsissimum est. Quod profecto 
+      incon<lb ed="#V" n="58" break="no"/>ueniens vitare non possunt: qui dicunt patrem indigere filio 
+      <lb ed="#V" n="59"/>tamquam obiecto noticie sue: sic enim necessario dependeret pater a 
+      <lb ed="#V" n="60"/>filio: quantum ad suum intelligere: et esset sibi causa aliquo modo:  
+      <lb ed="#V" n="61"/>vt esset paiater intelligens: et per consequens vt esset: et deus esset: cum in eo 
+      <lb ed="#V" n="62"/>non sit aliud esse et deum esse.
+    </p>
+            <p xml:id="grvnZZ-ed1e34-d1e548">
+      ⁋ Item Aug. 83. q. hanc opinionem 
+      re<lb ed="#V" n="63" break="no"/>fellit dicens quod ibi nulla indigentia: nulla necessitas: vbi 
+      nul<lb ed="#V" n="64" break="no"/>lus defectus: nulla indigentia: nullus autem in deo defectus 
+      <lb ed="#V" n="65"/>nulla igitur necessitas: vbi patet quod ex intentione omnem necessi¬ 
+      <!--106.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 56-r b -->
+               <lb ed="#V" n="66"/>tatem: omnem indigentiam negat a deo etc.
+    </p>
+            <p xml:id="grvnZZ-ed1e34-d1e566">
+      ⁋ Ad rationes 
+      opi<lb ed="#V" n="67" break="no"/>nionis. Ad primam respondendum est per interemptionem 
+      mino<lb ed="#V" n="68" break="no"/>ris. Ad probationem cum dicitur quod pater non potest esse paiter sine filio 
+      <lb ed="#V" n="69"/>concedit: sed ex hoc non sequitur quod indigeat filio vt sit paiter: sicu 
+      <lb ed="#V" n="70"/>nec causa potest esse causa: aut actu causare nisi effectus actu 
+      cau<lb ed="#V" n="71" break="no"/>setur: nec tamen causa indiget effectu vt ipsa causet. Quod igitur. 
+      <lb ed="#V" n="72"/>assumitur vtique probat quod si pater est: necesse est vtique filium 
+      <lb ed="#V" n="73"/>esse: sed non necessitate indigentie: qua pater filio indigeat ad  
+      <lb ed="#V" n="74"/>essendum quo quo modo: sed necessitate ineuitabilitatis tanmm.
+    </p>
+            <p xml:id="grvnZZ-ed1e34-d1e586">
+      ⁋ 2a 
+      <lb ed="#V" n="75"/>ratio et tertia simul multipliciter deficiunt. primo quidem: quia fictio 
+      <lb ed="#V" n="76"/>est illud quod dicitur de tali intellectione ex esse apparenti. 2o quia esto 
+      <lb ed="#V" n="77"/>quod necesse esset illud ponere: si ponatur intellectio: adhuc 
+      <lb ed="#V" n="78"/>non sequitur quod intellectio eo indigeat: vt ante dictum est.
+    </p>
+            <p xml:id="grvnZZ-ed1e34-d1e598">
+      ⁋ 3o quia 
+      <lb ed="#V" n="79"/>secundum hoc sequitur quod verbum diuinum indigeat se ipso. quod est 
+      pe<lb ed="#V" n="80" break="no"/>nitus impossibile. consequentia patet. quia ipsum est sua intelligentia qua 
+      intel<lb ed="#V" n="81" break="no"/>ligitur. Si igitur omnis intellectio indiget obiectali intellectione 
+      <lb ed="#V" n="82"/>et nulla est obiectalis in deo nisi verbum vt dicit opinio: igitur 
+      <lb ed="#V" n="83"/>indiget verbum verbo: quis autem hoc dixerit: per hoc patet: quod maiori 
+      <lb ed="#V" n="84"/>secunde rationis est neganda: et similiter consequentia.
+    </p>
+            <p xml:id="grvnZZ-ed1e34-d1e614">
+      ⁋ 3a conclusio hec est quod paiter 
+      ge<lb ed="#V" n="85" break="no"/>nuit filium necessarie id est ineuitabiliter: quod non est aliud nisi quod 
+      <lb ed="#V" n="86"/>impossibile est patrem non generare filium. hanc conclusionem probo primo 
+      <lb ed="#V" n="87"/>sic: pliter non potuit non esse pater: ergo necessario genuit filium. 
+      <lb ed="#V" n="88"/>Antecedens est notum: quia tam necessario pater est paiter: quam necessario est 
+      perso<lb ed="#V" n="89" break="no"/>na et deus. consequentia clara est: quia pater est paiter: quia genuit et ei est filius. 
+      <lb ed="#V" n="90"/>sicut patet: per Aug. 5. de tri. et similiter per. P. 5. meta.
+    </p>
+            <p xml:id="grvnZZ-ed1e34-d1e630">
+      ⁋ 2o filius 
+      <lb ed="#V" n="91"/>semper fuit necesse esse: ergo pater necessario genuit filium. 
+      An<lb ed="#V" n="92" break="no"/>tecedens est certum cum ipse sit deus. consequentia patet: quia 
+      fi<lb ed="#V" n="93" break="no"/>lius per sol am generationem a patre habet quod sit: et quod filius 
+      <lb ed="#V" n="94"/>et quod deus et quicquid ipse est sit: sicut patet per Aug. 5. de 
+      tri<lb ed="#V" n="95" break="no"/>he due rationes confirmantur per eundem eodem lib. vbi 
+      <lb ed="#V" n="96"/>dicit. quod dicitur paiter: et quod dicitur filius eternum et 
+      incommuta<lb ed="#V" n="97" break="no"/>bile est eis: ergo necessarium: et per consequens pater necessario est paiter: 
+      ac<lb ed="#V" n="98" break="no"/>per hoc necessario genuit filium: et filius necessario est filius: 
+      <lb ed="#V" n="99"/>et per consequens necessario a patre genitus. Ex quo vltra 
+      sequi<lb ed="#V" n="100" break="no"/>tur: sicut prius quod pater necessario genuit eum.
+    </p>
+            <p xml:id="grvnZZ-ed1e34-d1e654">
+      ⁋ 3o idem 
+      <lb ed="#V" n="101"/>patet: auctoritate Danmten. libro primo. vbi ait. Impossibile est enim 
+      <lb ed="#V" n="102"/>deum esse desolatum a naturali germinatione. 
+      germina<lb ed="#V" n="103" break="no"/>tio autem est ex seipso scilicet ex propria substantia similem secundum 
+      <lb ed="#V" n="104"/>naturam generare. Si autem impossibile est deum esse sine 
+      <lb ed="#V" n="105"/>generatione: sequitur quod necessario genuerit.
+    </p>
+            <p xml:id="grvnZZ-ed1e34-d1e667">
+      ⁋ 4o 
+      impossi<lb ed="#V" n="106" break="no"/>bile est deum esse sine verbo suo perfecto: ergo 
+      necessa<lb ed="#V" n="107" break="no"/>tio semper habuit verbum perfectum. ex quo vltra sequitur quod 
+      <lb ed="#V" n="108"/>necessario genuit filium. Nam eo filius quo verbum: et eo 
+      ver<lb ed="#V" n="109" break="no"/>pum quo filius: vt dicit Aug. 7. de tri.
+    </p>
+            <p xml:id="grvnZZ-ed1e34-d1e678">
+      ⁋ Item ideo filius: 
+      <lb ed="#V" n="110"/>qui genitus: et quia filius vtique genitus: vt dicit ibidem. 5. de 
+      <lb ed="#V" n="111"/>tri. Antecedens patet. Sicut enim ipossibile est deum esse sine perfecta 
+      <lb ed="#V" n="112"/>sui noticia et sapientia sic impossibile est deum esse sine suo 
+      <lb ed="#V" n="113"/>verbo perfecto. hanc rationem tangit Damemen. libro primo. 
+      di<lb ed="#V" n="114" break="no"/>cens. Non enim fuit vnquam deus inuerbalis. id est sine verbo: semper 
+      <lb ed="#V" n="115"/>enim habet sui ipsius verbum ex seipso genitum. Eande 
+      <lb ed="#V" n="116"/>quoque rationem innuit Augu. 15. de 
+      trini
+            </p>
+           <p xml:id="grvnZZ-ed1e34-d1e697"><!-- article 2 -->
+              <lb ed="#V" n="117"/>Secundo videndum est vtrum pater genuit filium et 
+      <lb ed="#V" n="118"/>naturaliter: Dicendum est quod sic. Quod 
+      pro<lb ed="#V" n="119" break="no"/>batur. Primo sic. pater genuit filium et non electiue seu 
+      li<lb ed="#V" n="120" break="no"/>vere vel contingenter: ergo genuit eum naturaliter. Antecedens patet ex 3a conclusione 
+      <lb ed="#V" n="121"/>precedentis articuli. Et consequentia tenet ex eo quod nullus modus 
+      <lb ed="#V" n="122"/>prducendi alius potest in deo cogitari. patet etiam ex differentia agentium na 
+      <lb ed="#V" n="123"/>turalium ad alia quae ponitur. 9. meta.
+    </p>
+            <p xml:id="grvnZZ-ed1e34-d1e712">
+      ⁋ 2o pater genuit filium  
+      <lb ed="#V" n="124"/>sibi consubstantiale: ergo genuit eum naturaliter. consequentia tenet: quoniam omnis 
+      <lb ed="#V" n="125"/>productio subiecti eiusdem naturae cum producente est naturalis: sicut patet 
+      <lb ed="#V" n="126"/>inductiue.
+    </p>
+            <p xml:id="grvnZZ-ed1e34-d1e721">
+      ⁋ Confirmatur ex intentione Aug. 15. de tri. qui 
+      <lb ed="#V" n="127"/>ponens quomodo filius dei est filius dei natura exponit 
+      <lb ed="#V" n="128"/>ti. de substantia patris genitum et consubstantialem sibi: vt 
+      <lb ed="#V" n="129"/>supra patet. di. precedente. q. 2. et per idem patet quod spiritus scilicet est  
+      <lb ed="#V" n="130"/>naturaliter spiratur: sicut et filius naturaliter generatur. 
+      <!--107.xml-->
+      <pb ed="#V" n="56-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>estat 3o videre an paiter genuerit filium voluntarie. Et 
+      <lb ed="#V" n="2"/>dicendum quod hoc potest intelligi tripliciter iuxta consuetam hanc 
+      <lb ed="#V" n="3"/>distinctionem scilicet anstecedenter subsequenter concomitanter. Patrem 
+      <lb ed="#V" n="4"/>autem genuisse filium voluntarie antecedenter est patrem prius volu 
+      <lb ed="#V" n="5"/>isse generare filium: et postea genuisse: sicut prius voluit producere 
+      <lb ed="#V" n="6"/>hominem: posteaque produxit. et in hoc sensu negandum est patrem 
+      volun<lb ed="#V" n="7" break="no"/>tarie genuisse filium: et sic negat Aug. ad orosium et habter in littera 
+      <lb ed="#V" n="8"/>non genuit voluntate: quia praeire sapientiam voluntas non potest. per 
+      sapi<lb ed="#V" n="9" break="no"/>entiam intellige filium qui secundum apostolum prima ad corith. Uirtus est et 
+      <lb ed="#V" n="10"/>sapientia patris.
+    </p>
+            <p xml:id="grvnZZ-ed1e34-d1e760">
+      ⁋ Idem probari potest ratione: quia quod sic voluntarie 
+      pro<lb ed="#V" n="11" break="no"/>ducit: contingenter producitur: pater aut necessario genuit filium: vt supra 
+      <lb ed="#V" n="12"/>patet.
+    </p>
+            <p xml:id="grvnZZ-ed1e34-d1e767">
+      ⁋ Contra hoc dicitur a quibusdam quod pater primo voluit generationem filum 
+      <lb ed="#V" n="13"/>quam genuerit. vnde dicunt quod paiter in primo signo origis intelligit 
+      for<lb ed="#V" n="14" break="no"/>maliter: et tunc est potest habere actum volendi formaliter: in 2o signo 
+      ori<lb ed="#V" n="15" break="no"/>ginis gignit filium: nec tamen vult illam gignitionem volitione 
+      se<lb ed="#V" n="16" break="no"/>quente illam gignitionem: sed volitione habita in primo signo originis 
+      <lb ed="#V" n="17"/>qua pater formaliter vult praesupponendo aliquo modo intellectionen 
+      <lb ed="#V" n="18"/>qua piater intelligit: non aut gignitionem verbi.
+    </p>
+            <p xml:id="grvnZZ-ed1e34-d1e783">
+      ⁋ hec aut nullo 
+      <lb ed="#V" n="19"/>stare possunt: quoniam vel sunt verba sine intellectu vel penitus falsa: 
+      <lb ed="#V" n="20"/>Unde sciendum quod prioritas originis proprie loquendo secundum quod 
+      ve<lb ed="#V" n="21" break="no"/>re concedi potest in diuinis non est alia quam prioritas causalitatis 
+      exten<lb ed="#V" n="22" break="no"/>dendo nomen causalitatis quo plures sancti dicunt vnam personam 
+      <lb ed="#V" n="23"/>esse causam alterius: sicut Aug. Crisosto. et Damen. vt patebit infra. di 
+      <lb ed="#V" n="24"/>stictione. 9. vel strictius loquendo producibilitatis. vnde solum 
+      <lb ed="#V" n="25"/>illud dicitur prius alio origine quod principiat generat vel producit seu 
+      <lb ed="#V" n="26"/>originat alterum: sic illud dicitur prius causalitate quad causat aliud. 
+      il<lb ed="#V" n="27" break="no"/>lud vero dicitur posterius origine quod originatur vel causatur seu 
+      pro<lb ed="#V" n="28" break="no"/>ducitur ab alio. hoc docet nos Danmtens. lib. primo vbi ait. Neque secundum 
+      <lb ed="#V" n="29"/>aliud quidem nisi secundum causam pater est prior filio. Et exponens quomo 
+      <lb ed="#V" n="30"/>intelligenda est ista poritas immediate addit: hoc est quoniam filius est 
+      <lb ed="#V" n="31"/>ex patre genitus: et non pater ex filio. Si ergo in hac priorita 
+      <lb ed="#V" n="32"/>te volumus assignare primum et secundum vel prius et posterius. producens 
+      <lb ed="#V" n="33"/>est primum origine: et productum est 2m. Cum igitur dicitur quod pater in primo signo 
+      <lb ed="#V" n="34"/>originis etc. vel nulla alia prioritas connotatur in praedictis verbis: et 
+      <lb ed="#V" n="35"/>sic est sensus quod pater in primo signo origins. id est in patre intelligit et habet 
+      <lb ed="#V" n="36"/>actum volendi formaliter. Et in secundo signo id est in filio gignit filium 
+      <lb ed="#V" n="37"/>quod est inintelligibile: vel est idem quod dicere quod paiter ex se et non a 
+      fi<lb ed="#V" n="38" break="no"/>lio habet intellectionem et volitionem et hoc est habere in primo signo et habet a 
+      fi<lb ed="#V" n="39" break="no"/>lio quod gignat filium: et hoc est gignere in 2o signo origins. Et patet quod 
+      <lb ed="#V" n="40"/>ista verba aut omnino carent intellectu: aut impossibilitatem implicant: nes 
+      <lb ed="#V" n="41"/>sic faciunt ad propositum nostrm. Nullus enim dubitat quod pater ex se 
+      vo<lb ed="#V" n="42" break="no"/>luerit gignere filium. quae propter si non aliud intelligitur cum dicitur antece¬: 
+      <lb ed="#V" n="43"/>denter voluisse generasse non est ad propositum si vero alia prioritas 
+      im<lb ed="#V" n="44" break="no"/>telligatur ua scilicet non solum intelligatur filius esse a patre et pater est principium filii: 
+      <lb ed="#V" n="45"/>sed etiam aliquo modo praefuisse filio ea prius intellexisse et voluisse quam 
+      ge<lb ed="#V" n="46" break="no"/>nuisse: sic quod in illo priori in quo intelligebat et volebat: nec erat 
+      <lb ed="#V" n="47"/>genatio nec filius: vt verba et rationes eorum praetendunt. sic ex toto siculitum es 
+      <lb ed="#V" n="48"/>quod dicunt: quod patet primo. Nam impossibile est patrem prius intellexisse quam 
+      fue<lb ed="#V" n="49" break="no"/>rit. Si ergo intellexit in primo signo. in primo signo fuit: aut ergo in illo signo 
+      <lb ed="#V" n="50"/>fuit pater: vel non. non potest dici secundum: quia sequeretur quod paiter primo fuit: quam 
+      <lb ed="#V" n="51"/>esset pater: quod est contra Ambro. primo de tri. et allegatur infra. dicens q. igitur in 
+      <lb ed="#V" n="52"/>isto signo pater non solum fuit: sed etiam fuit pater. Et vltra: ergo in 
+      <lb ed="#V" n="53"/>illo signo genuit. Nam eo pater quia genuit.
+    </p>
+            <p xml:id="grvnZZ-ed1e34-d1e861">
+      ⁋ 2o impossibile est 
+      <lb ed="#V" n="54"/>prius fuisse perfectam noticiam vel intellecationem patris: quam fuerit ei 
+      <lb ed="#V" n="55"/>verbum perfectum. ergo impossibile est patrem prius intellexisse quam dixisset 
+      <lb ed="#V" n="56"/>verbum: et per consequens quam genuisse. consequentia patet: quia pro nullo priori potest 
+      intel<lb ed="#V" n="57" break="no"/>ligi patris intellectionem fuisse aliquid imperfectum nec verbum prius 
+      <lb ed="#V" n="58"/>esse quam a dicente aliquid sit dictum. Antecedens tamen patet. auctoritate Augu. 15. de 
+      <lb ed="#V" n="59"/>tri. qui vult quod verbum dei nullo modo possit vere cogitari 
+      pri<lb ed="#V" n="60" break="no"/>fuisse formabile quam formatum: quod tamen oportet dicere si intentio 
+      pa<lb ed="#V" n="61" break="no"/>tris aliquo modo praecessisset ipsum verbum: et ratione patet: quia si posita 
+      perfe<lb ed="#V" n="62" break="no"/>cta notitia actuali patris seu intellectone non ponitur simul verbum: non 
+      <lb ed="#V" n="63"/>apparet qualiter postea verbum formetur. hoc idem videtur 
+      repro<lb ed="#V" n="64" break="no"/>basse Aug. cum dicit vt allegatum est. praeire sapientiam voluntas non 
+      <lb ed="#V" n="65"/>potest.
+    </p>
+            <p xml:id="grvnZZ-ed1e34-d1e891">
+      ⁋ 3o aut in primo signo filius habuit esse: aut non: si non: cum po 
+      <!--107.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 56-v b -->
+               <lb ed="#V" n="66"/>stena habuit esse: sequitur quod habuit esse post non esse: quod est 
+      erro<lb ed="#V" n="67" break="no"/>neum. Si habuerit esse: ergo in illo signo fuit generatio eius: quia 
+      <lb ed="#V" n="68"/>vt dicit Aug. 5. de tri. eilius non tantum nascendo habet vt filius sit: capoito: is. 
+      <lb ed="#V" n="69"/>sed omnino vt sit.
+    </p>
+            <p xml:id="grvnZZ-ed1e34-d1e909">
+      ⁋ 4o secundum hanc viam intellectio est prior volitione 4. 
+      <lb ed="#V" n="70"/>in ipso patre. Nam vt dicit praesupponit eam volitio aliquo modo et 
+      <lb ed="#V" n="71"/>in quaibus reportatis. dicit expresse quod intelligere patris praecedit vel Sco in qo. 
+      <lb ed="#V" n="72"/>le: et velle praecedit dicere sicut et intelligere: quia dicere non est intel repir. dicens  
+      <lb ed="#V" n="73"/>ligere et volitio prior generatione filii: et sic habemus illa tria si¬ q. 2. 
+      <lb ed="#V" n="74"/>gena se inuicem praecedentia et sequentia: in quorum primo est intellectio: in 
+      <lb ed="#V" n="75"/>2o volitio: et in 3o generatio filii: sed eadem ratione qua in patre 
+      praeueni<lb ed="#V" n="76" break="no"/>unt intellectio a volitio generationem filii: in filio similiter praeueniunt 
+      <lb ed="#V" n="77"/>intellectio a volitio se iuicem et conspirationem spiritus sancti: 
+      <lb ed="#V" n="78"/>sicque erunt aia tria signa post illa tria: et in vltimo erit spiratio: 
+      <lb ed="#V" n="79"/>et per consequens in diuinis erunt sex signa: et tantum in vltimo erit . scilicet qua omnia 
+      <lb ed="#V" n="80"/>absona sunt.
+    </p>
+            <p xml:id="grvnZZ-ed1e34-d1e935">
+      ⁋ Item non apparet qua poritatem intellectio praecedat 
+      <lb ed="#V" n="81"/>volitionem et volitio generationem: nisi prioritate originis. Ex quo sequitur. 
+      <lb ed="#V" n="82"/>quod intellectio patris sit causa volitionis eiusdem: quod impossibile est: nec 
+      <lb ed="#V" n="83"/>isti volunt: et sic similiter volitio erit principium generationis quod in eadem 
+      que<lb ed="#V" n="84" break="no"/>stione ipsi negant ex toto.
+    </p>
+            <p xml:id="grvnZZ-ed1e34-d1e946">
+      ⁋ 5o intellectio patris et volitio e5o 
+      <lb ed="#V" n="85"/>eiusdem: sicut eius essentia est ipse filius: igitur nullo modo ipsum praecedunt. de 
+      <lb ed="#V" n="86"/>hac opinione tamen magis infra. dicens qo. videbitur.
+    </p>
+            <p xml:id="grvnZZ-ed1e34-d1e953">
+      ⁋ Dudem igitur quod 
+      <lb ed="#V" n="87"/>non genuit pater filium voluntarie antecedenter: sicut est dicit 
+      ma<lb ed="#V" n="88" break="no"/>gister in littera. Et confirmatur auctoritate Aug. dicentis super eplaram 
+      <lb ed="#V" n="89"/>ad hebre. de domino nostro vhiectu christo: qui cum patre semper fuit et 
+      <lb ed="#V" n="90"/>numquam eum vt esset voluntas. paterna praecessit. Similiter non est dicendum quod 
+      <lb ed="#V" n="91"/>pater voluntarie subsequenter genuerit: quasi voluntate 
+      <lb ed="#V" n="92"/>antecedente: cum nulla talis in eo poni possit: tunc enim vt 
+      ar<lb ed="#V" n="93" break="no"/>guit <ref xml:id="grvnZZ-ed1e34-Rd1e970">Aug. 15. de tri.</ref> Mutabilis esset diuina voluntas: quod capoitio: 2o 
+      <lb ed="#V" n="94"/>est impium dicere.
+    </p>
+            <p xml:id="grvnZZ-ed1e34-d1e976">
+      ⁋ Restat ergo an voluntarie conco 
+      <lb ed="#V" n="95"/>mitanter genuerit: vt scilicet simul genuerit et voluit generare: 
+      <lb ed="#V" n="96"/>Et dicendum quod hoc dupliciter potest adhuc intelligi: sicut 
+      volun<lb ed="#V" n="97" break="no"/>tarie aliquid fieri dupliciter dici consuetum est. Uno modo 
+      <lb ed="#V" n="98"/>voluntarie id est libere contingenter: sicut quis voluntarie dicitur 
+      <lb ed="#V" n="99"/>mereri et peccare: et hoc modo non genuit voluntarie: cum 
+      pro<lb ed="#V" n="100" break="no"/>batum sit quod necessario ea ineuitabiliter ipsum genuerit: 
+      <lb ed="#V" n="101"/>Alio modo voluntarie id est complacenter: et hoc modo vtique 
+      conce<lb ed="#V" n="102" break="no"/>dendum est. Complacuit enim sibi summe pater in generatione filii sui 
+      <lb ed="#V" n="103"/>predilecti: iuxta illud Mathei. hic est filius meus pre 3o capitul 
+      <lb ed="#V" n="104"/>dilectus in quo mihi bene complacui. Et hoc est quod Magistr 
+      <lb ed="#V" n="105"/>dicit cum ait: quod pater volens genuit filium.
+    </p>
+            <p xml:id="grvnZZ-ed1e34-d1e1003">
+      ⁋ Ad rationes 
+      fa<lb ed="#V" n="106" break="no"/>ctas in principio q. patet: quid sit dicendum. Nam prime tres secundum sensus 
+      <lb ed="#V" n="107"/>predictos verum concludunt eedemque concedende sunt.
+    </p>
+            <p xml:id="grvnZZ-ed1e34-d1e1010">
+      ⁋ Ad Ad ratioe 
+      <lb ed="#V" n="108"/>primam vero in oppositum dicendum est quod Aug. intelligit de volun 
+      principa<lb ed="#V" n="109" break="no"/>tate precedente et de necessitate violentie.
+    </p>
+            <p xml:id="grvnZZ-ed1e34-d1e1017">
+      ⁋ Ad secundam qua est 
+      <lb ed="#V" n="110"/>de auctoritate hyl. dicendum quod ipse non intelligit significare 
+      <lb ed="#V" n="111"/>filium non esse naturaliter genitum et necessario ac 
+      ineuita<lb ed="#V" n="112" break="no"/>biliter a patre quasi pater potuerit ipsum non generare: sed solum 
+      <lb ed="#V" n="113"/>vult exprimere quod pater voluntarie et complacenter et 
+      ineui<lb ed="#V" n="114" break="no"/>tabiliter genuit non autem contra propriam voluntatem 
+      natu<lb ed="#V" n="115" break="no"/>raliter necessitatus produxit: sicut contra nostram 
+      volun<lb ed="#V" n="116" break="no"/>tatem multa naturali patimur necessitate: vt mortem 
+      se<lb ed="#V" n="117" break="no"/>nectutem et alios naturales defectus. Et quod hec sit eius in 
+      <lb ed="#V" n="118"/>tentio patet: per alia eius ibidem verba que sunt. Non enim no 
+      <lb ed="#V" n="119"/>lente patre vel coactus pater vel naturali necessitate inductus 
+      <lb ed="#V" n="120"/>cum nollet genuit filium: sed mox vt voluit sine tempore in 
+      <lb ed="#V" n="121"/>passibiliter ex se vnigenitum demonstrauit. Ex quibus patet propositum 
+    </p>
+         </div>
+      </body>
+   </text>
 </TEI>
