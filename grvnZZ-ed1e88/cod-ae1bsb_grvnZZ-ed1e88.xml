@@ -1,420 +1,420 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 1</title>
-            <author ref="#Rimini">Gregory of Rimini</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-            
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 1</title>
-               <date when="2020-10-03">October 03, 2020</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="V" n="cod-ae1bsb">Venice 1503</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2020-10-03" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#V" n="139-v"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="grvnZZ-ed1e88"><!-- l1d39q1 -->
-            <head xml:id="grvnZZ-ed1e88-Hd1e106">Quaestio 1</head>
-            <head xml:id="grvnZZ-ed1e88-Hd1e109" type="question-title">Utrum scientia vel praescientia Dei possit augeri vel minui</head>
-            <p xml:id="grvnZZ-ed1e88-d1e112">
-               <lb ed="#V" n="5"/>⁋ Distinctionis. XXXIX. Questio. I 
-      <lb ed="#V" n="6"/>Circa distinctionem trigesimam nonam. 
-      <lb ed="#V" n="7"/>Quero pariter cum ma. Utrum scientia 
-      <lb ed="#V" n="8"/>vel praescientia dei possit augeri vel minui:
-    </p>
-            <p xml:id="grvnZZ-ed1e88-d1e123">
-      Et ar<lb ed="#V" n="9" break="no"/>guo 
-      primo quod possit augeri: quia aliquod deus potest 
-      <lb ed="#V" n="10"/>scire: et praescire: quod nec scit nec praesciuit: et cum 
-      <lb ed="#V" n="11"/>hoc scire omne quod nunc scit. ergo dei scientia potest 
-      <lb ed="#V" n="12"/>augeri. consequentia patet. quia scientia quanto est plurium 
-      <lb ed="#V" n="13"/>scitorum: tanto est maiori. Antecedens probatur dupliciter. Primo: quia 
-      <lb ed="#V" n="14"/>sicut dicit ma. in littera. scientia dei non est nisi de his que sunt 
-      <lb ed="#V" n="15"/>vel fuerunt vel erunt: et praescientia non nisi de futuris. deus autem 
-      <lb ed="#V" n="16"/>potest multas res facere quas nunquam faciet: et per consequens 
-      mul<lb ed="#V" n="17" break="no"/>te possunt esse future que non sunt future. Si ille autem essent 
-      <lb ed="#V" n="18"/>future: essent vtique a deo scite et praescite: que tamen nunc non sunt 
-      <lb ed="#V" n="19"/>scite nec praescite. 2o quia aliquis non est cras lecturus qui potest 
-      <lb ed="#V" n="20"/>esse lecturus. ergo deus aliquem non scit nec praescit esse lecturum: 
-      <lb ed="#V" n="21"/>quem tamen esse lecturum cras deus potest prescire.
-    </p>
-            <p xml:id="grvnZZ-ed1e88-d1e154">
-      ⁋ 2o arguitur quod 
-      <lb ed="#V" n="22"/>dei scientia potest minui. quia aliquid deus scit quod potest non scire: et ali 
-      <lb ed="#V" n="23"/>quid praesciuit quod potest non praescire. ergo etc. Probatur assumptum. Nam 
-      <lb ed="#V" n="24"/>deus scit me legere nunc seu in isto tempore praesenti 
-      demonstra<lb ed="#V" n="25" break="no"/>to quod vocetur a. et hoc deus potest non scire. Nam die crastina deus 
-      <lb ed="#V" n="26"/>non sciet me legere in a. quamuis sciet me legisse in a. Similiter 
-      <lb ed="#V" n="27"/>aliqua res futura potest fieri praesens: et tunc non erit praescita: que 
-      <lb ed="#V" n="28"/>tamen modo est prescita.
-    </p>
-            <p xml:id="grvnZZ-ed1e88-d1e173">
-               <lb ed="#V" n="29"/>In oppositum arguitur. quia scientia dei est omnino 
-      intrans<lb ed="#V" n="30" break="no"/>mutabilis: cum ipsa sit deus. ergo est in 
-      <lb ed="#V" n="31"/>augmentabilis: et immutabilis.
-    </p>
-            <p xml:id="grvnZZ-ed1e88-d1e182">
-               <lb ed="#V" n="32"/>Distinguo primo duplicem sensum questionis: quorum. 
-      <lb ed="#V" n="33"/>pri mus et quem de virtute sermonis facit 
-      <lb ed="#V" n="34"/>est. Utrum illa res pro qua supponit hic terminus scientia vel 
-      <lb ed="#V" n="35"/>praescientia dei possit augeri vel minui: et in hoc sensu que: 
-      <lb ed="#V" n="36"/>stio determinata est apud omnem catholicum ad partem 
-      nega<lb ed="#V" n="37" break="no"/>tiuam. cum dei scientia non sit aliud quam dei esentia et substantia: 
-      <lb ed="#V" n="38"/>que omnino immutabilis est. Alius sensus est quem 
-      disputato<lb ed="#V" n="39" break="no"/>res per hanc questionem intendunt: et est: vtrum deus possit 
-      <lb ed="#V" n="40"/>aliquid perfectius vel imperfectius scire vel praescire: quam scit: aut 
-      <lb ed="#V" n="41"/>plura vel pauciora: his enim modis consuetum est dici: quod in 
-      <lb ed="#V" n="42"/>nobis augetur vel minuitur scientia. Et in hoc sensu etiam quantum 
-      <lb ed="#V" n="43"/>ad primam partem huius disiunctiue: questio non habet dubium: 
-      <lb ed="#V" n="44"/>quaniam certum est quod nullam rem vel aliquid cognitum a deo deus 
-      <lb ed="#V" n="45"/>vno tempore perfectius cognoscit quam alio: nec etiam imperfectius. 
-      <lb ed="#V" n="46"/>non enim proficit nec deficit in cognitione.
-    </p>
-            <p xml:id="grvnZZ-ed1e88-d1e217">
-      ⁋ Et ad hoc 
-      suffi<lb ed="#V" n="47" break="no"/>ciat auctoritas Augu. cum eius probatione. 15. de tri. vbi ait. quod 
-      <lb ed="#V" n="48"/>vniuersas creaturas suas et spirituales et corporales: non quia 
-      <lb ed="#V" n="49"/>sunt ideo nouit: sed ideo sunt: quia nouit: et sequitur. nec aliter 
-      <lb ed="#V" n="50"/>sciuit ea creata quam creanda: non enim eius sapientie aliquid  
-      <lb ed="#V" n="51"/>accessit ex eis: sed illis existentibus sicut oportebat et 
-      quam<lb ed="#V" n="52" break="no"/>do oportebat: ita mansit vt erat: ita et scriptum est in libro 
-      ec<lb ed="#V" n="53" break="no"/>clesiastico: antequam crearentur omnia. nota sunt illi: sic et postquam 
-      <lb ed="#V" n="54"/>consummata sunt. sic inquit non aliter: et antequam crearentur: et postquam 
-      <lb ed="#V" n="55"/>creata sunt. sic ei nota sunt: hec ipse.
-    </p>
-            <p xml:id="grvnZZ-ed1e88-d1e239">
-      ⁋ Pro 2a vero parte 
-      disiu<lb ed="#V" n="56" break="no"/>ctiue. vtrum scilicet deus plura vel pauciora possit praescire vel sci 
-      <lb ed="#V" n="57"/>re. praemitto aliquas distinctiones de istis terminis scientia et scire 
-      <lb ed="#V" n="58"/>secundum quod contrahuntur ad standum praecise pro scientia dei. Nam vno modo: possunt 
-      <lb ed="#V" n="59"/>accipi communiter. non quide sumendo hanc communitatem secundum 
-      multitu<lb ed="#V" n="60" break="no"/>dinem persone inferiorum seu singularium: quasi multe sint scientie 
-      <lb ed="#V" n="61"/>dei. Nam dei scientia vnica tantum et simplex est. sed secundum 
-      multi<lb ed="#V" n="62" break="no"/>tudinem cognitorum vel scitorum: respectu quorum dicitur scientia: 
-      <lb ed="#V" n="63"/>et sic generaliter sumendo respectu cuiuslibet a deo noti vel 
-      <lb ed="#V" n="64"/>cogniti consueuit vocari scientia simplicis notitie seu 
-      sim<lb ed="#V" n="65" break="no"/>pliciter notitia vel cognitio. Alio modo potest sumi specialiter: et hoc 
-      <!--267.xml-->
-      <cb ed="#V" n="b"/> 
-               <!-- 139-v b -->
-               <lb ed="#V" n="66"/>dupliciter. secundum quod cognitorum quedam sunt res vel entitates 
-      <lb ed="#V" n="67"/>actuales vel potentiales: quedam sunt enunciabilia: et praecise per 
-      <lb ed="#V" n="68"/>propositiones vel enunciationes vel terminos eis equivalentes 
-      <lb ed="#V" n="69"/>significabilia: sicut me legere: seu quod ego lego quod ego legi: 
-      <lb ed="#V" n="70"/>vel sum lecturus: et similia que per enunciationes significamus. 
-      <lb ed="#V" n="71"/>Et secundum hunc modum aliqui antiqui distinxerunt scientiam dei in 
-      <lb ed="#V" n="72"/>scientiam enunciabilium et scientiam rerum. Proprie autem et stricte secundum vsum 
-      <lb ed="#V" n="73"/>disputantium: scientia enunciabilium dicitur iudicium euidens et 
-      <lb ed="#V" n="74"/>certum ipsorum enunciabilium: et sic accipiendo scientia rerum 
-      signifi<lb ed="#V" n="75" break="no"/>ficat scientiam dei secundum quod est simplex apprehemodo entitatum. Scientia 
-      <lb ed="#V" n="76"/>vero enunciabilium significat eandem secundum quod est euidens 
-      iudi<lb ed="#V" n="77" break="no"/>cium eorum. Rursus primo modo potest accipi tripliciter. Nam vno modo 
-      ge<lb ed="#V" n="78" break="no"/>neraliter respectu cuiuslibet entitatis praeterite praesentis vel 
-      <lb ed="#V" n="79"/>future aut possibilis fore: et sic simpliciter vocatur notitia seu 
-      <lb ed="#V" n="80"/>scientia simplicis notitie. 2o specialiter respectu earum que sunt 
-      <lb ed="#V" n="81"/>vel fuerunt aut future sunt tantumo: et sic consueuit ab aliquibus 
-      vo<lb ed="#V" n="82" break="no"/>cari scientia visionis: et a mteri. in hac distinctione simpliciter vocatur. 
-      <lb ed="#V" n="83"/>scientia. 3o a dhuc specialius scilicet respectu futurorum tantum: et sic 
-      <lb ed="#V" n="84"/>vocatur praescientia. Eodem modo modo potest distingui seu eodem modo distincte 
-      si<lb ed="#V" n="85" break="no"/>gnificari dei scientia secundum quod illa est iudicium enunciabilium. potest 
-      <lb ed="#V" n="86"/>enim sumi secundum quod cuiuslibet enunciabilis affirmatiue vel 
-      negati<lb ed="#V" n="87" break="no"/>ue de inesse vel modaliter cathegoriae vel ypothe aut aliquo alio 
-      <lb ed="#V" n="88"/>modo est euidens iudicium. Alio modo secundum quod est iudicium 
-      determina<lb ed="#V" n="89" break="no"/>te aliquorum. et hoc multipliciter posset distingui. valet secundum vsum 
-      <lb ed="#V" n="90"/>communem dupliciter accipitur. Uno modo respectu enunciabilium de praesenti 
-      <lb ed="#V" n="91"/>vel de praeterito vel de futuro. et sic vocatur scientia vel scientia 
-      visio<lb ed="#V" n="92" break="no"/>nis. 2o specialius scilicet respectu talium enunciabilium de futuro tantum: 
-      <lb ed="#V" n="93"/>et tunc dicitur praescientia. Preter autem hec nomina sunt quadam alia vsita 
-      <lb ed="#V" n="94"/>ta in scripturis ad significandum scientiam dei: que tamen dicta de 
-      <lb ed="#V" n="95"/>deo respectu aliquorum non tantum significant deu illa nosse: sed  
-      <lb ed="#V" n="96"/>etiam diligere: vel aliquid circa illa operari vel facturum esse: sicut 
-      <lb ed="#V" n="97"/>dispositio: prouidentia: praedestinatio: et reprobatio: et approbatio: 
-      <lb ed="#V" n="98"/>et forte aliqua alia de quibus aliis locis videndum est 
-    </p>
-            <p xml:id="grvnZZ-ed1e88-d1e341">
-               <lb ed="#V" n="99"/>His premissis primo videndum est. vtrum deus potest
-      <lb ed="#V" n="100"/>plura vel pauciora scire: vel praesci 
-      <lb ed="#V" n="101"/>re quam scit vel prescit loquendo de scientia rerum. Secundo idem 
-      vi<lb ed="#V" n="102" break="no"/>dendum est loquendo de scientia enunciabilium.
-    </p>
-            <p xml:id="grvnZZ-ed1e88-d1e352">
-               <lb ed="#V" n="103"/>Quantum ad primum pono principaliter sex conclusiones. 
-      <lb ed="#V" n="104"/>Prima est: quod omnem rem actualem aut 
-      po<lb ed="#V" n="105" break="no"/>tentialem praeteritam vel praesentem vel futuram deus actu cognoscit et 
-      <lb ed="#V" n="106"/>scit. loquendo de scientia simpliciter seu scientia simplicis notitia 
-      Pro<lb ed="#V" n="107" break="no"/>batur <ref xml:id="grvnZZ-ed1e88-Rd1e365">auctoritas apostoli ad Ro. 4o</ref> vbi ait. quod deus <quote xml:id="grvnZZ-ed1e88-Qd1e368" source="http://scta.info/resource/rom4_17" synch="18-25">vocat ea quae 
-        <lb ed="#V" n="108"/>non sunt: tanquam ea quae sunt</quote>. Et <ref xml:id="grvnZZ-ed1e88-Rd1e373">ad hebre. 4o</ref> 
-               <quote xml:id="grvnZZ-ed1e88-Qd1e376" source="http://scta.info/resource/hebr4_13">omnia inquit nuda et  
-        <lb ed="#V" n="109"/>aperta sunt oculis eius</quote>. Et sapientie o de sapientia increata 
-      <lb ed="#V" n="110"/>scribitur quod ipsa scit omnia et intelligit.
-    </p>
-            <p xml:id="grvnZZ-ed1e88-d1e385">
-      ⁋ Ad hoc etiam sunt proba 
-      <lb ed="#V" n="111"/>tiones facte pro prima conclusione primi articuli: praecedenti quaestionis.
-    </p>
-            <p xml:id="grvnZZ-ed1e88-d1e390">
-      ⁋ 2a 
-      <lb ed="#V" n="112"/>onclusio est: quod quamlibet entitatem actualem vel potentialem etc. deus necessario 
-      <lb ed="#V" n="113"/>cognoscit. Et hec probata est in praecedenti quaestione ar. 3o Ex his 
-      <lb ed="#V" n="114"/>autem duabus infero quasdam alias. Una est quod nullam rem quam deus 
-      <lb ed="#V" n="115"/>nescit potest scire. loquendo de scientia modo praemisso: et probatur: quia 
-      <lb ed="#V" n="116"/>nullam deus nescit. Alia est quod nullam quam scit potest non scire: 
-      <lb ed="#V" n="117"/>probatur: quia quamlibet scit necessario. Et pro hac potest argui quod si 
-      ali<lb ed="#V" n="118" break="no"/>quam quam scit potest non scire: maxime hoc de rebus videretur: quae 
-      <lb ed="#V" n="119"/>sunt et possunt non esse: ita quod sicut res desinerent esse sic deus 
-      desi<lb ed="#V" n="120" break="no"/>neret illas scire. Sed hoc est falsum: quia non minus ipse 
-      co<lb ed="#V" n="121" break="no"/>gnouit res praeteritas quam praesentes. Unde <ref xml:id="grvnZZ-ed1e88-Rd1e413">Aug. 15. de trini.</ref> 
-               <quote xml:id="grvnZZ-ed1e88-Qd1e417" source="http://scta.info/resource/adt-l15-d1e1763" synch="6-58">Deus 
-        sa<lb ed="#V" n="122" break="no"/>pientia sua nouit omnia: ita vt nec quae dicuntur praeterita ibi 
-        prete<lb ed="#V" n="123" break="no"/>reant: nec ea quae dicuntur ibi futura quasi desint expectentur vt 
-        <lb ed="#V" n="124"/>veniant: sed et praeterita et futura cum praesentibus sunt cuncta praesentia nec 
-        <lb ed="#V" n="125"/>singula cogitantur: nec ab aliis ad alia cogitando transitur: sed 
-        <lb ed="#V" n="126"/>vno conceptu simul praesto sunt vniuersa</quote>. Et postea loquens de patre 
-      <lb ed="#V" n="127"/>et filio dicit: <quote xml:id="grvnZZ-ed1e88-Qd1e432" source="http://scta.info/resource/adt-l15-d1e1848" synch="274-290">quod vnusquisque eorum omnia quae sunt in eorum scientia simul 
-        vi<lb ed="#V" n="128" break="no"/>det</quote>: ita vt aliqua videre non possit non videns alia: sed simul omnia 
-      <lb ed="#V" n="129"/>cidet: quorum nullum est: quod non semper videt. et allegatur in praesenti distin 
-      <lb ed="#V" n="130"/>vione. Ratione quoque idem patet. quia alias obliuio caderet in deo 
-      <!--268.xml-->
-      <pb ed="#V" n="140-r"/>
-               <cb ed="#V" n="a"/>
-               <lb ed="#V" n="1"/>et mutabilitas: quae repugnant divine perfectioni.
-    </p>
-            <p xml:id="grvnZZ-ed1e88-d1e451">
-      ⁋ 3a conclusio que sequitur 
-      <lb ed="#V" n="2"/>est. quod non plura quam deus scit ipse potest scire: nec etiam 
-      paucio<lb ed="#V" n="3" break="no"/>ra quam scit ipse potest scire. Probatur: quia si plura: sequitur quod aliqua 
-      <lb ed="#V" n="4"/>rem quam nescit potest scire: et si pauciora: sequitur quod aliquam quam 
-      <lb ed="#V" n="5"/>scit potest non scire. 4a que sequitur est: quod nullam potest incipere 
-      <lb ed="#V" n="6"/>scire vel non scire qualitercumque exponatur hic incipit: et patet ex 
-      <lb ed="#V" n="7"/>eisdem.
-    </p>
-            <p xml:id="grvnZZ-ed1e88-d1e467">
-      ⁋ Conclusio 3a principalis est: quod loquendo 2o modo de 
-      <lb ed="#V" n="8"/>scientia rerum scilicet de scientia visionis: aliquam rem quam deus non scit potest 
-      <lb ed="#V" n="9"/>scire: et similiter plures quam scit potest scire. Probatur: quia possibile est 
-      <lb ed="#V" n="10"/>aliquam que non est futura esse futuram: et simul cum hoc omnem que 
-      <lb ed="#V" n="11"/>est futura manere futuram. ergo etc.
-    </p>
-            <p xml:id="grvnZZ-ed1e88-d1e478">
-      ⁋ 4a conclusio est: quod aliquam quam 
-      <lb ed="#V" n="12"/>deus non prescit potest prescire: et similiter plures quam prescit potest 
-      <lb ed="#V" n="13"/>praescire. Et probat ex eodem: quamuis autem he due vltime conclusiones 
-      <lb ed="#V" n="14"/>sint vere et simpliciter concedende: pro eo sensu diuiso: quem tantum 
-      <lb ed="#V" n="15"/>de virtute sermonis efficiunt: iste tamen. deus potest scire aliquam 
-      <lb ed="#V" n="16"/>rem quam nescit: deus potest plura scire quam scit: sunt de virtu 
-      <lb ed="#V" n="17"/>te sermonis false: et simpliciter negande. Et ratio est: quia sensus 
-      di<lb ed="#V" n="18" break="no"/>uisus et sensus compositus earum: siue ipse secundum vtrumque sensum 
-      <lb ed="#V" n="19"/>mutuo se inferunt: et ideo si essent vere oporteret quod iste essent 
-      <lb ed="#V" n="20"/>possibiles: deus scit aliquam rem quam nescit: deus scit plu 
-      <lb ed="#V" n="21"/>ra quam quod scit: quod tamen est falsum. Similiter iste sunt simpliciter false 
-      <lb ed="#V" n="22"/>de virtute sermonis et negande: deus potest aliquam rem pre 
-      <lb ed="#V" n="23"/>scire quam non presciuit: deus potest plura praescire quam praesciuit: quia 
-      <lb ed="#V" n="24"/>iste sunt impossibiles. deus praescit aliquam rem quam non praesciuit:  
-      <lb ed="#V" n="25"/>deus praescit pli ra quam praesciuit. ergo et ille sunt false. Assumptum pro 
-      <lb ed="#V" n="26"/>batur: quo ad primam partem. quia hec est impossibilis: aliqua res est 
-      <lb ed="#V" n="27"/>futura que non fuit futura. Et sequitur: deus praescit aliquam rem quam 
-      <lb ed="#V" n="28"/>non praesciuit. ergo aliqua res est futura quae non fuit futura. Quo 
-      <lb ed="#V" n="29"/>ad 2am partem probatur. quia hec est impossibilis: plura sunt 
-      futu<lb ed="#V" n="30" break="no"/>ra quam fuerunt futura. Et sequitur. deus praescit plura quam praesciuit. ergo 
-      <lb ed="#V" n="31"/>plura sunt futura quam fuerunt futura. quia tamen non omnes aduertut 
-      <lb ed="#V" n="32"/>differentiam inter locutiones in quibus solus iste terminus deus praece 
-      <lb ed="#V" n="33"/>dit illud verbum potest: et totum residuum sequitur: et in quibus 
-      praece<lb ed="#V" n="34" break="no"/>dit verbum hoc totum: aliquam rem quam deus non praescit: vel hoc to 
-      <lb ed="#V" n="35"/>tum plura quam deus praescit. Et rursum istas vltimas aliqui 
-      pos<lb ed="#V" n="36" break="no"/>sent accipere in sensu composito: ideo et has et illas aliqui eli 
-      <lb ed="#V" n="37"/>gunt: et satis vtiliter propter minus exercitatos in logica. Ad 
-      <lb ed="#V" n="38"/>veritatis maiorem declarationem distinguere in sensu diuise 
-      <lb ed="#V" n="39"/>concedunt: in sensu composito negant: et sic facit magister in possunti 
-      <lb ed="#V" n="40"/>distinctione.
-    </p>
-            <p xml:id="grvnZZ-ed1e88-d1e543">
-      ⁋ 5a conclusio est: quod nullam rem potest deus incipere scire vel 
-      <lb ed="#V" n="41"/>praescire. Probat: quia si aliquam posset incipere scire vel praescire 
-      <lb ed="#V" n="42"/>signetur illa. Tunc arguo hanc rem ea demonstrata deus potest 
-      in<lb ed="#V" n="43" break="no"/>cipere scire vel praescire. ergo hec res potest incipere esse futura. consequentia 
-      <lb ed="#V" n="44"/>est necessaria: et consequens falsum: vt ex superioribus patet. ergo et antecedens.
-    </p>
-            <p xml:id="grvnZZ-ed1e88-d1e555">
-      ⁋ 6 
-      <lb ed="#V" n="45"/>onclusio est: quod aliquam rem quam deus praescit et praesciuit potest non praescire: et 
-      <lb ed="#V" n="46"/>pauciora quam deus prescit et praesciuit potest prescire: in quocum quoe 
-      <lb ed="#V" n="47"/>sensu accipiatur: et similiter quod deus potest aliquam rem non praescire quam 
-      <lb ed="#V" n="48"/>presciuit et pauciora praescire quam praesciuit. Et omnia hec probantur: 
-      <lb ed="#V" n="49"/>qui hec est possibilis: aliqua res quae fuit futura non est futura 
-      <lb ed="#V" n="50"/>immo de facto habet multas singulares veras: quinimmo tot quot 
-      <lb ed="#V" n="51"/>sunt creature actu existentes quae non sunt vnquam future: distinguen 
-      <lb ed="#V" n="52"/>do futurum contra praesens. Item hec est possibilis: et etia vera. pauciora sunt 
-      fu<lb ed="#V" n="53" break="no"/>tura quam fuerint futura: et quelibet pars conclusionis praemisse 
-      <lb ed="#V" n="54"/>sequitur ex altera istarum: vt satis patet ex dictis. 
-      <lb ed="#V" n="55"/>Quantum ad 2m articuum scilicet de scientia enunciabilium 
-      <lb ed="#V" n="56"/>demitto vnam distinctionem de 
-      enunciation<lb ed="#V" n="57" break="no"/>bus. Nam sicut enunciationum quaedam sunt vere et quadam false. Et ve 
-      <lb ed="#V" n="58"/>rarum quedam necessarie et quaedam contingentes. Falsarum autem quaedam 
-      pos<lb ed="#V" n="59" break="no"/>sibiles quadam impossibiles: sic enunciabilium quada possunt dici vera 
-      <lb ed="#V" n="60"/>(vtpote ea quirum enunciationes si formentur sunt vere) quadam falsa 
-      <lb ed="#V" n="61"/>vt enunciabiua enunciationum falsarum et verarum: quadam necessaria: et 
-      quae<lb ed="#V" n="62" break="no"/>dam contingentia: et falsorum quadam possibilia: quaedam impossibilia cor 
-      <lb ed="#V" n="63"/>respondenter ad suas enunciationes a quibus extrinsece huiusmodi enun 
-      <lb ed="#V" n="64"/>ciabilia denominari possunt.
-    </p>
-            <p xml:id="grvnZZ-ed1e88-d1e601">
-      ⁋ hoc praemisso pono aliquas conclusiones 
-      <lb ed="#V" n="65"/>Quarum prima est. quod omne enuciabile est necessario scitum a deo: lo¬ 
-      <!--268.xml-->
-      <cb ed="#V" n="b"/> 
-               <!-- 140-r b -->
-               <lb ed="#V" n="66"/>quendo de scientia non quidem vt est iudicium: sed vt simpliciter est 
-      ap<lb ed="#V" n="67" break="no"/>prehensio. Non autem omne enunciabile est scitum a deo secundum quod scientia 
-      <lb ed="#V" n="68"/>est iudicium. Prima pars probatur primo sic. necesse est quorumlibet 
-      contradi<lb ed="#V" n="69" break="no"/>ctoriorum enunciabilium alterum esse a deo scitum iudiciarie siue 
-      <lb ed="#V" n="70"/>iudicatum. ergo omne enunciabile necesse est a deo cognitum esse vel 
-      <lb ed="#V" n="71"/>apphensum. Antecedens probatur. quia necesse est quodlibet verum esse a deo iu 
-      <lb ed="#V" n="72"/>diciarie scitum: et necesse est quorumlibet enunciabilium condictoriorum 
-      <lb ed="#V" n="73"/>alterum esse verum. ergo necesse est quorumlibet contradictoriorum alterum esse a deo 
-      <lb ed="#V" n="74"/>iudiciarie scitu. Ambe premisse sumpte in sensu composito 
-      <lb ed="#V" n="75"/>vere sunt: et sic inferunt veram conclusionem etiam in sensu composito. Quod 
-      <lb ed="#V" n="76"/>autem maior sit vera patet. quia hec est impossibilis: aliquod verum non 
-      <lb ed="#V" n="77"/>est a deo scitum. Minor vero patet: quia quarumlibet enunciationum contradi 
-      <lb ed="#V" n="78"/>ctoriorum si formentur necesse est alteram esse veram. Consequentia 
-      <lb ed="#V" n="79"/>vero prima probatur: quia quodlibet enunciabile est pars duorum 
-      enun<lb ed="#V" n="80" break="no"/>ciabilium contradictoriorum improprie loquendo et secundum quamdam similitu 
-      <lb ed="#V" n="81"/>dinem de parte: quia nec aliter possumus in proposito loqui. Nam 
-      <lb ed="#V" n="82"/>de quolibet enunciabili contingit vere dicere ipsum esse scitum vel 
-      <lb ed="#V" n="83"/>non esse scitum: creditum vel non creditum: et sic quocumque affirma 
-      <lb ed="#V" n="84"/>ri vel negari. ita quod quodlibet enunciabile est quaodammo pars 
-      to<lb ed="#V" n="85" break="no"/>talium enunciabilium significabilium per contradictorias 
-      enunciatio<lb ed="#V" n="86" break="no"/>nes: et per consequens alicuius enunciabilis veri. ac per hoec alicuius enum 
-      <lb ed="#V" n="87"/>ciabilis a deo iudiciarie sciti: impossibile autem est aliquod 
-      enuncia<lb ed="#V" n="88" break="no"/>bile totale esse scitum: quin illud de quo aliud enunciatur sit 
-      cogni<lb ed="#V" n="89" break="no"/>tum et apprehensum. Et totum hoc potest declarari ex ipsis enunciabi 
-      <lb ed="#V" n="90"/>libus. Nam quaelibet potest esse subiectum cuiusdam contradictionis. verbi gra. ista. 
-      <lb ed="#V" n="91"/>homo est asinus. Nam possunt due tales formari. homo est asinus. est propositio 
-      <lb ed="#V" n="92"/>opinata: homo est asinus: non est propositio opinata. et constat quod altera: 
-      <lb ed="#V" n="93"/>est vera: et per consequens a deo cognita et scita esse vera. ergo et ista: homo est 
-      <lb ed="#V" n="94"/>asinus: quae est subiectum vtriusque est a deo apphensa: quamuis non sit 
-      <lb ed="#V" n="95"/>scita esse vera.
-    </p>
-            <p xml:id="grvnZZ-ed1e88-d1e677">
-      ⁋ 2o ad idem sic. omne enunciabile necessario scitur a 
-      <lb ed="#V" n="96"/>deo posse per aliquam enunciationem veram vel falsam 
-      enuncia<lb ed="#V" n="97" break="no"/>ri. ergo omne enunciabile necessario est a deo apphensum. Uel sic. 
-      <lb ed="#V" n="98"/>omne enunciabile necessario scitur a deo esse verum vel falsum. 
-      <lb ed="#V" n="99"/>ergo etc. 2a vero pars conclusionis scilicet quod non omne enunciabile est 
-      iudicia<lb ed="#V" n="100" break="no"/>rie scitum a deo. patet. quia non omne est verum et solum verum 
-      enunciabi<lb ed="#V" n="101" break="no"/>le isto modo scitu. Probatur etiam tota conclusio ista per auctoritatem <ref xml:id="grvnZZ-ed1e88-Rd1e692">Aug. 15. de 
-        <lb ed="#V" n="102"/>tri.</ref> dicentis. quod <quote xml:id="grvnZZ-ed1e88-Qd1e697" source="http://scta.info/resource/adt-l15-d1e1788" synch="100-120">nemo falsa nouit: nisi cum falsa esse nouit. quod si erg 
-          <lb ed="#V" n="103"/>nouit verum nouit: verum enim est quod ipsa falsa sunt</quote>. vbi Aug. 
-      <lb ed="#V" n="104"/>loquitur de notitia iudiciaria et enunciatiua: qua quis nouit et 
-      <lb ed="#V" n="105"/>iudicat euidenter esse sicut est et non esse sicut non est. hoc vtique 
-      <lb ed="#V" n="106"/>modo non cognoscuntur nisi vera. non enim quisquam cognoscit: quod 
-      <lb ed="#V" n="107"/>homo est asinus. et propterea dicit. nemo falsa nouit. Ex quo patet 
-      <lb ed="#V" n="108"/>2a pars conclusionis. Quod autem addit nisi cum falsa esse nouit. Probat 
-      <lb ed="#V" n="109"/>primam partem. quia cum quis nouit falsa esse falsa. vtique 
-      apprehen<lb ed="#V" n="110" break="no"/>dit illa falsa. alias nesciret illa esse falsa: nec dubium quod deus 
-      <lb ed="#V" n="111"/>nouit falsa esse falsa. alias non cognosceret omne verum: cum ve 
-      <lb ed="#V" n="112"/>rum sit: falsa esse falsa: vt dicit Aug. Ex hac conclusione sequitur: 
-      lo<lb ed="#V" n="113" break="no"/>quendo sic de scientia communiter quod nullum enunciabile quod deus nescit 
-      <lb ed="#V" n="114"/>deus potest scire: nec plura nec pauciora quam scit scire: nec aliquod 
-      <lb ed="#V" n="115"/>quod scit non scire: nec aliquid incipere scire vel non scire: et omnia 
-      <lb ed="#V" n="116"/>hec probantur: quia quodlibet necessario deus scit.
-    </p>
-            <p xml:id="grvnZZ-ed1e88-d1e731">
-      ⁋ 2a conclusio est: quod loquer 
-      <lb ed="#V" n="117"/>do de scientia enunciabilium 2o modo: quo et modo magis proprie et scendu 
-      <lb ed="#V" n="118"/>communem vsum disputantium sumitur aliquod seu aliquid enunciabile 
-      <lb ed="#V" n="119"/>quod deus non scit potest scire: et aliquod quod scit potest non scire. 
-      Pro<lb ed="#V" n="120" break="no"/>batur. quia aliquod enunciabile falsum potest esse verum et aliquod verum 
-      <lb ed="#V" n="121"/>potest esse falsum.
-    </p>
-            <p xml:id="grvnZZ-ed1e88-d1e744">
-      ⁋ 3a conclusio quod possibile est deum aliquod enunciabile 
-      <lb ed="#V" n="122"/>scire quod non sciuit. Et similiter possibile est deum aliquid non 
-      <lb ed="#V" n="123"/>scire quod sciuit: etiam in sensu composito sumpta vtraque parte 
-      <lb ed="#V" n="124"/>conclusionis. Probatur: quia hec est possibilis. aliquod enunciabile est 
-      <lb ed="#V" n="125"/>verum quod non fuit verum: et similiter hec est possibilis. aliquod non est 
-      <lb ed="#V" n="126"/>verum quod fuit verum. Et ex hoc etiam patet quod aliquod 
-      enunciabi<lb ed="#V" n="127" break="no"/>le deus potest incipere scire: et aliquod potest incipere non scire: 
-      <lb ed="#V" n="128"/>vel desinere scire. Nam aliquod enunciabile potest incipere 
-      <lb ed="#V" n="129"/>esse verum: et aliquod potest incipere esse falsum. enunciabile enim 
-      <lb ed="#V" n="130"/>huius enunciationis. verbum caro factum est. ante christi incarna¬ 
-      <!--269.xml-->
-      <pb ed="#V" n="140-v"/>
-               <cb ed="#V" n="a"/>
-               <lb ed="#V" n="1"/>tionem falsum erat: sicut et ipsa enunciatio si fuisset 
-      forma<lb ed="#V" n="2" break="no"/>ta: tunc fuisset falsa: et incepit esse verum quando primo dei filius 
-      <lb ed="#V" n="3"/>fuit homo. similiter christum non surrexisse: fuit enunciabile verum in omi 
-      <lb ed="#V" n="4"/>tempore praecedente christi resurrectionem: et in instanti resurrectio 
-      <lb ed="#V" n="5"/>nis desuit esse verum: et incepit esse falsum. Non est tamen 
-      conceden<lb ed="#V" n="6" break="no"/>dum quod deus potest incipere scire aliquod enunciabile. Nam 
-      quomocum<lb ed="#V" n="7" break="no"/>que exponitur ly incipit. hec est impossibilis. deus incipit sci 
-      <lb ed="#V" n="8"/>re aliquod enunciabile: siue enim exponatur ly incipit. per 
-      nega<lb ed="#V" n="9" break="no"/>tiuam de praeterito: siue per negatiuam de futuro: negatiua per 
-      <lb ed="#V" n="10"/>quam exponitur est impossibilis: sed si sumatur in praedicato signum 
-      <lb ed="#V" n="11"/>demonstratiuum. verbi gratia. Deus incipit scire hoc enucia: 
-      <lb ed="#V" n="12"/>bile: demonstrando aliquod in singulari quod incipit esse verum: 
-      <lb ed="#V" n="13"/>tunc propositio est possibilis: et sic eo demonstrato hec est vera. 
-      <lb ed="#V" n="14"/>deus potest incipere scire hoc.
-    </p>
-            <p xml:id="grvnZZ-ed1e88-d1e803">
-      ⁋ 4a conclusio est: quod non plura quam deus 
-      <lb ed="#V" n="15"/>scit vel sciuit deus potest scire: nec etiam pauciora. Probatur. non 
-      <lb ed="#V" n="16"/>plura quam sunt vel fuerunt vera. possunt esse vera: nec etiam 
-      <lb ed="#V" n="17"/>pauciora. ergo etc. Assumptum probatur. quia semper alterum 
-      enunciabi<lb ed="#V" n="18" break="no"/>lium contradictoriorum est verum: et alterum non: et si vnum incipit esse ve 
-      <lb ed="#V" n="19"/>rum: reliquum desinit esse verum: et ideo nullo tempore sunt vel 
-      <lb ed="#V" n="20"/>ossunt esse plura vera: quam alio: et per consequens nec pauciora vno quam 
-      <lb ed="#V" n="21"/>alio tempore possunt esse a deo scita. De praescientia vero 
-      enunciabi<lb ed="#V" n="22" break="no"/>lium loquendo cum non sit aliud scire sic sumptum quam scire 
-      enun<lb ed="#V" n="23" break="no"/>ciabilia de futuro: et hec sit necessaria. deus scit omne verum 
-      <lb ed="#V" n="24"/>Idem est iudicium de praescire et non praescire enunciabilium: et de 
-      ve<lb ed="#V" n="25" break="no"/>ritate et falsitate ipsorum. de quibus suo modo sentiendum est sicut 
-      <lb ed="#V" n="26"/>de enunciationibus eorum. de eis autem vt estimo sufficienter est 
-      <lb ed="#V" n="27"/>dictum distinctione praecedenti. quaestione prima. ar. 2o
-    </p>
-            <p xml:id="grvnZZ-ed1e88-d1e835">
-      ⁋ Ad rationes 
-      <lb ed="#V" n="28"/>questionis quid sit dicendum patet ex dictis. 
-    </p>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#Rimini">Gregory of Rimini</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2020-10-03">October 03, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="V" n="cod-ae1bsb">Venice 1503</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-10-03" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#V" n="139-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="grvnZZ-ed1e88"><!-- l1d39q1 -->
+        <head xml:id="grvnZZ-ed1e88-Hd1e106">Quaestio 1</head>
+        <head xml:id="grvnZZ-ed1e88-Hd1e109" type="question-title">Utrum scientia vel praescientia Dei possit augeri vel minui</head>
+        <p xml:id="grvnZZ-ed1e88-d1e112">
+          <lb ed="#V" n="5"/>⁋ Distinctionis. XXXIX. Questio. I 
+          <lb ed="#V" n="6"/>Circa distinctionem trigesimam nonam. 
+          <lb ed="#V" n="7"/>Quero pariter cum ma. Utrum scientia 
+          <lb ed="#V" n="8"/>vel praescientia dei possit augeri vel minui:
+        </p>
+        <p xml:id="grvnZZ-ed1e88-d1e123">
+          Et ar<lb ed="#V" n="9" break="no"/>guo 
+          primo quod possit augeri: quia aliquod deus potest 
+          <lb ed="#V" n="10"/>scire: et praescire: quod nec scit nec praesciuit: et cum 
+          <lb ed="#V" n="11"/>hoc scire omne quod nunc scit. ergo dei scientia potest 
+          <lb ed="#V" n="12"/>augeri. consequentia patet. quia scientia quanto est plurium 
+          <lb ed="#V" n="13"/>scitorum: tanto est maiori. Antecedens probatur dupliciter. Primo: quia 
+          <lb ed="#V" n="14"/>sicut dicit ma. in littera. scientia dei non est nisi de his que sunt 
+          <lb ed="#V" n="15"/>vel fuerunt vel erunt: et praescientia non nisi de futuris. deus autem 
+          <lb ed="#V" n="16"/>potest multas res facere quas nunquam faciet: et per consequens 
+          mul<lb ed="#V" n="17" break="no"/>te possunt esse future que non sunt future. Si ille autem essent 
+          <lb ed="#V" n="18"/>future: essent vtique a deo scite et praescite: que tamen nunc non sunt 
+          <lb ed="#V" n="19"/>scite nec praescite. 2o quia aliquis non est cras lecturus qui potest 
+          <lb ed="#V" n="20"/>esse lecturus. ergo deus aliquem non scit nec praescit esse lecturum: 
+          <lb ed="#V" n="21"/>quem tamen esse lecturum cras deus potest prescire.
+        </p>
+        <p xml:id="grvnZZ-ed1e88-d1e154">
+          ⁋ 2o arguitur quod 
+          <lb ed="#V" n="22"/>dei scientia potest minui. quia aliquid deus scit quod potest non scire: et ali 
+          <lb ed="#V" n="23"/>quid praesciuit quod potest non praescire. ergo etc. Probatur assumptum. Nam 
+          <lb ed="#V" n="24"/>deus scit me legere nunc seu in isto tempore praesenti 
+          demonstra<lb ed="#V" n="25" break="no"/>to quod vocetur a. et hoc deus potest non scire. Nam die crastina deus 
+          <lb ed="#V" n="26"/>non sciet me legere in a. quamuis sciet me legisse in a. Similiter 
+          <lb ed="#V" n="27"/>aliqua res futura potest fieri praesens: et tunc non erit praescita: que 
+          <lb ed="#V" n="28"/>tamen modo est prescita.
+        </p>
+        <p xml:id="grvnZZ-ed1e88-d1e173">
+          <lb ed="#V" n="29"/>In oppositum arguitur. quia scientia dei est omnino 
+          intrans<lb ed="#V" n="30" break="no"/>mutabilis: cum ipsa sit deus. ergo est in 
+          <lb ed="#V" n="31"/>augmentabilis: et immutabilis.
+        </p>
+        <p xml:id="grvnZZ-ed1e88-d1e182">
+          <lb ed="#V" n="32"/>Distinguo primo duplicem sensum questionis: quorum. 
+          <lb ed="#V" n="33"/>pri mus et quem de virtute sermonis facit 
+          <lb ed="#V" n="34"/>est. Utrum illa res pro qua supponit hic terminus scientia vel 
+          <lb ed="#V" n="35"/>praescientia dei possit augeri vel minui: et in hoc sensu que: 
+          <lb ed="#V" n="36"/>stio determinata est apud omnem catholicum ad partem 
+          nega<lb ed="#V" n="37" break="no"/>tiuam. cum dei scientia non sit aliud quam dei esentia et substantia: 
+          <lb ed="#V" n="38"/>que omnino immutabilis est. Alius sensus est quem 
+          disputato<lb ed="#V" n="39" break="no"/>res per hanc questionem intendunt: et est: vtrum deus possit 
+          <lb ed="#V" n="40"/>aliquid perfectius vel imperfectius scire vel praescire: quam scit: aut 
+          <lb ed="#V" n="41"/>plura vel pauciora: his enim modis consuetum est dici: quod in 
+          <lb ed="#V" n="42"/>nobis augetur vel minuitur scientia. Et in hoc sensu etiam quantum 
+          <lb ed="#V" n="43"/>ad primam partem huius disiunctiue: questio non habet dubium: 
+          <lb ed="#V" n="44"/>quaniam certum est quod nullam rem vel aliquid cognitum a deo deus 
+          <lb ed="#V" n="45"/>vno tempore perfectius cognoscit quam alio: nec etiam imperfectius. 
+          <lb ed="#V" n="46"/>non enim proficit nec deficit in cognitione.
+        </p>
+        <p xml:id="grvnZZ-ed1e88-d1e217">
+          ⁋ Et ad hoc 
+          suffi<lb ed="#V" n="47" break="no"/>ciat auctoritas Augu. cum eius probatione. 15. de tri. vbi ait. quod 
+          <lb ed="#V" n="48"/>vniuersas creaturas suas et spirituales et corporales: non quia 
+          <lb ed="#V" n="49"/>sunt ideo nouit: sed ideo sunt: quia nouit: et sequitur. nec aliter 
+          <lb ed="#V" n="50"/>sciuit ea creata quam creanda: non enim eius sapientie aliquid  
+          <lb ed="#V" n="51"/>accessit ex eis: sed illis existentibus sicut oportebat et 
+          quam<lb ed="#V" n="52" break="no"/>do oportebat: ita mansit vt erat: ita et scriptum est in libro 
+          ec<lb ed="#V" n="53" break="no"/>clesiastico: antequam crearentur omnia. nota sunt illi: sic et postquam 
+          <lb ed="#V" n="54"/>consummata sunt. sic inquit non aliter: et antequam crearentur: et postquam 
+          <lb ed="#V" n="55"/>creata sunt. sic ei nota sunt: hec ipse.
+        </p>
+        <p xml:id="grvnZZ-ed1e88-d1e239">
+          ⁋ Pro 2a vero parte 
+          disiu<lb ed="#V" n="56" break="no"/>ctiue. vtrum scilicet deus plura vel pauciora possit praescire vel sci 
+          <lb ed="#V" n="57"/>re. praemitto aliquas distinctiones de istis terminis scientia et scire 
+          <lb ed="#V" n="58"/>secundum quod contrahuntur ad standum praecise pro scientia dei. Nam vno modo: possunt 
+          <lb ed="#V" n="59"/>accipi communiter. non quide sumendo hanc communitatem secundum 
+          multitu<lb ed="#V" n="60" break="no"/>dinem persone inferiorum seu singularium: quasi multe sint scientie 
+          <lb ed="#V" n="61"/>dei. Nam dei scientia vnica tantum et simplex est. sed secundum 
+          multi<lb ed="#V" n="62" break="no"/>tudinem cognitorum vel scitorum: respectu quorum dicitur scientia: 
+          <lb ed="#V" n="63"/>et sic generaliter sumendo respectu cuiuslibet a deo noti vel 
+          <lb ed="#V" n="64"/>cogniti consueuit vocari scientia simplicis notitie seu 
+          sim<lb ed="#V" n="65" break="no"/>pliciter notitia vel cognitio. Alio modo potest sumi specialiter: et hoc 
+          <!--267.xml-->
+          <cb ed="#V" n="b"/> 
+          <!-- 139-v b -->
+          <lb ed="#V" n="66"/>dupliciter. secundum quod cognitorum quedam sunt res vel entitates 
+          <lb ed="#V" n="67"/>actuales vel potentiales: quedam sunt enunciabilia: et praecise per 
+          <lb ed="#V" n="68"/>propositiones vel enunciationes vel terminos eis equivalentes 
+          <lb ed="#V" n="69"/>significabilia: sicut me legere: seu quod ego lego quod ego legi: 
+          <lb ed="#V" n="70"/>vel sum lecturus: et similia que per enunciationes significamus. 
+          <lb ed="#V" n="71"/>Et secundum hunc modum aliqui antiqui distinxerunt scientiam dei in 
+          <lb ed="#V" n="72"/>scientiam enunciabilium et scientiam rerum. Proprie autem et stricte secundum vsum 
+          <lb ed="#V" n="73"/>disputantium: scientia enunciabilium dicitur iudicium euidens et 
+          <lb ed="#V" n="74"/>certum ipsorum enunciabilium: et sic accipiendo scientia rerum 
+          signifi<lb ed="#V" n="75" break="no"/>ficat scientiam dei secundum quod est simplex apprehemodo entitatum. Scientia 
+          <lb ed="#V" n="76"/>vero enunciabilium significat eandem secundum quod est euidens 
+          iudi<lb ed="#V" n="77" break="no"/>cium eorum. Rursus primo modo potest accipi tripliciter. Nam vno modo 
+          ge<lb ed="#V" n="78" break="no"/>neraliter respectu cuiuslibet entitatis praeterite praesentis vel 
+          <lb ed="#V" n="79"/>future aut possibilis fore: et sic simpliciter vocatur notitia seu 
+          <lb ed="#V" n="80"/>scientia simplicis notitie. 2o specialiter respectu earum que sunt 
+          <lb ed="#V" n="81"/>vel fuerunt aut future sunt tantumo: et sic consueuit ab aliquibus 
+          vo<lb ed="#V" n="82" break="no"/>cari scientia visionis: et a mteri. in hac distinctione simpliciter vocatur. 
+          <lb ed="#V" n="83"/>scientia. 3o a dhuc specialius scilicet respectu futurorum tantum: et sic 
+          <lb ed="#V" n="84"/>vocatur praescientia. Eodem modo modo potest distingui seu eodem modo distincte 
+          si<lb ed="#V" n="85" break="no"/>gnificari dei scientia secundum quod illa est iudicium enunciabilium. potest 
+          <lb ed="#V" n="86"/>enim sumi secundum quod cuiuslibet enunciabilis affirmatiue vel 
+          negati<lb ed="#V" n="87" break="no"/>ue de inesse vel modaliter cathegoriae vel ypothe aut aliquo alio 
+          <lb ed="#V" n="88"/>modo est euidens iudicium. Alio modo secundum quod est iudicium 
+          determina<lb ed="#V" n="89" break="no"/>te aliquorum. et hoc multipliciter posset distingui. valet secundum vsum 
+          <lb ed="#V" n="90"/>communem dupliciter accipitur. Uno modo respectu enunciabilium de praesenti 
+          <lb ed="#V" n="91"/>vel de praeterito vel de futuro. et sic vocatur scientia vel scientia 
+          visio<lb ed="#V" n="92" break="no"/>nis. 2o specialius scilicet respectu talium enunciabilium de futuro tantum: 
+          <lb ed="#V" n="93"/>et tunc dicitur praescientia. Preter autem hec nomina sunt quadam alia vsita 
+          <lb ed="#V" n="94"/>ta in scripturis ad significandum scientiam dei: que tamen dicta de 
+          <lb ed="#V" n="95"/>deo respectu aliquorum non tantum significant deu illa nosse: sed  
+          <lb ed="#V" n="96"/>etiam diligere: vel aliquid circa illa operari vel facturum esse: sicut 
+          <lb ed="#V" n="97"/>dispositio: prouidentia: praedestinatio: et reprobatio: et approbatio: 
+          <lb ed="#V" n="98"/>et forte aliqua alia de quibus aliis locis videndum est 
+        </p>
+        <p xml:id="grvnZZ-ed1e88-d1e341">
+          <lb ed="#V" n="99"/>His premissis primo videndum est. vtrum deus potest
+          <lb ed="#V" n="100"/>plura vel pauciora scire: vel praesci 
+          <lb ed="#V" n="101"/>re quam scit vel prescit loquendo de scientia rerum. Secundo idem 
+          vi<lb ed="#V" n="102" break="no"/>dendum est loquendo de scientia enunciabilium.
+        </p>
+        <p xml:id="grvnZZ-ed1e88-d1e352">
+          <lb ed="#V" n="103"/>Quantum ad primum pono principaliter sex conclusiones. 
+          <lb ed="#V" n="104"/>Prima est: quod omnem rem actualem aut 
+          po<lb ed="#V" n="105" break="no"/>tentialem praeteritam vel praesentem vel futuram deus actu cognoscit et 
+          <lb ed="#V" n="106"/>scit. loquendo de scientia simpliciter seu scientia simplicis notitia 
+          Pro<lb ed="#V" n="107" break="no"/>batur <ref xml:id="grvnZZ-ed1e88-Rd1e365">auctoritas apostoli ad Ro. 4o</ref> vbi ait. quod deus <quote xml:id="grvnZZ-ed1e88-Qd1e368" source="http://scta.info/resource/rom4_17" synch="18-25">vocat ea quae 
+            <lb ed="#V" n="108"/>non sunt: tanquam ea quae sunt</quote>. Et <ref xml:id="grvnZZ-ed1e88-Rd1e373">ad hebre. 4o</ref> 
+          <quote xml:id="grvnZZ-ed1e88-Qd1e376" source="http://scta.info/resource/hebr4_13">omnia inquit nuda et  
+            <lb ed="#V" n="109"/>aperta sunt oculis eius</quote>. Et sapientie o de sapientia increata 
+          <lb ed="#V" n="110"/>scribitur quod ipsa scit omnia et intelligit.
+        </p>
+        <p xml:id="grvnZZ-ed1e88-d1e385">
+          ⁋ Ad hoc etiam sunt proba 
+          <lb ed="#V" n="111"/>tiones facte pro prima conclusione primi articuli: praecedenti quaestionis.
+        </p>
+        <p xml:id="grvnZZ-ed1e88-d1e390">
+          ⁋ 2a 
+          <lb ed="#V" n="112"/>onclusio est: quod quamlibet entitatem actualem vel potentialem etc. deus necessario 
+          <lb ed="#V" n="113"/>cognoscit. Et hec probata est in praecedenti quaestione ar. 3o Ex his 
+          <lb ed="#V" n="114"/>autem duabus infero quasdam alias. Una est quod nullam rem quam deus 
+          <lb ed="#V" n="115"/>nescit potest scire. loquendo de scientia modo praemisso: et probatur: quia 
+          <lb ed="#V" n="116"/>nullam deus nescit. Alia est quod nullam quam scit potest non scire: 
+          <lb ed="#V" n="117"/>probatur: quia quamlibet scit necessario. Et pro hac potest argui quod si 
+          ali<lb ed="#V" n="118" break="no"/>quam quam scit potest non scire: maxime hoc de rebus videretur: quae 
+          <lb ed="#V" n="119"/>sunt et possunt non esse: ita quod sicut res desinerent esse sic deus 
+          desi<lb ed="#V" n="120" break="no"/>neret illas scire. Sed hoc est falsum: quia non minus ipse 
+          co<lb ed="#V" n="121" break="no"/>gnouit res praeteritas quam praesentes. Unde <ref xml:id="grvnZZ-ed1e88-Rd1e413">Aug. 15. de trini.</ref> 
+          <quote xml:id="grvnZZ-ed1e88-Qd1e417" source="http://scta.info/resource/adt-l15-d1e1763" synch="6-58">Deus 
+            sa<lb ed="#V" n="122" break="no"/>pientia sua nouit omnia: ita vt nec quae dicuntur praeterita ibi 
+            prete<lb ed="#V" n="123" break="no"/>reant: nec ea quae dicuntur ibi futura quasi desint expectentur vt 
+            <lb ed="#V" n="124"/>veniant: sed et praeterita et futura cum praesentibus sunt cuncta praesentia nec 
+            <lb ed="#V" n="125"/>singula cogitantur: nec ab aliis ad alia cogitando transitur: sed 
+            <lb ed="#V" n="126"/>vno conceptu simul praesto sunt vniuersa</quote>. Et postea loquens de patre 
+          <lb ed="#V" n="127"/>et filio dicit: <quote xml:id="grvnZZ-ed1e88-Qd1e432" source="http://scta.info/resource/adt-l15-d1e1848" synch="274-290">quod vnusquisque eorum omnia quae sunt in eorum scientia simul 
+            vi<lb ed="#V" n="128" break="no"/>det</quote>: ita vt aliqua videre non possit non videns alia: sed simul omnia 
+          <lb ed="#V" n="129"/>cidet: quorum nullum est: quod non semper videt. et allegatur in praesenti distin 
+          <lb ed="#V" n="130"/>vione. Ratione quoque idem patet. quia alias obliuio caderet in deo 
+          <!--268.xml-->
+          <pb ed="#V" n="140-r"/>
+          <cb ed="#V" n="a"/>
+          <lb ed="#V" n="1"/>et mutabilitas: quae repugnant divine perfectioni.
+        </p>
+        <p xml:id="grvnZZ-ed1e88-d1e451">
+          ⁋ 3a conclusio que sequitur 
+          <lb ed="#V" n="2"/>est. quod non plura quam deus scit ipse potest scire: nec etiam 
+          paucio<lb ed="#V" n="3" break="no"/>ra quam scit ipse potest scire. Probatur: quia si plura: sequitur quod aliqua 
+          <lb ed="#V" n="4"/>rem quam nescit potest scire: et si pauciora: sequitur quod aliquam quam 
+          <lb ed="#V" n="5"/>scit potest non scire. 4a que sequitur est: quod nullam potest incipere 
+          <lb ed="#V" n="6"/>scire vel non scire qualitercumque exponatur hic incipit: et patet ex 
+          <lb ed="#V" n="7"/>eisdem.
+        </p>
+        <p xml:id="grvnZZ-ed1e88-d1e467">
+          ⁋ Conclusio 3a principalis est: quod loquendo 2o modo de 
+          <lb ed="#V" n="8"/>scientia rerum scilicet de scientia visionis: aliquam rem quam deus non scit potest 
+          <lb ed="#V" n="9"/>scire: et similiter plures quam scit potest scire. Probatur: quia possibile est 
+          <lb ed="#V" n="10"/>aliquam que non est futura esse futuram: et simul cum hoc omnem que 
+          <lb ed="#V" n="11"/>est futura manere futuram. ergo etc.
+        </p>
+        <p xml:id="grvnZZ-ed1e88-d1e478">
+          ⁋ 4a conclusio est: quod aliquam quam 
+          <lb ed="#V" n="12"/>deus non prescit potest prescire: et similiter plures quam prescit potest 
+          <lb ed="#V" n="13"/>praescire. Et probat ex eodem: quamuis autem he due vltime conclusiones 
+          <lb ed="#V" n="14"/>sint vere et simpliciter concedende: pro eo sensu diuiso: quem tantum 
+          <lb ed="#V" n="15"/>de virtute sermonis efficiunt: iste tamen. deus potest scire aliquam 
+          <lb ed="#V" n="16"/>rem quam nescit: deus potest plura scire quam scit: sunt de virtu 
+          <lb ed="#V" n="17"/>te sermonis false: et simpliciter negande. Et ratio est: quia sensus 
+          di<lb ed="#V" n="18" break="no"/>uisus et sensus compositus earum: siue ipse secundum vtrumque sensum 
+          <lb ed="#V" n="19"/>mutuo se inferunt: et ideo si essent vere oporteret quod iste essent 
+          <lb ed="#V" n="20"/>possibiles: deus scit aliquam rem quam nescit: deus scit plu 
+          <lb ed="#V" n="21"/>ra quam quod scit: quod tamen est falsum. Similiter iste sunt simpliciter false 
+          <lb ed="#V" n="22"/>de virtute sermonis et negande: deus potest aliquam rem pre 
+          <lb ed="#V" n="23"/>scire quam non presciuit: deus potest plura praescire quam praesciuit: quia 
+          <lb ed="#V" n="24"/>iste sunt impossibiles. deus praescit aliquam rem quam non praesciuit:  
+          <lb ed="#V" n="25"/>deus praescit pli ra quam praesciuit. ergo et ille sunt false. Assumptum pro 
+          <lb ed="#V" n="26"/>batur: quo ad primam partem. quia hec est impossibilis: aliqua res est 
+          <lb ed="#V" n="27"/>futura que non fuit futura. Et sequitur: deus praescit aliquam rem quam 
+          <lb ed="#V" n="28"/>non praesciuit. ergo aliqua res est futura quae non fuit futura. Quo 
+          <lb ed="#V" n="29"/>ad 2am partem probatur. quia hec est impossibilis: plura sunt 
+          futu<lb ed="#V" n="30" break="no"/>ra quam fuerunt futura. Et sequitur. deus praescit plura quam praesciuit. ergo 
+          <lb ed="#V" n="31"/>plura sunt futura quam fuerunt futura. quia tamen non omnes aduertut 
+          <lb ed="#V" n="32"/>differentiam inter locutiones in quibus solus iste terminus deus praece 
+          <lb ed="#V" n="33"/>dit illud verbum potest: et totum residuum sequitur: et in quibus 
+          praece<lb ed="#V" n="34" break="no"/>dit verbum hoc totum: aliquam rem quam deus non praescit: vel hoc to 
+          <lb ed="#V" n="35"/>tum plura quam deus praescit. Et rursum istas vltimas aliqui 
+          pos<lb ed="#V" n="36" break="no"/>sent accipere in sensu composito: ideo et has et illas aliqui eli 
+          <lb ed="#V" n="37"/>gunt: et satis vtiliter propter minus exercitatos in logica. Ad 
+          <lb ed="#V" n="38"/>veritatis maiorem declarationem distinguere in sensu diuise 
+          <lb ed="#V" n="39"/>concedunt: in sensu composito negant: et sic facit magister in possunti 
+          <lb ed="#V" n="40"/>distinctione.
+        </p>
+        <p xml:id="grvnZZ-ed1e88-d1e543">
+          ⁋ 5a conclusio est: quod nullam rem potest deus incipere scire vel 
+          <lb ed="#V" n="41"/>praescire. Probat: quia si aliquam posset incipere scire vel praescire 
+          <lb ed="#V" n="42"/>signetur illa. Tunc arguo hanc rem ea demonstrata deus potest 
+          in<lb ed="#V" n="43" break="no"/>cipere scire vel praescire. ergo hec res potest incipere esse futura. consequentia 
+          <lb ed="#V" n="44"/>est necessaria: et consequens falsum: vt ex superioribus patet. ergo et antecedens.
+        </p>
+        <p xml:id="grvnZZ-ed1e88-d1e555">
+          ⁋ 6 
+          <lb ed="#V" n="45"/>onclusio est: quod aliquam rem quam deus praescit et praesciuit potest non praescire: et 
+          <lb ed="#V" n="46"/>pauciora quam deus prescit et praesciuit potest prescire: in quocum quoe 
+          <lb ed="#V" n="47"/>sensu accipiatur: et similiter quod deus potest aliquam rem non praescire quam 
+          <lb ed="#V" n="48"/>presciuit et pauciora praescire quam praesciuit. Et omnia hec probantur: 
+          <lb ed="#V" n="49"/>qui hec est possibilis: aliqua res quae fuit futura non est futura 
+          <lb ed="#V" n="50"/>immo de facto habet multas singulares veras: quinimmo tot quot 
+          <lb ed="#V" n="51"/>sunt creature actu existentes quae non sunt vnquam future: distinguen 
+          <lb ed="#V" n="52"/>do futurum contra praesens. Item hec est possibilis: et etia vera. pauciora sunt 
+          fu<lb ed="#V" n="53" break="no"/>tura quam fuerint futura: et quelibet pars conclusionis praemisse 
+          <lb ed="#V" n="54"/>sequitur ex altera istarum: vt satis patet ex dictis. 
+          <lb ed="#V" n="55"/>Quantum ad 2m articuum scilicet de scientia enunciabilium 
+          <lb ed="#V" n="56"/>demitto vnam distinctionem de 
+          enunciation<lb ed="#V" n="57" break="no"/>bus. Nam sicut enunciationum quaedam sunt vere et quadam false. Et ve 
+          <lb ed="#V" n="58"/>rarum quedam necessarie et quaedam contingentes. Falsarum autem quaedam 
+          pos<lb ed="#V" n="59" break="no"/>sibiles quadam impossibiles: sic enunciabilium quada possunt dici vera 
+          <lb ed="#V" n="60"/>(vtpote ea quirum enunciationes si formentur sunt vere) quadam falsa 
+          <lb ed="#V" n="61"/>vt enunciabiua enunciationum falsarum et verarum: quadam necessaria: et 
+          quae<lb ed="#V" n="62" break="no"/>dam contingentia: et falsorum quadam possibilia: quaedam impossibilia cor 
+          <lb ed="#V" n="63"/>respondenter ad suas enunciationes a quibus extrinsece huiusmodi enun 
+          <lb ed="#V" n="64"/>ciabilia denominari possunt.
+        </p>
+        <p xml:id="grvnZZ-ed1e88-d1e601">
+          ⁋ hoc praemisso pono aliquas conclusiones 
+          <lb ed="#V" n="65"/>Quarum prima est. quod omne enuciabile est necessario scitum a deo: lo¬ 
+          <!--268.xml-->
+          <cb ed="#V" n="b"/> 
+          <!-- 140-r b -->
+          <lb ed="#V" n="66"/>quendo de scientia non quidem vt est iudicium: sed vt simpliciter est 
+          ap<lb ed="#V" n="67" break="no"/>prehensio. Non autem omne enunciabile est scitum a deo secundum quod scientia 
+          <lb ed="#V" n="68"/>est iudicium. Prima pars probatur primo sic. necesse est quorumlibet 
+          contradi<lb ed="#V" n="69" break="no"/>ctoriorum enunciabilium alterum esse a deo scitum iudiciarie siue 
+          <lb ed="#V" n="70"/>iudicatum. ergo omne enunciabile necesse est a deo cognitum esse vel 
+          <lb ed="#V" n="71"/>apphensum. Antecedens probatur. quia necesse est quodlibet verum esse a deo iu 
+          <lb ed="#V" n="72"/>diciarie scitum: et necesse est quorumlibet enunciabilium condictoriorum 
+          <lb ed="#V" n="73"/>alterum esse verum. ergo necesse est quorumlibet contradictoriorum alterum esse a deo 
+          <lb ed="#V" n="74"/>iudiciarie scitu. Ambe premisse sumpte in sensu composito 
+          <lb ed="#V" n="75"/>vere sunt: et sic inferunt veram conclusionem etiam in sensu composito. Quod 
+          <lb ed="#V" n="76"/>autem maior sit vera patet. quia hec est impossibilis: aliquod verum non 
+          <lb ed="#V" n="77"/>est a deo scitum. Minor vero patet: quia quarumlibet enunciationum contradi 
+          <lb ed="#V" n="78"/>ctoriorum si formentur necesse est alteram esse veram. Consequentia 
+          <lb ed="#V" n="79"/>vero prima probatur: quia quodlibet enunciabile est pars duorum 
+          enun<lb ed="#V" n="80" break="no"/>ciabilium contradictoriorum improprie loquendo et secundum quamdam similitu 
+          <lb ed="#V" n="81"/>dinem de parte: quia nec aliter possumus in proposito loqui. Nam 
+          <lb ed="#V" n="82"/>de quolibet enunciabili contingit vere dicere ipsum esse scitum vel 
+          <lb ed="#V" n="83"/>non esse scitum: creditum vel non creditum: et sic quocumque affirma 
+          <lb ed="#V" n="84"/>ri vel negari. ita quod quodlibet enunciabile est quaodammo pars 
+          to<lb ed="#V" n="85" break="no"/>talium enunciabilium significabilium per contradictorias 
+          enunciatio<lb ed="#V" n="86" break="no"/>nes: et per consequens alicuius enunciabilis veri. ac per hoec alicuius enum 
+          <lb ed="#V" n="87"/>ciabilis a deo iudiciarie sciti: impossibile autem est aliquod 
+          enuncia<lb ed="#V" n="88" break="no"/>bile totale esse scitum: quin illud de quo aliud enunciatur sit 
+          cogni<lb ed="#V" n="89" break="no"/>tum et apprehensum. Et totum hoc potest declarari ex ipsis enunciabi 
+          <lb ed="#V" n="90"/>libus. Nam quaelibet potest esse subiectum cuiusdam contradictionis. verbi gra. ista. 
+          <lb ed="#V" n="91"/>homo est asinus. Nam possunt due tales formari. homo est asinus. est propositio 
+          <lb ed="#V" n="92"/>opinata: homo est asinus: non est propositio opinata. et constat quod altera: 
+          <lb ed="#V" n="93"/>est vera: et per consequens a deo cognita et scita esse vera. ergo et ista: homo est 
+          <lb ed="#V" n="94"/>asinus: quae est subiectum vtriusque est a deo apphensa: quamuis non sit 
+          <lb ed="#V" n="95"/>scita esse vera.
+        </p>
+        <p xml:id="grvnZZ-ed1e88-d1e677">
+          ⁋ 2o ad idem sic. omne enunciabile necessario scitur a 
+          <lb ed="#V" n="96"/>deo posse per aliquam enunciationem veram vel falsam 
+          enuncia<lb ed="#V" n="97" break="no"/>ri. ergo omne enunciabile necessario est a deo apphensum. Uel sic. 
+          <lb ed="#V" n="98"/>omne enunciabile necessario scitur a deo esse verum vel falsum. 
+          <lb ed="#V" n="99"/>ergo etc. 2a vero pars conclusionis scilicet quod non omne enunciabile est 
+          iudicia<lb ed="#V" n="100" break="no"/>rie scitum a deo. patet. quia non omne est verum et solum verum 
+          enunciabi<lb ed="#V" n="101" break="no"/>le isto modo scitu. Probatur etiam tota conclusio ista per auctoritatem <ref xml:id="grvnZZ-ed1e88-Rd1e692">Aug. 15. de 
+            <lb ed="#V" n="102"/>tri.</ref> dicentis. quod <quote xml:id="grvnZZ-ed1e88-Qd1e697" source="http://scta.info/resource/adt-l15-d1e1788" synch="100-120">nemo falsa nouit: nisi cum falsa esse nouit. quod si erg 
+              <lb ed="#V" n="103"/>nouit verum nouit: verum enim est quod ipsa falsa sunt</quote>. vbi Aug. 
+          <lb ed="#V" n="104"/>loquitur de notitia iudiciaria et enunciatiua: qua quis nouit et 
+          <lb ed="#V" n="105"/>iudicat euidenter esse sicut est et non esse sicut non est. hoc vtique 
+          <lb ed="#V" n="106"/>modo non cognoscuntur nisi vera. non enim quisquam cognoscit: quod 
+          <lb ed="#V" n="107"/>homo est asinus. et propterea dicit. nemo falsa nouit. Ex quo patet 
+          <lb ed="#V" n="108"/>2a pars conclusionis. Quod autem addit nisi cum falsa esse nouit. Probat 
+          <lb ed="#V" n="109"/>primam partem. quia cum quis nouit falsa esse falsa. vtique 
+          apprehen<lb ed="#V" n="110" break="no"/>dit illa falsa. alias nesciret illa esse falsa: nec dubium quod deus 
+          <lb ed="#V" n="111"/>nouit falsa esse falsa. alias non cognosceret omne verum: cum ve 
+          <lb ed="#V" n="112"/>rum sit: falsa esse falsa: vt dicit Aug. Ex hac conclusione sequitur: 
+          lo<lb ed="#V" n="113" break="no"/>quendo sic de scientia communiter quod nullum enunciabile quod deus nescit 
+          <lb ed="#V" n="114"/>deus potest scire: nec plura nec pauciora quam scit scire: nec aliquod 
+          <lb ed="#V" n="115"/>quod scit non scire: nec aliquid incipere scire vel non scire: et omnia 
+          <lb ed="#V" n="116"/>hec probantur: quia quodlibet necessario deus scit.
+        </p>
+        <p xml:id="grvnZZ-ed1e88-d1e731">
+          ⁋ 2a conclusio est: quod loquer 
+          <lb ed="#V" n="117"/>do de scientia enunciabilium 2o modo: quo et modo magis proprie et scendu 
+          <lb ed="#V" n="118"/>communem vsum disputantium sumitur aliquod seu aliquid enunciabile 
+          <lb ed="#V" n="119"/>quod deus non scit potest scire: et aliquod quod scit potest non scire. 
+          Pro<lb ed="#V" n="120" break="no"/>batur. quia aliquod enunciabile falsum potest esse verum et aliquod verum 
+          <lb ed="#V" n="121"/>potest esse falsum.
+        </p>
+        <p xml:id="grvnZZ-ed1e88-d1e744">
+          ⁋ 3a conclusio quod possibile est deum aliquod enunciabile 
+          <lb ed="#V" n="122"/>scire quod non sciuit. Et similiter possibile est deum aliquid non 
+          <lb ed="#V" n="123"/>scire quod sciuit: etiam in sensu composito sumpta vtraque parte 
+          <lb ed="#V" n="124"/>conclusionis. Probatur: quia hec est possibilis. aliquod enunciabile est 
+          <lb ed="#V" n="125"/>verum quod non fuit verum: et similiter hec est possibilis. aliquod non est 
+          <lb ed="#V" n="126"/>verum quod fuit verum. Et ex hoc etiam patet quod aliquod 
+          enunciabi<lb ed="#V" n="127" break="no"/>le deus potest incipere scire: et aliquod potest incipere non scire: 
+          <lb ed="#V" n="128"/>vel desinere scire. Nam aliquod enunciabile potest incipere 
+          <lb ed="#V" n="129"/>esse verum: et aliquod potest incipere esse falsum. enunciabile enim 
+          <lb ed="#V" n="130"/>huius enunciationis. verbum caro factum est. ante christi incarna¬ 
+          <!--269.xml-->
+          <pb ed="#V" n="140-v"/>
+          <cb ed="#V" n="a"/>
+          <lb ed="#V" n="1"/>tionem falsum erat: sicut et ipsa enunciatio si fuisset 
+          forma<lb ed="#V" n="2" break="no"/>ta: tunc fuisset falsa: et incepit esse verum quando primo dei filius 
+          <lb ed="#V" n="3"/>fuit homo. similiter christum non surrexisse: fuit enunciabile verum in omi 
+          <lb ed="#V" n="4"/>tempore praecedente christi resurrectionem: et in instanti resurrectio 
+          <lb ed="#V" n="5"/>nis desuit esse verum: et incepit esse falsum. Non est tamen 
+          conceden<lb ed="#V" n="6" break="no"/>dum quod deus potest incipere scire aliquod enunciabile. Nam 
+          quomocum<lb ed="#V" n="7" break="no"/>que exponitur ly incipit. hec est impossibilis. deus incipit sci 
+          <lb ed="#V" n="8"/>re aliquod enunciabile: siue enim exponatur ly incipit. per 
+          nega<lb ed="#V" n="9" break="no"/>tiuam de praeterito: siue per negatiuam de futuro: negatiua per 
+          <lb ed="#V" n="10"/>quam exponitur est impossibilis: sed si sumatur in praedicato signum 
+          <lb ed="#V" n="11"/>demonstratiuum. verbi gratia. Deus incipit scire hoc enucia: 
+          <lb ed="#V" n="12"/>bile: demonstrando aliquod in singulari quod incipit esse verum: 
+          <lb ed="#V" n="13"/>tunc propositio est possibilis: et sic eo demonstrato hec est vera. 
+          <lb ed="#V" n="14"/>deus potest incipere scire hoc.
+        </p>
+        <p xml:id="grvnZZ-ed1e88-d1e803">
+          ⁋ 4a conclusio est: quod non plura quam deus 
+          <lb ed="#V" n="15"/>scit vel sciuit deus potest scire: nec etiam pauciora. Probatur. non 
+          <lb ed="#V" n="16"/>plura quam sunt vel fuerunt vera. possunt esse vera: nec etiam 
+          <lb ed="#V" n="17"/>pauciora. ergo etc. Assumptum probatur. quia semper alterum 
+          enunciabi<lb ed="#V" n="18" break="no"/>lium contradictoriorum est verum: et alterum non: et si vnum incipit esse ve 
+          <lb ed="#V" n="19"/>rum: reliquum desinit esse verum: et ideo nullo tempore sunt vel 
+          <lb ed="#V" n="20"/>ossunt esse plura vera: quam alio: et per consequens nec pauciora vno quam 
+          <lb ed="#V" n="21"/>alio tempore possunt esse a deo scita. De praescientia vero 
+          enunciabi<lb ed="#V" n="22" break="no"/>lium loquendo cum non sit aliud scire sic sumptum quam scire 
+          enun<lb ed="#V" n="23" break="no"/>ciabilia de futuro: et hec sit necessaria. deus scit omne verum 
+          <lb ed="#V" n="24"/>Idem est iudicium de praescire et non praescire enunciabilium: et de 
+          ve<lb ed="#V" n="25" break="no"/>ritate et falsitate ipsorum. de quibus suo modo sentiendum est sicut 
+          <lb ed="#V" n="26"/>de enunciationibus eorum. de eis autem vt estimo sufficienter est 
+          <lb ed="#V" n="27"/>dictum distinctione praecedenti. quaestione prima. ar. 2o
+        </p>
+        <p xml:id="grvnZZ-ed1e88-d1e835">
+          ⁋ Ad rationes 
+          <lb ed="#V" n="28"/>questionis quid sit dicendum patet ex dictis. 
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

@@ -1,1135 +1,1135 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 4</title>
-            <author ref="#Rimini">Gregory of Rimini</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-            
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 4</title>
-               <date when="2020-10-03">October 03, 2020</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="V" n="cod-ae1bsb">Venice 1503</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2020-10-03" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#V" n="16-v"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="grvnZZ-d1e154"><!-- l1prolq4 -->
-            <head xml:id="grvnZZ-d1e154-Hd1e106">Quaestio 4</head>
-            <head xml:id="grvnZZ-d1e154-Hd1e109" type="question-title">Utrum deus, inquantum deus, sit subiectum in theologia nostra</head>
-            <p xml:id="grvnZZ-d1e154-d1e112">
-      Quaestio IIII 
-      <lb ed="#V" n="41"/>QUarto quero ea penultimo circa 
-      prolo<lb ed="#V" n="42" break="no"/>gum. vtrum deus inquantum de 
-      <lb ed="#V" n="43"/>sit subiectum in theologia nostra. Arguitur quod non: quia deus non est 
-      <lb ed="#V" n="44"/>subiectum in theologia. ergo nec inquantum deus est subiectum in ea: consequentia patet: 
-      <lb ed="#V" n="45"/>quani antecedens probatur: tum quia deus est omnino simplex. Nullum 
-      <lb ed="#V" n="46"/>autem simplex potest esse subiectum scientie. Quod probat primo: quia oporte 
-      <lb ed="#V" n="47"/>subiectum sciente esse aliquo modo notum et aliquo modo ignotum: Nam 
-      <lb ed="#V" n="48"/>confusa cognitio subiecti presupponit in scientia et inquiritur 
-      <lb ed="#V" n="49"/>distincta. Simplex autem aut nullo modo est notum aut notum 
-      to<lb ed="#V" n="50" break="no"/>taliter: vt patet ex modo metaph.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e136">
-      ⁋ Item 7o meta. dicitur: quod in sin 
-      <lb ed="#V" n="51"/>plicibus non est quastio neque doctrina. vbi autem non est quaestio 
-      <lb ed="#V" n="52"/>non est scientia: cum omnis conclusio sientie sit questio: igitur. Tum quia deus est 
-      <lb ed="#V" n="53"/>res singularis et nullum singulare est subiectum scientie: cum non 
-      <lb ed="#V" n="54"/>habeat partes subiectiuas quarum passiones et proprietates in 
-      <lb ed="#V" n="55"/>scientia inquiruntur: est de singularibus non est scientia: vt patet 7o metha. 
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e149">
-               <lb ed="#V" n="56"/>⁋ Ad ooitum idem et sub eadem ratione est obiectum theologico 
-      <lb ed="#V" n="57"/>nostre et theologie beatorum: ergo deus inquantum deus est 
-              obie<lb ed="#V" n="58" break="no"/>ctum theologie nostre. Consequentia patet: quoniam deus inquantum 
-      <lb ed="#V" n="59"/>deus est subiectum scientie beatorum iuxta illud prime Ioham. 
-      vi<lb ed="#V" n="60" break="no"/>debimus eum sicuti est. Antecedens probatur: Nam idem est subiectum 
-      <lb ed="#V" n="61"/>theologie nostre et fidei nostre. sicut colligitur ex verbis <ref xml:id="grvnZZ-d1e154-Rd1e164">Aug. 
-        <lb ed="#V" n="62"/>3. de tri.</ref> dicens <quote xml:id="grvnZZ-d1e154-Qd1e169" source="http://scta.info/resource/adt-l8-d1e968@41-58">propter ista. 3. fidem spem caritatem in animo 
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 4</title>
+        <author ref="#Rimini">Gregory of Rimini</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 4</title>
+          <date when="2020-10-03">October 03, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="V" n="cod-ae1bsb">Venice 1503</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-10-03" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#V" n="16-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="grvnZZ-d1e154"><!-- l1prolq4 -->
+        <head xml:id="grvnZZ-d1e154-Hd1e106">Quaestio 4</head>
+        <head xml:id="grvnZZ-d1e154-Hd1e109" type="question-title">Utrum deus, inquantum deus, sit subiectum in theologia nostra</head>
+        <p xml:id="grvnZZ-d1e154-d1e112">
+          Quaestio IIII 
+          <lb ed="#V" n="41"/>QUarto quero ea penultimo circa 
+          prolo<lb ed="#V" n="42" break="no"/>gum. vtrum deus inquantum de 
+          <lb ed="#V" n="43"/>sit subiectum in theologia nostra. Arguitur quod non: quia deus non est 
+          <lb ed="#V" n="44"/>subiectum in theologia. ergo nec inquantum deus est subiectum in ea: consequentia patet: 
+          <lb ed="#V" n="45"/>quani antecedens probatur: tum quia deus est omnino simplex. Nullum 
+          <lb ed="#V" n="46"/>autem simplex potest esse subiectum scientie. Quod probat primo: quia oportet 
+          <lb ed="#V" n="47"/>subiectum sciente esse aliquo modo notum et aliquo modo ignotum: Nam 
+          <lb ed="#V" n="48"/>confusa cognitio subiecti presupponit in scientia et inquiritur 
+          <lb ed="#V" n="49"/>distincta. Simplex autem aut nullo modo est notum aut notum 
+          to<lb ed="#V" n="50" break="no"/>taliter: vt patet ex modo metaph.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e136">
+          ⁋ Item 7o meta. dicitur: quod in sin 
+          <lb ed="#V" n="51"/>plicibus non est quastio neque doctrina. vbi autem non est quaestio 
+          <lb ed="#V" n="52"/>non est scientia: cum omnis conclusio sientie sit questio: igitur. Tum quia deus est 
+          <lb ed="#V" n="53"/>res singularis et nullum singulare est subiectum scientie: cum non 
+          <lb ed="#V" n="54"/>habeat partes subiectiuas quarum passiones et proprietates in 
+          <lb ed="#V" n="55"/>scientia inquiruntur: est de singularibus non est scientia: vt patet 7o metha. 
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e149">
+          <lb ed="#V" n="56"/>⁋ Ad ooitum idem et sub eadem ratione est obiectum theologico 
+          <lb ed="#V" n="57"/>nostre et theologie beatorum: ergo deus inquantum deus est 
+          obie<lb ed="#V" n="58" break="no"/>ctum theologie nostre. Consequentia patet: quoniam deus inquantum 
+          <lb ed="#V" n="59"/>deus est subiectum scientie beatorum iuxta illud prime Ioham. 
+          vi<lb ed="#V" n="60" break="no"/>debimus eum sicuti est. Antecedens probatur: Nam idem est subiectum 
+          <lb ed="#V" n="61"/>theologie nostre et fidei nostre. sicut colligitur ex verbis <ref xml:id="grvnZZ-d1e154-Rd1e164">Aug. 
+          <lb ed="#V" n="62"/>3. de tri.</ref> dicens <quote xml:id="grvnZZ-d1e154-Qd1e169" source="http://scta.info/resource/adt-l8-d1e968@41-58">propter ista. 3. fidem spem caritatem in animo 
           edifi<lb ed="#V" n="63" break="no"/>canda omnium diuinorum librorum machinamenta consurgunt</quote>. Et <ref xml:id="grvnZZ-d1e154-Rd1e174">libro 
-            <lb ed="#V" n="64"/>14</ref>. dicit: <quote xml:id="grvnZZ-d1e154-Qd1e179" source="http://scta.info/resource/adt-l14-d1e1535@92-107">quod huic scientie tribuit illud tantummodo quo fides 
-              <lb ed="#V" n="65"/>saluberrima (que ad veram beatitudinem ducit) gignitur 
-              nu<cb ed="#V" n="b"/><lb ed="#V" n="66" break="no"/>tritur etc</quote>. Per hoc inuens quod circa idem subiectum fides et 
-      theolo<lb ed="#V" n="67" break="no"/>gia versantur. Idem vero subiectum est nostre fidei et visionis 
-      <lb ed="#V" n="68"/>beatorum. sicut probant verba apostoli prima ad corum. Uidemus nunc 
-      <lb ed="#V" n="69"/>per speculum in enigmate: tunc aut facie ad faciem. igitur etc. 
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e201">
-               <lb ed="#V" n="70"/>⁋ Inquaestione erunt articuli 2o. Nam primo videbitur quid sit ratio 
-      sub<lb ed="#V" n="71" break="no"/>lecti scientie inquantum huius modi. 2o videbitur de quaesito. 
-      <lb ed="#V" n="72"/>Quantum ad primum dicit dector quidam in prima 
-      le<lb ed="#V" n="73" break="no"/>ctura sua: quod ratio primi subiecti est 
-      contine<lb ed="#V" n="74" break="no"/>re in se primo virtualiter omnes veritates habitus: seu sicut dicit 
-      <lb ed="#V" n="75"/>in lectura parisien. notitiam omnium veritatum habitus.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e217">
-      ⁋ Pro 
-      <lb ed="#V" n="76"/>batur primo sic: subiectum primum continet propositiones immediatas: quia 
-      <lb ed="#V" n="77"/>subiectum illarum continet praedicatum. et ita euidentiam totius 
-              propo<lb ed="#V" n="78" break="no"/>nis. propositiones vero immediate continent conclusiones: igitur subiectum 
-      <lb ed="#V" n="79"/>propositionum immediatarum continet omnes veritates illius habitus. 
-      <lb ed="#V" n="80"/>igitur subiectum scientie continet omnes veritates scientie.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e230">
-      ⁋ 2o primitas 
-      <lb ed="#V" n="81"/>hic accipitur ex id est poste. ex diffinitione vniversalis secundum quod dicit 
-      adequa<lb ed="#V" n="82" break="no"/>tionem. obiectum aut se habet ad habitum: sicut causa ad effectum: non 
-      <lb ed="#V" n="83"/>est autem causa adequata: nisi contineat virtualiter totum effectum. 
-      <lb ed="#V" n="84"/>igitur etc.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e241">
-      ⁋ 3o in reportationibus ad idem sic arguit. In essen 
-      <lb ed="#V" n="85"/>tialiter ordinatis necesse est stare ad aliquod primum simpliciter. sed 
-      co<lb ed="#V" n="86" break="no"/>gnoscibilia alicuius scientie habent essentialem ordinem inter se in 
-      <lb ed="#V" n="87"/>cognoscibilitate: quia conclusiones cognoscuntur ex principiis: et 
-      princi<lb ed="#V" n="88" break="no"/>pia tandem (etiam si sunt immediata) cognoscuntur ex 
-      termi<lb ed="#V" n="89" break="no"/>nis: terminus etiam praedicati principii cognoscitur ex ratione 
-      sub<lb ed="#V" n="90" break="no"/>iecti: quia principia communiter sunt per se 2o modo: igitur subiectum cadit in 
-      <lb ed="#V" n="91"/>diffinitione praedicati 7o metha. In isto igitur ordine tandem statur 
-      <lb ed="#V" n="92"/>ad aliquod subiectum simplex quod est subiectum principii vel 
-      prin<lb ed="#V" n="93" break="no"/>cipiorum ex cuius notitia cognoscuntur omnia pertinentia ad scientiam: 
-      <lb ed="#V" n="94"/>et ipsum non est cognoscere ex aliis: illud igitur recte dicitur 
-      <lb ed="#V" n="95"/>subiectum primum scientie: quia in se continet primo virtualiter notitiam 
-      <lb ed="#V" n="96"/>pertinentium ad scientiam.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e270">
-      ⁋ Exponit aut quod dicit primo virtualiter 
-      <lb ed="#V" n="97"/>continere: quia illud est primum quod non depedet ab alio: sed alia ab 
-      <lb ed="#V" n="98"/>ipso. ita primo continere est non dependere ab aliis in continendo: 
-      <lb ed="#V" n="99"/>sed alia ab ipso: hoc est per impossibile circunscripto omni alio in 
-      <lb ed="#V" n="100"/>re: manente intellectu eius adhuc contineret: nihil autem aliud  
-      <lb ed="#V" n="101"/>continet nisi per rationem eius.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e283">
-      ⁋ hec opinio non apparet mihi contra 
-      <lb ed="#V" n="102"/>vera neque eius motiua. Ad cuius falsitatem ostendendum praemitto: 
-      <lb ed="#V" n="103"/>quod subiectum et passio in proposito possunt dupliciter accipi. vno modo pro 
-      <lb ed="#V" n="104"/>terminis mentalibus: quorum vnus vel formaliter secundum se vel 
-      equi<lb ed="#V" n="105" break="no"/>ualenter est de altero praedicabilis in 2o modo dicendi per se. ita quod 
-      <lb ed="#V" n="106"/>ille qui sic potest de altero praedicari dicatur patio: et ille de quo 
-      <lb ed="#V" n="107"/>praedicatur dicatur subiectum. Dico autem formaliter secundum se: si mentalis 
-      <lb ed="#V" n="108"/>proportio essentialiter componatur ex distinctis partibus: quarum vna dicatur 
-      <lb ed="#V" n="109"/>subiectum: aa vero praedicatum vt multi opinantur. Si vero propositio huiusmodi 
-      <lb ed="#V" n="110"/>non sic componat: sed sit actus eque simplex vt aliquis terminus 
-      <lb ed="#V" n="111"/>mentalis qui non est propositio equiualens: tamen in significando pluribus talibus 
-      <lb ed="#V" n="112"/>terminis et propositioni vocali vel alteri coposite modo predicto: 
-      <lb ed="#V" n="113"/>aut etiam que equiualiet mentali composite: si quae foret talis: tunc in 
-      <lb ed="#V" n="114"/>quam talis patio mentalis non nisi equiualenter dicitur praedicari de 
-      <lb ed="#V" n="115"/>subiecto. Alio modo possunt ista accipi pro rebus ipsis pro quibus 
-      termi<lb ed="#V" n="116" break="no"/>ni supponunt: vel quas significant. Ista satis nota sunt ex 
-      <lb ed="#V" n="117"/>vsu communi scolastico.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e321">
-      ⁋ hoc praemisso pono sex conclusiones Prima 
-      <lb ed="#V" n="118"/>est accipiendo subiectum et passione 2o modo non omne subiectum 
-      <lb ed="#V" n="119"/>scientiae vel principii contitet virtualiter primo suam passionem.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e328">
-      ⁋ 2a quod no 
-      <lb ed="#V" n="120"/>subiecti non sic contim. 8. primo virtualiter noticiam passionis: et si 
-      sub<lb ed="#V" n="121" break="no"/>iectum et paetio primo modo accepta non sunt aliud quam notitit 
-      incomple<lb ed="#V" n="122" break="no"/>xe subiecti et passionis 2o modo acceptorum: vt aliqui volunt tunc 
-      <lb ed="#V" n="123"/>idem est dictu primo: modo accipendo subiectum et passionem: quod 
-      su<lb ed="#V" n="124" break="no"/>biectum non contim passionem.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e341">
-      ⁋ 3a quod notitia incomplexa subiecti et 
-      <lb ed="#V" n="125"/>notitia passionis incomplexa. 2o modo acceptorum subiectum et passio ad  
-      <lb ed="#V" n="126"/>intellectum iam datum non continent virtualiter primo ipsum primum seu 
-      pro<lb ed="#V" n="127" break="no"/>positionem immediatam: que est euidens notitia.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e350">
-      ⁋ 4a quod verum principium non 
-      <lb ed="#V" n="128"/>continet primo virtualiter aliud seu vna praemissa aliam.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e355">
-      ⁋ 5a quod 
-      <lb ed="#V" n="129"/>subiectum scientie non contitet virtualiter primo omnes veritates illius scientie. Ex quo 
-      <lb ed="#V" n="130"/>concluditur quod ratio assignata per doc. istum non est ratio primi 
-      <!--30.xml-->
-      <pb ed="#V" n="17-r"/>
-               <cb ed="#V" n="a"/>
-               <lb ed="#V" n="1"/>subiecti scientie. 6o dicetur que sit ratio primi subiecti scientie 
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e371">
-               <lb ed="#V" n="2"/>⁋ Primam conclusionem probo primo sic. si quodlibet subiectum scientie 
-      <lb ed="#V" n="3"/>continent sic suam passione: quelibet huiusmodi passio esset alia res ali 
-      <lb ed="#V" n="4"/>ipso subiecto actualis vel potentialis. Consequens est falsum. 
-      <lb ed="#V" n="5"/>consequentia patet. quia talis continentia virtualis est continentia causalis 
-      <lb ed="#V" n="6"/>et effectiua secundum istum doctorem. quod patet tam in ratione sua 2a qua 
-      <lb ed="#V" n="7"/>dicit quod obiectum seu subiectum quia indresenter vno pro altero vtitur. 
-      <lb ed="#V" n="8"/>se habet ad habitum: sicut causa ad effectum: et ex hoc concludit quod 
-      <lb ed="#V" n="9"/>virtualiter continet. Item manu propria postquam exposuerat quid  
-      <lb ed="#V" n="10"/>est primo virtualiter continere magis hoc ipsum declarans addidit 
-      <lb ed="#V" n="11"/>in margine. idem inquit est a. vt habitualiter cognitum continere b. 
-      <lb ed="#V" n="12"/>quod est speciem a. in memoria posse gignere speciem b. in intelligenia. 
-      <lb ed="#V" n="13"/>patet igitur quod loquitur in hac materia de continema virtuali causae effectiue. 
-      <lb ed="#V" n="14"/>Constat autem quod omnis res sic ab alio contenta: est alia res ab illo: 
-      <lb ed="#V" n="15"/>actualis vel potentialis: actualis inquam: si actu ipsa est: 
-      po<lb ed="#V" n="16" break="no"/>tentialis vero si non est actu.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e407">
-      ⁋ Sed falsitatem consequentis probo: et 
-      <lb ed="#V" n="17"/>sumo gratia exempli: lineam rectam finitam: vel angulum rectilineum 
-      <lb ed="#V" n="18"/>de vtroque enim probatur primo euclidis quod est diuisibilis in duo 
-      <lb ed="#V" n="19"/>media. Si ista passio est alia res etc. Uel est aliqua res actu 
-      <lb ed="#V" n="20"/>existens in linea qua ipsa linea est formaliter diuisibilis quae vocatur. 
-      <lb ed="#V" n="21"/>diuisibilitas: vel linea non est diuisibilis per huiusmodi 
-      diuisibi<lb ed="#V" n="22" break="no"/>litatem quam habet actualiter. sed per diuisionem quam habet possibiliter. 
-      <lb ed="#V" n="23"/>Si detur primum possibile erit per dei potentiam esse lineam absque 
-      <lb ed="#V" n="24"/>tali natuam patet. Tum quia accidens potest esse sine subiecto: et per consequens 
-      <lb ed="#V" n="25"/>subiectum sine accidente: Tum quia deus potest non causare illam 
-      diuisi<lb ed="#V" n="26" break="no"/>bilitatem. et similiter suspendere actionem linesse respectum eius: sicut 
-      <lb ed="#V" n="27"/>suspendit actionem ignis in camino puerorum: et sic erit linea 
-      <lb ed="#V" n="28"/>et indiuisibilis: quod implicat incompossibilia: cum omnis linea sit 
-      <lb ed="#V" n="29"/>magnitudo: in primo mo dicendi per se. Si detur 2m. igitur linea quando 
-      <lb ed="#V" n="30"/>diuiditur causat diuisionem in seipsa: quod est absurdum.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e440">
-      ⁋ Praeterea aut 
-      <lb ed="#V" n="31"/>talis divisio recipitur in linea antequam sit diuisa: aut post: aut 
-      <lb ed="#V" n="32"/>simul: dum est primo recepta in linea: linea est primo diuisa. Non 
-      <lb ed="#V" n="33"/>primum: quia tunc diuisio esset in linea: et tamen linea non esset diuisa: 
-      <lb ed="#V" n="34"/>quod videtur implicare: et praeterea: non apparet quare vel quo 
-      li<lb ed="#V" n="35" break="no"/>nea postea erit diuisa. Nec 2m: tum quia linea prius esset 
-      di<lb ed="#V" n="36" break="no"/>uisa quam haberet diuisionem: quod secundum illam imaginationem 
-      <lb ed="#V" n="37"/>implicat: sicut quod aliquid sit album antequam habeat albedi 
-      <lb ed="#V" n="38"/>nem.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e460">
-      ⁋ Praeterea. ad quid postea superueniret illa diuisio. Si 
-      <lb ed="#V" n="39"/>detur 3m. igitur vel in quoalibet parte linesse diuise recipitur 
-      <lb ed="#V" n="40"/>tota diuisio: vel pars diuisionis in parte linesse: et si vtrumque 
-      <lb ed="#V" n="41"/>horum detur. sequitur quod vel quelibet pars erit diuisa vel in 
-      <lb ed="#V" n="42"/>aliquo erit diuisio: et ipsum non erit diuisum: que absurda sunt 
-      <lb ed="#V" n="43"/>penitus. Eodem modo modo posset argui de angulo.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e473">
-      ⁋ Item esse 
-      <lb ed="#V" n="44"/>annihilabile est passio communis omni creature. si igitur 
-      annihila<lb ed="#V" n="45" break="no"/>bilitas sit alia res actualiter existens in creatura. poterit deus 
-      <lb ed="#V" n="46"/>illam annihilare: et creatura remanebit inannihilabilis 
-      <lb ed="#V" n="47"/>Et si sit aliqua res possibilis esse in creatura. sequitur quod 
-      <lb ed="#V" n="48"/>creatura potest eam in se causare: et sic se annihilare: et vlterius cum 
-      <lb ed="#V" n="49"/>annihilatio recipietur in creatura: creatura erit et non erit:  
-      <lb ed="#V" n="50"/>erit quidem exquo recipit in se entitatem: non erit vero: quia 
-      <lb ed="#V" n="51"/>erit annihilata: ita de multis aliis passionibus posset ostem 
-      <lb ed="#V" n="52"/>di quod non sunt tales res distincte a suis subiectis: immo de 
-      <lb ed="#V" n="53"/>omnibus talibus que praedicando reddunt propositionem de possibili 
-      <lb ed="#V" n="54"/>Secudo patet consequentis falsitas de passionibus de deo dictis: sicut 
-      <lb ed="#V" n="55"/>creatium incorruptibile et alie multe que de ipso 
-      praedican<lb ed="#V" n="56" break="no"/>in 2o modo dicendi per se. et tamen nulla significat aliquam rem a 
-      <lb ed="#V" n="57"/>deo aliam que sit passio dei.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e506">
-      ⁋ 2o ex eodem potest argui 
-      ac<lb ed="#V" n="58" break="no"/>principale sic. Nulla res ab aliquo virtualiter sic contenta 
-      <lb ed="#V" n="59"/>est in deo. igitur non omne subiectum 2o modo continet virtuali 
-      <lb ed="#V" n="60"/>ter prassione id est id quod significat: et pro quo supponit passit 
-      <lb ed="#V" n="61"/>primo modo dicta: antecedens et consequentia clara sunt.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e517">
-      ⁋ 3o nulla creatura 
-      <lb ed="#V" n="62"/>continent primo aliquam rem virtualiter. igitur non omne subiectum etc. 
-      <lb ed="#V" n="63"/>consequentia patet. quia multe passiones conueniunt creaturis. antecedens 
-      proba<lb ed="#V" n="64" break="no"/>tur. quia impossibile est aliquam rem esse vel fieri quin 
-      imen<lb ed="#V" n="65" break="no"/>diate a deo saltem partialiter causaretur.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e529">
-      ⁋ 4 arguitur 
-      <!--30.xml-->
-      <cb ed="#V" n="b"/> 
-               <!-- 17-r b -->
-               <lb ed="#V" n="66"/>secundum intentionem philosophi nam spericitas est passio de celo et 
-      <lb ed="#V" n="67"/>astris demonstrabilis. et tamen esto quod sit res distincta a celo: 
-      <lb ed="#V" n="68"/>non tamen virtualiter continetur ab eo: cum ipsum celum secundum intentio 
-      <lb ed="#V" n="69"/>nem philosophi. non sit causa effectiua sue spericitatis: cum illa sit 
-      <lb ed="#V" n="70"/>eterna: et res eterne secundum eum non habeant causam agentem proprie 
-      <lb ed="#V" n="71"/>dictam. vt patebit 2o lib.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e551">
-      ⁋ 2a conclusio probatur primo sic. omnis 
-      notitia<lb ed="#V" n="72" break="no"/>primo continens virtualiter aliam notitiam continet primo 
-      virtua<lb ed="#V" n="73" break="no"/>liter omnem aliam notitiam sine qua causaliter illa haberi non potest. 
-      <lb ed="#V" n="74"/>hoc patet ex expositione eorum de primo virtualiter continere: sed non 
-      <lb ed="#V" n="75"/>cuiuslibet subiecti notitia continet virtualiter omnem notitiam: 
-      <lb ed="#V" n="76"/>sine qua causaliter notitia passionis non potest haberi. igitur etc. Magistr 
-      <lb ed="#V" n="77"/>ior nota est in his passionibus: quae connotant res distinctas a 
-      <lb ed="#V" n="78"/>subiecto: sicut esse informabile: quod est passio materie: esse 
-      beatifi<lb ed="#V" n="79" break="no"/>cabile: quod est passio rationalis creature. esse risibile: quod est 
-      <lb ed="#V" n="80"/>passio hominis: et sic de multis aliis. Constat autem quod notitia 
-      <lb ed="#V" n="81"/>materie non continet primo virtualiter notitiam forme. cuius tamen notitie 
-      <lb ed="#V" n="82"/>tia causaliter praexigitur ad notitiam illius passionis. Similiter nec 
-      no<lb ed="#V" n="83" break="no"/>titia creature rationalis. primo virtualiter continet notitiam btintu 
-      <lb ed="#V" n="84"/>dinis. nec notitia hominis: risus seu actus ridendi. et hec omnia 
-      <lb ed="#V" n="85"/>probantur: quia nulla notitia vnius rei continet primo virtualiter 
-      noti<lb ed="#V" n="86" break="no"/>tiam alterius cloquor de rebus creatis) aut enim intuitiva 
-      conti<lb ed="#V" n="87" break="no"/>net intuitiuam: aut intuitiua abstractiuam: aut abstractiua 
-      <lb ed="#V" n="88"/>in uitiuam: aut abstractiua abstractiuam. non primum. tum quia per 
-      <lb ed="#V" n="89"/>notitiam intuitiuam vnius rei non potest haberi intuitiua alterius. 
-      <lb ed="#V" n="90"/>vt probabitur infra. dinctine e tum quia multo magis huiusmodi notitia potest causari 
-      <lb ed="#V" n="91"/>ab ipsamet re cuius est intuitiua: et per consequens non primo virtualiter 
-      con<lb ed="#V" n="92" break="no"/>tinet a notitia intuitiua alterius. nec 2m: quia vel 
-      abstracti<lb ed="#V" n="93" break="no"/>uam communem et confusam: hoc non: quia talis est ab aliquo poterit 
-      <lb ed="#V" n="94"/>causari: vel propriam et distinctam: et hoc non etiam: quia nulla talis 
-      <lb ed="#V" n="95"/>potest haberi nisi praehabita intuitiua eiusdem rei: vt infra 
-      ibi<lb ed="#V" n="96" break="no"/>dem probabitur. nec 3m potest dici. Tum quia abstractiua non potest 
-      <lb ed="#V" n="97"/>esse prima: et per consequens nec primo continere. Tum quia multo minus 
-      <lb ed="#V" n="98"/>per abstractiuam vnius rei potest haberi intuitiua alterius quam 
-      <lb ed="#V" n="99"/>per intuitiuam. Et secundum non est possibile. vt probatum est. 
-      <lb ed="#V" n="100"/>Nec quartum etiam potest dari propter causas iam tactas.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e616">
-      ⁋ 
-      Con<lb ed="#V" n="101" break="no"/>firmatur. quia vt cuilibet occurrit numquam naturaliter quis haberet 
-      di<lb ed="#V" n="102" break="no"/>stinctam notitiam de risibilitate seu de esse risibile 
-      abstra<lb ed="#V" n="103" break="no"/>ctiuam vel intuitiuam: nisi quia perciperet intuitiue vel per 
-      <lb ed="#V" n="104"/>cepisset actum ridendi. et per consequens nunquam per solam notitiam 
-      <lb ed="#V" n="105"/>quam habere posset naturaliter de homine posset habere notitiam huius 
-      <lb ed="#V" n="106"/>passionis.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e632">
-      ⁋ Praeterea passio corporis radiosi est posse causare 
-      ca<lb ed="#V" n="107" break="no"/>lorem in corpore illuminabili et calefactibili. Et passio 
-      reu<lb ed="#V" n="108" break="no"/>barbari est esse purgatiuum colere: quinimmo sunt passiones 
-      <lb ed="#V" n="109"/>immediate de eis cognoscibiles absque demonstratione: quelibet 
-      <lb ed="#V" n="110"/>enim harum est immediata. omne radiosum est calefactiuum: et 
-      <lb ed="#V" n="111"/>omne reubarbarum est purgatiuum colere. Et tamen nec notitia cor 
-      <lb ed="#V" n="112"/>poris radiosi primo virtualiter continet notitiam illius passionis: cum 
-      <lb ed="#V" n="113"/>non contineat notitiam primam calorum. Nec notitia reubar. 
-      con<lb ed="#V" n="114" break="no"/>tinet primo notitiam sue passionis: cum non contineat primam notitiam 
-      <lb ed="#V" n="115"/>colere: sine cuius notitia illa passio cognosci non potest. Unde 
-      <lb ed="#V" n="116"/>quantumcumque homo videret corpus radiosum vel reubar. nisi et 
-      <lb ed="#V" n="117"/>perciperet vel percepisset calorem: et coleram per aliam notitiam non 
-      <lb ed="#V" n="118"/>causatam ab illa visione: nunquam cognosceret quid sit posse 
-      <lb ed="#V" n="119"/>causare calorem: aut posse coleram purgare. Similiter posset dici de 
-      <lb ed="#V" n="120"/>multis aliis rerum passionibus.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e665">
-      ⁋ Praeterea ad hominem sic. si notitia 
-      <lb ed="#V" n="121"/>subiecti contineret sic notitiam passionis. igitur per cuiuscumque 
-      re<lb ed="#V" n="122" break="no"/>notitiam: absque cuiuscumque alterius rei notitia. posset 
-      euiden<lb ed="#V" n="123" break="no"/>ter cognosci de illa quaelibet passio eius. consequens est falsum. quantumcumquoe 
-      <lb ed="#V" n="124"/>enim quis intueatur solem vel triangulum nunquam ex hac notitia 
-      <lb ed="#V" n="125"/>praecise: et per consequens nec ex aliqua alia notitia primo cognosceret euidenter 
-      <lb ed="#V" n="126"/>solem esse calefactiuum: aut angulos trianguli valere duos 
-      re<lb ed="#V" n="127" break="no"/>ctos. quinimmo ad cognoscendum primum requiritur notitia calorum qua numquam 
-      <lb ed="#V" n="128"/>per vllam notitiam intuitiuam solis prcise potest haberi. et ad 
-      con<lb ed="#V" n="129" break="no"/>gnoscendum 2m requiritur notitia anguli recti: et notitia anguli 
-      ex<lb ed="#V" n="130" break="no"/>trinseci: vel alicuius alterius quod sit medium deueniendi in praedi¬ 
-      <!--31.xml-->
-      <pb ed="#V" n="17-v"/>
-               <cb ed="#V" n="a"/>
-               <lb ed="#V" n="1"/>ctam notitiam: sicut docet experientia.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e698">
-      ⁋ Item esse a deo con 
-      <lb ed="#V" n="2"/>seruabile sine subiecto: esse perpetuabile: esse annihilabile 
-      <lb ed="#V" n="3"/>sunt passiones accidentis corporalis sensibilis et a nobis 
-      di<lb ed="#V" n="4" break="no"/>stincte cognoscibilis: et tamen per nullam notitiam intuitiuam (quam 
-      <lb ed="#V" n="5"/>de huiusmodi accidente possumus habere) possunt tales passiones a 
-      <lb ed="#V" n="6"/>nobis euidenter de illo cognosci. Consequentia patet secundum dicta 
-      <lb ed="#V" n="7"/>eius. Nam notitia passionis et subiecti. cotinent primas 
-      propo<lb ed="#V" n="8" break="no"/>sitiones: et ille continent conclusiones. igitur de primo ad vltimum. notitie 
-      <lb ed="#V" n="9"/>subiecti continet omnes conclusiones: et hoc consequens satis expresse ipse dat 
-      <lb ed="#V" n="10"/>supra in eius probatione prima.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e721">
-      ⁋ 3a conclusio probatur. nam multe sunt 
-      pro<lb ed="#V" n="11" break="no"/>pones immediate quae sunt principio artis et scientie in quibus 
-      praedicani<lb ed="#V" n="12" break="no"/>passiones proprie de subiectis: nec tamen ad eas sumendas 
-      suffi<lb ed="#V" n="13" break="no"/>cit notitia incomplexa etiam distincta subiecti: et notitia 
-      dicitu<lb ed="#V" n="14" break="no"/>stincta passionis: quales sunt ille que sumuntur per viam 
-      sen<lb ed="#V" n="15" break="no"/>sus et experientie: vt docet. Praeterea in prohemio metaph. et 2o post. 
-      <lb ed="#V" n="16"/>in fine. vbi gratia. omne reubarbarum purgat coleram. vel omnis 
-      <lb ed="#V" n="17"/>talis herba curat talem infirmitatem. Smne corpus 
-      lumi<lb ed="#V" n="18" break="no"/>nosum post corpus opacum si oppositum sit sibi: causat vmbram. 
-      <lb ed="#V" n="19"/>et multe similes. Constat enim quod quis potest distinctam notitiam 
-      <lb ed="#V" n="20"/>incomplexam habere de reubarbaro: et de colera etiam: et de eo quod 
-      <lb ed="#V" n="21"/>est purgare: qui tamen non cognosceret quod omne reubarbarum 
-      <lb ed="#V" n="22"/>est purgatiuum colere: et de facto hoc in multis homnibus 
-      con<lb ed="#V" n="23" break="no"/>tingit. quinimmo per huiusmoi notitias simplices praecise nunquam illud 
-      <lb ed="#V" n="24"/>cognoscere quis poterit: immo quod plus est: etiam si quis 
-      no<lb ed="#V" n="25" break="no"/>uit quod hoc singulare reubarbarum est purgatiuum colere:  
-      <lb ed="#V" n="26"/>illud: et sic de pluribus: ad habendum notitia vniversalem: quod omne reu 
-      <lb ed="#V" n="27"/>barbarum et: necessario requiritur quedam alia notitia 
-      vni<lb ed="#V" n="28" break="no"/>uersalis non causata ex illis singularibus: qualis est secundum aliquos 
-      <lb ed="#V" n="29"/>si aliquod absolutum vel proprietas consequens absolutum competit 
-      ali<lb ed="#V" n="30" break="no"/>cui indiuiduo: cuilibet indiuiduo eiusdem rationis potest 
-      ali<lb ed="#V" n="31" break="no"/>quod simile competere: aut alia aliqua vniversalis notitia et 
-      eui<lb ed="#V" n="32" break="no"/>dens: cuius virtute saltem partialiter: quod in aliquibus singula 
-      <lb ed="#V" n="33"/>ribus est expartum: euidenter sit notum omnibus talibus conuenire.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e773">
-      ⁋ Si 
-      <lb ed="#V" n="34"/>militer est in alio exo de corpore luminoso. nam possibile est quod 
-      ali<lb ed="#V" n="35" break="no"/>quis cognoscat per visum corpus luminosum. vbi gratia. solem: et 
-      <lb ed="#V" n="36"/>cognoscat etam vmbram: quam aliquod aliud luminosum sibi od 
-      <lb ed="#V" n="37"/>cultatum per interpositionem corporis opaci causat. ignorans a quo 
-      <lb ed="#V" n="38"/>vmbra quam videt causatur: et an corpus aliquod luminosum illam 
-      <lb ed="#V" n="39"/>causat vel non: iste talis per homo simplices notitias precise 
-      <lb ed="#V" n="40"/>nunquam cognosceret omne corpus luminosum esse causatiuum vmbre 
-      <lb ed="#V" n="41"/>post corpus opacum: et quod plus est: non cognosceret quod hoc corp 
-      <lb ed="#V" n="42"/>luminosum vel illud est causatiuum vmbre: nisi plures alie 
-      no<lb ed="#V" n="43" break="no"/>titie concurrant: de quibus ad praesens non est serundumo prolixior 
-      facien<lb ed="#V" n="44" break="no"/>dus.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e799">
-      ⁋ Ex his patet quod notitie incomplexe subiecti distincte et 
-      praedi<lb ed="#V" n="45" break="no"/>cati seu passionis non continent primo virtualiter notitiam complexa 
-      <lb ed="#V" n="46"/>principii.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e806">
-      ⁋ 4a conclusio probatur primo sic. quia alicuius demonstrationis 
-      <lb ed="#V" n="47"/>vtraque praemissa est immediata. ergo aliquod principium non continet 
-      <lb ed="#V" n="48"/>aliud eiusdem demonstrationis. consequentia tabet ex dictis istorum qui 
-      di<lb ed="#V" n="49" break="no"/>cunt in 3a ratione sua: quod si principio sint immediata cognoscuntur ex 
-      <lb ed="#V" n="50"/>terminis: quamuis hoc dictum eorum non sit vniversaliter verum: cum non omnis 
-      <lb ed="#V" n="51"/>propositio immediata sit per se nota. vt patet ex praecedenti conclusione. igitur 
-      <lb ed="#V" n="52"/>nec ex terminis nota.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e822">
-      ⁋ 2o in demonstrationibus 
-      geometri<lb ed="#V" n="53" break="no"/>cis: quarum vtraque praemissarum resoluitur mediate vel 
-      immedia<lb ed="#V" n="54" break="no"/>te in communes conceptiones vel petitiones et neutra in aliam 
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e829">
-               <lb ed="#V" n="55"/>⁋ 5a conclusio probatur. primo quia subiectum seu notitia subiecti non continet 
-      <lb ed="#V" n="56"/>primo virtualiter propositiones immediatas. igitur nec conclusionem. patet consequentia 
-      <lb ed="#V" n="57"/>qui propositiones immediate quae sunt praemisse in demratoe continem 
-      <lb ed="#V" n="58"/>virtualiter conclusionem etiam secundum istum. igitur vel ipse praemisse continent primo 
-      <lb ed="#V" n="59"/>virtualiter conclusionem: et si sic. igitur subiectum non continet primo. cum secundum 
-      <lb ed="#V" n="60"/>stum doctorem standum sit in tali ordine cognoscentis ad vnum 
-      <lb ed="#V" n="61"/>primum: vel non continet primo: et tunc deducitur eorum continentia in 
-      <lb ed="#V" n="62"/>aliud. aut igitur in aliud a subiecto: et habetur principale 
-      propo<lb ed="#V" n="63" break="no"/>situm scilicet quod subiectum non primo continet: vel reducitur in subiectum: et tunc 
-      <lb ed="#V" n="64"/>sequitur quod subiectum cotinet propositiones immediatas: cuius oppositum est 
-      <lb ed="#V" n="65"/>antecedens assumptum. Antecedens probat. tum quia subiectum principii non con<cb ed="#V" n="b"/><lb ed="#V" n="66" break="no"/>tinet 
-              primo passionem. vt patet ex prima conclusione. nec 
-      notitia<lb ed="#V" n="67" break="no"/>subiecti notitiam passionis: vt patet ex secunda. igitur nec 
-      noti<lb ed="#V" n="68" break="no"/>tiam principii: cum notitia principii non possit sine notitia 
-      <lb ed="#V" n="69"/>subiecti et praedicati haberi. Tum quia notitia subiecti et cum 
-      <lb ed="#V" n="70"/>notitia praedicati non continet primo notitiam complexam principu 
-      <lb ed="#V" n="71"/>seu principium ipsum: vt patet ex 3a conclusione. igitur nec notitia 
-      sube<lb ed="#V" n="72" break="no"/>iecti scientie: quod est etiam alterius principii subiectum continet 
-      pri<lb ed="#V" n="73" break="no"/>mo propositiones ipsas immediatas. Tum quia eadem communis 
-      conce<lb ed="#V" n="74" break="no"/>ptio ad plurium conclusionum diuersorum subiectorum 
-      noti<lb ed="#V" n="75" break="no"/>tiam immediate concurrit. vt patet scientibus geometriam. igitur a 
-      <lb ed="#V" n="76"/>nullo subiecto illarum primo virtualiter continetur.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e887">
-      ⁋ 2o si 
-      quod<lb ed="#V" n="77" break="no"/>libet subiectum sic continet omnem veritatem scientie. igitur vel 
-      <lb ed="#V" n="78"/>quodlibet subiectum contineret primo notitiam cuiuslibet cause 
-      <lb ed="#V" n="79"/>vel effectus: per quam vel per quem conclusio demonstratur: vel 
-      nul<lb ed="#V" n="80" break="no"/>la scientia haberetur per causam vel effectum. Falsitas consequentis quantum 
-      <lb ed="#V" n="81"/>ad 2am partem patet per omnes. Quantum autem ad primam partem patet ex 
-      <lb ed="#V" n="82"/>dictis: quoniam nulla res creata continet primo virtualiter primam 
-      <lb ed="#V" n="83"/>notitiam alterius rei: vnde nec notitia cause continet primam 
-      no<lb ed="#V" n="84" break="no"/>titiam effectus: nec econverso alioquin ad omnia producibilia a sole 
-      co<lb ed="#V" n="85" break="no"/>gnoscenda sufficeret incoplexa notitia solis: quod est falsum. 
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e909">
-               <lb ed="#V" n="86"/>⁋ Item tunc surdus a natiuitate cum possit habere notitiam de 
-      <lb ed="#V" n="87"/>causis sonorum: posset etiam de sonis propriam notitiam habere: et qui a 
-      <lb ed="#V" n="88"/>natiuitate caret odoratu posset habere scientiam de odoribus cum 
-      <lb ed="#V" n="89"/>ipse per tactum posset habere notitiam de qualitatibus primis et 
-      ele<lb ed="#V" n="90" break="no"/>mentis quae sunt causae odorum. vt patet in de sensu et sen. sed hec omnia 
-      <lb ed="#V" n="91"/>falsa sunt. igitur etc. consequentia vero nota est: quoniam praemisse: 
-      exprimen<lb ed="#V" n="92" break="no"/>tes causam non possunt esse note sine notitia cause. Et similiter 
-      exprimen<lb ed="#V" n="93" break="no"/>tes effectum sine notitia illius.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e929">
-      ⁋ Ex hac conclusione vlterius infero 
-      <lb ed="#V" n="94"/>quod aliud dictum huius doctoris est falsum scilicet ratio sub qua: vel 
-      con<lb ed="#V" n="95" break="no"/>ceptus sub quo aliquid est subiectum in aliqua scientia: est contentiua 
-      <lb ed="#V" n="96"/>primo virtualiter omnium veritatum illius scientie: vnde per hoc probat 
-      <lb ed="#V" n="97"/>ipse: quod deus non est subiectum theo modo sub aliqua ratione communi: nec 
-      sub<lb ed="#V" n="98" break="no"/>aliqua ratione attributali: nec sub aliqua ratione respectiua ad  
-      <lb ed="#V" n="99"/>extra. Falsitas autem huius patet ex dictis: quoniam si non omne subiectum 
-      com<lb ed="#V" n="100" break="no"/>tinet sic veritates cuiuslibet scientie: igitur nec inquantum tale vel 
-      <lb ed="#V" n="101"/>tale: sub tali vel tali conceptu vel ratione est contentiuum: nec 
-      <lb ed="#V" n="102"/>ipsa ratio sub qua est subiectum: est contentiua omnium veritatum illius 
-      <lb ed="#V" n="103"/>scientie.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e953">
-      ⁋ hoc etiam 2o sic ostenditur instando in multis. corpus enim 
-      <lb ed="#V" n="104"/>humanum: vt communiter dicitur est subiectum in medicina vel saltem 
-      <lb ed="#V" n="105"/>in aliqua parte eius: inquantum scilicet ipsum est susceptiuum sanitatis 
-      <lb ed="#V" n="106"/>vel infirmitatis: seu inquantum est sanabile vel egrotabile: 
-      <lb ed="#V" n="107"/>de illo autem inquantum huiusmodi considerat medicus quod ipsum ex talibus 
-      <lb ed="#V" n="108"/>vel talibus mebris est compositum et humoribus talibus 
-      com<lb ed="#V" n="109" break="no"/>plexionatum. nec tamen ista sibi competunt inquantum est sanabilis 
-      <lb ed="#V" n="110"/>et egrotabilis: sed potius econverso
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e971">
-      ⁋ Item homo consideratur am 
-      mo<lb ed="#V" n="111" break="no"/>rali philosopho inquantum est susceptiuus virtutis et vitii: et propterea 
-      <lb ed="#V" n="112"/>considerat de ipso quod est liberi arbitrii et operatiuus secundum 
-      <lb ed="#V" n="113"/>electionem: nec tamen quia est susceptiuus virtutis et vitii: ideo est 
-      <lb ed="#V" n="114"/>liberi arbitrii: cum illud sibi per prius competat.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e982">
-      ⁋ Celum quaque 
-      <lb ed="#V" n="115"/>a phyco consiedratur inquantum tali motu est mobile. Et ex 
-      <lb ed="#V" n="116"/>hoc probat de ipso quod est essentia 5a simplex sperica: quod est eius 
-      <lb ed="#V" n="117"/>motor eternus: et a magnitudine separatus: quarum nullam. 
-      <lb ed="#V" n="118"/>veritatem continet celum primo: quia sic mobile est vel mouetur: 
-      <lb ed="#V" n="119"/>quamuis ex hoc ille inferantur.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e996">
-      ⁋ Praeterea dictum esset verum sequeretur 
-      <lb ed="#V" n="120"/>quod cuiuslibet scientie subiectum esset subiectum eius sub propria 
-      intrinse<lb ed="#V" n="121" break="no"/>ca et quiditatiua ratione sua: consequens est falsum: vt patet in multis 
-      <lb ed="#V" n="122"/>aliis scientiis de eisdem rebus sub alia et alia ratione consideranti 
-      <lb ed="#V" n="123"/>bus. cum tamen ratio propria quiditatiua non sit nisi vna: vt patet in exenm 
-      <lb ed="#V" n="124"/>plis propositis. et de astrolomia: et phyca considerantibus corpora 
-      <lb ed="#V" n="125"/>celestia sub aliqua posteriori ratione ipsius.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1012">
-      ⁋ Praeterea sequeretur quod omnis 
-      <lb ed="#V" n="126"/>scientia demonstraret suam conclusionem a priori: quod certum est apud  
-      <lb ed="#V" n="127"/>omnes esse falsum. probatur consequentia. quia omnis scientia resoluit ad proposiones 
-      <lb ed="#V" n="128"/>immediatas. Si igitur et ille resoluantur ad subiectum secundum rationem pin 
-      <lb ed="#V" n="129"/>quam primo continet virtualiter veritatem conclusam: cum illa continentia 
-      <lb ed="#V" n="130"/>sit secundum opinionem causalis: vt supra probatum est: omnis scientifica reso 
-      <!--32.xml-->
-      <pb ed="#V" n="18-r"/>
-               <cb ed="#V" n="a"/>
-               <lb ed="#V" n="1"/>lutio vltimate stabit ad causam. Dicetur forsitan quod iste doctor 
-      <lb ed="#V" n="2"/>non intendit dicere quod subiectum per rationem sub qua est subiectum contineat 
-      <lb ed="#V" n="3"/>virtualiter passiones suas et veritates consideratas de eo secundum quod 
-      <lb ed="#V" n="4"/>continet notitiam passionum et veritatum. Sed hoc vtique falsum est 
-      <lb ed="#V" n="5"/>quod patet. Nam in eadem quaestione soluendo quoddam argumentum dicit: homo ideo 
-      <lb ed="#V" n="6"/>est subiectum moralis scientie: vel medicine: pro eo quod continet 
-      vir<lb ed="#V" n="7" break="no"/>tualiter rationem sanitatis. ideo enim sanitas hominis talis est: quia cor 
-      <lb ed="#V" n="8"/>pus humanum est sic complexionatum.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1049">
-      ⁋ Item in eadem quaestione 
-      im<lb ed="#V" n="9" break="no"/>probans oppositum dicentium quod christus est subiectum theo modo ait sic. contra idem 
-      <lb ed="#V" n="10"/>est ratio posita ad solutionem prime quaestionis: quia veritates necessarie de 
-      <lb ed="#V" n="11"/>pratre et filio et spum secondo de trinitate impossibile est contineri primo 
-      <lb ed="#V" n="12"/>virtualiter in christo: quia si verbum non fuisset incarnatum ille 
-      veri<lb ed="#V" n="13" break="no"/>tates fuissent necessarie.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1062">
-      ⁋ Ex his patet quod loquitur de continentia non 
-      <lb ed="#V" n="14"/>solum notitie veritatis: sed de ipsa veritate nota: seu de sic 
-      <lb ed="#V" n="15"/>esse sicut significat ipsa notitia vera vel veritas quae est signum: 
-      <lb ed="#V" n="16"/>nec solum de notitia passionis: sed de eo quod ipsa notitia vel 
-      <lb ed="#V" n="17"/>passio predicabilis significat. 
-      <lb ed="#V" n="18"/>Nunc dicendum est quid est ratio propria subiecti scientie. 
-      <lb ed="#V" n="19"/>Ad quod praemitto quod vt supra 
-      ta<lb ed="#V" n="20" break="no"/>ctum est: subiectum potest accipi duplicite scilicet pro termino qui subiicitur in 
-      propositio<lb ed="#V" n="21" break="no"/>ne habente partes distinctas: quarum vna dicitur subiectum: et altera 
-      praedi<lb ed="#V" n="22" break="no"/>catum. Et 2o modo potest accipi pro eo pro quo talis terminus in 
-      <lb ed="#V" n="23"/>propositione supponit. 2o quod scientia potest accipi dupliciter. Uno modo pro 
-      ali<lb ed="#V" n="24" break="no"/>quo vno habitu vnius conclusionis demonstrate: seu de sic esse sicut ipsa 
-      <lb ed="#V" n="25"/>significat. Alio modo pro collectione plurium habituum conclusionum 
-      diuer<lb ed="#V" n="26" break="no"/>sarum pertinentium ad vnam scientiam totalem: illa scilicet vnitate quae superius 
-      <lb ed="#V" n="27"/>in praecedenti quaestione declarata est.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1095">
-      ⁋ Si loquamur de subiecto 2oa 
-      <lb ed="#V" n="28"/>modo et scientia primo modo: dico quod subiectum scientiae est illud quod scitur per illam 
-      <lb ed="#V" n="29"/>esse tale. Et ratio subiecti seu esse subiectum. est sciri esse tale vel 
-      ta<lb ed="#V" n="30" break="no"/>le. vbi gratia. huius scientie qua scitur: omnem lineam rectam finitam esse 
-      <lb ed="#V" n="31"/>diuisibilem in duo media. subiectum est linea. ipsa enim scitu esse 
-      di<lb ed="#V" n="32" break="no"/>uisibilis etc. et ipsam esse subiectum huius scientie: non est aliud quam ipsam 
-      <lb ed="#V" n="33"/>sciri esse diuisibilem etc. eodem modo de aliis.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1111">
-      ⁋ hoc patet ex communi 
-      <lb ed="#V" n="34"/>sententia dicunt enim omnes quod illud est subiectum de quo sciunt proprieta 
-      <lb ed="#V" n="35"/>tes et passiones. Illud autem est quod scitur esse tale vel tale. 
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1119">
-               <lb ed="#V" n="36"/>⁋ Praeterea hoc solo posito aliquid est subiectum scientie. et hoc solo 
-      remo<lb ed="#V" n="37" break="no"/>to nihil est subiectum scientie. vt patet. igitur etc.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1126">
-      ⁋ Si vero loquamur de 
-      <lb ed="#V" n="38"/>subiecto primo modo sic illud est subiectum quod subiicitur in conclusione mentali: qua 
-      <lb ed="#V" n="39"/>est euidens notitia ex praemissis demonstrationis causata: vel alia 
-      <lb ed="#V" n="40"/>notitia sibi equivalenti. quod dico: quia possibile esset talem scientiam haberi 
-      <lb ed="#V" n="41"/>a deo immediate: et est ab habitu aliquo causato ex notitiis seu 
-      <lb ed="#V" n="42"/>conclusionibus ex praemissis demonstratonis causatis. hoc verum est. supposito 
-      <lb ed="#V" n="43"/>quod talis conclusio mentalis non sit actus simplex esentialiter et tatum obie 
-      <lb ed="#V" n="44"/>ctiue complexus. sed esentialiter sit composita ex subiecto et 
-      praedi<lb ed="#V" n="45" break="no"/>cato sicut propositio vocalis et scripta. sicut multi opinantur. et sic 
-      <lb ed="#V" n="46"/>subiectum scientiae est pars scientie actualis: hoc probatur: quia subiectum scientiae vel 
-      <lb ed="#V" n="47"/>est ipsa conclusio vel praedicatum conclusionis: vel subiectum vel medium aut aliqua 
-      <lb ed="#V" n="48"/>vel vtraque praemissarum: sed non medium nec praedicatum vt certum 
-      <lb ed="#V" n="49"/>est. non conclusio nec aliqua praemissarum: quia subiectum secundum omnes est aliquid 
-      <lb ed="#V" n="50"/>incomplexum. Etiam quia conclusio homod est scientia actualis seu actus sciendi 
-      <lb ed="#V" n="51"/>vt in pria quaestione patet. igitur non est subiectum scientie. Similiter vtraque 
-      priemis<lb ed="#V" n="52" break="no"/>sa vel est scientia vel intellectus: subiectum autem scientiae neutrum horum 
-      <lb ed="#V" n="53"/>est. Sed si propositio huiusmodi mentalis non sit ex talibus diuersis parti 
-      <lb ed="#V" n="54"/>bus composita: sed sit secundum se eque simplex: sicut actus intellectus 
-      <lb ed="#V" n="55"/>qui non est affirmatio vel negatio. Et dicitur simplex intelligentia 
-      <lb ed="#V" n="56"/>quamuis sit de obiecto complexe enuncimabili enunciatione vocali 
-      <lb ed="#V" n="57"/>vel scripta: tunc talis scientie nullum erit subiectum hoc modo. sed tantum 
-      <lb ed="#V" n="58"/>2o modo dictum.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1174">
-      ⁋ Si vero loquamur de scientia 2o modo dicta: sicu 
-      <lb ed="#V" n="59"/>eius sunt plures conclusiones et plura obiecta scita. sic est sunt plu 
-      <lb ed="#V" n="60"/>ra subiecta. Uerum quia quandoque talia subiecta habent ordinem inter se 
-      <lb ed="#V" n="61"/>vtpote: quia subiectum vnius scientie partialis accipiendo 2o modo subitct 
-      <lb ed="#V" n="62"/>est principium vel pars: aut passio subiecti alterius scientie partialis: sicut 
-      <lb ed="#V" n="63"/>subiectum logitie libri praedicamentorum pars est subiecti libri pyar. Et 
-      <lb ed="#V" n="64"/>tillud iterum pars est subiecti libri priorum. Et subiectum phyo probantis 
-      <lb ed="#V" n="65"/>aliquod dne materia vel de forma pars est subiecti scientie considerantis 
-      <!--32.xml-->
-      <cb ed="#V" n="b"/> 
-               <!-- 18-r b -->
-               <lb ed="#V" n="66"/>de corpore naturali composito ex materia et forma vel aliquam aliam 
-      <lb ed="#V" n="67"/>analogiam seu ordinem habent inter se. talis scientie dicitur esse aliquod 
-      <lb ed="#V" n="68"/>vnum primum subiectum: puta illud ex his subiectis ad quod cetera ta 
-      <lb ed="#V" n="69"/>lem ordinem habent. Et propter quod perfectius cognoscedum cetera 
-      <lb ed="#V" n="70"/>osiderantur: sicut medicie primum subiectum est corpus sanabile 
-      in<lb ed="#V" n="71" break="no"/>quantum huiusmodi. Nam quaecumque in medicia totali partialiter 
-      conside<lb ed="#V" n="72" break="no"/>rantur: attributionem habent ad ipsum inquantum huiusmodi vel sicut causatiua 
-      <lb ed="#V" n="73"/>sanitatis vel conseruatiua: aut significatiua: aut alio aliqua 
-      <lb ed="#V" n="74"/>modo. vt patet ex 4o meta. et hoc solum est vocari primum subiectum primi 
-      <lb ed="#V" n="75"/>tate attributionis: quandoque talia subiecta non habent talem ordinem 
-      <lb ed="#V" n="76"/>inter se: eis tamen est aliquod commune: cuius per se passiones in aliquo 
-      <lb ed="#V" n="77"/>parte illius totalis scientie considerantur: et in aliis partibus passiones 
-      <lb ed="#V" n="78"/>partium subiectiuarum. vbi gratia cuiusmodi est phyca: in aliquo 
-      <lb ed="#V" n="79"/>enim eius parte consideratur: de corpore mobili ad vbi. Et in 
-      ali<lb ed="#V" n="80" break="no"/>qua de mobili ad formam. et sic de aliis generibus corporum 
-      <lb ed="#V" n="81"/>mobilium: quibus commune est corpus mobile: de quo consideratur. in 
-      <lb ed="#V" n="82"/>libro phyco. Similiter in aliqua parte logice consideratur de syllato 
-      tho<lb ed="#V" n="83" break="no"/>pico. in aliqua de syllo demratiuo. quibus communis est 
-      syllogis<lb ed="#V" n="84" break="no"/>mus simpliciter. de quo consideratur in libro priorum: et illud tale commune 
-      <lb ed="#V" n="85"/>consueuit vocari primum subiectum in illa totali scientia: primum 
-      inquam<lb ed="#V" n="86" break="no"/>primitate communitatis vel praedicationis: quandoque tamen aliquid dicitur subie 
-      <lb ed="#V" n="87"/>ctum primum vtraque primitate. respectu tamen aliorum et aliorum subie 
-      <lb ed="#V" n="88"/>ctorum partialium scientiarum: sicut syllus secundum aliquos est lo modo primum 
-      <lb ed="#V" n="89"/>subiectum vtraque primitate: respectu enim slli dialetici et demon 
-      <lb ed="#V" n="90"/>stratiui est primum primitate communitatis: et resectu propositionum et 
-      ter<lb ed="#V" n="91" break="no"/>minorum est primum primitate attributionis. Ita patet etiam de subiecto 
-      <lb ed="#V" n="92"/>medicine quod dicitur corpus sanabile. Ipoeum enim respectu corpo 
-      <lb ed="#V" n="93"/>ris huani: de quo specialiter in aliqua partiali medicia 
-      conside<lb ed="#V" n="94" break="no"/>ratur. et respectu corporis equini: et respectu aliarum specierum 
-      cor<lb ed="#V" n="95" break="no"/>porum sanabilium: est primum secundum communitate. Respectu aut partium 
-      <lb ed="#V" n="96"/>seu membrorum humanorum: humorum et aliarum rerum causatiuarum vel 
-      <lb ed="#V" n="97"/>conseruatiuarum sanitatis: aut aliter ad ipsum analogiam 
-      haben<lb ed="#V" n="98" break="no"/>tium: est primum per attributionem: et ita in multis scientiis secundum 
-      <lb ed="#V" n="99"/>diuisionem generalem scientiarum acceptis contingit: quod subiectum primum 
-      <lb ed="#V" n="100"/>earum est vtraque primitate primum et ratio subiecti prmi sic accepti 
-      <lb ed="#V" n="101"/>est esse primum subiectum aliqua tali primitate: et sub illa ratione dicitur esse 
-      <lb ed="#V" n="102"/>primum subiectum: sub qua est huiusmodi primitate vel primitatibus primum. 
-      <lb ed="#V" n="103"/>Et ista patet discurrendo per ea quae communiter assignantur subiecta 
-      <lb ed="#V" n="104"/>in scientiis: vt satis per exempla prius posita declaratur: quam etiam 
-      <lb ed="#V" n="105"/>per rationem: quoniam non apparet aliter qualiter tot partiales scientie 
-      <lb ed="#V" n="106"/>dicantur ad vnam scientiam totalem pertinere: cum huiusmodi vnitas ex 
-      vni<lb ed="#V" n="107" break="no"/>tate subiecti consurgat: vt in procedenti quaestione declaratum est 
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1289">
-               <lb ed="#V" n="108"/>⁋ Confirmatur per Praeterea pro poste. capitulo penul. dicentem. vna scientia est 
-      <lb ed="#V" n="109"/>que est vnius generis subiecti scilicet subiicibilis (vt communiter 
-      ex<lb ed="#V" n="110" break="no"/>ponitur) quecumque ex primis componitur: et partes et passiones harum 
-      <lb ed="#V" n="111"/>sunt per se: per partes intellige communiter subiectiuas vel alias. 
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1300">
-               <lb ed="#V" n="112"/>⁋ Ad rationes alterius opinionis patet ex dictis. Nam prima assu a 
-      <lb ed="#V" n="113"/>mit falsum: et in eo quod dicit subiectum continere propositiones 
-      imme<lb ed="#V" n="114" break="no"/>diatas: et in eo quod dicit subiectum continere praedicatum: si hec 
-      in<lb ed="#V" n="115" break="no"/>telligantur de quolibet subiecto: non enim omne subiectum taliter 
-      <lb ed="#V" n="116"/>continet: vt probatum est.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1313">
-      ⁋ 2a etiam non valet: assumit enim quod subiectum Ar 
-      <lb ed="#V" n="117"/>continet adequate virtualiter habitum: quod vtique falsum est. cum enim 
-      <lb ed="#V" n="118"/>habitus causetur ex notitiis que sunt conclusiones: et ille ex praemissis 
-      <lb ed="#V" n="119"/>quas subiectum non continet primo virtualiter: vt probatum est: patet quod 
-      <lb ed="#V" n="120"/>subiectum non primo et adequate cotinet habitum.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1325">
-      ⁋ Ad 3m dico primo rg 
-      <lb ed="#V" n="121"/>ad maiorem quod in essentialiter ordinatis statur ad vnum primum 
-      to<lb ed="#V" n="122" break="no"/>tale siue ad plura partialia quae sunt ad vnum totale: et hoc idem 
-      <lb ed="#V" n="123"/>ipse dicere habet. vult enim quod volitio causetur. saltem partialiter ab 
-      <lb ed="#V" n="124"/>intellectione. intellectio vero ab obiecto a intellectu simul. et hic est 
-      <lb ed="#V" n="125"/>status: quia nec intellectus reducitur in obiectum tanquam in causam: nec econvers 
-      <lb ed="#V" n="126"/>sed vtrumque est causa partialis immediata respect intellectionum: quarum 
-      <lb ed="#V" n="127"/>neutra causat in virtute alterius: sed per se: et per propriam virtutem. 
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1343">
-               <lb ed="#V" n="128"/>⁋ Sic dico quod in hoc ordine statur ad praemissas quae sunt partiales 
-      <lb ed="#V" n="129"/>causare. et neutra in altera continetur virtualiter.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1350">
-      ⁋ 2o ad minorem 
-      <lb ed="#V" n="130"/>dico quod deficit multipliciter. si sumatur ad propositum suum. loquitur 
-      <!--33.xml-->
-      <pb ed="#V" n="18-v"/>
-               <cb ed="#V" n="a"/>
-               <lb ed="#V" n="1"/>enim ille de omnibus cognoscibilibus vnius totalis scientie 
-      quen<lb ed="#V" n="2" break="no"/>admodum omnium veritatum geometralium dicitur esse vna scientia: et 
-      <lb ed="#V" n="3"/>sic de aliis. Sed constat quod non omnes veritates scientie sic sumpte 
-      <lb ed="#V" n="4"/>habent essentialem ordinem inter se: quin immo multe sunt que nul 
-      <lb ed="#V" n="5"/>lo modo in sui cognoscibilitate dependent. Patet de prima et 
-      quar<lb ed="#V" n="6" break="no"/>ta primi euclidis. et sic sunt multe alie tam in dicta scientia quam 
-      <lb ed="#V" n="7"/>in aliis. 2o deficit: quia si inter cognoscibilia scientie 
-      includu<lb ed="#V" n="8" break="no"/>tur propositiones immediate: sicut ipsemet assumit: ordo essentia 
-      <lb ed="#V" n="9"/>lis non est inter praemissas. cum neutra per alteram cognoscatur: 
-      <lb ed="#V" n="10"/>vt supra probatum est. 3o deficit in eo quod ponit praemissas 
-      co<lb ed="#V" n="11" break="no"/>gnosci ex terminis si vniversaliter de quibuslibet praemissis immedia 
-      <lb ed="#V" n="12"/>tis intelligat: vt oportet ad propositum suu. tunc enim quelibet 
-      <lb ed="#V" n="13"/>immediata propositio et quodlibet principium sciente esset per se notum: quod 
-      <lb ed="#V" n="14"/>falsum est: vt patet supra. 4o deficit in eo quod dicit praedicatum 
-      <lb ed="#V" n="15"/>principii contineri in subiecto si intelligat de continentia 
-      to<lb ed="#V" n="16" break="no"/>tali et adequata vt eum intelligere oportet. hoc siquidem falsum 
-      <lb ed="#V" n="17"/>est: vt supra probatum est.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1398">
-      ⁋ Ad probationem cum dicitur: quod prin 
-      <lb ed="#V" n="18"/>cipia sunt comuiter etc. concedo. et vlterius concedo: quod subiectum 
-      <lb ed="#V" n="19"/>cadit in diffinitione predicati: sed non solum subiectum complet 
-      diui<lb ed="#V" n="20" break="no"/>sionem: sed praeter ipsum aliud cadit in diffinitione praedicati. Et ideo 
-      <lb ed="#V" n="21"/>non totaliter subiectum continet ipsum praedicatum vel notitiam eius. 
-      <lb ed="#V" n="22"/>Quantum ad 2m articulum distinguendum est de 
-      <lb ed="#V" n="23"/>theomda: sicut superius distinctum est. Nam potest 
-      <lb ed="#V" n="24"/>accipi pro habitu vnius conclusionis theologice tantum: siue de sic esse: 
-      <lb ed="#V" n="25"/>sicut conclusio significat. et potest accipi pro collectione multorum talium 
-      <lb ed="#V" n="26"/>habituum. vt de sic iam dicebatur. Si primo modo: dicendum quod alicuius 
-      <lb ed="#V" n="27"/>theo modo deus est subiectum: et alicuius non. Est enim subiectum illius: qua 
-      <lb ed="#V" n="28"/>aliquod one ipso probatur. illius autem qua nihil de ipso: sed de alio 
-      <lb ed="#V" n="29"/>probatur non est subiectum. Exemplum primi: deus potest per se ipsum quicquid 
-      <lb ed="#V" n="30"/>mediante creatura. aut aliquid tale. Exemplu secundi: creatura est 
-      <lb ed="#V" n="31"/>annihilabilis: accidens potest conseruari sine subiecto. Et aliud  
-      <lb ed="#V" n="32"/>in quibus de creatura aliquid enunciatur.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1433">
-      ⁋ Si vero accipiatur 
-      <lb ed="#V" n="33"/>theomoia 2o modo. pono tres conclusiones conformes doctrine Doc. noster 
-      <lb ed="#V" n="34"/>fratris Egidii. prima est quod deus inquantum deus est subiectum primum 
-      <lb ed="#V" n="35"/>theo modo nostre. 2a quod non inquantum deus absolute: sed contracte est 
-      <lb ed="#V" n="36"/>subiectum. 3a quod ratione talis conctionis congrue potest dici quod de 
-      <lb ed="#V" n="37"/>inquantum glorificator vel glorificatiuus est subiectum theo moso no 
-      <lb ed="#V" n="38"/>stre.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1449">
-      ⁋ Primam conclusionem probo primo sic. quod deus inquantum deus sit sub 
-      <lb ed="#V" n="39"/>iectum primum in theomia. Ex subiectis partialium theologiarum. 
-      <lb ed="#V" n="40"/>Illud est primum totalis theomodo subiectum ad quod cetera subiecta 
-      <lb ed="#V" n="41"/>theologica (inquantum huiusmodi subiecta scilicet theologica sunt) habent per 
-      <lb ed="#V" n="42"/>se analogiam et ordinem: ipsum vero ad nihil aliud inquantum huiusmodi 
-      or<lb ed="#V" n="43" break="no"/>dinatur. sed deus est huiusmodi igitur etc. Marior est nota ex dictis 
-      <lb ed="#V" n="44"/>in primo articulo. Minor declaratur: quoniam quecumque alia intrant 
-      <lb ed="#V" n="45"/>considerationem theologicam vel considerantur inquantum sunt effe 
-      <lb ed="#V" n="46"/>ctus dei manifestantes eius potentiam. iustitiam vel misericoridam 
-      di<lb ed="#V" n="47" break="no"/>spositionem et prouidentiam: vel inquantum praecepta dei: et documenta 
-      mani<lb ed="#V" n="48" break="no"/>festantia eius voluntatem: siue quid ei placeat: vel displiceat: et 
-      <lb ed="#V" n="49"/>gnesertialiter nihil omnino intrat considerationem theologicam: nisi secundum 
-      <lb ed="#V" n="50"/>quod ipsum aliquo modo attributionem habet ad deum.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1479">
-      ⁋ Confirmatur 
-      <lb ed="#V" n="51"/>per <ref xml:id="grvnZZ-d1e154-Rd1e1483">Aug. 2o de ciui. dei.</ref> vbi dicit quod in sacra scriptura: <quote xml:id="grvnZZ-d1e154-Qd1e1486" source="http://scta.info/resource/adcd-l2-d1e293" synch="124-136">aut 
-        <lb ed="#V" n="52"/>hei praecepta insinuantur: aut mirabilia narrantur: aut dona 
-        <lb ed="#V" n="53"/>laudantur: aut beneficia postulantur</quote>: innuens per hoc quod nihil 
-      <lb ed="#V" n="54"/>in ea continetur nisi inquantum analogatur modo aliquo ad deum 
-      <lb ed="#V" n="55"/>Quie vero sit subiectum sub ratione deitatis: siue inquantum deus: 
-      de<lb ed="#V" n="56" break="no"/>claro. Constat enim quod aliqua considerantur theologice de deo 
-      <lb ed="#V" n="57"/>que non competunt sibi: nisi inquantum deus est. verbi gratia quod sit 
-      <lb ed="#V" n="58"/>trinus et vnus: immensus: omnipotens: sapientia: bonitas: 
-      ma<lb ed="#V" n="59" break="no"/>gnitudo. Et generaliter omnis perfectio aut plenitudo per essen 
-      <lb ed="#V" n="60"/>tiam: et multa alia similia: ita quod huiusmodi non considerantur a 
-      theo<lb ed="#V" n="61" break="no"/>logo de deo sub alia ratione: quam sub ratione deitatis. Cetera vero 
-      <lb ed="#V" n="62"/>que considerantur de personis diuinis singulariter: vt actus 
-      <lb ed="#V" n="63"/>notionales et proprietates etiam de eis verificantur inquantum 
-      <lb ed="#V" n="64"/>sunt deus: tento ly inquantum specificatiue tantum: non autem redupli 
-      <lb ed="#V" n="65"/>catiue: que etiam de creaturis considerantur in attributione 
-      <!--33.xml-->
-      <cb ed="#V" n="b"/> 
-               <!-- 18-v b -->
-               <lb ed="#V" n="66"/>ad deum: etiam considerantur inquantum attributionem habent 
-      vlti<lb ed="#V" n="67" break="no"/>mate ad ipsum inquantum deus est: sicut de omnibus diligenter 
-      consi<lb ed="#V" n="68" break="no"/>deratis posset ostendi.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1533">
-      ⁋ 2am conclusionem probo: si deus sub ratione 
-      <lb ed="#V" n="69"/>deitatis absolute esset subiectum theo modo nostre: deus esset 
-      comprehen<lb ed="#V" n="70" break="no"/>sibilis per theoiam nostram actu habitam vel possibilem haberi: consequens 
-      <lb ed="#V" n="71"/>est falsum: nulla enim notitia: et nullis notitiis creatis vel crea 
-      <lb ed="#V" n="72"/>bilibus deus comprehendi potest: alias non veraciter incomprehensibi 
-      <lb ed="#V" n="73"/>lis crederetur. consequentia probatur. quia ad omnem habitum habentem aliquod 
-      <lb ed="#V" n="74"/>subiectum sub aliqua ratione absolute spectat considerare quaecumque illi 
-      <lb ed="#V" n="75"/>pueniunt secundum illam rationem. Ex hoc enim p. probat quod ad phycum 
-      spe<lb ed="#V" n="76" break="no"/>ctat considerare de continuo infinito et finito loco et tempore et 
-      si<lb ed="#V" n="77" break="no"/>milibus: quia ea conueniunt corpori secundum quod mobile est. Ex hoc etiam 
-      <lb ed="#V" n="78"/>probat quod ad metaphnium spectat considerare de vno ea multo: 
-      eo<lb ed="#V" n="79" break="no"/>dem et diuerso: priori et posteriori: et similibus. quia ipsa conueniunt 
-      <lb ed="#V" n="80"/>enti secundum quod ens: quod est metaphysio per se primum subiectum. probatur etiam 
-      <lb ed="#V" n="81"/>ratione. quia non est ratio quare potius habeat considerare aliqua eorum 
-      <lb ed="#V" n="82"/>que per se competunt subiecto sub ratione qua eius subiectum est: quia alia. 
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1566">
-               <lb ed="#V" n="83"/>⁋ Praeterea s aliqua sic. et aliqua non. ergo non est eius subiectum sub tali 
-      ratio<lb ed="#V" n="84" break="no"/>ne absolute: sed contracte scilicet ad illa que de ipso inquantum tale consi 
-      <lb ed="#V" n="85"/>derat: si igitur theomia nostra vel aliqua alia creata vel creabilis 
-      <lb ed="#V" n="86"/>habet eum pro subiecto inquantum deus est absolute. ergo habet considerare de 
-      <lb ed="#V" n="87"/>ipso: verificari et cognosci potest: et per consequens comprehendere vel 
-      <lb ed="#V" n="88"/>credendo si talis theologia sit fides tantum: vt nostra est: vel videm 
-      <lb ed="#V" n="89"/>do si sit notitia qualis est beatorum. vnde potest aliter in eadem 
-      <lb ed="#V" n="90"/>virtute argui ad propositum: deus non est subiectum theo modo beatorum. 
-      <lb ed="#V" n="91"/>inquantum deus absolute. alias ipse esset creata scientia et comphensi 
-      <lb ed="#V" n="92"/>bilis. ergo nec inquantum deus absolute est subiectum nostre theormis: patet 
-      <lb ed="#V" n="93"/>consequentia quoniam fides vie: nec infusa: nec acquisita: excedit in 
-      cre<lb ed="#V" n="94" break="no"/>dendo scientiam patrie in videndo. vt scilicet plus de deo credamus 
-      <lb ed="#V" n="95"/>nunc quam tunc visuri sumus. alias fidei plene non succederet 
-      <lb ed="#V" n="96"/>visio sicut innuunt communiter verba sanctorum: nec veniente quod 
-      <lb ed="#V" n="97"/>perfectum est euacuaretur quod ex parte est: vt dicit aposto. 
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1601">
-               <lb ed="#V" n="98"/>⁋ hec pro certo fuit intentio dicti Doctores nostri: sicut patet per qo 
-      <lb ed="#V" n="99"/>rationem eius ad hanc quaestionem: infert enim quod theormia esset infinita si ergo 
-      <lb ed="#V" n="100"/>haberet deum pro subiecto sub aliqua ratione deitatis. id est deum inquantum s 
-      <lb ed="#V" n="101"/>deum absolute absque contractione ad aliqua de ipso 
-      cognoscibi<lb ed="#V" n="102" break="no"/>lia. cum vt sic infinite veritates sint de ipso agnoscibiles: 
-      <lb ed="#V" n="103"/>quanto enim scientia plurium est veritatum: tanto perfectior: et per consequens 
-      <lb ed="#V" n="104"/>si infinitarum infinita: quod consequens impossibile reputauit. Ego 
-      <lb ed="#V" n="105"/>autem quia non simpliciter reputo impossibile a deo creari aliquam 
-      <lb ed="#V" n="106"/>infinitam notitiam de seipso. infinitam inquam non simpliciter: sed  
-      <lb ed="#V" n="107"/>in specie sua: sed vtique impossibile teneo aliquam creari ipsum 
-      con<lb ed="#V" n="108" break="no"/>prehendentem: sicut omnis fidelis tenet. idcirco ad istud et 
-      <lb ed="#V" n="109"/>non ad illud inconueniens deducendo conclusionem probaui.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1630">
-      ⁋ 3a conclusio  
-      <lb ed="#V" n="110"/>faciliter declaratur. Nam vt vult Augu. 14. de tri. 
-      theolo<lb ed="#V" n="111" break="no"/>gia ea capit in sua consideratione: quibus fides 
-      saluberri<lb ed="#V" n="112" break="no"/>ma (que ad veram beatitudinem ducit) gignitur et nutritur etc. 
-      <lb ed="#V" n="113"/>Ex quo innuitur quod deus sub eadem ratione est obiectum theolo 
-      <lb ed="#V" n="114"/>gie et fidei: ac etiam visionis patrie. et per consequens secundum illam 
-      con<lb ed="#V" n="115" break="no"/>tractionem videtur obiici fidei et theologie: secundum quam obiicitur 
-      <lb ed="#V" n="116"/>visioni glorie: et cum hoc ad illam ordinetur satis congrue potest 
-      <lb ed="#V" n="117"/>talis contractio per illam denominari: vt dicatur inquantum deus 
-      glorifi<lb ed="#V" n="118" break="no"/>cator vel beatificator sit subiectum theo mus. cui tamen hoc non 
-      pla<lb ed="#V" n="119" break="no"/>cet. Aliter tamen exprimat contractionem illam dummodo fateatur quod non 
-      <lb ed="#V" n="120"/>inquantum deus absolute: sed contracte sit subiectum theologie: quia 
-      <lb ed="#V" n="121"/>nec illud ille doctor vult: vt patet. 3. suo quoli. q. 2. nec aliud  
-      <lb ed="#V" n="122"/>ego intendo.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1661">
-      ⁋ Contra tamen hanc opinionem arguitur 
-      multipli<lb ed="#V" n="123" break="no"/>citer.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1667">
-      ⁋ Et primo quidam Doctor arguit: cui opinio in 
-      praece<lb ed="#V" n="124" break="no"/>denti articulo est reprobata duplici via. Primo quidem 
-      <lb ed="#V" n="125"/>pstendendo quod deus sub ratione deitatis est subiectum theologie. 
-      <lb ed="#V" n="126"/>primo sic. sub illa ratione deus est subiectum primum theoms. 
-      <lb ed="#V" n="127"/>sub qua continet primo virtualiter veritates scibiles de deo: 
-      <lb ed="#V" n="128"/>usmodi est ratio diuine essentie. igitur. maior (vt dicit) patet ex prius 
-      <lb ed="#V" n="129"/>dictis per eum in quaestione illa. minor probatur. quia ratio essen 
-      <lb ed="#V" n="130"/>tie est prima. et cetere posteriores quasi proprietates et acci¬ 
-      <!--34.xml-->
-      <pb ed="#V" n="19-r"/>
-               <cb ed="#V" n="a"/>
-               <lb ed="#V" n="1"/>dentia eius.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1693">
-      ⁋ Secundo sub eadem ratione deus est obiectum primo 
-      <lb ed="#V" n="2"/>intellectus sui: et prime scientie possibilis haberi de eo. Est autem 
-      <lb ed="#V" n="3"/>obiectum primum intellectus sui sub illa ratione sub qua conti 
-      <lb ed="#V" n="4"/>net cognitionem omnium cognoscibilium: et sub tali etiam est 
-      <lb ed="#V" n="5"/>obiectum prime scientie possibilis haberi de ipso.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1704">
-      ⁋ Secunda via 
-      <lb ed="#V" n="6"/>contra opinionem procedit negatiue: ostendendo quod non sub speciali 
-      ra<lb ed="#V" n="7" break="no"/>tione est subiectum sic. Ratio sub qua aliquid est obiectum primum 
-      <lb ed="#V" n="8"/>excedit in perfectione cognoscibilitatis omnia cognoscibilia 
-      <lb ed="#V" n="9"/>in illa scientia. ratio glorificatoris aut alia quecumque specialis non 
-      <lb ed="#V" n="10"/>est huiusmodi igitur etc. Marior patet: quia sicut primum subiectum habet primo 
-      <lb ed="#V" n="11"/>continere omnia que continentur in scientia. ita rati scilicet prima subiecti 
-      <lb ed="#V" n="12"/>debet esse ratio prima continendi: et per consequens perfectior in 
-      co<lb ed="#V" n="13" break="no"/>gnoscibilitate. Minor probatur. quia relatio rationis non potest esse 
-      <lb ed="#V" n="14"/>perfectior in cognoscibilitate quocumque ente reali. quia nec 
-      <lb ed="#V" n="15"/>in entitate. Relatio autem glorificatoris ccum sit ad extrais 
-      <lb ed="#V" n="16"/>est rationis.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1730">
-      ⁋ 4o nihil sub ratione contracta potest esse subiectum 
-      <lb ed="#V" n="17"/>scientie prime possibilis haberi de ipso. ratio glorificatoris est 
-      <lb ed="#V" n="18"/>contracta. igitur. maior probatur. quia ex primo metaphyce: cum scientia 
-      <lb ed="#V" n="19"/>considerante aliquid sub ratione contracta prior est alia: 
-      consi<lb ed="#V" n="20" break="no"/>derans illud sub ratione absoluta: quia certior. vnde dicitur 
-      <lb ed="#V" n="21"/>ibi quod ea que est ex paucioribus: certior est ea que est ex ad  
-      <lb ed="#V" n="22"/>ditione: vt arismetica geomedia.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1746">
-      ⁋ 5o nihil potest esse subiectum 
-      <lb ed="#V" n="23"/>prime scientie de ipso sub alia ratione que non facit vnum per se cum 
-      <lb ed="#V" n="24"/>ipso: huiusmodi sunt omnes ratio es contracte quae assignantur. igitur etc. Mi 
-      <lb ed="#V" n="25"/>nor patet. quia quelibet talis ratio si esset realiter distincta: esset rea 
-      <lb ed="#V" n="26"/>liter accidens illi: cuius assignatur prima ratio. Marior probatur. aut il 
-      <lb ed="#V" n="27"/>la ratio contingenter inest ipsi subiecto: aut necessario. Si contingen 
-      <lb ed="#V" n="28"/>ter igitur non est ratio aliquid sciendi de ipso: quia illa non est necessaria 
-      <lb ed="#V" n="29"/>necessitate cognita de subiecto. si necessario. igitur ipsa est co 
-      <lb ed="#V" n="30"/>gnitio de subiecto per rationem subiecti: et ita non est prima ratio vir 
-      <lb ed="#V" n="31"/>tualiter cognoscendi omnia alia de subiecto: nec per consequens prima 
-      <lb ed="#V" n="32"/>ratio subiecti in scientia.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1770">
-      ⁋ 6o ab aliis sic: cum dicis quod sub ratione 
-      <lb ed="#V" n="33"/>glorificatoris est subiectum theomrio: aut per rationem 
-      glorifica<lb ed="#V" n="34" break="no"/>toris intelligis id quo formaliter deus glorificat (et illud non 
-      <lb ed="#V" n="35"/>est nisi deitas et essentia diuina: et sic conceo quod sub absoluta 
-      <lb ed="#V" n="36"/>ratione deitatis) aut intelligis respectum et denominationem ad  
-      <lb ed="#V" n="37"/>glorificatum quo formaliter deus dicitur glorificator: et tunc sequi 
-      <lb ed="#V" n="38"/>tur quod vna denominatio circa deum erit ratio subiectiua huius scientie: 
-      <lb ed="#V" n="39"/>quod esse non potest.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1789">
-      ⁋ 7o ab eodem sic. sub illa ratione deus non est 
-      <lb ed="#V" n="40"/>subiectum in theologia: sub qua non insunt ei veritates que 
-      de<lb ed="#V" n="41" break="no"/>terminantur in ea: sed trinitas et alie veritates non sunt in 
-      <lb ed="#V" n="42"/>deo sub ratione glorificatoris (non enim est trinus inquantum glo 
-      <lb ed="#V" n="43"/>rificat: immo erat trinus anteque glorificaret) igitur deus vt 
-      <lb ed="#V" n="44"/>glorificator non est subiectum huius scientie.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1802">
-      ⁋ 8o alius sic. ratio glorifi 
-      <lb ed="#V" n="45"/>catoris est ratio attributa subiecto theo modo. ergo non est ratio subie 
-      <lb ed="#V" n="46"/>cti. Antecedens probatur. quia ista est propositio theologica: deus est glorifi 
-      <lb ed="#V" n="47"/>cator: et ista. deus est reperator: deus est beatificator et similes 
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1811">
-               <lb ed="#V" n="48"/>⁋ 6o ab aliis. nobilissimus habitus debet habere nobilissimum sub 
-      <lb ed="#V" n="49"/>lectum sub nobilissima ratione: theormia est habitus nobilissimus: 
-      <lb ed="#V" n="50"/>et deus sub ratione deitatis est nobilissimum subiectum sub no 
-      <lb ed="#V" n="51"/>bilissima ratione. igitur etc.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1822">
-      ⁋ Confirmatur. quia vnus habitus ex. 
-      <lb ed="#V" n="52"/>cedit alium nobilitate vel ex dignitate obiecti: vel certi 
-      <lb ed="#V" n="53"/>tudine demonstrationis: vt dicit Commentator primo de anima 
-      <lb ed="#V" n="54"/>Cum igitur theoemoda excedat in dignitate metaphycam et non in cer 
-      <lb ed="#V" n="55"/>titudine demonstrationis (vt certum est) oportet igitur quod eam 
-      exce<lb ed="#V" n="56" break="no"/>dat in dignitate subiecti: sed metaphyca salte in aliqua 
-      <lb ed="#V" n="57"/>sui parte habet deum pro subiecto: ac per hoc theomodo illam partem 
-      <lb ed="#V" n="58"/>non excedit: quia nobilius habet subiectum. igitur quia sub ratione 
-      nobilis<lb ed="#V" n="59" break="no"/>sima subiectiua. hoc autem non esset nisi habent deum pro subiectu:  
-      <lb ed="#V" n="60"/>sub ratione deitatis.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1844">
-      ⁋ 2o nulla scientia probat suam rationem 
-      subie<lb ed="#V" n="61" break="no"/>ctiuam de subiecto: theo modo probat deum esse glorificatorem. igitur. 
-      <lb ed="#V" n="62"/>ratio glorificatoris non est sua ratio subiectiua.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1851">
-      ⁋ Ad primam 
-      di<lb ed="#V" n="63" break="no"/>co primo quod conclusio non est contra me: concedo enim quod sub ratione deita 
-      <lb ed="#V" n="64"/>tis est subiectum: sed non sequitur ex hoc: quod sub ratione 
-      deita<lb ed="#V" n="65" break="no"/>tis absolute: quod ego nego. 2o dico quod ratio fundatur in falso de 
-      <!--34.xml-->
-      <cb ed="#V" n="b"/> 
-               <!-- 19-r b -->
-               <lb ed="#V" n="66"/>illa continentia virtuali: sicut patet in primo articulo.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1870">
-      ⁋ Praetere 
-      <lb ed="#V" n="67"/>esto quod subiectum scientie proprie dicte sic primo virtualiter 
-      contine<lb ed="#V" n="68" break="no"/>ret omnes veritates scientie secundum rationem sub qua est subiectum: adhuc 
-      <lb ed="#V" n="69"/>non sequitur quod ita sit de subiecto theo modo: cum theomia non sit scientia 
-      <lb ed="#V" n="70"/>proprie dicta. quod confirmatur. quia hic non habet locum probatio 
-      do<lb ed="#V" n="71" break="no"/>ctoris: eo quod theologia non resoluat ad propositiones immediatas 
-      no<lb ed="#V" n="72" break="no"/>cebat.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1886">
-      ⁋ Ad 2m dicendum quod per primam scientiam possibilem haberi 
-      <lb ed="#V" n="73"/>tas ex terminis: quarum subiectum contineat praedicatum vt 
-      dedu<lb ed="#V" n="74" break="no"/>de deo vel intelligitur scientia de deo simpliciter prima (qualis est 
-      <lb ed="#V" n="75"/>scientia qua deus nouit se: et sic nihil concluditur ad propositum: 
-      <lb ed="#V" n="76"/>cum de illa non sit quaestio praesens) vel intelligitur scientia prima in 
-      gene<lb ed="#V" n="77" break="no"/>re scintiarum creatarum vel creabilium: et tunc dico quod vel maiori 
-      <lb ed="#V" n="78"/>intelligitur simpliciter quod sub eadem ratione etc. et sic concedo conclusionem 
-      <lb ed="#V" n="79"/>qui non est contra me. vel intelligitur quod sub eadem ratione simpliciter: 
-      <lb ed="#V" n="80"/>puta quod sicut absolute est obiectum intellectus sui sic absque 
-      <lb ed="#V" n="81"/>contractione sit obiectum scientie creabilis vel create: et tunc simpliciter 
-      <lb ed="#V" n="82"/>nego illam.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1910">
-      ⁋ Ad 3am dico primo quod maior si sumatur vniversaliter es 
-      <lb ed="#V" n="83"/>falsa: quoniam vt tunc arguebatur in articulo primo: cuiuscumque scientie 
-      <lb ed="#V" n="84"/>subiectum esset subiectum sub quiditatiua et prima ratione sua: quod est 
-      <lb ed="#V" n="85"/>falsum. probatio etiam maioris falsum assumit: vt supra 
-      pro<lb ed="#V" n="86" break="no"/>batum est.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1921">
-      ⁋ Item esto quod in scientiis proprie dictis illud conce 
-      <lb ed="#V" n="87"/>deretur: non tamen oportet hoc de nostra theologia concedere: vt iam 
-      di<lb ed="#V" n="88" break="no"/>xi. 2o dico quod illa ratio procedit ex falsa imaginatione: imagi 
-      <lb ed="#V" n="89"/>natur enim quod illa ratio contracta sit quedam ratio specialis distincta 
-      <lb ed="#V" n="90"/>contra rationem essentie: et addita illi: siue per modum quem 
-      <lb ed="#V" n="91"/>Doctores qui eam fecit ponit de rationibus attributalibus: siue pear 
-      <lb ed="#V" n="92"/>aliquem am: quod ista positio non intendit: sed per rationem speciale 
-      <lb ed="#V" n="93"/>vel contractam intendit ipsammet rationem deitatis non secundum omnem 
-      <lb ed="#V" n="94"/>modum quo considerabilis est: et secundum omnem veritatem de ipsa 
-      <lb ed="#V" n="95"/>scibilem: quod non sic obiicitur alicui intellectui creato: sed ipsam. 
-      <lb ed="#V" n="96"/>deitatem restrictam in ratione obiecti ad determinatum considera 
-      <lb ed="#V" n="97"/>tionis modum et gradum vel terminum veritatum: que de ipsa 
-      <lb ed="#V" n="98"/>sciri possunt. Et capiendo istum sensum de positione ista et primum exclu 
-      <lb ed="#V" n="99"/>dendo potius volui dicere quod deus non est subiectum sub ratione 
-      <lb ed="#V" n="100"/>deitatis: vel inquantum deus absolute: sed contracte: quam quod non sub 
-      ra<lb ed="#V" n="101" break="no"/>tione divinitatis absoluta: sed sub ratione contracta vel 
-      speciali<lb ed="#V" n="102" break="no"/>per illa enim aduerbia absolute et contracte non datur intelligi ta 
-      <lb ed="#V" n="103"/>cant.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1960">
-      ⁋ Ad 4m dico quod contractio potest dupliciter intelligi scilicet vel 
-      <lb ed="#V" n="104"/>lis specialis ratio addita: qualem arguentes contra istam positionem 
-      suspi<lb ed="#V" n="105" break="no"/>per additione alterius rationis minus communis (quemadmodum 
-      <lb ed="#V" n="106"/>consueuit dici quod genus contrahitur per differentiam: et sic non 
-      <lb ed="#V" n="107"/>accipitur hic: et per consequens ratio non procedit ad propositum) vel per re 
-      <lb ed="#V" n="108"/>strictionem consideratonis et exclusionem vniversalis comprehensionis: 
-      <lb ed="#V" n="109"/>quo hic intelligo. Et tunc si maior intelligatur de scientia prima in 
-      <lb ed="#V" n="110"/>lis est sola scientia dei ratio non vadit ad propositum.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1978">
-      ⁋ Ad 5m dicendum 
-      <lb ed="#V" n="111"/>genere creatarum est simpliciter falsa. Si vero de prima simpliciter qua 
-      <lb ed="#V" n="112"/>primo quod procedit ex falsa imaginatione de ratione contracta. vt 
-      su<lb ed="#V" n="113" break="no"/>pra dictum est. 2o dico quod si ro sit efficax concludit secundum arguen 
-      <lb ed="#V" n="114"/>tem quod ratio bonitatis faciet vnum per accidens cum deitate: quod 
-      <lb ed="#V" n="115"/>(vt puto) non concederet. patet consequentia. Nam ratio bonitatis est vna 
-      <lb ed="#V" n="116"/>ratio specialis sub qua posuerut aliqui deum esse subiectum in theomis: 
-      <lb ed="#V" n="117"/>quam opinionem ibide per rationem istam ipse vult reprobare. 
-      Qun<lb ed="#V" n="118" break="no"/>tione de continentia virtuali rationis subiectiue.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e1999">
-      ⁋ Ad 6um di 
-      <lb ed="#V" n="119"/>datur etiam illa ratio in suis probationibus super illa falsa imagina 
-      <lb ed="#V" n="120"/>co quod per rationem glorificatoris intelligo illud quo deus glorifi 
-      <lb ed="#V" n="121"/>cat et deitatem ipsam: sed restrictam obiectiue siue in ratione ob 
-      <lb ed="#V" n="122"/>iecti ad eum gradum vel latitudinem sue cognoscibilitatis secundum 
-      <lb ed="#V" n="123"/>quem glorificat et beatificat intellectum creatum: sicut supra 
-      <lb ed="#V" n="124"/>dictum est.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e2015">
-      ⁋ Ad 7m dicendum quod vadit secundum falsam imaginationem 
-      <lb ed="#V" n="125"/>de ratione glorificatoris: sicut et 3m.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e2020">
-      ⁋ Ad 8m eodem modo: et cum 
-      <lb ed="#V" n="126"/>hoc addo: quod si ratio valeret: posset eodem modo argui quod deus non 
-      <lb ed="#V" n="127"/>sit subiectum sub ratione essentie: quod est contra doctorem sic arguentem. hoc 
-      <lb ed="#V" n="128"/>patet etiam: quia hec propositio est theologica. deus est: sicut probatur ex illo 
-      <lb ed="#V" n="129"/>verbo apostoli ad hebreos. Accedentem ad deum oportet credere: quia est. 
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e2031">
-               <lb ed="#V" n="130"/>⁋ Ad quoium concedo quod sub ratione deitatis. non tamen absolute: sed  
-      <!--35.xml-->
-      <pb ed="#V" n="19-v"/>
-               <cb ed="#V" n="a"/>
-               <lb ed="#V" n="1"/>contracte vt dictum est. alis non nobiliori modo obiiceretur 
-      nobi<lb ed="#V" n="2" break="no"/>liori scientie scilicet scientie dei: quam minus nobili scilicet create: cuius 
-      opposi<lb ed="#V" n="3" break="no"/>tum assumit ratio: hac tamen contractione non obstante nobiliori 
-      <lb ed="#V" n="4"/>modo obiicitur theomirie: quam metaphyce vel alii habitui hbuano: 
-      <lb ed="#V" n="5"/>qui illis si obiicitur sub ratione deitatis obiicitur cum maiori 
-      re<lb ed="#V" n="6" break="no"/>strictione: cum nullus alius tot veritates de deo consideret 
-      <lb ed="#V" n="7"/>quot theolomia. Et ex hoc patet ad confirmationem.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e2057">
-      ⁋ Ad xmtum 
-      di<lb ed="#V" n="8" break="no"/>cendum quod false imaginat de illa ratione glorificatoris: sicut et  
-      <lb ed="#V" n="9"/>alie praecedentes.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e2064">
-      ⁋ Ad principalem nego antecedens. et vlterius dico: quod 
-      <lb ed="#V" n="10"/>simplex potest esse obiectum scientie. Et cum probatur primo. quia oportet quod subiectum 
-      <lb ed="#V" n="11"/>aliquo modo sit notum: et aliquo modo ignotum. Dico illud esse 
-      <lb ed="#V" n="12"/>verum de notitia complexa: que est affirmatio vel negatio: et 
-      ta<lb ed="#V" n="13" break="no"/>liter contingit simplex esse notum et ignotum. hoc est. potest 
-      ali<lb ed="#V" n="14" break="no"/>quid sciri de ipso et aliquid ignorari. Dictum autem philosophi 
-      intelli<lb ed="#V" n="15" break="no"/>gendum est de notitia diffinitiua: quae non est affirmatiso vel 
-      ne<lb ed="#V" n="16" break="no"/>gatio: sicut clare patet per Commentatorem ibidem. Cum enim non 
-      <lb ed="#V" n="17"/>omneat partem et partem non potest pars cognosci: et pars ignorari: 
-      <lb ed="#V" n="18"/>sicut in rebus compositis.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e2087">
-      ⁋ Ad aliam probationem dicendum quod philosophus 
-      <lb ed="#V" n="19"/>non absolute dicit in simplicibus non esse quaestionem neque 
-      doctri<lb ed="#V" n="20" break="no"/>nam: sed de quaestione propter quid: que querit quiditatem: ad quam 
-      <lb ed="#V" n="21"/>respondetur causa formalis de materia vel alia causa forme in materia 
-      <lb ed="#V" n="22"/>sicut agens et finis: que in simplicibus substantiis non conue 
-      <lb ed="#V" n="23"/>niunt. Sed tamen alius modus quaestionis reliquitur circa 
-      substan<lb ed="#V" n="24" break="no"/>tias simplices qui sufficit ad scientiam. Unde verba philosophi vbi 
-      <lb ed="#V" n="25"/>allegant sunt ista. Palam ergo quoniam in simplicibus non est 
-      <lb ed="#V" n="26"/>quaestio neque doctrina. Sed alter modus quaestionis talium. ecce quod 
-      <lb ed="#V" n="27"/>alique modum quaestionis dicit esse circa simplicia. aliquem vero 
-      <lb ed="#V" n="28"/>negat scilicet illum de quo immediate locutus est: et ille est de quo 
-      <lb ed="#V" n="29"/>dictum est. Unde Commentator ibidem exposito dicit. Mani 
-      <lb ed="#V" n="30"/>festum est quod in rebus simplicibus non compositis non queritur per 
-      <lb ed="#V" n="31"/>quare nec per quid: sed quaestio in istis alio modo erit: et idem dicit co 
-      <lb ed="#V" n="32"/>mento praecedente. Confirmatur ex intentione eorumdem qui plura in 
-      <lb ed="#V" n="33"/>1i2. meta. nituntur de simplicibus demonstrare.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e2122">
-      ⁋ Ad aliam 
-      <lb ed="#V" n="34"/>probationem antecedentis. cum dicitur quod nullum singulare potest esse subiectum 
-      <lb ed="#V" n="35"/>scientie. nego.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e2129">
-      ⁋ Ad primam probationem: dicendum quod non est necessium quod 
-      <lb ed="#V" n="36"/>subiectum scientie habeat partes subiectiuas. nec istud dicit philosophus: 
-      <lb ed="#V" n="37"/>sed vult quod vnius scientiae genere est considerare subiectum et partes 
-      <lb ed="#V" n="38"/>eius supple si habet partes.
-    </p>
-            <p xml:id="grvnZZ-d1e154-d1e2138">
-      ⁋ Ad aliam qua probatur de singula 
-      <lb ed="#V" n="39"/>ribus non esse scientiam. dico hoc esse intelligendum de 
-      singu<lb ed="#V" n="40" break="no"/>laribus corporalibus: vt patet ex tex. manifeste. et hoc tamen requi 
-      <lb ed="#V" n="41"/>rit sanum intellectum qui dicet alibi: de incorporali autem 
-      sin<lb ed="#V" n="42" break="no"/>gulari posse esse scientiam non negat philosophus: quinimmo 
-      concede<lb ed="#V" n="43" break="no"/>ret: cum ipse de deo multa conetur demonstrare in diuer 
-      <lb ed="#V" n="44"/>sis locis philosophie.
-    </p>
-         </div>
-      </body>
-   </text>
+          <lb ed="#V" n="64"/>14</ref>. dicit: <quote xml:id="grvnZZ-d1e154-Qd1e179" source="http://scta.info/resource/adt-l14-d1e1535@92-107">quod huic scientie tribuit illud tantummodo quo fides 
+          <lb ed="#V" n="65"/>saluberrima (que ad veram beatitudinem ducit) gignitur 
+          nu<cb ed="#V" n="b"/><lb ed="#V" n="66" break="no"/>tritur etc</quote>. Per hoc inuens quod circa idem subiectum fides et 
+          theolo<lb ed="#V" n="67" break="no"/>gia versantur. Idem vero subiectum est nostre fidei et visionis 
+          <lb ed="#V" n="68"/>beatorum. sicut probant verba apostoli prima ad corum. Uidemus nunc 
+          <lb ed="#V" n="69"/>per speculum in enigmate: tunc aut facie ad faciem. igitur etc. 
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e201">
+          <lb ed="#V" n="70"/>⁋ Inquaestione erunt articuli 2o. Nam primo videbitur quid sit ratio 
+          sub<lb ed="#V" n="71" break="no"/>lecti scientie inquantum huius modi. 2o videbitur de quaesito. 
+          <lb ed="#V" n="72"/>Quantum ad primum dicit dector quidam in prima 
+          le<lb ed="#V" n="73" break="no"/>ctura sua: quod ratio primi subiecti est 
+          contine<lb ed="#V" n="74" break="no"/>re in se primo virtualiter omnes veritates habitus: seu sicut dicit 
+          <lb ed="#V" n="75"/>in lectura parisien. notitiam omnium veritatum habitus.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e217">
+          ⁋ Pro 
+          <lb ed="#V" n="76"/>batur primo sic: subiectum primum continet propositiones immediatas: quia 
+          <lb ed="#V" n="77"/>subiectum illarum continet praedicatum. et ita euidentiam totius 
+          propo<lb ed="#V" n="78" break="no"/>nis. propositiones vero immediate continent conclusiones: igitur subiectum 
+          <lb ed="#V" n="79"/>propositionum immediatarum continet omnes veritates illius habitus. 
+          <lb ed="#V" n="80"/>igitur subiectum scientie continet omnes veritates scientie.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e230">
+          ⁋ 2o primitas 
+          <lb ed="#V" n="81"/>hic accipitur ex id est poste. ex diffinitione vniversalis secundum quod dicit 
+          adequa<lb ed="#V" n="82" break="no"/>tionem. obiectum aut se habet ad habitum: sicut causa ad effectum: non 
+          <lb ed="#V" n="83"/>est autem causa adequata: nisi contineat virtualiter totum effectum. 
+          <lb ed="#V" n="84"/>igitur etc.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e241">
+          ⁋ 3o in reportationibus ad idem sic arguit. In essen 
+          <lb ed="#V" n="85"/>tialiter ordinatis necesse est stare ad aliquod primum simpliciter. sed 
+          co<lb ed="#V" n="86" break="no"/>gnoscibilia alicuius scientie habent essentialem ordinem inter se in 
+          <lb ed="#V" n="87"/>cognoscibilitate: quia conclusiones cognoscuntur ex principiis: et 
+          princi<lb ed="#V" n="88" break="no"/>pia tandem (etiam si sunt immediata) cognoscuntur ex 
+          termi<lb ed="#V" n="89" break="no"/>nis: terminus etiam praedicati principii cognoscitur ex ratione 
+          sub<lb ed="#V" n="90" break="no"/>iecti: quia principia communiter sunt per se 2o modo: igitur subiectum cadit in 
+          <lb ed="#V" n="91"/>diffinitione praedicati 7o metha. In isto igitur ordine tandem statur 
+          <lb ed="#V" n="92"/>ad aliquod subiectum simplex quod est subiectum principii vel 
+          prin<lb ed="#V" n="93" break="no"/>cipiorum ex cuius notitia cognoscuntur omnia pertinentia ad scientiam: 
+          <lb ed="#V" n="94"/>et ipsum non est cognoscere ex aliis: illud igitur recte dicitur 
+          <lb ed="#V" n="95"/>subiectum primum scientie: quia in se continet primo virtualiter notitiam 
+          <lb ed="#V" n="96"/>pertinentium ad scientiam.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e270">
+          ⁋ Exponit aut quod dicit primo virtualiter 
+          <lb ed="#V" n="97"/>continere: quia illud est primum quod non depedet ab alio: sed alia ab 
+          <lb ed="#V" n="98"/>ipso. ita primo continere est non dependere ab aliis in continendo: 
+          <lb ed="#V" n="99"/>sed alia ab ipso: hoc est per impossibile circunscripto omni alio in 
+          <lb ed="#V" n="100"/>re: manente intellectu eius adhuc contineret: nihil autem aliud  
+          <lb ed="#V" n="101"/>continet nisi per rationem eius.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e283">
+          ⁋ hec opinio non apparet mihi contra 
+          <lb ed="#V" n="102"/>vera neque eius motiua. Ad cuius falsitatem ostendendum praemitto: 
+          <lb ed="#V" n="103"/>quod subiectum et passio in proposito possunt dupliciter accipi. vno modo pro 
+          <lb ed="#V" n="104"/>terminis mentalibus: quorum vnus vel formaliter secundum se vel 
+          equi<lb ed="#V" n="105" break="no"/>ualenter est de altero praedicabilis in 2o modo dicendi per se. ita quod 
+          <lb ed="#V" n="106"/>ille qui sic potest de altero praedicari dicatur patio: et ille de quo 
+          <lb ed="#V" n="107"/>praedicatur dicatur subiectum. Dico autem formaliter secundum se: si mentalis 
+          <lb ed="#V" n="108"/>proportio essentialiter componatur ex distinctis partibus: quarum vna dicatur 
+          <lb ed="#V" n="109"/>subiectum: aa vero praedicatum vt multi opinantur. Si vero propositio huiusmodi 
+          <lb ed="#V" n="110"/>non sic componat: sed sit actus eque simplex vt aliquis terminus 
+          <lb ed="#V" n="111"/>mentalis qui non est propositio equiualens: tamen in significando pluribus talibus 
+          <lb ed="#V" n="112"/>terminis et propositioni vocali vel alteri coposite modo predicto: 
+          <lb ed="#V" n="113"/>aut etiam que equiualiet mentali composite: si quae foret talis: tunc in 
+          <lb ed="#V" n="114"/>quam talis patio mentalis non nisi equiualenter dicitur praedicari de 
+          <lb ed="#V" n="115"/>subiecto. Alio modo possunt ista accipi pro rebus ipsis pro quibus 
+          termi<lb ed="#V" n="116" break="no"/>ni supponunt: vel quas significant. Ista satis nota sunt ex 
+          <lb ed="#V" n="117"/>vsu communi scolastico.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e321">
+          ⁋ hoc praemisso pono sex conclusiones Prima 
+          <lb ed="#V" n="118"/>est accipiendo subiectum et passione 2o modo non omne subiectum 
+          <lb ed="#V" n="119"/>scientiae vel principii contitet virtualiter primo suam passionem.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e328">
+          ⁋ 2a quod no 
+          <lb ed="#V" n="120"/>subiecti non sic contim. 8. primo virtualiter noticiam passionis: et si 
+          sub<lb ed="#V" n="121" break="no"/>iectum et paetio primo modo accepta non sunt aliud quam notitit 
+          incomple<lb ed="#V" n="122" break="no"/>xe subiecti et passionis 2o modo acceptorum: vt aliqui volunt tunc 
+          <lb ed="#V" n="123"/>idem est dictu primo: modo accipendo subiectum et passionem: quod 
+          su<lb ed="#V" n="124" break="no"/>biectum non contim passionem.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e341">
+          ⁋ 3a quod notitia incomplexa subiecti et 
+          <lb ed="#V" n="125"/>notitia passionis incomplexa. 2o modo acceptorum subiectum et passio ad  
+          <lb ed="#V" n="126"/>intellectum iam datum non continent virtualiter primo ipsum primum seu 
+          pro<lb ed="#V" n="127" break="no"/>positionem immediatam: que est euidens notitia.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e350">
+          ⁋ 4a quod verum principium non 
+          <lb ed="#V" n="128"/>continet primo virtualiter aliud seu vna praemissa aliam.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e355">
+          ⁋ 5a quod 
+          <lb ed="#V" n="129"/>subiectum scientie non contitet virtualiter primo omnes veritates illius scientie. Ex quo 
+          <lb ed="#V" n="130"/>concluditur quod ratio assignata per doc. istum non est ratio primi 
+          <!--30.xml-->
+          <pb ed="#V" n="17-r"/>
+          <cb ed="#V" n="a"/>
+          <lb ed="#V" n="1"/>subiecti scientie. 6o dicetur que sit ratio primi subiecti scientie 
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e371">
+          <lb ed="#V" n="2"/>⁋ Primam conclusionem probo primo sic. si quodlibet subiectum scientie 
+          <lb ed="#V" n="3"/>continent sic suam passione: quelibet huiusmodi passio esset alia res ali 
+          <lb ed="#V" n="4"/>ipso subiecto actualis vel potentialis. Consequens est falsum. 
+          <lb ed="#V" n="5"/>consequentia patet. quia talis continentia virtualis est continentia causalis 
+          <lb ed="#V" n="6"/>et effectiua secundum istum doctorem. quod patet tam in ratione sua 2a qua 
+          <lb ed="#V" n="7"/>dicit quod obiectum seu subiectum quia indresenter vno pro altero vtitur. 
+          <lb ed="#V" n="8"/>se habet ad habitum: sicut causa ad effectum: et ex hoc concludit quod 
+          <lb ed="#V" n="9"/>virtualiter continet. Item manu propria postquam exposuerat quid  
+          <lb ed="#V" n="10"/>est primo virtualiter continere magis hoc ipsum declarans addidit 
+          <lb ed="#V" n="11"/>in margine. idem inquit est a. vt habitualiter cognitum continere b. 
+          <lb ed="#V" n="12"/>quod est speciem a. in memoria posse gignere speciem b. in intelligenia. 
+          <lb ed="#V" n="13"/>patet igitur quod loquitur in hac materia de continema virtuali causae effectiue. 
+          <lb ed="#V" n="14"/>Constat autem quod omnis res sic ab alio contenta: est alia res ab illo: 
+          <lb ed="#V" n="15"/>actualis vel potentialis: actualis inquam: si actu ipsa est: 
+          po<lb ed="#V" n="16" break="no"/>tentialis vero si non est actu.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e407">
+          ⁋ Sed falsitatem consequentis probo: et 
+          <lb ed="#V" n="17"/>sumo gratia exempli: lineam rectam finitam: vel angulum rectilineum 
+          <lb ed="#V" n="18"/>de vtroque enim probatur primo euclidis quod est diuisibilis in duo 
+          <lb ed="#V" n="19"/>media. Si ista passio est alia res etc. Uel est aliqua res actu 
+          <lb ed="#V" n="20"/>existens in linea qua ipsa linea est formaliter diuisibilis quae vocatur. 
+          <lb ed="#V" n="21"/>diuisibilitas: vel linea non est diuisibilis per huiusmodi 
+          diuisibi<lb ed="#V" n="22" break="no"/>litatem quam habet actualiter. sed per diuisionem quam habet possibiliter. 
+          <lb ed="#V" n="23"/>Si detur primum possibile erit per dei potentiam esse lineam absque 
+          <lb ed="#V" n="24"/>tali natuam patet. Tum quia accidens potest esse sine subiecto: et per consequens 
+          <lb ed="#V" n="25"/>subiectum sine accidente: Tum quia deus potest non causare illam 
+          diuisi<lb ed="#V" n="26" break="no"/>bilitatem. et similiter suspendere actionem linesse respectum eius: sicut 
+          <lb ed="#V" n="27"/>suspendit actionem ignis in camino puerorum: et sic erit linea 
+          <lb ed="#V" n="28"/>et indiuisibilis: quod implicat incompossibilia: cum omnis linea sit 
+          <lb ed="#V" n="29"/>magnitudo: in primo mo dicendi per se. Si detur 2m. igitur linea quando 
+          <lb ed="#V" n="30"/>diuiditur causat diuisionem in seipsa: quod est absurdum.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e440">
+          ⁋ Praeterea aut 
+          <lb ed="#V" n="31"/>talis divisio recipitur in linea antequam sit diuisa: aut post: aut 
+          <lb ed="#V" n="32"/>simul: dum est primo recepta in linea: linea est primo diuisa. Non 
+          <lb ed="#V" n="33"/>primum: quia tunc diuisio esset in linea: et tamen linea non esset diuisa: 
+          <lb ed="#V" n="34"/>quod videtur implicare: et praeterea: non apparet quare vel quo 
+          li<lb ed="#V" n="35" break="no"/>nea postea erit diuisa. Nec 2m: tum quia linea prius esset 
+          di<lb ed="#V" n="36" break="no"/>uisa quam haberet diuisionem: quod secundum illam imaginationem 
+          <lb ed="#V" n="37"/>implicat: sicut quod aliquid sit album antequam habeat albedi 
+          <lb ed="#V" n="38"/>nem.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e460">
+          ⁋ Praeterea. ad quid postea superueniret illa diuisio. Si 
+          <lb ed="#V" n="39"/>detur 3m. igitur vel in quoalibet parte linesse diuise recipitur 
+          <lb ed="#V" n="40"/>tota diuisio: vel pars diuisionis in parte linesse: et si vtrumque 
+          <lb ed="#V" n="41"/>horum detur. sequitur quod vel quelibet pars erit diuisa vel in 
+          <lb ed="#V" n="42"/>aliquo erit diuisio: et ipsum non erit diuisum: que absurda sunt 
+          <lb ed="#V" n="43"/>penitus. Eodem modo modo posset argui de angulo.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e473">
+          ⁋ Item esse 
+          <lb ed="#V" n="44"/>annihilabile est passio communis omni creature. si igitur 
+          annihila<lb ed="#V" n="45" break="no"/>bilitas sit alia res actualiter existens in creatura. poterit deus 
+          <lb ed="#V" n="46"/>illam annihilare: et creatura remanebit inannihilabilis 
+          <lb ed="#V" n="47"/>Et si sit aliqua res possibilis esse in creatura. sequitur quod 
+          <lb ed="#V" n="48"/>creatura potest eam in se causare: et sic se annihilare: et vlterius cum 
+          <lb ed="#V" n="49"/>annihilatio recipietur in creatura: creatura erit et non erit:  
+          <lb ed="#V" n="50"/>erit quidem exquo recipit in se entitatem: non erit vero: quia 
+          <lb ed="#V" n="51"/>erit annihilata: ita de multis aliis passionibus posset ostem 
+          <lb ed="#V" n="52"/>di quod non sunt tales res distincte a suis subiectis: immo de 
+          <lb ed="#V" n="53"/>omnibus talibus que praedicando reddunt propositionem de possibili 
+          <lb ed="#V" n="54"/>Secudo patet consequentis falsitas de passionibus de deo dictis: sicut 
+          <lb ed="#V" n="55"/>creatium incorruptibile et alie multe que de ipso 
+          praedican<lb ed="#V" n="56" break="no"/>in 2o modo dicendi per se. et tamen nulla significat aliquam rem a 
+          <lb ed="#V" n="57"/>deo aliam que sit passio dei.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e506">
+          ⁋ 2o ex eodem potest argui 
+          ac<lb ed="#V" n="58" break="no"/>principale sic. Nulla res ab aliquo virtualiter sic contenta 
+          <lb ed="#V" n="59"/>est in deo. igitur non omne subiectum 2o modo continet virtuali 
+          <lb ed="#V" n="60"/>ter prassione id est id quod significat: et pro quo supponit passit 
+          <lb ed="#V" n="61"/>primo modo dicta: antecedens et consequentia clara sunt.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e517">
+          ⁋ 3o nulla creatura 
+          <lb ed="#V" n="62"/>continent primo aliquam rem virtualiter. igitur non omne subiectum etc. 
+          <lb ed="#V" n="63"/>consequentia patet. quia multe passiones conueniunt creaturis. antecedens 
+          proba<lb ed="#V" n="64" break="no"/>tur. quia impossibile est aliquam rem esse vel fieri quin 
+          imen<lb ed="#V" n="65" break="no"/>diate a deo saltem partialiter causaretur.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e529">
+          ⁋ 4 arguitur 
+          <!--30.xml-->
+          <cb ed="#V" n="b"/> 
+          <!-- 17-r b -->
+          <lb ed="#V" n="66"/>secundum intentionem philosophi nam spericitas est passio de celo et 
+          <lb ed="#V" n="67"/>astris demonstrabilis. et tamen esto quod sit res distincta a celo: 
+          <lb ed="#V" n="68"/>non tamen virtualiter continetur ab eo: cum ipsum celum secundum intentio 
+          <lb ed="#V" n="69"/>nem philosophi. non sit causa effectiua sue spericitatis: cum illa sit 
+          <lb ed="#V" n="70"/>eterna: et res eterne secundum eum non habeant causam agentem proprie 
+          <lb ed="#V" n="71"/>dictam. vt patebit 2o lib.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e551">
+          ⁋ 2a conclusio probatur primo sic. omnis 
+          notitia<lb ed="#V" n="72" break="no"/>primo continens virtualiter aliam notitiam continet primo 
+          virtua<lb ed="#V" n="73" break="no"/>liter omnem aliam notitiam sine qua causaliter illa haberi non potest. 
+          <lb ed="#V" n="74"/>hoc patet ex expositione eorum de primo virtualiter continere: sed non 
+          <lb ed="#V" n="75"/>cuiuslibet subiecti notitia continet virtualiter omnem notitiam: 
+          <lb ed="#V" n="76"/>sine qua causaliter notitia passionis non potest haberi. igitur etc. Magistr 
+          <lb ed="#V" n="77"/>ior nota est in his passionibus: quae connotant res distinctas a 
+          <lb ed="#V" n="78"/>subiecto: sicut esse informabile: quod est passio materie: esse 
+          beatifi<lb ed="#V" n="79" break="no"/>cabile: quod est passio rationalis creature. esse risibile: quod est 
+          <lb ed="#V" n="80"/>passio hominis: et sic de multis aliis. Constat autem quod notitia 
+          <lb ed="#V" n="81"/>materie non continet primo virtualiter notitiam forme. cuius tamen notitie 
+          <lb ed="#V" n="82"/>tia causaliter praexigitur ad notitiam illius passionis. Similiter nec 
+          no<lb ed="#V" n="83" break="no"/>titia creature rationalis. primo virtualiter continet notitiam btintu 
+          <lb ed="#V" n="84"/>dinis. nec notitia hominis: risus seu actus ridendi. et hec omnia 
+          <lb ed="#V" n="85"/>probantur: quia nulla notitia vnius rei continet primo virtualiter 
+          noti<lb ed="#V" n="86" break="no"/>tiam alterius cloquor de rebus creatis) aut enim intuitiva 
+          conti<lb ed="#V" n="87" break="no"/>net intuitiuam: aut intuitiua abstractiuam: aut abstractiua 
+          <lb ed="#V" n="88"/>in uitiuam: aut abstractiua abstractiuam. non primum. tum quia per 
+          <lb ed="#V" n="89"/>notitiam intuitiuam vnius rei non potest haberi intuitiua alterius. 
+          <lb ed="#V" n="90"/>vt probabitur infra. dinctine e tum quia multo magis huiusmodi notitia potest causari 
+          <lb ed="#V" n="91"/>ab ipsamet re cuius est intuitiua: et per consequens non primo virtualiter 
+          con<lb ed="#V" n="92" break="no"/>tinet a notitia intuitiua alterius. nec 2m: quia vel 
+          abstracti<lb ed="#V" n="93" break="no"/>uam communem et confusam: hoc non: quia talis est ab aliquo poterit 
+          <lb ed="#V" n="94"/>causari: vel propriam et distinctam: et hoc non etiam: quia nulla talis 
+          <lb ed="#V" n="95"/>potest haberi nisi praehabita intuitiua eiusdem rei: vt infra 
+          ibi<lb ed="#V" n="96" break="no"/>dem probabitur. nec 3m potest dici. Tum quia abstractiua non potest 
+          <lb ed="#V" n="97"/>esse prima: et per consequens nec primo continere. Tum quia multo minus 
+          <lb ed="#V" n="98"/>per abstractiuam vnius rei potest haberi intuitiua alterius quam 
+          <lb ed="#V" n="99"/>per intuitiuam. Et secundum non est possibile. vt probatum est. 
+          <lb ed="#V" n="100"/>Nec quartum etiam potest dari propter causas iam tactas.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e616">
+          ⁋ 
+          Con<lb ed="#V" n="101" break="no"/>firmatur. quia vt cuilibet occurrit numquam naturaliter quis haberet 
+          di<lb ed="#V" n="102" break="no"/>stinctam notitiam de risibilitate seu de esse risibile 
+          abstra<lb ed="#V" n="103" break="no"/>ctiuam vel intuitiuam: nisi quia perciperet intuitiue vel per 
+          <lb ed="#V" n="104"/>cepisset actum ridendi. et per consequens nunquam per solam notitiam 
+          <lb ed="#V" n="105"/>quam habere posset naturaliter de homine posset habere notitiam huius 
+          <lb ed="#V" n="106"/>passionis.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e632">
+          ⁋ Praeterea passio corporis radiosi est posse causare 
+          ca<lb ed="#V" n="107" break="no"/>lorem in corpore illuminabili et calefactibili. Et passio 
+          reu<lb ed="#V" n="108" break="no"/>barbari est esse purgatiuum colere: quinimmo sunt passiones 
+          <lb ed="#V" n="109"/>immediate de eis cognoscibiles absque demonstratione: quelibet 
+          <lb ed="#V" n="110"/>enim harum est immediata. omne radiosum est calefactiuum: et 
+          <lb ed="#V" n="111"/>omne reubarbarum est purgatiuum colere. Et tamen nec notitia cor 
+          <lb ed="#V" n="112"/>poris radiosi primo virtualiter continet notitiam illius passionis: cum 
+          <lb ed="#V" n="113"/>non contineat notitiam primam calorum. Nec notitia reubar. 
+          con<lb ed="#V" n="114" break="no"/>tinet primo notitiam sue passionis: cum non contineat primam notitiam 
+          <lb ed="#V" n="115"/>colere: sine cuius notitia illa passio cognosci non potest. Unde 
+          <lb ed="#V" n="116"/>quantumcumque homo videret corpus radiosum vel reubar. nisi et 
+          <lb ed="#V" n="117"/>perciperet vel percepisset calorem: et coleram per aliam notitiam non 
+          <lb ed="#V" n="118"/>causatam ab illa visione: nunquam cognosceret quid sit posse 
+          <lb ed="#V" n="119"/>causare calorem: aut posse coleram purgare. Similiter posset dici de 
+          <lb ed="#V" n="120"/>multis aliis rerum passionibus.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e665">
+          ⁋ Praeterea ad hominem sic. si notitia 
+          <lb ed="#V" n="121"/>subiecti contineret sic notitiam passionis. igitur per cuiuscumque 
+          re<lb ed="#V" n="122" break="no"/>notitiam: absque cuiuscumque alterius rei notitia. posset 
+          euiden<lb ed="#V" n="123" break="no"/>ter cognosci de illa quaelibet passio eius. consequens est falsum. quantumcumquoe 
+          <lb ed="#V" n="124"/>enim quis intueatur solem vel triangulum nunquam ex hac notitia 
+          <lb ed="#V" n="125"/>praecise: et per consequens nec ex aliqua alia notitia primo cognosceret euidenter 
+          <lb ed="#V" n="126"/>solem esse calefactiuum: aut angulos trianguli valere duos 
+          re<lb ed="#V" n="127" break="no"/>ctos. quinimmo ad cognoscendum primum requiritur notitia calorum qua numquam 
+          <lb ed="#V" n="128"/>per vllam notitiam intuitiuam solis prcise potest haberi. et ad 
+          con<lb ed="#V" n="129" break="no"/>gnoscendum 2m requiritur notitia anguli recti: et notitia anguli 
+          ex<lb ed="#V" n="130" break="no"/>trinseci: vel alicuius alterius quod sit medium deueniendi in praedi¬ 
+          <!--31.xml-->
+          <pb ed="#V" n="17-v"/>
+          <cb ed="#V" n="a"/>
+          <lb ed="#V" n="1"/>ctam notitiam: sicut docet experientia.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e698">
+          ⁋ Item esse a deo con 
+          <lb ed="#V" n="2"/>seruabile sine subiecto: esse perpetuabile: esse annihilabile 
+          <lb ed="#V" n="3"/>sunt passiones accidentis corporalis sensibilis et a nobis 
+          di<lb ed="#V" n="4" break="no"/>stincte cognoscibilis: et tamen per nullam notitiam intuitiuam (quam 
+          <lb ed="#V" n="5"/>de huiusmodi accidente possumus habere) possunt tales passiones a 
+          <lb ed="#V" n="6"/>nobis euidenter de illo cognosci. Consequentia patet secundum dicta 
+          <lb ed="#V" n="7"/>eius. Nam notitia passionis et subiecti. cotinent primas 
+          propo<lb ed="#V" n="8" break="no"/>sitiones: et ille continent conclusiones. igitur de primo ad vltimum. notitie 
+          <lb ed="#V" n="9"/>subiecti continet omnes conclusiones: et hoc consequens satis expresse ipse dat 
+          <lb ed="#V" n="10"/>supra in eius probatione prima.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e721">
+          ⁋ 3a conclusio probatur. nam multe sunt 
+          pro<lb ed="#V" n="11" break="no"/>pones immediate quae sunt principio artis et scientie in quibus 
+          praedicani<lb ed="#V" n="12" break="no"/>passiones proprie de subiectis: nec tamen ad eas sumendas 
+          suffi<lb ed="#V" n="13" break="no"/>cit notitia incomplexa etiam distincta subiecti: et notitia 
+          dicitu<lb ed="#V" n="14" break="no"/>stincta passionis: quales sunt ille que sumuntur per viam 
+          sen<lb ed="#V" n="15" break="no"/>sus et experientie: vt docet. Praeterea in prohemio metaph. et 2o post. 
+          <lb ed="#V" n="16"/>in fine. vbi gratia. omne reubarbarum purgat coleram. vel omnis 
+          <lb ed="#V" n="17"/>talis herba curat talem infirmitatem. Smne corpus 
+          lumi<lb ed="#V" n="18" break="no"/>nosum post corpus opacum si oppositum sit sibi: causat vmbram. 
+          <lb ed="#V" n="19"/>et multe similes. Constat enim quod quis potest distinctam notitiam 
+          <lb ed="#V" n="20"/>incomplexam habere de reubarbaro: et de colera etiam: et de eo quod 
+          <lb ed="#V" n="21"/>est purgare: qui tamen non cognosceret quod omne reubarbarum 
+          <lb ed="#V" n="22"/>est purgatiuum colere: et de facto hoc in multis homnibus 
+          con<lb ed="#V" n="23" break="no"/>tingit. quinimmo per huiusmoi notitias simplices praecise nunquam illud 
+          <lb ed="#V" n="24"/>cognoscere quis poterit: immo quod plus est: etiam si quis 
+          no<lb ed="#V" n="25" break="no"/>uit quod hoc singulare reubarbarum est purgatiuum colere:  
+          <lb ed="#V" n="26"/>illud: et sic de pluribus: ad habendum notitia vniversalem: quod omne reu 
+          <lb ed="#V" n="27"/>barbarum et: necessario requiritur quedam alia notitia 
+          vni<lb ed="#V" n="28" break="no"/>uersalis non causata ex illis singularibus: qualis est secundum aliquos 
+          <lb ed="#V" n="29"/>si aliquod absolutum vel proprietas consequens absolutum competit 
+          ali<lb ed="#V" n="30" break="no"/>cui indiuiduo: cuilibet indiuiduo eiusdem rationis potest 
+          ali<lb ed="#V" n="31" break="no"/>quod simile competere: aut alia aliqua vniversalis notitia et 
+          eui<lb ed="#V" n="32" break="no"/>dens: cuius virtute saltem partialiter: quod in aliquibus singula 
+          <lb ed="#V" n="33"/>ribus est expartum: euidenter sit notum omnibus talibus conuenire.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e773">
+          ⁋ Si 
+          <lb ed="#V" n="34"/>militer est in alio exo de corpore luminoso. nam possibile est quod 
+          ali<lb ed="#V" n="35" break="no"/>quis cognoscat per visum corpus luminosum. vbi gratia. solem: et 
+          <lb ed="#V" n="36"/>cognoscat etam vmbram: quam aliquod aliud luminosum sibi od 
+          <lb ed="#V" n="37"/>cultatum per interpositionem corporis opaci causat. ignorans a quo 
+          <lb ed="#V" n="38"/>vmbra quam videt causatur: et an corpus aliquod luminosum illam 
+          <lb ed="#V" n="39"/>causat vel non: iste talis per homo simplices notitias precise 
+          <lb ed="#V" n="40"/>nunquam cognosceret omne corpus luminosum esse causatiuum vmbre 
+          <lb ed="#V" n="41"/>post corpus opacum: et quod plus est: non cognosceret quod hoc corp 
+          <lb ed="#V" n="42"/>luminosum vel illud est causatiuum vmbre: nisi plures alie 
+          no<lb ed="#V" n="43" break="no"/>titie concurrant: de quibus ad praesens non est serundumo prolixior 
+          facien<lb ed="#V" n="44" break="no"/>dus.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e799">
+          ⁋ Ex his patet quod notitie incomplexe subiecti distincte et 
+          praedi<lb ed="#V" n="45" break="no"/>cati seu passionis non continent primo virtualiter notitiam complexa 
+          <lb ed="#V" n="46"/>principii.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e806">
+          ⁋ 4a conclusio probatur primo sic. quia alicuius demonstrationis 
+          <lb ed="#V" n="47"/>vtraque praemissa est immediata. ergo aliquod principium non continet 
+          <lb ed="#V" n="48"/>aliud eiusdem demonstrationis. consequentia tabet ex dictis istorum qui 
+          di<lb ed="#V" n="49" break="no"/>cunt in 3a ratione sua: quod si principio sint immediata cognoscuntur ex 
+          <lb ed="#V" n="50"/>terminis: quamuis hoc dictum eorum non sit vniversaliter verum: cum non omnis 
+          <lb ed="#V" n="51"/>propositio immediata sit per se nota. vt patet ex praecedenti conclusione. igitur 
+          <lb ed="#V" n="52"/>nec ex terminis nota.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e822">
+          ⁋ 2o in demonstrationibus 
+          geometri<lb ed="#V" n="53" break="no"/>cis: quarum vtraque praemissarum resoluitur mediate vel 
+          immedia<lb ed="#V" n="54" break="no"/>te in communes conceptiones vel petitiones et neutra in aliam 
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e829">
+          <lb ed="#V" n="55"/>⁋ 5a conclusio probatur. primo quia subiectum seu notitia subiecti non continet 
+          <lb ed="#V" n="56"/>primo virtualiter propositiones immediatas. igitur nec conclusionem. patet consequentia 
+          <lb ed="#V" n="57"/>qui propositiones immediate quae sunt praemisse in demratoe continem 
+          <lb ed="#V" n="58"/>virtualiter conclusionem etiam secundum istum. igitur vel ipse praemisse continent primo 
+          <lb ed="#V" n="59"/>virtualiter conclusionem: et si sic. igitur subiectum non continet primo. cum secundum 
+          <lb ed="#V" n="60"/>stum doctorem standum sit in tali ordine cognoscentis ad vnum 
+          <lb ed="#V" n="61"/>primum: vel non continet primo: et tunc deducitur eorum continentia in 
+          <lb ed="#V" n="62"/>aliud. aut igitur in aliud a subiecto: et habetur principale 
+          propo<lb ed="#V" n="63" break="no"/>situm scilicet quod subiectum non primo continet: vel reducitur in subiectum: et tunc 
+          <lb ed="#V" n="64"/>sequitur quod subiectum cotinet propositiones immediatas: cuius oppositum est 
+          <lb ed="#V" n="65"/>antecedens assumptum. Antecedens probat. tum quia subiectum principii non con<cb ed="#V" n="b"/><lb ed="#V" n="66" break="no"/>tinet 
+          primo passionem. vt patet ex prima conclusione. nec 
+          notitia<lb ed="#V" n="67" break="no"/>subiecti notitiam passionis: vt patet ex secunda. igitur nec 
+          noti<lb ed="#V" n="68" break="no"/>tiam principii: cum notitia principii non possit sine notitia 
+          <lb ed="#V" n="69"/>subiecti et praedicati haberi. Tum quia notitia subiecti et cum 
+          <lb ed="#V" n="70"/>notitia praedicati non continet primo notitiam complexam principu 
+          <lb ed="#V" n="71"/>seu principium ipsum: vt patet ex 3a conclusione. igitur nec notitia 
+          sube<lb ed="#V" n="72" break="no"/>iecti scientie: quod est etiam alterius principii subiectum continet 
+          pri<lb ed="#V" n="73" break="no"/>mo propositiones ipsas immediatas. Tum quia eadem communis 
+          conce<lb ed="#V" n="74" break="no"/>ptio ad plurium conclusionum diuersorum subiectorum 
+          noti<lb ed="#V" n="75" break="no"/>tiam immediate concurrit. vt patet scientibus geometriam. igitur a 
+          <lb ed="#V" n="76"/>nullo subiecto illarum primo virtualiter continetur.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e887">
+          ⁋ 2o si 
+          quod<lb ed="#V" n="77" break="no"/>libet subiectum sic continet omnem veritatem scientie. igitur vel 
+          <lb ed="#V" n="78"/>quodlibet subiectum contineret primo notitiam cuiuslibet cause 
+          <lb ed="#V" n="79"/>vel effectus: per quam vel per quem conclusio demonstratur: vel 
+          nul<lb ed="#V" n="80" break="no"/>la scientia haberetur per causam vel effectum. Falsitas consequentis quantum 
+          <lb ed="#V" n="81"/>ad 2am partem patet per omnes. Quantum autem ad primam partem patet ex 
+          <lb ed="#V" n="82"/>dictis: quoniam nulla res creata continet primo virtualiter primam 
+          <lb ed="#V" n="83"/>notitiam alterius rei: vnde nec notitia cause continet primam 
+          no<lb ed="#V" n="84" break="no"/>titiam effectus: nec econverso alioquin ad omnia producibilia a sole 
+          co<lb ed="#V" n="85" break="no"/>gnoscenda sufficeret incoplexa notitia solis: quod est falsum. 
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e909">
+          <lb ed="#V" n="86"/>⁋ Item tunc surdus a natiuitate cum possit habere notitiam de 
+          <lb ed="#V" n="87"/>causis sonorum: posset etiam de sonis propriam notitiam habere: et qui a 
+          <lb ed="#V" n="88"/>natiuitate caret odoratu posset habere scientiam de odoribus cum 
+          <lb ed="#V" n="89"/>ipse per tactum posset habere notitiam de qualitatibus primis et 
+          ele<lb ed="#V" n="90" break="no"/>mentis quae sunt causae odorum. vt patet in de sensu et sen. sed hec omnia 
+          <lb ed="#V" n="91"/>falsa sunt. igitur etc. consequentia vero nota est: quoniam praemisse: 
+          exprimen<lb ed="#V" n="92" break="no"/>tes causam non possunt esse note sine notitia cause. Et similiter 
+          exprimen<lb ed="#V" n="93" break="no"/>tes effectum sine notitia illius.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e929">
+          ⁋ Ex hac conclusione vlterius infero 
+          <lb ed="#V" n="94"/>quod aliud dictum huius doctoris est falsum scilicet ratio sub qua: vel 
+          con<lb ed="#V" n="95" break="no"/>ceptus sub quo aliquid est subiectum in aliqua scientia: est contentiua 
+          <lb ed="#V" n="96"/>primo virtualiter omnium veritatum illius scientie: vnde per hoc probat 
+          <lb ed="#V" n="97"/>ipse: quod deus non est subiectum theo modo sub aliqua ratione communi: nec 
+          sub<lb ed="#V" n="98" break="no"/>aliqua ratione attributali: nec sub aliqua ratione respectiua ad  
+          <lb ed="#V" n="99"/>extra. Falsitas autem huius patet ex dictis: quoniam si non omne subiectum 
+          com<lb ed="#V" n="100" break="no"/>tinet sic veritates cuiuslibet scientie: igitur nec inquantum tale vel 
+          <lb ed="#V" n="101"/>tale: sub tali vel tali conceptu vel ratione est contentiuum: nec 
+          <lb ed="#V" n="102"/>ipsa ratio sub qua est subiectum: est contentiua omnium veritatum illius 
+          <lb ed="#V" n="103"/>scientie.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e953">
+          ⁋ hoc etiam 2o sic ostenditur instando in multis. corpus enim 
+          <lb ed="#V" n="104"/>humanum: vt communiter dicitur est subiectum in medicina vel saltem 
+          <lb ed="#V" n="105"/>in aliqua parte eius: inquantum scilicet ipsum est susceptiuum sanitatis 
+          <lb ed="#V" n="106"/>vel infirmitatis: seu inquantum est sanabile vel egrotabile: 
+          <lb ed="#V" n="107"/>de illo autem inquantum huiusmodi considerat medicus quod ipsum ex talibus 
+          <lb ed="#V" n="108"/>vel talibus mebris est compositum et humoribus talibus 
+          com<lb ed="#V" n="109" break="no"/>plexionatum. nec tamen ista sibi competunt inquantum est sanabilis 
+          <lb ed="#V" n="110"/>et egrotabilis: sed potius econverso
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e971">
+          ⁋ Item homo consideratur am 
+          mo<lb ed="#V" n="111" break="no"/>rali philosopho inquantum est susceptiuus virtutis et vitii: et propterea 
+          <lb ed="#V" n="112"/>considerat de ipso quod est liberi arbitrii et operatiuus secundum 
+          <lb ed="#V" n="113"/>electionem: nec tamen quia est susceptiuus virtutis et vitii: ideo est 
+          <lb ed="#V" n="114"/>liberi arbitrii: cum illud sibi per prius competat.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e982">
+          ⁋ Celum quaque 
+          <lb ed="#V" n="115"/>a phyco consiedratur inquantum tali motu est mobile. Et ex 
+          <lb ed="#V" n="116"/>hoc probat de ipso quod est essentia 5a simplex sperica: quod est eius 
+          <lb ed="#V" n="117"/>motor eternus: et a magnitudine separatus: quarum nullam. 
+          <lb ed="#V" n="118"/>veritatem continet celum primo: quia sic mobile est vel mouetur: 
+          <lb ed="#V" n="119"/>quamuis ex hoc ille inferantur.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e996">
+          ⁋ Praeterea dictum esset verum sequeretur 
+          <lb ed="#V" n="120"/>quod cuiuslibet scientie subiectum esset subiectum eius sub propria 
+          intrinse<lb ed="#V" n="121" break="no"/>ca et quiditatiua ratione sua: consequens est falsum: vt patet in multis 
+          <lb ed="#V" n="122"/>aliis scientiis de eisdem rebus sub alia et alia ratione consideranti 
+          <lb ed="#V" n="123"/>bus. cum tamen ratio propria quiditatiua non sit nisi vna: vt patet in exenm 
+          <lb ed="#V" n="124"/>plis propositis. et de astrolomia: et phyca considerantibus corpora 
+          <lb ed="#V" n="125"/>celestia sub aliqua posteriori ratione ipsius.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1012">
+          ⁋ Praeterea sequeretur quod omnis 
+          <lb ed="#V" n="126"/>scientia demonstraret suam conclusionem a priori: quod certum est apud  
+          <lb ed="#V" n="127"/>omnes esse falsum. probatur consequentia. quia omnis scientia resoluit ad proposiones 
+          <lb ed="#V" n="128"/>immediatas. Si igitur et ille resoluantur ad subiectum secundum rationem pin 
+          <lb ed="#V" n="129"/>quam primo continet virtualiter veritatem conclusam: cum illa continentia 
+          <lb ed="#V" n="130"/>sit secundum opinionem causalis: vt supra probatum est: omnis scientifica reso 
+          <!--32.xml-->
+          <pb ed="#V" n="18-r"/>
+          <cb ed="#V" n="a"/>
+          <lb ed="#V" n="1"/>lutio vltimate stabit ad causam. Dicetur forsitan quod iste doctor 
+          <lb ed="#V" n="2"/>non intendit dicere quod subiectum per rationem sub qua est subiectum contineat 
+          <lb ed="#V" n="3"/>virtualiter passiones suas et veritates consideratas de eo secundum quod 
+          <lb ed="#V" n="4"/>continet notitiam passionum et veritatum. Sed hoc vtique falsum est 
+          <lb ed="#V" n="5"/>quod patet. Nam in eadem quaestione soluendo quoddam argumentum dicit: homo ideo 
+          <lb ed="#V" n="6"/>est subiectum moralis scientie: vel medicine: pro eo quod continet 
+          vir<lb ed="#V" n="7" break="no"/>tualiter rationem sanitatis. ideo enim sanitas hominis talis est: quia cor 
+          <lb ed="#V" n="8"/>pus humanum est sic complexionatum.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1049">
+          ⁋ Item in eadem quaestione 
+          im<lb ed="#V" n="9" break="no"/>probans oppositum dicentium quod christus est subiectum theo modo ait sic. contra idem 
+          <lb ed="#V" n="10"/>est ratio posita ad solutionem prime quaestionis: quia veritates necessarie de 
+          <lb ed="#V" n="11"/>pratre et filio et spum secondo de trinitate impossibile est contineri primo 
+          <lb ed="#V" n="12"/>virtualiter in christo: quia si verbum non fuisset incarnatum ille 
+          veri<lb ed="#V" n="13" break="no"/>tates fuissent necessarie.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1062">
+          ⁋ Ex his patet quod loquitur de continentia non 
+          <lb ed="#V" n="14"/>solum notitie veritatis: sed de ipsa veritate nota: seu de sic 
+          <lb ed="#V" n="15"/>esse sicut significat ipsa notitia vera vel veritas quae est signum: 
+          <lb ed="#V" n="16"/>nec solum de notitia passionis: sed de eo quod ipsa notitia vel 
+          <lb ed="#V" n="17"/>passio predicabilis significat. 
+          <lb ed="#V" n="18"/>Nunc dicendum est quid est ratio propria subiecti scientie. 
+          <lb ed="#V" n="19"/>Ad quod praemitto quod vt supra 
+          ta<lb ed="#V" n="20" break="no"/>ctum est: subiectum potest accipi duplicite scilicet pro termino qui subiicitur in 
+          propositio<lb ed="#V" n="21" break="no"/>ne habente partes distinctas: quarum vna dicitur subiectum: et altera 
+          praedi<lb ed="#V" n="22" break="no"/>catum. Et 2o modo potest accipi pro eo pro quo talis terminus in 
+          <lb ed="#V" n="23"/>propositione supponit. 2o quod scientia potest accipi dupliciter. Uno modo pro 
+          ali<lb ed="#V" n="24" break="no"/>quo vno habitu vnius conclusionis demonstrate: seu de sic esse sicut ipsa 
+          <lb ed="#V" n="25"/>significat. Alio modo pro collectione plurium habituum conclusionum 
+          diuer<lb ed="#V" n="26" break="no"/>sarum pertinentium ad vnam scientiam totalem: illa scilicet vnitate quae superius 
+          <lb ed="#V" n="27"/>in praecedenti quaestione declarata est.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1095">
+          ⁋ Si loquamur de subiecto 2oa 
+          <lb ed="#V" n="28"/>modo et scientia primo modo: dico quod subiectum scientiae est illud quod scitur per illam 
+          <lb ed="#V" n="29"/>esse tale. Et ratio subiecti seu esse subiectum. est sciri esse tale vel 
+          ta<lb ed="#V" n="30" break="no"/>le. vbi gratia. huius scientie qua scitur: omnem lineam rectam finitam esse 
+          <lb ed="#V" n="31"/>diuisibilem in duo media. subiectum est linea. ipsa enim scitu esse 
+          di<lb ed="#V" n="32" break="no"/>uisibilis etc. et ipsam esse subiectum huius scientie: non est aliud quam ipsam 
+          <lb ed="#V" n="33"/>sciri esse diuisibilem etc. eodem modo de aliis.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1111">
+          ⁋ hoc patet ex communi 
+          <lb ed="#V" n="34"/>sententia dicunt enim omnes quod illud est subiectum de quo sciunt proprieta 
+          <lb ed="#V" n="35"/>tes et passiones. Illud autem est quod scitur esse tale vel tale. 
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1119">
+          <lb ed="#V" n="36"/>⁋ Praeterea hoc solo posito aliquid est subiectum scientie. et hoc solo 
+          remo<lb ed="#V" n="37" break="no"/>to nihil est subiectum scientie. vt patet. igitur etc.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1126">
+          ⁋ Si vero loquamur de 
+          <lb ed="#V" n="38"/>subiecto primo modo sic illud est subiectum quod subiicitur in conclusione mentali: qua 
+          <lb ed="#V" n="39"/>est euidens notitia ex praemissis demonstrationis causata: vel alia 
+          <lb ed="#V" n="40"/>notitia sibi equivalenti. quod dico: quia possibile esset talem scientiam haberi 
+          <lb ed="#V" n="41"/>a deo immediate: et est ab habitu aliquo causato ex notitiis seu 
+          <lb ed="#V" n="42"/>conclusionibus ex praemissis demonstratonis causatis. hoc verum est. supposito 
+          <lb ed="#V" n="43"/>quod talis conclusio mentalis non sit actus simplex esentialiter et tatum obie 
+          <lb ed="#V" n="44"/>ctiue complexus. sed esentialiter sit composita ex subiecto et 
+          praedi<lb ed="#V" n="45" break="no"/>cato sicut propositio vocalis et scripta. sicut multi opinantur. et sic 
+          <lb ed="#V" n="46"/>subiectum scientiae est pars scientie actualis: hoc probatur: quia subiectum scientiae vel 
+          <lb ed="#V" n="47"/>est ipsa conclusio vel praedicatum conclusionis: vel subiectum vel medium aut aliqua 
+          <lb ed="#V" n="48"/>vel vtraque praemissarum: sed non medium nec praedicatum vt certum 
+          <lb ed="#V" n="49"/>est. non conclusio nec aliqua praemissarum: quia subiectum secundum omnes est aliquid 
+          <lb ed="#V" n="50"/>incomplexum. Etiam quia conclusio homod est scientia actualis seu actus sciendi 
+          <lb ed="#V" n="51"/>vt in pria quaestione patet. igitur non est subiectum scientie. Similiter vtraque 
+          priemis<lb ed="#V" n="52" break="no"/>sa vel est scientia vel intellectus: subiectum autem scientiae neutrum horum 
+          <lb ed="#V" n="53"/>est. Sed si propositio huiusmodi mentalis non sit ex talibus diuersis parti 
+          <lb ed="#V" n="54"/>bus composita: sed sit secundum se eque simplex: sicut actus intellectus 
+          <lb ed="#V" n="55"/>qui non est affirmatio vel negatio. Et dicitur simplex intelligentia 
+          <lb ed="#V" n="56"/>quamuis sit de obiecto complexe enuncimabili enunciatione vocali 
+          <lb ed="#V" n="57"/>vel scripta: tunc talis scientie nullum erit subiectum hoc modo. sed tantum 
+          <lb ed="#V" n="58"/>2o modo dictum.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1174">
+          ⁋ Si vero loquamur de scientia 2o modo dicta: sicu 
+          <lb ed="#V" n="59"/>eius sunt plures conclusiones et plura obiecta scita. sic est sunt plu 
+          <lb ed="#V" n="60"/>ra subiecta. Uerum quia quandoque talia subiecta habent ordinem inter se 
+          <lb ed="#V" n="61"/>vtpote: quia subiectum vnius scientie partialis accipiendo 2o modo subitct 
+          <lb ed="#V" n="62"/>est principium vel pars: aut passio subiecti alterius scientie partialis: sicut 
+          <lb ed="#V" n="63"/>subiectum logitie libri praedicamentorum pars est subiecti libri pyar. Et 
+          <lb ed="#V" n="64"/>tillud iterum pars est subiecti libri priorum. Et subiectum phyo probantis 
+          <lb ed="#V" n="65"/>aliquod dne materia vel de forma pars est subiecti scientie considerantis 
+          <!--32.xml-->
+          <cb ed="#V" n="b"/> 
+          <!-- 18-r b -->
+          <lb ed="#V" n="66"/>de corpore naturali composito ex materia et forma vel aliquam aliam 
+          <lb ed="#V" n="67"/>analogiam seu ordinem habent inter se. talis scientie dicitur esse aliquod 
+          <lb ed="#V" n="68"/>vnum primum subiectum: puta illud ex his subiectis ad quod cetera ta 
+          <lb ed="#V" n="69"/>lem ordinem habent. Et propter quod perfectius cognoscedum cetera 
+          <lb ed="#V" n="70"/>osiderantur: sicut medicie primum subiectum est corpus sanabile 
+          in<lb ed="#V" n="71" break="no"/>quantum huiusmodi. Nam quaecumque in medicia totali partialiter 
+          conside<lb ed="#V" n="72" break="no"/>rantur: attributionem habent ad ipsum inquantum huiusmodi vel sicut causatiua 
+          <lb ed="#V" n="73"/>sanitatis vel conseruatiua: aut significatiua: aut alio aliqua 
+          <lb ed="#V" n="74"/>modo. vt patet ex 4o meta. et hoc solum est vocari primum subiectum primi 
+          <lb ed="#V" n="75"/>tate attributionis: quandoque talia subiecta non habent talem ordinem 
+          <lb ed="#V" n="76"/>inter se: eis tamen est aliquod commune: cuius per se passiones in aliquo 
+          <lb ed="#V" n="77"/>parte illius totalis scientie considerantur: et in aliis partibus passiones 
+          <lb ed="#V" n="78"/>partium subiectiuarum. vbi gratia cuiusmodi est phyca: in aliquo 
+          <lb ed="#V" n="79"/>enim eius parte consideratur: de corpore mobili ad vbi. Et in 
+          ali<lb ed="#V" n="80" break="no"/>qua de mobili ad formam. et sic de aliis generibus corporum 
+          <lb ed="#V" n="81"/>mobilium: quibus commune est corpus mobile: de quo consideratur. in 
+          <lb ed="#V" n="82"/>libro phyco. Similiter in aliqua parte logice consideratur de syllato 
+          tho<lb ed="#V" n="83" break="no"/>pico. in aliqua de syllo demratiuo. quibus communis est 
+          syllogis<lb ed="#V" n="84" break="no"/>mus simpliciter. de quo consideratur in libro priorum: et illud tale commune 
+          <lb ed="#V" n="85"/>consueuit vocari primum subiectum in illa totali scientia: primum 
+          inquam<lb ed="#V" n="86" break="no"/>primitate communitatis vel praedicationis: quandoque tamen aliquid dicitur subie 
+          <lb ed="#V" n="87"/>ctum primum vtraque primitate. respectu tamen aliorum et aliorum subie 
+          <lb ed="#V" n="88"/>ctorum partialium scientiarum: sicut syllus secundum aliquos est lo modo primum 
+          <lb ed="#V" n="89"/>subiectum vtraque primitate: respectu enim slli dialetici et demon 
+          <lb ed="#V" n="90"/>stratiui est primum primitate communitatis: et resectu propositionum et 
+          ter<lb ed="#V" n="91" break="no"/>minorum est primum primitate attributionis. Ita patet etiam de subiecto 
+          <lb ed="#V" n="92"/>medicine quod dicitur corpus sanabile. Ipoeum enim respectu corpo 
+          <lb ed="#V" n="93"/>ris huani: de quo specialiter in aliqua partiali medicia 
+          conside<lb ed="#V" n="94" break="no"/>ratur. et respectu corporis equini: et respectu aliarum specierum 
+          cor<lb ed="#V" n="95" break="no"/>porum sanabilium: est primum secundum communitate. Respectu aut partium 
+          <lb ed="#V" n="96"/>seu membrorum humanorum: humorum et aliarum rerum causatiuarum vel 
+          <lb ed="#V" n="97"/>conseruatiuarum sanitatis: aut aliter ad ipsum analogiam 
+          haben<lb ed="#V" n="98" break="no"/>tium: est primum per attributionem: et ita in multis scientiis secundum 
+          <lb ed="#V" n="99"/>diuisionem generalem scientiarum acceptis contingit: quod subiectum primum 
+          <lb ed="#V" n="100"/>earum est vtraque primitate primum et ratio subiecti prmi sic accepti 
+          <lb ed="#V" n="101"/>est esse primum subiectum aliqua tali primitate: et sub illa ratione dicitur esse 
+          <lb ed="#V" n="102"/>primum subiectum: sub qua est huiusmodi primitate vel primitatibus primum. 
+          <lb ed="#V" n="103"/>Et ista patet discurrendo per ea quae communiter assignantur subiecta 
+          <lb ed="#V" n="104"/>in scientiis: vt satis per exempla prius posita declaratur: quam etiam 
+          <lb ed="#V" n="105"/>per rationem: quoniam non apparet aliter qualiter tot partiales scientie 
+          <lb ed="#V" n="106"/>dicantur ad vnam scientiam totalem pertinere: cum huiusmodi vnitas ex 
+          vni<lb ed="#V" n="107" break="no"/>tate subiecti consurgat: vt in procedenti quaestione declaratum est 
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1289">
+          <lb ed="#V" n="108"/>⁋ Confirmatur per Praeterea pro poste. capitulo penul. dicentem. vna scientia est 
+          <lb ed="#V" n="109"/>que est vnius generis subiecti scilicet subiicibilis (vt communiter 
+          ex<lb ed="#V" n="110" break="no"/>ponitur) quecumque ex primis componitur: et partes et passiones harum 
+          <lb ed="#V" n="111"/>sunt per se: per partes intellige communiter subiectiuas vel alias. 
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1300">
+          <lb ed="#V" n="112"/>⁋ Ad rationes alterius opinionis patet ex dictis. Nam prima assu a 
+          <lb ed="#V" n="113"/>mit falsum: et in eo quod dicit subiectum continere propositiones 
+          imme<lb ed="#V" n="114" break="no"/>diatas: et in eo quod dicit subiectum continere praedicatum: si hec 
+          in<lb ed="#V" n="115" break="no"/>telligantur de quolibet subiecto: non enim omne subiectum taliter 
+          <lb ed="#V" n="116"/>continet: vt probatum est.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1313">
+          ⁋ 2a etiam non valet: assumit enim quod subiectum Ar 
+          <lb ed="#V" n="117"/>continet adequate virtualiter habitum: quod vtique falsum est. cum enim 
+          <lb ed="#V" n="118"/>habitus causetur ex notitiis que sunt conclusiones: et ille ex praemissis 
+          <lb ed="#V" n="119"/>quas subiectum non continet primo virtualiter: vt probatum est: patet quod 
+          <lb ed="#V" n="120"/>subiectum non primo et adequate cotinet habitum.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1325">
+          ⁋ Ad 3m dico primo rg 
+          <lb ed="#V" n="121"/>ad maiorem quod in essentialiter ordinatis statur ad vnum primum 
+          to<lb ed="#V" n="122" break="no"/>tale siue ad plura partialia quae sunt ad vnum totale: et hoc idem 
+          <lb ed="#V" n="123"/>ipse dicere habet. vult enim quod volitio causetur. saltem partialiter ab 
+          <lb ed="#V" n="124"/>intellectione. intellectio vero ab obiecto a intellectu simul. et hic est 
+          <lb ed="#V" n="125"/>status: quia nec intellectus reducitur in obiectum tanquam in causam: nec econvers 
+          <lb ed="#V" n="126"/>sed vtrumque est causa partialis immediata respect intellectionum: quarum 
+          <lb ed="#V" n="127"/>neutra causat in virtute alterius: sed per se: et per propriam virtutem. 
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1343">
+          <lb ed="#V" n="128"/>⁋ Sic dico quod in hoc ordine statur ad praemissas quae sunt partiales 
+          <lb ed="#V" n="129"/>causare. et neutra in altera continetur virtualiter.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1350">
+          ⁋ 2o ad minorem 
+          <lb ed="#V" n="130"/>dico quod deficit multipliciter. si sumatur ad propositum suum. loquitur 
+          <!--33.xml-->
+          <pb ed="#V" n="18-v"/>
+          <cb ed="#V" n="a"/>
+          <lb ed="#V" n="1"/>enim ille de omnibus cognoscibilibus vnius totalis scientie 
+          quen<lb ed="#V" n="2" break="no"/>admodum omnium veritatum geometralium dicitur esse vna scientia: et 
+          <lb ed="#V" n="3"/>sic de aliis. Sed constat quod non omnes veritates scientie sic sumpte 
+          <lb ed="#V" n="4"/>habent essentialem ordinem inter se: quin immo multe sunt que nul 
+          <lb ed="#V" n="5"/>lo modo in sui cognoscibilitate dependent. Patet de prima et 
+          quar<lb ed="#V" n="6" break="no"/>ta primi euclidis. et sic sunt multe alie tam in dicta scientia quam 
+          <lb ed="#V" n="7"/>in aliis. 2o deficit: quia si inter cognoscibilia scientie 
+          includu<lb ed="#V" n="8" break="no"/>tur propositiones immediate: sicut ipsemet assumit: ordo essentia 
+          <lb ed="#V" n="9"/>lis non est inter praemissas. cum neutra per alteram cognoscatur: 
+          <lb ed="#V" n="10"/>vt supra probatum est. 3o deficit in eo quod ponit praemissas 
+          co<lb ed="#V" n="11" break="no"/>gnosci ex terminis si vniversaliter de quibuslibet praemissis immedia 
+          <lb ed="#V" n="12"/>tis intelligat: vt oportet ad propositum suu. tunc enim quelibet 
+          <lb ed="#V" n="13"/>immediata propositio et quodlibet principium sciente esset per se notum: quod 
+          <lb ed="#V" n="14"/>falsum est: vt patet supra. 4o deficit in eo quod dicit praedicatum 
+          <lb ed="#V" n="15"/>principii contineri in subiecto si intelligat de continentia 
+          to<lb ed="#V" n="16" break="no"/>tali et adequata vt eum intelligere oportet. hoc siquidem falsum 
+          <lb ed="#V" n="17"/>est: vt supra probatum est.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1398">
+          ⁋ Ad probationem cum dicitur: quod prin 
+          <lb ed="#V" n="18"/>cipia sunt comuiter etc. concedo. et vlterius concedo: quod subiectum 
+          <lb ed="#V" n="19"/>cadit in diffinitione predicati: sed non solum subiectum complet 
+          diui<lb ed="#V" n="20" break="no"/>sionem: sed praeter ipsum aliud cadit in diffinitione praedicati. Et ideo 
+          <lb ed="#V" n="21"/>non totaliter subiectum continet ipsum praedicatum vel notitiam eius. 
+          <lb ed="#V" n="22"/>Quantum ad 2m articulum distinguendum est de 
+          <lb ed="#V" n="23"/>theomda: sicut superius distinctum est. Nam potest 
+          <lb ed="#V" n="24"/>accipi pro habitu vnius conclusionis theologice tantum: siue de sic esse: 
+          <lb ed="#V" n="25"/>sicut conclusio significat. et potest accipi pro collectione multorum talium 
+          <lb ed="#V" n="26"/>habituum. vt de sic iam dicebatur. Si primo modo: dicendum quod alicuius 
+          <lb ed="#V" n="27"/>theo modo deus est subiectum: et alicuius non. Est enim subiectum illius: qua 
+          <lb ed="#V" n="28"/>aliquod one ipso probatur. illius autem qua nihil de ipso: sed de alio 
+          <lb ed="#V" n="29"/>probatur non est subiectum. Exemplum primi: deus potest per se ipsum quicquid 
+          <lb ed="#V" n="30"/>mediante creatura. aut aliquid tale. Exemplu secundi: creatura est 
+          <lb ed="#V" n="31"/>annihilabilis: accidens potest conseruari sine subiecto. Et aliud  
+          <lb ed="#V" n="32"/>in quibus de creatura aliquid enunciatur.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1433">
+          ⁋ Si vero accipiatur 
+          <lb ed="#V" n="33"/>theomoia 2o modo. pono tres conclusiones conformes doctrine Doc. noster 
+          <lb ed="#V" n="34"/>fratris Egidii. prima est quod deus inquantum deus est subiectum primum 
+          <lb ed="#V" n="35"/>theo modo nostre. 2a quod non inquantum deus absolute: sed contracte est 
+          <lb ed="#V" n="36"/>subiectum. 3a quod ratione talis conctionis congrue potest dici quod de 
+          <lb ed="#V" n="37"/>inquantum glorificator vel glorificatiuus est subiectum theo moso no 
+          <lb ed="#V" n="38"/>stre.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1449">
+          ⁋ Primam conclusionem probo primo sic. quod deus inquantum deus sit sub 
+          <lb ed="#V" n="39"/>iectum primum in theomia. Ex subiectis partialium theologiarum. 
+          <lb ed="#V" n="40"/>Illud est primum totalis theomodo subiectum ad quod cetera subiecta 
+          <lb ed="#V" n="41"/>theologica (inquantum huiusmodi subiecta scilicet theologica sunt) habent per 
+          <lb ed="#V" n="42"/>se analogiam et ordinem: ipsum vero ad nihil aliud inquantum huiusmodi 
+          or<lb ed="#V" n="43" break="no"/>dinatur. sed deus est huiusmodi igitur etc. Marior est nota ex dictis 
+          <lb ed="#V" n="44"/>in primo articulo. Minor declaratur: quoniam quecumque alia intrant 
+          <lb ed="#V" n="45"/>considerationem theologicam vel considerantur inquantum sunt effe 
+          <lb ed="#V" n="46"/>ctus dei manifestantes eius potentiam. iustitiam vel misericoridam 
+          di<lb ed="#V" n="47" break="no"/>spositionem et prouidentiam: vel inquantum praecepta dei: et documenta 
+          mani<lb ed="#V" n="48" break="no"/>festantia eius voluntatem: siue quid ei placeat: vel displiceat: et 
+          <lb ed="#V" n="49"/>gnesertialiter nihil omnino intrat considerationem theologicam: nisi secundum 
+          <lb ed="#V" n="50"/>quod ipsum aliquo modo attributionem habet ad deum.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1479">
+          ⁋ Confirmatur 
+          <lb ed="#V" n="51"/>per <ref xml:id="grvnZZ-d1e154-Rd1e1483">Aug. 2o de ciui. dei.</ref> vbi dicit quod in sacra scriptura: <quote xml:id="grvnZZ-d1e154-Qd1e1486" source="http://scta.info/resource/adcd-l2-d1e293" synch="124-136">aut 
+            <lb ed="#V" n="52"/>hei praecepta insinuantur: aut mirabilia narrantur: aut dona 
+            <lb ed="#V" n="53"/>laudantur: aut beneficia postulantur</quote>: innuens per hoc quod nihil 
+          <lb ed="#V" n="54"/>in ea continetur nisi inquantum analogatur modo aliquo ad deum 
+          <lb ed="#V" n="55"/>Quie vero sit subiectum sub ratione deitatis: siue inquantum deus: 
+          de<lb ed="#V" n="56" break="no"/>claro. Constat enim quod aliqua considerantur theologice de deo 
+          <lb ed="#V" n="57"/>que non competunt sibi: nisi inquantum deus est. verbi gratia quod sit 
+          <lb ed="#V" n="58"/>trinus et vnus: immensus: omnipotens: sapientia: bonitas: 
+          ma<lb ed="#V" n="59" break="no"/>gnitudo. Et generaliter omnis perfectio aut plenitudo per essen 
+          <lb ed="#V" n="60"/>tiam: et multa alia similia: ita quod huiusmodi non considerantur a 
+          theo<lb ed="#V" n="61" break="no"/>logo de deo sub alia ratione: quam sub ratione deitatis. Cetera vero 
+          <lb ed="#V" n="62"/>que considerantur de personis diuinis singulariter: vt actus 
+          <lb ed="#V" n="63"/>notionales et proprietates etiam de eis verificantur inquantum 
+          <lb ed="#V" n="64"/>sunt deus: tento ly inquantum specificatiue tantum: non autem redupli 
+          <lb ed="#V" n="65"/>catiue: que etiam de creaturis considerantur in attributione 
+          <!--33.xml-->
+          <cb ed="#V" n="b"/> 
+          <!-- 18-v b -->
+          <lb ed="#V" n="66"/>ad deum: etiam considerantur inquantum attributionem habent 
+          vlti<lb ed="#V" n="67" break="no"/>mate ad ipsum inquantum deus est: sicut de omnibus diligenter 
+          consi<lb ed="#V" n="68" break="no"/>deratis posset ostendi.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1533">
+          ⁋ 2am conclusionem probo: si deus sub ratione 
+          <lb ed="#V" n="69"/>deitatis absolute esset subiectum theo modo nostre: deus esset 
+          comprehen<lb ed="#V" n="70" break="no"/>sibilis per theoiam nostram actu habitam vel possibilem haberi: consequens 
+          <lb ed="#V" n="71"/>est falsum: nulla enim notitia: et nullis notitiis creatis vel crea 
+          <lb ed="#V" n="72"/>bilibus deus comprehendi potest: alias non veraciter incomprehensibi 
+          <lb ed="#V" n="73"/>lis crederetur. consequentia probatur. quia ad omnem habitum habentem aliquod 
+          <lb ed="#V" n="74"/>subiectum sub aliqua ratione absolute spectat considerare quaecumque illi 
+          <lb ed="#V" n="75"/>pueniunt secundum illam rationem. Ex hoc enim p. probat quod ad phycum 
+          spe<lb ed="#V" n="76" break="no"/>ctat considerare de continuo infinito et finito loco et tempore et 
+          si<lb ed="#V" n="77" break="no"/>milibus: quia ea conueniunt corpori secundum quod mobile est. Ex hoc etiam 
+          <lb ed="#V" n="78"/>probat quod ad metaphnium spectat considerare de vno ea multo: 
+          eo<lb ed="#V" n="79" break="no"/>dem et diuerso: priori et posteriori: et similibus. quia ipsa conueniunt 
+          <lb ed="#V" n="80"/>enti secundum quod ens: quod est metaphysio per se primum subiectum. probatur etiam 
+          <lb ed="#V" n="81"/>ratione. quia non est ratio quare potius habeat considerare aliqua eorum 
+          <lb ed="#V" n="82"/>que per se competunt subiecto sub ratione qua eius subiectum est: quia alia. 
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1566">
+          <lb ed="#V" n="83"/>⁋ Praeterea s aliqua sic. et aliqua non. ergo non est eius subiectum sub tali 
+          ratio<lb ed="#V" n="84" break="no"/>ne absolute: sed contracte scilicet ad illa que de ipso inquantum tale consi 
+          <lb ed="#V" n="85"/>derat: si igitur theomia nostra vel aliqua alia creata vel creabilis 
+          <lb ed="#V" n="86"/>habet eum pro subiecto inquantum deus est absolute. ergo habet considerare de 
+          <lb ed="#V" n="87"/>ipso: verificari et cognosci potest: et per consequens comprehendere vel 
+          <lb ed="#V" n="88"/>credendo si talis theologia sit fides tantum: vt nostra est: vel videm 
+          <lb ed="#V" n="89"/>do si sit notitia qualis est beatorum. vnde potest aliter in eadem 
+          <lb ed="#V" n="90"/>virtute argui ad propositum: deus non est subiectum theo modo beatorum. 
+          <lb ed="#V" n="91"/>inquantum deus absolute. alias ipse esset creata scientia et comphensi 
+          <lb ed="#V" n="92"/>bilis. ergo nec inquantum deus absolute est subiectum nostre theormis: patet 
+          <lb ed="#V" n="93"/>consequentia quoniam fides vie: nec infusa: nec acquisita: excedit in 
+          cre<lb ed="#V" n="94" break="no"/>dendo scientiam patrie in videndo. vt scilicet plus de deo credamus 
+          <lb ed="#V" n="95"/>nunc quam tunc visuri sumus. alias fidei plene non succederet 
+          <lb ed="#V" n="96"/>visio sicut innuunt communiter verba sanctorum: nec veniente quod 
+          <lb ed="#V" n="97"/>perfectum est euacuaretur quod ex parte est: vt dicit aposto. 
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1601">
+          <lb ed="#V" n="98"/>⁋ hec pro certo fuit intentio dicti Doctores nostri: sicut patet per qo 
+          <lb ed="#V" n="99"/>rationem eius ad hanc quaestionem: infert enim quod theormia esset infinita si ergo 
+          <lb ed="#V" n="100"/>haberet deum pro subiecto sub aliqua ratione deitatis. id est deum inquantum s 
+          <lb ed="#V" n="101"/>deum absolute absque contractione ad aliqua de ipso 
+          cognoscibi<lb ed="#V" n="102" break="no"/>lia. cum vt sic infinite veritates sint de ipso agnoscibiles: 
+          <lb ed="#V" n="103"/>quanto enim scientia plurium est veritatum: tanto perfectior: et per consequens 
+          <lb ed="#V" n="104"/>si infinitarum infinita: quod consequens impossibile reputauit. Ego 
+          <lb ed="#V" n="105"/>autem quia non simpliciter reputo impossibile a deo creari aliquam 
+          <lb ed="#V" n="106"/>infinitam notitiam de seipso. infinitam inquam non simpliciter: sed  
+          <lb ed="#V" n="107"/>in specie sua: sed vtique impossibile teneo aliquam creari ipsum 
+          con<lb ed="#V" n="108" break="no"/>prehendentem: sicut omnis fidelis tenet. idcirco ad istud et 
+          <lb ed="#V" n="109"/>non ad illud inconueniens deducendo conclusionem probaui.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1630">
+          ⁋ 3a conclusio  
+          <lb ed="#V" n="110"/>faciliter declaratur. Nam vt vult Augu. 14. de tri. 
+          theolo<lb ed="#V" n="111" break="no"/>gia ea capit in sua consideratione: quibus fides 
+          saluberri<lb ed="#V" n="112" break="no"/>ma (que ad veram beatitudinem ducit) gignitur et nutritur etc. 
+          <lb ed="#V" n="113"/>Ex quo innuitur quod deus sub eadem ratione est obiectum theolo 
+          <lb ed="#V" n="114"/>gie et fidei: ac etiam visionis patrie. et per consequens secundum illam 
+          con<lb ed="#V" n="115" break="no"/>tractionem videtur obiici fidei et theologie: secundum quam obiicitur 
+          <lb ed="#V" n="116"/>visioni glorie: et cum hoc ad illam ordinetur satis congrue potest 
+          <lb ed="#V" n="117"/>talis contractio per illam denominari: vt dicatur inquantum deus 
+          glorifi<lb ed="#V" n="118" break="no"/>cator vel beatificator sit subiectum theo mus. cui tamen hoc non 
+          pla<lb ed="#V" n="119" break="no"/>cet. Aliter tamen exprimat contractionem illam dummodo fateatur quod non 
+          <lb ed="#V" n="120"/>inquantum deus absolute: sed contracte sit subiectum theologie: quia 
+          <lb ed="#V" n="121"/>nec illud ille doctor vult: vt patet. 3. suo quoli. q. 2. nec aliud  
+          <lb ed="#V" n="122"/>ego intendo.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1661">
+          ⁋ Contra tamen hanc opinionem arguitur 
+          multipli<lb ed="#V" n="123" break="no"/>citer.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1667">
+          ⁋ Et primo quidam Doctor arguit: cui opinio in 
+          praece<lb ed="#V" n="124" break="no"/>denti articulo est reprobata duplici via. Primo quidem 
+          <lb ed="#V" n="125"/>pstendendo quod deus sub ratione deitatis est subiectum theologie. 
+          <lb ed="#V" n="126"/>primo sic. sub illa ratione deus est subiectum primum theoms. 
+          <lb ed="#V" n="127"/>sub qua continet primo virtualiter veritates scibiles de deo: 
+          <lb ed="#V" n="128"/>usmodi est ratio diuine essentie. igitur. maior (vt dicit) patet ex prius 
+          <lb ed="#V" n="129"/>dictis per eum in quaestione illa. minor probatur. quia ratio essen 
+          <lb ed="#V" n="130"/>tie est prima. et cetere posteriores quasi proprietates et acci¬ 
+          <!--34.xml-->
+          <pb ed="#V" n="19-r"/>
+          <cb ed="#V" n="a"/>
+          <lb ed="#V" n="1"/>dentia eius.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1693">
+          ⁋ Secundo sub eadem ratione deus est obiectum primo 
+          <lb ed="#V" n="2"/>intellectus sui: et prime scientie possibilis haberi de eo. Est autem 
+          <lb ed="#V" n="3"/>obiectum primum intellectus sui sub illa ratione sub qua conti 
+          <lb ed="#V" n="4"/>net cognitionem omnium cognoscibilium: et sub tali etiam est 
+          <lb ed="#V" n="5"/>obiectum prime scientie possibilis haberi de ipso.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1704">
+          ⁋ Secunda via 
+          <lb ed="#V" n="6"/>contra opinionem procedit negatiue: ostendendo quod non sub speciali 
+          ra<lb ed="#V" n="7" break="no"/>tione est subiectum sic. Ratio sub qua aliquid est obiectum primum 
+          <lb ed="#V" n="8"/>excedit in perfectione cognoscibilitatis omnia cognoscibilia 
+          <lb ed="#V" n="9"/>in illa scientia. ratio glorificatoris aut alia quecumque specialis non 
+          <lb ed="#V" n="10"/>est huiusmodi igitur etc. Marior patet: quia sicut primum subiectum habet primo 
+          <lb ed="#V" n="11"/>continere omnia que continentur in scientia. ita rati scilicet prima subiecti 
+          <lb ed="#V" n="12"/>debet esse ratio prima continendi: et per consequens perfectior in 
+          co<lb ed="#V" n="13" break="no"/>gnoscibilitate. Minor probatur. quia relatio rationis non potest esse 
+          <lb ed="#V" n="14"/>perfectior in cognoscibilitate quocumque ente reali. quia nec 
+          <lb ed="#V" n="15"/>in entitate. Relatio autem glorificatoris ccum sit ad extrais 
+          <lb ed="#V" n="16"/>est rationis.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1730">
+          ⁋ 4o nihil sub ratione contracta potest esse subiectum 
+          <lb ed="#V" n="17"/>scientie prime possibilis haberi de ipso. ratio glorificatoris est 
+          <lb ed="#V" n="18"/>contracta. igitur. maior probatur. quia ex primo metaphyce: cum scientia 
+          <lb ed="#V" n="19"/>considerante aliquid sub ratione contracta prior est alia: 
+          consi<lb ed="#V" n="20" break="no"/>derans illud sub ratione absoluta: quia certior. vnde dicitur 
+          <lb ed="#V" n="21"/>ibi quod ea que est ex paucioribus: certior est ea que est ex ad  
+          <lb ed="#V" n="22"/>ditione: vt arismetica geomedia.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1746">
+          ⁋ 5o nihil potest esse subiectum 
+          <lb ed="#V" n="23"/>prime scientie de ipso sub alia ratione que non facit vnum per se cum 
+          <lb ed="#V" n="24"/>ipso: huiusmodi sunt omnes ratio es contracte quae assignantur. igitur etc. Mi 
+          <lb ed="#V" n="25"/>nor patet. quia quelibet talis ratio si esset realiter distincta: esset rea 
+          <lb ed="#V" n="26"/>liter accidens illi: cuius assignatur prima ratio. Marior probatur. aut il 
+          <lb ed="#V" n="27"/>la ratio contingenter inest ipsi subiecto: aut necessario. Si contingen 
+          <lb ed="#V" n="28"/>ter igitur non est ratio aliquid sciendi de ipso: quia illa non est necessaria 
+          <lb ed="#V" n="29"/>necessitate cognita de subiecto. si necessario. igitur ipsa est co 
+          <lb ed="#V" n="30"/>gnitio de subiecto per rationem subiecti: et ita non est prima ratio vir 
+          <lb ed="#V" n="31"/>tualiter cognoscendi omnia alia de subiecto: nec per consequens prima 
+          <lb ed="#V" n="32"/>ratio subiecti in scientia.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1770">
+          ⁋ 6o ab aliis sic: cum dicis quod sub ratione 
+          <lb ed="#V" n="33"/>glorificatoris est subiectum theomrio: aut per rationem 
+          glorifica<lb ed="#V" n="34" break="no"/>toris intelligis id quo formaliter deus glorificat (et illud non 
+          <lb ed="#V" n="35"/>est nisi deitas et essentia diuina: et sic conceo quod sub absoluta 
+          <lb ed="#V" n="36"/>ratione deitatis) aut intelligis respectum et denominationem ad  
+          <lb ed="#V" n="37"/>glorificatum quo formaliter deus dicitur glorificator: et tunc sequi 
+          <lb ed="#V" n="38"/>tur quod vna denominatio circa deum erit ratio subiectiua huius scientie: 
+          <lb ed="#V" n="39"/>quod esse non potest.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1789">
+          ⁋ 7o ab eodem sic. sub illa ratione deus non est 
+          <lb ed="#V" n="40"/>subiectum in theologia: sub qua non insunt ei veritates que 
+          de<lb ed="#V" n="41" break="no"/>terminantur in ea: sed trinitas et alie veritates non sunt in 
+          <lb ed="#V" n="42"/>deo sub ratione glorificatoris (non enim est trinus inquantum glo 
+          <lb ed="#V" n="43"/>rificat: immo erat trinus anteque glorificaret) igitur deus vt 
+          <lb ed="#V" n="44"/>glorificator non est subiectum huius scientie.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1802">
+          ⁋ 8o alius sic. ratio glorifi 
+          <lb ed="#V" n="45"/>catoris est ratio attributa subiecto theo modo. ergo non est ratio subie 
+          <lb ed="#V" n="46"/>cti. Antecedens probatur. quia ista est propositio theologica: deus est glorifi 
+          <lb ed="#V" n="47"/>cator: et ista. deus est reperator: deus est beatificator et similes 
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1811">
+          <lb ed="#V" n="48"/>⁋ 6o ab aliis. nobilissimus habitus debet habere nobilissimum sub 
+          <lb ed="#V" n="49"/>lectum sub nobilissima ratione: theormia est habitus nobilissimus: 
+          <lb ed="#V" n="50"/>et deus sub ratione deitatis est nobilissimum subiectum sub no 
+          <lb ed="#V" n="51"/>bilissima ratione. igitur etc.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1822">
+          ⁋ Confirmatur. quia vnus habitus ex. 
+          <lb ed="#V" n="52"/>cedit alium nobilitate vel ex dignitate obiecti: vel certi 
+          <lb ed="#V" n="53"/>tudine demonstrationis: vt dicit Commentator primo de anima 
+          <lb ed="#V" n="54"/>Cum igitur theoemoda excedat in dignitate metaphycam et non in cer 
+          <lb ed="#V" n="55"/>titudine demonstrationis (vt certum est) oportet igitur quod eam 
+          exce<lb ed="#V" n="56" break="no"/>dat in dignitate subiecti: sed metaphyca salte in aliqua 
+          <lb ed="#V" n="57"/>sui parte habet deum pro subiecto: ac per hoc theomodo illam partem 
+          <lb ed="#V" n="58"/>non excedit: quia nobilius habet subiectum. igitur quia sub ratione 
+          nobilis<lb ed="#V" n="59" break="no"/>sima subiectiua. hoc autem non esset nisi habent deum pro subiectu:  
+          <lb ed="#V" n="60"/>sub ratione deitatis.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1844">
+          ⁋ 2o nulla scientia probat suam rationem 
+          subie<lb ed="#V" n="61" break="no"/>ctiuam de subiecto: theo modo probat deum esse glorificatorem. igitur. 
+          <lb ed="#V" n="62"/>ratio glorificatoris non est sua ratio subiectiua.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1851">
+          ⁋ Ad primam 
+          di<lb ed="#V" n="63" break="no"/>co primo quod conclusio non est contra me: concedo enim quod sub ratione deita 
+          <lb ed="#V" n="64"/>tis est subiectum: sed non sequitur ex hoc: quod sub ratione 
+          deita<lb ed="#V" n="65" break="no"/>tis absolute: quod ego nego. 2o dico quod ratio fundatur in falso de 
+          <!--34.xml-->
+          <cb ed="#V" n="b"/> 
+          <!-- 19-r b -->
+          <lb ed="#V" n="66"/>illa continentia virtuali: sicut patet in primo articulo.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1870">
+          ⁋ Praetere 
+          <lb ed="#V" n="67"/>esto quod subiectum scientie proprie dicte sic primo virtualiter 
+          contine<lb ed="#V" n="68" break="no"/>ret omnes veritates scientie secundum rationem sub qua est subiectum: adhuc 
+          <lb ed="#V" n="69"/>non sequitur quod ita sit de subiecto theo modo: cum theomia non sit scientia 
+          <lb ed="#V" n="70"/>proprie dicta. quod confirmatur. quia hic non habet locum probatio 
+          do<lb ed="#V" n="71" break="no"/>ctoris: eo quod theologia non resoluat ad propositiones immediatas 
+          no<lb ed="#V" n="72" break="no"/>cebat.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1886">
+          ⁋ Ad 2m dicendum quod per primam scientiam possibilem haberi 
+          <lb ed="#V" n="73"/>tas ex terminis: quarum subiectum contineat praedicatum vt 
+          dedu<lb ed="#V" n="74" break="no"/>de deo vel intelligitur scientia de deo simpliciter prima (qualis est 
+          <lb ed="#V" n="75"/>scientia qua deus nouit se: et sic nihil concluditur ad propositum: 
+          <lb ed="#V" n="76"/>cum de illa non sit quaestio praesens) vel intelligitur scientia prima in 
+          gene<lb ed="#V" n="77" break="no"/>re scintiarum creatarum vel creabilium: et tunc dico quod vel maiori 
+          <lb ed="#V" n="78"/>intelligitur simpliciter quod sub eadem ratione etc. et sic concedo conclusionem 
+          <lb ed="#V" n="79"/>qui non est contra me. vel intelligitur quod sub eadem ratione simpliciter: 
+          <lb ed="#V" n="80"/>puta quod sicut absolute est obiectum intellectus sui sic absque 
+          <lb ed="#V" n="81"/>contractione sit obiectum scientie creabilis vel create: et tunc simpliciter 
+          <lb ed="#V" n="82"/>nego illam.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1910">
+          ⁋ Ad 3am dico primo quod maior si sumatur vniversaliter es 
+          <lb ed="#V" n="83"/>falsa: quoniam vt tunc arguebatur in articulo primo: cuiuscumque scientie 
+          <lb ed="#V" n="84"/>subiectum esset subiectum sub quiditatiua et prima ratione sua: quod est 
+          <lb ed="#V" n="85"/>falsum. probatio etiam maioris falsum assumit: vt supra 
+          pro<lb ed="#V" n="86" break="no"/>batum est.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1921">
+          ⁋ Item esto quod in scientiis proprie dictis illud conce 
+          <lb ed="#V" n="87"/>deretur: non tamen oportet hoc de nostra theologia concedere: vt iam 
+          di<lb ed="#V" n="88" break="no"/>xi. 2o dico quod illa ratio procedit ex falsa imaginatione: imagi 
+          <lb ed="#V" n="89"/>natur enim quod illa ratio contracta sit quedam ratio specialis distincta 
+          <lb ed="#V" n="90"/>contra rationem essentie: et addita illi: siue per modum quem 
+          <lb ed="#V" n="91"/>Doctores qui eam fecit ponit de rationibus attributalibus: siue pear 
+          <lb ed="#V" n="92"/>aliquem am: quod ista positio non intendit: sed per rationem speciale 
+          <lb ed="#V" n="93"/>vel contractam intendit ipsammet rationem deitatis non secundum omnem 
+          <lb ed="#V" n="94"/>modum quo considerabilis est: et secundum omnem veritatem de ipsa 
+          <lb ed="#V" n="95"/>scibilem: quod non sic obiicitur alicui intellectui creato: sed ipsam. 
+          <lb ed="#V" n="96"/>deitatem restrictam in ratione obiecti ad determinatum considera 
+          <lb ed="#V" n="97"/>tionis modum et gradum vel terminum veritatum: que de ipsa 
+          <lb ed="#V" n="98"/>sciri possunt. Et capiendo istum sensum de positione ista et primum exclu 
+          <lb ed="#V" n="99"/>dendo potius volui dicere quod deus non est subiectum sub ratione 
+          <lb ed="#V" n="100"/>deitatis: vel inquantum deus absolute: sed contracte: quam quod non sub 
+          ra<lb ed="#V" n="101" break="no"/>tione divinitatis absoluta: sed sub ratione contracta vel 
+          speciali<lb ed="#V" n="102" break="no"/>per illa enim aduerbia absolute et contracte non datur intelligi ta 
+          <lb ed="#V" n="103"/>cant.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1960">
+          ⁋ Ad 4m dico quod contractio potest dupliciter intelligi scilicet vel 
+          <lb ed="#V" n="104"/>lis specialis ratio addita: qualem arguentes contra istam positionem 
+          suspi<lb ed="#V" n="105" break="no"/>per additione alterius rationis minus communis (quemadmodum 
+          <lb ed="#V" n="106"/>consueuit dici quod genus contrahitur per differentiam: et sic non 
+          <lb ed="#V" n="107"/>accipitur hic: et per consequens ratio non procedit ad propositum) vel per re 
+          <lb ed="#V" n="108"/>strictionem consideratonis et exclusionem vniversalis comprehensionis: 
+          <lb ed="#V" n="109"/>quo hic intelligo. Et tunc si maior intelligatur de scientia prima in 
+          <lb ed="#V" n="110"/>lis est sola scientia dei ratio non vadit ad propositum.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1978">
+          ⁋ Ad 5m dicendum 
+          <lb ed="#V" n="111"/>genere creatarum est simpliciter falsa. Si vero de prima simpliciter qua 
+          <lb ed="#V" n="112"/>primo quod procedit ex falsa imaginatione de ratione contracta. vt 
+          su<lb ed="#V" n="113" break="no"/>pra dictum est. 2o dico quod si ro sit efficax concludit secundum arguen 
+          <lb ed="#V" n="114"/>tem quod ratio bonitatis faciet vnum per accidens cum deitate: quod 
+          <lb ed="#V" n="115"/>(vt puto) non concederet. patet consequentia. Nam ratio bonitatis est vna 
+          <lb ed="#V" n="116"/>ratio specialis sub qua posuerut aliqui deum esse subiectum in theomis: 
+          <lb ed="#V" n="117"/>quam opinionem ibide per rationem istam ipse vult reprobare. 
+          Qun<lb ed="#V" n="118" break="no"/>tione de continentia virtuali rationis subiectiue.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e1999">
+          ⁋ Ad 6um di 
+          <lb ed="#V" n="119"/>datur etiam illa ratio in suis probationibus super illa falsa imagina 
+          <lb ed="#V" n="120"/>co quod per rationem glorificatoris intelligo illud quo deus glorifi 
+          <lb ed="#V" n="121"/>cat et deitatem ipsam: sed restrictam obiectiue siue in ratione ob 
+          <lb ed="#V" n="122"/>iecti ad eum gradum vel latitudinem sue cognoscibilitatis secundum 
+          <lb ed="#V" n="123"/>quem glorificat et beatificat intellectum creatum: sicut supra 
+          <lb ed="#V" n="124"/>dictum est.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e2015">
+          ⁋ Ad 7m dicendum quod vadit secundum falsam imaginationem 
+          <lb ed="#V" n="125"/>de ratione glorificatoris: sicut et 3m.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e2020">
+          ⁋ Ad 8m eodem modo: et cum 
+          <lb ed="#V" n="126"/>hoc addo: quod si ratio valeret: posset eodem modo argui quod deus non 
+          <lb ed="#V" n="127"/>sit subiectum sub ratione essentie: quod est contra doctorem sic arguentem. hoc 
+          <lb ed="#V" n="128"/>patet etiam: quia hec propositio est theologica. deus est: sicut probatur ex illo 
+          <lb ed="#V" n="129"/>verbo apostoli ad hebreos. Accedentem ad deum oportet credere: quia est. 
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e2031">
+          <lb ed="#V" n="130"/>⁋ Ad quoium concedo quod sub ratione deitatis. non tamen absolute: sed  
+          <!--35.xml-->
+          <pb ed="#V" n="19-v"/>
+          <cb ed="#V" n="a"/>
+          <lb ed="#V" n="1"/>contracte vt dictum est. alis non nobiliori modo obiiceretur 
+          nobi<lb ed="#V" n="2" break="no"/>liori scientie scilicet scientie dei: quam minus nobili scilicet create: cuius 
+          opposi<lb ed="#V" n="3" break="no"/>tum assumit ratio: hac tamen contractione non obstante nobiliori 
+          <lb ed="#V" n="4"/>modo obiicitur theomirie: quam metaphyce vel alii habitui hbuano: 
+          <lb ed="#V" n="5"/>qui illis si obiicitur sub ratione deitatis obiicitur cum maiori 
+          re<lb ed="#V" n="6" break="no"/>strictione: cum nullus alius tot veritates de deo consideret 
+          <lb ed="#V" n="7"/>quot theolomia. Et ex hoc patet ad confirmationem.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e2057">
+          ⁋ Ad xmtum 
+          di<lb ed="#V" n="8" break="no"/>cendum quod false imaginat de illa ratione glorificatoris: sicut et  
+          <lb ed="#V" n="9"/>alie praecedentes.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e2064">
+          ⁋ Ad principalem nego antecedens. et vlterius dico: quod 
+          <lb ed="#V" n="10"/>simplex potest esse obiectum scientie. Et cum probatur primo. quia oportet quod subiectum 
+          <lb ed="#V" n="11"/>aliquo modo sit notum: et aliquo modo ignotum. Dico illud esse 
+          <lb ed="#V" n="12"/>verum de notitia complexa: que est affirmatio vel negatio: et 
+          ta<lb ed="#V" n="13" break="no"/>liter contingit simplex esse notum et ignotum. hoc est. potest 
+          ali<lb ed="#V" n="14" break="no"/>quid sciri de ipso et aliquid ignorari. Dictum autem philosophi 
+          intelli<lb ed="#V" n="15" break="no"/>gendum est de notitia diffinitiua: quae non est affirmatiso vel 
+          ne<lb ed="#V" n="16" break="no"/>gatio: sicut clare patet per Commentatorem ibidem. Cum enim non 
+          <lb ed="#V" n="17"/>omneat partem et partem non potest pars cognosci: et pars ignorari: 
+          <lb ed="#V" n="18"/>sicut in rebus compositis.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e2087">
+          ⁋ Ad aliam probationem dicendum quod philosophus 
+          <lb ed="#V" n="19"/>non absolute dicit in simplicibus non esse quaestionem neque 
+          doctri<lb ed="#V" n="20" break="no"/>nam: sed de quaestione propter quid: que querit quiditatem: ad quam 
+          <lb ed="#V" n="21"/>respondetur causa formalis de materia vel alia causa forme in materia 
+          <lb ed="#V" n="22"/>sicut agens et finis: que in simplicibus substantiis non conue 
+          <lb ed="#V" n="23"/>niunt. Sed tamen alius modus quaestionis reliquitur circa 
+          substan<lb ed="#V" n="24" break="no"/>tias simplices qui sufficit ad scientiam. Unde verba philosophi vbi 
+          <lb ed="#V" n="25"/>allegant sunt ista. Palam ergo quoniam in simplicibus non est 
+          <lb ed="#V" n="26"/>quaestio neque doctrina. Sed alter modus quaestionis talium. ecce quod 
+          <lb ed="#V" n="27"/>alique modum quaestionis dicit esse circa simplicia. aliquem vero 
+          <lb ed="#V" n="28"/>negat scilicet illum de quo immediate locutus est: et ille est de quo 
+          <lb ed="#V" n="29"/>dictum est. Unde Commentator ibidem exposito dicit. Mani 
+          <lb ed="#V" n="30"/>festum est quod in rebus simplicibus non compositis non queritur per 
+          <lb ed="#V" n="31"/>quare nec per quid: sed quaestio in istis alio modo erit: et idem dicit co 
+          <lb ed="#V" n="32"/>mento praecedente. Confirmatur ex intentione eorumdem qui plura in 
+          <lb ed="#V" n="33"/>1i2. meta. nituntur de simplicibus demonstrare.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e2122">
+          ⁋ Ad aliam 
+          <lb ed="#V" n="34"/>probationem antecedentis. cum dicitur quod nullum singulare potest esse subiectum 
+          <lb ed="#V" n="35"/>scientie. nego.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e2129">
+          ⁋ Ad primam probationem: dicendum quod non est necessium quod 
+          <lb ed="#V" n="36"/>subiectum scientie habeat partes subiectiuas. nec istud dicit philosophus: 
+          <lb ed="#V" n="37"/>sed vult quod vnius scientiae genere est considerare subiectum et partes 
+          <lb ed="#V" n="38"/>eius supple si habet partes.
+        </p>
+        <p xml:id="grvnZZ-d1e154-d1e2138">
+          ⁋ Ad aliam qua probatur de singula 
+          <lb ed="#V" n="39"/>ribus non esse scientiam. dico hoc esse intelligendum de 
+          singu<lb ed="#V" n="40" break="no"/>laribus corporalibus: vt patet ex tex. manifeste. et hoc tamen requi 
+          <lb ed="#V" n="41"/>rit sanum intellectum qui dicet alibi: de incorporali autem 
+          sin<lb ed="#V" n="42" break="no"/>gulari posse esse scientiam non negat philosophus: quinimmo 
+          concede<lb ed="#V" n="43" break="no"/>ret: cum ipse de deo multa conetur demonstrare in diuer 
+          <lb ed="#V" n="44"/>sis locis philosophie.
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

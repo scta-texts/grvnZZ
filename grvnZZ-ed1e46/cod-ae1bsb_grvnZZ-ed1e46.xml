@@ -1,491 +1,491 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 1</title>
-            <author ref="#Rimini">Gregory of Rimini</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-            
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 1</title>
-               <date when="2020-10-03">October 03, 2020</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="V" n="cod-ae1bsb">Venice 1503</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2020-10-03" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#V" n="72-r"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="grvnZZ-ed1e46"><!-- l1d11q1 -->
-            <head xml:id="grvnZZ-ed1e46-Hd1e106">Quaestio 1</head>
-            <head xml:id="grvnZZ-ed1e46-Hd1e109" type="question-title">Utrum, si spiritus sanctus non procederet a filio, non distinguerentur ab eo</head>
-            <p xml:id="grvnZZ-ed1e46-d1e112">
-               <lb ed="#V" n="119"/>⁋ Distinctionis. XI. Questio. I 
-      <lb ed="#V" n="120"/>Irca distinctionem II est In qua magister contra grecos 
-      <lb ed="#V" n="121"/>probat spiritum sanctum procedere a filio. 
-      <lb ed="#V" n="122"/>Supposito quod sic sit ex determinatione eclarie 
-      <lb ed="#V" n="123"/>et auctoritas scripture: sicut magister bene probat. Que 
-      <lb ed="#V" n="124"/>ro vtrum si spiritus sanctus non procederet a filio: non 
-      <lb ed="#V" n="125"/>bu distingueretur ab eo:
-    </p>
-            <p xml:id="grvnZZ-ed1e46-d1e130">
-      ⁋ Et arguo quod sic: quoniam 
-      <lb ed="#V" n="126"/>si spiritus sanctus non procederet a filio: cum filius non procedat a 
-      spiri<lb ed="#V" n="127" break="no"/>tu sancto: nulla oppositio relatiua esset inter filium et spectum sanctum. 
-      <lb ed="#V" n="128"/>Et vltra. ergo non distinguerentur ab inuicem. prima consequentia patet: 
-      <lb ed="#V" n="129"/>qui oppositio relatiua non est ibi nisi secundum originem vel 
-      pro<lb ed="#V" n="130" break="no"/>cessionem vnius ab alio. secunda vero probatur: quoniam vbi 
-      <!--139.xml-->
-      <pb ed="#V" n="72-v"/>
-               <cb ed="#V" n="a"/>
-               <lb ed="#V" n="1"/>non cadit oppositio relatiua in diuinis: ibi nulla est 
-      disti<lb ed="#V" n="2" break="no"/>ctio sicut inductiue patet: et haberi potest ab Ansel. in de processu spi 
-      <lb ed="#V" n="3"/>ritus sancti in pluribus locis 
-      <lb ed="#V" n="4"/>Ad oppositum sic: filius non distinguitur a spiritu 
-      <lb ed="#V" n="5"/>sancto praecise: quia spiritus sanctus 
-      pro<lb ed="#V" n="6" break="no"/>cedit ab eo. ergo non si spiritus sanctus non procederet a filio: non 
-      <lb ed="#V" n="7"/>distingueretur ab eo. Antecedens probatur: quoniam filius non solum per spira 
-      <lb ed="#V" n="8"/>tionem actiuam distinguitur a spiritu sancto: quia et per 
-      filiatio<lb ed="#V" n="9" break="no"/>nem distinguitur ab ipso. Nam per filiationem constituitur in esse. 
-      <lb ed="#V" n="10"/>et filiatio non est in spiritu sancto. per quodcumque autem aliquid consti 
-      <lb ed="#V" n="11"/>tuitur: distinguitur ab eo in quo illud non est. consequentia probatur: quoniam 
-      <lb ed="#V" n="12"/>quocumque distinctiuo retento ceteris remotis: distinguitur 
-      il<lb ed="#V" n="13" break="no"/>lud cuius est distinctiuum: a quolibet a quo illud ipsum distinguit: 
-      <lb ed="#V" n="14"/>et per consequens retenta filiatione: remota spiratione et ceteris 
-      ad<lb ed="#V" n="15" break="no"/>huc filius distingueretur a spiritu sancto. 
-      <lb ed="#V" n="16"/>Respondeo hec questio potest in duplici sensu sumi: 
-      <lb ed="#V" n="17"/>siue duplici modo tractari: vno modo ad  
-      <lb ed="#V" n="18"/>videndum an praecise per hoc quod filius spirat spiritum sanctum: 
-      <lb ed="#V" n="19"/>et spiritus sanctus spiratur: et procedit a filio: filius distinguatur a 
-      <lb ed="#V" n="20"/>spiritu sancto: vel non per hoc tantum: sed per aliquod aliud distinguitur 
-      <lb ed="#V" n="21"/>filius a spiritu sancto: et ideo supponitur hoc impossibile. valet. quod spiritus sanctus 
-      <lb ed="#V" n="22"/>non procedit a filio. Et queritur an tunc distingueretur ab eo: 
-      <lb ed="#V" n="23"/>quia si sic: sequeretur quod illa non sit praecisa ratio distinctionis eorum: sicut 
-      <lb ed="#V" n="24"/>si ad inuestigandum. vtrum pater distinguatur a filio: praecise quia est in 
-      <lb ed="#V" n="25"/>genitus: aut etiam propter aliquod aliud (vbi gratia quia genuit) quareretur. 
-      <lb ed="#V" n="26"/>vtrum si prciter non esset ingenitus: non distingueretur a filio. 2o potest 
-      <lb ed="#V" n="27"/>tractari questio ad videndum vtrum ex hoc quod spiritus sanctus 
-      di<lb ed="#V" n="28" break="no"/>stinguitur a filio: possit concludi quod procedit ab eo: et hoc propter 
-      gre<lb ed="#V" n="29" break="no"/>cos: qui concedunt primum et negant secundum: et tunc idem est quod querere 
-      <lb ed="#V" n="30"/>an sequatur. spiritus sanctus non procedit a filio. ergo spiritus sanctus non 
-      <lb ed="#V" n="31"/>distinguitur a filio: et per consequens ex opposito consequentis sequitur oppositum 
-      <lb ed="#V" n="32"/>antecedentis scilicet spiritus sanctus distinguitur a filio. ergo spiritus sanctus 
-      pro<lb ed="#V" n="33" break="no"/>cedit a filio: et in hoc sensu vt mihi videtur tractata est questio 
-      <lb ed="#V" n="34"/>ista a pluribus doc. antiquis: quamuis a quibusdam modernis 
-      ma<lb ed="#V" n="35" break="no"/>gis discutiatur secundum primum sensum. Secuendum hoc ergo erunt articuli 
-      <lb ed="#V" n="36"/>duo. In primo videbitur de questione in primo sensu: et in 2o 
-      videbi<lb ed="#V" n="37" break="no"/>tur de ea in secundo sensu. 
-      <lb ed="#V" n="38"/>Quantum ad primum articulum dicitur a multis: quod in filio 
-      prae<lb ed="#V" n="39" break="no"/>ter spirationem actiuam in qua distinguitur 
-      <lb ed="#V" n="40"/>a spiritu sancto: est aliud distinctiuum in quo distinguitur ab eo scilicet 
-      fi<lb ed="#V" n="41" break="no"/>liatio: ita quod si per impossibile circumscriberetur a filio spiratio 
-      actu<lb ed="#V" n="42" break="no"/>ua: remanente filiatione: adhuc filius distingueretur a spiritu sancto 
-      <lb ed="#V" n="43"/>hoc tamen diuersis modis ponitur ab eis. Nam quidam dicunt quod per 
-      <lb ed="#V" n="44"/>solam filiationem filius distinguitur personaliter a spiritu sancto hoc 
-      <lb ed="#V" n="45"/>probant: quoniam quocumque formaliter filius constituitur in esse personali: eo 
-      <lb ed="#V" n="46"/>personaliter distinguitur: sed filiatione formaliter constituitur filius 
-      in<lb ed="#V" n="47" break="no"/>esse parsonali. ergo etc. probatur minor: quoniam in filio non sunt alie 
-      proprie<lb ed="#V" n="48" break="no"/>tates positiue quam generatio passiua et spiratio actiua: et 
-      spira<lb ed="#V" n="49" break="no"/>tione actiua non constituitur in esse personali: quoniam illa est communis patri 
-      <lb ed="#V" n="50"/>et filio.
-    </p>
-            <p xml:id="grvnZZ-ed1e46-d1e258">
-      ⁋ Confirmatur. quoniam quodlibet habens aliquod esse: distinguitur 
-      <lb ed="#V" n="51"/>distinctione conuenienti illi esse a quocumque alio per aliquid: quod est 
-      <lb ed="#V" n="52"/>de ratione eius inquantum habet tale esse. igitur filius personaliter distinguitur 
-      <lb ed="#V" n="53"/>per aliquid quod est de ratione eius: inquantum est persona: spiratio actiua 
-      <lb ed="#V" n="54"/>non est de ratione eius: sed filio iam posito est quasi proprietas ad 
-      <lb ed="#V" n="55"/>uenticia. Ex quo patet secundum istos quod filius intrinsece personaliter 
-      di<lb ed="#V" n="56" break="no"/>stinguitur a spiritu sancto per solam filiationem: per spirationem vero 
-      <lb ed="#V" n="57"/>actiuam quae est proprietas communis sibi et patri et quasi aduenticia et sequens 
-      <lb ed="#V" n="58"/>personas iam constitutas non distinguitur personaliter et intrinsece: sed 
-      <lb ed="#V" n="59"/>potius extrinsece.
-    </p>
-            <p xml:id="grvnZZ-ed1e46-d1e281">
-      ⁋ Alii vero dicunt quod tam spiratio actiua quam 
-      <lb ed="#V" n="60"/>filiatio et essentia concurrunt intrinsece ad personalitatem filii: et non 
-      <lb ed="#V" n="61"/>ei est aduenticia vel extrinseca: sicut per plures probant rationes: 
-      <lb ed="#V" n="62"/>non solum ergo personaliter distinguitur filius a spiritu sancto per 
-      filia<lb ed="#V" n="63" break="no"/>tionem: sed etiam per spirationem: sicut per vtrumque constituitur in esse perso 
-      <lb ed="#V" n="64"/>nali: propter quod vlterius dicunt: quod si filius non spiraret: non remane 
-      <lb ed="#V" n="65"/>ret persona: eo quod careret spiratione: que intrinsece concurrit ad 
-      <!--139.xml-->
-      <cb ed="#V" n="b"/> 
-               <!-- 72-v b -->
-               <lb ed="#V" n="66"/>eius personalitatem: et per consequens non distingueretur personaliter a spiritu 
-      <lb ed="#V" n="67"/>sancto: adhuc tamen in filio remanet aliquid realiter distinctum 
-      <lb ed="#V" n="68"/>a spiritu sancto scilicet generari quod est incompossibile cum spirari.
-    </p>
-            <p xml:id="grvnZZ-ed1e46-d1e310">
-      ⁋ Alii 
-      <lb ed="#V" n="69"/>etiam dicunt: quod in filio praeter spirationem actiuam: que realiter 
-      distin<lb ed="#V" n="70" break="no"/>guitur a spiritu sancto: est aliquid sufficienter distinguens ipsum 
-      rea<lb ed="#V" n="71" break="no"/>liter a spiritu sancto. si filiatio ipsa. vnde et circumscripta 
-      spira<lb ed="#V" n="72" break="no"/>tione: et retenta filiatione: adhuc constitutum ex filiatione et quo 
-      <lb ed="#V" n="73"/>cumque alio ex vna parte: distingueretur realiter a constituto ex 
-      spira<lb ed="#V" n="74" break="no"/>tione passiua et quocumque alio: ex alia parte: quod quidem constitutum 
-      <lb ed="#V" n="75"/>est spiritus sanctus. hi omnes conueniunt in duobus: vt patet: vnum est 
-      <lb ed="#V" n="76"/>quod in filio est spiratio: et praeter illam etiam est in eo filiatio per quarum 
-      <lb ed="#V" n="77"/>vtramque realiter filius distinguitur a spiritu sancto: et quod si spiratio cir 
-      <lb ed="#V" n="78"/>cumscriberetur a filio: et filiatio remaneret: adhuc 
-      remane<lb ed="#V" n="79" break="no"/>ret aliquod constitutum ex filiatione et esentia: quod realiter 
-      distingue<lb ed="#V" n="80" break="no"/>retur a spiritu sancto.
-    </p>
-            <p xml:id="grvnZZ-ed1e46-d1e339">
-      ⁋ Secundum est: quod filius constituitur in esse personali  
-      <lb ed="#V" n="81"/>per ipsam filiationem. hec duo videntur mihi falsa: ad quod 
-      <lb ed="#V" n="82"/>ostendendum suppono quod filius vere existit: et est persona: et alia a 
-      <lb ed="#V" n="83"/>persona spiritus sancti: preter omnem operationem anime: et sic fuit 
-      eter<lb ed="#V" n="84" break="no"/>naliter ante omnem anime operationem: et per consequens talia constitutiua eius in esse 
-      <lb ed="#V" n="85"/>personali: et distinctiua eius a spiritu sancto: si qua sunt: sunt vere in 
-      <lb ed="#V" n="86"/>rerum natura: nec sunt relationes vel conceptus: aut aliqua alia ab intel 
-      <lb ed="#V" n="87"/>lectu nostro fabricata: cum hic non queratur de distictione conce 
-      <lb ed="#V" n="88"/>ptuum: sed personarum eternarum quae sunt verus deus.
-    </p>
-            <p xml:id="grvnZZ-ed1e46-d1e359">
-      ⁋ hoc suppo 
-      <lb ed="#V" n="89"/>sito arguo contra primum dictum et sumo ipsam spirationem secundum se: vt 
-      <lb ed="#V" n="90"/>praescindit ab omni quod est extra animam quoquo modo distinctam ab ipsa: 
-      si<lb ed="#V" n="91" break="no"/>ue quod non est ipsa. Et quaero an spiratio sic sumpta est persona filii 
-      <lb ed="#V" n="92"/>seu filius ipse vel non: Si sic. ergo in filio non est aliquid praeter ipsam 
-      <lb ed="#V" n="93"/>spirationem: et per consequens non est in ipso aliquid aliud distinctiuum ipsius 
-      <lb ed="#V" n="94"/>a spiritu sancto praeter spirationem. Et similiter sequitur quod si sola 
-      spira<lb ed="#V" n="95" break="no"/>tio circumscriberetur: non remaneret aliquid filii quod aliquid 
-      consti<lb ed="#V" n="96" break="no"/>tueret cum essentia aut aliquo alio quorum opposita isti dicunt. 
-      <lb ed="#V" n="97"/>Et patet consequentia quantum ad vtrumque: quoniam si detur oppositum consequentis scilicet quod 
-      ali<lb ed="#V" n="98" break="no"/>quid remaneret: aut quod in ipso filio sit aliquid praeter spirationem: 
-      <lb ed="#V" n="99"/>sequitur quod ipsa praecise sumpta non est filius: et sic dici posset quod est 
-      <lb ed="#V" n="100"/>aliquid filii. Si vero ipsa spiratio sic sumpta non est persona 
-      fi<lb ed="#V" n="101" break="no"/>lii seu filius ipse: aut ipsa est aliquid intrinsecum sibi: et tunc sequitur 
-      <lb ed="#V" n="102"/>quod praeter ipsam filius intrinsece includit aliquid aliud quod non est spi 
-      <lb ed="#V" n="103"/>ratio. Et per consequens filius non est omnino simplex: quod est erroneum: 
-      <lb ed="#V" n="104"/>aut est aliquod extrinsecum filio: et tunc cum nihil sit in deo inherens 
-      <lb ed="#V" n="105"/>aut informans: ipsa erit per se subsistens: et per consequens suppositum vnum vel 
-      <lb ed="#V" n="106"/>plura: quodlibet autem in deo suppositum est persona. ergo ipsa est quaedam perso 
-      <lb ed="#V" n="107"/>na distincta a persona filii: et eadem ratione distincta a persona patris 
-      <lb ed="#V" n="108"/>Et constat quod ipsa non est persona species sancti. Ex quo sequitur quod in 
-      <lb ed="#V" n="109"/>diuinis sunt quatuor persone: quod est hereticum dicere.
-    </p>
-            <p xml:id="grvnZZ-ed1e46-d1e407">
-      ⁋ Praeterea 
-      con<lb ed="#V" n="110" break="no"/>stat: quod filius est eque simplex vt filiatio: et quod filiatio (vt hoc de 
-      <lb ed="#V" n="111"/>ea est sermo istorum) est ipse filius: et filius est filiatio: et omni modo 
-      si<lb ed="#V" n="112" break="no"/>bi idem quo filiatio est eadem filiationi: et hoc infra magis patebit: 
-      <lb ed="#V" n="113"/>sed in ipsa filiatione non sunt aliqua plura distincta quibus distinguatur 
-      <lb ed="#V" n="114"/>a spiritu sancto: neque quorum aliquo solo circumscripto aliquid eorum 
-      <lb ed="#V" n="115"/>remanet cum essentia constituens aliquid distictum realiter a spiritu sancto: ergo 
-      <lb ed="#V" n="116"/>nec in filio sunt aliqua talia plura distincta.
-    </p>
-            <p xml:id="grvnZZ-ed1e46-d1e425">
-      ⁋ Contra 2m dictum 
-      <lb ed="#V" n="117"/>arguo primo sic. persona filii non constituitur in suo esse personali per se  
-      <lb ed="#V" n="118"/>ipsam: seu quod idem est dictum filius non constituitur in esse personali per 
-      fi<lb ed="#V" n="119" break="no"/>lium: nec filiatio constituitur in esse personali aut aliqua suo esse per filiationem 
-      <lb ed="#V" n="120"/>et universaliter nihil constituitur in aliqua esse per seipsum primo: ergo filius non constituitur in esse 
-      <lb ed="#V" n="121"/>personali per filiationem. Antecedens notum est: et consequentia probatur: ex eo quod vt dictum 
-      <lb ed="#V" n="122"/>est: filiatio nullo modo distinguitur a parte rei a filio: sed est sibi 
-      adequa<lb ed="#V" n="123" break="no"/>te omnibus modis eadem: quibus est eadem sibi ipsi.
-    </p>
-            <p xml:id="grvnZZ-ed1e46-d1e444">
-      ⁋ Confirmatur 
-      <lb ed="#V" n="124"/>quoniam omne quod constituitur in esse per aliquid: aliquo modo distinguitur ab ipso: 
-      <lb ed="#V" n="125"/>nam constituens est aliquo modo causa constituti: sicut patet in omnibus inducendo. 
-    </p>
-            <p xml:id="grvnZZ-ed1e46-d1e451">
-               <lb ed="#V" n="126"/>⁋ 2o filius est omnino simplex et actus purus per se subsistens: ergo non 
-      <lb ed="#V" n="127"/>constituitur in esse personali per aliquid formaliter seu tamquam formali et 
-      <lb ed="#V" n="128"/>constitutiuo. Antecedens est certum: et consequentia probatur. Nam ex eo quod est 
-      sim<lb ed="#V" n="129" break="no"/>plex non constituitur aliquo sibi intrinseco: ex eo vere quod est actus purus 
-      <lb ed="#V" n="130"/>per nullum formale dans sibi esse constituitur: sicut forsitan 
-      <!--140.xml-->
-      <pb ed="#V" n="73-r"/>
-               <cb ed="#V" n="a"/>
-               <lb ed="#V" n="1"/>diceret quis: quod materia constituitur per formam: ex eo quoque quod est 
-      <lb ed="#V" n="2"/>per se subsistes non constituitur in esse per aliquid tanquam per ma 
-      <lb ed="#V" n="3"/>teriam. sicut aliquo modo posset quis dicere quod forma costituitur 
-      <lb ed="#V" n="4"/>per materiam: quia subsistit aliquo modo per illam.
-    </p>
-            <p xml:id="grvnZZ-ed1e46-d1e479">
-      ⁋ Unde talia verba in 
-      <lb ed="#V" n="5"/>sua proprietate penitus falsa sunt: et ex falsa imaginatione 
-      pro<lb ed="#V" n="6" break="no"/>cedunt. qua. valet. sic loquentes imaginantur quod essentia divina sit 
-      quas<lb ed="#V" n="7" break="no"/>materia respectu filiationis: et filiatio sit forma eius et ex vtraque 
-      <lb ed="#V" n="8"/>resultet persona completa: et propter hoc persona constituitur formaliter 
-      <lb ed="#V" n="9"/>in suo esse per filiationem: sicut compositum subiectale dicitur 
-      consti<lb ed="#V" n="10" break="no"/>tui formaliter in esse per suam formam substantialem. quod vtique figmentum 
-      <lb ed="#V" n="11"/>omnino remotum est a persona divina. Quapropter in deo non est estimam 
-      <lb ed="#V" n="12"/>dum aliquod realiter constitutum per aliud formaliter: nec aliquid 
-      <lb ed="#V" n="13"/>formaliter et realiter constituens aliud: sed quicquid ibi est per se ipsum 
-      <lb ed="#V" n="14"/>et nullo alio formaliter est quicquid est. quamuis causaliter seu principia 
-      <lb ed="#V" n="15"/>tiue vel productiue habeat aliqua persona esse personam.
-    </p>
-            <p xml:id="grvnZZ-ed1e46-d1e505">
-      ⁋ Et ideo 
-      <lb ed="#V" n="16"/>quantum ad articulum istum dico quod de reali distinctiuo alicuius 
-      <lb ed="#V" n="17"/>ab aliquo possumus dupliciter loqui. Uno modo vt per huiusmodi distinctiuum 
-      <lb ed="#V" n="18"/>intelligamus aliud existens extra animam significabile incomplexe 
-      <lb ed="#V" n="19"/>secundum se ab alio distinctum: quemadmodum diximus quod homo per animam 
-      <lb ed="#V" n="20"/>suam distinguitur ab asino: et quod vna anima secundum se distinguitur ab 
-      <lb ed="#V" n="21"/>alia. Alio modo vt per distinctiuum intelligamus aliud complexe tamen 
-      <lb ed="#V" n="22"/>significabile: per quod aliud potest vere concludi ab aliquo esse 
-      <lb ed="#V" n="23"/>distinctum: quamuis ipsum huiusmodi distinctiuum non sit secundum se aliqua enti 
-      <lb ed="#V" n="24"/>tas ab aliquo quoquo modo distincta: sicut si diceremus quod acci 
-      <lb ed="#V" n="25"/>dens in sacato distinguitur ab aliis per hoc quod ipsum non est in 
-      sub<lb ed="#V" n="26" break="no"/>iecto: alia vero accidentia sunt in subiecto: sic aut dicendo non intel 
-      <lb ed="#V" n="27"/>ligitur quod aliqua entitas aut aliquid incomplexe significabile 
-      <lb ed="#V" n="28"/>sit distinctiuum talis accidentis ab aliis: quamuis ipsum se ipso in 
-      <lb ed="#V" n="29"/>primo sensu dato distinguatur ab aliis: sed quod ex eo quod istud 
-      ac<lb ed="#V" n="30" break="no"/>cidens non est in subiecto: illud autem est in subiecto. hoc vere est 
-      <lb ed="#V" n="31"/>aliud ab illo seu distinctum ab illo.
-    </p>
-            <p xml:id="grvnZZ-ed1e46-d1e542">
-      ⁋ hoc modo est dicimus in  
-      <lb ed="#V" n="32"/>divinis quod pater distinguitur a filio per hoc quod ipse est a nullo: filius 
-      <lb ed="#V" n="33"/>autem non est a nullo: sed a patre: et hic vtique sic est: est si nulla anima 
-      <lb ed="#V" n="34"/>vmquam hoc consideret: nec tamen per hoc aliquod distinctiuum primo 
-      <lb ed="#V" n="35"/>significabile datur intelligi: sicut infra. distinctio 26. amplius declara 
-      <lb ed="#V" n="36"/>bitur. Si ergo in primo sensu queratur per quid filius distinguitur est 
-      <lb ed="#V" n="37"/>sptum secundo: Dico quod se ipso et non aliquo sui secundum intransitiuam con 
-      <lb ed="#V" n="38"/>structionem loquendo. hoc autem probatur. ex hoc quia filius est 
-      perso<lb ed="#V" n="39" break="no"/>na simplicissima nulla plura et aliquo modo inter se distincta 
-      in<lb ed="#V" n="40" break="no"/>cludens. et ideo a quocumque distinguitur seipso primo distinguitur: 
-      <lb ed="#V" n="41"/>sicut plenius infra declarabitur.
-    </p>
-            <p xml:id="grvnZZ-ed1e46-d1e566">
-      ⁋ Et vlterius ad articulum 
-      <lb ed="#V" n="42"/>co quod praeter spirationem non est in filio aliquid quo distinguatur. 
-      <lb ed="#V" n="43"/>istum secundum hunc sensum in quo ipsum pertractant doctores. 
-      di<lb ed="#V" n="44" break="no"/>ipse a spum scecndo. quod patet. quoniam ipsa persona filii simplicissima est 
-      <lb ed="#V" n="45"/>spiratio et econverso nihil aut est in filio quod non sit filius est persona 
-      fi<lb ed="#V" n="46" break="no"/>lii: et per consequens quod non sit ipsa spiratio. Si autem in 2o sensu loqua 
-      <lb ed="#V" n="47"/>mur de distinctiuo: secundum quem sensum formaui articulum. cum 
-      quae<lb ed="#V" n="48" break="no"/>ritur vtrum per hoc praecise: quia spiritus secus procedit a filio: aut quia 
-      fi<lb ed="#V" n="49" break="no"/>lius spirat spiectum scentdum filius distinguatur ab illo. dico quod non 
-      <lb ed="#V" n="50"/>Quod probo sic. filius distinguitur a spum scondo per hoc: quia ipse est 
-      <lb ed="#V" n="51"/>a patre nascendo: spiritus autem scus est a patre non nascendo: sed proce 
-      <lb ed="#V" n="52"/>dendo. ergo non praecise per hoc filius distinguitur a spum second: quia ipse 
-      <lb ed="#V" n="53"/>spirat spiectum scuntdum et ille procedit ab eo. consequentia patet. quoniam non est hoc fi 
-      <lb ed="#V" n="54"/>lio esse a patre nascendo: quod est specntum scentum esse ab eo procedendo: 
-      <lb ed="#V" n="55"/>siue ab ipso procedere: nec filius ideo nascitur a patre: quia 
-      spira<lb ed="#V" n="56" break="no"/>spoctum scentum. Antecedens probatur per Aug. 5. de tri. vbi dicit quod ideo spiritum 
-      <lb ed="#V" n="57"/>non est filius: cum vterque tamen a patre exeat: quia ipse exit non quo na 
-      <lb ed="#V" n="58"/>tus: sed quo datus id est donum.
-    </p>
-            <p xml:id="grvnZZ-ed1e46-d1e606">
-      ⁋ Item de fi. ad petrus dicit: quod quia 
-      <lb ed="#V" n="59"/>aliud est natum esse aliudque procedere. ideo alius filius alius spiritus 
-      <lb ed="#V" n="60"/>scuns.
-    </p>
-            <p xml:id="grvnZZ-ed1e46-d1e613">
-      ⁋ Item Ansel. de processu spiritus sctint in fine. Spitus sicus 
-      <lb ed="#V" n="61"/>inquit non est filius: quia filius nascedo habet esse de patre. spiritus ver 
-      <lb ed="#V" n="62"/>scus non nascendo: sed procedendo.
-    </p>
-            <p xml:id="grvnZZ-ed1e46-d1e620">
-      ⁋ Item idem infra. ait. habent 
-      <lb ed="#V" n="63"/>vtique a patre esse filius et spitus secus: sed diuerso modo: quia alter naon 
-      <lb ed="#V" n="64"/>scendo: alter procedendo vt alii sint per hoc abinuicem. Et 
-      sub<lb ed="#V" n="65" break="no"/>dit. Nam si per aliud non essent plures filius et spitus scuns: per hoc 
-      <!--140.xml-->
-      <cb ed="#V" n="b"/> 
-               <!-- 73-r b -->
-               <lb ed="#V" n="66"/>solum essent diuersi.
-    </p>
-            <p xml:id="grvnZZ-ed1e46-d1e638">
-      ⁋ Ex quibus verbis manifeste probatur quod non 
-      <lb ed="#V" n="67"/>praecise per hoc quod filius spirat spiectum scentum: et ille spiratur ab eo ipsi 
-      <lb ed="#V" n="68"/>sunt abinuicem distincti.
-    </p>
-            <p xml:id="grvnZZ-ed1e46-d1e645">
-      ⁋ Ad rationes vero opinionis alterius 
-      <lb ed="#V" n="69"/>patet quid dicendum sit ex dictis. Nam filius non constituitur filiatione 
-      <lb ed="#V" n="70"/>neque spiratione: sed est seipso tantum et nullo alio formaliter: nec est 
-      <lb ed="#V" n="71"/>spiratio est aduenticia filio: sed est ipse filius. Et per hoc non 
-      va<lb ed="#V" n="72" break="no"/>lent rationes praedic. doc.
-    </p>
-            <p xml:id="grvnZZ-ed1e46-d1e656">
-      ⁋ Ad rationes omnes alterius docores dicendum quod 
-      <lb ed="#V" n="73"/>verum est spirationem non esse extrinsecam vel aduenticiam filio: sed 
-      <lb ed="#V" n="74"/>tamen nec intraneam sibi velut partem eius quasi ipsa non sit ipsa 
-      perso<lb ed="#V" n="75" break="no"/>na filii: sed aliquid per se: vt rationes ille pretendunt. 
-      <lb ed="#V" n="76"/>Quantum ad 2m articulum dicitur a quibusdam quod non sequitur.  
-      <lb ed="#V" n="77"/>spiritus scus non procedit a filio. ergo non distin e 
-      <lb ed="#V" n="78"/>guitur ab ipso. Alii dicunt oppositum diuersis tamen motiuis. Nam er 
-      <lb ed="#V" n="79"/>quidam dicunt quod facta ypothesi spitus scus et filius essent vna erg 
-      <lb ed="#V" n="80"/>persona genita et spirata: et per consequens non distinguerentur. Alii vero a 
-      <lb ed="#V" n="81"/>dicunt quod non distinguerentur. non quia concurrerent in vnam 
-      perso<lb ed="#V" n="82" break="no"/>nam vt dicunt isti: sed quia tunc filius non esset persona. Et inter 
-      <lb ed="#V" n="83"/>istos est aliqua diuersitas est: sed non curo de illa.
-    </p>
-            <p xml:id="grvnZZ-ed1e46-d1e683">
-      ⁋ Ego pro  
-      <lb ed="#V" n="84"/>nunc dico: quod consequentia est bona: et quod posito antecedente illo spiritus sanctus non prgo 
-      <lb ed="#V" n="85"/>distingueretur a filio: non quia esset vna persona: sed quia tunc spiritus 
-      <lb ed="#V" n="86"/>scuns non esset. Unde arguo sic. Si spiritus scus non procederet a 
-      <lb ed="#V" n="87"/>filio: spiritus scus non esset. ergo si spiritus sanctus non procederet a filio: 
-      <lb ed="#V" n="88"/>spiritus sanctus non distingueretur a filio: consequentia patet: quia vtrumque 
-      di<lb ed="#V" n="89" break="no"/>stinctorum oportet esse ens. cum idem et distinctum sint passiones enti: 
-      <lb ed="#V" n="90"/>vt patet. 10eo meta. Antecedens autem probo tripliciter. Primo sic. si spiritus 
-      san<lb ed="#V" n="91" break="no"/>ctus non procederet a filio: spiritus secus non esset spiritus seu donum 
-      <lb ed="#V" n="92"/>patris et filii. Et vltra. ergo spiritus scuns non esset spiritus scus. et per 
-      <lb ed="#V" n="93"/>consequens non esset persona. consequentia patet. ex eo quod spiritus scus non est donum 
-      <lb ed="#V" n="94"/>filii seu spiritus filii vt dicit apostolus: nisi quia procedit a filio 
-      <lb ed="#V" n="95"/>nec aliud est spectum scentum esse filii: quam ipsum esse a filio: vt dicit 
-      <lb ed="#V" n="96"/>magister in ista. dicens. Si ergo non procederet a filio: non esset spiritus 
-      <lb ed="#V" n="97"/>filii aut donum: et per consequens non esset donum patris et filii. 2a vero 
-      <lb ed="#V" n="98"/>consequentia probatur. quia hoc est esse spiritum scuendum vt sumitur notionaliter pro
-      <lb ed="#V" n="99"/>3a in trinitate persona tantum: quod est esse donum patris et filii: seu 
-      <lb ed="#V" n="100"/>specnteum patris et filii. vnde <ref xml:id="grvnZZ-ed1e46-Rch1ghj" corresp="#grvnZZ-ed1e46-Quc1aaa">Aug. 5. de tri. ait.</ref> <quote xml:id="grvnZZ-ed1e46-Quc1aaa" source="http://scta.info/resource/adt-l5-d1e740@174-229">Ille spiritus sanctus qui non 
-      <lb ed="#V" n="101"/>trinitas: sed in trinitate intelligitur in eo quod proprie id est non 
-      communi<lb ed="#V" n="102" break="no"/>ter dicitur spiritus secus relatiue dicitur: cum et ad patrem et ad filium 
-      <lb ed="#V" n="103"/>refertur: quia spiritus sanctus et patris et filii spiritus est: sed ipsa relatio 
-      <lb ed="#V" n="104"/>non apparet in hoc nomine. apparet autem cum dicitur donum dei: 
-      <lb ed="#V" n="105"/>donum enim est patris et filii</quote>. Et infra concludendo sic dicit. ergo 
-      <lb ed="#V" n="106"/>spiritus sanctus ineffabilis est quedam patris filiumque communio.
-    </p>
-            <p xml:id="grvnZZ-ed1e46-d1e735">
-      ⁋ Item 
-      <lb ed="#V" n="107"/><ref>libro. 15.</ref> ait. spiritus secus secundum scripturas sanctas nec patris est 
-      <lb ed="#V" n="108"/>solius nec filii solius: sed amborum. et ideo communem qua inuicem 
-      <lb ed="#V" n="109"/>se diligunt pater et filius nobis insinuat charitatem. Et 
-      in<lb ed="#V" n="110" break="no"/>fra dicit quod pater sic filium genuit: vt etiatm de illo donum commune 
-      pro<lb ed="#V" n="111" break="no"/>cederet vt spitus scus spiritus esset amborum. vnde sicut filius:  
-      <lb ed="#V" n="112"/>ideo est verbum: quia filius: et ideo filius: quia a patre genitus: et 
-      <lb ed="#V" n="113"/>per consequens si non esset a patre genitus non esset filius neque verbum: 
-      <lb ed="#V" n="114"/>sic spius secus ideo est spiritus scuns: quia donum patris et filii. Et ideo 
-      <lb ed="#V" n="115"/>donum amborum: quia ab vtroque procedit et est vtriusque ineffabilius 
-      <lb ed="#V" n="116"/>quaedam communio: vt dicit Aug propter quod si non procederet ab vtroque: 
-      <lb ed="#V" n="117"/>esto quod tantum alter illorum produceret: persona producta non esset 
-      il<lb ed="#V" n="118" break="no"/>le spis scuns qui nunc est: quia non esset communio patris et filii et 
-      cha<lb ed="#V" n="119" break="no"/>ritas: qua ambo se communiter diligunt nec commune donum vt iste est. 
-    </p>
-            <p xml:id="grvnZZ-ed1e46-d1e766">
-               <lb ed="#V" n="120"/>⁋ 2o sic. filius est per se principium spiritus scint. ergo si filius non 
-      produce<lb ed="#V" n="121" break="no"/>ret spiectum scantum: spiritus sanctus no produceretur: et per consequens non esset: 
-      <lb ed="#V" n="122"/>cum ipse procedendo habeat non solum vt sit donum: sed omnino vt sit. 
-      <lb ed="#V" n="123"/>vt dicit Aug. 5. de tri. antecedens estnotum per fidem scilicet quod filius sit 
-      <lb ed="#V" n="124"/>principium spiritus sancti: et constat quod non per accidens. consequentia patet. quoniam si 
-      <lb ed="#V" n="125"/>aliquid sit causa per se alicuius effectus posito quod illa causa non sit 
-      <lb ed="#V" n="126"/>aut non sit causa illius: ille effectus non ponetur: nisi suppleretur 
-      <lb ed="#V" n="127"/>eius causalitas per aliquid quod prius non causabat: aut quod aliter 
-      <lb ed="#V" n="128"/>vel amplius causaret quod causabat prius: cum aliud quod 
-      remo<lb ed="#V" n="129" break="no"/>tum est causabat.
-    </p>
-            <p xml:id="grvnZZ-ed1e46-d1e790">
-      ⁋ Idem iudicium est de quolibet principio 
-      <lb ed="#V" n="130"/>productiuo respectu eius cuius est per se principium: sed si filius 
-      <!--141.xml-->
-      <pb ed="#V" n="73-v"/>
-               <cb ed="#V" n="a"/>
-               <lb ed="#V" n="1"/>non produceret nullum alium productiuum supplere posset 
-      produ<lb ed="#V" n="2" break="no"/>ctiuitatem eius: nec ipse pater nunc producens plus aut aliter 
-      <lb ed="#V" n="3"/>producere posset: quam nunc: et per consequens ipse supplere non posset 
-      pro<lb ed="#V" n="4" break="no"/>ductiuitatem filii respectu spiritus sctin. Ex quo sequitur quod spis 
-      <lb ed="#V" n="5"/>scuns non produceretur. Nec interest vtrum principium per se sit tota 
-      <lb ed="#V" n="6"/>le vel partiale: dummodo ipso sublato vel non principiante nihil 
-      <lb ed="#V" n="7"/>suppleat vicem eius.
-    </p>
-            <p xml:id="grvnZZ-ed1e46-d1e816">
-      ⁋ 3o si aliqua creatura non producere 
-      <lb ed="#V" n="8"/>tur a filio: ipsa non produceretur a patre. ergo si spiritus scuns non 
-      pro<lb ed="#V" n="9" break="no"/>duceretur a filio: ipse non produceretur a patre. consequentia nota est: quoniam 
-      <lb ed="#V" n="10"/>non minus inseperabiliter pater et filius producunt spiectum scentum quam 
-      <lb ed="#V" n="11"/>producant creaturas. Antecedens autem patet per verbum saluatoris Io. 
-      <lb ed="#V" n="12"/>dicentis. non potest filius a se facere quicquam: nisi quod viderit 
-      <lb ed="#V" n="13"/>patrem facientem. Quecumque enim ille fecerit: hec et filius similiter facit. 
-    </p>
-            <p xml:id="grvnZZ-ed1e46-d1e832">
-               <lb ed="#V" n="14"/>⁋ Ex quibus verbis concludit Aug. 2. de tri. omnino 
-      inseperabi<lb ed="#V" n="15" break="no"/>em esse operationem trinitatis ad extra: et quod impossibile est patrem 
-      <lb ed="#V" n="16"/>quicquam facere quin illud idem et similiter filius faciat et econverso et per 
-      <lb ed="#V" n="17"/>consequens patet hanc consequentiam esse necessariam. si hoc filius non facit: hoc non 
-      <lb ed="#V" n="18"/>facit pater: et per consequens consequentia alia que ad ipsam sequitur est etiam 
-      <lb ed="#V" n="19"/>necessaria. valet. si spiritus scuns non procedit a filio etc.
-    </p>
-            <p xml:id="grvnZZ-ed1e46-d1e849">
-      ⁋ Ex his patet quod 
-      <lb ed="#V" n="20"/>rationes quas facit doc. ille qui dicit quod esto quod spiritus scus non 
-      <lb ed="#V" n="21"/>procederet a filio: adhuc distingueretur ab eo. non sunt effica 
-      <lb ed="#V" n="22"/>ces: pro eo quod supponunt quod.s scilicet esset data ypothesi illa: quod 
-      fal<lb ed="#V" n="23" break="no"/>sum est.
-    </p>
-            <p xml:id="grvnZZ-ed1e46-d1e860">
-      ⁋ Sed supposito quod spiritus secus esset et similiter filius esset. 
-      <lb ed="#V" n="24"/>et tamen spiritus scus non procederet a filio: nunquid distingueretur 
-      <lb ed="#V" n="25"/>ab illo. Rsponsio quod ista suppoito includit contradictoria. Nam ponit 
-      <lb ed="#V" n="26"/>spiectum scuentum esse. Et quia cum hoc etiam ponit ipsum non procedere a 
-      fi<lb ed="#V" n="27" break="no"/>lio: simul ponit donum patris et filii non esse. et per consequens cum spi 
-      <lb ed="#V" n="28"/>ritus scuns non sit nisi donum patris et filii: ponit spectum scuentdum non 
-      <lb ed="#V" n="29"/>esse. propter quod ex ista ypothesi includente contradictoria: 
-      sequun<lb ed="#V" n="30" break="no"/>tur contradictoria. valet. quod distingueretur et non distingueretur a 
-      fi<lb ed="#V" n="31" break="no"/>lio. Distingueretur quidem: quia vterque esset. et vterque ab 
-      alte<lb ed="#V" n="32" break="no"/>ro seipso distinguitu: vt dictum est in primo articulo. non 
-      distin<lb ed="#V" n="33" break="no"/>gueretur autem: quoniam spiritus scus non esset. Et est talis ista suppoitio et 
-      <lb ed="#V" n="34"/>questio sicut si diceretur supposito quod filius esset: et esset in 
-      pro<lb ed="#V" n="35" break="no"/>ductus nunquid distingueretur a patre: ad quod dicendum est quod dicir 
-      <lb ed="#V" n="36"/>stingueretur et non distingueretur. distingueret quidem: quia quaelibet 
-      <lb ed="#V" n="37"/>persona distinguitur seipsa ab alia persona. Et ideo si esset 
-      perso<lb ed="#V" n="38" break="no"/>na filii que nunc est: et persona patris est esset: vna esset ab alia 
-      <lb ed="#V" n="39"/>distincta. Non distingueretur autem: quia filius non esset filius. Nam 
-      <lb ed="#V" n="40"/>ideo filius: quia genitus: vt dicit Aug. 7. de tri. Et si filius non 
-      <lb ed="#V" n="41"/>esset filius: filius non esset: quia non est estimandum quod filius dei 
-      <lb ed="#V" n="42"/>esto quod non esset filius: posset esse: sicut in homnibus homo filius esto quod 
-      <lb ed="#V" n="43"/>hesinat esse filius: non est tamen necesse vt simul desinat esse aut 
-      <lb ed="#V" n="44"/>hominem esse. Nam filius dei non est accidentaliter vel mutabiliter 
-      fi<lb ed="#V" n="45" break="no"/>lius: neque potest non esse aut intelligi non esse filius. Si ergo et fili 
-      <lb ed="#V" n="46"/>et pater essent: et filius non esset productus. sequitur quod filius 
-      di<lb ed="#V" n="47" break="no"/>stingueretur et non distingueretur a patre. Sequeretur autem hec 
-      <lb ed="#V" n="48"/>contradictio: quia antecedens includit contradictoria.
-    </p>
-            <p xml:id="grvnZZ-ed1e46-d1e917">
-      ⁋ Ad argumenta 
-      princi<lb ed="#V" n="49" break="no"/>palia dicendum quod primum argumentum verum concludit: et ideo consequens 
-      <lb ed="#V" n="50"/>est concedendum.
-    </p>
-            <p xml:id="grvnZZ-ed1e46-d1e924">
-      ⁋ Ad argumentum in opositum neganda est consequentia. Et ad  
-      <lb ed="#V" n="51"/>probationem dicendum quod non sufficit ad distinctionem filii a 
-      <lb ed="#V" n="52"/>spum scono ipsa filiatio: nisi etiam sit ipse spiritus secus a quo filius 
-              di<lb ed="#V" n="53" break="no"/>stinguitur. Si autem spiritus sanctus non procederet a filio: ipse non esset. 
-      <lb ed="#V" n="54"/>vt iam dictum est: quare non distingueretur a filio: nec econvers 
-    </p>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#Rimini">Gregory of Rimini</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2020-10-03">October 03, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="V" n="cod-ae1bsb">Venice 1503</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-10-03" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#V" n="72-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="grvnZZ-ed1e46"><!-- l1d11q1 -->
+        <head xml:id="grvnZZ-ed1e46-Hd1e106">Quaestio 1</head>
+        <head xml:id="grvnZZ-ed1e46-Hd1e109" type="question-title">Utrum, si spiritus sanctus non procederet a filio, non distinguerentur ab eo</head>
+        <p xml:id="grvnZZ-ed1e46-d1e112">
+          <lb ed="#V" n="119"/>⁋ Distinctionis. XI. Questio. I 
+          <lb ed="#V" n="120"/>Irca distinctionem II est In qua magister contra grecos 
+          <lb ed="#V" n="121"/>probat spiritum sanctum procedere a filio. 
+          <lb ed="#V" n="122"/>Supposito quod sic sit ex determinatione eclarie 
+          <lb ed="#V" n="123"/>et auctoritas scripture: sicut magister bene probat. Que 
+          <lb ed="#V" n="124"/>ro vtrum si spiritus sanctus non procederet a filio: non 
+          <lb ed="#V" n="125"/>bu distingueretur ab eo:
+        </p>
+        <p xml:id="grvnZZ-ed1e46-d1e130">
+          ⁋ Et arguo quod sic: quoniam 
+          <lb ed="#V" n="126"/>si spiritus sanctus non procederet a filio: cum filius non procedat a 
+          spiri<lb ed="#V" n="127" break="no"/>tu sancto: nulla oppositio relatiua esset inter filium et spectum sanctum. 
+          <lb ed="#V" n="128"/>Et vltra. ergo non distinguerentur ab inuicem. prima consequentia patet: 
+          <lb ed="#V" n="129"/>qui oppositio relatiua non est ibi nisi secundum originem vel 
+          pro<lb ed="#V" n="130" break="no"/>cessionem vnius ab alio. secunda vero probatur: quoniam vbi 
+          <!--139.xml-->
+          <pb ed="#V" n="72-v"/>
+          <cb ed="#V" n="a"/>
+          <lb ed="#V" n="1"/>non cadit oppositio relatiua in diuinis: ibi nulla est 
+          disti<lb ed="#V" n="2" break="no"/>ctio sicut inductiue patet: et haberi potest ab Ansel. in de processu spi 
+          <lb ed="#V" n="3"/>ritus sancti in pluribus locis 
+          <lb ed="#V" n="4"/>Ad oppositum sic: filius non distinguitur a spiritu 
+          <lb ed="#V" n="5"/>sancto praecise: quia spiritus sanctus 
+          pro<lb ed="#V" n="6" break="no"/>cedit ab eo. ergo non si spiritus sanctus non procederet a filio: non 
+          <lb ed="#V" n="7"/>distingueretur ab eo. Antecedens probatur: quoniam filius non solum per spira 
+          <lb ed="#V" n="8"/>tionem actiuam distinguitur a spiritu sancto: quia et per 
+          filiatio<lb ed="#V" n="9" break="no"/>nem distinguitur ab ipso. Nam per filiationem constituitur in esse. 
+          <lb ed="#V" n="10"/>et filiatio non est in spiritu sancto. per quodcumque autem aliquid consti 
+          <lb ed="#V" n="11"/>tuitur: distinguitur ab eo in quo illud non est. consequentia probatur: quoniam 
+          <lb ed="#V" n="12"/>quocumque distinctiuo retento ceteris remotis: distinguitur 
+          il<lb ed="#V" n="13" break="no"/>lud cuius est distinctiuum: a quolibet a quo illud ipsum distinguit: 
+          <lb ed="#V" n="14"/>et per consequens retenta filiatione: remota spiratione et ceteris 
+          ad<lb ed="#V" n="15" break="no"/>huc filius distingueretur a spiritu sancto. 
+          <lb ed="#V" n="16"/>Respondeo hec questio potest in duplici sensu sumi: 
+          <lb ed="#V" n="17"/>siue duplici modo tractari: vno modo ad  
+          <lb ed="#V" n="18"/>videndum an praecise per hoc quod filius spirat spiritum sanctum: 
+          <lb ed="#V" n="19"/>et spiritus sanctus spiratur: et procedit a filio: filius distinguatur a 
+          <lb ed="#V" n="20"/>spiritu sancto: vel non per hoc tantum: sed per aliquod aliud distinguitur 
+          <lb ed="#V" n="21"/>filius a spiritu sancto: et ideo supponitur hoc impossibile. valet. quod spiritus sanctus 
+          <lb ed="#V" n="22"/>non procedit a filio. Et queritur an tunc distingueretur ab eo: 
+          <lb ed="#V" n="23"/>quia si sic: sequeretur quod illa non sit praecisa ratio distinctionis eorum: sicut 
+          <lb ed="#V" n="24"/>si ad inuestigandum. vtrum pater distinguatur a filio: praecise quia est in 
+          <lb ed="#V" n="25"/>genitus: aut etiam propter aliquod aliud (vbi gratia quia genuit) quareretur. 
+          <lb ed="#V" n="26"/>vtrum si prciter non esset ingenitus: non distingueretur a filio. 2o potest 
+          <lb ed="#V" n="27"/>tractari questio ad videndum vtrum ex hoc quod spiritus sanctus 
+          di<lb ed="#V" n="28" break="no"/>stinguitur a filio: possit concludi quod procedit ab eo: et hoc propter 
+          gre<lb ed="#V" n="29" break="no"/>cos: qui concedunt primum et negant secundum: et tunc idem est quod querere 
+          <lb ed="#V" n="30"/>an sequatur. spiritus sanctus non procedit a filio. ergo spiritus sanctus non 
+          <lb ed="#V" n="31"/>distinguitur a filio: et per consequens ex opposito consequentis sequitur oppositum 
+          <lb ed="#V" n="32"/>antecedentis scilicet spiritus sanctus distinguitur a filio. ergo spiritus sanctus 
+          pro<lb ed="#V" n="33" break="no"/>cedit a filio: et in hoc sensu vt mihi videtur tractata est questio 
+          <lb ed="#V" n="34"/>ista a pluribus doc. antiquis: quamuis a quibusdam modernis 
+          ma<lb ed="#V" n="35" break="no"/>gis discutiatur secundum primum sensum. Secuendum hoc ergo erunt articuli 
+          <lb ed="#V" n="36"/>duo. In primo videbitur de questione in primo sensu: et in 2o 
+          videbi<lb ed="#V" n="37" break="no"/>tur de ea in secundo sensu. 
+          <lb ed="#V" n="38"/>Quantum ad primum articulum dicitur a multis: quod in filio 
+          prae<lb ed="#V" n="39" break="no"/>ter spirationem actiuam in qua distinguitur 
+          <lb ed="#V" n="40"/>a spiritu sancto: est aliud distinctiuum in quo distinguitur ab eo scilicet 
+          fi<lb ed="#V" n="41" break="no"/>liatio: ita quod si per impossibile circumscriberetur a filio spiratio 
+          actu<lb ed="#V" n="42" break="no"/>ua: remanente filiatione: adhuc filius distingueretur a spiritu sancto 
+          <lb ed="#V" n="43"/>hoc tamen diuersis modis ponitur ab eis. Nam quidam dicunt quod per 
+          <lb ed="#V" n="44"/>solam filiationem filius distinguitur personaliter a spiritu sancto hoc 
+          <lb ed="#V" n="45"/>probant: quoniam quocumque formaliter filius constituitur in esse personali: eo 
+          <lb ed="#V" n="46"/>personaliter distinguitur: sed filiatione formaliter constituitur filius 
+          in<lb ed="#V" n="47" break="no"/>esse parsonali. ergo etc. probatur minor: quoniam in filio non sunt alie 
+          proprie<lb ed="#V" n="48" break="no"/>tates positiue quam generatio passiua et spiratio actiua: et 
+          spira<lb ed="#V" n="49" break="no"/>tione actiua non constituitur in esse personali: quoniam illa est communis patri 
+          <lb ed="#V" n="50"/>et filio.
+        </p>
+        <p xml:id="grvnZZ-ed1e46-d1e258">
+          ⁋ Confirmatur. quoniam quodlibet habens aliquod esse: distinguitur 
+          <lb ed="#V" n="51"/>distinctione conuenienti illi esse a quocumque alio per aliquid: quod est 
+          <lb ed="#V" n="52"/>de ratione eius inquantum habet tale esse. igitur filius personaliter distinguitur 
+          <lb ed="#V" n="53"/>per aliquid quod est de ratione eius: inquantum est persona: spiratio actiua 
+          <lb ed="#V" n="54"/>non est de ratione eius: sed filio iam posito est quasi proprietas ad 
+          <lb ed="#V" n="55"/>uenticia. Ex quo patet secundum istos quod filius intrinsece personaliter 
+          di<lb ed="#V" n="56" break="no"/>stinguitur a spiritu sancto per solam filiationem: per spirationem vero 
+          <lb ed="#V" n="57"/>actiuam quae est proprietas communis sibi et patri et quasi aduenticia et sequens 
+          <lb ed="#V" n="58"/>personas iam constitutas non distinguitur personaliter et intrinsece: sed 
+          <lb ed="#V" n="59"/>potius extrinsece.
+        </p>
+        <p xml:id="grvnZZ-ed1e46-d1e281">
+          ⁋ Alii vero dicunt quod tam spiratio actiua quam 
+          <lb ed="#V" n="60"/>filiatio et essentia concurrunt intrinsece ad personalitatem filii: et non 
+          <lb ed="#V" n="61"/>ei est aduenticia vel extrinseca: sicut per plures probant rationes: 
+          <lb ed="#V" n="62"/>non solum ergo personaliter distinguitur filius a spiritu sancto per 
+          filia<lb ed="#V" n="63" break="no"/>tionem: sed etiam per spirationem: sicut per vtrumque constituitur in esse perso 
+          <lb ed="#V" n="64"/>nali: propter quod vlterius dicunt: quod si filius non spiraret: non remane 
+          <lb ed="#V" n="65"/>ret persona: eo quod careret spiratione: que intrinsece concurrit ad 
+          <!--139.xml-->
+          <cb ed="#V" n="b"/> 
+          <!-- 72-v b -->
+          <lb ed="#V" n="66"/>eius personalitatem: et per consequens non distingueretur personaliter a spiritu 
+          <lb ed="#V" n="67"/>sancto: adhuc tamen in filio remanet aliquid realiter distinctum 
+          <lb ed="#V" n="68"/>a spiritu sancto scilicet generari quod est incompossibile cum spirari.
+        </p>
+        <p xml:id="grvnZZ-ed1e46-d1e310">
+          ⁋ Alii 
+          <lb ed="#V" n="69"/>etiam dicunt: quod in filio praeter spirationem actiuam: que realiter 
+          distin<lb ed="#V" n="70" break="no"/>guitur a spiritu sancto: est aliquid sufficienter distinguens ipsum 
+          rea<lb ed="#V" n="71" break="no"/>liter a spiritu sancto. si filiatio ipsa. vnde et circumscripta 
+          spira<lb ed="#V" n="72" break="no"/>tione: et retenta filiatione: adhuc constitutum ex filiatione et quo 
+          <lb ed="#V" n="73"/>cumque alio ex vna parte: distingueretur realiter a constituto ex 
+          spira<lb ed="#V" n="74" break="no"/>tione passiua et quocumque alio: ex alia parte: quod quidem constitutum 
+          <lb ed="#V" n="75"/>est spiritus sanctus. hi omnes conueniunt in duobus: vt patet: vnum est 
+          <lb ed="#V" n="76"/>quod in filio est spiratio: et praeter illam etiam est in eo filiatio per quarum 
+          <lb ed="#V" n="77"/>vtramque realiter filius distinguitur a spiritu sancto: et quod si spiratio cir 
+          <lb ed="#V" n="78"/>cumscriberetur a filio: et filiatio remaneret: adhuc 
+          remane<lb ed="#V" n="79" break="no"/>ret aliquod constitutum ex filiatione et esentia: quod realiter 
+          distingue<lb ed="#V" n="80" break="no"/>retur a spiritu sancto.
+        </p>
+        <p xml:id="grvnZZ-ed1e46-d1e339">
+          ⁋ Secundum est: quod filius constituitur in esse personali  
+          <lb ed="#V" n="81"/>per ipsam filiationem. hec duo videntur mihi falsa: ad quod 
+          <lb ed="#V" n="82"/>ostendendum suppono quod filius vere existit: et est persona: et alia a 
+          <lb ed="#V" n="83"/>persona spiritus sancti: preter omnem operationem anime: et sic fuit 
+          eter<lb ed="#V" n="84" break="no"/>naliter ante omnem anime operationem: et per consequens talia constitutiua eius in esse 
+          <lb ed="#V" n="85"/>personali: et distinctiua eius a spiritu sancto: si qua sunt: sunt vere in 
+          <lb ed="#V" n="86"/>rerum natura: nec sunt relationes vel conceptus: aut aliqua alia ab intel 
+          <lb ed="#V" n="87"/>lectu nostro fabricata: cum hic non queratur de distictione conce 
+          <lb ed="#V" n="88"/>ptuum: sed personarum eternarum quae sunt verus deus.
+        </p>
+        <p xml:id="grvnZZ-ed1e46-d1e359">
+          ⁋ hoc suppo 
+          <lb ed="#V" n="89"/>sito arguo contra primum dictum et sumo ipsam spirationem secundum se: vt 
+          <lb ed="#V" n="90"/>praescindit ab omni quod est extra animam quoquo modo distinctam ab ipsa: 
+          si<lb ed="#V" n="91" break="no"/>ue quod non est ipsa. Et quaero an spiratio sic sumpta est persona filii 
+          <lb ed="#V" n="92"/>seu filius ipse vel non: Si sic. ergo in filio non est aliquid praeter ipsam 
+          <lb ed="#V" n="93"/>spirationem: et per consequens non est in ipso aliquid aliud distinctiuum ipsius 
+          <lb ed="#V" n="94"/>a spiritu sancto praeter spirationem. Et similiter sequitur quod si sola 
+          spira<lb ed="#V" n="95" break="no"/>tio circumscriberetur: non remaneret aliquid filii quod aliquid 
+          consti<lb ed="#V" n="96" break="no"/>tueret cum essentia aut aliquo alio quorum opposita isti dicunt. 
+          <lb ed="#V" n="97"/>Et patet consequentia quantum ad vtrumque: quoniam si detur oppositum consequentis scilicet quod 
+          ali<lb ed="#V" n="98" break="no"/>quid remaneret: aut quod in ipso filio sit aliquid praeter spirationem: 
+          <lb ed="#V" n="99"/>sequitur quod ipsa praecise sumpta non est filius: et sic dici posset quod est 
+          <lb ed="#V" n="100"/>aliquid filii. Si vero ipsa spiratio sic sumpta non est persona 
+          fi<lb ed="#V" n="101" break="no"/>lii seu filius ipse: aut ipsa est aliquid intrinsecum sibi: et tunc sequitur 
+          <lb ed="#V" n="102"/>quod praeter ipsam filius intrinsece includit aliquid aliud quod non est spi 
+          <lb ed="#V" n="103"/>ratio. Et per consequens filius non est omnino simplex: quod est erroneum: 
+          <lb ed="#V" n="104"/>aut est aliquod extrinsecum filio: et tunc cum nihil sit in deo inherens 
+          <lb ed="#V" n="105"/>aut informans: ipsa erit per se subsistens: et per consequens suppositum vnum vel 
+          <lb ed="#V" n="106"/>plura: quodlibet autem in deo suppositum est persona. ergo ipsa est quaedam perso 
+          <lb ed="#V" n="107"/>na distincta a persona filii: et eadem ratione distincta a persona patris 
+          <lb ed="#V" n="108"/>Et constat quod ipsa non est persona species sancti. Ex quo sequitur quod in 
+          <lb ed="#V" n="109"/>diuinis sunt quatuor persone: quod est hereticum dicere.
+        </p>
+        <p xml:id="grvnZZ-ed1e46-d1e407">
+          ⁋ Praeterea 
+          con<lb ed="#V" n="110" break="no"/>stat: quod filius est eque simplex vt filiatio: et quod filiatio (vt hoc de 
+          <lb ed="#V" n="111"/>ea est sermo istorum) est ipse filius: et filius est filiatio: et omni modo 
+          si<lb ed="#V" n="112" break="no"/>bi idem quo filiatio est eadem filiationi: et hoc infra magis patebit: 
+          <lb ed="#V" n="113"/>sed in ipsa filiatione non sunt aliqua plura distincta quibus distinguatur 
+          <lb ed="#V" n="114"/>a spiritu sancto: neque quorum aliquo solo circumscripto aliquid eorum 
+          <lb ed="#V" n="115"/>remanet cum essentia constituens aliquid distictum realiter a spiritu sancto: ergo 
+          <lb ed="#V" n="116"/>nec in filio sunt aliqua talia plura distincta.
+        </p>
+        <p xml:id="grvnZZ-ed1e46-d1e425">
+          ⁋ Contra 2m dictum 
+          <lb ed="#V" n="117"/>arguo primo sic. persona filii non constituitur in suo esse personali per se  
+          <lb ed="#V" n="118"/>ipsam: seu quod idem est dictum filius non constituitur in esse personali per 
+          fi<lb ed="#V" n="119" break="no"/>lium: nec filiatio constituitur in esse personali aut aliqua suo esse per filiationem 
+          <lb ed="#V" n="120"/>et universaliter nihil constituitur in aliqua esse per seipsum primo: ergo filius non constituitur in esse 
+          <lb ed="#V" n="121"/>personali per filiationem. Antecedens notum est: et consequentia probatur: ex eo quod vt dictum 
+          <lb ed="#V" n="122"/>est: filiatio nullo modo distinguitur a parte rei a filio: sed est sibi 
+          adequa<lb ed="#V" n="123" break="no"/>te omnibus modis eadem: quibus est eadem sibi ipsi.
+        </p>
+        <p xml:id="grvnZZ-ed1e46-d1e444">
+          ⁋ Confirmatur 
+          <lb ed="#V" n="124"/>quoniam omne quod constituitur in esse per aliquid: aliquo modo distinguitur ab ipso: 
+          <lb ed="#V" n="125"/>nam constituens est aliquo modo causa constituti: sicut patet in omnibus inducendo. 
+        </p>
+        <p xml:id="grvnZZ-ed1e46-d1e451">
+          <lb ed="#V" n="126"/>⁋ 2o filius est omnino simplex et actus purus per se subsistens: ergo non 
+          <lb ed="#V" n="127"/>constituitur in esse personali per aliquid formaliter seu tamquam formali et 
+          <lb ed="#V" n="128"/>constitutiuo. Antecedens est certum: et consequentia probatur. Nam ex eo quod est 
+          sim<lb ed="#V" n="129" break="no"/>plex non constituitur aliquo sibi intrinseco: ex eo vere quod est actus purus 
+          <lb ed="#V" n="130"/>per nullum formale dans sibi esse constituitur: sicut forsitan 
+          <!--140.xml-->
+          <pb ed="#V" n="73-r"/>
+          <cb ed="#V" n="a"/>
+          <lb ed="#V" n="1"/>diceret quis: quod materia constituitur per formam: ex eo quoque quod est 
+          <lb ed="#V" n="2"/>per se subsistes non constituitur in esse per aliquid tanquam per ma 
+          <lb ed="#V" n="3"/>teriam. sicut aliquo modo posset quis dicere quod forma costituitur 
+          <lb ed="#V" n="4"/>per materiam: quia subsistit aliquo modo per illam.
+        </p>
+        <p xml:id="grvnZZ-ed1e46-d1e479">
+          ⁋ Unde talia verba in 
+          <lb ed="#V" n="5"/>sua proprietate penitus falsa sunt: et ex falsa imaginatione 
+          pro<lb ed="#V" n="6" break="no"/>cedunt. qua. valet. sic loquentes imaginantur quod essentia divina sit 
+          quas<lb ed="#V" n="7" break="no"/>materia respectu filiationis: et filiatio sit forma eius et ex vtraque 
+          <lb ed="#V" n="8"/>resultet persona completa: et propter hoc persona constituitur formaliter 
+          <lb ed="#V" n="9"/>in suo esse per filiationem: sicut compositum subiectale dicitur 
+          consti<lb ed="#V" n="10" break="no"/>tui formaliter in esse per suam formam substantialem. quod vtique figmentum 
+          <lb ed="#V" n="11"/>omnino remotum est a persona divina. Quapropter in deo non est estimam 
+          <lb ed="#V" n="12"/>dum aliquod realiter constitutum per aliud formaliter: nec aliquid 
+          <lb ed="#V" n="13"/>formaliter et realiter constituens aliud: sed quicquid ibi est per se ipsum 
+          <lb ed="#V" n="14"/>et nullo alio formaliter est quicquid est. quamuis causaliter seu principia 
+          <lb ed="#V" n="15"/>tiue vel productiue habeat aliqua persona esse personam.
+        </p>
+        <p xml:id="grvnZZ-ed1e46-d1e505">
+          ⁋ Et ideo 
+          <lb ed="#V" n="16"/>quantum ad articulum istum dico quod de reali distinctiuo alicuius 
+          <lb ed="#V" n="17"/>ab aliquo possumus dupliciter loqui. Uno modo vt per huiusmodi distinctiuum 
+          <lb ed="#V" n="18"/>intelligamus aliud existens extra animam significabile incomplexe 
+          <lb ed="#V" n="19"/>secundum se ab alio distinctum: quemadmodum diximus quod homo per animam 
+          <lb ed="#V" n="20"/>suam distinguitur ab asino: et quod vna anima secundum se distinguitur ab 
+          <lb ed="#V" n="21"/>alia. Alio modo vt per distinctiuum intelligamus aliud complexe tamen 
+          <lb ed="#V" n="22"/>significabile: per quod aliud potest vere concludi ab aliquo esse 
+          <lb ed="#V" n="23"/>distinctum: quamuis ipsum huiusmodi distinctiuum non sit secundum se aliqua enti 
+          <lb ed="#V" n="24"/>tas ab aliquo quoquo modo distincta: sicut si diceremus quod acci 
+          <lb ed="#V" n="25"/>dens in sacato distinguitur ab aliis per hoc quod ipsum non est in 
+          sub<lb ed="#V" n="26" break="no"/>iecto: alia vero accidentia sunt in subiecto: sic aut dicendo non intel 
+          <lb ed="#V" n="27"/>ligitur quod aliqua entitas aut aliquid incomplexe significabile 
+          <lb ed="#V" n="28"/>sit distinctiuum talis accidentis ab aliis: quamuis ipsum se ipso in 
+          <lb ed="#V" n="29"/>primo sensu dato distinguatur ab aliis: sed quod ex eo quod istud 
+          ac<lb ed="#V" n="30" break="no"/>cidens non est in subiecto: illud autem est in subiecto. hoc vere est 
+          <lb ed="#V" n="31"/>aliud ab illo seu distinctum ab illo.
+        </p>
+        <p xml:id="grvnZZ-ed1e46-d1e542">
+          ⁋ hoc modo est dicimus in  
+          <lb ed="#V" n="32"/>divinis quod pater distinguitur a filio per hoc quod ipse est a nullo: filius 
+          <lb ed="#V" n="33"/>autem non est a nullo: sed a patre: et hic vtique sic est: est si nulla anima 
+          <lb ed="#V" n="34"/>vmquam hoc consideret: nec tamen per hoc aliquod distinctiuum primo 
+          <lb ed="#V" n="35"/>significabile datur intelligi: sicut infra. distinctio 26. amplius declara 
+          <lb ed="#V" n="36"/>bitur. Si ergo in primo sensu queratur per quid filius distinguitur est 
+          <lb ed="#V" n="37"/>sptum secundo: Dico quod se ipso et non aliquo sui secundum intransitiuam con 
+          <lb ed="#V" n="38"/>structionem loquendo. hoc autem probatur. ex hoc quia filius est 
+          perso<lb ed="#V" n="39" break="no"/>na simplicissima nulla plura et aliquo modo inter se distincta 
+          in<lb ed="#V" n="40" break="no"/>cludens. et ideo a quocumque distinguitur seipso primo distinguitur: 
+          <lb ed="#V" n="41"/>sicut plenius infra declarabitur.
+        </p>
+        <p xml:id="grvnZZ-ed1e46-d1e566">
+          ⁋ Et vlterius ad articulum 
+          <lb ed="#V" n="42"/>co quod praeter spirationem non est in filio aliquid quo distinguatur. 
+          <lb ed="#V" n="43"/>istum secundum hunc sensum in quo ipsum pertractant doctores. 
+          di<lb ed="#V" n="44" break="no"/>ipse a spum scecndo. quod patet. quoniam ipsa persona filii simplicissima est 
+          <lb ed="#V" n="45"/>spiratio et econverso nihil aut est in filio quod non sit filius est persona 
+          fi<lb ed="#V" n="46" break="no"/>lii: et per consequens quod non sit ipsa spiratio. Si autem in 2o sensu loqua 
+          <lb ed="#V" n="47"/>mur de distinctiuo: secundum quem sensum formaui articulum. cum 
+          quae<lb ed="#V" n="48" break="no"/>ritur vtrum per hoc praecise: quia spiritus secus procedit a filio: aut quia 
+          fi<lb ed="#V" n="49" break="no"/>lius spirat spiectum scentdum filius distinguatur ab illo. dico quod non 
+          <lb ed="#V" n="50"/>Quod probo sic. filius distinguitur a spum scondo per hoc: quia ipse est 
+          <lb ed="#V" n="51"/>a patre nascendo: spiritus autem scus est a patre non nascendo: sed proce 
+          <lb ed="#V" n="52"/>dendo. ergo non praecise per hoc filius distinguitur a spum second: quia ipse 
+          <lb ed="#V" n="53"/>spirat spiectum scuntdum et ille procedit ab eo. consequentia patet. quoniam non est hoc fi 
+          <lb ed="#V" n="54"/>lio esse a patre nascendo: quod est specntum scentum esse ab eo procedendo: 
+          <lb ed="#V" n="55"/>siue ab ipso procedere: nec filius ideo nascitur a patre: quia 
+          spira<lb ed="#V" n="56" break="no"/>spoctum scentum. Antecedens probatur per Aug. 5. de tri. vbi dicit quod ideo spiritum 
+          <lb ed="#V" n="57"/>non est filius: cum vterque tamen a patre exeat: quia ipse exit non quo na 
+          <lb ed="#V" n="58"/>tus: sed quo datus id est donum.
+        </p>
+        <p xml:id="grvnZZ-ed1e46-d1e606">
+          ⁋ Item de fi. ad petrus dicit: quod quia 
+          <lb ed="#V" n="59"/>aliud est natum esse aliudque procedere. ideo alius filius alius spiritus 
+          <lb ed="#V" n="60"/>scuns.
+        </p>
+        <p xml:id="grvnZZ-ed1e46-d1e613">
+          ⁋ Item Ansel. de processu spiritus sctint in fine. Spitus sicus 
+          <lb ed="#V" n="61"/>inquit non est filius: quia filius nascedo habet esse de patre. spiritus ver 
+          <lb ed="#V" n="62"/>scus non nascendo: sed procedendo.
+        </p>
+        <p xml:id="grvnZZ-ed1e46-d1e620">
+          ⁋ Item idem infra. ait. habent 
+          <lb ed="#V" n="63"/>vtique a patre esse filius et spitus secus: sed diuerso modo: quia alter naon 
+          <lb ed="#V" n="64"/>scendo: alter procedendo vt alii sint per hoc abinuicem. Et 
+          sub<lb ed="#V" n="65" break="no"/>dit. Nam si per aliud non essent plures filius et spitus scuns: per hoc 
+          <!--140.xml-->
+          <cb ed="#V" n="b"/> 
+          <!-- 73-r b -->
+          <lb ed="#V" n="66"/>solum essent diuersi.
+        </p>
+        <p xml:id="grvnZZ-ed1e46-d1e638">
+          ⁋ Ex quibus verbis manifeste probatur quod non 
+          <lb ed="#V" n="67"/>praecise per hoc quod filius spirat spiectum scentum: et ille spiratur ab eo ipsi 
+          <lb ed="#V" n="68"/>sunt abinuicem distincti.
+        </p>
+        <p xml:id="grvnZZ-ed1e46-d1e645">
+          ⁋ Ad rationes vero opinionis alterius 
+          <lb ed="#V" n="69"/>patet quid dicendum sit ex dictis. Nam filius non constituitur filiatione 
+          <lb ed="#V" n="70"/>neque spiratione: sed est seipso tantum et nullo alio formaliter: nec est 
+          <lb ed="#V" n="71"/>spiratio est aduenticia filio: sed est ipse filius. Et per hoc non 
+          va<lb ed="#V" n="72" break="no"/>lent rationes praedic. doc.
+        </p>
+        <p xml:id="grvnZZ-ed1e46-d1e656">
+          ⁋ Ad rationes omnes alterius docores dicendum quod 
+          <lb ed="#V" n="73"/>verum est spirationem non esse extrinsecam vel aduenticiam filio: sed 
+          <lb ed="#V" n="74"/>tamen nec intraneam sibi velut partem eius quasi ipsa non sit ipsa 
+          perso<lb ed="#V" n="75" break="no"/>na filii: sed aliquid per se: vt rationes ille pretendunt. 
+          <lb ed="#V" n="76"/>Quantum ad 2m articulum dicitur a quibusdam quod non sequitur.  
+          <lb ed="#V" n="77"/>spiritus scus non procedit a filio. ergo non distin e 
+          <lb ed="#V" n="78"/>guitur ab ipso. Alii dicunt oppositum diuersis tamen motiuis. Nam er 
+          <lb ed="#V" n="79"/>quidam dicunt quod facta ypothesi spitus scus et filius essent vna erg 
+          <lb ed="#V" n="80"/>persona genita et spirata: et per consequens non distinguerentur. Alii vero a 
+          <lb ed="#V" n="81"/>dicunt quod non distinguerentur. non quia concurrerent in vnam 
+          perso<lb ed="#V" n="82" break="no"/>nam vt dicunt isti: sed quia tunc filius non esset persona. Et inter 
+          <lb ed="#V" n="83"/>istos est aliqua diuersitas est: sed non curo de illa.
+        </p>
+        <p xml:id="grvnZZ-ed1e46-d1e683">
+          ⁋ Ego pro  
+          <lb ed="#V" n="84"/>nunc dico: quod consequentia est bona: et quod posito antecedente illo spiritus sanctus non prgo 
+          <lb ed="#V" n="85"/>distingueretur a filio: non quia esset vna persona: sed quia tunc spiritus 
+          <lb ed="#V" n="86"/>scuns non esset. Unde arguo sic. Si spiritus scus non procederet a 
+          <lb ed="#V" n="87"/>filio: spiritus scus non esset. ergo si spiritus sanctus non procederet a filio: 
+          <lb ed="#V" n="88"/>spiritus sanctus non distingueretur a filio: consequentia patet: quia vtrumque 
+          di<lb ed="#V" n="89" break="no"/>stinctorum oportet esse ens. cum idem et distinctum sint passiones enti: 
+          <lb ed="#V" n="90"/>vt patet. 10eo meta. Antecedens autem probo tripliciter. Primo sic. si spiritus 
+          san<lb ed="#V" n="91" break="no"/>ctus non procederet a filio: spiritus secus non esset spiritus seu donum 
+          <lb ed="#V" n="92"/>patris et filii. Et vltra. ergo spiritus scuns non esset spiritus scus. et per 
+          <lb ed="#V" n="93"/>consequens non esset persona. consequentia patet. ex eo quod spiritus scus non est donum 
+          <lb ed="#V" n="94"/>filii seu spiritus filii vt dicit apostolus: nisi quia procedit a filio 
+          <lb ed="#V" n="95"/>nec aliud est spectum scentum esse filii: quam ipsum esse a filio: vt dicit 
+          <lb ed="#V" n="96"/>magister in ista. dicens. Si ergo non procederet a filio: non esset spiritus 
+          <lb ed="#V" n="97"/>filii aut donum: et per consequens non esset donum patris et filii. 2a vero 
+          <lb ed="#V" n="98"/>consequentia probatur. quia hoc est esse spiritum scuendum vt sumitur notionaliter pro
+          <lb ed="#V" n="99"/>3a in trinitate persona tantum: quod est esse donum patris et filii: seu 
+          <lb ed="#V" n="100"/>specnteum patris et filii. vnde <ref xml:id="grvnZZ-ed1e46-Rch1ghj" corresp="#grvnZZ-ed1e46-Quc1aaa">Aug. 5. de tri. ait.</ref> <quote xml:id="grvnZZ-ed1e46-Quc1aaa" source="http://scta.info/resource/adt-l5-d1e740@174-229">Ille spiritus sanctus qui non 
+            <lb ed="#V" n="101"/>trinitas: sed in trinitate intelligitur in eo quod proprie id est non 
+            communi<lb ed="#V" n="102" break="no"/>ter dicitur spiritus secus relatiue dicitur: cum et ad patrem et ad filium 
+            <lb ed="#V" n="103"/>refertur: quia spiritus sanctus et patris et filii spiritus est: sed ipsa relatio 
+            <lb ed="#V" n="104"/>non apparet in hoc nomine. apparet autem cum dicitur donum dei: 
+            <lb ed="#V" n="105"/>donum enim est patris et filii</quote>. Et infra concludendo sic dicit. ergo 
+          <lb ed="#V" n="106"/>spiritus sanctus ineffabilis est quedam patris filiumque communio.
+        </p>
+        <p xml:id="grvnZZ-ed1e46-d1e735">
+          ⁋ Item 
+          <lb ed="#V" n="107"/><ref>libro. 15.</ref> ait. spiritus secus secundum scripturas sanctas nec patris est 
+          <lb ed="#V" n="108"/>solius nec filii solius: sed amborum. et ideo communem qua inuicem 
+          <lb ed="#V" n="109"/>se diligunt pater et filius nobis insinuat charitatem. Et 
+          in<lb ed="#V" n="110" break="no"/>fra dicit quod pater sic filium genuit: vt etiatm de illo donum commune 
+          pro<lb ed="#V" n="111" break="no"/>cederet vt spitus scus spiritus esset amborum. vnde sicut filius:  
+          <lb ed="#V" n="112"/>ideo est verbum: quia filius: et ideo filius: quia a patre genitus: et 
+          <lb ed="#V" n="113"/>per consequens si non esset a patre genitus non esset filius neque verbum: 
+          <lb ed="#V" n="114"/>sic spius secus ideo est spiritus scuns: quia donum patris et filii. Et ideo 
+          <lb ed="#V" n="115"/>donum amborum: quia ab vtroque procedit et est vtriusque ineffabilius 
+          <lb ed="#V" n="116"/>quaedam communio: vt dicit Aug propter quod si non procederet ab vtroque: 
+          <lb ed="#V" n="117"/>esto quod tantum alter illorum produceret: persona producta non esset 
+          il<lb ed="#V" n="118" break="no"/>le spis scuns qui nunc est: quia non esset communio patris et filii et 
+          cha<lb ed="#V" n="119" break="no"/>ritas: qua ambo se communiter diligunt nec commune donum vt iste est. 
+        </p>
+        <p xml:id="grvnZZ-ed1e46-d1e766">
+          <lb ed="#V" n="120"/>⁋ 2o sic. filius est per se principium spiritus scint. ergo si filius non 
+          produce<lb ed="#V" n="121" break="no"/>ret spiectum scantum: spiritus sanctus no produceretur: et per consequens non esset: 
+          <lb ed="#V" n="122"/>cum ipse procedendo habeat non solum vt sit donum: sed omnino vt sit. 
+          <lb ed="#V" n="123"/>vt dicit Aug. 5. de tri. antecedens estnotum per fidem scilicet quod filius sit 
+          <lb ed="#V" n="124"/>principium spiritus sancti: et constat quod non per accidens. consequentia patet. quoniam si 
+          <lb ed="#V" n="125"/>aliquid sit causa per se alicuius effectus posito quod illa causa non sit 
+          <lb ed="#V" n="126"/>aut non sit causa illius: ille effectus non ponetur: nisi suppleretur 
+          <lb ed="#V" n="127"/>eius causalitas per aliquid quod prius non causabat: aut quod aliter 
+          <lb ed="#V" n="128"/>vel amplius causaret quod causabat prius: cum aliud quod 
+          remo<lb ed="#V" n="129" break="no"/>tum est causabat.
+        </p>
+        <p xml:id="grvnZZ-ed1e46-d1e790">
+          ⁋ Idem iudicium est de quolibet principio 
+          <lb ed="#V" n="130"/>productiuo respectu eius cuius est per se principium: sed si filius 
+          <!--141.xml-->
+          <pb ed="#V" n="73-v"/>
+          <cb ed="#V" n="a"/>
+          <lb ed="#V" n="1"/>non produceret nullum alium productiuum supplere posset 
+          produ<lb ed="#V" n="2" break="no"/>ctiuitatem eius: nec ipse pater nunc producens plus aut aliter 
+          <lb ed="#V" n="3"/>producere posset: quam nunc: et per consequens ipse supplere non posset 
+          pro<lb ed="#V" n="4" break="no"/>ductiuitatem filii respectu spiritus sctin. Ex quo sequitur quod spis 
+          <lb ed="#V" n="5"/>scuns non produceretur. Nec interest vtrum principium per se sit tota 
+          <lb ed="#V" n="6"/>le vel partiale: dummodo ipso sublato vel non principiante nihil 
+          <lb ed="#V" n="7"/>suppleat vicem eius.
+        </p>
+        <p xml:id="grvnZZ-ed1e46-d1e816">
+          ⁋ 3o si aliqua creatura non producere 
+          <lb ed="#V" n="8"/>tur a filio: ipsa non produceretur a patre. ergo si spiritus scuns non 
+          pro<lb ed="#V" n="9" break="no"/>duceretur a filio: ipse non produceretur a patre. consequentia nota est: quoniam 
+          <lb ed="#V" n="10"/>non minus inseperabiliter pater et filius producunt spiectum scentum quam 
+          <lb ed="#V" n="11"/>producant creaturas. Antecedens autem patet per verbum saluatoris Io. 
+          <lb ed="#V" n="12"/>dicentis. non potest filius a se facere quicquam: nisi quod viderit 
+          <lb ed="#V" n="13"/>patrem facientem. Quecumque enim ille fecerit: hec et filius similiter facit. 
+        </p>
+        <p xml:id="grvnZZ-ed1e46-d1e832">
+          <lb ed="#V" n="14"/>⁋ Ex quibus verbis concludit Aug. 2. de tri. omnino 
+          inseperabi<lb ed="#V" n="15" break="no"/>em esse operationem trinitatis ad extra: et quod impossibile est patrem 
+          <lb ed="#V" n="16"/>quicquam facere quin illud idem et similiter filius faciat et econverso et per 
+          <lb ed="#V" n="17"/>consequens patet hanc consequentiam esse necessariam. si hoc filius non facit: hoc non 
+          <lb ed="#V" n="18"/>facit pater: et per consequens consequentia alia que ad ipsam sequitur est etiam 
+          <lb ed="#V" n="19"/>necessaria. valet. si spiritus scuns non procedit a filio etc.
+        </p>
+        <p xml:id="grvnZZ-ed1e46-d1e849">
+          ⁋ Ex his patet quod 
+          <lb ed="#V" n="20"/>rationes quas facit doc. ille qui dicit quod esto quod spiritus scus non 
+          <lb ed="#V" n="21"/>procederet a filio: adhuc distingueretur ab eo. non sunt effica 
+          <lb ed="#V" n="22"/>ces: pro eo quod supponunt quod.s scilicet esset data ypothesi illa: quod 
+          fal<lb ed="#V" n="23" break="no"/>sum est.
+        </p>
+        <p xml:id="grvnZZ-ed1e46-d1e860">
+          ⁋ Sed supposito quod spiritus secus esset et similiter filius esset. 
+          <lb ed="#V" n="24"/>et tamen spiritus scus non procederet a filio: nunquid distingueretur 
+          <lb ed="#V" n="25"/>ab illo. Rsponsio quod ista suppoito includit contradictoria. Nam ponit 
+          <lb ed="#V" n="26"/>spiectum scuentum esse. Et quia cum hoc etiam ponit ipsum non procedere a 
+          fi<lb ed="#V" n="27" break="no"/>lio: simul ponit donum patris et filii non esse. et per consequens cum spi 
+          <lb ed="#V" n="28"/>ritus scuns non sit nisi donum patris et filii: ponit spectum scuentdum non 
+          <lb ed="#V" n="29"/>esse. propter quod ex ista ypothesi includente contradictoria: 
+          sequun<lb ed="#V" n="30" break="no"/>tur contradictoria. valet. quod distingueretur et non distingueretur a 
+          fi<lb ed="#V" n="31" break="no"/>lio. Distingueretur quidem: quia vterque esset. et vterque ab 
+          alte<lb ed="#V" n="32" break="no"/>ro seipso distinguitu: vt dictum est in primo articulo. non 
+          distin<lb ed="#V" n="33" break="no"/>gueretur autem: quoniam spiritus scus non esset. Et est talis ista suppoitio et 
+          <lb ed="#V" n="34"/>questio sicut si diceretur supposito quod filius esset: et esset in 
+          pro<lb ed="#V" n="35" break="no"/>ductus nunquid distingueretur a patre: ad quod dicendum est quod dicir 
+          <lb ed="#V" n="36"/>stingueretur et non distingueretur. distingueret quidem: quia quaelibet 
+          <lb ed="#V" n="37"/>persona distinguitur seipsa ab alia persona. Et ideo si esset 
+          perso<lb ed="#V" n="38" break="no"/>na filii que nunc est: et persona patris est esset: vna esset ab alia 
+          <lb ed="#V" n="39"/>distincta. Non distingueretur autem: quia filius non esset filius. Nam 
+          <lb ed="#V" n="40"/>ideo filius: quia genitus: vt dicit Aug. 7. de tri. Et si filius non 
+          <lb ed="#V" n="41"/>esset filius: filius non esset: quia non est estimandum quod filius dei 
+          <lb ed="#V" n="42"/>esto quod non esset filius: posset esse: sicut in homnibus homo filius esto quod 
+          <lb ed="#V" n="43"/>hesinat esse filius: non est tamen necesse vt simul desinat esse aut 
+          <lb ed="#V" n="44"/>hominem esse. Nam filius dei non est accidentaliter vel mutabiliter 
+          fi<lb ed="#V" n="45" break="no"/>lius: neque potest non esse aut intelligi non esse filius. Si ergo et fili 
+          <lb ed="#V" n="46"/>et pater essent: et filius non esset productus. sequitur quod filius 
+          di<lb ed="#V" n="47" break="no"/>stingueretur et non distingueretur a patre. Sequeretur autem hec 
+          <lb ed="#V" n="48"/>contradictio: quia antecedens includit contradictoria.
+        </p>
+        <p xml:id="grvnZZ-ed1e46-d1e917">
+          ⁋ Ad argumenta 
+          princi<lb ed="#V" n="49" break="no"/>palia dicendum quod primum argumentum verum concludit: et ideo consequens 
+          <lb ed="#V" n="50"/>est concedendum.
+        </p>
+        <p xml:id="grvnZZ-ed1e46-d1e924">
+          ⁋ Ad argumentum in opositum neganda est consequentia. Et ad  
+          <lb ed="#V" n="51"/>probationem dicendum quod non sufficit ad distinctionem filii a 
+          <lb ed="#V" n="52"/>spum scono ipsa filiatio: nisi etiam sit ipse spiritus secus a quo filius 
+          di<lb ed="#V" n="53" break="no"/>stinguitur. Si autem spiritus sanctus non procederet a filio: ipse non esset. 
+          <lb ed="#V" n="54"/>vt iam dictum est: quare non distingueretur a filio: nec econvers 
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

@@ -1,400 +1,400 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 1</title>
-            <author ref="#Rimini">Gregory of Rimini</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-            
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 1</title>
-               <date when="2020-10-03">October 03, 2020</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="V" n="cod-ae1bsb">Venice 1503</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2020-10-03" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#V" n="105-v"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="grvnZZ-ed1e67"><!-- l1d19-20q1 -->
-            <head xml:id="grvnZZ-ed1e67-Hd1e106">Quaestio 1</head>
-            <head xml:id="grvnZZ-ed1e67-Hd1e109" type="question-title">Utrum personae divinae sint aequales magnitudine et potentia</head>
-            <p xml:id="grvnZZ-ed1e67-d1e112">
-               <lb ed="#V" n="107"/>⁋ Distinctionis. XIX. et. XX. Qo. 
-      <lb ed="#V" n="108"/>Circa distinctionem 19. et 2o. simul quaero. vtrum perso 
-      <lb ed="#V" n="109"/>ne diuine sint equales magnitudi 
-      <lb ed="#V" n="110"/>ne et potentia.
-    </p>
-            <p xml:id="grvnZZ-ed1e67-d1e123">
-      ⁋ Et videtur primo quod non sunt equales 
-      ma<lb ed="#V" n="111" break="no"/>gnitudine: quia in personis diuinis nulla est 
-      <lb ed="#V" n="112"/>magnitudo. ergo ipse non sunt equales 
-      <lb ed="#V" n="113"/>qul magnitudine: consequentia patet: antecedens probatur: quia 
-      magni<lb ed="#V" n="114" break="no"/>tudo species est quantitatis continue: nulla vero 
-      quanti<lb ed="#V" n="115" break="no"/>tas continua est in deo.
-    </p>
-            <p xml:id="grvnZZ-ed1e67-d1e136">
-      ⁋ 2o videtur quod non sint equales potentia sic:  
-      <lb ed="#V" n="116"/>piaiter est omnipotens. filius autem non est omimpotens: ergo filius noti 
-      <lb ed="#V" n="117"/>est equalis potestatis cum patre. consequentia patet: et similiter prima pars antecedentis: 
-      <lb ed="#V" n="118"/>iuxta illud simboli. Credo in deum patrem omimpotentem. Sed 
-      <lb ed="#V" n="119"/>secunda probatur: quia si filius esset omimpotens. filius posset generare 
-      <lb ed="#V" n="120"/>filium sibi equalem: consequens falsum est: et consequentia probatur per consequentiam Au 
-      <lb ed="#V" n="121"/>gustini contra Maximium: per quam probat pattrem genuisse filium 
-      <lb ed="#V" n="122"/>sibi equalem. vt ponitur in littera. 2o. dictinit ait enim. si pater genuit 
-      <lb ed="#V" n="123"/>filium minorem: aut non potuit: aut non voluit gignere equalem. 
-      <lb ed="#V" n="124"/>Si autem dicis: quod non voluit: eum inuidum esse dixisti. Si aut 
-      <lb ed="#V" n="125"/>non potuit. vbi est oimpotentia patris: et infra. si non potuit 
-      <lb ed="#V" n="126"/>infirmus fuit etc. Si autem hec consequentia bona est. illa est bona est: 
-      <lb ed="#V" n="127"/>cum procedat ex opposito consequentis in oppositum antecedentis. 
-      <lb ed="#V" n="128"/>Sppositum arguitur per Augustinum. de fi. ad pere ego 
-      <lb ed="#V" n="129"/>et ponitur in principio 10 dicit dicentem.  
-      <lb ed="#V" n="130"/>quod nullus trium alium aut precedit eternitate: aut excedit 
-      <!--202.xml-->
-      <pb ed="#V" n="106-r"/>
-               <cb ed="#V" n="a"/>
-               <lb ed="#V" n="1"/>magnitudine aut superat potestate. 
-    </p>
-            <p xml:id="grvnZZ-ed1e67-d1e181">
-               <lb ed="#V" n="2"/>Hic sunt duo videnda. Unum est an persone divine sint 
-      <lb ed="#V" n="3"/>equales magnitudine. Aliud vtrum sint 
-      <lb ed="#V" n="4"/>equales potestate.
-            </p>
-            <p xml:id="grvnZZ-ed1e67-d1e194">
-      <lb ed="#V" n="5"/>Quantum ad primum praemitto: quod quaestio non est intelligenda de 
-      <lb ed="#V" n="6"/>magnitudine molis. sed bonitatis et 
-      perfe<lb ed="#V" n="7" break="no"/>ctionis: secundum quem modum loquitur <ref xml:id="grvnZZ-ed1e67-Rff2acc" corresp="#grvnZZ-ed1e67-Qddh7xx">Aug. 6. de tri.</ref> <quote xml:id="grvnZZ-ed1e67-Qddh7xx" source="http://scta.info/resource/adt-l6-d1e820@72-87">In his quae 
-      <lb ed="#V" n="8"/>non mole magna sunt hoc est maius esse quod est melius esse</quote>: 
-      <lb ed="#V" n="9"/>et per consequens hoc est magnum quod bonum: et hoc magnitudo quod 
-      bo<lb ed="#V" n="10" break="no"/>nitas. Quo premisso dico: quod quelibet persona diuina est 
-      equa<lb ed="#V" n="11" break="no"/>lis vtrique reliquarum et ambabus simul: quod probatur sic. omnes divine 
-      <lb ed="#V" n="12"/>persone sunt vna bonitas. et nulla bonitas est in aliqua 
-      perso<lb ed="#V" n="13" break="no"/>narum distincta ab illa communi bonitate. ergo quelibet est 
-      equa<lb ed="#V" n="14" break="no"/>lis vtrique reliquarum. et ambabus simul. consequentia nota est et similiter 
-      <lb ed="#V" n="15"/>prima pars antecedentis: quoniam omnes sunt vna essentia. et vna 
-      <lb ed="#V" n="16"/>natura: que vtique bonitas: immo summa bonitas est. 
-      Secunda<lb ed="#V" n="17" break="no"/>vero pars probatur: quia nulla entitas est in aliqua persona que 
-      <lb ed="#V" n="18"/>sit distincta ab essentia communi. ergo etiam nulla bonitas: cum omnis 
-      <lb ed="#V" n="19"/>bonitas sit entitas. assumptum patebit infra. distinctione 6. Sed 
-      cir<lb ed="#V" n="20" break="no"/>ca hoc occurrit dubium de relationibus: nam aliqua relatio est 
-      <lb ed="#V" n="21"/>in vna persona que non est in alia: vt paternitas in solo patre. 
-      <lb ed="#V" n="22"/>Et in aliqua persona. verbi gratia in filio plures quam in spiritu 
-      <lb ed="#V" n="23"/>sancto: et in patre et filio simul plures quam in solo spiritu sancto. cum 
-      <lb ed="#V" n="24"/>ergo quelibet relatio sit quedam spiritualis magnitudo: sicut 
-      <lb ed="#V" n="25"/>est quedam bonitas et perfectio. sequi videtur quod non omnium diuina 
-      <lb ed="#V" n="26"/>rum personarum sit equalis magnitudo.
-    </p>
-            <p xml:id="grvnZZ-ed1e67-d1e238">
-      ⁋ hic dicitur quod relatio 
-      di<lb ed="#V" n="27" break="no"/>uina secundum suam propriam entitatem que est entitas ad alterum 
-      <lb ed="#V" n="28"/>non habet aliquam quantitatem seu magnitudinem perfectionalem. Et 
-      <lb ed="#V" n="29"/>ideo non est finita nec infinita: cum finitum et infinitum sint passio 
-      <lb ed="#V" n="30"/>nes quanti solum.
-    </p>
-            <p xml:id="grvnZZ-ed1e67-d1e249">
-      ⁋ Contra. dicit August. 3. den. libr ar. omnia 
-      <lb ed="#V" n="31"/>que sunt eo ipso quod sunt bona sunt. et 83 q. <quote xml:id="grvnZZ-ed1e67-Qd1e253" source="http://scta.info/resource/a83-q24-d1e108" synch="41-49">omne inquit quod est:  
-        <lb ed="#V" n="32"/>inquantum est: bonum est</quote>. Si ergo relatio diuina habeat propriam 
-      enti<lb ed="#V" n="33" break="no"/>tatem: vt dicit opinio: habet ergo propriam bonitatem: et per consequens perfectionis 
-      <lb ed="#V" n="34"/>magnitudinem.
-    </p>
-            <p xml:id="grvnZZ-ed1e67-d1e263">
-      ⁋ Praeterea isti idem primo libro dicens primo q. secunda in solutione primo 
-      <lb ed="#V" n="35"/>mi argumenti ad quaestionem volunt: quod relatio divina habeat aliquam 
-      <lb ed="#V" n="36"/>propriam bonitatem: sed non bonitatem fruibilem. Unde concedunt: quod 
-      <lb ed="#V" n="37"/>bonum in communi conuertitur cum ente: et sic bonum reperitur in quolibet 
-      <lb ed="#V" n="38"/>gnaesente. sed vt sic bonum non habet rationem fruibilis: quia ratio boni 
-      frui<lb ed="#V" n="39" break="no"/>bilis non est ratio boni in communi: sed boni perfecti: quod est bonum 
-      nul<lb ed="#V" n="40" break="no"/>lum habens defectum: vel saltem secundum apparentiam ens tale: vel 
-      <lb ed="#V" n="41"/>secundum praefixionem voluntatis qualis non est relatio: concedunt ergo isti 
-      <lb ed="#V" n="42"/>relationem secundum suam propriam entitatem esse quandam bonitatem: 
-      <lb ed="#V" n="43"/>et non fruibilem in quo et iam dictis per eos repugnare 
-      vi<lb ed="#V" n="44" break="no"/>dentur.
-    </p>
-            <p xml:id="grvnZZ-ed1e67-d1e287">
-      ⁋ Praeterea omnis entitas creata est aliqua bonitas secundum se. ergo 
-      re<lb ed="#V" n="45" break="no"/>latio divina secundum quod est quaedam entitas est quaedam bonitas.
-    </p>
-            <p xml:id="grvnZZ-ed1e67-d1e292">
-      ⁋ Alii vero 
-      <lb ed="#V" n="46"/>concedunt: quod relatio dina est ex se quaedam magnitudo: sicut ex se 
-      <lb ed="#V" n="47"/>est quadam entitas realis. et ex se est res cui sepugnat omnis 
-      imperfe<lb ed="#V" n="48" break="no"/>ctio: et sic concedunt quod aliqua magnitudo est in vna persona quae non 
-      <lb ed="#V" n="49"/>est in alia: non quidem magnitudo absoluta: sed relatiua. non tamen 
-      <lb ed="#V" n="50"/>per hoc vna persona perfectior est altera: quia ita perfecta est vna relatis 
-      <lb ed="#V" n="51"/>sicut alia: nec distinctio magnitudinum repugnat equalitati. 
-      <lb ed="#V" n="52"/>cum autem dicitur quod plures relationes sunt in vna persona quam in alia: 
-      di<lb ed="#V" n="53" break="no"/>cunt non esse verum: quia spiratio et patrnitas non sunt plures relationes: 
-      <lb ed="#V" n="54"/>quamuis non sint idem formaliter.
-    </p>
-            <p xml:id="grvnZZ-ed1e67-d1e315">
-      ⁋ Contra. si paternitas et filiatio 
-      <lb ed="#V" n="55"/>sunt distincte magnitudines seu perfectiones et equae perfecte. ergo si 
-      <lb ed="#V" n="56"/>eiusdem rationis. et sic vel sunt due patrnitates vel due filiatio 
-      <lb ed="#V" n="57"/>nes: et non vna patrnitas: et vna filiatus. consequens est falsum: quia eadem 
-      ratio<lb ed="#V" n="58" break="no"/>ne non essent paiater et filius: sed duo patres vel duo filii inter divinas 
-      <lb ed="#V" n="59"/>personas: quod est erroneum. consequentia probatur per Aug. 3. de libro ar. vbi vult 
-      <lb ed="#V" n="60"/>puod si luna esset equalis perfectionis cum sole non essent sol et luna: 
-      <lb ed="#V" n="61"/>et duo soles. sic in proposito.
-    </p>
-            <p xml:id="grvnZZ-ed1e67-d1e333">
-      ⁋ Alii conuenientes cum istis in hoc 
-      <lb ed="#V" n="62"/>quod dixerunt quamlibet relationem secundum se esse perfectionem: immo perfectionem 
-      <lb ed="#V" n="63"/>infinitam: dixerunt: quod ex hoc non impeditur equalitas perfectionis 
-      perso<lb ed="#V" n="64" break="no"/>narum. tum quia earum equalitas perfectionis non atteditur: nisi secundum 
-      perfe<lb ed="#V" n="65" break="no"/>ctiones simpliciter. Relationes aut ille non sunt perfectiones simpliciter. Nam 
-      <!--202.xml-->
-      <cb ed="#V" n="b"/> 
-               <!-- 106-r b -->
-               <lb ed="#V" n="66"/>non esset melius patri: quod haberet proprietates filii: quia ex hoc 
-      amit<lb ed="#V" n="67" break="no"/>teret esse patrem. Nec similiter esset melior filius si haberet propri tates 
-      <lb ed="#V" n="68"/>scispus vel patris. Tum quia esto: quod ille relationes sint 
-      alte<lb ed="#V" n="69" break="no"/>rius rationis abinuicem: vna tamen non est perfectior aliis. Ratio est. quia 
-      <lb ed="#V" n="70"/>non continentur sub vna ratione communi quae diuidatur in eis per differentia quarum 
-      <lb ed="#V" n="71"/>vna sit habitus et reliqua priuatio.
-    </p>
-            <p xml:id="grvnZZ-ed1e67-d1e364">
-      ⁋ Contra primum Ansel. mogin. 
-      <lb ed="#V" n="72"/>nephas inquit est putare: quod subiecta suprime naturae sit aliquod quo me 
-      <lb ed="#V" n="73"/>lius sit aliquo modo non ipsum. cum ergo ipsa sit entitas 
-      <lb ed="#V" n="74"/>quelibet. et perfectio que est in ipsa alioquin non esset in 
-      <lb ed="#V" n="75"/>deo summa simplicitas: nephas est cogitare: quod ibi sit 
-      <lb ed="#V" n="76"/>aliqua perfectio qua in aliquo sit melius non ipsa quam ipsa.
-    </p>
-            <p xml:id="grvnZZ-ed1e67-d1e377">
-      ⁋ Praeterea aut  
-      <lb ed="#V" n="77"/>pratre melior est entitas sue proprietatis quam non ipsa aut non: non 
-      <lb ed="#V" n="78"/>potest dici secundum. quia tunc sequitur: quod pater non minus esset perfectus:  
-      <lb ed="#V" n="79"/>nec minus esset: si in ipso non esset talis entitas. Et vlterius 
-      <lb ed="#V" n="80"/>sequitur: quod ipsa superflue sit in eo: quod impium est sentire. Est ergo ipsa 
-      <lb ed="#V" n="81"/>in patre melior quam non ipsa. et ipse ex ea melior est. ergo in filio ea 
-      <lb ed="#V" n="82"/>dem entitas proprietatis patris est esset melior quam non ipsa. Et 
-      <lb ed="#V" n="83"/>hec consequentia patet: ex eo quod in personis divinis secundum ymaginationem: 
-      <lb ed="#V" n="84"/>sic loquentium non est praeter entitates suarum proprietatum nisi enti 
-      <lb ed="#V" n="85"/>tas absoluta naturae quae est equae perfecta in omnibus et singulis. et per consequens omnis 
-      <lb ed="#V" n="86"/>entitas vel perfectio quae vnam personam reddit meliorem quamlibet 
-      red<lb ed="#V" n="87" break="no"/>deret meliorem si esset in illa.
-    </p>
-            <p xml:id="grvnZZ-ed1e67-d1e403">
-      ⁋ Secundum quoque dictum non valet. 
-      <lb ed="#V" n="88"/>uoniam probatum est supra. distinctione 5. q. 3. quod aliquis vnus conceptus qui est genus 
-      <lb ed="#V" n="89"/>communis est relationibus divinis et creatis. et per consequens est aliquis vnus conceptus 
-      <lb ed="#V" n="90"/>gnaesienis communis illis relactionibus personarum.
-    </p>
-            <p xml:id="grvnZZ-ed1e67-d1e412">
-      ⁋ Secundum doctrinam vero 
-      <lb ed="#V" n="91"/>huius doctoris. distinctione 5. qid e1 abitro primo. in probatione prime propositionis. omne 
-      <lb ed="#V" n="92"/>genus diuiditur per differentia: quarum vna est respectu alterius vt 
-      <lb ed="#V" n="93"/>habitus. et reliqua vt priuatio. et per consequens. species vna est alia nobilior. 
-    </p>
-            <p xml:id="grvnZZ-ed1e67-d1e422">
-               <lb ed="#V" n="94"/>⁋ Dico ergo ad dubium factum. quod sicut in deo nulla relatio secundum 
-      <lb ed="#V" n="95"/>se est aliqua entitas praecisa: et distincta quomocumque. ex natura rei ab 
-      <lb ed="#V" n="96"/>essentia dei que sit in vna persona et non in qualibet. sic nulla 
-      <lb ed="#V" n="97"/>prorsus perfectio est in vna persona quae non sit in qualibet. 
-      <lb ed="#V" n="98"/>Quantum ad 2m articulum dico: quod vnam potentiam vel vir 
-      <lb ed="#V" n="99"/>tutem esse equalem alteri vel inequalem potest dupliciter 
-      <lb ed="#V" n="100"/>intelligi. Uno modo: vt inequalitas vel equalitas intelligatur in ipsis 
-      <lb ed="#V" n="101"/>entitatibus quae sunt potentie: secundum quem modum duo calores equales 
-      <lb ed="#V" n="102"/>ossunt dici equales potentie calefactiue. duo autem inequales: inequales 
-      <lb ed="#V" n="103"/>potentie calefactiue. Et de calore maiore potest dici: quod est atie. 
-      <lb ed="#V" n="104"/>potentia. et de minore: quod est minor. Alio modo vt equalitas: vel 
-      inequali<lb ed="#V" n="105" break="no"/>tas intelligitur in his in que possunt dicte potentie: vel secundum 
-      <lb ed="#V" n="106"/>modos: quibus possunt in illa. Primo modo illa potentia actiua dicitur mo 
-      <lb ed="#V" n="107"/>que potest agere effectum maiorem intensiue vel extensiue: mul 
-      <lb ed="#V" n="108"/>titudine vel magnitudinie.
-    </p>
-            <p xml:id="grvnZZ-ed1e67-d1e457">
-      ⁋ 2o modo illa dicitur mai qua maiori 
-      <lb ed="#V" n="109"/>vel perfectiori modo potest in equalem effcantum. puta: quia facilius: vel ve 
-      <lb ed="#V" n="110"/>locius potest aut aliquo alio modo consimili: et econtra dicuntur ille equales qua possunt equa 
-      <lb ed="#V" n="111"/>lem effectum et equali modo producere: sic quod nullus excessus est 
-      <lb ed="#V" n="112"/>quae ad effectus vel modos producendi.
-    </p>
-            <p xml:id="grvnZZ-ed1e67-d1e468">
-      ⁋ Cum ergo quaeritur vtrum. 
-      <lb ed="#V" n="113"/>persone divine sint equales in potentia seu virtute: vnus sensus quaestionis 
-      <lb ed="#V" n="114"/>potest esse vtium sint equales in entitate illa quae est potentia. Alius potest esse 
-      <lb ed="#V" n="115"/>vtrum possint equales effectus producere. sic quod vna non possit 
-      <lb ed="#V" n="116"/>maiorem effectum aut facilius vel velocius aut alio modo 
-      perfe<lb ed="#V" n="117" break="no"/>ctiori producere quam potest alia persona.
-    </p>
-            <p xml:id="grvnZZ-ed1e67-d1e481">
-      ⁋ Item potentia potest accipi duus 
-      <lb ed="#V" n="118"/>Uno modo pro potentia actiua propria seu factiua: et sic non dicitur de 
-      <lb ed="#V" n="119"/>deo nisi respectu aliorum a deo. Alio modo potest accipi communiter: vt dicitur 
-      <lb ed="#V" n="120"/>tam de actiua modo praedicto quam de productiua alicuius quae est deus:  
-      <lb ed="#V" n="121"/>hoc 2o modo non sunt vsi hoc nomine potentia scient: dum contra hereticos 
-      pro<lb ed="#V" n="122" break="no"/>bant personam vnam eque potentem alteri. et quamlibet et oimpotentem: 
-      <lb ed="#V" n="123"/>sed pro modo. Quod patet per Aug. 3o li. contra maxium. vbi contra eum sic arguit:  
-      <lb ed="#V" n="124"/>si patris omimpotentia filii non est: quo quaecumque pater facit: hec et filius 
-      <lb ed="#V" n="125"/>facit. similiter quod vtique non potest omnimpotens non est. Constat aut: quod nisi 
-      <lb ed="#V" n="126"/>dipotentia attendatur praecise respectum factibilium non sequitur: filius potest 
-      <lb ed="#V" n="127"/>facere quaecumque potest facere pater. ergo est omimpotens sic paiter. quam tamen 
-      <lb ed="#V" n="128"/>consequentia virtualiter facit Aug. in praedictis verbis.
-    </p>
-            <p xml:id="grvnZZ-ed1e67-d1e507">
-      ⁋ Sumendo. 
-      er<lb ed="#V" n="129" break="no"/>go pro nunc potentiam pro virtute actiua seu factiua tantum. Pono quo 
-      <lb ed="#V" n="130"/>ad istum articulum duas conclusiones.
-    </p>
-            <p xml:id="grvnZZ-ed1e67-d1e514">
-      ⁋ Prima est. quod persone prima 
-      <!--203.xml-->
-      <pb ed="#V" n="106-v"/>
-               <cb ed="#V" n="a"/>
-               <lb ed="#V" n="1"/>diuine sunt equales in potentia iuxta sensum prius datum 
-    </p>
-            <p xml:id="grvnZZ-ed1e67-d1e526">
-               <lb ed="#V" n="2"/>⁋ Secunda est: quod ipse sunt equales penes sensum secundum.
-    </p>
-            <p xml:id="grvnZZ-ed1e67-d1e531">
-      ⁋ Pri 
-      <lb ed="#V" n="3"/>ma conclusio probatur simili modo quo probata est conclusio proecedentis articuli 
-      <lb ed="#V" n="4"/>videlibet quod persone sunt vna numero simplex entitas. et in nulla 
-      <lb ed="#V" n="5"/>sonarum est aliqua entitas distincta a communi essentia.
-    </p>
-            <p xml:id="grvnZZ-ed1e67-d1e540">
-      ⁋ 2am 
-      <lb ed="#V" n="6"/>conclusionem probo. Et primo quod nulla persona potest maiorem aliquo modo 
-      <lb ed="#V" n="7"/>effitam producere quam alia: et quantumlibet potest vna: tantumlibet poest quaelibet 
-      <lb ed="#V" n="8"/>earum. Et arguo sic. quicquid potest vna producere potest quelibet. 
-      <lb ed="#V" n="9"/>ergo nulla potest maiorem etc. consequenti a patet. quia si 
-      ali<lb ed="#V" n="10" break="no"/>qua potest maiorem intensiue id est perfectiorem eiusdem rationis 
-      <lb ed="#V" n="11"/>vel alterius: siue possit maiorem extensiue: siue secundum 
-      magni<lb ed="#V" n="12" break="no"/>tudinem: vel secundum multitudinem id est quia possit plura. semper sequi 
-      <lb ed="#V" n="13"/>tur quod possit aliquid quod non posset quaelibet. et per consequens non 
-      quic<lb ed="#V" n="14" break="no"/>quid potest vna potest quaelibet: quod repugnat antecedenti. Antecedens autem probatur: 
-      <lb ed="#V" n="15"/>ex eo quod quelibet persona omnimpotens est. et de filio quidem patet apotit. 
-      <lb ed="#V" n="16"/>Ego sum alpha et o. principium et finis dicit dominus: qui est et qui erat 
-      <lb ed="#V" n="17"/>et qui venturus est onimpotens. Et sapientie. 7. de sapientia 
-      in<lb ed="#V" n="18" break="no"/>creata que est emanatio sincera omimpotentis dei. hec autem est 
-      <lb ed="#V" n="19"/>filius dei. scribitur: cum sit vna omnia potest. Item ibidem de spunscton 
-      <lb ed="#V" n="20"/>legitur. omnium habens virtutem. patrem quoque esse oimpotentem 
-      <lb ed="#V" n="21"/>ex eodem loco colligitur vbi de filio scribitur quod est emanatio 
-      <lb ed="#V" n="22"/>omimpotentis dei. constat autem quod filius non est emanatio nisi pa 
-      <lb ed="#V" n="23"/>tris. Item Io. 5o ait saluator: non potest filius a seipso facere quid 
-      <lb ed="#V" n="24"/>quam nisi quod viderit patrem facientem. omnia autem potest filius. vt 
-      pro<lb ed="#V" n="25" break="no"/>batum est. ergo et omnia potest paiter.
-    </p>
-            <p xml:id="grvnZZ-ed1e67-d1e586">
-      ⁋ 2o probo: quod nec facilius: nec cele 
-      <lb ed="#V" n="26"/>rius nec aliquo alio modo quo possit argui excessus potentie 
-      <lb ed="#V" n="27"/>potest aliqua persona producere quam potest alia. Et istud potest primo 
-      pro<lb ed="#V" n="28" break="no"/>pari auctoritas Saluatoris. Io 5o vbi post verba proxime 
-      allega<lb ed="#V" n="29" break="no"/>ta immediate subiungit. Quecumque enim ipse pater facit: hec 
-      fili<lb ed="#V" n="30" break="no"/>us similiter facit. vbi secundum quod Aug. notat. 2o de tri. Non solum 
-      quaecum<lb ed="#V" n="31" break="no"/>que facit pliter: facit filius. sed etiam et similiter: ac per hoc vt dicit 
-      <lb ed="#V" n="32"/>inseparabilis et par operatio est patri et filio: inseparabilis inquam: quia 
-      <lb ed="#V" n="33"/>eadem ambo faciunt et eadem ratio est de spunscto.
-    </p>
-            <p xml:id="grvnZZ-ed1e67-d1e606">
-      ⁋ 2o idem probat 
-      <lb ed="#V" n="34"/>ratione. quia si aliqua persona effectum aliquem posset facilius vel 
-      ce<lb ed="#V" n="35" break="no"/>lerius facere quam potest alia persona. potentia factiua ipsius esset ma 
-      <lb ed="#V" n="36"/>ior intensiue vel extensiue: quam est potentia factiua alterius. Et 
-      ac<lb ed="#V" n="37" break="no"/>cipio maioritatem potentie primo modo supra dicto: scilicet secundum entitatem 
-      <lb ed="#V" n="38"/>suam. consequens autem illud patet esse falsum ex prima conclusione. Patet consequentia. quia 
-      <lb ed="#V" n="39"/>libet aliqua potentia non maior extensiue ceteris paribus facilius: et ve 
-      <lb ed="#V" n="40"/>locius facere possit equalem effectum. vbi gratia. plumbum equalis 
-      <lb ed="#V" n="41"/>magnitudinis secundum omnem dimensionem alicui ligno mouer 
-      <lb ed="#V" n="42"/>velocius deorsum per equale spacium. virtus tamen motiua quae est 
-      <lb ed="#V" n="43"/>forma grauitatis intensiue est maior in plumbo quam in ligno. 
-    </p>
-            <p xml:id="grvnZZ-ed1e67-d1e630">
-               <lb ed="#V" n="44"/>⁋ Item possibile est: quod potentia non sit maior intensiue: sed ex. 
-      <lb ed="#V" n="45"/>tensiue tantum. et facilius ac velocius equalem effectum faciat: 
-      <lb ed="#V" n="46"/>sicut plumbum maioris quantitatis velocius per equale 
-      descen<lb ed="#V" n="47" break="no"/>dit spacium: quam plumbum minoris quantitatis. esto quod non sit intensi 
-      <lb ed="#V" n="48"/>or grauitas in maiore quam in minore. Sed quod potentia nec intensiue nec 
-      <lb ed="#V" n="49"/>extensiue sit maiori. et tamen facilius vel velocius aut aliquo modo 
-      <lb ed="#V" n="50"/>melius et perfectius ceteris existentibus paribus possit age 
-      <lb ed="#V" n="51"/>re: est penitus impossibile. Nam qua ratione vna sic potest: 
-      que<lb ed="#V" n="52" break="no"/>libet alia similiter potest. Sicut probatum est nullam personam esse 
-      <lb ed="#V" n="53"/>maiorem potestate seu potentiore quam alia. Sic et per eandem ratio 
-      <lb ed="#V" n="54"/>nem probari potest nec duas nec omnes tres simul maioris esse 
-      poten<lb ed="#V" n="55" break="no"/>tie quam singula earum.
-    </p>
-            <p xml:id="grvnZZ-ed1e67-d1e660">
-      ⁋ Ad primum argumentu. q. dicendum quod 
-      magni<lb ed="#V" n="56" break="no"/>tudo dicitur equiuoce tam de magnitudine molis quam de 
-      magni<lb ed="#V" n="57" break="no"/>tudine perfectionis et bonitatis. Secundum autem quod dicitur de ma 
-      <lb ed="#V" n="58"/>gnitudine molis: est species quantitatis continue. et sic non est ma 
-      <lb ed="#V" n="59"/>gnitudo in deo: nec equalitas secundum quod equalitas est passio 
-      ta<lb ed="#V" n="60" break="no"/>lis magnitudinis. Secundum vero quod dicitur de magnitudine 
-      perfe<lb ed="#V" n="61" break="no"/>ctionis non est species quantitatis continue. et hoc modo sumitur ma 
-      <lb ed="#V" n="62"/>gnitudo: cum dicitur deus magnus et magnitudo esse in deo.
-    </p>
-            <p xml:id="grvnZZ-ed1e67-d1e678">
-      ⁋ Ad  
-      <lb ed="#V" n="63"/>2m nego antecedens ratione illius partis. filius non est omimpotens Et tamen 
-      <lb ed="#V" n="64"/>dico: quod non potest generare. Ad probationem que adducitur ex consequentia 
-      <lb ed="#V" n="65"/>Aug. contra maximum quamuis diuersimode respondeatur a diuersis: 
-      <!--203.xml-->
-      <cb ed="#V" n="b"/> 
-               <!-- 106-v b -->
-               <lb ed="#V" n="66"/>Dico quod illa consequentia Aug. secundum se non est necessaria. vnde simpliciter 
-      <lb ed="#V" n="67"/>non sequitur: paiter non potest generare. ergo paiter non est oimpotens. non 
-      <lb ed="#V" n="68"/>plusquam sequatur filius non potest generare. ergo filius non est oimpotens. quae 
-      <lb ed="#V" n="69"/>consequentia secundum omnes non est bona. contra hominem autem consequentia bona est. Nam 
-      <lb ed="#V" n="70"/>maximus ponebat filium dei esse factum et esse creaturam 
-      quan<lb ed="#V" n="71" break="no"/>dam. Item ponebat: quod esset naturalis filius dei. constat aut quod 
-      <lb ed="#V" n="72"/>possibile est filium naturalem esse equalem in perfectione et potentia 
-      patri<lb ed="#V" n="73" break="no"/>suo: sicut in homnibus videmus: quod si aliquis filius non sit equalis patri. 
-      <lb ed="#V" n="74"/>non est: quia filio talis equalitas repugnet: sed ex aliquo alio. 
-      <lb ed="#V" n="75"/>Ex his autem sequitur: quod aliquis filius deo patri equalis fuit 
-      pos<lb ed="#V" n="76" break="no"/>sibilis fieri: et fuit quoddam factibile. Et quia omnimpotens dicitur quod 
-      <lb ed="#V" n="77"/>omne factibile seu possibile fieri potest facere. ideo bene sequitur: filius equa 
-      <lb ed="#V" n="78"/>lis deo patri fuit factibilis: et deus paiter non potuit filium equalem 
-      <lb ed="#V" n="79"/>facere. ergo deus pater non fuit omimpotens. Et eodem modo sequitur. filius 
-      <lb ed="#V" n="80"/>equalis patri fuit generabilis: et paiter non potuit equalem sibi 
-      <lb ed="#V" n="81"/>filium generare. ergo pater non fuit oimpotens. si filius ponatur 
-      genera<lb ed="#V" n="82" break="no"/>bilis sicut aliquod factibile et essentialiter distinctum a deo. vt 
-      <lb ed="#V" n="83"/>ponebat maximus. Sed similiter non seu: quia non omne generabile est 
-      fa<lb ed="#V" n="84" break="no"/>ctibile: nec respectu cuiuslibet generabilis vel producibilis dicitur 
-      <lb ed="#V" n="85"/>dimpotens: sed respectu causabilis seu factibilis tantum. Quod ab 
-      <lb ed="#V" n="86"/>Aug. etiam habetur de fi. ad petrus ca. 3. vbi ait. In eo dei 
-      omimpoten<lb ed="#V" n="87" break="no"/>tia intelligitur: quod omnem creaturam visibilem atque inuisibilem. id est 
-      <lb ed="#V" n="88"/>corporalem et etiam spiritualem de nihilo fecit. Ex quo patet: quod secundum ipsum 
-      <lb ed="#V" n="89"/>omimpotentia debitur respectu causabilium tantum. 
-    </p>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#Rimini">Gregory of Rimini</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2020-10-03">October 03, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="V" n="cod-ae1bsb">Venice 1503</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-10-03" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#V" n="105-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="grvnZZ-ed1e67"><!-- l1d19-20q1 -->
+        <head xml:id="grvnZZ-ed1e67-Hd1e106">Quaestio 1</head>
+        <head xml:id="grvnZZ-ed1e67-Hd1e109" type="question-title">Utrum personae divinae sint aequales magnitudine et potentia</head>
+        <p xml:id="grvnZZ-ed1e67-d1e112">
+          <lb ed="#V" n="107"/>⁋ Distinctionis. XIX. et. XX. Qo. 
+          <lb ed="#V" n="108"/>Circa distinctionem 19. et 2o. simul quaero. vtrum perso 
+          <lb ed="#V" n="109"/>ne diuine sint equales magnitudi 
+          <lb ed="#V" n="110"/>ne et potentia.
+        </p>
+        <p xml:id="grvnZZ-ed1e67-d1e123">
+          ⁋ Et videtur primo quod non sunt equales 
+          ma<lb ed="#V" n="111" break="no"/>gnitudine: quia in personis diuinis nulla est 
+          <lb ed="#V" n="112"/>magnitudo. ergo ipse non sunt equales 
+          <lb ed="#V" n="113"/>qul magnitudine: consequentia patet: antecedens probatur: quia 
+          magni<lb ed="#V" n="114" break="no"/>tudo species est quantitatis continue: nulla vero 
+          quanti<lb ed="#V" n="115" break="no"/>tas continua est in deo.
+        </p>
+        <p xml:id="grvnZZ-ed1e67-d1e136">
+          ⁋ 2o videtur quod non sint equales potentia sic:  
+          <lb ed="#V" n="116"/>piaiter est omnipotens. filius autem non est omimpotens: ergo filius noti 
+          <lb ed="#V" n="117"/>est equalis potestatis cum patre. consequentia patet: et similiter prima pars antecedentis: 
+          <lb ed="#V" n="118"/>iuxta illud simboli. Credo in deum patrem omimpotentem. Sed 
+          <lb ed="#V" n="119"/>secunda probatur: quia si filius esset omimpotens. filius posset generare 
+          <lb ed="#V" n="120"/>filium sibi equalem: consequens falsum est: et consequentia probatur per consequentiam Au 
+          <lb ed="#V" n="121"/>gustini contra Maximium: per quam probat pattrem genuisse filium 
+          <lb ed="#V" n="122"/>sibi equalem. vt ponitur in littera. 2o. dictinit ait enim. si pater genuit 
+          <lb ed="#V" n="123"/>filium minorem: aut non potuit: aut non voluit gignere equalem. 
+          <lb ed="#V" n="124"/>Si autem dicis: quod non voluit: eum inuidum esse dixisti. Si aut 
+          <lb ed="#V" n="125"/>non potuit. vbi est oimpotentia patris: et infra. si non potuit 
+          <lb ed="#V" n="126"/>infirmus fuit etc. Si autem hec consequentia bona est. illa est bona est: 
+          <lb ed="#V" n="127"/>cum procedat ex opposito consequentis in oppositum antecedentis. 
+          <lb ed="#V" n="128"/>Sppositum arguitur per Augustinum. de fi. ad pere ego 
+          <lb ed="#V" n="129"/>et ponitur in principio 10 dicit dicentem.  
+          <lb ed="#V" n="130"/>quod nullus trium alium aut precedit eternitate: aut excedit 
+          <!--202.xml-->
+          <pb ed="#V" n="106-r"/>
+          <cb ed="#V" n="a"/>
+          <lb ed="#V" n="1"/>magnitudine aut superat potestate. 
+        </p>
+        <p xml:id="grvnZZ-ed1e67-d1e181">
+          <lb ed="#V" n="2"/>Hic sunt duo videnda. Unum est an persone divine sint 
+          <lb ed="#V" n="3"/>equales magnitudine. Aliud vtrum sint 
+          <lb ed="#V" n="4"/>equales potestate.
+        </p>
+        <p xml:id="grvnZZ-ed1e67-d1e194">
+          <lb ed="#V" n="5"/>Quantum ad primum praemitto: quod quaestio non est intelligenda de 
+          <lb ed="#V" n="6"/>magnitudine molis. sed bonitatis et 
+          perfe<lb ed="#V" n="7" break="no"/>ctionis: secundum quem modum loquitur <ref xml:id="grvnZZ-ed1e67-Rff2acc" corresp="#grvnZZ-ed1e67-Qddh7xx">Aug. 6. de tri.</ref> <quote xml:id="grvnZZ-ed1e67-Qddh7xx" source="http://scta.info/resource/adt-l6-d1e820@72-87">In his quae 
+            <lb ed="#V" n="8"/>non mole magna sunt hoc est maius esse quod est melius esse</quote>: 
+          <lb ed="#V" n="9"/>et per consequens hoc est magnum quod bonum: et hoc magnitudo quod 
+          bo<lb ed="#V" n="10" break="no"/>nitas. Quo premisso dico: quod quelibet persona diuina est 
+          equa<lb ed="#V" n="11" break="no"/>lis vtrique reliquarum et ambabus simul: quod probatur sic. omnes divine 
+          <lb ed="#V" n="12"/>persone sunt vna bonitas. et nulla bonitas est in aliqua 
+          perso<lb ed="#V" n="13" break="no"/>narum distincta ab illa communi bonitate. ergo quelibet est 
+          equa<lb ed="#V" n="14" break="no"/>lis vtrique reliquarum. et ambabus simul. consequentia nota est et similiter 
+          <lb ed="#V" n="15"/>prima pars antecedentis: quoniam omnes sunt vna essentia. et vna 
+          <lb ed="#V" n="16"/>natura: que vtique bonitas: immo summa bonitas est. 
+          Secunda<lb ed="#V" n="17" break="no"/>vero pars probatur: quia nulla entitas est in aliqua persona que 
+          <lb ed="#V" n="18"/>sit distincta ab essentia communi. ergo etiam nulla bonitas: cum omnis 
+          <lb ed="#V" n="19"/>bonitas sit entitas. assumptum patebit infra. distinctione 6. Sed 
+          cir<lb ed="#V" n="20" break="no"/>ca hoc occurrit dubium de relationibus: nam aliqua relatio est 
+          <lb ed="#V" n="21"/>in vna persona que non est in alia: vt paternitas in solo patre. 
+          <lb ed="#V" n="22"/>Et in aliqua persona. verbi gratia in filio plures quam in spiritu 
+          <lb ed="#V" n="23"/>sancto: et in patre et filio simul plures quam in solo spiritu sancto. cum 
+          <lb ed="#V" n="24"/>ergo quelibet relatio sit quedam spiritualis magnitudo: sicut 
+          <lb ed="#V" n="25"/>est quedam bonitas et perfectio. sequi videtur quod non omnium diuina 
+          <lb ed="#V" n="26"/>rum personarum sit equalis magnitudo.
+        </p>
+        <p xml:id="grvnZZ-ed1e67-d1e238">
+          ⁋ hic dicitur quod relatio 
+          di<lb ed="#V" n="27" break="no"/>uina secundum suam propriam entitatem que est entitas ad alterum 
+          <lb ed="#V" n="28"/>non habet aliquam quantitatem seu magnitudinem perfectionalem. Et 
+          <lb ed="#V" n="29"/>ideo non est finita nec infinita: cum finitum et infinitum sint passio 
+          <lb ed="#V" n="30"/>nes quanti solum.
+        </p>
+        <p xml:id="grvnZZ-ed1e67-d1e249">
+          ⁋ Contra. dicit August. 3. den. libr ar. omnia 
+          <lb ed="#V" n="31"/>que sunt eo ipso quod sunt bona sunt. et 83 q. <quote xml:id="grvnZZ-ed1e67-Qd1e253" source="http://scta.info/resource/a83-q24-d1e108" synch="41-49">omne inquit quod est:  
+            <lb ed="#V" n="32"/>inquantum est: bonum est</quote>. Si ergo relatio diuina habeat propriam 
+          enti<lb ed="#V" n="33" break="no"/>tatem: vt dicit opinio: habet ergo propriam bonitatem: et per consequens perfectionis 
+          <lb ed="#V" n="34"/>magnitudinem.
+        </p>
+        <p xml:id="grvnZZ-ed1e67-d1e263">
+          ⁋ Praeterea isti idem primo libro dicens primo q. secunda in solutione primo 
+          <lb ed="#V" n="35"/>mi argumenti ad quaestionem volunt: quod relatio divina habeat aliquam 
+          <lb ed="#V" n="36"/>propriam bonitatem: sed non bonitatem fruibilem. Unde concedunt: quod 
+          <lb ed="#V" n="37"/>bonum in communi conuertitur cum ente: et sic bonum reperitur in quolibet 
+          <lb ed="#V" n="38"/>gnaesente. sed vt sic bonum non habet rationem fruibilis: quia ratio boni 
+          frui<lb ed="#V" n="39" break="no"/>bilis non est ratio boni in communi: sed boni perfecti: quod est bonum 
+          nul<lb ed="#V" n="40" break="no"/>lum habens defectum: vel saltem secundum apparentiam ens tale: vel 
+          <lb ed="#V" n="41"/>secundum praefixionem voluntatis qualis non est relatio: concedunt ergo isti 
+          <lb ed="#V" n="42"/>relationem secundum suam propriam entitatem esse quandam bonitatem: 
+          <lb ed="#V" n="43"/>et non fruibilem in quo et iam dictis per eos repugnare 
+          vi<lb ed="#V" n="44" break="no"/>dentur.
+        </p>
+        <p xml:id="grvnZZ-ed1e67-d1e287">
+          ⁋ Praeterea omnis entitas creata est aliqua bonitas secundum se. ergo 
+          re<lb ed="#V" n="45" break="no"/>latio divina secundum quod est quaedam entitas est quaedam bonitas.
+        </p>
+        <p xml:id="grvnZZ-ed1e67-d1e292">
+          ⁋ Alii vero 
+          <lb ed="#V" n="46"/>concedunt: quod relatio dina est ex se quaedam magnitudo: sicut ex se 
+          <lb ed="#V" n="47"/>est quadam entitas realis. et ex se est res cui sepugnat omnis 
+          imperfe<lb ed="#V" n="48" break="no"/>ctio: et sic concedunt quod aliqua magnitudo est in vna persona quae non 
+          <lb ed="#V" n="49"/>est in alia: non quidem magnitudo absoluta: sed relatiua. non tamen 
+          <lb ed="#V" n="50"/>per hoc vna persona perfectior est altera: quia ita perfecta est vna relatis 
+          <lb ed="#V" n="51"/>sicut alia: nec distinctio magnitudinum repugnat equalitati. 
+          <lb ed="#V" n="52"/>cum autem dicitur quod plures relationes sunt in vna persona quam in alia: 
+          di<lb ed="#V" n="53" break="no"/>cunt non esse verum: quia spiratio et patrnitas non sunt plures relationes: 
+          <lb ed="#V" n="54"/>quamuis non sint idem formaliter.
+        </p>
+        <p xml:id="grvnZZ-ed1e67-d1e315">
+          ⁋ Contra. si paternitas et filiatio 
+          <lb ed="#V" n="55"/>sunt distincte magnitudines seu perfectiones et equae perfecte. ergo si 
+          <lb ed="#V" n="56"/>eiusdem rationis. et sic vel sunt due patrnitates vel due filiatio 
+          <lb ed="#V" n="57"/>nes: et non vna patrnitas: et vna filiatus. consequens est falsum: quia eadem 
+          ratio<lb ed="#V" n="58" break="no"/>ne non essent paiater et filius: sed duo patres vel duo filii inter divinas 
+          <lb ed="#V" n="59"/>personas: quod est erroneum. consequentia probatur per Aug. 3. de libro ar. vbi vult 
+          <lb ed="#V" n="60"/>puod si luna esset equalis perfectionis cum sole non essent sol et luna: 
+          <lb ed="#V" n="61"/>et duo soles. sic in proposito.
+        </p>
+        <p xml:id="grvnZZ-ed1e67-d1e333">
+          ⁋ Alii conuenientes cum istis in hoc 
+          <lb ed="#V" n="62"/>quod dixerunt quamlibet relationem secundum se esse perfectionem: immo perfectionem 
+          <lb ed="#V" n="63"/>infinitam: dixerunt: quod ex hoc non impeditur equalitas perfectionis 
+          perso<lb ed="#V" n="64" break="no"/>narum. tum quia earum equalitas perfectionis non atteditur: nisi secundum 
+          perfe<lb ed="#V" n="65" break="no"/>ctiones simpliciter. Relationes aut ille non sunt perfectiones simpliciter. Nam 
+          <!--202.xml-->
+          <cb ed="#V" n="b"/> 
+          <!-- 106-r b -->
+          <lb ed="#V" n="66"/>non esset melius patri: quod haberet proprietates filii: quia ex hoc 
+          amit<lb ed="#V" n="67" break="no"/>teret esse patrem. Nec similiter esset melior filius si haberet propri tates 
+          <lb ed="#V" n="68"/>scispus vel patris. Tum quia esto: quod ille relationes sint 
+          alte<lb ed="#V" n="69" break="no"/>rius rationis abinuicem: vna tamen non est perfectior aliis. Ratio est. quia 
+          <lb ed="#V" n="70"/>non continentur sub vna ratione communi quae diuidatur in eis per differentia quarum 
+          <lb ed="#V" n="71"/>vna sit habitus et reliqua priuatio.
+        </p>
+        <p xml:id="grvnZZ-ed1e67-d1e364">
+          ⁋ Contra primum Ansel. mogin. 
+          <lb ed="#V" n="72"/>nephas inquit est putare: quod subiecta suprime naturae sit aliquod quo me 
+          <lb ed="#V" n="73"/>lius sit aliquo modo non ipsum. cum ergo ipsa sit entitas 
+          <lb ed="#V" n="74"/>quelibet. et perfectio que est in ipsa alioquin non esset in 
+          <lb ed="#V" n="75"/>deo summa simplicitas: nephas est cogitare: quod ibi sit 
+          <lb ed="#V" n="76"/>aliqua perfectio qua in aliquo sit melius non ipsa quam ipsa.
+        </p>
+        <p xml:id="grvnZZ-ed1e67-d1e377">
+          ⁋ Praeterea aut  
+          <lb ed="#V" n="77"/>pratre melior est entitas sue proprietatis quam non ipsa aut non: non 
+          <lb ed="#V" n="78"/>potest dici secundum. quia tunc sequitur: quod pater non minus esset perfectus:  
+          <lb ed="#V" n="79"/>nec minus esset: si in ipso non esset talis entitas. Et vlterius 
+          <lb ed="#V" n="80"/>sequitur: quod ipsa superflue sit in eo: quod impium est sentire. Est ergo ipsa 
+          <lb ed="#V" n="81"/>in patre melior quam non ipsa. et ipse ex ea melior est. ergo in filio ea 
+          <lb ed="#V" n="82"/>dem entitas proprietatis patris est esset melior quam non ipsa. Et 
+          <lb ed="#V" n="83"/>hec consequentia patet: ex eo quod in personis divinis secundum ymaginationem: 
+          <lb ed="#V" n="84"/>sic loquentium non est praeter entitates suarum proprietatum nisi enti 
+          <lb ed="#V" n="85"/>tas absoluta naturae quae est equae perfecta in omnibus et singulis. et per consequens omnis 
+          <lb ed="#V" n="86"/>entitas vel perfectio quae vnam personam reddit meliorem quamlibet 
+          red<lb ed="#V" n="87" break="no"/>deret meliorem si esset in illa.
+        </p>
+        <p xml:id="grvnZZ-ed1e67-d1e403">
+          ⁋ Secundum quoque dictum non valet. 
+          <lb ed="#V" n="88"/>uoniam probatum est supra. distinctione 5. q. 3. quod aliquis vnus conceptus qui est genus 
+          <lb ed="#V" n="89"/>communis est relationibus divinis et creatis. et per consequens est aliquis vnus conceptus 
+          <lb ed="#V" n="90"/>gnaesienis communis illis relactionibus personarum.
+        </p>
+        <p xml:id="grvnZZ-ed1e67-d1e412">
+          ⁋ Secundum doctrinam vero 
+          <lb ed="#V" n="91"/>huius doctoris. distinctione 5. qid e1 abitro primo. in probatione prime propositionis. omne 
+          <lb ed="#V" n="92"/>genus diuiditur per differentia: quarum vna est respectu alterius vt 
+          <lb ed="#V" n="93"/>habitus. et reliqua vt priuatio. et per consequens. species vna est alia nobilior. 
+        </p>
+        <p xml:id="grvnZZ-ed1e67-d1e422">
+          <lb ed="#V" n="94"/>⁋ Dico ergo ad dubium factum. quod sicut in deo nulla relatio secundum 
+          <lb ed="#V" n="95"/>se est aliqua entitas praecisa: et distincta quomocumque. ex natura rei ab 
+          <lb ed="#V" n="96"/>essentia dei que sit in vna persona et non in qualibet. sic nulla 
+          <lb ed="#V" n="97"/>prorsus perfectio est in vna persona quae non sit in qualibet. 
+          <lb ed="#V" n="98"/>Quantum ad 2m articulum dico: quod vnam potentiam vel vir 
+          <lb ed="#V" n="99"/>tutem esse equalem alteri vel inequalem potest dupliciter 
+          <lb ed="#V" n="100"/>intelligi. Uno modo: vt inequalitas vel equalitas intelligatur in ipsis 
+          <lb ed="#V" n="101"/>entitatibus quae sunt potentie: secundum quem modum duo calores equales 
+          <lb ed="#V" n="102"/>ossunt dici equales potentie calefactiue. duo autem inequales: inequales 
+          <lb ed="#V" n="103"/>potentie calefactiue. Et de calore maiore potest dici: quod est atie. 
+          <lb ed="#V" n="104"/>potentia. et de minore: quod est minor. Alio modo vt equalitas: vel 
+          inequali<lb ed="#V" n="105" break="no"/>tas intelligitur in his in que possunt dicte potentie: vel secundum 
+          <lb ed="#V" n="106"/>modos: quibus possunt in illa. Primo modo illa potentia actiua dicitur mo 
+          <lb ed="#V" n="107"/>que potest agere effectum maiorem intensiue vel extensiue: mul 
+          <lb ed="#V" n="108"/>titudine vel magnitudinie.
+        </p>
+        <p xml:id="grvnZZ-ed1e67-d1e457">
+          ⁋ 2o modo illa dicitur mai qua maiori 
+          <lb ed="#V" n="109"/>vel perfectiori modo potest in equalem effcantum. puta: quia facilius: vel ve 
+          <lb ed="#V" n="110"/>locius potest aut aliquo alio modo consimili: et econtra dicuntur ille equales qua possunt equa 
+          <lb ed="#V" n="111"/>lem effectum et equali modo producere: sic quod nullus excessus est 
+          <lb ed="#V" n="112"/>quae ad effectus vel modos producendi.
+        </p>
+        <p xml:id="grvnZZ-ed1e67-d1e468">
+          ⁋ Cum ergo quaeritur vtrum. 
+          <lb ed="#V" n="113"/>persone divine sint equales in potentia seu virtute: vnus sensus quaestionis 
+          <lb ed="#V" n="114"/>potest esse vtium sint equales in entitate illa quae est potentia. Alius potest esse 
+          <lb ed="#V" n="115"/>vtrum possint equales effectus producere. sic quod vna non possit 
+          <lb ed="#V" n="116"/>maiorem effectum aut facilius vel velocius aut alio modo 
+          perfe<lb ed="#V" n="117" break="no"/>ctiori producere quam potest alia persona.
+        </p>
+        <p xml:id="grvnZZ-ed1e67-d1e481">
+          ⁋ Item potentia potest accipi duus 
+          <lb ed="#V" n="118"/>Uno modo pro potentia actiua propria seu factiua: et sic non dicitur de 
+          <lb ed="#V" n="119"/>deo nisi respectu aliorum a deo. Alio modo potest accipi communiter: vt dicitur 
+          <lb ed="#V" n="120"/>tam de actiua modo praedicto quam de productiua alicuius quae est deus:  
+          <lb ed="#V" n="121"/>hoc 2o modo non sunt vsi hoc nomine potentia scient: dum contra hereticos 
+          pro<lb ed="#V" n="122" break="no"/>bant personam vnam eque potentem alteri. et quamlibet et oimpotentem: 
+          <lb ed="#V" n="123"/>sed pro modo. Quod patet per Aug. 3o li. contra maxium. vbi contra eum sic arguit:  
+          <lb ed="#V" n="124"/>si patris omimpotentia filii non est: quo quaecumque pater facit: hec et filius 
+          <lb ed="#V" n="125"/>facit. similiter quod vtique non potest omnimpotens non est. Constat aut: quod nisi 
+          <lb ed="#V" n="126"/>dipotentia attendatur praecise respectum factibilium non sequitur: filius potest 
+          <lb ed="#V" n="127"/>facere quaecumque potest facere pater. ergo est omimpotens sic paiter. quam tamen 
+          <lb ed="#V" n="128"/>consequentia virtualiter facit Aug. in praedictis verbis.
+        </p>
+        <p xml:id="grvnZZ-ed1e67-d1e507">
+          ⁋ Sumendo. 
+          er<lb ed="#V" n="129" break="no"/>go pro nunc potentiam pro virtute actiua seu factiua tantum. Pono quo 
+          <lb ed="#V" n="130"/>ad istum articulum duas conclusiones.
+        </p>
+        <p xml:id="grvnZZ-ed1e67-d1e514">
+          ⁋ Prima est. quod persone prima 
+          <!--203.xml-->
+          <pb ed="#V" n="106-v"/>
+          <cb ed="#V" n="a"/>
+          <lb ed="#V" n="1"/>diuine sunt equales in potentia iuxta sensum prius datum 
+        </p>
+        <p xml:id="grvnZZ-ed1e67-d1e526">
+          <lb ed="#V" n="2"/>⁋ Secunda est: quod ipse sunt equales penes sensum secundum.
+        </p>
+        <p xml:id="grvnZZ-ed1e67-d1e531">
+          ⁋ Pri 
+          <lb ed="#V" n="3"/>ma conclusio probatur simili modo quo probata est conclusio proecedentis articuli 
+          <lb ed="#V" n="4"/>videlibet quod persone sunt vna numero simplex entitas. et in nulla 
+          <lb ed="#V" n="5"/>sonarum est aliqua entitas distincta a communi essentia.
+        </p>
+        <p xml:id="grvnZZ-ed1e67-d1e540">
+          ⁋ 2am 
+          <lb ed="#V" n="6"/>conclusionem probo. Et primo quod nulla persona potest maiorem aliquo modo 
+          <lb ed="#V" n="7"/>effitam producere quam alia: et quantumlibet potest vna: tantumlibet poest quaelibet 
+          <lb ed="#V" n="8"/>earum. Et arguo sic. quicquid potest vna producere potest quelibet. 
+          <lb ed="#V" n="9"/>ergo nulla potest maiorem etc. consequenti a patet. quia si 
+          ali<lb ed="#V" n="10" break="no"/>qua potest maiorem intensiue id est perfectiorem eiusdem rationis 
+          <lb ed="#V" n="11"/>vel alterius: siue possit maiorem extensiue: siue secundum 
+          magni<lb ed="#V" n="12" break="no"/>tudinem: vel secundum multitudinem id est quia possit plura. semper sequi 
+          <lb ed="#V" n="13"/>tur quod possit aliquid quod non posset quaelibet. et per consequens non 
+          quic<lb ed="#V" n="14" break="no"/>quid potest vna potest quaelibet: quod repugnat antecedenti. Antecedens autem probatur: 
+          <lb ed="#V" n="15"/>ex eo quod quelibet persona omnimpotens est. et de filio quidem patet apotit. 
+          <lb ed="#V" n="16"/>Ego sum alpha et o. principium et finis dicit dominus: qui est et qui erat 
+          <lb ed="#V" n="17"/>et qui venturus est onimpotens. Et sapientie. 7. de sapientia 
+          in<lb ed="#V" n="18" break="no"/>creata que est emanatio sincera omimpotentis dei. hec autem est 
+          <lb ed="#V" n="19"/>filius dei. scribitur: cum sit vna omnia potest. Item ibidem de spunscton 
+          <lb ed="#V" n="20"/>legitur. omnium habens virtutem. patrem quoque esse oimpotentem 
+          <lb ed="#V" n="21"/>ex eodem loco colligitur vbi de filio scribitur quod est emanatio 
+          <lb ed="#V" n="22"/>omimpotentis dei. constat autem quod filius non est emanatio nisi pa 
+          <lb ed="#V" n="23"/>tris. Item Io. 5o ait saluator: non potest filius a seipso facere quid 
+          <lb ed="#V" n="24"/>quam nisi quod viderit patrem facientem. omnia autem potest filius. vt 
+          pro<lb ed="#V" n="25" break="no"/>batum est. ergo et omnia potest paiter.
+        </p>
+        <p xml:id="grvnZZ-ed1e67-d1e586">
+          ⁋ 2o probo: quod nec facilius: nec cele 
+          <lb ed="#V" n="26"/>rius nec aliquo alio modo quo possit argui excessus potentie 
+          <lb ed="#V" n="27"/>potest aliqua persona producere quam potest alia. Et istud potest primo 
+          pro<lb ed="#V" n="28" break="no"/>pari auctoritas Saluatoris. Io 5o vbi post verba proxime 
+          allega<lb ed="#V" n="29" break="no"/>ta immediate subiungit. Quecumque enim ipse pater facit: hec 
+          fili<lb ed="#V" n="30" break="no"/>us similiter facit. vbi secundum quod Aug. notat. 2o de tri. Non solum 
+          quaecum<lb ed="#V" n="31" break="no"/>que facit pliter: facit filius. sed etiam et similiter: ac per hoc vt dicit 
+          <lb ed="#V" n="32"/>inseparabilis et par operatio est patri et filio: inseparabilis inquam: quia 
+          <lb ed="#V" n="33"/>eadem ambo faciunt et eadem ratio est de spunscto.
+        </p>
+        <p xml:id="grvnZZ-ed1e67-d1e606">
+          ⁋ 2o idem probat 
+          <lb ed="#V" n="34"/>ratione. quia si aliqua persona effectum aliquem posset facilius vel 
+          ce<lb ed="#V" n="35" break="no"/>lerius facere quam potest alia persona. potentia factiua ipsius esset ma 
+          <lb ed="#V" n="36"/>ior intensiue vel extensiue: quam est potentia factiua alterius. Et 
+          ac<lb ed="#V" n="37" break="no"/>cipio maioritatem potentie primo modo supra dicto: scilicet secundum entitatem 
+          <lb ed="#V" n="38"/>suam. consequens autem illud patet esse falsum ex prima conclusione. Patet consequentia. quia 
+          <lb ed="#V" n="39"/>libet aliqua potentia non maior extensiue ceteris paribus facilius: et ve 
+          <lb ed="#V" n="40"/>locius facere possit equalem effectum. vbi gratia. plumbum equalis 
+          <lb ed="#V" n="41"/>magnitudinis secundum omnem dimensionem alicui ligno mouer 
+          <lb ed="#V" n="42"/>velocius deorsum per equale spacium. virtus tamen motiua quae est 
+          <lb ed="#V" n="43"/>forma grauitatis intensiue est maior in plumbo quam in ligno. 
+        </p>
+        <p xml:id="grvnZZ-ed1e67-d1e630">
+          <lb ed="#V" n="44"/>⁋ Item possibile est: quod potentia non sit maior intensiue: sed ex. 
+          <lb ed="#V" n="45"/>tensiue tantum. et facilius ac velocius equalem effectum faciat: 
+          <lb ed="#V" n="46"/>sicut plumbum maioris quantitatis velocius per equale 
+          descen<lb ed="#V" n="47" break="no"/>dit spacium: quam plumbum minoris quantitatis. esto quod non sit intensi 
+          <lb ed="#V" n="48"/>or grauitas in maiore quam in minore. Sed quod potentia nec intensiue nec 
+          <lb ed="#V" n="49"/>extensiue sit maiori. et tamen facilius vel velocius aut aliquo modo 
+          <lb ed="#V" n="50"/>melius et perfectius ceteris existentibus paribus possit age 
+          <lb ed="#V" n="51"/>re: est penitus impossibile. Nam qua ratione vna sic potest: 
+          que<lb ed="#V" n="52" break="no"/>libet alia similiter potest. Sicut probatum est nullam personam esse 
+          <lb ed="#V" n="53"/>maiorem potestate seu potentiore quam alia. Sic et per eandem ratio 
+          <lb ed="#V" n="54"/>nem probari potest nec duas nec omnes tres simul maioris esse 
+          poten<lb ed="#V" n="55" break="no"/>tie quam singula earum.
+        </p>
+        <p xml:id="grvnZZ-ed1e67-d1e660">
+          ⁋ Ad primum argumentu. q. dicendum quod 
+          magni<lb ed="#V" n="56" break="no"/>tudo dicitur equiuoce tam de magnitudine molis quam de 
+          magni<lb ed="#V" n="57" break="no"/>tudine perfectionis et bonitatis. Secundum autem quod dicitur de ma 
+          <lb ed="#V" n="58"/>gnitudine molis: est species quantitatis continue. et sic non est ma 
+          <lb ed="#V" n="59"/>gnitudo in deo: nec equalitas secundum quod equalitas est passio 
+          ta<lb ed="#V" n="60" break="no"/>lis magnitudinis. Secundum vero quod dicitur de magnitudine 
+          perfe<lb ed="#V" n="61" break="no"/>ctionis non est species quantitatis continue. et hoc modo sumitur ma 
+          <lb ed="#V" n="62"/>gnitudo: cum dicitur deus magnus et magnitudo esse in deo.
+        </p>
+        <p xml:id="grvnZZ-ed1e67-d1e678">
+          ⁋ Ad  
+          <lb ed="#V" n="63"/>2m nego antecedens ratione illius partis. filius non est omimpotens Et tamen 
+          <lb ed="#V" n="64"/>dico: quod non potest generare. Ad probationem que adducitur ex consequentia 
+          <lb ed="#V" n="65"/>Aug. contra maximum quamuis diuersimode respondeatur a diuersis: 
+          <!--203.xml-->
+          <cb ed="#V" n="b"/> 
+          <!-- 106-v b -->
+          <lb ed="#V" n="66"/>Dico quod illa consequentia Aug. secundum se non est necessaria. vnde simpliciter 
+          <lb ed="#V" n="67"/>non sequitur: paiter non potest generare. ergo paiter non est oimpotens. non 
+          <lb ed="#V" n="68"/>plusquam sequatur filius non potest generare. ergo filius non est oimpotens. quae 
+          <lb ed="#V" n="69"/>consequentia secundum omnes non est bona. contra hominem autem consequentia bona est. Nam 
+          <lb ed="#V" n="70"/>maximus ponebat filium dei esse factum et esse creaturam 
+          quan<lb ed="#V" n="71" break="no"/>dam. Item ponebat: quod esset naturalis filius dei. constat aut quod 
+          <lb ed="#V" n="72"/>possibile est filium naturalem esse equalem in perfectione et potentia 
+          patri<lb ed="#V" n="73" break="no"/>suo: sicut in homnibus videmus: quod si aliquis filius non sit equalis patri. 
+          <lb ed="#V" n="74"/>non est: quia filio talis equalitas repugnet: sed ex aliquo alio. 
+          <lb ed="#V" n="75"/>Ex his autem sequitur: quod aliquis filius deo patri equalis fuit 
+          pos<lb ed="#V" n="76" break="no"/>sibilis fieri: et fuit quoddam factibile. Et quia omnimpotens dicitur quod 
+          <lb ed="#V" n="77"/>omne factibile seu possibile fieri potest facere. ideo bene sequitur: filius equa 
+          <lb ed="#V" n="78"/>lis deo patri fuit factibilis: et deus paiter non potuit filium equalem 
+          <lb ed="#V" n="79"/>facere. ergo deus pater non fuit omimpotens. Et eodem modo sequitur. filius 
+          <lb ed="#V" n="80"/>equalis patri fuit generabilis: et paiter non potuit equalem sibi 
+          <lb ed="#V" n="81"/>filium generare. ergo pater non fuit oimpotens. si filius ponatur 
+          genera<lb ed="#V" n="82" break="no"/>bilis sicut aliquod factibile et essentialiter distinctum a deo. vt 
+          <lb ed="#V" n="83"/>ponebat maximus. Sed similiter non seu: quia non omne generabile est 
+          fa<lb ed="#V" n="84" break="no"/>ctibile: nec respectu cuiuslibet generabilis vel producibilis dicitur 
+          <lb ed="#V" n="85"/>dimpotens: sed respectu causabilis seu factibilis tantum. Quod ab 
+          <lb ed="#V" n="86"/>Aug. etiam habetur de fi. ad petrus ca. 3. vbi ait. In eo dei 
+          omimpoten<lb ed="#V" n="87" break="no"/>tia intelligitur: quod omnem creaturam visibilem atque inuisibilem. id est 
+          <lb ed="#V" n="88"/>corporalem et etiam spiritualem de nihilo fecit. Ex quo patet: quod secundum ipsum 
+          <lb ed="#V" n="89"/>omimpotentia debitur respectu causabilium tantum. 
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

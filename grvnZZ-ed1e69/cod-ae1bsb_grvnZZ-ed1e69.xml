@@ -1,1107 +1,1107 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 1</title>
-            <author ref="#Rimini">Gregory of Rimini</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-            
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 1</title>
-               <date when="2020-10-03">October 03, 2020</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="V" n="cod-ae1bsb">Venice 1503</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2020-10-03" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#V" n="106-v"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="grvnZZ-ed1e69"><!-- l1d24q1 -->
-            <head xml:id="grvnZZ-ed1e69-Hd1e106">Quaestio 1</head>
-            <head xml:id="grvnZZ-ed1e69-Hd1e109" type="question-title">Utrum terminus unus vere de deo dicatur</head>
-            <p xml:id="grvnZZ-ed1e69-d1e112">
-               <lb ed="#V" n="90"/>⁋ Distinctionis. XXIIII. Quaestio. I 
-      <lb ed="#V" n="91"/>CIrca distinctionem. 24. in qua magister inquirit 
-      <lb ed="#V" n="92"/>quo termini numerales. vt vnus duo 
-      <lb ed="#V" n="93"/>tres dicantur de deo et personis divinis: Quero 
-      <lb ed="#V" n="94"/>primo de hoc termino vnus. Utrum scilicet vere de 
-      <lb ed="#V" n="95"/>deo dicatur.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e128">
-      ⁋ Et arguitur quod non: quia vel dice 
-      <lb ed="#V" n="96"/>retur de deo secundum quod vnum est principium numeri: vel 
-      <lb ed="#V" n="97"/>secundum quod est conuertibile cum ente. non primo. tum 
-      <lb ed="#V" n="98"/>qui tale vnum non dicitur nisi de continuo. sicut patet per Commmen. 5o meta. 
-      <lb ed="#V" n="99"/>vbi ait. Et debes scire: quod illud quod est huiusmodi est indiuisibile in 
-      <lb ed="#V" n="100"/>quantitatem tantum. si non habet situm est principium nuoarum: et si habet est punctus: et 
-      il<lb ed="#V" n="101" break="no"/>lud quod est tale in vnoquoque generum est simplex in illo 
-      ge<lb ed="#V" n="102" break="no"/>nere. Tum quia vnum sic sumptum significat accidens in re que 
-      <lb ed="#V" n="103"/>dicitur vna. sicut patet per eundem libro. 4. vbi ait: quod Auic. fuit 
-      <lb ed="#V" n="104"/>deceptus: quia estimauit quod vnum dictum de omnibus 
-      <lb ed="#V" n="105"/>praedicamentis id est vnum quod est principium numoarum. numerus autem est accidens. 
-      <lb ed="#V" n="106"/>Unde opinatus fuit: quod hoc nomen vnum significat accidens in entibus:  
-      <lb ed="#V" n="107"/>et non intellexit quod vnum quod est principioum nuoarum est ex entibus: de 
-      qui<lb ed="#V" n="108" break="no"/>bus dicitur hoc nomen vnum. hec Commen. Ex his patet quod Commen. 
-      <lb ed="#V" n="109"/>intendit: quod vnum quod est principium nuoarum significat accidens: sicut et numerus. 
-      <lb ed="#V" n="110"/>et ex hoc dicit Auic. fuisse opinatum: quod vnum conuertibile 
-      en<lb ed="#V" n="111" break="no"/>ti significat accidens. quia non distinxit vnum hoc ab illo. Nec est vnum 
-      <lb ed="#V" n="112"/>2o modo sumptum scilicet conuertibile enti potest dici de deo: quia et tale vnum 
-      <lb ed="#V" n="113"/>significat aliquid extra animam superadditum rei: quae dicitur vna: quod non contin 
-      <lb ed="#V" n="114"/>git esse in deo. assumptum patet: tum quia alias esset nugatio. dicendo 
-      <lb ed="#V" n="115"/>ens vnum: vel homo vnus. Tum quia tale vnum est patiao entis: passio aut 
-      <lb ed="#V" n="116"/>significat aliquod distinctum a subiecto: tamen praecise id ipsum quod subiectum: 
-      alio<lb ed="#V" n="117" break="no"/>quin non praedicaretur de ipso in 2o modo sed in primo dicendi per se. nec est diffini 
-      <lb ed="#V" n="118"/>retur per subiectum plusquam subiectum per passionem.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e180">
-      ⁋ Item diffinitio 
-      pas<lb ed="#V" n="119" break="no"/>sionis per subiectum non esset per additamentum: cuius oppositum patet. 7o meta. 
-      <lb ed="#V" n="120"/>Ad oppositum arguitur per illud. Deu. 6. Audi istum: 
-      <lb ed="#V" n="121"/>dominus deus vester deus vnus est. et ie. 
-      <lb ed="#V" n="122"/>meta. ait philosophus. vnus ergo princeps: per quem non nisi deum intellexit. 
-      <lb ed="#V" n="123"/>In hac quaestione duo erunt arti. Primus erit vtrum vnum 
-      con<lb ed="#V" n="124" break="no"/>uertibile cum ente vere dicatur de deo: Secundus 
-      <lb ed="#V" n="125"/>vero: vtrum de deo dicatur vnum quod dicitur principium nuoarum vel principium 
-      nume<lb ed="#V" n="126" break="no"/>randi: seu quod significat principium numeri. In primo articulato sic procedam: 
-      <lb ed="#V" n="127"/>quia primo praemittam quaedam necessaria ad propositum 2o ponam aliquas conclusiones 
-      <lb ed="#V" n="128"/>spremittendum autem primo est quid importatur per 
-      <lb ed="#V" n="129"/>hoc nomen vnum generaliter sum 
-      <lb ed="#V" n="130"/>ptum. et dico quod id ipsum penitus quod per hanc orationem: in se indiui 
-      <!--204.xml-->
-      <pb ed="#V" n="107-r"/>
-               <cb ed="#V" n="a"/>
-               <lb ed="#V" n="1"/>sum seu non diuisum. Sumo aut diuisum quemadmodum omne ens 
-      <lb ed="#V" n="2"/>dicitur esse diuisum a qualibet ente: quod non est ipsum. quo loquitur philosophus. 6o  
-      <lb ed="#V" n="3"/>meta. cum ait: quod verum affirmationem habet in composito: negationem 
-      <lb ed="#V" n="4"/>autem in diuiso. vel disiuncto. quod exponens Commentatoris. ait id est vera 
-      <lb ed="#V" n="5"/>affirmatiua significat compositionem in entibus: et vera negatiua diui 
-      <lb ed="#V" n="6"/>sionem. De quibuscumque ergo entibus verum est dicere hoc non est illud: illa 
-      <lb ed="#V" n="7"/>dicuntur hoc modo diuisa: et econtra de quibus vere dicitur hoc est illud illa a philosoph 
-      <lb ed="#V" n="8"/>vocantur composita. Isto ergo modo illud dicitur in se diuisum quod est aliqua 
-      <lb ed="#V" n="9"/>sic adinuice diuisa: et ipsum non est aliquod illorum: et per oppositum 
-      il<lb ed="#V" n="10" break="no"/>lud ens dicitur indiuisum in se quod non est aliqua sic adiuicem diuisa. 
-      <lb ed="#V" n="11"/>Uel in aliis verbis et redit in idem. illud est diuisum in se cui 
-      <lb ed="#V" n="12"/>est intrinsece aliquod quod non est ipsum. illud vero indiuisum in se: cuius 
-      <lb ed="#V" n="13"/>nihil est intrinsece: quod non sit ipsum: et quod sic in se est indiuisum est vnum. 
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e244">
-               <lb ed="#V" n="14"/>⁋ his consonat illud dictum philosophi 10 meta. vni esse est 
-      indiuisi<lb ed="#V" n="15" break="no"/>bile esse. et in 5o eiusdem dicit: quod quaecumque non habent diuisionem: 
-      inquan<lb ed="#V" n="16" break="no"/>tum non habent: vnum dicuntur.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e253">
-      ⁋ Quod vero huic diffinitioni dicenti quid nois 
-      <lb ed="#V" n="17"/>huius vnum. aliqui addunt. et a quaelibet alio diuisum: superflue additur. 
-      <lb ed="#V" n="18"/>Nam si solus deus esset: deitas esset vna. et tamen non esset ab alio 
-      di<lb ed="#V" n="19" break="no"/>uisa: non est ergo de ratione vnius esse ab alio diuisum.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e262">
-      ⁋ Praeterea sic patet. 
-      <lb ed="#V" n="20"/>io. meta. vnum et multa opponuntur priuatiue: sicut diuisum et non 
-      <lb ed="#V" n="21"/>diuisum. ad hoc autem vt aliqua dicantur vere multa: sufficit quod sint 
-      <lb ed="#V" n="22"/>inter se diuisa: ergo ad ratione vnius sufficit quod sit in se indiuisum. 
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e271">
-               <lb ed="#V" n="23"/>⁋ 2o praemitto quod hunc terminum vnum. praedicari de aliquo potest 
-      <lb ed="#V" n="24"/>intelligi dupliciter. Uno modo vt ipse simpliciter sine additione 
-      ex<lb ed="#V" n="25" break="no"/>praessa vel subintellecta alicuius alterius termini per ipsum 
-      determi<lb ed="#V" n="26" break="no"/>nabilis praedicetur: sicut de angelo dicimus quod est vnus vel vnum: 
-      <lb ed="#V" n="27"/>substantiue accipiendo vnum. Alio modo quod ipse praedicetur cum additione 
-      <lb ed="#V" n="28"/>alterius termini: quem determinet expressi vel 
-      subintelle<lb ed="#V" n="29" break="no"/>cti. vbi gratia dicendo de aliquo quod ipse est vnum hoc vel illud:  
-      <lb ed="#V" n="30"/>vt vnus homo vel vnum animal aut aliquod aliud.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e291">
-      ⁋ his praemissis po 
-      <lb ed="#V" n="31"/>non quatuor conclusiones. Quarum prima est: quod de quolibet supponente pre 
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e296">
-               <lb ed="#V" n="32"/>⁋ 2a quod de nullo supponente pro re habente partem et partem: potest pre 
-      <lb ed="#V" n="33"/>cise pro re simplici potest praedicari vnum vtroque modo praedictorum. 
-      <lb ed="#V" n="34"/>dicari vnum primo scilicet simpliciter. 2o autem modo potest.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e306">
-      ⁋ 3a. quod neutro mod 
-      <lb ed="#V" n="35"/>praedicatum significat aliquam entitatem distinctam et superadditam 
-      rei<lb ed="#V" n="36" break="no"/>pro qua supponit illud de quo praedicatur et per quam illa sit vna. 
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e313">
-               <lb ed="#V" n="37"/>⁋ 4a conclusio est: quod iste terminus vnum verissime praedicatur de deo. 
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e318">
-               <lb ed="#V" n="38"/>⁋ Prima conclusio probatur: quoniam omnis res simplex est indiuisa in se: ergo omnis 
-      <lb ed="#V" n="39"/>res simplex est vna: et per consequens de omni termino supponente praecise 
-      <lb ed="#V" n="40"/>quod re simplici praedicari potest etc. consequentia patet ex ratione huius nominis vnum 
-      <lb ed="#V" n="41"/>promissa. Antecedens aut notum est: quoniam illas tantum res simplices dicim 
-      <lb ed="#V" n="42"/>quae non sunt aliqua quaerum aliquod ipse non sunt: et vnum non sit aliud. quaelibet 
-      <lb ed="#V" n="43"/>aut talium dicitur esse indiuisa in se.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e334">
-      ⁋ Quia autem vnum possit de tali 
-      <lb ed="#V" n="44"/>bus praedicari cum adiuncto certum est: quia de quocumque potest vnum 
-      <lb ed="#V" n="45"/>praedicari simpliciter: potest etiam praedicari cum adiuncto: licet non cum quolibet 
-      <lb ed="#V" n="46"/>adiuncto. Unde sicut dicitur Michael est vnus vel vnum: ita vere dici 
-      <lb ed="#V" n="47"/>potest. Michael est vnus angelus: et vna subiecta: et vnus spiritus. 
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e345">
-               <lb ed="#V" n="48"/>⁋ 2a conclusio hatet duas partes. quarum prima sic probatur. Smne habens partem 
-      <lb ed="#V" n="49"/>et partem est aliqua quorum vnum non est aliud neque ipsum: et per consequens 
-      <lb ed="#V" n="50"/>est in se diuisum. ergo nullum habens partem et partem est simpliciter vnum: ac per 
-      <lb ed="#V" n="51"/>hoc de nullo supponente pro tali praedicatur vnum simpliciter. Antecedens 
-      <lb ed="#V" n="52"/>patet: quia cuiuslibet habentis partem et partem vna pars non est alia pars 
-      ne<lb ed="#V" n="53" break="no"/>que ipsum cuius est pars. consequentia probatur. quia si de aliquo suppone 
-      <lb ed="#V" n="54"/>te pro habente partem et partem praedicetur simpliciter vnum: illud pro quo subiecut 
-      <lb ed="#V" n="55"/>supponit: est in se indiuisum: et non est aliqua: quorum vnum non 
-      <lb ed="#V" n="56"/>est aliud: aut quorum aliquod non est ipsum. et per consequens non 
-      <lb ed="#V" n="57"/>habet partem et partem.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e369">
-      ⁋ 2o si de aliquo huiusmodi simpliciter dicitur vnum 
-      <lb ed="#V" n="58"/>demonstratis omnibus: quarum quodlibet est pars eius. vere diceretur hec 
-      <lb ed="#V" n="59"/>sunt vnum. vt demonstratis anima et corpore sortis: verum est 
-      dice<lb ed="#V" n="60" break="no"/>re: hec sunt vnum. consequentia patet: quia omnes partes simul sumpte: sunt ipsum 
-      to<lb ed="#V" n="61" break="no"/>tum: et anima et corpus sunt sortes. et per consequens. si totum est vnum: et ipse partes 
-      <lb ed="#V" n="62"/>sunt vnum. sed consequens est falsum. sic probat <ref xml:id="grvnZZ-ed1e69-Rfjj111" corresp="#grvnZZ-ed1e69-Qznc888">Aug. 6. de tri.</ref> vbi ait. 
-      <lb ed="#V" n="63"/><quote xml:id="grvnZZ-ed1e69-Qznc888" source="http://scta.info/resource/adt-l6-d1e795@76-138">cum sic dicitur vnum. vt non addatur quod vnum et plura vnum dicuntur vna natura 
-      <lb ed="#V" n="64"/>atque essentia non dissidens naet dissentiens significatur: cum vero additur quod 
-      <lb ed="#V" n="65"/>vnum potest aliquid significari ex pluribus vnum secitam: quaeuis diuersis natura. 
-      <!--204.xml-->
-      <cb ed="#V" n="b"/> 
-               <!-- 107-r b -->
-               <lb ed="#V" n="66"/>sict anima et corpus non vtique vnum. Quid enim tam diuersum nisi 
-      ad<lb ed="#V" n="67" break="no"/>datur aut subintelligatur quid vnum id est vnus homo aut vnum animal</quote>. 
-      <lb ed="#V" n="68"/>2o idem probatur per argumentationem Aug. qui 2o de li airo probat 
-      <lb ed="#V" n="69"/>nullum corpus esse vnum ex hoc quod quodlibet corpus habet partes. vnde 
-      <lb ed="#V" n="70"/>ait sic. quicquid corporis sensu attingitur: iam non vnum: sed multa 
-      <lb ed="#V" n="71"/>esse conuincitur. corpus est enim et ideo habet innumerabiles partes. et 
-      deculara<lb ed="#V" n="72" break="no"/>to immediate omne corpus habere multas partes concludit. et propterea 
-      <lb ed="#V" n="73"/>nullum corpus vere pure quod vnum esse concedimus. Et infra. id 
-      <lb ed="#V" n="74"/>ipsum quod simpliciter vnum est non potest habere partem dimidiam vel 
-      <lb ed="#V" n="75"/>tertiam vel quotamlibet: quoniam simplex vel simpliciter secundum aliam litteram et ve 
-      <lb ed="#V" n="76"/>re vnum est. Ex his sequitur. quod nullum totum essentiale vel 
-      integra<lb ed="#V" n="77" break="no"/>le homogeneum vel etherogeneum continuum et discretum aut quolibet 
-      <lb ed="#V" n="78"/>ex pluribus intrinsece constitutum est simpliciter vnum. sicut de quolibet 
-      <lb ed="#V" n="79"/>huiusmodi potest per iam dicta probari. Illud autem dico simu vnum de quo 
-      <lb ed="#V" n="80"/>vel de termino stante pro eo simpliciter et sine adiuncto 
-      vifica<lb ed="#V" n="81" break="no"/>tur vnum.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e431">
-      ⁋ Aduertendum autem: quod cum dico totum est omnes sue 
-      <lb ed="#V" n="82"/>partes. vel cum dico: sumo omnes partes huiusmodi aut illius: non aliud in 
-      <lb ed="#V" n="83"/>telligo quam si dico omnia quarum quodlibet est pars totius sunt totum. et ita in 
-      <lb ed="#V" n="84"/>eade significatione accipio omnes partes et omnia quorum quodlibet est pars: quod 
-      <lb ed="#V" n="85"/>dico ad vitandum multas calunias et forte inconuenientia: quae 
-      <lb ed="#V" n="86"/>possent inferri: si praedicte sumerentur secundum suam propriam significatio 
-      <lb ed="#V" n="87"/>nem. et ad hunc intellectum vtor talibus propositionibus propter communem 
-      <lb ed="#V" n="88"/>vsum loquendi: in quibuscumque locis me contingat vti eis.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e449">
-      ⁋ 2o 
-      <lb ed="#V" n="89"/>pars conclusionis: videlibet: quod vnum post praedicari cum aliqua adiuncto de eo 
-      <lb ed="#V" n="90"/>quod supponit pro habente partem et partem: probatur: nam de sorte composito 
-      <lb ed="#V" n="91"/>ex anima intellectiua et corpore vere dicitur sortes est vnus homo sequitur enim 
-      sorti<lb ed="#V" n="92" break="no"/>est homo. et non est plures homines quarum vnus non est alius. ergo sortes est 
-      <lb ed="#V" n="93"/>vnus homo. et antecedens est verum quantum ad vtramque partem.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e462">
-      ⁋ Ad hoc facit 
-      <lb ed="#V" n="94"/>verbum philosophi. 5o meta. cauis de vno. vbi ait vniversaliter. inm qucumque non habent 
-      di<lb ed="#V" n="95" break="no"/>uisionem inquantum non habent sic vnum dicuntur: vt si inquantum homo non 
-      <lb ed="#V" n="96"/>habet dionem vnus homo. Si vero inquantum animal vnum animal etc. per non habere 
-      <lb ed="#V" n="97"/>autem dionem inquantum homo vel inquantum animal nihil aliud intelligit quam non 
-      <lb ed="#V" n="98"/>didi in animalia nec in homines sumendo divisionem secundum modum supra 
-      <lb ed="#V" n="99"/>exponitum.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e478">
-      ⁋ Item 10 meta. c. 1. in fine. dicit indisibile est quod vnum 
-      <lb ed="#V" n="100"/>aut simus. aut inquantum vnum: volens quod sicut aliquod est indiuisibile ita est 
-      <lb ed="#V" n="101"/>vnum: si est indinsibile simpliciter est vnum simpliciter. si non simpliciter: sed secundum 
-      ali<lb ed="#V" n="102" break="no"/>quid secundum illud est vnum. Et dicitur vnum illud: vt vnus homo vel vnum animal: quam 
-      <lb ed="#V" n="103"/>uis ergo sortes sit divisus in plura: quia tamen non est divisus in plures homines. et ipse 
-      <lb ed="#V" n="104"/>homo ideo vere dicitur quod ipse est vnus homo: non autem sequitur: sortes est vnus homo. ergo 
-      <lb ed="#V" n="105"/>sortes est vnus. sicut non sequitur: sortes est vnus homo. ergo sortes non est aliqua 
-      adiui<lb ed="#V" n="106" break="no"/>cem distincta: sed potius seu oppositum. Nam sequitur: ergo sortes est corpus et anima 
-      <lb ed="#V" n="107"/>intellectia. et vltra: ergo est aliqua adinuice distincta. et sicut est non 
-      <lb ed="#V" n="108"/>sequitur: sortes est indiuisus in homines. vel non est plures homines. 
-      <lb ed="#V" n="109"/>ergo sortes est indiuisus in aliqua: vel non est plura aliqua. nec est sequitur: 
-      <lb ed="#V" n="110"/>ergo est indiuisus. Nam in omnibus talibus consequentia arguitur negatiue 
-      <lb ed="#V" n="111"/>ab inferiori ad superius a parte praedicati: in plus enim est plura et 
-      plu<lb ed="#V" n="112" break="no"/>ra aliqua quam plures homines.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e509">
-      ⁋ Circa istam conclusionem occurrunt dubia 
-      <lb ed="#V" n="113"/>Et primum est ex dicto philosophi. 4o meta. vbi dicit ens et vnum consequunti 
-      <lb ed="#V" n="114"/>se sicut principium et causa. Et Commen. ibi. intelligit istam consecutionem pe 
-      <lb ed="#V" n="115"/>niversalem conuertibilitatem vnius super alterum. De enim ens inquit Co 
-      <lb ed="#V" n="116"/>men.) est vnum: et omne vnum est ens et hoc ipsum communiter ab omnibus 
-      conce<lb ed="#V" n="117" break="no"/>ditur: sed istud esset falsum: si nullum compositum esset vnum: cum ipsum 
-      <lb ed="#V" n="118"/>sit vere ens.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e525">
-      ⁋ Secudo quia seu: quod simpliciter loquendo verius dicatur:  
-      <lb ed="#V" n="119"/>quod homo est multa quam quod est vnum: immo quod primum est verum. et 2m est falsum. 
-      <lb ed="#V" n="120"/>Sed hoc est contra philosophum. 8o meta. vbi quaerens causam vnitatis diffinitionis 
-      <lb ed="#V" n="121"/>dicit: quod ideo est vna: quia res diffinita est vna. et tunc vlterius 
-      inqui<lb ed="#V" n="122" break="no"/>rit propter quid tales res. verbi gratia. homo est vnum. et non est multa sup 
-      <lb ed="#V" n="123"/>ponens pro constanti talem rem qua vtique est composita esse vnam et non multa. 
-      <lb ed="#V" n="124"/>huic etiam consonat communis concessio. nullus enim est qui non concedat 
-      <lb ed="#V" n="125"/>singularem quemlibet hominem esse vnam rem. et similiter quodlibet lignum 
-      demon<lb ed="#V" n="126" break="no"/>stratum esse vnam et esse vnum.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e546">
-      ⁋ Praeterea pilosophus. 7o meta. et ideo et multis ego 
-      <lb ed="#V" n="127"/>aliis locis dicit: quod compositum quod est per se vnum: est vnum in actu. et 
-      plu<lb ed="#V" n="128" break="no"/>ra tantum in potentia et idem dicit de continuo: et est intentio eius: quod partes ta 
-      <lb ed="#V" n="129"/>lis compositi et continui non sint plures neque distincte in actu. 
-      <lb ed="#V" n="130"/>idem et vult Commen. vnde de partibus essentialibus compositi ait. 2o  
-      <!--205.xml-->
-      <pb ed="#V" n="107-v"/>
-               <cb ed="#V" n="a"/>
-               <lb ed="#V" n="1"/>de anima. quod materia et forma non sunt in composito existentes in actu. 
-      <lb ed="#V" n="2"/>et quod materia non differt a forma in composito: nisi in potentia. alioquin 
-      <lb ed="#V" n="3"/>copositum non esset vnum: nisi sicut illa quae sunt vnum secundum tactum 
-      <lb ed="#V" n="4"/>eliga mentum.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e572">
-      ⁋ Item 3o de anima. dicit: quod due partes non sunt 
-      <lb ed="#V" n="5"/>due actu in linea donec linea diuidatur: sed tantum sunt due in 
-      <lb ed="#V" n="6"/>potentia. Ex his autem sequitur quod magis est concedendum quodlibet talium. 
-      <lb ed="#V" n="7"/>esse verum quam esse multa simul loquendo: nec debeat concedi ipsum 
-      <lb ed="#V" n="8"/>esse multa simpliciter: sed cum determinatione tantum mo verbi gratia. 
-      <lb ed="#V" n="9"/>dicendo quod ipsum est multa in potentia.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e585">
-      ⁋ Item si homo non dicatur 
-      <lb ed="#V" n="10"/>vnus nisi cum adiuncto: sequitur quod non verius diceretur vnus quam 
-      <lb ed="#V" n="11"/>populus vel exercitus. Nam sicut homo est vnus homo. ita exerci. 
-      <lb ed="#V" n="12"/>tus est vnus exercitus: et populus vnus populus.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e594">
-      ⁋ Praeterea secumd 
-      <lb ed="#V" n="13"/>dicta sequitur: quod vna res nuoa sit plures res nuoa. vbi gratia. 
-      <lb ed="#V" n="14"/>vnum lignum nuoa sit plura ligna nuo: et vna aqua plures aqua. 
-      <lb ed="#V" n="15"/>et ita de quibuslibet corporibus homogeneis. consequens autem est impossibile: 
-      <lb ed="#V" n="16"/>quoniam vnum et plura opponuntur priuatiue. et per consequens eidem secundum idem 
-      <lb ed="#V" n="17"/>non possunt inesse. consequentia probatur. Nam quodlibet talium habet partes 
-      <lb ed="#V" n="18"/>similes. Si ergo lignum perper multitudinem partium est multa: cum 
-      <lb ed="#V" n="19"/>quelibet sit lignum: ipsum erit multa ligna nuoa. quod autem etiam ipsum 
-      <lb ed="#V" n="20"/>sit vnum lignum nuero certum est: alioquin non esset aliquod indiui 
-      <lb ed="#V" n="21"/>duum singulare in specie ligni. Patet est ex alio. quia si 
-      <lb ed="#V" n="22"/>ipsum non sit vnum numero eadem ratione nulla pars eius erit vna 
-      <lb ed="#V" n="23"/>nuoa: cum qualibet etiam habeat suas partes: et cum ipossibile sit esse 
-      mul<lb ed="#V" n="24" break="no"/>titudine sine vnitatibus: quia multitudo non est aliud nisi 
-      vni<lb ed="#V" n="25" break="no"/>tates: sequitur quod ipsum non erit multa ligna nuoa. vel ergo oportet con 
-      <lb ed="#V" n="26"/>cedere quod ipsum est vnum lignum numero: et non multa: et 
-      ha<lb ed="#V" n="27" break="no"/>betur propositum: vel quod ipsum est vnum nuoa: et multa nuoa: quod est 
-      <lb ed="#V" n="28"/>possibile.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e631">
-      ⁋ Ad primum dico: quod si isti termini ens et vnum suman 
-      <lb ed="#V" n="29"/>tur simus sine adiuncto expresso vel subintellecto: et vterque 
-      <lb ed="#V" n="30"/>in nuo singulari sunt adinuicem vniversaliter conuertibiles. et ita intel 
-      <lb ed="#V" n="31"/>ligi debet philosophus et dictum commune. Nam si ens sumatur in nuoa plurali 
-      <lb ed="#V" n="32"/>non praedicatur de ipso vnum simpliciter sumptum. hec enim est falsa. en 
-      <lb ed="#V" n="33"/>tia sunt vnum: et econverso si vnum pluraliter sumatur non praedicatur de ipso 
-      <lb ed="#V" n="34"/>ens singuliter. cum hec sit falsa proprie loquendo: vna vel 
-      vni<lb ed="#V" n="35" break="no"/>tates sunt ens: sed sunt entitates et entia.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e649">
-      ⁋ Tunc ad proposo 
-      <lb ed="#V" n="36"/>situm dico quod proprie loquendo: nullum compositum vel habens partes 
-      <lb ed="#V" n="37"/>est ens vel est entitas: sed entia. quamuis aliquo modo possit 
-      di<lb ed="#V" n="38" break="no"/>ci ens vt patebit in solutione sequenti
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e659">
-      ⁋ Pro solutione trium 
-      <lb ed="#V" n="39"/>argumentorum simul est sciendum quod eorum quae dicuntur habere partes. quadam 
-      <lb ed="#V" n="40"/>habent partes quarum vna est forma alterius. vt compositum ex materia 
-      <lb ed="#V" n="41"/>et forma. Quedam vero habent partes quarum nulla est forma alteri 
-      <lb ed="#V" n="42"/>us. Et hec sunt in triplici differentia. Nam quorumdam sunt partes 
-      <lb ed="#V" n="43"/>que constituunt vnum hoc aliquid sic secundum se namturaliter continuum cuius 
-      <lb ed="#V" n="44"/>motus est indiuisibilis secundum modum loquendi phy. 5o meta. 
-      ca<lb ed="#V" n="45" break="no"/>de vno id est cuius non potest vna pars localiter moueri alia quiescente: et 
-      <lb ed="#V" n="46"/>talia sunt corpora que proprie dicimus continua. Quorumdam vere 
-      <lb ed="#V" n="47"/>partes constituunt vnum hoc aliquid secundum se. non quidem per naturam: sed 
-      <lb ed="#V" n="48"/>artificialiter continuum modo praedicto: sicut partes compactus ex cemento 
-      <lb ed="#V" n="49"/>et lapidibus. et sicut domus et nauis et huiusmodi talia. Quorumdam vero 
-      <lb ed="#V" n="50"/>partes neutro modo constituunt vnum hoc aliquid per se continuum: sed quelibet parti 
-      <lb ed="#V" n="51"/>um est secundum se vnum hoc aliquid praecisum et distinctum ab alia parte 
-      <lb ed="#V" n="52"/>nulla actione nouiter facta: et ipsam moueri localiter possibile est 
-      <lb ed="#V" n="53"/>alia quiescente: quo se habent partes exercitus et acerui. quocumque 
-      <lb ed="#V" n="54"/>istorum modorum aliquid habeat partes ipsum est vere multa. non 
-      <lb ed="#V" n="55"/>tamen eodem modo. Nam quod habet partes 4o modo est multa hec aliqua: siue 
-      <lb ed="#V" n="56"/>quorum quodlibet est secundum se hoc aliquid. et omnia simul non sunt vnum 
-      <lb ed="#V" n="57"/>hoc aliquid. Quod vero habet partes 3o modo est multa que non sunt plu 
-      <lb ed="#V" n="58"/>ra hec aliqua: sed vnum: quamuis non per naturam. Quod vero habet partes 
-      <lb ed="#V" n="59"/>primo. vel 2o modo est multa que sunt tantum vnum hoc aliquid per naturam 
-      <lb ed="#V" n="60"/>et per consequens nullum talium est vnum simpliciter.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e709">
-      ⁋ Cum ergo philosophus dicit: 
-      <lb ed="#V" n="61"/>per homo et quaelibet res cuius est diffinitio vna: est vnum: et non multa: non 
-      <lb ed="#V" n="62"/>intelligit: quod sit vnum similiter: sed quod est vnum hoc aliquid per 
-      se<lb ed="#V" n="63" break="no"/>et non per artificium: et non est multa quorum quodlibet sit hoc aliquid 
-      <lb ed="#V" n="64"/>secundum se sicut aceruus: aut omnia sint verum hoc aliquid per ligamen 
-      <lb ed="#V" n="65"/>tum solumu vel artificium. Et quamuis simpliciter proferatur quod est 
-      <!--205.xml-->
-      <cb ed="#V" n="b"/> 
-               <!-- 107-v b -->
-               <lb ed="#V" n="66"/>vnum: non tamen est simpliciter dictum illud intelligendum. sicut est. 5o me 
-      <lb ed="#V" n="67"/>ta. inter ea quae sunt vnum per se ponit ea quae sunt continua per ligamen 
-      <lb ed="#V" n="68"/>tum. et simpliciter eni nciat illa esse vnum: cum tamen constet ea esse vere 
-      <lb ed="#V" n="69"/>multa. hac esnt ratione conceditur a recte intelligentibus: quod quilibet 
-      <lb ed="#V" n="70"/>singularis homo et quilibet ignis est ens et vnum ens et vna res. Io 
-      vi<lb ed="#V" n="71" break="no"/>delibet quia est vnum hoc aliquid: vt dictum est. quod non conceditur de propluro 
-      <lb ed="#V" n="72"/>vel aceruo. quia neutrum est vnum hoc aliquid. quia tamen illa praedica 
-      <lb ed="#V" n="73"/>ta ens res: et vna res cum praedicantur de huiusmodi subiectis: vere 
-      sup<lb ed="#V" n="74" break="no"/>ponunt pro pluribus entitatibus: sicut et ea de quibus praedican 
-      <lb ed="#V" n="75"/>tur. ideo simpliciter et magis proprie de quolibet illorum dicitur quod est 
-      <lb ed="#V" n="76"/>entitates et entia. sicut est quamuis simpliciter concedatur quod vna domus 
-      <lb ed="#V" n="77"/>est vna res: verius tamen dicitur simpliciter loquendo quod est etitates plures: 
-      <lb ed="#V" n="78"/>et res plures. et ideo cum illa simpliciter proferuntur: non sunt simpliciter: sed cum 
-      <lb ed="#V" n="79"/>adiuncto intelligenda.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e759">
-      ⁋ Quantum ad aliud quod sequitur 
-      <lb ed="#V" n="80"/>dicendum: quod philosophus et Commen. partes 4o modo dictas. et aliquando 3o modo vocant 
-      <lb ed="#V" n="81"/>partes in actu et existentes in actu et distinctas actu. et 
-      congre<lb ed="#V" n="82" break="no"/>gata ex eis dicit non esse vnum in actu. aut non nisi per liga 
-      <lb ed="#V" n="83"/>mentum. et hoc ideo: quia non sunt vnum hoc aliquid secundum se per naturam. 
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e770">
-               <lb ed="#V" n="84"/>⁋ Partes vero primo modo dictas que dicun partes essentiales scilicet 
-      <lb ed="#V" n="85"/>materia et forma: et 2o modo que vocant partes quantitatiue vocant ipsi 
-      <lb ed="#V" n="86"/>partes in potentia et que existunt in potentia et distinctas in potentia: non quod 
-      <lb ed="#V" n="87"/>dem quia huiusmodi partes non accidentaliter actualitate praesentie sint: sed 
-      <lb ed="#V" n="88"/>solum possint esse in rerum natura. hoc enim penitus falsum est: sicut 
-      <lb ed="#V" n="89"/>patet ad sensum. etiam nec congregata ex eis essent actualiter: nec est quid 
-      <lb ed="#V" n="90"/>vna non sit actualiter diuersa et distincta ab alia. Nam absurdu 
-      <lb ed="#V" n="91"/>esset dicere quod palmus corporis celi existens in oriente non sit distictus 
-      <lb ed="#V" n="92"/>et diuersus a palmo celi in occidente: et quod anima non sit distin 
-      <lb ed="#V" n="93"/>cta a corpore loquendo de diuisione et distinctione secundum modum 
-      <lb ed="#V" n="94"/>supra dictum. hec enim actualiter vera est. palmus orientalis non est 
-      <lb ed="#V" n="95"/>palmus occidentalis: et simpliciter hec est actualiter vera. anima non 
-      <lb ed="#V" n="96"/>est corpus. Sed ideo sic vocant eas: quia nulla secundum se est vnum 
-      <lb ed="#V" n="97"/>hoc aliquid praecisum et distinctum ab alia. vt partes de quibus est di 
-      <lb ed="#V" n="98"/>ctum: sed omne simul sunt vnum hoc aliquid: et propter hoc addunt quod 
-      <lb ed="#V" n="99"/>congregatum ex talibus non est plura in actu: sed vnum. Quia autem 
-      <lb ed="#V" n="100"/>iste sit intellectus eorum patet. Primo quidem de partibus essentia 
-      <lb ed="#V" n="101"/>ibus. 3o ce. per Commen. vbi loquens de materia dicit. hoc enim e 
-      <lb ed="#V" n="102"/>subiectum positum non est in potentia nisi inquantum non est in actu 
-      <lb ed="#V" n="103"/>inquantum est non in actu est pars alicuius quod est in actu. Et 
-      infra<lb ed="#V" n="104" break="no"/>subdit: si ergo inueniet per se et singulariter non secundum quod est 
-      <lb ed="#V" n="105"/>pars alicuius non est ens in potentia: sed in actu: ens enim in potentia non 
-      <lb ed="#V" n="106"/>inuenitur nisi in ente in actu. et si seperaretur esset ens supple actu 
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e822">
-               <lb ed="#V" n="107"/>⁋ Ex his patet: quod ideo dicit materiam esse ens in potentia. quia est pars eius quod 
-      <lb ed="#V" n="108"/>et in actu id est alicuius quod est vnum hoc aliquid secundum se. vnde vt ait si 
-      sepera<lb ed="#V" n="109" break="no"/>retur: et esset per se singulariter esset ens actu. quia scilicet esset secundum 
-      <lb ed="#V" n="110"/>se vnum hoc aliquid praecisum et distinctum: non constituens cum aliquo 
-      <lb ed="#V" n="111"/>alio vnum hoc aliquid. Et se sic intelligere vbique declarat per 
-      <lb ed="#V" n="112"/>llud quod subdit dicens. Et hoc intendimus cum dicimus in hoc  
-      <lb ed="#V" n="113"/>loco de prima materia quod est non ens in actu: et est ens in ente in actu 
-      <lb ed="#V" n="114"/>non distinctum ab eo. et hec est intentio mei sermonis: quod est in eo 
-      <lb ed="#V" n="115"/>in potentia. De partibus vero quantitatiuis in continuo quod eundem habeant 
-      <lb ed="#V" n="116"/>intellectum: patet per eundem 2o de generatione super illo capitulo De  
-      <lb ed="#V" n="117"/>elementis autem: ex quibus corpora constituta sunt. vbi ait quod partes 
-      <lb ed="#V" n="118"/>in continuo sunt in potentia partes quousque diuidantur et fiant partes 
-      <lb ed="#V" n="119"/>in actu. Constat autem: quod per solam divionem nulla entitas fit: quae 
-      <lb ed="#V" n="120"/>bus non esset: sed tantum modo quod non erat secundum se vnum hoc aliquid 
-      <lb ed="#V" n="121"/>fit vnum hoc aliquid. et illa quae erant vnum hoc aliquid fiunt 
-      plu<lb ed="#V" n="122" break="no"/>ra hec aliqua. Et ideo cum dicitur quod continuum est multa in potentia tantum et non 
-      <lb ed="#V" n="123"/>in actu. duplex sensus potest hic distingui. Unus secundum quod ly in potentia. 
-      <lb ed="#V" n="124"/>et in actu. possunt determinare compositionem seu verbum: et tunc equiualet 
-      <lb ed="#V" n="125"/>dictum illud huic. continuum potest esse multa: et non est multa: et sic 
-      <lb ed="#V" n="126"/>est falsum. Alius sensus potest esse secundum quod ly in potentia. et in actu. 
-      <lb ed="#V" n="127"/>possunt determinare praedicatum secundum se: et tunc equivalet huic: con 
-      <lb ed="#V" n="128"/>tinuum est multa possibilia. et non multa accidentalia siue ad 
-      <lb ed="#V" n="129"/>tum existentia. et hoc est verum accipiendo esse potentiale et actua 
-      <lb ed="#V" n="130"/>le siue ens actu secundum intellectu datum supra immediate.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e877">
-      ⁋ Et 
-      <!--206.xml-->
-      <pb ed="#V" n="108-r"/>
-               <cb ed="#V" n="a"/>
-               <lb ed="#V" n="1"/>eodem modo dicendum: quod partes continui sunt distincte in potentia et non in 
-      <lb ed="#V" n="2"/>actu id est sunt distincte partes potentiales et non actuales. Cum 
-      <lb ed="#V" n="3"/>vero vltimo additur quod homo non verius diceretur vnus quam acet 
-      <lb ed="#V" n="4"/>uus. patet esse falsum. Nam aceruus non est vnum hoc aliquid  
-      <lb ed="#V" n="5"/>sicut homo vt dictum est.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e898">
-      ⁋ Ad aliud dico: quod aliquid esse vnum 
-      <lb ed="#V" n="6"/>nuoa potest intelligi dupliciter. Uno modo: quod sit vnum et non plura. Alio 
-      <lb ed="#V" n="7"/>quod sit secundum se vnum hoc aliquid. et hec multum dicternt. Nam primo modo anima 
-      <lb ed="#V" n="8"/>intellectiua coniuncta corpri vt forma est vna entitas nuoa: 
-      <lb ed="#V" n="9"/>non autem 2o modo homo vero est vna entitas 2o modo et non primo.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e909">
-      ⁋ Tunc ad  
-      <lb ed="#V" n="10"/>argumentum dico: quod primo nullum lignum est vnum lignum nuoa: sed 
-      <lb ed="#V" n="11"/>quodlibet est plura ligna. Et prima probatio qua adducitur contra non 
-      pro<lb ed="#V" n="12" break="no"/>cedit accipiendo vnum nuoa primo: sed 2o modo.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e918">
-      ⁋ Ad aliam 
-      probatio<lb ed="#V" n="13" break="no"/>nem qua inducitur: concedo consequens. Et vlterius dico quod non est impossibile: 
-      <lb ed="#V" n="14"/>esse aliquam multitudinem que nec sit vnitas: nec constituta 
-      <lb ed="#V" n="15"/>ex vnitatibus simpliciter: sicu de vnitate et de vno simpliciter supra 
-      <lb ed="#V" n="16"/>loquutus sum: quinymo omnis multitudo partium continui est huiusmodi 
-      <lb ed="#V" n="17"/>Si vero accipiatur vnum numero 2o modo Tunc dico: quod aliquod lignum est 
-      <lb ed="#V" n="18"/>vnum numero: sed cum hoc stat quod sit etiam multa ligna. licet non 
-      <lb ed="#V" n="19"/>multa quorum quodlibet sit vnum numero isto 2o modo sicut homo est vnum 
-      <lb ed="#V" n="20"/>numero 2o modo et non primo modo: cum sint plures entitates. Est tamen differenti 
-      <lb ed="#V" n="21"/>qui aliquid eorum qui est homo est vnum numero prio modo: scilicet anima intellectiua: 
-      <lb ed="#V" n="22"/>quaet nullum eorum quia est lignum est vnum numero primo modo:
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e942">
-      ⁋ 3a conclusio duas 
-      <lb ed="#V" n="23"/>partes habet. vna est quod vnum non significat aliquam entitatem 
-      superad<lb ed="#V" n="24" break="no"/>ditam entitati quae est vna simpliciter: seu pro qua supponit illud  
-      <lb ed="#V" n="25"/>de quo ipsum simpliciter praedicatu. hoc autem probo primo sic: sumo 
-      <lb ed="#V" n="26"/>aliquam entitatem simpliciter vnam. vbi gratia. subiectam angeli 
-      Mi<lb ed="#V" n="27" break="no"/>chaelis. et arguo sic. Si hec subiecta esset sine aliqua entitate 
-      su<lb ed="#V" n="28" break="no"/>peraddita sibi ipsa esset vna. ergo ipsa non est vna per aliquam 
-      <lb ed="#V" n="29"/>entitatem sibi superadditam. Consequentia est euidens. Quia 
-      <lb ed="#V" n="30"/>enim subiecta niuis est alba per entitatem sibi superadditam. ideo 
-      <lb ed="#V" n="31"/>si ipsa esset sine aliqua entitate sibi superaddita ipsa non esset 
-      <lb ed="#V" n="32"/>alba.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e966">
-      ⁋ Patet est ratione: quia per nullam rem aliquid est tale: qua 
-      <lb ed="#V" n="33"/>remota et nullo alio ipsius vice posito ipsum nihilominus 
-      <lb ed="#V" n="34"/>est tale. Antecedens probatur. quoniam si hec subiecta esset illo casu posito: 
-      <lb ed="#V" n="35"/>ipsa tunc esset hec subiecta: que ipsa nunc est. ergo tunc non 
-      ha<lb ed="#V" n="36" break="no"/>beret aliquam entitatem intrinsecam: quam nunc non habet. Nam sicut 
-      <lb ed="#V" n="37"/>nulla subiecta includens aliquam entitatem quam hec non includit: est 
-      <lb ed="#V" n="38"/>hec subiecta ita si esset aliqua quae includeret aliquam quam hec non inclu 
-      <lb ed="#V" n="39"/>dit: non esset hec. quamuis posset hanc includere vt eius partem. 
-      <lb ed="#V" n="40"/>patet est hec consequentia ex alio. quia propter nullam entitatem sibi 
-      su<lb ed="#V" n="41" break="no"/>peradditam aliqua subiecta vel entitas caret aliqua entitate 
-      in<lb ed="#V" n="42" break="no"/>trinseca: quam includeret si ipsa esset sine aliqua 
-      entita<lb ed="#V" n="43" break="no"/>te superaddita sibi. et per consequens non includeret aliquam huiusmodi 
-      <lb ed="#V" n="44"/>entitatem per praecisam remotionem omnis entitatis sibi superad¬. 
-      <lb ed="#V" n="45"/>dite. Si autem non includeret tunc aliquam entitatem quam nunc 
-      <lb ed="#V" n="46"/>non includit. ergo ipsa tunc non esset aliqua entitas: quarum 
-      <lb ed="#V" n="47"/>vna non esset alia: et aliqua non esset ipsa: ac per hoc ipsa esset in 
-      <lb ed="#V" n="48"/>se indiuisa et vna. Assumptum probatur. quia si ipsa tunc esset aliqua 
-      <lb ed="#V" n="49"/>tales entitatens: sint ille entitates b. c. et ipsa sit a. cum ergo 
-      <lb ed="#V" n="50"/>positum sit quod tunc a. non haberet aliqua intrinsecam 
-      enti<lb ed="#V" n="51" break="no"/>tatem: quam modo non habet: ergo nunc non habet b. et c. Aut ergo nunc 
-      <lb ed="#V" n="52"/>entitas que est b. est entitas que est c. Et similiter est entitas 
-      <lb ed="#V" n="53"/>que est a. aut non. sit non: ergo a. nunc non est vnum simpliciter vt 
-      suppo<lb ed="#V" n="54" break="no"/>nitur. Si sic: ergo et tunc entitas que est b. esset tunc entitas quae 
-      <lb ed="#V" n="55"/>est c. et esset etiam entitas que est a. sicut entitas que est b. esset 
-      <lb ed="#V" n="56"/>tunc entitas que est b. Et si entitas que est c. esset tunc enti 
-      <lb ed="#V" n="57"/>tas que est c. et entitas que est b. esset tunc entitas que est 
-      <lb ed="#V" n="58"/>c. et per consequens a. non esset aliqua entitates quarum vna 
-      <lb ed="#V" n="59"/>non esset alia etc.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1027">
-      ⁋ Nec obstat si dicatur quod impossibile est huiusmod 
-      <lb ed="#V" n="60"/>subiectam esse sine aliqua entitate superaddita. Primo quidem 
-      <lb ed="#V" n="61"/>qui esto quod illud esset impossibile: nihilominus sequitur propositum. quia 
-      <lb ed="#V" n="62"/>si ista subiecta esset vna non seipsa: sed per aliquam entitatem 
-      su<lb ed="#V" n="63" break="no"/>peradditam. Si etiam per impossibile poneretur ipsam esse sine 
-      entita<lb ed="#V" n="64" break="no"/>te superaddita. ipsa tunc non esset vna. sicut quia ignis est 
-      ca<lb ed="#V" n="65" break="no"/>lidus caliditate sibi superaddita: si poneretur quod ignis esset si¬ 
-      <!--206.xml-->
-      <cb ed="#V" n="b"/> 
-               <!-- 108-r b -->
-               <lb ed="#V" n="66"/>ne caliditatem: ipse non esset calidus: esto quod impossibile esset ipsum 
-      <lb ed="#V" n="67"/>sic poni: sicut dicerent philosophi. ergo per oppositum: si posito illo 
-      <lb ed="#V" n="68"/>possibili adhuc subiecta esset vna: sequitur necessario quod ipsa 
-      <lb ed="#V" n="69"/>non est vna per aliquam entitatem superadditam. Simili modo  
-      <lb ed="#V" n="70"/>probat Aug. 5o de tri. quod paiter non ideo est ingenitus: quia filium genuit. 
-      <lb ed="#V" n="71"/>qui si filium non genuisset nihil prohiberet eum dici ingenitum: 
-      <lb ed="#V" n="72"/>et tamen suppositio est penitus impossibilis.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1065">
-      ⁋ 2o quia falsum est 
-      <lb ed="#V" n="73"/>illud esse impossibile: non enim aliqua contradictio implicatur: si ponatur illa 
-      <lb ed="#V" n="74"/>subiecta esse et nulla entitas sibi superaddita esse.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1072">
-      ⁋ Praeterea non 
-      mi<lb ed="#V" n="75" break="no"/>nus possibile est esse subiectam sine aliqua entitate superaddi 
-      <lb ed="#V" n="76"/>ta quam esse accidens aliquod sine subiecto: quod tamen constat per 
-      fidemn<lb ed="#V" n="77" break="no"/>esse possibile.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1081">
-      ⁋ Posset autem virtus praemisse rationis euiden 
-      <lb ed="#V" n="78"/>tius deduci. ponendo scilicet quod deus causaret aliquam subiectam 
-      an<lb ed="#V" n="79" break="no"/>gelicam sine entitate superaddita: et post lapsum temporis 
-      cau<lb ed="#V" n="80" break="no"/>saret in ipsa alias entitates quales sunt in aliis substantiis 
-      <lb ed="#V" n="81"/>angelicis. quo facto stat quod ista subiecta ita esset vna sicut subiecta 
-      <lb ed="#V" n="82"/>alterius angeli. Tunc arguitur sic demonstraniso ipsam: hec sub 
-      <lb ed="#V" n="83"/>stantia est vna et fuit vna dum fuit sine superaddita enti 
-      <lb ed="#V" n="84"/>tate. ergo hec subiecta non est vna per entitatem superadditam. 
-      <lb ed="#V" n="85"/>osequentia patet ex dictis et prima pars antecedentis. 2o vero probatur. 
-      <lb ed="#V" n="86"/>quia dum illa fuit sine superaddita entitate si non fuit 
-      <lb ed="#V" n="87"/>vna. ergo fuit alique entitates in se diuise id est quarum vna 
-      <lb ed="#V" n="88"/>non erat alia. et si sic: ergo a nunc ipsa est alique entitates 
-      <lb ed="#V" n="89"/>iuicem diuise: et per consequens illa non est vna. consequentia patet: quia constat secundum 
-      <lb ed="#V" n="90"/>casum quod ille entitates que ipsa fuit. verbi gratia b. c. eedem ipse 
-      <lb ed="#V" n="91"/>sunt nunc: ita quod illa eadem entitas b. que tunc fuit est nunc. et 
-      <lb ed="#V" n="92"/>ipsa eadem entitas c. que tunc fuit: est est nunc: et per consequens 
-      neu<lb ed="#V" n="93" break="no"/>tra est in alteram vel aliam aliquam conuersa vel 
-      transmuta<lb ed="#V" n="94" break="no"/>ta. ergo a nunc vna non est alia: et cum vtraque sit: sequitur quod vna 
-      <lb ed="#V" n="95"/>a reliqua sit diuisa.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1123">
-      ⁋ Confirmatur. quia ideo praecise tunc hec 
-      en<lb ed="#V" n="96" break="no"/>titas b. non erat illa entitas c. quia hec erat hec. et illa erat 
-      il<lb ed="#V" n="97" break="no"/>la. Unde sicut omnis entitas seipsa formaliter est ipsa: sic seipsa 
-      <lb ed="#V" n="98"/>est diuisa a non ipsa: seu non est alia: et per consequens quandiu ipsa est 
-      <lb ed="#V" n="99"/>ipsa: ipsa est diuisa ab alia: sed constat quod quandiu ipsa est: ipsa 
-      <lb ed="#V" n="100"/>est ipsa. Non enim est putandum: quod sicut possibile est aliquam 
-      ean<lb ed="#V" n="101" break="no"/>dem rem prius fuisse non tantam vel talem: et postea esse tantam 
-      <lb ed="#V" n="102"/>et talem. sic sit possibile eandem entitatem prius fuisse non hanc vel 
-      il<lb ed="#V" n="103" break="no"/>lam entitate: et postea esse illam. hoc enim posito illa non esset 
-      <lb ed="#V" n="104"/>eadem entitas sed alia: sed nunc est entitas b. que fuit. ergo nunc 
-      <lb ed="#V" n="105"/>ipsa non est entitas c. sed ab illa diuisa. ex quo vlterius sequitur: 
-      <lb ed="#V" n="106"/>quod hec subiecta angeli nunc est vna.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1149">
-      ⁋ 2o ad conclusionem sic: nulla 
-      enti<lb ed="#V" n="107" break="no"/>tas simplex est simplex per aliquam entitatem supadditam sibi. ergo 
-      <lb ed="#V" n="108"/>nulla entitas simplex est simpliciter vna per aliquam entitatem. Antecedens 
-      <lb ed="#V" n="109"/>est notum: quia non est intelligibile quod aliquid sit simplex. quia in ipso 
-      <lb ed="#V" n="110"/>estaliquid quod non est ipsum: sed potius quia nihil est in ipso quod 
-      <lb ed="#V" n="111"/>non sit ipsum. et quidem si nihil sit in ipso intrinsece quod non sit ipsum: 
-      <lb ed="#V" n="112"/>sit autem in ipso extrinsece id est non tamquam intrinseca pars eius aliquid 
-      <lb ed="#V" n="113"/>quod non sit ipsum: tunc illud est simplex intrinsece siue 
-      simplici<lb ed="#V" n="114" break="no"/>tate opposita compositioni ex his: sed non simpliciter simplicitate 
-      oppo<lb ed="#V" n="115" break="no"/>sita compositioni huic secundum communem modum loquendi. Si vero neutro modo 
-      <lb ed="#V" n="116"/>aliquid sit in ipso quod non sit ipsum. illud est vtroque modo simu et magis 
-      <lb ed="#V" n="117"/>simplex quam illud quod primo modo tantum est simplex. Unde ex hoc con 
-      <lb ed="#V" n="118"/>cludit Aug. 6. de tri. quod solus deus est simpliciter simplex. omnis 
-      <lb ed="#V" n="119"/>autem creatura est multiplex.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1180">
-      ⁋ Et ex hoc apparet 
-      manife<lb ed="#V" n="120" break="no"/>ste: quod nulla res simplex est simplex intrinsece. de qua sim 
-      <lb ed="#V" n="121"/>plicitate sum semper supra loquutus in hac quaestione: per aliquam 
-      <lb ed="#V" n="122"/>entitatem sibi superadditam. Consequentia patet: quoniam omnis entitas 
-      <lb ed="#V" n="123"/>simplex intrinsece: ideo est sic simplex: quia est simpliciter vna et in 
-      <lb ed="#V" n="124"/>seipsa indiuisa. Unde si ipsa esset in se simpliciter vna per aliquam 
-      enti<lb ed="#V" n="125" break="no"/>tatem superadditam: sequitur quod illa per illam superadditam entitatem esset 
-      <lb ed="#V" n="126"/>simplex.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1199">
-      ⁋ 3o adhuc posset argui per rationem Commen. contra Auicit. 
-      <lb ed="#V" n="127"/>4o. et ideo meta. vide eam.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1204">
-      ⁋ 2a pars conclusionis illius est quod vnum 
-      <lb ed="#V" n="128"/>pdicatum cum adiuncto expresso vel subintellecto non significat 
-      <lb ed="#V" n="129"/>aliquam entitatem secundum se distinctam ab ea quam significat terminus 
-      <lb ed="#V" n="130"/>cui adiungitur superadditam entitati. pro qua supponit id de 
-      <!--207.xml-->
-      <pb ed="#V" n="108-v"/>
-               <cb ed="#V" n="a"/>
-               <lb ed="#V" n="1"/>quo praedicatur. vbi gratia cum dicitur sortes est vnus homo: ly vnus. non 
-      <lb ed="#V" n="2"/>significat aliquam entitatem secundum se distinctam ab ea quam significat 
-      <lb ed="#V" n="3"/>homo: et superadditam entitati pro qua supponit sortes sic quod sortis 
-      <lb ed="#V" n="4"/>per aliam entitatem sit homo et per aliam sit vnus homo.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1228">
-      ⁋ probatur aut 
-      <lb ed="#V" n="5"/>hoc. Primo: quia si sortes esset sine omni entitate extrinseca 
-      <lb ed="#V" n="6"/>sibi supaddita: sortes esset vnus homo. ergo sortes non est vnus homo per 
-      en<lb ed="#V" n="7" break="no"/>titatem aliquam extrinsecam sibi additam: consequentia patet vt consequentia prime 
-      <lb ed="#V" n="8"/>rationis pro prima parte huius conclusionis. et antecedens etiam simili modo probatur vt 
-      <lb ed="#V" n="9"/>illud. Nam si sortes esset sortes esset sortes et per consequens esset homo: et non esset 
-      <lb ed="#V" n="10"/>plures homines. ergo esset vnus homo.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1244">
-      ⁋ 2o sumatur aliquis 
-      vn<lb ed="#V" n="11" break="no"/>asinus singularis. si iste est vnus asinus per aliquam 
-      entita<lb ed="#V" n="12" break="no"/>tem talem superadditam. vel illa est quanta dimensiue vel non. Si 
-      <lb ed="#V" n="13"/>non. aut ipsa est substantia: aut accidens. non subiecta: quia non subiecta 
-      <lb ed="#V" n="14"/>immaterialis. cum nulla talis sit in asino. nec materialis: quia 
-      <lb ed="#V" n="15"/>omnis talis siue sit materia siue forma seu compositum est quanta 
-      <lb ed="#V" n="16"/>Nec accidens. tum quia non esset signare in asino aliquam 
-      <lb ed="#V" n="17"/>determinatam partem in qua illud accidens esset. non enim appa 
-      <lb ed="#V" n="18"/>ret cur potius sit in capite quam in cauda. tum quia esto quod ipsum 
-      <lb ed="#V" n="19"/>esset in aliqua parte. verbi gratia. in capite non propter illud pars 
-      <lb ed="#V" n="20"/>materie existentis in cauda esset vnum cum alia proxima parte mrie: 
-      <lb ed="#V" n="21"/>nec cum parte forme qua informatur. nec etia pars forme cau 
-      <lb ed="#V" n="22"/>de cum alia parte sibi proxima. Si vero huiusmodi entitas sit quanta 
-      <lb ed="#V" n="23"/>dimensiue. ergo est multa. et tunc queratur per quid illa mul 
-      <lb ed="#V" n="24"/>ta sunt vnum: quia vel seipsis. et tunc eadem ratione vna pars for 
-      <lb ed="#V" n="25"/>me asini cum alia simili. et similiter cum materia seipsis possunt esse vnum: 
-      <lb ed="#V" n="26"/>cum non minus iste partes sint ex se nate facere vnum inten 
-      <lb ed="#V" n="27"/>se: et similiter partes materie illius entitatis addite inter se. et 
-      <lb ed="#V" n="28"/>similiter partes materie cum partibus forme quam partes illius entita 
-      <lb ed="#V" n="29"/>tis addite inter se. vel illa multa sunt vnum per aliquam aliam 
-      <lb ed="#V" n="30"/>entitatem. et tunc de illa queratur: et sic in infin. Smiliter hec ratio 
-      <lb ed="#V" n="31"/>t forsitan euidentius quo ad aliquid posset formari de 
-      ali<lb ed="#V" n="32" break="no"/>qua aqua vna et aliis corporibus homogeneis.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1294">
-      ⁋ 3o si alicui 
-      <lb ed="#V" n="33"/>aque iungantur ex diuersis partibus due alie aque. et ex 
-      <lb ed="#V" n="34"/>eis fiat vna aqua totalis que sit a. aut a. est vna aqua per 
-      <lb ed="#V" n="35"/>vnam aliquam entitatem supadditam: aut non. Si non habetur 
-      <lb ed="#V" n="36"/>propositum. si sic: vel illa esset aliqua entitas existens in tota aqua 
-      <lb ed="#V" n="37"/>vt aliqua existens tantum in communiunctione illarum aquarum partialium. non 
-      <lb ed="#V" n="38"/>potest dici principium quia vel esset entitas absoluta et hoc non. tum quia 
-      <lb ed="#V" n="39"/>ex tali coniunctione praecise non apparet quod possit aliqua entitas ab 
-      <lb ed="#V" n="40"/>soluta generari per totum. Absurdum enim est dicere quod si 
-      sci<lb ed="#V" n="41" break="no"/>phus aqui addatur mari ex vna parte: quod ex hoc per totum mare 
-      <lb ed="#V" n="42"/>generet aliqua entitas absoluta. Et iterum: quia si alius sciphus 
-      <lb ed="#V" n="43"/>secundo adderetur: iterum causaretur per totum mare simul entitas: et sic 
-      <lb ed="#V" n="44"/>quotcumque sciphi adderentur. Et tunc esset quaestio per quam illarum to 
-      <lb ed="#V" n="45"/>tum esset vna aqua: nec posset dari aliqua. Tum quia de partibus. 
-      <lb ed="#V" n="46"/>illius entitatis esset querendum: vtrum seipsis vel per additum 
-      <lb ed="#V" n="47"/>essent vnum vt supra. vel illa entitas esset respectus ille. et 
-      <lb ed="#V" n="48"/>istud etiam non potest dici: quia non apparet ad quem terminum esset re 
-      <lb ed="#V" n="49"/>spectus ille. Tum quia tot causarentur respectus per totam aquam 
-      <lb ed="#V" n="50"/>quot sciphi successiue adderentur: et non posset dici per quid 
-      <lb ed="#V" n="51"/>esset tota aqua vna aqua. Tum quia esto: quod talis respectus 
-      causa<lb ed="#V" n="52" break="no"/>retur nihil ad propositum: quia nullus respectus est entitas secundum se 
-      <lb ed="#V" n="53"/>distincta ab absolutis: vt infra probabitur. Nec potest dici: quod illa 
-      <lb ed="#V" n="54"/>entitas sit causata in coniunctione tantum: vt aliqui forte dicerent:  
-      <lb ed="#V" n="55"/>qui aliqua superficies esset nouiter causata continuans illas aquas: vel 
-      <lb ed="#V" n="56"/>aliqui respectus vnionis siue quod est vnio illarum 
-      adin<lb ed="#V" n="57" break="no"/>uicem. et per talem superficiem vel respectum aque illa tunc esset 
-      <lb ed="#V" n="58"/>vna aqua. hoc inquam esse non potest. Tum quia neutra huiusmodi entitas 
-      <lb ed="#V" n="59"/>noua causatur: cum nec respectus sit entitas secundum se ab illis 
-      distin<lb ed="#V" n="60" break="no"/>cta: nec etiam ipsa superficies vt alias probabitur. Tum quia oporte 
-      <lb ed="#V" n="61"/>eadem ratione dicere per quid partes superficiei talis (si poneretur) sunt 
-      <lb ed="#V" n="62"/>vnum: et sic vel tandem deueniretur ad punctum: et non esset dare quod 
-      <lb ed="#V" n="63"/>punctum esset illud per quod superficies illa esset vna: vel 
-      oporte<lb ed="#V" n="64" break="no"/>ret dicere quod seipsis: et eadem ratione partes aquae seipsis sunt vnum¬ 
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1366">
-               <lb ed="#V" n="65"/>⁋ Eodem mod modo potest argui de respectu vnionis: esto quod poneretur 
-      <!--207.xml-->
-      <cb ed="#V" n="b"/> 
-               <!-- 108-v b -->
-               <lb ed="#V" n="66"/>res distincta. Nam vel esset extensus: et tunc querendum esset 
-      <lb ed="#V" n="67"/>per quid eius partes sunt vnum. vel esset indiuisibilis. et tunc 
-      <lb ed="#V" n="68"/>non posset dari in qua parte aquae esset subiectiue: immo etiam nec in qua 
-      <lb ed="#V" n="69"/>illarum aquarum: cum non sit maior ratio de vna quam de alia: tum 
-      <lb ed="#V" n="70"/>quia siue ponatur talis superficies siue respectus. diuisio est 
-      <lb ed="#V" n="71"/>maior ratio quod respectus vel superficies causata in communiunctione 
-      <lb ed="#V" n="72"/>aqua communiuncte priori aquae ex vna parte: sit illud per quod tota aqua sit 
-      <lb ed="#V" n="73"/>vna: quam superficies vel respectus causatus in coiunctione 
-      al<lb ed="#V" n="74" break="no"/>terius aqua ex alia parte coniuncte: immo nec quam alie superficies 
-      <lb ed="#V" n="75"/>potinuantes alias partes illarum aquarum vel respectus vnionum 
-      <lb ed="#V" n="76"/>illarum adinuicem.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1402">
-      ⁋ 4o sicut aliqui arguunt: quando vnum 
-      cor<lb ed="#V" n="77" break="no"/>pus continuum diuiditur per segregationem partium adinuicem. quelibet 
-      <lb ed="#V" n="78"/>partium discretarum est vna nuoa hoc aliquid secundum se: igitur prius 
-      <lb ed="#V" n="79"/>erat corpus totale non diuisum: et tamen nulla entitas est de nouo 
-      <lb ed="#V" n="80"/>generata in aliqua partium per praecisam segregationem earum.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1413">
-      ⁋ pro 
-      <lb ed="#V" n="81"/>hac conclusione sunt expresse philosophus et Commen. 4. et 1d0eo meta.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1418">
-      ⁋ Sed 
-      <lb ed="#V" n="82"/>ptra eam potest argui. Nam separatis abinuicem partibus alicuius to 
-      <lb ed="#V" n="83"/>tius quod est per se vnum hoc aliquid: et remanentibus illis 
-      <lb ed="#V" n="84"/>omnibus in esse. ille partes non sunt vnum vt prius: ergo quando sunt vnum 
-      <lb ed="#V" n="85"/>scilibet ante seperationem earum non sunt seipsis vnum: sed per aliquid  
-      <lb ed="#V" n="86"/>additum eis. Ex quo vlterius sequitur: quod homo per entitatem sibi 
-      <lb ed="#V" n="87"/>additam sit vnus homo: et vnum lignum nuoa per entitatem superaddi 
-      <lb ed="#V" n="88"/>tam sit vnum lignum nuoa: et sic de aliis. cuius oppositum dictum est. Antecedens 
-      <lb ed="#V" n="89"/>patet in toto essentiali. Nam seperata anima homnis a corpore: et vtroque 
-      re<lb ed="#V" n="90" break="no"/>manente: illa anima et corpus non sunt vnus homo. Similiter secto 
-      <lb ed="#V" n="91"/>vno ligno in partibus remanentibus: ille non sunt vnum lignum. 
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1442">
-               <lb ed="#V" n="92"/>⁋ Rsponsio dicitur vno modo. quod concesso quod partes homnis non sint seipsis: 
-      <lb ed="#V" n="93"/>et per entitatem additam vnus homo. Adhuc non sequitur: quod per 
-      <lb ed="#V" n="94"/>aliam entitatem homo sit vnus ab his quibus est homo: nec vnu 
-      <lb ed="#V" n="95"/>sic praedicatum de ipso significat aliquam entitatem distinctam ab ea 
-      <lb ed="#V" n="96"/>vel eis quam vel quas significat homo superadditam ei: pro quo sup 
-      <lb ed="#V" n="97"/>onit illud de quo praedicatur. Nam sicut partes homnis separate non 
-      <lb ed="#V" n="98"/>sunt vnus homo: sic est non sunt homo. Si aut essent homo: et non vnus homo: arguent 
-      <lb ed="#V" n="99"/>procederet eodem modo. partes ligni secte sicut non sunt vnum lignum sic 
-      <lb ed="#V" n="100"/>non sunt lignum: sed ligna.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1464">
-      ⁋ 2o responsio negando consequentia primam. Nam quamuis 
-      <lb ed="#V" n="101"/>sole entitates partium sint totum vt partes homnis homo: non tamen 
-      qualiter<lb ed="#V" n="102" break="no"/>cumque se habentes ille entitates sunt homo: sed coniuncte et seinuicem 
-      <lb ed="#V" n="103"/>perficientes: licet autem non semper sic sint coniuncte: quando tamen sunt: non sunt 
-      <lb ed="#V" n="104"/>per aliquam aliam entitatem: sed seipsis coniuncte. non enim vnio earum 
-      <lb ed="#V" n="105"/>est aliqua entitas superaddita illis. Similiter de partibus 
-      <lb ed="#V" n="106"/>quantitatiuis dico: quod seipsis sunt vnum hoc aliquid: et 
-      <lb ed="#V" n="107"/>non per aliquam entitatem. et quando sic sunt: sunt vnum 
-      <lb ed="#V" n="108"/>lignum vel vnum aliquid aliud: quando vero non sunt 
-      <lb ed="#V" n="109"/>vnum hoc aliquid sed multa hec aliqua. sicut quando 
-      <lb ed="#V" n="110"/>sunt discontinua et discreta: tunc non sunt vnum lignum 
-      <lb ed="#V" n="111"/>vt prius erant.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1490">
-      ⁋ Quarta conclusio: scilicet quod vnum ve 
-      <lb ed="#V" n="112"/>re et simpliciter predicatur de deo: et quod deus est vere vnus 
-      <lb ed="#V" n="113"/>probatur. quia omnis res simplex est vere et simpliciter 
-      <lb ed="#V" n="114"/>vna: vt dicit prima conclusio: sed deus est simplex: immo 
-      <lb ed="#V" n="115"/>maxime inter omnia. ergo etc.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1502">
-      ⁋ Contra. deus est aliqua plura: quaerum 
-      <lb ed="#V" n="116"/>vnum non est aliud: ergo est in se diuisus: et per consequens non est simpliciter 
-      <lb ed="#V" n="117"/>vnus. consequentia patet ex dictis: vt videtur. et antecedens est certum per fidem. nam est 
-      <lb ed="#V" n="118"/>tres persone quarum vna non est alia.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1511">
-      ⁋ Respondeo negando consequentia. 
-      <lb ed="#V" n="119"/>Nam ad hoc quod aliquid sit in se diuisum non sufficit quod sit plura 
-      <lb ed="#V" n="120"/>quorum vnum non sit aliud. sed vltra hoc vt supra tactum est 
-      <lb ed="#V" n="121"/>requiritur quod aliquid illorum plurium non sit ipsum. Tunc enim 
-      <lb ed="#V" n="122"/>aliquid ita est ipsius quod non est ipsum et ipsum. et tunc vere 
-      <lb ed="#V" n="123"/>est in se diuisum. Nunc autem quamuis vna persona non sit alia: 
-      <lb ed="#V" n="124"/>quelibet tamen est deus: nec alius deus est vna quam alia. et per 
-      <lb ed="#V" n="125"/>consequens ille non est in se diuisus. 
-      <lb ed="#V" n="126"/>Quantum ad secundum articulum: videlibet. Utrum vnum quod 
-      <lb ed="#V" n="127"/>est principium numeri dicatur vere de deo: Dicitur. 
-      <lb ed="#V" n="128"/>multis quod non: eo quod tale vnum non dicitur secundum ipsos nisi de  
-      <lb ed="#V" n="129"/>rebus quantis et continuis: mihi autem videtur horum 
-      <lb ed="#V" n="130"/>fundamentum falsum esse. et ideo pro isto artic. pono quatuor conclusiones 
-      <!--208.xml-->
-      <pb ed="#V" n="109-r"/>
-               <cb ed="#V" n="a"/>
-               <lb ed="#V" n="1"/>pia conclusio quod vnum principium numeri non dicitur simpliciter: nisi de rebus simplicibus 
-      <lb ed="#V" n="2"/>siue de terminis pro rebus simplicibus supponentibus. 2a. quod 
-      <lb ed="#V" n="3"/>cum adiuncto dicitur vel potest dici de his terminis qui supponunt pro 
-      <lb ed="#V" n="4"/>habentibus partem et partem. 3a conclusio est quod vnum principium numeri non significat aliquam 
-      <lb ed="#V" n="5"/>entitate superadditam ei pro qua supponit illud de quo praedicatur. 4o 
-      <lb ed="#V" n="6"/>onclusio quod vnum tale dicitur vere de deo.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1559">
-      ⁋ Prima conclusio habet duas partes 
-      <lb ed="#V" n="7"/>quarum vna est quod de nulla re non simplici dicitur simpliciter vnum quod est 
-      <lb ed="#V" n="8"/>principium numeri. Secunda vero est quod de re simplici simpliciter dicitur et 
-      lo<lb ed="#V" n="9" break="no"/>quor de simplici simplicitate opposita compositioni ex his sicut 
-      <lb ed="#V" n="10"/>supra.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1570">
-      ⁋ Primam partem probo primo ex intentione bti Aug. 2o de li. ar. 
-      <lb ed="#V" n="11"/>vbi volens probare nuoas non esse nobis per sensus corporis no 
-      <lb ed="#V" n="12"/>tos assumit pro fundamento quod quilibet numerus tot vocat: quo 
-      <lb ed="#V" n="13"/>tiens habet vnum. veri gratia. si bis habuerit vnum vocatur duo: si 
-      ter<lb ed="#V" n="14" break="no"/>tria: si decies decem: et quilibet omnino numerus vt ait quaotiens habet vnum 
-      <lb ed="#V" n="15"/>hinc illi nomen est: et tot appellatur: vnum vero quisque verissime 
-      <lb ed="#V" n="16"/>cogitat profecto inuenit corporis sensibus: non et posse sentiri. 
-      <lb ed="#V" n="17"/>Quicquid enim sensu attingitur: iam non vnum sed multa esse conuincitur etc. 
-      <lb ed="#V" n="18"/>vt supra in secunda conclusione primi arti. est allegatum.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1590">
-      ⁋ Ex istis patet. quod 
-      <lb ed="#V" n="19"/>Aug. loquitur de vno quod est principium numeri: est quod tale vnum non di 
-      <lb ed="#V" n="20"/>simpliciter de aliquo corpore vel habente partes: ac per hoc nec de aliquo non 
-      <lb ed="#V" n="21"/>simplici.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1599">
-      ⁋ 2o idem probo ex intentione philosophi 10 meta. vbi loquens 
-      <lb ed="#V" n="22"/>de vno quod est metrum et principium numeri quod in numeris est metrum cer 
-      <lb ed="#V" n="23"/>tissimum: vnitatem enim ponunt omnino indiuisibilem: et satis cito post 
-      <lb ed="#V" n="24"/>dicit: quod quamuis metrum semper sit indiuisibile: non simpliciter tamen omne me 
-      <lb ed="#V" n="25"/>trum est indiuisibile: vt pes et vnitas: sed hoc quidem omnino illud vero indi 
-      <lb ed="#V" n="26"/>uisibile ad sensum voluit sicut dictum est iam. Nam forsan omne 
-      con<lb ed="#V" n="27" break="no"/>tinuum est diuisibile: vbi Commentatoris. exponens ait: et non omnes vnita 
-      <lb ed="#V" n="28"/>tes que accipiuntur ad mensurandum sunt indiuisibiles 
-      <lb ed="#V" n="29"/>eodem modo: sed quedam sunt indiuisibiles simpliciter: vt 
-      <lb ed="#V" n="30"/>vnum in nuoa: et quaedam per institutionem vt pes et palmus.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1622">
-      ⁋ Ex his 
-      <lb ed="#V" n="31"/>patet. quod secundum intentionem philosophi vnum quod est principium numeri est omnino 
-      indiuisibi<lb ed="#V" n="32" break="no"/>le: et per consequens de nullo non simplici huiusmodi vnum simpliciter verificatur. 
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1629">
-               <lb ed="#V" n="33"/>⁋ 3o idem probatur ratione. Nam quodlibet eorum quae numeramus dicendo: 
-      <lb ed="#V" n="34"/>vnum duo tria etc. secundum hoc praecise nuneratur secundum quod est in se indiuisum et 
-      <lb ed="#V" n="35"/>non multa: et per consequens quodlibet quod est vnum principium vel integrans cum alii 
-      <lb ed="#V" n="36"/>nunerum: ideo praecise est sic vnum: quia est in se indiuisum: ex quo vltra sequitur. 
-      <lb ed="#V" n="37"/>quod si est vnum simpliciter: est in se indiuisum simpliciter: et si est vnum secundum quid: 
-      <lb ed="#V" n="38"/>est indiuisum secundum quid: cum ergo nullum habens partes sic sit simpliciter indiui 
-      <lb ed="#V" n="39"/>sum: quin immo quodlibet sic diuisum est multa: vt patet ex praecedenti arti 
-      <lb ed="#V" n="40"/>sequitur quod nullum tale sit simpliciter vnum: et quod de nullo supponente 
-      <lb ed="#V" n="41"/>pro aliqui talium posset simpliciter vere dici vnum numerale de quo agitur. 
-      <lb ed="#V" n="42"/>Assumptum declaratur deducendo in singulis. Si enim numerentur 
-      <lb ed="#V" n="43"/>exercitus vel pospoli et dicantur. verbi gratia duo vel tria. quilibet sic ideo 
-      praeci<lb ed="#V" n="44" break="no"/>se dicitur vnus: quia est in se in plures exercitus indiuisus. Nam si esset plure 
-      <lb ed="#V" n="45"/>exercitus: sicut est plures homines: sicut illi non dicuntur nec sunt duo homines 
-      <lb ed="#V" n="46"/>sic etiam non essent duo exercitus. Et sicut neutri exercitus est vnus homo 
-      <lb ed="#V" n="47"/>sic neutri esset vnus exercitus. Similiter si sint due domus quaelibet ideo 
-      <lb ed="#V" n="48"/>praecise est vna: et sic connumeratur alteri: quia est indiuisa in plures do 
-      <lb ed="#V" n="49"/>mos quamuis sit diuisa in plures parietes et lapides et ligna: eo 
-      <lb ed="#V" n="50"/>dem mo duo homines dicuntur duo secundum quod vterque secundum se est indiui 
-      <lb ed="#V" n="51"/>sus in multos homines quamuis sit diuisus in plures partes essentia 
-      <lb ed="#V" n="52"/>les et integrales: et ita generaliter reperitur in omnibus.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1675">
-      ⁋ huic 
-      con<lb ed="#V" n="53" break="no"/>cordat dictum philosophi. 3. phycorum. qui probans quod in numeris est deuenir 
-      <lb ed="#V" n="54"/>ad minimum. dicit quod causa est: quia vnum est indiu isibile quodcumque vnum 
-      <lb ed="#V" n="55"/>sit: vt homo vnus homo et non infiniti. Numerus aut est vno plura et quaelibe 
-      <lb ed="#V" n="56"/>quaedam: quare necesse est stare ad indiuisibile: et constat quod ipse loqui 
-      <lb ed="#V" n="57"/>tur de vno quod est principium numeri. et Commenta. exponens. Ait omne 
-      <lb ed="#V" n="58"/>vnum est indiuisibile: vt vnus homo. vnus equus. est enim indiuisibilis 
-      <lb ed="#V" n="59"/>illa speciem: ideo vnum simplex scilicet numerale est indiuisibile: et quia numer 
-      <lb ed="#V" n="60"/>est coaceruus vnitatum numerus erit compositus ex indiuisibili 
-      <lb ed="#V" n="61"/>bus etc.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1697">
-      ⁋ Praeterea vnum principium numeri dice retur simpliciter de aliquo non 
-      <lb ed="#V" n="62"/>simplici: sequitur quod aliquis numerus simpliciter sumptus esset plura qua 
-      <lb ed="#V" n="63"/>quotiens continet vnum: et non praecise tot: consequens est falsum: vt supra 
-      <lb ed="#V" n="64"/>patet per Aug. consequentia patet: quia vnum quod ille numerus contineret esset plura 
-      <lb ed="#V" n="65"/>et non vnum tantum: et sic nunerus continens tale vnum decies praecise vel 
-      <!--208.xml-->
-      <cb ed="#V" n="b"/> 
-               <!-- 109-r b -->
-               <lb ed="#V" n="66"/>tali vna decem esset plura quam decem.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1717">
-      ⁋ 2a paes conclusionis probatur sic. aliqua 
-      <lb ed="#V" n="67"/>res simplex est simpliciter vna et alteri connumerabilis. ergo vnum quod 
-      <lb ed="#V" n="68"/>est principium numeri simpliciter dicitur de aliqua re simplici. antecedens est notum. Nam 
-      <lb ed="#V" n="69"/>anima vna intellectiua est simpliciter vna: et est connumerabilis alteri 
-      <lb ed="#V" n="70"/>anime intellectiue. dicendo vna due: et vnum et duo neutraliter: sic 
-      <lb ed="#V" n="71"/>enim vere anima sortes et anima platone sunt due anime: sicut sortis et plato sunt duo 
-      <lb ed="#V" n="72"/>homines. consequentia vero patet.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1733">
-      ⁋ 2a conclusio probatur: quia de termis 
-      supponenti<lb ed="#V" n="73" break="no"/>bus pro habentibus partem et partem vere praedicatur vnum cum certo 
-      adiun<lb ed="#V" n="74" break="no"/>cto: vt patet ex praecedenti arti. et huiusmodi talia sunt inuicem cum eodem 
-      ad<lb ed="#V" n="75" break="no"/>iuncto connumerabilia. verbi gratia vnus homo duo homines. et vltra: ergo de 
-      ta<lb ed="#V" n="76" break="no"/>libus seu supponentibus pro eis vere dicitur vnum quod est principium numeri cum 
-      <lb ed="#V" n="77"/>determinato adiuncto.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1747">
-      ⁋ Confirmatur. quia de pluribus talium 
-      <lb ed="#V" n="78"/>simul vere dicitur quod sunt tot vel tot: hoc vel illa. vbi gratia. decem homines 
-      <lb ed="#V" n="79"/>vel decem equi. ergo de quolibet talium vere dicitur vnum hoc vel illud principium 
-      <lb ed="#V" n="80"/>numeri. Unde sicut vnum simpliciter est principium numeri simpliciter: sic vnum hoc 
-      <lb ed="#V" n="81"/>vel illud: quod potest dici vnum secundum quid est principium numeri secundum quid id est 
-      nu<lb ed="#V" n="82" break="no"/>meri qui non est simpliciter tot vel tot: sed tot hoc vel tot illa. 
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1760">
-               <lb ed="#V" n="83"/>⁋ 3a conclusio probatur. primo sic: vnum conuertibile enti non significat  
-      <lb ed="#V" n="84"/>aliquam entitatem superadditam entitati que est vna. ergo nec 
-      <lb ed="#V" n="85"/>vnum principium numeri. Antecedens patet: ex praecedenti arti. consequentia 
-      pro<lb ed="#V" n="86" break="no"/>batur: quia siue vnum naturale dicatur de quolibet de quo dicitur vnum 
-      <lb ed="#V" n="87"/>conuertibile enti siue non: de quocumque tamen dicat sufficit 
-      il<lb ed="#V" n="88" break="no"/>li quod sit vnum vnitate entis: ad hoc vt alii possit 
-      connumera<lb ed="#V" n="89" break="no"/>ri: seu cum alio constituere numerum: et per consequens sufficit ad hoc vt 
-      <lb ed="#V" n="90"/>de ipso vel de supponente pro ipso possit praedicari vnum nume 
-      <lb ed="#V" n="91"/>rale id est quod est principium numeri. Unde posito quod sortes sit vnus homo 
-      <lb ed="#V" n="92"/>vnitate entis praecise: et similiter plures sortes et plato sunt vere duo 
-      <lb ed="#V" n="93"/>homines: et per consequens vterque secundum se est vnus vnitate numerali: ex 
-      <lb ed="#V" n="94"/>qua ille numerus integratur.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1789">
-      ⁋ Praeterea vnitas anime 
-      intellecti<lb ed="#V" n="95" break="no"/>ue vel angeli est distincta entitas ab entitate anime: ergo hec 
-      <lb ed="#V" n="96"/>vel illa sunt due entitates: et per consequens vtraque secundum se diui 
-      <lb ed="#V" n="97"/>sim est vna. et tunc queratur de illa entitate anime quae 
-      con<lb ed="#V" n="98" break="no"/>numeratur sue vnitati: an sit vna per se ipsam: et habetur propositum 
-      <lb ed="#V" n="99"/>Nam prima frustra ponitur. an per aliam vnitatem: et sic 
-      proce<lb ed="#V" n="100" break="no"/>ditur in infinitum: et similiter potest queri de illa entitate que dicitur 
-      <lb ed="#V" n="101"/>vnitas anime: an per seipsam sit vna: et si sic: eadem ratione 
-      <lb ed="#V" n="102"/>entitas anime seipa erit vna: an per aliam entitatem superad  
-      <lb ed="#V" n="103"/>ditam: et erit processus in infinitum: et patet quod semper loquor de vno 
-      <lb ed="#V" n="104"/>numerali.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1813">
-      ⁋ Sed forte dicetur quod vtraque entitas est vna: sed  
-      <lb ed="#V" n="105"/>diuersimode. Nam entitas vnitatis est essentialiter vna vel po 
-      <lb ed="#V" n="106"/>tius vnitas: entitas vero anime est denominatiue tantum: quia scilicet est habens 
-      ta<lb ed="#V" n="107" break="no"/>lem entitatem: sicut si candor dicatur candidus: vt dicit Aug. erg 
-      <lb ed="#V" n="108"/> mo de tri. aliter ipse dicitur candidus: quia scilicet essentialiter est candor et alier 
-      <lb ed="#V" n="109"/>cygnus. Nam cygnus solum denominatiue dicitur candidus: quia scilicet in se 
-      <lb ed="#V" n="110"/>habet candorem: et non est candor: et sicut non potest concludi quod cygnus 
-      se<lb ed="#V" n="111" break="no"/>ipo sit candidus et non per candorem superadditum: nec tamen sequitur 
-      <lb ed="#V" n="112"/>processus in infinitum in candoribus: ita in proposito non potest 
-      pro<lb ed="#V" n="113" break="no"/>bari quod entitas anime sic sit seipsa vna: aut sit processus in 
-      infi<lb ed="#V" n="114" break="no"/>nitum in vnitatibus.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1837">
-      ⁋ Contra. primo entitas anime non est in 
-      <lb ed="#V" n="115"/>se indiuisa per illam entitatem superadditam quam ponis 
-      <lb ed="#V" n="116"/>nec etiam per illam entitatem superadditam est 
-      distin<lb ed="#V" n="117" break="no"/>cta ab illa. ergo nec per illam aliam entitatem est in se vna 
-      <lb ed="#V" n="118"/>et illi connumerata. consequentia nota est: quia posito praecise quod aliquid 
-      <lb ed="#V" n="119"/>sit in se indiuisum et sit diuisum ab alio: hoc et illud 
-      consti<lb ed="#V" n="120" break="no"/>tuunt numerum vel sunt numerus: et per consequens quodli 
-      <lb ed="#V" n="121"/>est vnum.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1855">
-      ⁋ Antecedens patet: quia nulla entitas alteri 
-      super<lb ed="#V" n="122" break="no"/>addita est causa indiuisionis intrinsece de qua loquimus 
-      <lb ed="#V" n="123"/>illius rei cui additur: sicut supra declaratum est: nulla etiam est principium 
-      <lb ed="#V" n="124"/>distinguendi aliquid a seipsa: alioquin ipsa esset distincta 
-      <lb ed="#V" n="125"/>a seipsa: et ipsa non esset ipsa: quod implicat 
-      contradictio<lb ed="#V" n="126" break="no"/>nem.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1869">
-      ⁋ Confirmatur. quia si tam entitas vnitatis quam 
-      posi<lb ed="#V" n="127" break="no"/>tionis quam entitas anime esset per se subsistens: nec 
-      infor<lb ed="#V" n="128" break="no"/>maret ipsam animam: constat quod non minus hec et illa est 
-      <lb ed="#V" n="129"/>sent due: et per consequens quelibet vna quam habet nunc: et 
-      <lb ed="#V" n="130"/>tamen tunc entitas anime non esset vna per istam entitatem. 
-      <!--209.xml-->
-      <pb ed="#V" n="109-v"/>
-               <cb ed="#V" n="a"/>
-            </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1887">
-               <lb ed="#V" n="1"/>⁋ Ex hoc patet. quod exemplum inductum non est simile: nam per ipsum candorem 
-      cy<lb ed="#V" n="2" break="no"/>genus est candidus: et si ille separatus existeret ab eo non esset candidus. 
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1894">
-               <lb ed="#V" n="3"/>⁋ 2o quia nec minus entitas anime est per seipam in se indiuisa: et ab 
-      il<lb ed="#V" n="4" break="no"/>la entitate superaddita diuisa quam econverso illa superaddita per se indi 
-      <lb ed="#V" n="5"/>uisa in se et ab anima diuisa: et per consequens non minus per seipam est vna quam 
-      <lb ed="#V" n="6"/>ista.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1905">
-      ⁋ Ex quo sequitur. quod si ista entitas sit per se vna et vnitas: quod 
-      <lb ed="#V" n="7"/>etiam entitas anime sit per se vna et vnitas.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1910">
-      ⁋ Praeterea nulla res est in se 
-      in<lb ed="#V" n="8" break="no"/>diuisa per aliquam entitatem sibi superadditam. ergo nulla est vnum 
-      nume<lb ed="#V" n="9" break="no"/>rale per aliquam entitatem superadditam. consequentia patet: quia si ratio talis 
-      vnius<lb ed="#V" n="10" break="no"/>in praecisa indiuisione intrinseca consistit: siue simpliciter: si simpliciter sit 
-      <lb ed="#V" n="11"/>vnum siue secundum quid: vt secundum hoc vel illud: si sit vnum secundum quid: vt 
-      <lb ed="#V" n="12"/>vnum hoc vel vnum illud: vt supra dictum est: antecedens etiam est supra 
-      declara<lb ed="#V" n="13" break="no"/>tum. Ad hanc conclusionem applicari possunt rationes. 3. conclusionis praecedentis arti. 
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1926">
-               <lb ed="#V" n="14"/>⁋ 4a conclusio probatur sic. de deo angelo michaele vere praedicatur numerus 
-      <lb ed="#V" n="15"/>simpliciter. Nam vere dicitur quod sunt duo. ergo de quolibet eorum sed se vere 
-      praedica<lb ed="#V" n="16" break="no"/>tur vnum nuamerale simpliciter: consequentia patet: quia numerus simpliciter est vna: vel 
-      <lb ed="#V" n="17"/>entitas simpliciter: sic numerus secundum quid: est vna secundum quid.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1938">
-      ⁋ Praeterea de deo 
-      <lb ed="#V" n="18"/>maxime vere dicitur quod est in se indiuisus et non multa. ergo de eo maxime vere dicitur 
-      <lb ed="#V" n="19"/>vnum numerale.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1945">
-      ⁋ Contra istas conclusiones sit aliqua rationes alterius 
-      opi<lb ed="#V" n="20" break="no"/>nionis: sed quia omnes fundantur. super hoc quod numerus dicatur solum de rebus 
-      <lb ed="#V" n="21"/>quantis et materialibus: quod fundamentum falsum esse ostenditur in 
-      sequen<lb ed="#V" n="22" break="no"/>ti quaestione. ideo illas hoc obmitto recitare.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1954">
-      ⁋ Ad primam vero rationem. 
-      <lb ed="#V" n="23"/>q. respondeo quod vtroque modo sumptum vnum dicitur de deo: cum vero probatur quod vnum 
-      <lb ed="#V" n="24"/>numerale non dicitur de deo: quia ipsum non dicitur nisi de continuo: nego istud 
-      as<lb ed="#V" n="25" break="no"/>sumptum. Et ad auc. Commenta. quae ad probandum illud inducitur. 
-      Di<lb ed="#V" n="26" break="no"/>co primo quod non suffragatur eis: sed potius aduersatur. Tum quia nullum 
-      <lb ed="#V" n="27"/>continuum est indiuisibile: tum quia nullum continuum caret situ: et per 
-      con<lb ed="#V" n="28" break="no"/>sequens videtur quod de nullo continuo dicatur vnum numerale quod vtique 
-      ve<lb ed="#V" n="29" break="no"/>rum est simpliciter loquendo: vt patet ex dictis.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e1972">
-      ⁋ Quia ergo Commenta. ait 
-      <lb ed="#V" n="30"/>in quantitate non est intelligendum determinate de quantitate continua quae 
-      <lb ed="#V" n="31"/>dicitur magnitudo: sed generaliter de quolibet quod est quantitas: vel pars seu 
-      prin<lb ed="#V" n="32" break="no"/>cipium quantitatis continue vel discrete: omne enim tale quod est 
-      indiuisibi<lb ed="#V" n="33" break="no"/>le et caret situ est vnum numerale et tale est deus: quilibet non sit quantitas: est 
-      <lb ed="#V" n="34"/>tamen principium quantitatis discrete: sicut vnitas est principium et pars numeri: et si esset 
-      <lb ed="#V" n="35"/>aliquod omnino indiuisibile habens situm: illud esset punctus: vtrum aut 
-      ali<lb ed="#V" n="36" break="no"/>quid huius sit: alias videbitur. sermo tamen Commeta. in proposito conditio 
-      <lb ed="#V" n="37"/>naturaliter intelligi debet. 2o potest dici et forte melius. quod Commentatoris. in verbis 
-      <lb ed="#V" n="38"/>illis: et philosophus est qui ibidem dicit similia non loquuntur secundum opinionem 
-      pro<lb ed="#V" n="39" break="no"/>priam: sed secundum opinionem tunc famosam ponentium mathematica 
-      se<lb ed="#V" n="40" break="no"/>parata et puncta et alia indiuisibilia: quae si esset vera. esset aliquid 
-      prae<lb ed="#V" n="41" break="no"/>cise de genere quantitatis carens situ et indiuisibile: et illud esset vni 
-      <lb ed="#V" n="42"/>tas principium numeri mathematici separati: esset etiam aliquid tale 
-      indiuisi<lb ed="#V" n="43" break="no"/>bile habens situm quod punctus ab illis vocabatur.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e2005">
-      ⁋ Ad 2am aucto. 
-      <lb ed="#V" n="44"/>eiusdem dico: quod opinio Commenta. vt dicitur in verbis allegatis: et 
-      cla<lb ed="#V" n="45" break="no"/>rius ad hoc 10 meta. fuit quod vnum numerale significaret aliquod 
-      <lb ed="#V" n="46"/>accidens inherens rei quae dicitur vna: sicut album significat albedinem 
-      inheren<lb ed="#V" n="47" break="no"/>tem subiecte: et in hoc ille non fuit minus deceptus quam Auicen. nec eius 
-      <lb ed="#V" n="48"/>auc. in hac parte recitanda.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e2018">
-      ⁋ Quod confirmatur: quia et aliquid falsum 
-      <lb ed="#V" n="49"/>ibidem dicit simul cum hoc scilicet quod ens quod significat vnum: significat aliquod 
-      ac<lb ed="#V" n="50" break="no"/>cidens existens in re: et ideo in neutro ille est recitandus. Cum vero consequentia pro 
-      <lb ed="#V" n="51"/>batur quod vnum conuertibile enti non dicitur de deo: quia significat entitatem 
-      <lb ed="#V" n="52"/>superadditam rei qua dicitur vna. nego illud assumptum. Ad primam 
-      proba<lb ed="#V" n="53" break="no"/>tionem dicendum. quod nugatio vitatur eo quod ens et vnum non significant eadem 
-      <lb ed="#V" n="54"/>eodem modo: sed vnum significat negatiue: ea quae ens significat affirma 
-      <lb ed="#V" n="55"/>tiue. Nam vt patet: per dicta: verum significat idem quod hoc oratio: quod est in se 
-      indi<lb ed="#V" n="56" break="no"/>uisum: siue hoc equiualens prime quod non est aliqua et cetera: vel non 
-      en<lb ed="#V" n="57" break="no"/>tia.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e2041">
-      ⁋ Ad 3am dico quod non semper passio importat rem distinctam a subiecto 
-      <lb ed="#V" n="58"/>et inherentem illi: sed aliquando aliquam quae non potest illi inesse: sic causatiuum 
-      impor<lb ed="#V" n="59" break="no"/>tat connotatiue creaturam possibilem: quia tamen deo numquam potest inesse: aliquando 
-      <lb ed="#V" n="60"/>etiam non importat aliquam quam non importat subiectum. sed easdem: non tamen 
-      eo<lb ed="#V" n="61" break="no"/>dem modo: sic est in proposito de vno quod negatiue importat ea qua affir 
-      <lb ed="#V" n="62"/>matiue importantur per ens: vt dictum est: propter quod impeditur predicatio 
-      <lb ed="#V" n="63"/>eius de subiecto in primo modo dicendi per se.
-    </p>
-            <p xml:id="grvnZZ-ed1e69-d1e2057">
-      ⁋ Ad aliud quod additur de diffinitione 
-      <lb ed="#V" n="64"/>passionis de subiecto tamquam per additamentum: dicendum hoc verum esse 
-      sumen<lb ed="#V" n="65" break="no"/>do passionem pro accidente proprio sibi extra animam inherente: non aut hoc est 
-      <!--209.xml-->
-      <cb ed="#V" n="b"/> 
-               <!-- 109-v b -->
-               <lb ed="#V" n="66"/>vniversaliter verum de passione quae est praedicabile aliquod de subiecto in 3o modo dicendi 
-      <lb ed="#V" n="67"/>per se: vnum autem si sit passio entis non est eius passio 
-      pri<lb ed="#V" n="68" break="no"/>mo modo: vt ex dictis patet: sed secundo modo tantum. 
-    </p>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#Rimini">Gregory of Rimini</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2020-10-03">October 03, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="V" n="cod-ae1bsb">Venice 1503</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-10-03" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#V" n="106-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="grvnZZ-ed1e69"><!-- l1d24q1 -->
+        <head xml:id="grvnZZ-ed1e69-Hd1e106">Quaestio 1</head>
+        <head xml:id="grvnZZ-ed1e69-Hd1e109" type="question-title">Utrum terminus unus vere de deo dicatur</head>
+        <p xml:id="grvnZZ-ed1e69-d1e112">
+          <lb ed="#V" n="90"/>⁋ Distinctionis. XXIIII. Quaestio. I 
+          <lb ed="#V" n="91"/>CIrca distinctionem. 24. in qua magister inquirit 
+          <lb ed="#V" n="92"/>quo termini numerales. vt vnus duo 
+          <lb ed="#V" n="93"/>tres dicantur de deo et personis divinis: Quero 
+          <lb ed="#V" n="94"/>primo de hoc termino vnus. Utrum scilicet vere de 
+          <lb ed="#V" n="95"/>deo dicatur.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e128">
+          ⁋ Et arguitur quod non: quia vel dice 
+          <lb ed="#V" n="96"/>retur de deo secundum quod vnum est principium numeri: vel 
+          <lb ed="#V" n="97"/>secundum quod est conuertibile cum ente. non primo. tum 
+          <lb ed="#V" n="98"/>qui tale vnum non dicitur nisi de continuo. sicut patet per Commmen. 5o meta. 
+          <lb ed="#V" n="99"/>vbi ait. Et debes scire: quod illud quod est huiusmodi est indiuisibile in 
+          <lb ed="#V" n="100"/>quantitatem tantum. si non habet situm est principium nuoarum: et si habet est punctus: et 
+          il<lb ed="#V" n="101" break="no"/>lud quod est tale in vnoquoque generum est simplex in illo 
+          ge<lb ed="#V" n="102" break="no"/>nere. Tum quia vnum sic sumptum significat accidens in re que 
+          <lb ed="#V" n="103"/>dicitur vna. sicut patet per eundem libro. 4. vbi ait: quod Auic. fuit 
+          <lb ed="#V" n="104"/>deceptus: quia estimauit quod vnum dictum de omnibus 
+          <lb ed="#V" n="105"/>praedicamentis id est vnum quod est principium numoarum. numerus autem est accidens. 
+          <lb ed="#V" n="106"/>Unde opinatus fuit: quod hoc nomen vnum significat accidens in entibus:  
+          <lb ed="#V" n="107"/>et non intellexit quod vnum quod est principioum nuoarum est ex entibus: de 
+          qui<lb ed="#V" n="108" break="no"/>bus dicitur hoc nomen vnum. hec Commen. Ex his patet quod Commen. 
+          <lb ed="#V" n="109"/>intendit: quod vnum quod est principium nuoarum significat accidens: sicut et numerus. 
+          <lb ed="#V" n="110"/>et ex hoc dicit Auic. fuisse opinatum: quod vnum conuertibile 
+          en<lb ed="#V" n="111" break="no"/>ti significat accidens. quia non distinxit vnum hoc ab illo. Nec est vnum 
+          <lb ed="#V" n="112"/>2o modo sumptum scilicet conuertibile enti potest dici de deo: quia et tale vnum 
+          <lb ed="#V" n="113"/>significat aliquid extra animam superadditum rei: quae dicitur vna: quod non contin 
+          <lb ed="#V" n="114"/>git esse in deo. assumptum patet: tum quia alias esset nugatio. dicendo 
+          <lb ed="#V" n="115"/>ens vnum: vel homo vnus. Tum quia tale vnum est patiao entis: passio aut 
+          <lb ed="#V" n="116"/>significat aliquod distinctum a subiecto: tamen praecise id ipsum quod subiectum: 
+          alio<lb ed="#V" n="117" break="no"/>quin non praedicaretur de ipso in 2o modo sed in primo dicendi per se. nec est diffini 
+          <lb ed="#V" n="118"/>retur per subiectum plusquam subiectum per passionem.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e180">
+          ⁋ Item diffinitio 
+          pas<lb ed="#V" n="119" break="no"/>sionis per subiectum non esset per additamentum: cuius oppositum patet. 7o meta. 
+          <lb ed="#V" n="120"/>Ad oppositum arguitur per illud. Deu. 6. Audi istum: 
+          <lb ed="#V" n="121"/>dominus deus vester deus vnus est. et ie. 
+          <lb ed="#V" n="122"/>meta. ait philosophus. vnus ergo princeps: per quem non nisi deum intellexit. 
+          <lb ed="#V" n="123"/>In hac quaestione duo erunt arti. Primus erit vtrum vnum 
+          con<lb ed="#V" n="124" break="no"/>uertibile cum ente vere dicatur de deo: Secundus 
+          <lb ed="#V" n="125"/>vero: vtrum de deo dicatur vnum quod dicitur principium nuoarum vel principium 
+          nume<lb ed="#V" n="126" break="no"/>randi: seu quod significat principium numeri. In primo articulato sic procedam: 
+          <lb ed="#V" n="127"/>quia primo praemittam quaedam necessaria ad propositum 2o ponam aliquas conclusiones 
+          <lb ed="#V" n="128"/>spremittendum autem primo est quid importatur per 
+          <lb ed="#V" n="129"/>hoc nomen vnum generaliter sum 
+          <lb ed="#V" n="130"/>ptum. et dico quod id ipsum penitus quod per hanc orationem: in se indiui 
+          <!--204.xml-->
+          <pb ed="#V" n="107-r"/>
+          <cb ed="#V" n="a"/>
+          <lb ed="#V" n="1"/>sum seu non diuisum. Sumo aut diuisum quemadmodum omne ens 
+          <lb ed="#V" n="2"/>dicitur esse diuisum a qualibet ente: quod non est ipsum. quo loquitur philosophus. 6o  
+          <lb ed="#V" n="3"/>meta. cum ait: quod verum affirmationem habet in composito: negationem 
+          <lb ed="#V" n="4"/>autem in diuiso. vel disiuncto. quod exponens Commentatoris. ait id est vera 
+          <lb ed="#V" n="5"/>affirmatiua significat compositionem in entibus: et vera negatiua diui 
+          <lb ed="#V" n="6"/>sionem. De quibuscumque ergo entibus verum est dicere hoc non est illud: illa 
+          <lb ed="#V" n="7"/>dicuntur hoc modo diuisa: et econtra de quibus vere dicitur hoc est illud illa a philosoph 
+          <lb ed="#V" n="8"/>vocantur composita. Isto ergo modo illud dicitur in se diuisum quod est aliqua 
+          <lb ed="#V" n="9"/>sic adinuice diuisa: et ipsum non est aliquod illorum: et per oppositum 
+          il<lb ed="#V" n="10" break="no"/>lud ens dicitur indiuisum in se quod non est aliqua sic adiuicem diuisa. 
+          <lb ed="#V" n="11"/>Uel in aliis verbis et redit in idem. illud est diuisum in se cui 
+          <lb ed="#V" n="12"/>est intrinsece aliquod quod non est ipsum. illud vero indiuisum in se: cuius 
+          <lb ed="#V" n="13"/>nihil est intrinsece: quod non sit ipsum: et quod sic in se est indiuisum est vnum. 
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e244">
+          <lb ed="#V" n="14"/>⁋ his consonat illud dictum philosophi 10 meta. vni esse est 
+          indiuisi<lb ed="#V" n="15" break="no"/>bile esse. et in 5o eiusdem dicit: quod quaecumque non habent diuisionem: 
+          inquan<lb ed="#V" n="16" break="no"/>tum non habent: vnum dicuntur.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e253">
+          ⁋ Quod vero huic diffinitioni dicenti quid nois 
+          <lb ed="#V" n="17"/>huius vnum. aliqui addunt. et a quaelibet alio diuisum: superflue additur. 
+          <lb ed="#V" n="18"/>Nam si solus deus esset: deitas esset vna. et tamen non esset ab alio 
+          di<lb ed="#V" n="19" break="no"/>uisa: non est ergo de ratione vnius esse ab alio diuisum.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e262">
+          ⁋ Praeterea sic patet. 
+          <lb ed="#V" n="20"/>io. meta. vnum et multa opponuntur priuatiue: sicut diuisum et non 
+          <lb ed="#V" n="21"/>diuisum. ad hoc autem vt aliqua dicantur vere multa: sufficit quod sint 
+          <lb ed="#V" n="22"/>inter se diuisa: ergo ad ratione vnius sufficit quod sit in se indiuisum. 
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e271">
+          <lb ed="#V" n="23"/>⁋ 2o praemitto quod hunc terminum vnum. praedicari de aliquo potest 
+          <lb ed="#V" n="24"/>intelligi dupliciter. Uno modo vt ipse simpliciter sine additione 
+          ex<lb ed="#V" n="25" break="no"/>praessa vel subintellecta alicuius alterius termini per ipsum 
+          determi<lb ed="#V" n="26" break="no"/>nabilis praedicetur: sicut de angelo dicimus quod est vnus vel vnum: 
+          <lb ed="#V" n="27"/>substantiue accipiendo vnum. Alio modo quod ipse praedicetur cum additione 
+          <lb ed="#V" n="28"/>alterius termini: quem determinet expressi vel 
+          subintelle<lb ed="#V" n="29" break="no"/>cti. vbi gratia dicendo de aliquo quod ipse est vnum hoc vel illud:  
+          <lb ed="#V" n="30"/>vt vnus homo vel vnum animal aut aliquod aliud.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e291">
+          ⁋ his praemissis po 
+          <lb ed="#V" n="31"/>non quatuor conclusiones. Quarum prima est: quod de quolibet supponente pre 
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e296">
+          <lb ed="#V" n="32"/>⁋ 2a quod de nullo supponente pro re habente partem et partem: potest pre 
+          <lb ed="#V" n="33"/>cise pro re simplici potest praedicari vnum vtroque modo praedictorum. 
+          <lb ed="#V" n="34"/>dicari vnum primo scilicet simpliciter. 2o autem modo potest.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e306">
+          ⁋ 3a. quod neutro mod 
+          <lb ed="#V" n="35"/>praedicatum significat aliquam entitatem distinctam et superadditam 
+          rei<lb ed="#V" n="36" break="no"/>pro qua supponit illud de quo praedicatur et per quam illa sit vna. 
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e313">
+          <lb ed="#V" n="37"/>⁋ 4a conclusio est: quod iste terminus vnum verissime praedicatur de deo. 
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e318">
+          <lb ed="#V" n="38"/>⁋ Prima conclusio probatur: quoniam omnis res simplex est indiuisa in se: ergo omnis 
+          <lb ed="#V" n="39"/>res simplex est vna: et per consequens de omni termino supponente praecise 
+          <lb ed="#V" n="40"/>quod re simplici praedicari potest etc. consequentia patet ex ratione huius nominis vnum 
+          <lb ed="#V" n="41"/>promissa. Antecedens aut notum est: quoniam illas tantum res simplices dicim 
+          <lb ed="#V" n="42"/>quae non sunt aliqua quaerum aliquod ipse non sunt: et vnum non sit aliud. quaelibet 
+          <lb ed="#V" n="43"/>aut talium dicitur esse indiuisa in se.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e334">
+          ⁋ Quia autem vnum possit de tali 
+          <lb ed="#V" n="44"/>bus praedicari cum adiuncto certum est: quia de quocumque potest vnum 
+          <lb ed="#V" n="45"/>praedicari simpliciter: potest etiam praedicari cum adiuncto: licet non cum quolibet 
+          <lb ed="#V" n="46"/>adiuncto. Unde sicut dicitur Michael est vnus vel vnum: ita vere dici 
+          <lb ed="#V" n="47"/>potest. Michael est vnus angelus: et vna subiecta: et vnus spiritus. 
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e345">
+          <lb ed="#V" n="48"/>⁋ 2a conclusio hatet duas partes. quarum prima sic probatur. Smne habens partem 
+          <lb ed="#V" n="49"/>et partem est aliqua quorum vnum non est aliud neque ipsum: et per consequens 
+          <lb ed="#V" n="50"/>est in se diuisum. ergo nullum habens partem et partem est simpliciter vnum: ac per 
+          <lb ed="#V" n="51"/>hoc de nullo supponente pro tali praedicatur vnum simpliciter. Antecedens 
+          <lb ed="#V" n="52"/>patet: quia cuiuslibet habentis partem et partem vna pars non est alia pars 
+          ne<lb ed="#V" n="53" break="no"/>que ipsum cuius est pars. consequentia probatur. quia si de aliquo suppone 
+          <lb ed="#V" n="54"/>te pro habente partem et partem praedicetur simpliciter vnum: illud pro quo subiecut 
+          <lb ed="#V" n="55"/>supponit: est in se indiuisum: et non est aliqua: quorum vnum non 
+          <lb ed="#V" n="56"/>est aliud: aut quorum aliquod non est ipsum. et per consequens non 
+          <lb ed="#V" n="57"/>habet partem et partem.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e369">
+          ⁋ 2o si de aliquo huiusmodi simpliciter dicitur vnum 
+          <lb ed="#V" n="58"/>demonstratis omnibus: quarum quodlibet est pars eius. vere diceretur hec 
+          <lb ed="#V" n="59"/>sunt vnum. vt demonstratis anima et corpore sortis: verum est 
+          dice<lb ed="#V" n="60" break="no"/>re: hec sunt vnum. consequentia patet: quia omnes partes simul sumpte: sunt ipsum 
+          to<lb ed="#V" n="61" break="no"/>tum: et anima et corpus sunt sortes. et per consequens. si totum est vnum: et ipse partes 
+          <lb ed="#V" n="62"/>sunt vnum. sed consequens est falsum. sic probat <ref xml:id="grvnZZ-ed1e69-Rfjj111" corresp="#grvnZZ-ed1e69-Qznc888">Aug. 6. de tri.</ref> vbi ait. 
+          <lb ed="#V" n="63"/><quote xml:id="grvnZZ-ed1e69-Qznc888" source="http://scta.info/resource/adt-l6-d1e795@76-138">cum sic dicitur vnum. vt non addatur quod vnum et plura vnum dicuntur vna natura 
+            <lb ed="#V" n="64"/>atque essentia non dissidens naet dissentiens significatur: cum vero additur quod 
+            <lb ed="#V" n="65"/>vnum potest aliquid significari ex pluribus vnum secitam: quaeuis diuersis natura. 
+            <!--204.xml-->
+            <cb ed="#V" n="b"/> 
+            <!-- 107-r b -->
+            <lb ed="#V" n="66"/>sict anima et corpus non vtique vnum. Quid enim tam diuersum nisi 
+            ad<lb ed="#V" n="67" break="no"/>datur aut subintelligatur quid vnum id est vnus homo aut vnum animal</quote>. 
+          <lb ed="#V" n="68"/>2o idem probatur per argumentationem Aug. qui 2o de li airo probat 
+          <lb ed="#V" n="69"/>nullum corpus esse vnum ex hoc quod quodlibet corpus habet partes. vnde 
+          <lb ed="#V" n="70"/>ait sic. quicquid corporis sensu attingitur: iam non vnum: sed multa 
+          <lb ed="#V" n="71"/>esse conuincitur. corpus est enim et ideo habet innumerabiles partes. et 
+          deculara<lb ed="#V" n="72" break="no"/>to immediate omne corpus habere multas partes concludit. et propterea 
+          <lb ed="#V" n="73"/>nullum corpus vere pure quod vnum esse concedimus. Et infra. id 
+          <lb ed="#V" n="74"/>ipsum quod simpliciter vnum est non potest habere partem dimidiam vel 
+          <lb ed="#V" n="75"/>tertiam vel quotamlibet: quoniam simplex vel simpliciter secundum aliam litteram et ve 
+          <lb ed="#V" n="76"/>re vnum est. Ex his sequitur. quod nullum totum essentiale vel 
+          integra<lb ed="#V" n="77" break="no"/>le homogeneum vel etherogeneum continuum et discretum aut quolibet 
+          <lb ed="#V" n="78"/>ex pluribus intrinsece constitutum est simpliciter vnum. sicut de quolibet 
+          <lb ed="#V" n="79"/>huiusmodi potest per iam dicta probari. Illud autem dico simu vnum de quo 
+          <lb ed="#V" n="80"/>vel de termino stante pro eo simpliciter et sine adiuncto 
+          vifica<lb ed="#V" n="81" break="no"/>tur vnum.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e431">
+          ⁋ Aduertendum autem: quod cum dico totum est omnes sue 
+          <lb ed="#V" n="82"/>partes. vel cum dico: sumo omnes partes huiusmodi aut illius: non aliud in 
+          <lb ed="#V" n="83"/>telligo quam si dico omnia quarum quodlibet est pars totius sunt totum. et ita in 
+          <lb ed="#V" n="84"/>eade significatione accipio omnes partes et omnia quorum quodlibet est pars: quod 
+          <lb ed="#V" n="85"/>dico ad vitandum multas calunias et forte inconuenientia: quae 
+          <lb ed="#V" n="86"/>possent inferri: si praedicte sumerentur secundum suam propriam significatio 
+          <lb ed="#V" n="87"/>nem. et ad hunc intellectum vtor talibus propositionibus propter communem 
+          <lb ed="#V" n="88"/>vsum loquendi: in quibuscumque locis me contingat vti eis.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e449">
+          ⁋ 2o 
+          <lb ed="#V" n="89"/>pars conclusionis: videlibet: quod vnum post praedicari cum aliqua adiuncto de eo 
+          <lb ed="#V" n="90"/>quod supponit pro habente partem et partem: probatur: nam de sorte composito 
+          <lb ed="#V" n="91"/>ex anima intellectiua et corpore vere dicitur sortes est vnus homo sequitur enim 
+          sorti<lb ed="#V" n="92" break="no"/>est homo. et non est plures homines quarum vnus non est alius. ergo sortes est 
+          <lb ed="#V" n="93"/>vnus homo. et antecedens est verum quantum ad vtramque partem.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e462">
+          ⁋ Ad hoc facit 
+          <lb ed="#V" n="94"/>verbum philosophi. 5o meta. cauis de vno. vbi ait vniversaliter. inm qucumque non habent 
+          di<lb ed="#V" n="95" break="no"/>uisionem inquantum non habent sic vnum dicuntur: vt si inquantum homo non 
+          <lb ed="#V" n="96"/>habet dionem vnus homo. Si vero inquantum animal vnum animal etc. per non habere 
+          <lb ed="#V" n="97"/>autem dionem inquantum homo vel inquantum animal nihil aliud intelligit quam non 
+          <lb ed="#V" n="98"/>didi in animalia nec in homines sumendo divisionem secundum modum supra 
+          <lb ed="#V" n="99"/>exponitum.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e478">
+          ⁋ Item 10 meta. c. 1. in fine. dicit indisibile est quod vnum 
+          <lb ed="#V" n="100"/>aut simus. aut inquantum vnum: volens quod sicut aliquod est indiuisibile ita est 
+          <lb ed="#V" n="101"/>vnum: si est indinsibile simpliciter est vnum simpliciter. si non simpliciter: sed secundum 
+          ali<lb ed="#V" n="102" break="no"/>quid secundum illud est vnum. Et dicitur vnum illud: vt vnus homo vel vnum animal: quam 
+          <lb ed="#V" n="103"/>uis ergo sortes sit divisus in plura: quia tamen non est divisus in plures homines. et ipse 
+          <lb ed="#V" n="104"/>homo ideo vere dicitur quod ipse est vnus homo: non autem sequitur: sortes est vnus homo. ergo 
+          <lb ed="#V" n="105"/>sortes est vnus. sicut non sequitur: sortes est vnus homo. ergo sortes non est aliqua 
+          adiui<lb ed="#V" n="106" break="no"/>cem distincta: sed potius seu oppositum. Nam sequitur: ergo sortes est corpus et anima 
+          <lb ed="#V" n="107"/>intellectia. et vltra: ergo est aliqua adinuice distincta. et sicut est non 
+          <lb ed="#V" n="108"/>sequitur: sortes est indiuisus in homines. vel non est plures homines. 
+          <lb ed="#V" n="109"/>ergo sortes est indiuisus in aliqua: vel non est plura aliqua. nec est sequitur: 
+          <lb ed="#V" n="110"/>ergo est indiuisus. Nam in omnibus talibus consequentia arguitur negatiue 
+          <lb ed="#V" n="111"/>ab inferiori ad superius a parte praedicati: in plus enim est plura et 
+          plu<lb ed="#V" n="112" break="no"/>ra aliqua quam plures homines.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e509">
+          ⁋ Circa istam conclusionem occurrunt dubia 
+          <lb ed="#V" n="113"/>Et primum est ex dicto philosophi. 4o meta. vbi dicit ens et vnum consequunti 
+          <lb ed="#V" n="114"/>se sicut principium et causa. Et Commen. ibi. intelligit istam consecutionem pe 
+          <lb ed="#V" n="115"/>niversalem conuertibilitatem vnius super alterum. De enim ens inquit Co 
+          <lb ed="#V" n="116"/>men.) est vnum: et omne vnum est ens et hoc ipsum communiter ab omnibus 
+          conce<lb ed="#V" n="117" break="no"/>ditur: sed istud esset falsum: si nullum compositum esset vnum: cum ipsum 
+          <lb ed="#V" n="118"/>sit vere ens.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e525">
+          ⁋ Secudo quia seu: quod simpliciter loquendo verius dicatur:  
+          <lb ed="#V" n="119"/>quod homo est multa quam quod est vnum: immo quod primum est verum. et 2m est falsum. 
+          <lb ed="#V" n="120"/>Sed hoc est contra philosophum. 8o meta. vbi quaerens causam vnitatis diffinitionis 
+          <lb ed="#V" n="121"/>dicit: quod ideo est vna: quia res diffinita est vna. et tunc vlterius 
+          inqui<lb ed="#V" n="122" break="no"/>rit propter quid tales res. verbi gratia. homo est vnum. et non est multa sup 
+          <lb ed="#V" n="123"/>ponens pro constanti talem rem qua vtique est composita esse vnam et non multa. 
+          <lb ed="#V" n="124"/>huic etiam consonat communis concessio. nullus enim est qui non concedat 
+          <lb ed="#V" n="125"/>singularem quemlibet hominem esse vnam rem. et similiter quodlibet lignum 
+          demon<lb ed="#V" n="126" break="no"/>stratum esse vnam et esse vnum.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e546">
+          ⁋ Praeterea pilosophus. 7o meta. et ideo et multis ego 
+          <lb ed="#V" n="127"/>aliis locis dicit: quod compositum quod est per se vnum: est vnum in actu. et 
+          plu<lb ed="#V" n="128" break="no"/>ra tantum in potentia et idem dicit de continuo: et est intentio eius: quod partes ta 
+          <lb ed="#V" n="129"/>lis compositi et continui non sint plures neque distincte in actu. 
+          <lb ed="#V" n="130"/>idem et vult Commen. vnde de partibus essentialibus compositi ait. 2o  
+          <!--205.xml-->
+          <pb ed="#V" n="107-v"/>
+          <cb ed="#V" n="a"/>
+          <lb ed="#V" n="1"/>de anima. quod materia et forma non sunt in composito existentes in actu. 
+          <lb ed="#V" n="2"/>et quod materia non differt a forma in composito: nisi in potentia. alioquin 
+          <lb ed="#V" n="3"/>copositum non esset vnum: nisi sicut illa quae sunt vnum secundum tactum 
+          <lb ed="#V" n="4"/>eliga mentum.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e572">
+          ⁋ Item 3o de anima. dicit: quod due partes non sunt 
+          <lb ed="#V" n="5"/>due actu in linea donec linea diuidatur: sed tantum sunt due in 
+          <lb ed="#V" n="6"/>potentia. Ex his autem sequitur quod magis est concedendum quodlibet talium. 
+          <lb ed="#V" n="7"/>esse verum quam esse multa simul loquendo: nec debeat concedi ipsum 
+          <lb ed="#V" n="8"/>esse multa simpliciter: sed cum determinatione tantum mo verbi gratia. 
+          <lb ed="#V" n="9"/>dicendo quod ipsum est multa in potentia.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e585">
+          ⁋ Item si homo non dicatur 
+          <lb ed="#V" n="10"/>vnus nisi cum adiuncto: sequitur quod non verius diceretur vnus quam 
+          <lb ed="#V" n="11"/>populus vel exercitus. Nam sicut homo est vnus homo. ita exerci. 
+          <lb ed="#V" n="12"/>tus est vnus exercitus: et populus vnus populus.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e594">
+          ⁋ Praeterea secumd 
+          <lb ed="#V" n="13"/>dicta sequitur: quod vna res nuoa sit plures res nuoa. vbi gratia. 
+          <lb ed="#V" n="14"/>vnum lignum nuoa sit plura ligna nuo: et vna aqua plures aqua. 
+          <lb ed="#V" n="15"/>et ita de quibuslibet corporibus homogeneis. consequens autem est impossibile: 
+          <lb ed="#V" n="16"/>quoniam vnum et plura opponuntur priuatiue. et per consequens eidem secundum idem 
+          <lb ed="#V" n="17"/>non possunt inesse. consequentia probatur. Nam quodlibet talium habet partes 
+          <lb ed="#V" n="18"/>similes. Si ergo lignum perper multitudinem partium est multa: cum 
+          <lb ed="#V" n="19"/>quelibet sit lignum: ipsum erit multa ligna nuoa. quod autem etiam ipsum 
+          <lb ed="#V" n="20"/>sit vnum lignum nuero certum est: alioquin non esset aliquod indiui 
+          <lb ed="#V" n="21"/>duum singulare in specie ligni. Patet est ex alio. quia si 
+          <lb ed="#V" n="22"/>ipsum non sit vnum numero eadem ratione nulla pars eius erit vna 
+          <lb ed="#V" n="23"/>nuoa: cum qualibet etiam habeat suas partes: et cum ipossibile sit esse 
+          mul<lb ed="#V" n="24" break="no"/>titudine sine vnitatibus: quia multitudo non est aliud nisi 
+          vni<lb ed="#V" n="25" break="no"/>tates: sequitur quod ipsum non erit multa ligna nuoa. vel ergo oportet con 
+          <lb ed="#V" n="26"/>cedere quod ipsum est vnum lignum numero: et non multa: et 
+          ha<lb ed="#V" n="27" break="no"/>betur propositum: vel quod ipsum est vnum nuoa: et multa nuoa: quod est 
+          <lb ed="#V" n="28"/>possibile.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e631">
+          ⁋ Ad primum dico: quod si isti termini ens et vnum suman 
+          <lb ed="#V" n="29"/>tur simus sine adiuncto expresso vel subintellecto: et vterque 
+          <lb ed="#V" n="30"/>in nuo singulari sunt adinuicem vniversaliter conuertibiles. et ita intel 
+          <lb ed="#V" n="31"/>ligi debet philosophus et dictum commune. Nam si ens sumatur in nuoa plurali 
+          <lb ed="#V" n="32"/>non praedicatur de ipso vnum simpliciter sumptum. hec enim est falsa. en 
+          <lb ed="#V" n="33"/>tia sunt vnum: et econverso si vnum pluraliter sumatur non praedicatur de ipso 
+          <lb ed="#V" n="34"/>ens singuliter. cum hec sit falsa proprie loquendo: vna vel 
+          vni<lb ed="#V" n="35" break="no"/>tates sunt ens: sed sunt entitates et entia.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e649">
+          ⁋ Tunc ad proposo 
+          <lb ed="#V" n="36"/>situm dico quod proprie loquendo: nullum compositum vel habens partes 
+          <lb ed="#V" n="37"/>est ens vel est entitas: sed entia. quamuis aliquo modo possit 
+          di<lb ed="#V" n="38" break="no"/>ci ens vt patebit in solutione sequenti
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e659">
+          ⁋ Pro solutione trium 
+          <lb ed="#V" n="39"/>argumentorum simul est sciendum quod eorum quae dicuntur habere partes. quadam 
+          <lb ed="#V" n="40"/>habent partes quarum vna est forma alterius. vt compositum ex materia 
+          <lb ed="#V" n="41"/>et forma. Quedam vero habent partes quarum nulla est forma alteri 
+          <lb ed="#V" n="42"/>us. Et hec sunt in triplici differentia. Nam quorumdam sunt partes 
+          <lb ed="#V" n="43"/>que constituunt vnum hoc aliquid sic secundum se namturaliter continuum cuius 
+          <lb ed="#V" n="44"/>motus est indiuisibilis secundum modum loquendi phy. 5o meta. 
+          ca<lb ed="#V" n="45" break="no"/>de vno id est cuius non potest vna pars localiter moueri alia quiescente: et 
+          <lb ed="#V" n="46"/>talia sunt corpora que proprie dicimus continua. Quorumdam vere 
+          <lb ed="#V" n="47"/>partes constituunt vnum hoc aliquid secundum se. non quidem per naturam: sed 
+          <lb ed="#V" n="48"/>artificialiter continuum modo praedicto: sicut partes compactus ex cemento 
+          <lb ed="#V" n="49"/>et lapidibus. et sicut domus et nauis et huiusmodi talia. Quorumdam vero 
+          <lb ed="#V" n="50"/>partes neutro modo constituunt vnum hoc aliquid per se continuum: sed quelibet parti 
+          <lb ed="#V" n="51"/>um est secundum se vnum hoc aliquid praecisum et distinctum ab alia parte 
+          <lb ed="#V" n="52"/>nulla actione nouiter facta: et ipsam moueri localiter possibile est 
+          <lb ed="#V" n="53"/>alia quiescente: quo se habent partes exercitus et acerui. quocumque 
+          <lb ed="#V" n="54"/>istorum modorum aliquid habeat partes ipsum est vere multa. non 
+          <lb ed="#V" n="55"/>tamen eodem modo. Nam quod habet partes 4o modo est multa hec aliqua: siue 
+          <lb ed="#V" n="56"/>quorum quodlibet est secundum se hoc aliquid. et omnia simul non sunt vnum 
+          <lb ed="#V" n="57"/>hoc aliquid. Quod vero habet partes 3o modo est multa que non sunt plu 
+          <lb ed="#V" n="58"/>ra hec aliqua: sed vnum: quamuis non per naturam. Quod vero habet partes 
+          <lb ed="#V" n="59"/>primo. vel 2o modo est multa que sunt tantum vnum hoc aliquid per naturam 
+          <lb ed="#V" n="60"/>et per consequens nullum talium est vnum simpliciter.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e709">
+          ⁋ Cum ergo philosophus dicit: 
+          <lb ed="#V" n="61"/>per homo et quaelibet res cuius est diffinitio vna: est vnum: et non multa: non 
+          <lb ed="#V" n="62"/>intelligit: quod sit vnum similiter: sed quod est vnum hoc aliquid per 
+          se<lb ed="#V" n="63" break="no"/>et non per artificium: et non est multa quorum quodlibet sit hoc aliquid 
+          <lb ed="#V" n="64"/>secundum se sicut aceruus: aut omnia sint verum hoc aliquid per ligamen 
+          <lb ed="#V" n="65"/>tum solumu vel artificium. Et quamuis simpliciter proferatur quod est 
+          <!--205.xml-->
+          <cb ed="#V" n="b"/> 
+          <!-- 107-v b -->
+          <lb ed="#V" n="66"/>vnum: non tamen est simpliciter dictum illud intelligendum. sicut est. 5o me 
+          <lb ed="#V" n="67"/>ta. inter ea quae sunt vnum per se ponit ea quae sunt continua per ligamen 
+          <lb ed="#V" n="68"/>tum. et simpliciter eni nciat illa esse vnum: cum tamen constet ea esse vere 
+          <lb ed="#V" n="69"/>multa. hac esnt ratione conceditur a recte intelligentibus: quod quilibet 
+          <lb ed="#V" n="70"/>singularis homo et quilibet ignis est ens et vnum ens et vna res. Io 
+          vi<lb ed="#V" n="71" break="no"/>delibet quia est vnum hoc aliquid: vt dictum est. quod non conceditur de propluro 
+          <lb ed="#V" n="72"/>vel aceruo. quia neutrum est vnum hoc aliquid. quia tamen illa praedica 
+          <lb ed="#V" n="73"/>ta ens res: et vna res cum praedicantur de huiusmodi subiectis: vere 
+          sup<lb ed="#V" n="74" break="no"/>ponunt pro pluribus entitatibus: sicut et ea de quibus praedican 
+          <lb ed="#V" n="75"/>tur. ideo simpliciter et magis proprie de quolibet illorum dicitur quod est 
+          <lb ed="#V" n="76"/>entitates et entia. sicut est quamuis simpliciter concedatur quod vna domus 
+          <lb ed="#V" n="77"/>est vna res: verius tamen dicitur simpliciter loquendo quod est etitates plures: 
+          <lb ed="#V" n="78"/>et res plures. et ideo cum illa simpliciter proferuntur: non sunt simpliciter: sed cum 
+          <lb ed="#V" n="79"/>adiuncto intelligenda.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e759">
+          ⁋ Quantum ad aliud quod sequitur 
+          <lb ed="#V" n="80"/>dicendum: quod philosophus et Commen. partes 4o modo dictas. et aliquando 3o modo vocant 
+          <lb ed="#V" n="81"/>partes in actu et existentes in actu et distinctas actu. et 
+          congre<lb ed="#V" n="82" break="no"/>gata ex eis dicit non esse vnum in actu. aut non nisi per liga 
+          <lb ed="#V" n="83"/>mentum. et hoc ideo: quia non sunt vnum hoc aliquid secundum se per naturam. 
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e770">
+          <lb ed="#V" n="84"/>⁋ Partes vero primo modo dictas que dicun partes essentiales scilicet 
+          <lb ed="#V" n="85"/>materia et forma: et 2o modo que vocant partes quantitatiue vocant ipsi 
+          <lb ed="#V" n="86"/>partes in potentia et que existunt in potentia et distinctas in potentia: non quod 
+          <lb ed="#V" n="87"/>dem quia huiusmodi partes non accidentaliter actualitate praesentie sint: sed 
+          <lb ed="#V" n="88"/>solum possint esse in rerum natura. hoc enim penitus falsum est: sicut 
+          <lb ed="#V" n="89"/>patet ad sensum. etiam nec congregata ex eis essent actualiter: nec est quid 
+          <lb ed="#V" n="90"/>vna non sit actualiter diuersa et distincta ab alia. Nam absurdu 
+          <lb ed="#V" n="91"/>esset dicere quod palmus corporis celi existens in oriente non sit distictus 
+          <lb ed="#V" n="92"/>et diuersus a palmo celi in occidente: et quod anima non sit distin 
+          <lb ed="#V" n="93"/>cta a corpore loquendo de diuisione et distinctione secundum modum 
+          <lb ed="#V" n="94"/>supra dictum. hec enim actualiter vera est. palmus orientalis non est 
+          <lb ed="#V" n="95"/>palmus occidentalis: et simpliciter hec est actualiter vera. anima non 
+          <lb ed="#V" n="96"/>est corpus. Sed ideo sic vocant eas: quia nulla secundum se est vnum 
+          <lb ed="#V" n="97"/>hoc aliquid praecisum et distinctum ab alia. vt partes de quibus est di 
+          <lb ed="#V" n="98"/>ctum: sed omne simul sunt vnum hoc aliquid: et propter hoc addunt quod 
+          <lb ed="#V" n="99"/>congregatum ex talibus non est plura in actu: sed vnum. Quia autem 
+          <lb ed="#V" n="100"/>iste sit intellectus eorum patet. Primo quidem de partibus essentia 
+          <lb ed="#V" n="101"/>ibus. 3o ce. per Commen. vbi loquens de materia dicit. hoc enim e 
+          <lb ed="#V" n="102"/>subiectum positum non est in potentia nisi inquantum non est in actu 
+          <lb ed="#V" n="103"/>inquantum est non in actu est pars alicuius quod est in actu. Et 
+          infra<lb ed="#V" n="104" break="no"/>subdit: si ergo inueniet per se et singulariter non secundum quod est 
+          <lb ed="#V" n="105"/>pars alicuius non est ens in potentia: sed in actu: ens enim in potentia non 
+          <lb ed="#V" n="106"/>inuenitur nisi in ente in actu. et si seperaretur esset ens supple actu 
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e822">
+          <lb ed="#V" n="107"/>⁋ Ex his patet: quod ideo dicit materiam esse ens in potentia. quia est pars eius quod 
+          <lb ed="#V" n="108"/>et in actu id est alicuius quod est vnum hoc aliquid secundum se. vnde vt ait si 
+          sepera<lb ed="#V" n="109" break="no"/>retur: et esset per se singulariter esset ens actu. quia scilicet esset secundum 
+          <lb ed="#V" n="110"/>se vnum hoc aliquid praecisum et distinctum: non constituens cum aliquo 
+          <lb ed="#V" n="111"/>alio vnum hoc aliquid. Et se sic intelligere vbique declarat per 
+          <lb ed="#V" n="112"/>llud quod subdit dicens. Et hoc intendimus cum dicimus in hoc  
+          <lb ed="#V" n="113"/>loco de prima materia quod est non ens in actu: et est ens in ente in actu 
+          <lb ed="#V" n="114"/>non distinctum ab eo. et hec est intentio mei sermonis: quod est in eo 
+          <lb ed="#V" n="115"/>in potentia. De partibus vero quantitatiuis in continuo quod eundem habeant 
+          <lb ed="#V" n="116"/>intellectum: patet per eundem 2o de generatione super illo capitulo De  
+          <lb ed="#V" n="117"/>elementis autem: ex quibus corpora constituta sunt. vbi ait quod partes 
+          <lb ed="#V" n="118"/>in continuo sunt in potentia partes quousque diuidantur et fiant partes 
+          <lb ed="#V" n="119"/>in actu. Constat autem: quod per solam divionem nulla entitas fit: quae 
+          <lb ed="#V" n="120"/>bus non esset: sed tantum modo quod non erat secundum se vnum hoc aliquid 
+          <lb ed="#V" n="121"/>fit vnum hoc aliquid. et illa quae erant vnum hoc aliquid fiunt 
+          plu<lb ed="#V" n="122" break="no"/>ra hec aliqua. Et ideo cum dicitur quod continuum est multa in potentia tantum et non 
+          <lb ed="#V" n="123"/>in actu. duplex sensus potest hic distingui. Unus secundum quod ly in potentia. 
+          <lb ed="#V" n="124"/>et in actu. possunt determinare compositionem seu verbum: et tunc equiualet 
+          <lb ed="#V" n="125"/>dictum illud huic. continuum potest esse multa: et non est multa: et sic 
+          <lb ed="#V" n="126"/>est falsum. Alius sensus potest esse secundum quod ly in potentia. et in actu. 
+          <lb ed="#V" n="127"/>possunt determinare praedicatum secundum se: et tunc equivalet huic: con 
+          <lb ed="#V" n="128"/>tinuum est multa possibilia. et non multa accidentalia siue ad 
+          <lb ed="#V" n="129"/>tum existentia. et hoc est verum accipiendo esse potentiale et actua 
+          <lb ed="#V" n="130"/>le siue ens actu secundum intellectu datum supra immediate.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e877">
+          ⁋ Et 
+          <!--206.xml-->
+          <pb ed="#V" n="108-r"/>
+          <cb ed="#V" n="a"/>
+          <lb ed="#V" n="1"/>eodem modo dicendum: quod partes continui sunt distincte in potentia et non in 
+          <lb ed="#V" n="2"/>actu id est sunt distincte partes potentiales et non actuales. Cum 
+          <lb ed="#V" n="3"/>vero vltimo additur quod homo non verius diceretur vnus quam acet 
+          <lb ed="#V" n="4"/>uus. patet esse falsum. Nam aceruus non est vnum hoc aliquid  
+          <lb ed="#V" n="5"/>sicut homo vt dictum est.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e898">
+          ⁋ Ad aliud dico: quod aliquid esse vnum 
+          <lb ed="#V" n="6"/>nuoa potest intelligi dupliciter. Uno modo: quod sit vnum et non plura. Alio 
+          <lb ed="#V" n="7"/>quod sit secundum se vnum hoc aliquid. et hec multum dicternt. Nam primo modo anima 
+          <lb ed="#V" n="8"/>intellectiua coniuncta corpri vt forma est vna entitas nuoa: 
+          <lb ed="#V" n="9"/>non autem 2o modo homo vero est vna entitas 2o modo et non primo.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e909">
+          ⁋ Tunc ad  
+          <lb ed="#V" n="10"/>argumentum dico: quod primo nullum lignum est vnum lignum nuoa: sed 
+          <lb ed="#V" n="11"/>quodlibet est plura ligna. Et prima probatio qua adducitur contra non 
+          pro<lb ed="#V" n="12" break="no"/>cedit accipiendo vnum nuoa primo: sed 2o modo.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e918">
+          ⁋ Ad aliam 
+          probatio<lb ed="#V" n="13" break="no"/>nem qua inducitur: concedo consequens. Et vlterius dico quod non est impossibile: 
+          <lb ed="#V" n="14"/>esse aliquam multitudinem que nec sit vnitas: nec constituta 
+          <lb ed="#V" n="15"/>ex vnitatibus simpliciter: sicu de vnitate et de vno simpliciter supra 
+          <lb ed="#V" n="16"/>loquutus sum: quinymo omnis multitudo partium continui est huiusmodi 
+          <lb ed="#V" n="17"/>Si vero accipiatur vnum numero 2o modo Tunc dico: quod aliquod lignum est 
+          <lb ed="#V" n="18"/>vnum numero: sed cum hoc stat quod sit etiam multa ligna. licet non 
+          <lb ed="#V" n="19"/>multa quorum quodlibet sit vnum numero isto 2o modo sicut homo est vnum 
+          <lb ed="#V" n="20"/>numero 2o modo et non primo modo: cum sint plures entitates. Est tamen differenti 
+          <lb ed="#V" n="21"/>qui aliquid eorum qui est homo est vnum numero prio modo: scilicet anima intellectiua: 
+          <lb ed="#V" n="22"/>quaet nullum eorum quia est lignum est vnum numero primo modo:
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e942">
+          ⁋ 3a conclusio duas 
+          <lb ed="#V" n="23"/>partes habet. vna est quod vnum non significat aliquam entitatem 
+          superad<lb ed="#V" n="24" break="no"/>ditam entitati quae est vna simpliciter: seu pro qua supponit illud  
+          <lb ed="#V" n="25"/>de quo ipsum simpliciter praedicatu. hoc autem probo primo sic: sumo 
+          <lb ed="#V" n="26"/>aliquam entitatem simpliciter vnam. vbi gratia. subiectam angeli 
+          Mi<lb ed="#V" n="27" break="no"/>chaelis. et arguo sic. Si hec subiecta esset sine aliqua entitate 
+          su<lb ed="#V" n="28" break="no"/>peraddita sibi ipsa esset vna. ergo ipsa non est vna per aliquam 
+          <lb ed="#V" n="29"/>entitatem sibi superadditam. Consequentia est euidens. Quia 
+          <lb ed="#V" n="30"/>enim subiecta niuis est alba per entitatem sibi superadditam. ideo 
+          <lb ed="#V" n="31"/>si ipsa esset sine aliqua entitate sibi superaddita ipsa non esset 
+          <lb ed="#V" n="32"/>alba.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e966">
+          ⁋ Patet est ratione: quia per nullam rem aliquid est tale: qua 
+          <lb ed="#V" n="33"/>remota et nullo alio ipsius vice posito ipsum nihilominus 
+          <lb ed="#V" n="34"/>est tale. Antecedens probatur. quoniam si hec subiecta esset illo casu posito: 
+          <lb ed="#V" n="35"/>ipsa tunc esset hec subiecta: que ipsa nunc est. ergo tunc non 
+          ha<lb ed="#V" n="36" break="no"/>beret aliquam entitatem intrinsecam: quam nunc non habet. Nam sicut 
+          <lb ed="#V" n="37"/>nulla subiecta includens aliquam entitatem quam hec non includit: est 
+          <lb ed="#V" n="38"/>hec subiecta ita si esset aliqua quae includeret aliquam quam hec non inclu 
+          <lb ed="#V" n="39"/>dit: non esset hec. quamuis posset hanc includere vt eius partem. 
+          <lb ed="#V" n="40"/>patet est hec consequentia ex alio. quia propter nullam entitatem sibi 
+          su<lb ed="#V" n="41" break="no"/>peradditam aliqua subiecta vel entitas caret aliqua entitate 
+          in<lb ed="#V" n="42" break="no"/>trinseca: quam includeret si ipsa esset sine aliqua 
+          entita<lb ed="#V" n="43" break="no"/>te superaddita sibi. et per consequens non includeret aliquam huiusmodi 
+          <lb ed="#V" n="44"/>entitatem per praecisam remotionem omnis entitatis sibi superad¬. 
+          <lb ed="#V" n="45"/>dite. Si autem non includeret tunc aliquam entitatem quam nunc 
+          <lb ed="#V" n="46"/>non includit. ergo ipsa tunc non esset aliqua entitas: quarum 
+          <lb ed="#V" n="47"/>vna non esset alia: et aliqua non esset ipsa: ac per hoc ipsa esset in 
+          <lb ed="#V" n="48"/>se indiuisa et vna. Assumptum probatur. quia si ipsa tunc esset aliqua 
+          <lb ed="#V" n="49"/>tales entitatens: sint ille entitates b. c. et ipsa sit a. cum ergo 
+          <lb ed="#V" n="50"/>positum sit quod tunc a. non haberet aliqua intrinsecam 
+          enti<lb ed="#V" n="51" break="no"/>tatem: quam modo non habet: ergo nunc non habet b. et c. Aut ergo nunc 
+          <lb ed="#V" n="52"/>entitas que est b. est entitas que est c. Et similiter est entitas 
+          <lb ed="#V" n="53"/>que est a. aut non. sit non: ergo a. nunc non est vnum simpliciter vt 
+          suppo<lb ed="#V" n="54" break="no"/>nitur. Si sic: ergo et tunc entitas que est b. esset tunc entitas quae 
+          <lb ed="#V" n="55"/>est c. et esset etiam entitas que est a. sicut entitas que est b. esset 
+          <lb ed="#V" n="56"/>tunc entitas que est b. Et si entitas que est c. esset tunc enti 
+          <lb ed="#V" n="57"/>tas que est c. et entitas que est b. esset tunc entitas que est 
+          <lb ed="#V" n="58"/>c. et per consequens a. non esset aliqua entitates quarum vna 
+          <lb ed="#V" n="59"/>non esset alia etc.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1027">
+          ⁋ Nec obstat si dicatur quod impossibile est huiusmod 
+          <lb ed="#V" n="60"/>subiectam esse sine aliqua entitate superaddita. Primo quidem 
+          <lb ed="#V" n="61"/>qui esto quod illud esset impossibile: nihilominus sequitur propositum. quia 
+          <lb ed="#V" n="62"/>si ista subiecta esset vna non seipsa: sed per aliquam entitatem 
+          su<lb ed="#V" n="63" break="no"/>peradditam. Si etiam per impossibile poneretur ipsam esse sine 
+          entita<lb ed="#V" n="64" break="no"/>te superaddita. ipsa tunc non esset vna. sicut quia ignis est 
+          ca<lb ed="#V" n="65" break="no"/>lidus caliditate sibi superaddita: si poneretur quod ignis esset si¬ 
+          <!--206.xml-->
+          <cb ed="#V" n="b"/> 
+          <!-- 108-r b -->
+          <lb ed="#V" n="66"/>ne caliditatem: ipse non esset calidus: esto quod impossibile esset ipsum 
+          <lb ed="#V" n="67"/>sic poni: sicut dicerent philosophi. ergo per oppositum: si posito illo 
+          <lb ed="#V" n="68"/>possibili adhuc subiecta esset vna: sequitur necessario quod ipsa 
+          <lb ed="#V" n="69"/>non est vna per aliquam entitatem superadditam. Simili modo  
+          <lb ed="#V" n="70"/>probat Aug. 5o de tri. quod paiter non ideo est ingenitus: quia filium genuit. 
+          <lb ed="#V" n="71"/>qui si filium non genuisset nihil prohiberet eum dici ingenitum: 
+          <lb ed="#V" n="72"/>et tamen suppositio est penitus impossibilis.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1065">
+          ⁋ 2o quia falsum est 
+          <lb ed="#V" n="73"/>illud esse impossibile: non enim aliqua contradictio implicatur: si ponatur illa 
+          <lb ed="#V" n="74"/>subiecta esse et nulla entitas sibi superaddita esse.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1072">
+          ⁋ Praeterea non 
+          mi<lb ed="#V" n="75" break="no"/>nus possibile est esse subiectam sine aliqua entitate superaddi 
+          <lb ed="#V" n="76"/>ta quam esse accidens aliquod sine subiecto: quod tamen constat per 
+          fidemn<lb ed="#V" n="77" break="no"/>esse possibile.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1081">
+          ⁋ Posset autem virtus praemisse rationis euiden 
+          <lb ed="#V" n="78"/>tius deduci. ponendo scilicet quod deus causaret aliquam subiectam 
+          an<lb ed="#V" n="79" break="no"/>gelicam sine entitate superaddita: et post lapsum temporis 
+          cau<lb ed="#V" n="80" break="no"/>saret in ipsa alias entitates quales sunt in aliis substantiis 
+          <lb ed="#V" n="81"/>angelicis. quo facto stat quod ista subiecta ita esset vna sicut subiecta 
+          <lb ed="#V" n="82"/>alterius angeli. Tunc arguitur sic demonstraniso ipsam: hec sub 
+          <lb ed="#V" n="83"/>stantia est vna et fuit vna dum fuit sine superaddita enti 
+          <lb ed="#V" n="84"/>tate. ergo hec subiecta non est vna per entitatem superadditam. 
+          <lb ed="#V" n="85"/>osequentia patet ex dictis et prima pars antecedentis. 2o vero probatur. 
+          <lb ed="#V" n="86"/>quia dum illa fuit sine superaddita entitate si non fuit 
+          <lb ed="#V" n="87"/>vna. ergo fuit alique entitates in se diuise id est quarum vna 
+          <lb ed="#V" n="88"/>non erat alia. et si sic: ergo a nunc ipsa est alique entitates 
+          <lb ed="#V" n="89"/>iuicem diuise: et per consequens illa non est vna. consequentia patet: quia constat secundum 
+          <lb ed="#V" n="90"/>casum quod ille entitates que ipsa fuit. verbi gratia b. c. eedem ipse 
+          <lb ed="#V" n="91"/>sunt nunc: ita quod illa eadem entitas b. que tunc fuit est nunc. et 
+          <lb ed="#V" n="92"/>ipsa eadem entitas c. que tunc fuit: est est nunc: et per consequens 
+          neu<lb ed="#V" n="93" break="no"/>tra est in alteram vel aliam aliquam conuersa vel 
+          transmuta<lb ed="#V" n="94" break="no"/>ta. ergo a nunc vna non est alia: et cum vtraque sit: sequitur quod vna 
+          <lb ed="#V" n="95"/>a reliqua sit diuisa.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1123">
+          ⁋ Confirmatur. quia ideo praecise tunc hec 
+          en<lb ed="#V" n="96" break="no"/>titas b. non erat illa entitas c. quia hec erat hec. et illa erat 
+          il<lb ed="#V" n="97" break="no"/>la. Unde sicut omnis entitas seipsa formaliter est ipsa: sic seipsa 
+          <lb ed="#V" n="98"/>est diuisa a non ipsa: seu non est alia: et per consequens quandiu ipsa est 
+          <lb ed="#V" n="99"/>ipsa: ipsa est diuisa ab alia: sed constat quod quandiu ipsa est: ipsa 
+          <lb ed="#V" n="100"/>est ipsa. Non enim est putandum: quod sicut possibile est aliquam 
+          ean<lb ed="#V" n="101" break="no"/>dem rem prius fuisse non tantam vel talem: et postea esse tantam 
+          <lb ed="#V" n="102"/>et talem. sic sit possibile eandem entitatem prius fuisse non hanc vel 
+          il<lb ed="#V" n="103" break="no"/>lam entitate: et postea esse illam. hoc enim posito illa non esset 
+          <lb ed="#V" n="104"/>eadem entitas sed alia: sed nunc est entitas b. que fuit. ergo nunc 
+          <lb ed="#V" n="105"/>ipsa non est entitas c. sed ab illa diuisa. ex quo vlterius sequitur: 
+          <lb ed="#V" n="106"/>quod hec subiecta angeli nunc est vna.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1149">
+          ⁋ 2o ad conclusionem sic: nulla 
+          enti<lb ed="#V" n="107" break="no"/>tas simplex est simplex per aliquam entitatem supadditam sibi. ergo 
+          <lb ed="#V" n="108"/>nulla entitas simplex est simpliciter vna per aliquam entitatem. Antecedens 
+          <lb ed="#V" n="109"/>est notum: quia non est intelligibile quod aliquid sit simplex. quia in ipso 
+          <lb ed="#V" n="110"/>estaliquid quod non est ipsum: sed potius quia nihil est in ipso quod 
+          <lb ed="#V" n="111"/>non sit ipsum. et quidem si nihil sit in ipso intrinsece quod non sit ipsum: 
+          <lb ed="#V" n="112"/>sit autem in ipso extrinsece id est non tamquam intrinseca pars eius aliquid 
+          <lb ed="#V" n="113"/>quod non sit ipsum: tunc illud est simplex intrinsece siue 
+          simplici<lb ed="#V" n="114" break="no"/>tate opposita compositioni ex his: sed non simpliciter simplicitate 
+          oppo<lb ed="#V" n="115" break="no"/>sita compositioni huic secundum communem modum loquendi. Si vero neutro modo 
+          <lb ed="#V" n="116"/>aliquid sit in ipso quod non sit ipsum. illud est vtroque modo simu et magis 
+          <lb ed="#V" n="117"/>simplex quam illud quod primo modo tantum est simplex. Unde ex hoc con 
+          <lb ed="#V" n="118"/>cludit Aug. 6. de tri. quod solus deus est simpliciter simplex. omnis 
+          <lb ed="#V" n="119"/>autem creatura est multiplex.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1180">
+          ⁋ Et ex hoc apparet 
+          manife<lb ed="#V" n="120" break="no"/>ste: quod nulla res simplex est simplex intrinsece. de qua sim 
+          <lb ed="#V" n="121"/>plicitate sum semper supra loquutus in hac quaestione: per aliquam 
+          <lb ed="#V" n="122"/>entitatem sibi superadditam. Consequentia patet: quoniam omnis entitas 
+          <lb ed="#V" n="123"/>simplex intrinsece: ideo est sic simplex: quia est simpliciter vna et in 
+          <lb ed="#V" n="124"/>seipsa indiuisa. Unde si ipsa esset in se simpliciter vna per aliquam 
+          enti<lb ed="#V" n="125" break="no"/>tatem superadditam: sequitur quod illa per illam superadditam entitatem esset 
+          <lb ed="#V" n="126"/>simplex.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1199">
+          ⁋ 3o adhuc posset argui per rationem Commen. contra Auicit. 
+          <lb ed="#V" n="127"/>4o. et ideo meta. vide eam.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1204">
+          ⁋ 2a pars conclusionis illius est quod vnum 
+          <lb ed="#V" n="128"/>pdicatum cum adiuncto expresso vel subintellecto non significat 
+          <lb ed="#V" n="129"/>aliquam entitatem secundum se distinctam ab ea quam significat terminus 
+          <lb ed="#V" n="130"/>cui adiungitur superadditam entitati. pro qua supponit id de 
+          <!--207.xml-->
+          <pb ed="#V" n="108-v"/>
+          <cb ed="#V" n="a"/>
+          <lb ed="#V" n="1"/>quo praedicatur. vbi gratia cum dicitur sortes est vnus homo: ly vnus. non 
+          <lb ed="#V" n="2"/>significat aliquam entitatem secundum se distinctam ab ea quam significat 
+          <lb ed="#V" n="3"/>homo: et superadditam entitati pro qua supponit sortes sic quod sortis 
+          <lb ed="#V" n="4"/>per aliam entitatem sit homo et per aliam sit vnus homo.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1228">
+          ⁋ probatur aut 
+          <lb ed="#V" n="5"/>hoc. Primo: quia si sortes esset sine omni entitate extrinseca 
+          <lb ed="#V" n="6"/>sibi supaddita: sortes esset vnus homo. ergo sortes non est vnus homo per 
+          en<lb ed="#V" n="7" break="no"/>titatem aliquam extrinsecam sibi additam: consequentia patet vt consequentia prime 
+          <lb ed="#V" n="8"/>rationis pro prima parte huius conclusionis. et antecedens etiam simili modo probatur vt 
+          <lb ed="#V" n="9"/>illud. Nam si sortes esset sortes esset sortes et per consequens esset homo: et non esset 
+          <lb ed="#V" n="10"/>plures homines. ergo esset vnus homo.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1244">
+          ⁋ 2o sumatur aliquis 
+          vn<lb ed="#V" n="11" break="no"/>asinus singularis. si iste est vnus asinus per aliquam 
+          entita<lb ed="#V" n="12" break="no"/>tem talem superadditam. vel illa est quanta dimensiue vel non. Si 
+          <lb ed="#V" n="13"/>non. aut ipsa est substantia: aut accidens. non subiecta: quia non subiecta 
+          <lb ed="#V" n="14"/>immaterialis. cum nulla talis sit in asino. nec materialis: quia 
+          <lb ed="#V" n="15"/>omnis talis siue sit materia siue forma seu compositum est quanta 
+          <lb ed="#V" n="16"/>Nec accidens. tum quia non esset signare in asino aliquam 
+          <lb ed="#V" n="17"/>determinatam partem in qua illud accidens esset. non enim appa 
+          <lb ed="#V" n="18"/>ret cur potius sit in capite quam in cauda. tum quia esto quod ipsum 
+          <lb ed="#V" n="19"/>esset in aliqua parte. verbi gratia. in capite non propter illud pars 
+          <lb ed="#V" n="20"/>materie existentis in cauda esset vnum cum alia proxima parte mrie: 
+          <lb ed="#V" n="21"/>nec cum parte forme qua informatur. nec etia pars forme cau 
+          <lb ed="#V" n="22"/>de cum alia parte sibi proxima. Si vero huiusmodi entitas sit quanta 
+          <lb ed="#V" n="23"/>dimensiue. ergo est multa. et tunc queratur per quid illa mul 
+          <lb ed="#V" n="24"/>ta sunt vnum: quia vel seipsis. et tunc eadem ratione vna pars for 
+          <lb ed="#V" n="25"/>me asini cum alia simili. et similiter cum materia seipsis possunt esse vnum: 
+          <lb ed="#V" n="26"/>cum non minus iste partes sint ex se nate facere vnum inten 
+          <lb ed="#V" n="27"/>se: et similiter partes materie illius entitatis addite inter se. et 
+          <lb ed="#V" n="28"/>similiter partes materie cum partibus forme quam partes illius entita 
+          <lb ed="#V" n="29"/>tis addite inter se. vel illa multa sunt vnum per aliquam aliam 
+          <lb ed="#V" n="30"/>entitatem. et tunc de illa queratur: et sic in infin. Smiliter hec ratio 
+          <lb ed="#V" n="31"/>t forsitan euidentius quo ad aliquid posset formari de 
+          ali<lb ed="#V" n="32" break="no"/>qua aqua vna et aliis corporibus homogeneis.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1294">
+          ⁋ 3o si alicui 
+          <lb ed="#V" n="33"/>aque iungantur ex diuersis partibus due alie aque. et ex 
+          <lb ed="#V" n="34"/>eis fiat vna aqua totalis que sit a. aut a. est vna aqua per 
+          <lb ed="#V" n="35"/>vnam aliquam entitatem supadditam: aut non. Si non habetur 
+          <lb ed="#V" n="36"/>propositum. si sic: vel illa esset aliqua entitas existens in tota aqua 
+          <lb ed="#V" n="37"/>vt aliqua existens tantum in communiunctione illarum aquarum partialium. non 
+          <lb ed="#V" n="38"/>potest dici principium quia vel esset entitas absoluta et hoc non. tum quia 
+          <lb ed="#V" n="39"/>ex tali coniunctione praecise non apparet quod possit aliqua entitas ab 
+          <lb ed="#V" n="40"/>soluta generari per totum. Absurdum enim est dicere quod si 
+          sci<lb ed="#V" n="41" break="no"/>phus aqui addatur mari ex vna parte: quod ex hoc per totum mare 
+          <lb ed="#V" n="42"/>generet aliqua entitas absoluta. Et iterum: quia si alius sciphus 
+          <lb ed="#V" n="43"/>secundo adderetur: iterum causaretur per totum mare simul entitas: et sic 
+          <lb ed="#V" n="44"/>quotcumque sciphi adderentur. Et tunc esset quaestio per quam illarum to 
+          <lb ed="#V" n="45"/>tum esset vna aqua: nec posset dari aliqua. Tum quia de partibus. 
+          <lb ed="#V" n="46"/>illius entitatis esset querendum: vtrum seipsis vel per additum 
+          <lb ed="#V" n="47"/>essent vnum vt supra. vel illa entitas esset respectus ille. et 
+          <lb ed="#V" n="48"/>istud etiam non potest dici: quia non apparet ad quem terminum esset re 
+          <lb ed="#V" n="49"/>spectus ille. Tum quia tot causarentur respectus per totam aquam 
+          <lb ed="#V" n="50"/>quot sciphi successiue adderentur: et non posset dici per quid 
+          <lb ed="#V" n="51"/>esset tota aqua vna aqua. Tum quia esto: quod talis respectus 
+          causa<lb ed="#V" n="52" break="no"/>retur nihil ad propositum: quia nullus respectus est entitas secundum se 
+          <lb ed="#V" n="53"/>distincta ab absolutis: vt infra probabitur. Nec potest dici: quod illa 
+          <lb ed="#V" n="54"/>entitas sit causata in coniunctione tantum: vt aliqui forte dicerent:  
+          <lb ed="#V" n="55"/>qui aliqua superficies esset nouiter causata continuans illas aquas: vel 
+          <lb ed="#V" n="56"/>aliqui respectus vnionis siue quod est vnio illarum 
+          adin<lb ed="#V" n="57" break="no"/>uicem. et per talem superficiem vel respectum aque illa tunc esset 
+          <lb ed="#V" n="58"/>vna aqua. hoc inquam esse non potest. Tum quia neutra huiusmodi entitas 
+          <lb ed="#V" n="59"/>noua causatur: cum nec respectus sit entitas secundum se ab illis 
+          distin<lb ed="#V" n="60" break="no"/>cta: nec etiam ipsa superficies vt alias probabitur. Tum quia oporte 
+          <lb ed="#V" n="61"/>eadem ratione dicere per quid partes superficiei talis (si poneretur) sunt 
+          <lb ed="#V" n="62"/>vnum: et sic vel tandem deueniretur ad punctum: et non esset dare quod 
+          <lb ed="#V" n="63"/>punctum esset illud per quod superficies illa esset vna: vel 
+          oporte<lb ed="#V" n="64" break="no"/>ret dicere quod seipsis: et eadem ratione partes aquae seipsis sunt vnum¬ 
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1366">
+          <lb ed="#V" n="65"/>⁋ Eodem mod modo potest argui de respectu vnionis: esto quod poneretur 
+          <!--207.xml-->
+          <cb ed="#V" n="b"/> 
+          <!-- 108-v b -->
+          <lb ed="#V" n="66"/>res distincta. Nam vel esset extensus: et tunc querendum esset 
+          <lb ed="#V" n="67"/>per quid eius partes sunt vnum. vel esset indiuisibilis. et tunc 
+          <lb ed="#V" n="68"/>non posset dari in qua parte aquae esset subiectiue: immo etiam nec in qua 
+          <lb ed="#V" n="69"/>illarum aquarum: cum non sit maior ratio de vna quam de alia: tum 
+          <lb ed="#V" n="70"/>quia siue ponatur talis superficies siue respectus. diuisio est 
+          <lb ed="#V" n="71"/>maior ratio quod respectus vel superficies causata in communiunctione 
+          <lb ed="#V" n="72"/>aqua communiuncte priori aquae ex vna parte: sit illud per quod tota aqua sit 
+          <lb ed="#V" n="73"/>vna: quam superficies vel respectus causatus in coiunctione 
+          al<lb ed="#V" n="74" break="no"/>terius aqua ex alia parte coniuncte: immo nec quam alie superficies 
+          <lb ed="#V" n="75"/>potinuantes alias partes illarum aquarum vel respectus vnionum 
+          <lb ed="#V" n="76"/>illarum adinuicem.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1402">
+          ⁋ 4o sicut aliqui arguunt: quando vnum 
+          cor<lb ed="#V" n="77" break="no"/>pus continuum diuiditur per segregationem partium adinuicem. quelibet 
+          <lb ed="#V" n="78"/>partium discretarum est vna nuoa hoc aliquid secundum se: igitur prius 
+          <lb ed="#V" n="79"/>erat corpus totale non diuisum: et tamen nulla entitas est de nouo 
+          <lb ed="#V" n="80"/>generata in aliqua partium per praecisam segregationem earum.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1413">
+          ⁋ pro 
+          <lb ed="#V" n="81"/>hac conclusione sunt expresse philosophus et Commen. 4. et 1d0eo meta.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1418">
+          ⁋ Sed 
+          <lb ed="#V" n="82"/>ptra eam potest argui. Nam separatis abinuicem partibus alicuius to 
+          <lb ed="#V" n="83"/>tius quod est per se vnum hoc aliquid: et remanentibus illis 
+          <lb ed="#V" n="84"/>omnibus in esse. ille partes non sunt vnum vt prius: ergo quando sunt vnum 
+          <lb ed="#V" n="85"/>scilibet ante seperationem earum non sunt seipsis vnum: sed per aliquid  
+          <lb ed="#V" n="86"/>additum eis. Ex quo vlterius sequitur: quod homo per entitatem sibi 
+          <lb ed="#V" n="87"/>additam sit vnus homo: et vnum lignum nuoa per entitatem superaddi 
+          <lb ed="#V" n="88"/>tam sit vnum lignum nuoa: et sic de aliis. cuius oppositum dictum est. Antecedens 
+          <lb ed="#V" n="89"/>patet in toto essentiali. Nam seperata anima homnis a corpore: et vtroque 
+          re<lb ed="#V" n="90" break="no"/>manente: illa anima et corpus non sunt vnus homo. Similiter secto 
+          <lb ed="#V" n="91"/>vno ligno in partibus remanentibus: ille non sunt vnum lignum. 
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1442">
+          <lb ed="#V" n="92"/>⁋ Rsponsio dicitur vno modo. quod concesso quod partes homnis non sint seipsis: 
+          <lb ed="#V" n="93"/>et per entitatem additam vnus homo. Adhuc non sequitur: quod per 
+          <lb ed="#V" n="94"/>aliam entitatem homo sit vnus ab his quibus est homo: nec vnu 
+          <lb ed="#V" n="95"/>sic praedicatum de ipso significat aliquam entitatem distinctam ab ea 
+          <lb ed="#V" n="96"/>vel eis quam vel quas significat homo superadditam ei: pro quo sup 
+          <lb ed="#V" n="97"/>onit illud de quo praedicatur. Nam sicut partes homnis separate non 
+          <lb ed="#V" n="98"/>sunt vnus homo: sic est non sunt homo. Si aut essent homo: et non vnus homo: arguent 
+          <lb ed="#V" n="99"/>procederet eodem modo. partes ligni secte sicut non sunt vnum lignum sic 
+          <lb ed="#V" n="100"/>non sunt lignum: sed ligna.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1464">
+          ⁋ 2o responsio negando consequentia primam. Nam quamuis 
+          <lb ed="#V" n="101"/>sole entitates partium sint totum vt partes homnis homo: non tamen 
+          qualiter<lb ed="#V" n="102" break="no"/>cumque se habentes ille entitates sunt homo: sed coniuncte et seinuicem 
+          <lb ed="#V" n="103"/>perficientes: licet autem non semper sic sint coniuncte: quando tamen sunt: non sunt 
+          <lb ed="#V" n="104"/>per aliquam aliam entitatem: sed seipsis coniuncte. non enim vnio earum 
+          <lb ed="#V" n="105"/>est aliqua entitas superaddita illis. Similiter de partibus 
+          <lb ed="#V" n="106"/>quantitatiuis dico: quod seipsis sunt vnum hoc aliquid: et 
+          <lb ed="#V" n="107"/>non per aliquam entitatem. et quando sic sunt: sunt vnum 
+          <lb ed="#V" n="108"/>lignum vel vnum aliquid aliud: quando vero non sunt 
+          <lb ed="#V" n="109"/>vnum hoc aliquid sed multa hec aliqua. sicut quando 
+          <lb ed="#V" n="110"/>sunt discontinua et discreta: tunc non sunt vnum lignum 
+          <lb ed="#V" n="111"/>vt prius erant.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1490">
+          ⁋ Quarta conclusio: scilicet quod vnum ve 
+          <lb ed="#V" n="112"/>re et simpliciter predicatur de deo: et quod deus est vere vnus 
+          <lb ed="#V" n="113"/>probatur. quia omnis res simplex est vere et simpliciter 
+          <lb ed="#V" n="114"/>vna: vt dicit prima conclusio: sed deus est simplex: immo 
+          <lb ed="#V" n="115"/>maxime inter omnia. ergo etc.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1502">
+          ⁋ Contra. deus est aliqua plura: quaerum 
+          <lb ed="#V" n="116"/>vnum non est aliud: ergo est in se diuisus: et per consequens non est simpliciter 
+          <lb ed="#V" n="117"/>vnus. consequentia patet ex dictis: vt videtur. et antecedens est certum per fidem. nam est 
+          <lb ed="#V" n="118"/>tres persone quarum vna non est alia.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1511">
+          ⁋ Respondeo negando consequentia. 
+          <lb ed="#V" n="119"/>Nam ad hoc quod aliquid sit in se diuisum non sufficit quod sit plura 
+          <lb ed="#V" n="120"/>quorum vnum non sit aliud. sed vltra hoc vt supra tactum est 
+          <lb ed="#V" n="121"/>requiritur quod aliquid illorum plurium non sit ipsum. Tunc enim 
+          <lb ed="#V" n="122"/>aliquid ita est ipsius quod non est ipsum et ipsum. et tunc vere 
+          <lb ed="#V" n="123"/>est in se diuisum. Nunc autem quamuis vna persona non sit alia: 
+          <lb ed="#V" n="124"/>quelibet tamen est deus: nec alius deus est vna quam alia. et per 
+          <lb ed="#V" n="125"/>consequens ille non est in se diuisus. 
+          <lb ed="#V" n="126"/>Quantum ad secundum articulum: videlibet. Utrum vnum quod 
+          <lb ed="#V" n="127"/>est principium numeri dicatur vere de deo: Dicitur. 
+          <lb ed="#V" n="128"/>multis quod non: eo quod tale vnum non dicitur secundum ipsos nisi de  
+          <lb ed="#V" n="129"/>rebus quantis et continuis: mihi autem videtur horum 
+          <lb ed="#V" n="130"/>fundamentum falsum esse. et ideo pro isto artic. pono quatuor conclusiones 
+          <!--208.xml-->
+          <pb ed="#V" n="109-r"/>
+          <cb ed="#V" n="a"/>
+          <lb ed="#V" n="1"/>pia conclusio quod vnum principium numeri non dicitur simpliciter: nisi de rebus simplicibus 
+          <lb ed="#V" n="2"/>siue de terminis pro rebus simplicibus supponentibus. 2a. quod 
+          <lb ed="#V" n="3"/>cum adiuncto dicitur vel potest dici de his terminis qui supponunt pro 
+          <lb ed="#V" n="4"/>habentibus partem et partem. 3a conclusio est quod vnum principium numeri non significat aliquam 
+          <lb ed="#V" n="5"/>entitate superadditam ei pro qua supponit illud de quo praedicatur. 4o 
+          <lb ed="#V" n="6"/>onclusio quod vnum tale dicitur vere de deo.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1559">
+          ⁋ Prima conclusio habet duas partes 
+          <lb ed="#V" n="7"/>quarum vna est quod de nulla re non simplici dicitur simpliciter vnum quod est 
+          <lb ed="#V" n="8"/>principium numeri. Secunda vero est quod de re simplici simpliciter dicitur et 
+          lo<lb ed="#V" n="9" break="no"/>quor de simplici simplicitate opposita compositioni ex his sicut 
+          <lb ed="#V" n="10"/>supra.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1570">
+          ⁋ Primam partem probo primo ex intentione bti Aug. 2o de li. ar. 
+          <lb ed="#V" n="11"/>vbi volens probare nuoas non esse nobis per sensus corporis no 
+          <lb ed="#V" n="12"/>tos assumit pro fundamento quod quilibet numerus tot vocat: quo 
+          <lb ed="#V" n="13"/>tiens habet vnum. veri gratia. si bis habuerit vnum vocatur duo: si 
+          ter<lb ed="#V" n="14" break="no"/>tria: si decies decem: et quilibet omnino numerus vt ait quaotiens habet vnum 
+          <lb ed="#V" n="15"/>hinc illi nomen est: et tot appellatur: vnum vero quisque verissime 
+          <lb ed="#V" n="16"/>cogitat profecto inuenit corporis sensibus: non et posse sentiri. 
+          <lb ed="#V" n="17"/>Quicquid enim sensu attingitur: iam non vnum sed multa esse conuincitur etc. 
+          <lb ed="#V" n="18"/>vt supra in secunda conclusione primi arti. est allegatum.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1590">
+          ⁋ Ex istis patet. quod 
+          <lb ed="#V" n="19"/>Aug. loquitur de vno quod est principium numeri: est quod tale vnum non di 
+          <lb ed="#V" n="20"/>simpliciter de aliquo corpore vel habente partes: ac per hoc nec de aliquo non 
+          <lb ed="#V" n="21"/>simplici.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1599">
+          ⁋ 2o idem probo ex intentione philosophi 10 meta. vbi loquens 
+          <lb ed="#V" n="22"/>de vno quod est metrum et principium numeri quod in numeris est metrum cer 
+          <lb ed="#V" n="23"/>tissimum: vnitatem enim ponunt omnino indiuisibilem: et satis cito post 
+          <lb ed="#V" n="24"/>dicit: quod quamuis metrum semper sit indiuisibile: non simpliciter tamen omne me 
+          <lb ed="#V" n="25"/>trum est indiuisibile: vt pes et vnitas: sed hoc quidem omnino illud vero indi 
+          <lb ed="#V" n="26"/>uisibile ad sensum voluit sicut dictum est iam. Nam forsan omne 
+          con<lb ed="#V" n="27" break="no"/>tinuum est diuisibile: vbi Commentatoris. exponens ait: et non omnes vnita 
+          <lb ed="#V" n="28"/>tes que accipiuntur ad mensurandum sunt indiuisibiles 
+          <lb ed="#V" n="29"/>eodem modo: sed quedam sunt indiuisibiles simpliciter: vt 
+          <lb ed="#V" n="30"/>vnum in nuoa: et quaedam per institutionem vt pes et palmus.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1622">
+          ⁋ Ex his 
+          <lb ed="#V" n="31"/>patet. quod secundum intentionem philosophi vnum quod est principium numeri est omnino 
+          indiuisibi<lb ed="#V" n="32" break="no"/>le: et per consequens de nullo non simplici huiusmodi vnum simpliciter verificatur. 
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1629">
+          <lb ed="#V" n="33"/>⁋ 3o idem probatur ratione. Nam quodlibet eorum quae numeramus dicendo: 
+          <lb ed="#V" n="34"/>vnum duo tria etc. secundum hoc praecise nuneratur secundum quod est in se indiuisum et 
+          <lb ed="#V" n="35"/>non multa: et per consequens quodlibet quod est vnum principium vel integrans cum alii 
+          <lb ed="#V" n="36"/>nunerum: ideo praecise est sic vnum: quia est in se indiuisum: ex quo vltra sequitur. 
+          <lb ed="#V" n="37"/>quod si est vnum simpliciter: est in se indiuisum simpliciter: et si est vnum secundum quid: 
+          <lb ed="#V" n="38"/>est indiuisum secundum quid: cum ergo nullum habens partes sic sit simpliciter indiui 
+          <lb ed="#V" n="39"/>sum: quin immo quodlibet sic diuisum est multa: vt patet ex praecedenti arti 
+          <lb ed="#V" n="40"/>sequitur quod nullum tale sit simpliciter vnum: et quod de nullo supponente 
+          <lb ed="#V" n="41"/>pro aliqui talium posset simpliciter vere dici vnum numerale de quo agitur. 
+          <lb ed="#V" n="42"/>Assumptum declaratur deducendo in singulis. Si enim numerentur 
+          <lb ed="#V" n="43"/>exercitus vel pospoli et dicantur. verbi gratia duo vel tria. quilibet sic ideo 
+          praeci<lb ed="#V" n="44" break="no"/>se dicitur vnus: quia est in se in plures exercitus indiuisus. Nam si esset plure 
+          <lb ed="#V" n="45"/>exercitus: sicut est plures homines: sicut illi non dicuntur nec sunt duo homines 
+          <lb ed="#V" n="46"/>sic etiam non essent duo exercitus. Et sicut neutri exercitus est vnus homo 
+          <lb ed="#V" n="47"/>sic neutri esset vnus exercitus. Similiter si sint due domus quaelibet ideo 
+          <lb ed="#V" n="48"/>praecise est vna: et sic connumeratur alteri: quia est indiuisa in plures do 
+          <lb ed="#V" n="49"/>mos quamuis sit diuisa in plures parietes et lapides et ligna: eo 
+          <lb ed="#V" n="50"/>dem mo duo homines dicuntur duo secundum quod vterque secundum se est indiui 
+          <lb ed="#V" n="51"/>sus in multos homines quamuis sit diuisus in plures partes essentia 
+          <lb ed="#V" n="52"/>les et integrales: et ita generaliter reperitur in omnibus.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1675">
+          ⁋ huic 
+          con<lb ed="#V" n="53" break="no"/>cordat dictum philosophi. 3. phycorum. qui probans quod in numeris est deuenir 
+          <lb ed="#V" n="54"/>ad minimum. dicit quod causa est: quia vnum est indiu isibile quodcumque vnum 
+          <lb ed="#V" n="55"/>sit: vt homo vnus homo et non infiniti. Numerus aut est vno plura et quaelibe 
+          <lb ed="#V" n="56"/>quaedam: quare necesse est stare ad indiuisibile: et constat quod ipse loqui 
+          <lb ed="#V" n="57"/>tur de vno quod est principium numeri. et Commenta. exponens. Ait omne 
+          <lb ed="#V" n="58"/>vnum est indiuisibile: vt vnus homo. vnus equus. est enim indiuisibilis 
+          <lb ed="#V" n="59"/>illa speciem: ideo vnum simplex scilicet numerale est indiuisibile: et quia numer 
+          <lb ed="#V" n="60"/>est coaceruus vnitatum numerus erit compositus ex indiuisibili 
+          <lb ed="#V" n="61"/>bus etc.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1697">
+          ⁋ Praeterea vnum principium numeri dice retur simpliciter de aliquo non 
+          <lb ed="#V" n="62"/>simplici: sequitur quod aliquis numerus simpliciter sumptus esset plura qua 
+          <lb ed="#V" n="63"/>quotiens continet vnum: et non praecise tot: consequens est falsum: vt supra 
+          <lb ed="#V" n="64"/>patet per Aug. consequentia patet: quia vnum quod ille numerus contineret esset plura 
+          <lb ed="#V" n="65"/>et non vnum tantum: et sic nunerus continens tale vnum decies praecise vel 
+          <!--208.xml-->
+          <cb ed="#V" n="b"/> 
+          <!-- 109-r b -->
+          <lb ed="#V" n="66"/>tali vna decem esset plura quam decem.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1717">
+          ⁋ 2a paes conclusionis probatur sic. aliqua 
+          <lb ed="#V" n="67"/>res simplex est simpliciter vna et alteri connumerabilis. ergo vnum quod 
+          <lb ed="#V" n="68"/>est principium numeri simpliciter dicitur de aliqua re simplici. antecedens est notum. Nam 
+          <lb ed="#V" n="69"/>anima vna intellectiua est simpliciter vna: et est connumerabilis alteri 
+          <lb ed="#V" n="70"/>anime intellectiue. dicendo vna due: et vnum et duo neutraliter: sic 
+          <lb ed="#V" n="71"/>enim vere anima sortes et anima platone sunt due anime: sicut sortis et plato sunt duo 
+          <lb ed="#V" n="72"/>homines. consequentia vero patet.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1733">
+          ⁋ 2a conclusio probatur: quia de termis 
+          supponenti<lb ed="#V" n="73" break="no"/>bus pro habentibus partem et partem vere praedicatur vnum cum certo 
+          adiun<lb ed="#V" n="74" break="no"/>cto: vt patet ex praecedenti arti. et huiusmodi talia sunt inuicem cum eodem 
+          ad<lb ed="#V" n="75" break="no"/>iuncto connumerabilia. verbi gratia vnus homo duo homines. et vltra: ergo de 
+          ta<lb ed="#V" n="76" break="no"/>libus seu supponentibus pro eis vere dicitur vnum quod est principium numeri cum 
+          <lb ed="#V" n="77"/>determinato adiuncto.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1747">
+          ⁋ Confirmatur. quia de pluribus talium 
+          <lb ed="#V" n="78"/>simul vere dicitur quod sunt tot vel tot: hoc vel illa. vbi gratia. decem homines 
+          <lb ed="#V" n="79"/>vel decem equi. ergo de quolibet talium vere dicitur vnum hoc vel illud principium 
+          <lb ed="#V" n="80"/>numeri. Unde sicut vnum simpliciter est principium numeri simpliciter: sic vnum hoc 
+          <lb ed="#V" n="81"/>vel illud: quod potest dici vnum secundum quid est principium numeri secundum quid id est 
+          nu<lb ed="#V" n="82" break="no"/>meri qui non est simpliciter tot vel tot: sed tot hoc vel tot illa. 
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1760">
+          <lb ed="#V" n="83"/>⁋ 3a conclusio probatur. primo sic: vnum conuertibile enti non significat  
+          <lb ed="#V" n="84"/>aliquam entitatem superadditam entitati que est vna. ergo nec 
+          <lb ed="#V" n="85"/>vnum principium numeri. Antecedens patet: ex praecedenti arti. consequentia 
+          pro<lb ed="#V" n="86" break="no"/>batur: quia siue vnum naturale dicatur de quolibet de quo dicitur vnum 
+          <lb ed="#V" n="87"/>conuertibile enti siue non: de quocumque tamen dicat sufficit 
+          il<lb ed="#V" n="88" break="no"/>li quod sit vnum vnitate entis: ad hoc vt alii possit 
+          connumera<lb ed="#V" n="89" break="no"/>ri: seu cum alio constituere numerum: et per consequens sufficit ad hoc vt 
+          <lb ed="#V" n="90"/>de ipso vel de supponente pro ipso possit praedicari vnum nume 
+          <lb ed="#V" n="91"/>rale id est quod est principium numeri. Unde posito quod sortes sit vnus homo 
+          <lb ed="#V" n="92"/>vnitate entis praecise: et similiter plures sortes et plato sunt vere duo 
+          <lb ed="#V" n="93"/>homines: et per consequens vterque secundum se est vnus vnitate numerali: ex 
+          <lb ed="#V" n="94"/>qua ille numerus integratur.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1789">
+          ⁋ Praeterea vnitas anime 
+          intellecti<lb ed="#V" n="95" break="no"/>ue vel angeli est distincta entitas ab entitate anime: ergo hec 
+          <lb ed="#V" n="96"/>vel illa sunt due entitates: et per consequens vtraque secundum se diui 
+          <lb ed="#V" n="97"/>sim est vna. et tunc queratur de illa entitate anime quae 
+          con<lb ed="#V" n="98" break="no"/>numeratur sue vnitati: an sit vna per se ipsam: et habetur propositum 
+          <lb ed="#V" n="99"/>Nam prima frustra ponitur. an per aliam vnitatem: et sic 
+          proce<lb ed="#V" n="100" break="no"/>ditur in infinitum: et similiter potest queri de illa entitate que dicitur 
+          <lb ed="#V" n="101"/>vnitas anime: an per seipsam sit vna: et si sic: eadem ratione 
+          <lb ed="#V" n="102"/>entitas anime seipa erit vna: an per aliam entitatem superad  
+          <lb ed="#V" n="103"/>ditam: et erit processus in infinitum: et patet quod semper loquor de vno 
+          <lb ed="#V" n="104"/>numerali.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1813">
+          ⁋ Sed forte dicetur quod vtraque entitas est vna: sed  
+          <lb ed="#V" n="105"/>diuersimode. Nam entitas vnitatis est essentialiter vna vel po 
+          <lb ed="#V" n="106"/>tius vnitas: entitas vero anime est denominatiue tantum: quia scilicet est habens 
+          ta<lb ed="#V" n="107" break="no"/>lem entitatem: sicut si candor dicatur candidus: vt dicit Aug. erg 
+          <lb ed="#V" n="108"/> mo de tri. aliter ipse dicitur candidus: quia scilicet essentialiter est candor et alier 
+          <lb ed="#V" n="109"/>cygnus. Nam cygnus solum denominatiue dicitur candidus: quia scilicet in se 
+          <lb ed="#V" n="110"/>habet candorem: et non est candor: et sicut non potest concludi quod cygnus 
+          se<lb ed="#V" n="111" break="no"/>ipo sit candidus et non per candorem superadditum: nec tamen sequitur 
+          <lb ed="#V" n="112"/>processus in infinitum in candoribus: ita in proposito non potest 
+          pro<lb ed="#V" n="113" break="no"/>bari quod entitas anime sic sit seipsa vna: aut sit processus in 
+          infi<lb ed="#V" n="114" break="no"/>nitum in vnitatibus.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1837">
+          ⁋ Contra. primo entitas anime non est in 
+          <lb ed="#V" n="115"/>se indiuisa per illam entitatem superadditam quam ponis 
+          <lb ed="#V" n="116"/>nec etiam per illam entitatem superadditam est 
+          distin<lb ed="#V" n="117" break="no"/>cta ab illa. ergo nec per illam aliam entitatem est in se vna 
+          <lb ed="#V" n="118"/>et illi connumerata. consequentia nota est: quia posito praecise quod aliquid 
+          <lb ed="#V" n="119"/>sit in se indiuisum et sit diuisum ab alio: hoc et illud 
+          consti<lb ed="#V" n="120" break="no"/>tuunt numerum vel sunt numerus: et per consequens quodli 
+          <lb ed="#V" n="121"/>est vnum.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1855">
+          ⁋ Antecedens patet: quia nulla entitas alteri 
+          super<lb ed="#V" n="122" break="no"/>addita est causa indiuisionis intrinsece de qua loquimus 
+          <lb ed="#V" n="123"/>illius rei cui additur: sicut supra declaratum est: nulla etiam est principium 
+          <lb ed="#V" n="124"/>distinguendi aliquid a seipsa: alioquin ipsa esset distincta 
+          <lb ed="#V" n="125"/>a seipsa: et ipsa non esset ipsa: quod implicat 
+          contradictio<lb ed="#V" n="126" break="no"/>nem.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1869">
+          ⁋ Confirmatur. quia si tam entitas vnitatis quam 
+          posi<lb ed="#V" n="127" break="no"/>tionis quam entitas anime esset per se subsistens: nec 
+          infor<lb ed="#V" n="128" break="no"/>maret ipsam animam: constat quod non minus hec et illa est 
+          <lb ed="#V" n="129"/>sent due: et per consequens quelibet vna quam habet nunc: et 
+          <lb ed="#V" n="130"/>tamen tunc entitas anime non esset vna per istam entitatem. 
+          <!--209.xml-->
+          <pb ed="#V" n="109-v"/>
+          <cb ed="#V" n="a"/>
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1887">
+          <lb ed="#V" n="1"/>⁋ Ex hoc patet. quod exemplum inductum non est simile: nam per ipsum candorem 
+          cy<lb ed="#V" n="2" break="no"/>genus est candidus: et si ille separatus existeret ab eo non esset candidus. 
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1894">
+          <lb ed="#V" n="3"/>⁋ 2o quia nec minus entitas anime est per seipam in se indiuisa: et ab 
+          il<lb ed="#V" n="4" break="no"/>la entitate superaddita diuisa quam econverso illa superaddita per se indi 
+          <lb ed="#V" n="5"/>uisa in se et ab anima diuisa: et per consequens non minus per seipam est vna quam 
+          <lb ed="#V" n="6"/>ista.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1905">
+          ⁋ Ex quo sequitur. quod si ista entitas sit per se vna et vnitas: quod 
+          <lb ed="#V" n="7"/>etiam entitas anime sit per se vna et vnitas.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1910">
+          ⁋ Praeterea nulla res est in se 
+          in<lb ed="#V" n="8" break="no"/>diuisa per aliquam entitatem sibi superadditam. ergo nulla est vnum 
+          nume<lb ed="#V" n="9" break="no"/>rale per aliquam entitatem superadditam. consequentia patet: quia si ratio talis 
+          vnius<lb ed="#V" n="10" break="no"/>in praecisa indiuisione intrinseca consistit: siue simpliciter: si simpliciter sit 
+          <lb ed="#V" n="11"/>vnum siue secundum quid: vt secundum hoc vel illud: si sit vnum secundum quid: vt 
+          <lb ed="#V" n="12"/>vnum hoc vel vnum illud: vt supra dictum est: antecedens etiam est supra 
+          declara<lb ed="#V" n="13" break="no"/>tum. Ad hanc conclusionem applicari possunt rationes. 3. conclusionis praecedentis arti. 
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1926">
+          <lb ed="#V" n="14"/>⁋ 4a conclusio probatur sic. de deo angelo michaele vere praedicatur numerus 
+          <lb ed="#V" n="15"/>simpliciter. Nam vere dicitur quod sunt duo. ergo de quolibet eorum sed se vere 
+          praedica<lb ed="#V" n="16" break="no"/>tur vnum nuamerale simpliciter: consequentia patet: quia numerus simpliciter est vna: vel 
+          <lb ed="#V" n="17"/>entitas simpliciter: sic numerus secundum quid: est vna secundum quid.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1938">
+          ⁋ Praeterea de deo 
+          <lb ed="#V" n="18"/>maxime vere dicitur quod est in se indiuisus et non multa. ergo de eo maxime vere dicitur 
+          <lb ed="#V" n="19"/>vnum numerale.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1945">
+          ⁋ Contra istas conclusiones sit aliqua rationes alterius 
+          opi<lb ed="#V" n="20" break="no"/>nionis: sed quia omnes fundantur. super hoc quod numerus dicatur solum de rebus 
+          <lb ed="#V" n="21"/>quantis et materialibus: quod fundamentum falsum esse ostenditur in 
+          sequen<lb ed="#V" n="22" break="no"/>ti quaestione. ideo illas hoc obmitto recitare.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1954">
+          ⁋ Ad primam vero rationem. 
+          <lb ed="#V" n="23"/>q. respondeo quod vtroque modo sumptum vnum dicitur de deo: cum vero probatur quod vnum 
+          <lb ed="#V" n="24"/>numerale non dicitur de deo: quia ipsum non dicitur nisi de continuo: nego istud 
+          as<lb ed="#V" n="25" break="no"/>sumptum. Et ad auc. Commenta. quae ad probandum illud inducitur. 
+          Di<lb ed="#V" n="26" break="no"/>co primo quod non suffragatur eis: sed potius aduersatur. Tum quia nullum 
+          <lb ed="#V" n="27"/>continuum est indiuisibile: tum quia nullum continuum caret situ: et per 
+          con<lb ed="#V" n="28" break="no"/>sequens videtur quod de nullo continuo dicatur vnum numerale quod vtique 
+          ve<lb ed="#V" n="29" break="no"/>rum est simpliciter loquendo: vt patet ex dictis.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e1972">
+          ⁋ Quia ergo Commenta. ait 
+          <lb ed="#V" n="30"/>in quantitate non est intelligendum determinate de quantitate continua quae 
+          <lb ed="#V" n="31"/>dicitur magnitudo: sed generaliter de quolibet quod est quantitas: vel pars seu 
+          prin<lb ed="#V" n="32" break="no"/>cipium quantitatis continue vel discrete: omne enim tale quod est 
+          indiuisibi<lb ed="#V" n="33" break="no"/>le et caret situ est vnum numerale et tale est deus: quilibet non sit quantitas: est 
+          <lb ed="#V" n="34"/>tamen principium quantitatis discrete: sicut vnitas est principium et pars numeri: et si esset 
+          <lb ed="#V" n="35"/>aliquod omnino indiuisibile habens situm: illud esset punctus: vtrum aut 
+          ali<lb ed="#V" n="36" break="no"/>quid huius sit: alias videbitur. sermo tamen Commeta. in proposito conditio 
+          <lb ed="#V" n="37"/>naturaliter intelligi debet. 2o potest dici et forte melius. quod Commentatoris. in verbis 
+          <lb ed="#V" n="38"/>illis: et philosophus est qui ibidem dicit similia non loquuntur secundum opinionem 
+          pro<lb ed="#V" n="39" break="no"/>priam: sed secundum opinionem tunc famosam ponentium mathematica 
+          se<lb ed="#V" n="40" break="no"/>parata et puncta et alia indiuisibilia: quae si esset vera. esset aliquid 
+          prae<lb ed="#V" n="41" break="no"/>cise de genere quantitatis carens situ et indiuisibile: et illud esset vni 
+          <lb ed="#V" n="42"/>tas principium numeri mathematici separati: esset etiam aliquid tale 
+          indiuisi<lb ed="#V" n="43" break="no"/>bile habens situm quod punctus ab illis vocabatur.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e2005">
+          ⁋ Ad 2am aucto. 
+          <lb ed="#V" n="44"/>eiusdem dico: quod opinio Commenta. vt dicitur in verbis allegatis: et 
+          cla<lb ed="#V" n="45" break="no"/>rius ad hoc 10 meta. fuit quod vnum numerale significaret aliquod 
+          <lb ed="#V" n="46"/>accidens inherens rei quae dicitur vna: sicut album significat albedinem 
+          inheren<lb ed="#V" n="47" break="no"/>tem subiecte: et in hoc ille non fuit minus deceptus quam Auicen. nec eius 
+          <lb ed="#V" n="48"/>auc. in hac parte recitanda.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e2018">
+          ⁋ Quod confirmatur: quia et aliquid falsum 
+          <lb ed="#V" n="49"/>ibidem dicit simul cum hoc scilicet quod ens quod significat vnum: significat aliquod 
+          ac<lb ed="#V" n="50" break="no"/>cidens existens in re: et ideo in neutro ille est recitandus. Cum vero consequentia pro 
+          <lb ed="#V" n="51"/>batur quod vnum conuertibile enti non dicitur de deo: quia significat entitatem 
+          <lb ed="#V" n="52"/>superadditam rei qua dicitur vna. nego illud assumptum. Ad primam 
+          proba<lb ed="#V" n="53" break="no"/>tionem dicendum. quod nugatio vitatur eo quod ens et vnum non significant eadem 
+          <lb ed="#V" n="54"/>eodem modo: sed vnum significat negatiue: ea quae ens significat affirma 
+          <lb ed="#V" n="55"/>tiue. Nam vt patet: per dicta: verum significat idem quod hoc oratio: quod est in se 
+          indi<lb ed="#V" n="56" break="no"/>uisum: siue hoc equiualens prime quod non est aliqua et cetera: vel non 
+          en<lb ed="#V" n="57" break="no"/>tia.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e2041">
+          ⁋ Ad 3am dico quod non semper passio importat rem distinctam a subiecto 
+          <lb ed="#V" n="58"/>et inherentem illi: sed aliquando aliquam quae non potest illi inesse: sic causatiuum 
+          impor<lb ed="#V" n="59" break="no"/>tat connotatiue creaturam possibilem: quia tamen deo numquam potest inesse: aliquando 
+          <lb ed="#V" n="60"/>etiam non importat aliquam quam non importat subiectum. sed easdem: non tamen 
+          eo<lb ed="#V" n="61" break="no"/>dem modo: sic est in proposito de vno quod negatiue importat ea qua affir 
+          <lb ed="#V" n="62"/>matiue importantur per ens: vt dictum est: propter quod impeditur predicatio 
+          <lb ed="#V" n="63"/>eius de subiecto in primo modo dicendi per se.
+        </p>
+        <p xml:id="grvnZZ-ed1e69-d1e2057">
+          ⁋ Ad aliud quod additur de diffinitione 
+          <lb ed="#V" n="64"/>passionis de subiecto tamquam per additamentum: dicendum hoc verum esse 
+          sumen<lb ed="#V" n="65" break="no"/>do passionem pro accidente proprio sibi extra animam inherente: non aut hoc est 
+          <!--209.xml-->
+          <cb ed="#V" n="b"/> 
+          <!-- 109-v b -->
+          <lb ed="#V" n="66"/>vniversaliter verum de passione quae est praedicabile aliquod de subiecto in 3o modo dicendi 
+          <lb ed="#V" n="67"/>per se: vnum autem si sit passio entis non est eius passio 
+          pri<lb ed="#V" n="68" break="no"/>mo modo: vt ex dictis patet: sed secundo modo tantum. 
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

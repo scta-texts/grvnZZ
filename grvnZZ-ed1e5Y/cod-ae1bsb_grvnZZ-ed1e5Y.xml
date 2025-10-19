@@ -1,286 +1,286 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 1</title>
-            <author ref="#Rimini">Gregory of Rimini</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-            
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 1</title>
-               <date when="2020-10-03">October 03, 2020</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="V" n="cod-ae1bsb">Venice 1503</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2020-10-03" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#V" n="74-v"/>
-            <cb ed="#V" n="b"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="grvnZZ-ed1e5Y"><!-- l1d14-16q1 -->
-            <head xml:id="grvnZZ-ed1e5Y-Hd1e106">Quaestio 1</head>
-            <head xml:id="grvnZZ-ed1e5Y-Hd1e109" type="question-title">Utrum spiritus sanctus, scilicet tertia in trinitate persona et cum 
-      patre et filio unus substantialiter deus, mittatur vel detur creaturae rationali, 
-      vel non ipse sed tantum dona eius</head>
-            <p xml:id="grvnZZ-ed1e5Y-d1e112">
-               <lb ed="#V" n="97"/>⁋ Distinctionis. XII. X7. etX XvI. Qon. 
-      <lb ed="#V" n="98"/>CIrca distinctionem decimamquartam. 15. 
-      <lb ed="#V" n="99"/>et ideo In quibus magister agit de pro 
-      <lb ed="#V" n="100"/>scessione temporali: siue missione vel datione 
-      <lb ed="#V" n="101"/>spiritus sctint. Quero vtrum spitus secus scilicet 3a in 
-      tri<lb ed="#V" n="102" break="no"/>nitate persona et cum patre et filio vnus substectaliter 
-      <lb ed="#V" n="103"/>A <!-- possible erroneous line -->
-      <lb ed="#V" n="104"/>deus: mittatur vel detur creature rationali vel 
-      <lb ed="#V" n="105"/>non ipse: sed tantum dona eius.
-    </p>
-            <p xml:id="grvnZZ-ed1e5Y-d1e136">
-      Et arguitur quod 
-      <lb ed="#V" n="106"/>tantum dentur dona eius: et hoc ideo ipse praecise dicatur dari. Primo 
-      <lb ed="#V" n="107"/>auctoritate Dede quam magister ponit in dicens 1.4. qui ait. Cum spiritus 
-      <lb ed="#V" n="108"/>sancti gratia datur hominibus profecto mittitur spiritus a patre: mittitur. 
-      <lb ed="#V" n="109"/>et a filio. Ex his patet quod idem est spiritum sanctum mitti: quod eius 
-      gra<lb ed="#V" n="110" break="no"/>tiam: que non est ipse: sed eius donum hominibus dari.
-    </p>
-            <p xml:id="grvnZZ-ed1e5Y-d1e149">
-      ⁋ 2o <ref xml:id="grvnZZ-ed1e5Y-Rvn123v" corresp="#grvnZZ-ed1e5Y-Qzxcnmb">Aug. 
-      <lb ed="#V" n="111"/>4o de tri.</ref> ait. <quote xml:id="grvnZZ-ed1e5Y-Qzxcnmb" source="http://scta.info/resource/adt-l4-d1e643@70-87">sicut spiritui sancto donum dei esse: est a patre 
-      proceden<lb ed="#V" n="112" break="no"/>te: ita mitti est cognosci quod ab illo procedat</quote>.
-    </p>
-            <p xml:id="grvnZZ-ed1e5Y-d1e157">
-      ⁋ Ex his sic. si 
-      <lb ed="#V" n="113"/>mitti est cognosci etc. ergo homine habente cognitionem huius praecise ipse habet 
-      <lb ed="#V" n="114"/>spectum scentum: sed talis cognitio non est ipse spiritus scuns vt certum est:  
-      <lb ed="#V" n="115"/>et est donum eius: iuxta illud nemo potest dicere dominus deus nisi 
-      <lb ed="#V" n="116"/>in spum secndo. prima ad Corntis i2. et idem iudicium est de spum secondo: quod scilicet 
-      <lb ed="#V" n="117"/>nemo potest illum cognoscere nisi per eum hanc cognitionem tribuentem. 
-            </p>
-            <p xml:id="grvnZZ-ed1e5Y-d1e161">
-      <lb ed="#V" n="118"/>In oppositum est magister in dicens 1n 2. qui per auctoritas Aug. eo 
-      <lb ed="#V" n="119"/>et Ambro. probat efficaciter non solum 
-      <lb ed="#V" n="120"/>dona: sed ipsam spiritus sancti personam dari. 
-            </p>
-            <p xml:id="grvnZZ-ed1e5Y-d1e171">
-      <lb ed="#V" n="121"/>Respondeo primo ponam aliquas conclusiones 2o obiiciam
-               <!-- missing line break -->contra dicta et soluam
-            </p>
-               <p xml:id="grvnZZ-ed1e5Y-d1e185">
-      <lb ed="#V" n="122"/>pono autem conclusiones quatuor. prima est quod ipsa persona spiritus scint 
-      <lb ed="#V" n="123"/>secundum se datur homini: et non tantum dona eius. 2a quod 
-      quaesdo<lb ed="#V" n="124" break="no"/>cumque datur spitus secuns: datur est aliquod donum eius scilicet gratia gratum 
-      fa<lb ed="#V" n="125" break="no"/>ciens: et econverso quandocumque illa datur: datur est spitus secus. 3a quod 
-      possi<lb ed="#V" n="126" break="no"/>bile est dari spiectum scntdum: absque quod tunc dentur eius dona. 4a quod 
-      <lb ed="#V" n="127"/>econuerso possibile est dari dona spiritus scient absque eo quod tunc det 
-      <lb ed="#V" n="128"/>spiritus secus. Et loquor de potentia dei absoluta in his duabus 
-      vl<lb ed="#V" n="129" break="no"/>timis conclusionibus.
-    </p>
-            <p xml:id="grvnZZ-ed1e5Y-d1e196">
-      ⁋ Primam conclusionem scilicet quod spiritus scient persona detur 
-      communi<lb ed="#V" n="130" break="no"/>ter hodie tenent doc. et magister auctoritas sanctorum probat in littera 14. dicens 
-      <!--144.xml-->
-      <pb ed="#V" n="75-r"/>
-               <cb ed="#V" n="a"/>
-               <lb ed="#V" n="1"/>et quia non melius quam per auct. potest probari. ideo praeter illas quas 
-      <lb ed="#V" n="2"/>inducit magister adduco duas alias valde expressas ad 
-      propo<lb ed="#V" n="3" break="no"/>situm. Prima est Aug. super Io. omel. 7 4. super illo Io 14. 
-      <lb ed="#V" n="4"/>Ego rogabo patrem et alium paraclitum dabit vobis. dicentis 
-      <lb ed="#V" n="5"/>Spenen paraclitum christus promisit apost. hoc est vtique in tri. spiritus 
-      <lb ed="#V" n="6"/>scuns quem patri et filio consubstectialem et coeternum: et coequalem fides 
-      <lb ed="#V" n="7"/>tatholica confitetur: ipse est de quo dicens apostolus. charitas dei dif 
-      <lb ed="#V" n="8"/>fusa est in cordibus nostris: per spiectum scuntdum qui datus est nobis: hec Aug 
-      <lb ed="#V" n="9"/>Ecce euidenter habes quod spitus secuns quem christus dixit: patrem da 
-      <lb ed="#V" n="10"/>turum apost. et quem apo. sibi datum profitetur. est 3a in trinitate 
-      <lb ed="#V" n="11"/>persona vnus cum patre et filio deus.
-    </p>
-            <p xml:id="grvnZZ-ed1e5Y-d1e231">
-      ⁋ Alia auctoritas est leonis pa 
-      <lb ed="#V" n="12"/>pe in sermdonem de penth. cuius initium est: post illam singularem in 
-      <lb ed="#V" n="13"/>signemque victoriam. ait enim ibi sic loquens de christo. In hac die 
-      <lb ed="#V" n="14"/>iuxta verbum suum: sancti spiritus donauit aduentum: de quo etiam 
-      <lb ed="#V" n="15"/>apost. suis dixerat. Ego rogabo patrem et alium paraclitum da 
-      <lb ed="#V" n="16"/>bit vobis: alium vtique non minorem: alium paraclitum id est similis 
-      <lb ed="#V" n="17"/>glorie vel naturae: eiusdemque subiecte: vt discipulorum fides 
-      veridi<lb ed="#V" n="18" break="no"/>ca spoesite: ad expectationem tanti mumeris praeparata: illum quem 
-      <lb ed="#V" n="19"/>sibi a deo in locum dei promissum esse meminisset: verum deum 
-      <lb ed="#V" n="20"/>esse cognosceret. Et infra. Quanta inquit et quam ineffabilis est 
-      <lb ed="#V" n="21"/>pietas redemptoris quae hominem portauit ad celum: et deum misit 
-      <lb ed="#V" n="22"/>ad terras: Et rursum subdit. affuit ergo in hac die fidelibus 
-      <lb ed="#V" n="23"/>suis non iam per gratiam visitationis et operationis: sed per ipsam 
-      <lb ed="#V" n="24"/>praesentiam maiestatis. hec leo papa. Cuidentissime habetur 
-      <lb ed="#V" n="25"/>ex istis: quod ille spiritus scus verus deus: missus est ad 
-      discipu<lb ed="#V" n="26" break="no"/>los secundum seipsum et per praesentiam sue maiestatis: et non tantum per 
-      <lb ed="#V" n="27"/>gratiam visitationis et operationis: ita quod non ideo tantum dicitur mil 
-      <lb ed="#V" n="28"/>sus apostolis: quia aliquid sit operatus in eis: vt gratiam vel alia 
-      <lb ed="#V" n="29"/>dona sicut aliqui opinati fuerunt: sed quia ipsa eius persona 
-      divini<lb ed="#V" n="30" break="no"/>tas et eius maiestas: licet modo ineffabili et 
-      incomprehensibi<lb ed="#V" n="31" break="no"/>li eis est data et missa.
-    </p>
-            <p xml:id="grvnZZ-ed1e5Y-d1e277">
-      ⁋ hoc etiam confirmatur ex eo quod scriptu 
-      <lb ed="#V" n="32"/>ra vtrumque distinguit. vnde angelus ad mariam. Spitus scuns 
-      <lb ed="#V" n="33"/>superueniet in te: et virtus altissimi obumbrabit tibi. luce primo 
-      <lb ed="#V" n="34"/>vbi angelus duo distincte promittit scilicet aduentum spiritus scienti: est 
-      <lb ed="#V" n="35"/>obumbrationem virtutis altissimi: que virtus vtique est donum 
-      <lb ed="#V" n="36"/>eius. Simili modo saluator ad discipulos accipietis inquit virtu 
-      <lb ed="#V" n="37"/>tem superuenientem in vos spitus scienti: et eritis mihi testes: etc. 
-      <lb ed="#V" n="38"/>hic etiam promittit virtutem spitus scin id est quam dat spitus scuns: ideo 
-      <lb ed="#V" n="39"/>dicit accipietis virtutem spiritus scient: et non solum virtutem spiritus 
-      <lb ed="#V" n="40"/>sci: sed etiam ipsum spiectum scntum promittit: ideo ait: superuenientis 
-      <lb ed="#V" n="41"/>in vos. hec duo danda discipulis distiguit ibi glosa dicens: 
-      <lb ed="#V" n="42"/>cum superueniet spiritus secus in vos virtutem testificandi de me 
-      <lb ed="#V" n="43"/>vobis praestabit. venit ergo ipse spiritus secunus et ipse sic veniens 
-      da<lb ed="#V" n="44" break="no"/>bit virtutem quae est donum eius: non ergo tantum dona spiritus scient: sed est ipse 
-      <lb ed="#V" n="45"/>spiritus scus datur homnibus.
-    </p>
-            <p xml:id="grvnZZ-ed1e5Y-d1e310">
-      ⁋ 2am conclusionem valet quod quandocunque datur spiritus 
-      <lb ed="#V" n="46"/>cus datur est gratia et econverso probo. et primo quantum ad eius primam partem sic. 
-      <lb ed="#V" n="47"/>Quicumque habet spectum scuentum est de statu et de numero filiorum dei: et 
-      <lb ed="#V" n="48"/>nullus carens gratia est huiusmodi ergo nullus carens gratia habet specntum scentum: et 
-      <lb ed="#V" n="49"/>per consequens omnis habens spiectum scntum habet gratiam.
-    </p>
-            <p xml:id="grvnZZ-ed1e5Y-d1e321">
-      ⁋ Ex quo sequitur quod 
-      quandocum<lb ed="#V" n="50" break="no"/>que datur spiritus secunus homini ei etia datur gra. maior patet per 
-      aposto<lb ed="#V" n="51" break="no"/>Quicumque spium dei aguntur: hi filum dei sunt: et infra. ipse spiritus 
-      <lb ed="#V" n="52"/>scuns testimoum reddit spiritui nostro id est menti nostre quod sumus filium 
-      dei<lb ed="#V" n="53" break="no"/>Si autem filii et heredes sup. secundum spem. minor patet per eundem ad  
-      <lb ed="#V" n="54"/>tal. vbi ait. euacuati estis a christo qui in lege iustificamin 
-      <lb ed="#V" n="55"/>gratia excidistis. Et est sensus. vos qui in lege iustificamini 
-      <lb ed="#V" n="56"/>ci. creditis hic iustificari per opera cerimonialia: quae nomine legis 
-      <lb ed="#V" n="57"/>significat aposto. excidistis a gra id est priuati estis gratia prius 
-      habi<lb ed="#V" n="58" break="no"/>ta: et ex hoc estis euacuati a christo id est non pertinetis ad consortium 
-      <lb ed="#V" n="59"/>membrorum vel filiorum christi.
-    </p>
-            <p xml:id="grvnZZ-ed1e5Y-d1e346">
-      ⁋ Alteram partem probo sic. quicumque habet 
-      <lb ed="#V" n="60"/>gratiam est de numero filiorum dei: nullus non habens spectum scntum: est 
-      <lb ed="#V" n="61"/>de numero filiorum dei. ergo nullus non habens spectum scntum habet gratiam: et per 
-      <lb ed="#V" n="62"/>consequens omnis habens gratiam habet spiectum scuentum.
-    </p>
-            <p xml:id="grvnZZ-ed1e5Y-d1e355">
-      ⁋ Ex quo etiam sequitur quod quaondi 
-      <lb ed="#V" n="63"/>datur gratia: datur est spitus scuns. maior patet per apost. ad tytum 
-      dicen<lb ed="#V" n="64" break="no"/>tem. Ut iustificati gratia ipsius heredes simus secundum spem vite 
-      <lb ed="#V" n="65"/>eterne. Et beatus petrus act 15. per gratiam domini credimus 
-      sal<cb ed="#V" n="b"/><lb ed="#V" n="66" break="no"/>uari. minor patet per apost. dicens. <quote xml:id="grvnZZ-ed1e5Y-Qgh1asd" source="http://scta.info/resource/rom8_9@17-27">Si quis spectum christi non habet: hic non est 
-      <lb ed="#V" n="67"/>eius</quote> id est mebrum christi: et per specntum christi intelligit spius secus patet 
-      glo<lb ed="#V" n="68"/>sam.
-    </p>
-            <p xml:id="grvnZZ-ed1e5Y-d1e377">
-      ⁋ hec conclusioquotum ad vtramque partem simul probatur <ref xml:id="grvnZZ-ed1e5Y-Rd1e379">auct. Ambro 
-        <lb ed="#V" n="69"/>libro primo super luc. super illo verbo angeli de Ioanne</ref>. Ipoe praecedet 
-      <lb ed="#V" n="70"/>ante illum in spium et in virtute helye domintis bene ista iunguntur:  
-      <lb ed="#V" n="71"/>nunquam enim sine virtute spiritus: nec sine spum virtus est: et infra. dicens 
-      <lb ed="#V" n="72"/>quod alterum sine altero esse non potest: sicut et in consequentibus reperitur. 
-      <lb ed="#V" n="73"/>spiritus scus superueniet in te et virtus altissimi obumbrabit tibi 
-      <lb ed="#V" n="74"/>Et loquitur de potentia ordinata: non autem absoluta dei: virtu 
-      <lb ed="#V" n="75"/>tis vero nomine gratia intelligitur.
-    </p>
-            <p xml:id="grvnZZ-ed1e5Y-d1e398">
-      ⁋ 3a conclusio est. quod est possibile da 
-      <lb ed="#V" n="76"/>ri spectum scentum homi absque quod detur aliquod donum: et loquor de dono 
-      <lb ed="#V" n="77"/>creato. hanc probo sic. omne dabile a deo homini: possibile est 
-      <lb ed="#V" n="78"/>ei dari a deo: non dato aliquo quod non sit essentialiter idem cum 
-      <lb ed="#V" n="79"/>to: nec aliquod dne essentia illius. ergo possibile est spectum scentum dari 
-      <lb ed="#V" n="80"/>homini non dato ei aliquo dono spitus scient creato. consequentia patet. quoniam spi 
-      <lb ed="#V" n="81"/>ritus scuns est dabilis homini: vt patet ex prima conclusione: et nullum 
-      <lb ed="#V" n="82"/>donum creatum est essentialiter idem cum spiritu scondo: aut de esen 
-      <lb ed="#V" n="83"/>tia spiritus sancti. Antecedens autem probatur. tum quia ipso concesso nulla 
-      <lb ed="#V" n="84"/>sequitur contradictio: tum quia sicut omne factibile a deo potest fieri 
-      <lb ed="#V" n="85"/>ab ipso: non facto aliquo quod non est ipsum: nec aliquid 
-      intrinse<lb ed="#V" n="86" break="no"/>cum essentialiter ei: vt communiter conceditur: et potest probari ex eo 
-      <lb ed="#V" n="87"/>quod nulla repugnantia contradictionis interuenit sic in proposito 
-      <lb ed="#V" n="88"/>omne dabile etc. Tum quia omne dabile a deo creature: deus 
-      <lb ed="#V" n="89"/>potest non dare: et potest nullo alio condante dare: et nullum tale 
-      <lb ed="#V" n="90"/>potest eo non dante dari. ergo omne dabile creature a deo: deus 
-      <lb ed="#V" n="91"/>potest dare non dato aliquo etc. Antecedens est verum et concessum 
-      communi<lb ed="#V" n="92" break="no"/>ter: et consequentia patet: quoniam si aliquod dabile. verbi gratia. a. non posset da 
-      <lb ed="#V" n="93"/>ri a deo: non dato alio dabili essentialiter distincto: nec in eo 
-      <lb ed="#V" n="94"/>essentialiter incluso. verbi gratia b. hoc non esset: nisi quia vel a. 
-      <lb ed="#V" n="95"/>datum necessario daret b. vel quia b. necessario requireretur ad dam 
-      <lb ed="#V" n="96"/>dum a. Si dicatur 2m ergo ipsum a. non potest deus nullo aliqo 
-      <lb ed="#V" n="97"/>condante dare: quod est oppositum vnius partis antecedentis. Si primum: vel a. 
-      <lb ed="#V" n="98"/>posset dare b. deo non condante b. et hoc repugnat alteri parti 
-      <lb ed="#V" n="99"/>antecedentis: vel non posset dare deo non condante: et tunc vel deus 
-      da<lb ed="#V" n="100" break="no"/>bit necessario b. cuius oppositum sumitur: vel poterit non dare: et tunc hoc 
-      <lb ed="#V" n="101"/>posito a. datum erit non dato b. Iuxta hoc potest in speciali 
-      for<lb ed="#V" n="102" break="no"/>mari ratio ad propositum sic. nullum donum creatum vel creabile requi 
-      <lb ed="#V" n="103"/>ritur necessario vt dans vel condans ad hoc vt s scilicet detur: et similiter nullum 
-      <lb ed="#V" n="104"/>tale donum necessario datur a. scilicet dato ergo s. scilicet potest dari nullo dono 
-      <lb ed="#V" n="105"/>creato dato.
-    </p>
-            <p xml:id="grvnZZ-ed1e5Y-d1e466">
-      ⁋ Ex hac 3a conclusione infero contra aliquos 
-      moder<lb ed="#V" n="106" break="no"/>nos: quod possibile est transire de contradictorio in contradictorium seu 
-      contradi<lb ed="#V" n="107" break="no"/>ctoria successiue verificari absque motu locali et positione 
-      <lb ed="#V" n="108"/>noue rei: vel destructione praeexistentis: cuius verificationis 
-      la<lb ed="#V" n="109" break="no"/>posus temporis est non sit in causa: quaeuis sine lapsu temporis actuali 
-      <lb ed="#V" n="110"/>vel possibili id contingere non possit: alias simul essent vera. patet 
-      <lb ed="#V" n="111"/>quia possibile est quod aliquis non habens spiectum scuntum isto modo speciali de 
-      <lb ed="#V" n="112"/>quo hic agitur: habeat postea spiectum scentum: eo non mutato 
-      loca<lb ed="#V" n="113" break="no"/>liter: nec aliqua re nouiter facta: vel priori aliqua destructa: vt 
-      <lb ed="#V" n="114"/>patet ex dictis. Et constat quod in spium sancto nulla est mutatio. 
-    </p>
-            <p xml:id="grvnZZ-ed1e5Y-d1e488">
-               <lb ed="#V" n="115"/>⁋ Item nec lapsus temporis ad hoc aliquid facit: nunquam enim ex 
-      <lb ed="#V" n="116"/>eo praecise: quis haberet spiectum scum: qui prius non habuisset. hoc 
-      <lb ed="#V" n="117"/>priem ex aliis confirmo sic. possibile est dei virtute 
-      albedi<lb ed="#V" n="118" break="no"/>nem huius corporis demonstrati nulla locali eius vel subie 
-      <lb ed="#V" n="119"/>cti mutatione interueniente: et nulla re nouiter causata vel 
-      de<lb ed="#V" n="120" break="no"/>structa non informare illud corpus. ergo etc. patet consequentia quia nunc infor 
-      <lb ed="#V" n="121"/>mat: et postea non informaret et subiectum nunc est album: et 
-      <lb ed="#V" n="122"/>postea non esset album: et per consequens contradictoria eorum que nunc 
-      <lb ed="#V" n="123"/>sunt vera: post hoc erunt falsa. Antecedens probatur: quoniam non minus 
-      <lb ed="#V" n="124"/>est illud possibile quam sit possibile quod accidentia 
-      sacramenta<lb ed="#V" n="125" break="no"/>lia sint eque praesentia et propinqua subiecte corporis christi sicut 
-      <lb ed="#V" n="126"/>erant subiecte panis: et sicut sunt accidentia corporis christi: suo 
-      <lb ed="#V" n="127"/>subiecto: et tamen illi subiecte christi non inhereant aut illam informant: 
-      <lb ed="#V" n="128"/>quod tamen de fcon contingit: quod vero non oporteat aliquam rem de 
-      <lb ed="#V" n="129"/>nouo causari clarum est: sed etiam quod nec destrui: quia nec ipsum 
-      <lb ed="#V" n="130"/>accidens: nec subiectum: nec aliquod compositum ex vtroque: cum ex
-      <pb ed="#V" n="75-v"/>
-               <cb ed="#V" n="a"/>
-               <pb ed="#V" n="75-r"/>
-               <cb ed="#V" n="a"/>
-               <!-- end of question missing because 75v and 76r seem missing -->
-            </p>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#Rimini">Gregory of Rimini</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2020-10-03">October 03, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="V" n="cod-ae1bsb">Venice 1503</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-10-03" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#V" n="74-v"/>
+        <cb ed="#V" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="grvnZZ-ed1e5Y"><!-- l1d14-16q1 -->
+        <head xml:id="grvnZZ-ed1e5Y-Hd1e106">Quaestio 1</head>
+        <head xml:id="grvnZZ-ed1e5Y-Hd1e109" type="question-title">Utrum spiritus sanctus, scilicet tertia in trinitate persona et cum 
+          patre et filio unus substantialiter deus, mittatur vel detur creaturae rationali, 
+          vel non ipse sed tantum dona eius</head>
+        <p xml:id="grvnZZ-ed1e5Y-d1e112">
+          <lb ed="#V" n="97"/>⁋ Distinctionis. XII. X7. etX XvI. Qon. 
+          <lb ed="#V" n="98"/>CIrca distinctionem decimamquartam. 15. 
+          <lb ed="#V" n="99"/>et ideo In quibus magister agit de pro 
+          <lb ed="#V" n="100"/>scessione temporali: siue missione vel datione 
+          <lb ed="#V" n="101"/>spiritus sctint. Quero vtrum spitus secus scilicet 3a in 
+          tri<lb ed="#V" n="102" break="no"/>nitate persona et cum patre et filio vnus substectaliter 
+          <lb ed="#V" n="103"/>A <!-- possible erroneous line -->
+          <lb ed="#V" n="104"/>deus: mittatur vel detur creature rationali vel 
+          <lb ed="#V" n="105"/>non ipse: sed tantum dona eius.
+        </p>
+        <p xml:id="grvnZZ-ed1e5Y-d1e136">
+          Et arguitur quod 
+          <lb ed="#V" n="106"/>tantum dentur dona eius: et hoc ideo ipse praecise dicatur dari. Primo 
+          <lb ed="#V" n="107"/>auctoritate Dede quam magister ponit in dicens 1.4. qui ait. Cum spiritus 
+          <lb ed="#V" n="108"/>sancti gratia datur hominibus profecto mittitur spiritus a patre: mittitur. 
+          <lb ed="#V" n="109"/>et a filio. Ex his patet quod idem est spiritum sanctum mitti: quod eius 
+          gra<lb ed="#V" n="110" break="no"/>tiam: que non est ipse: sed eius donum hominibus dari.
+        </p>
+        <p xml:id="grvnZZ-ed1e5Y-d1e149">
+          ⁋ 2o <ref xml:id="grvnZZ-ed1e5Y-Rvn123v" corresp="#grvnZZ-ed1e5Y-Qzxcnmb">Aug. 
+            <lb ed="#V" n="111"/>4o de tri.</ref> ait. <quote xml:id="grvnZZ-ed1e5Y-Qzxcnmb" source="http://scta.info/resource/adt-l4-d1e643@70-87">sicut spiritui sancto donum dei esse: est a patre 
+              proceden<lb ed="#V" n="112" break="no"/>te: ita mitti est cognosci quod ab illo procedat</quote>.
+        </p>
+        <p xml:id="grvnZZ-ed1e5Y-d1e157">
+          ⁋ Ex his sic. si 
+          <lb ed="#V" n="113"/>mitti est cognosci etc. ergo homine habente cognitionem huius praecise ipse habet 
+          <lb ed="#V" n="114"/>spectum scentum: sed talis cognitio non est ipse spiritus scuns vt certum est:  
+          <lb ed="#V" n="115"/>et est donum eius: iuxta illud nemo potest dicere dominus deus nisi 
+          <lb ed="#V" n="116"/>in spum secndo. prima ad Corntis i2. et idem iudicium est de spum secondo: quod scilicet 
+          <lb ed="#V" n="117"/>nemo potest illum cognoscere nisi per eum hanc cognitionem tribuentem. 
+        </p>
+        <p xml:id="grvnZZ-ed1e5Y-d1e161">
+          <lb ed="#V" n="118"/>In oppositum est magister in dicens 1n 2. qui per auctoritas Aug. eo 
+          <lb ed="#V" n="119"/>et Ambro. probat efficaciter non solum 
+          <lb ed="#V" n="120"/>dona: sed ipsam spiritus sancti personam dari. 
+        </p>
+        <p xml:id="grvnZZ-ed1e5Y-d1e171">
+          <lb ed="#V" n="121"/>Respondeo primo ponam aliquas conclusiones 2o obiiciam
+          <!-- missing line break -->contra dicta et soluam
+        </p>
+        <p xml:id="grvnZZ-ed1e5Y-d1e185">
+          <lb ed="#V" n="122"/>pono autem conclusiones quatuor. prima est quod ipsa persona spiritus scint 
+          <lb ed="#V" n="123"/>secundum se datur homini: et non tantum dona eius. 2a quod 
+          quaesdo<lb ed="#V" n="124" break="no"/>cumque datur spitus secuns: datur est aliquod donum eius scilicet gratia gratum 
+          fa<lb ed="#V" n="125" break="no"/>ciens: et econverso quandocumque illa datur: datur est spitus secus. 3a quod 
+          possi<lb ed="#V" n="126" break="no"/>bile est dari spiectum scntdum: absque quod tunc dentur eius dona. 4a quod 
+          <lb ed="#V" n="127"/>econuerso possibile est dari dona spiritus scient absque eo quod tunc det 
+          <lb ed="#V" n="128"/>spiritus secus. Et loquor de potentia dei absoluta in his duabus 
+          vl<lb ed="#V" n="129" break="no"/>timis conclusionibus.
+        </p>
+        <p xml:id="grvnZZ-ed1e5Y-d1e196">
+          ⁋ Primam conclusionem scilicet quod spiritus scient persona detur 
+          communi<lb ed="#V" n="130" break="no"/>ter hodie tenent doc. et magister auctoritas sanctorum probat in littera 14. dicens 
+          <!--144.xml-->
+          <pb ed="#V" n="75-r"/>
+          <cb ed="#V" n="a"/>
+          <lb ed="#V" n="1"/>et quia non melius quam per auct. potest probari. ideo praeter illas quas 
+          <lb ed="#V" n="2"/>inducit magister adduco duas alias valde expressas ad 
+          propo<lb ed="#V" n="3" break="no"/>situm. Prima est Aug. super Io. omel. 7 4. super illo Io 14. 
+          <lb ed="#V" n="4"/>Ego rogabo patrem et alium paraclitum dabit vobis. dicentis 
+          <lb ed="#V" n="5"/>Spenen paraclitum christus promisit apost. hoc est vtique in tri. spiritus 
+          <lb ed="#V" n="6"/>scuns quem patri et filio consubstectialem et coeternum: et coequalem fides 
+          <lb ed="#V" n="7"/>tatholica confitetur: ipse est de quo dicens apostolus. charitas dei dif 
+          <lb ed="#V" n="8"/>fusa est in cordibus nostris: per spiectum scuntdum qui datus est nobis: hec Aug 
+          <lb ed="#V" n="9"/>Ecce euidenter habes quod spitus secuns quem christus dixit: patrem da 
+          <lb ed="#V" n="10"/>turum apost. et quem apo. sibi datum profitetur. est 3a in trinitate 
+          <lb ed="#V" n="11"/>persona vnus cum patre et filio deus.
+        </p>
+        <p xml:id="grvnZZ-ed1e5Y-d1e231">
+          ⁋ Alia auctoritas est leonis pa 
+          <lb ed="#V" n="12"/>pe in sermdonem de penth. cuius initium est: post illam singularem in 
+          <lb ed="#V" n="13"/>signemque victoriam. ait enim ibi sic loquens de christo. In hac die 
+          <lb ed="#V" n="14"/>iuxta verbum suum: sancti spiritus donauit aduentum: de quo etiam 
+          <lb ed="#V" n="15"/>apost. suis dixerat. Ego rogabo patrem et alium paraclitum da 
+          <lb ed="#V" n="16"/>bit vobis: alium vtique non minorem: alium paraclitum id est similis 
+          <lb ed="#V" n="17"/>glorie vel naturae: eiusdemque subiecte: vt discipulorum fides 
+          veridi<lb ed="#V" n="18" break="no"/>ca spoesite: ad expectationem tanti mumeris praeparata: illum quem 
+          <lb ed="#V" n="19"/>sibi a deo in locum dei promissum esse meminisset: verum deum 
+          <lb ed="#V" n="20"/>esse cognosceret. Et infra. Quanta inquit et quam ineffabilis est 
+          <lb ed="#V" n="21"/>pietas redemptoris quae hominem portauit ad celum: et deum misit 
+          <lb ed="#V" n="22"/>ad terras: Et rursum subdit. affuit ergo in hac die fidelibus 
+          <lb ed="#V" n="23"/>suis non iam per gratiam visitationis et operationis: sed per ipsam 
+          <lb ed="#V" n="24"/>praesentiam maiestatis. hec leo papa. Cuidentissime habetur 
+          <lb ed="#V" n="25"/>ex istis: quod ille spiritus scus verus deus: missus est ad 
+          discipu<lb ed="#V" n="26" break="no"/>los secundum seipsum et per praesentiam sue maiestatis: et non tantum per 
+          <lb ed="#V" n="27"/>gratiam visitationis et operationis: ita quod non ideo tantum dicitur mil 
+          <lb ed="#V" n="28"/>sus apostolis: quia aliquid sit operatus in eis: vt gratiam vel alia 
+          <lb ed="#V" n="29"/>dona sicut aliqui opinati fuerunt: sed quia ipsa eius persona 
+          divini<lb ed="#V" n="30" break="no"/>tas et eius maiestas: licet modo ineffabili et 
+          incomprehensibi<lb ed="#V" n="31" break="no"/>li eis est data et missa.
+        </p>
+        <p xml:id="grvnZZ-ed1e5Y-d1e277">
+          ⁋ hoc etiam confirmatur ex eo quod scriptu 
+          <lb ed="#V" n="32"/>ra vtrumque distinguit. vnde angelus ad mariam. Spitus scuns 
+          <lb ed="#V" n="33"/>superueniet in te: et virtus altissimi obumbrabit tibi. luce primo 
+          <lb ed="#V" n="34"/>vbi angelus duo distincte promittit scilicet aduentum spiritus scienti: est 
+          <lb ed="#V" n="35"/>obumbrationem virtutis altissimi: que virtus vtique est donum 
+          <lb ed="#V" n="36"/>eius. Simili modo saluator ad discipulos accipietis inquit virtu 
+          <lb ed="#V" n="37"/>tem superuenientem in vos spitus scienti: et eritis mihi testes: etc. 
+          <lb ed="#V" n="38"/>hic etiam promittit virtutem spitus scin id est quam dat spitus scuns: ideo 
+          <lb ed="#V" n="39"/>dicit accipietis virtutem spiritus scient: et non solum virtutem spiritus 
+          <lb ed="#V" n="40"/>sci: sed etiam ipsum spiectum scntum promittit: ideo ait: superuenientis 
+          <lb ed="#V" n="41"/>in vos. hec duo danda discipulis distiguit ibi glosa dicens: 
+          <lb ed="#V" n="42"/>cum superueniet spiritus secus in vos virtutem testificandi de me 
+          <lb ed="#V" n="43"/>vobis praestabit. venit ergo ipse spiritus secunus et ipse sic veniens 
+          da<lb ed="#V" n="44" break="no"/>bit virtutem quae est donum eius: non ergo tantum dona spiritus scient: sed est ipse 
+          <lb ed="#V" n="45"/>spiritus scus datur homnibus.
+        </p>
+        <p xml:id="grvnZZ-ed1e5Y-d1e310">
+          ⁋ 2am conclusionem valet quod quandocunque datur spiritus 
+          <lb ed="#V" n="46"/>cus datur est gratia et econverso probo. et primo quantum ad eius primam partem sic. 
+          <lb ed="#V" n="47"/>Quicumque habet spectum scuentum est de statu et de numero filiorum dei: et 
+          <lb ed="#V" n="48"/>nullus carens gratia est huiusmodi ergo nullus carens gratia habet specntum scentum: et 
+          <lb ed="#V" n="49"/>per consequens omnis habens spiectum scntum habet gratiam.
+        </p>
+        <p xml:id="grvnZZ-ed1e5Y-d1e321">
+          ⁋ Ex quo sequitur quod 
+          quandocum<lb ed="#V" n="50" break="no"/>que datur spiritus secunus homini ei etia datur gra. maior patet per 
+          aposto<lb ed="#V" n="51" break="no"/>Quicumque spium dei aguntur: hi filum dei sunt: et infra. ipse spiritus 
+          <lb ed="#V" n="52"/>scuns testimoum reddit spiritui nostro id est menti nostre quod sumus filium 
+          dei<lb ed="#V" n="53" break="no"/>Si autem filii et heredes sup. secundum spem. minor patet per eundem ad  
+          <lb ed="#V" n="54"/>tal. vbi ait. euacuati estis a christo qui in lege iustificamin 
+          <lb ed="#V" n="55"/>gratia excidistis. Et est sensus. vos qui in lege iustificamini 
+          <lb ed="#V" n="56"/>ci. creditis hic iustificari per opera cerimonialia: quae nomine legis 
+          <lb ed="#V" n="57"/>significat aposto. excidistis a gra id est priuati estis gratia prius 
+          habi<lb ed="#V" n="58" break="no"/>ta: et ex hoc estis euacuati a christo id est non pertinetis ad consortium 
+          <lb ed="#V" n="59"/>membrorum vel filiorum christi.
+        </p>
+        <p xml:id="grvnZZ-ed1e5Y-d1e346">
+          ⁋ Alteram partem probo sic. quicumque habet 
+          <lb ed="#V" n="60"/>gratiam est de numero filiorum dei: nullus non habens spectum scntum: est 
+          <lb ed="#V" n="61"/>de numero filiorum dei. ergo nullus non habens spectum scntum habet gratiam: et per 
+          <lb ed="#V" n="62"/>consequens omnis habens gratiam habet spiectum scuentum.
+        </p>
+        <p xml:id="grvnZZ-ed1e5Y-d1e355">
+          ⁋ Ex quo etiam sequitur quod quaondi 
+          <lb ed="#V" n="63"/>datur gratia: datur est spitus scuns. maior patet per apost. ad tytum 
+          dicen<lb ed="#V" n="64" break="no"/>tem. Ut iustificati gratia ipsius heredes simus secundum spem vite 
+          <lb ed="#V" n="65"/>eterne. Et beatus petrus act 15. per gratiam domini credimus 
+          sal<cb ed="#V" n="b"/><lb ed="#V" n="66" break="no"/>uari. minor patet per apost. dicens. <quote xml:id="grvnZZ-ed1e5Y-Qgh1asd" source="http://scta.info/resource/rom8_9@17-27">Si quis spectum christi non habet: hic non est 
+            <lb ed="#V" n="67"/>eius</quote> id est mebrum christi: et per specntum christi intelligit spius secus patet 
+          glo<lb ed="#V" n="68"/>sam.
+        </p>
+        <p xml:id="grvnZZ-ed1e5Y-d1e377">
+          ⁋ hec conclusioquotum ad vtramque partem simul probatur <ref xml:id="grvnZZ-ed1e5Y-Rd1e379">auct. Ambro 
+            <lb ed="#V" n="69"/>libro primo super luc. super illo verbo angeli de Ioanne</ref>. Ipoe praecedet 
+          <lb ed="#V" n="70"/>ante illum in spium et in virtute helye domintis bene ista iunguntur:  
+          <lb ed="#V" n="71"/>nunquam enim sine virtute spiritus: nec sine spum virtus est: et infra. dicens 
+          <lb ed="#V" n="72"/>quod alterum sine altero esse non potest: sicut et in consequentibus reperitur. 
+          <lb ed="#V" n="73"/>spiritus scus superueniet in te et virtus altissimi obumbrabit tibi 
+          <lb ed="#V" n="74"/>Et loquitur de potentia ordinata: non autem absoluta dei: virtu 
+          <lb ed="#V" n="75"/>tis vero nomine gratia intelligitur.
+        </p>
+        <p xml:id="grvnZZ-ed1e5Y-d1e398">
+          ⁋ 3a conclusio est. quod est possibile da 
+          <lb ed="#V" n="76"/>ri spectum scentum homi absque quod detur aliquod donum: et loquor de dono 
+          <lb ed="#V" n="77"/>creato. hanc probo sic. omne dabile a deo homini: possibile est 
+          <lb ed="#V" n="78"/>ei dari a deo: non dato aliquo quod non sit essentialiter idem cum 
+          <lb ed="#V" n="79"/>to: nec aliquod dne essentia illius. ergo possibile est spectum scentum dari 
+          <lb ed="#V" n="80"/>homini non dato ei aliquo dono spitus scient creato. consequentia patet. quoniam spi 
+          <lb ed="#V" n="81"/>ritus scuns est dabilis homini: vt patet ex prima conclusione: et nullum 
+          <lb ed="#V" n="82"/>donum creatum est essentialiter idem cum spiritu scondo: aut de esen 
+          <lb ed="#V" n="83"/>tia spiritus sancti. Antecedens autem probatur. tum quia ipso concesso nulla 
+          <lb ed="#V" n="84"/>sequitur contradictio: tum quia sicut omne factibile a deo potest fieri 
+          <lb ed="#V" n="85"/>ab ipso: non facto aliquo quod non est ipsum: nec aliquid 
+          intrinse<lb ed="#V" n="86" break="no"/>cum essentialiter ei: vt communiter conceditur: et potest probari ex eo 
+          <lb ed="#V" n="87"/>quod nulla repugnantia contradictionis interuenit sic in proposito 
+          <lb ed="#V" n="88"/>omne dabile etc. Tum quia omne dabile a deo creature: deus 
+          <lb ed="#V" n="89"/>potest non dare: et potest nullo alio condante dare: et nullum tale 
+          <lb ed="#V" n="90"/>potest eo non dante dari. ergo omne dabile creature a deo: deus 
+          <lb ed="#V" n="91"/>potest dare non dato aliquo etc. Antecedens est verum et concessum 
+          communi<lb ed="#V" n="92" break="no"/>ter: et consequentia patet: quoniam si aliquod dabile. verbi gratia. a. non posset da 
+          <lb ed="#V" n="93"/>ri a deo: non dato alio dabili essentialiter distincto: nec in eo 
+          <lb ed="#V" n="94"/>essentialiter incluso. verbi gratia b. hoc non esset: nisi quia vel a. 
+          <lb ed="#V" n="95"/>datum necessario daret b. vel quia b. necessario requireretur ad dam 
+          <lb ed="#V" n="96"/>dum a. Si dicatur 2m ergo ipsum a. non potest deus nullo aliqo 
+          <lb ed="#V" n="97"/>condante dare: quod est oppositum vnius partis antecedentis. Si primum: vel a. 
+          <lb ed="#V" n="98"/>posset dare b. deo non condante b. et hoc repugnat alteri parti 
+          <lb ed="#V" n="99"/>antecedentis: vel non posset dare deo non condante: et tunc vel deus 
+          da<lb ed="#V" n="100" break="no"/>bit necessario b. cuius oppositum sumitur: vel poterit non dare: et tunc hoc 
+          <lb ed="#V" n="101"/>posito a. datum erit non dato b. Iuxta hoc potest in speciali 
+          for<lb ed="#V" n="102" break="no"/>mari ratio ad propositum sic. nullum donum creatum vel creabile requi 
+          <lb ed="#V" n="103"/>ritur necessario vt dans vel condans ad hoc vt s scilicet detur: et similiter nullum 
+          <lb ed="#V" n="104"/>tale donum necessario datur a. scilicet dato ergo s. scilicet potest dari nullo dono 
+          <lb ed="#V" n="105"/>creato dato.
+        </p>
+        <p xml:id="grvnZZ-ed1e5Y-d1e466">
+          ⁋ Ex hac 3a conclusione infero contra aliquos 
+          moder<lb ed="#V" n="106" break="no"/>nos: quod possibile est transire de contradictorio in contradictorium seu 
+          contradi<lb ed="#V" n="107" break="no"/>ctoria successiue verificari absque motu locali et positione 
+          <lb ed="#V" n="108"/>noue rei: vel destructione praeexistentis: cuius verificationis 
+          la<lb ed="#V" n="109" break="no"/>posus temporis est non sit in causa: quaeuis sine lapsu temporis actuali 
+          <lb ed="#V" n="110"/>vel possibili id contingere non possit: alias simul essent vera. patet 
+          <lb ed="#V" n="111"/>quia possibile est quod aliquis non habens spiectum scuntum isto modo speciali de 
+          <lb ed="#V" n="112"/>quo hic agitur: habeat postea spiectum scentum: eo non mutato 
+          loca<lb ed="#V" n="113" break="no"/>liter: nec aliqua re nouiter facta: vel priori aliqua destructa: vt 
+          <lb ed="#V" n="114"/>patet ex dictis. Et constat quod in spium sancto nulla est mutatio. 
+        </p>
+        <p xml:id="grvnZZ-ed1e5Y-d1e488">
+          <lb ed="#V" n="115"/>⁋ Item nec lapsus temporis ad hoc aliquid facit: nunquam enim ex 
+          <lb ed="#V" n="116"/>eo praecise: quis haberet spiectum scum: qui prius non habuisset. hoc 
+          <lb ed="#V" n="117"/>priem ex aliis confirmo sic. possibile est dei virtute 
+          albedi<lb ed="#V" n="118" break="no"/>nem huius corporis demonstrati nulla locali eius vel subie 
+          <lb ed="#V" n="119"/>cti mutatione interueniente: et nulla re nouiter causata vel 
+          de<lb ed="#V" n="120" break="no"/>structa non informare illud corpus. ergo etc. patet consequentia quia nunc infor 
+          <lb ed="#V" n="121"/>mat: et postea non informaret et subiectum nunc est album: et 
+          <lb ed="#V" n="122"/>postea non esset album: et per consequens contradictoria eorum que nunc 
+          <lb ed="#V" n="123"/>sunt vera: post hoc erunt falsa. Antecedens probatur: quoniam non minus 
+          <lb ed="#V" n="124"/>est illud possibile quam sit possibile quod accidentia 
+          sacramenta<lb ed="#V" n="125" break="no"/>lia sint eque praesentia et propinqua subiecte corporis christi sicut 
+          <lb ed="#V" n="126"/>erant subiecte panis: et sicut sunt accidentia corporis christi: suo 
+          <lb ed="#V" n="127"/>subiecto: et tamen illi subiecte christi non inhereant aut illam informant: 
+          <lb ed="#V" n="128"/>quod tamen de fcon contingit: quod vero non oporteat aliquam rem de 
+          <lb ed="#V" n="129"/>nouo causari clarum est: sed etiam quod nec destrui: quia nec ipsum 
+          <lb ed="#V" n="130"/>accidens: nec subiectum: nec aliquod compositum ex vtroque: cum ex
+          <pb ed="#V" n="75-v"/>
+          <cb ed="#V" n="a"/>
+          <pb ed="#V" n="75-r"/>
+          <cb ed="#V" n="a"/>
+          <!-- end of question missing because 75v and 76r seem missing -->
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

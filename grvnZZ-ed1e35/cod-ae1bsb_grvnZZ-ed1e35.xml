@@ -1,1014 +1,1014 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 1</title>
-            <author ref="#Rimini">Gregory of Rimini</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-            
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 1</title>
-               <date when="2020-10-03">October 03, 2020</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="V" n="cod-ae1bsb">Venice 1503</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2020-10-03" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#V" n="56-v"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="grvnZZ-ed1e35"><!-- l1d7q1 -->
-            <head xml:id="grvnZZ-ed1e35-Hd1e106">Quaestio 1</head>
-            <head xml:id="grvnZZ-ed1e35-Hd1e109" type="question-title">Utrum essentia divina sit potentia seu principium generandi filium</head>
-            <p xml:id="grvnZZ-ed1e35-d1e112">
-               <lb ed="#V" n="122"/>⁋ Distinctionis. VII Questio I. 
-      <lb ed="#V" n="123"/>CIrca septimam distinctionem. 
-      <lb ed="#V" n="124"/>Quero vtrum 
-      <lb ed="#V" n="125"/>essentia diuina sit potentia seu principium 
-      <lb ed="#V" n="126"/>generandi filium.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e125">
-      ⁋ Et arguitur quod sic au 
-      <lb ed="#V" n="127"/>ctoritate Daenmenu. libro primo. dicentis quod gene capi. 5. 
-      <lb ed="#V" n="128"/>Iua ratio est opus nature. Et loquitur de 
-      gene<lb ed="#V" n="129" break="no"/>ratione dei eterna: cum igitur non sit opus nature tamquam ope 
-      <lb ed="#V" n="130"/>rantis: cum diuina natura neque generet: neque generetur: vt 
-      <!--108.xml-->
-      <pb ed="#V" n="57-r"/>
-               <cb ed="#V" n="a"/>
-               <lb ed="#V" n="1"/>probatum est. d. 5 sequitur quod est opus eius tanquam principii quae pater generat. 
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e145">
-               <lb ed="#V" n="2"/>⁋ Contra arguitur quod non essentia sed proprietas personalis: quia pater eo 
-      <lb ed="#V" n="3"/>quo pater est eo generat. Nam secundum <ref xml:id="grvnZZ-ed1e35-Rvnn888" corresp="#grvnZZ-ed1e35-Qvbfh11">Aug. 5. de tri.</ref> <quote xml:id="grvnZZ-ed1e35-Qvbfh11" source="http://scta.info/resource/adt-l5-d1e696@132-142">pater non 
-      <lb ed="#V" n="4"/>dicitur pater nisi ex eo quod est ei filius</quote>. ideo autem est ei filius: quia genuit: esse 
-      <lb ed="#V" n="5"/>igitur pater quo genuit et econverso sed pater non deitate: sed paternitate est pater: 
-      <lb ed="#V" n="6"/>sicut filius non eo verbum quo sapientia. eo autem essentia quo sapientia secundum 
-      <lb ed="#V" n="7"/>Aug. 7. de tri. et per consequens non est filius deitate: quia eo verbum quao fili 
-      <lb ed="#V" n="8"/>et econverso ideo autem est filius: quia genitus. 5. de tri. ergo est proprie tate 
-      fi<lb ed="#V" n="9" break="no"/>lius. et similiter paiter est proprietate pater. ergo proprietate generat. et per 
-      <lb ed="#V" n="10"/>consequens proprietas est in eo potentia et principium generandi. 
-      <lb ed="#V" n="11"/>In hac quaestione duo erunt arti. In primo videbitur an in divinis 
-      <lb ed="#V" n="12"/>sit aliqua potentia vere elicitiua seu principium produ 
-      <lb ed="#V" n="13"/>ctiuum ad intra. vel quod in idem venit. vtrum potentia 
-      generan<lb ed="#V" n="14" break="no"/>di vel spirandi sit potentia vere productiua: 2o supposito quod sic 
-      <lb ed="#V" n="15"/>inquiretur quae est illa: an scilicet essentia vel relatio: aut aliquid aliud:  
-      <lb ed="#V" n="16"/>Quantum ad primum articulum est vna opinio quae dicit quod 
-      <lb ed="#V" n="17"/>in patre nulla est omnino potentia vere productia 
-      <lb ed="#V" n="18"/>vel elicitiua quae generet vel possit generare filium: sed potentia. 
-      <lb ed="#V" n="19"/>quae dicitur posse generare est solum modo actualis connexio a non repugnam 
-      <lb ed="#V" n="20"/>tia terminorum sicut et potentia quae deus potest esse deus. Et si liceret 
-      <lb ed="#V" n="21"/>sic loqui vt dicunt: non est aliud potentia generandi in patre: quam potentia pa 
-      <lb ed="#V" n="22"/>ternim andi siue qua potest esse paiter: quam constat non nominare aliquod principio 
-      <lb ed="#V" n="23"/>productiuum.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e196">
-      ⁋ Quod igitur potentia generandi non significet aliquod 
-      pro<lb ed="#V" n="24" break="no"/>ductiuum principium in patre respectu filii: probatur multipliciter.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e201">
-      ⁋ Primo 
-      <lb ed="#V" n="25"/>qui vbi non sunt productiones elicite vanum est quarere principium 
-      pro<lb ed="#V" n="26" break="no"/>ductiuum: sed in deo productiones non sunt elicite vt dicit se 
-      <lb ed="#V" n="27"/>probasse in praecedentibus. igitur etc.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e210">
-      ⁋ 2o sic. posse esse patrem non est 
-      <lb ed="#V" n="28"/>posse potentie productiue: sed est posse connexionis necessarie eo 
-      <lb ed="#V" n="29"/>quo homo potest esse animal et dyametum non mensurari coste. hoc patet. 
-      <lb ed="#V" n="30"/>qui si talis potentia esset productiua est paiter in divinis produceretur in esse 
-      <lb ed="#V" n="31"/>pratrem: quod est erroneum: sed eadem est potentia qua pater potest generare et euo 
-      <lb ed="#V" n="32"/>potest esse paiter. sicut idem est actus cum actu: puta generare et paternitas. 
-      <lb ed="#V" n="33"/>Magiatui est dicit quod simile est de istis propositionibus. pater potest esse pater: et 
-      <lb ed="#V" n="34"/>piaetr potest generare: et de istis. filius non potest esse pater: et filius non potest 
-      ge<lb ed="#V" n="35" break="no"/>nerare.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e230">
-      ⁋ 3o si potentia generandi est potentia productiua: aliquae perfe 
-      <lb ed="#V" n="36"/>ctio simpliciter est in patre quae non est in filio. hoc concedere non est 
-      sa<lb ed="#V" n="37" break="no"/>num: cum sint equae perfecti. consequentia probatur. quia constat quod in filio non est 
-      <lb ed="#V" n="38"/>potentia generandi: quia non respectum patris: cum ille sit ingenitus: nec respe 
-      <lb ed="#V" n="39"/>ctu alterius filii: quia nullus alius est possibilis: nec resectus sui 
-      <lb ed="#V" n="40"/>met: quia nihil producit se. ergo non est in eo: cum omnis potena sit res 
-      <lb ed="#V" n="41"/>alicuius. Quod aut potemda productiua sit perfeco simpliciter patet. Nam po 
-      <lb ed="#V" n="42"/>tentia productiua creature est perfectio simpliciter. multo autem mi 
-      <lb ed="#V" n="43"/>gis potentia producendi creatorem erit perfectio simpliciter.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e250">
-      ⁋ 4o cui 
-      <lb ed="#V" n="44"/>negatio non est negatio potentie ipsum non est formaliter potentia: sed secundu 
-      <lb ed="#V" n="45"/>Aug. nego potetie generatiue non est negatio potentie: sed tamen poss 
-      <lb ed="#V" n="46"/>bilitatis terminorum. ait enim contra Maxin. lir 3 quod filius non genuit:  
-      <lb ed="#V" n="47"/>non quia non potuit: sed quia non oportuit: quod exponens magister 
-      di<lb ed="#V" n="48" break="no"/>cit: non quia non potuit id non ex aliqua impotems fuit: et per consequens negati 
-      <lb ed="#V" n="49"/>potentie generatiue non est negatio potentie.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e266">
-      ⁋ 5o in patre divino non potest 
-      <lb ed="#V" n="50"/>poni aliqua potentia productiua respectu sui formalis constituti: 
-      <lb ed="#V" n="51"/>alias produceretur in esse patris: sed generare est formale 
-      consti<lb ed="#V" n="52" break="no"/>tutiuum patris. ergo respectu generare nulla est in eo potentia productiva. 
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e276">
-               <lb ed="#V" n="53"/>⁋ 6o omne quod caret potentia debita suo generi potest dici impotens: sed fi 
-      <lb ed="#V" n="54"/>lius non potest dici impotens: ergo non caret potentia debita suo gene 
-      <lb ed="#V" n="55"/>ri. caret autem potentia generandi et illa competit suo generi: quia patri. ergo 
-      <lb ed="#V" n="56"/>potentia generandi non est aliqua potentia. maior patet. 5. meta. vbi dicitur quod 
-      <lb ed="#V" n="57"/>talpa dicitur prauari visu: quia est proprietas debita suo generi. 
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e289">
-               <lb ed="#V" n="58"/>⁋ 7o nulla potentia productiua recipit actum in se: sed ab ea egre 
-      <lb ed="#V" n="59"/>dit actus: genare vero non egreditur a patre: immo constituit ipsum. 
-      <lb ed="#V" n="60"/>ergo etc.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e298">
-      ⁋ 8o si in patre est aliquod formale principium productiuum: quaeritur 
-      <lb ed="#V" n="61"/>quod est illud: non dicitur quod sit pratrnitas: quia patrnitas et generare iden 
-      <lb ed="#V" n="62"/>sunt realiter. Nec persona tota: quia tunc generare egrederetur a per 
-      <lb ed="#V" n="63"/>sona et esset aliud realiter ab ea. nec essentia propter eandem rationem. Nam 
-      <lb ed="#V" n="64"/>tunc ab ea egrederetur actus generationis et esset aliud realiter ab ea 
-      <lb ed="#V" n="65"/>cum nihil egrediatur a se.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e311">
-      ⁋ 6o quia si ponatur talis potentia esse produ¬ 
-      <!--108.xml-->
-      <cb ed="#V" n="b"/> 
-               <!-- 57-r b -->
-               <lb ed="#V" n="66"/>ctiua: impossibile est euadere argumentum heretici probantis quod pater sit po 
-      <lb ed="#V" n="67"/>tentior filio: quia pater potuit generare: quod non potuit filius. poner 
-      <lb ed="#V" n="68"/>do autem quod huiusmodi potentia non sit aliud quam necessitas: et filium non posse 
-      <lb ed="#V" n="69"/>non est aliud quam impossibilitas terminorum euidenter euaditur: et 
-      <lb ed="#V" n="70"/>sic euadit Aug. dicendo quod filius non genuit: non quia non potuit:  
-      <lb ed="#V" n="71"/>sed quia non oportuit: aut igitur per non oportere intellexit non 
-      con<lb ed="#V" n="72" break="no"/>gruere et non decere: et sic sua soluio fuit nulla: tum quia tales con 
-      <lb ed="#V" n="73"/>gruentie in nesariis assignari non debent: persuasionibus enim 
-      conten<lb ed="#V" n="74" break="no"/>tari in nececariis ridiculosum est. vt patet primo ethic. Tum quia si 
-      po<lb ed="#V" n="75" break="no"/>tuit et possibile fuit quod filius generaret: vtique congruum fuit. ergo per non opositio 
-      <lb ed="#V" n="76"/>tere intelligit impossibile esse: et hoc est magis clare euadere: quia non 
-      <lb ed="#V" n="77"/>omnis possibilitas essendi quae est in pratre est in filio. paiter enim potest esse 
-      <lb ed="#V" n="78"/>pliter: non autem filius potest esse pater. Sed vtique omnis possibilitas produ 
-      <lb ed="#V" n="79"/>ctiua quae est in vno est in alio. Sic igitur patet quod potentia generandi non 
-      <lb ed="#V" n="80"/>nominat aliquod productiuum principium.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e353">
-      ⁋ 2o nullum agens eternum 
-      <lb ed="#V" n="81"/>habet potentiam agendi: deus est agens eternum respectu 
-      <lb ed="#V" n="82"/>filii extendendo nomen agentis. Nam eternaliter generat. ergo etc. ma 
-      <lb ed="#V" n="83"/>ior probatur ex intentione. P. 12. meta. vbi vult quod non omne agens  
-      <lb ed="#V" n="84"/>habet potentiam qua potest agere. vbi Commentatoris. dicit quod impossibile est quod omne ergo 
-      <lb ed="#V" n="85"/>agens et mouens hbeat potentiam agendi et mouendi. omne enim 
-      eter<lb ed="#V" n="86" break="no"/>num est actio pura: et omne quod est actio pura non habet potentiam. Com 
-      <lb ed="#V" n="87"/>firmari potest. per. P. 2. pyar. qui dicit quod sempiterna sunt actu si 
-      <lb ed="#V" n="88"/>ne potentialitate. igitur sempiterne agentia semper actu agunt 
-      <lb ed="#V" n="89"/>et sunt sine potestate seu virtute seu potentia agendi.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e375">
-      ⁋ hec opinio in
-      <lb ed="#V" n="90"/>eo quod negat omnem potentiam productiuam in patre respectu filii 
-      acci<lb ed="#V" n="91" break="no"/>piendo potentiam pro potestate seu vi et principio productiuo non est vera. 
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e383">
-               <lb ed="#V" n="92"/>⁋ Primo quidem. quia sequeretur quod pater non esset principium productiuum 
-      fi<lb ed="#V" n="93" break="no"/>lii: sed hoc est falsum: quia tunc piter non vraciter filium gigneret: cum 
-      <lb ed="#V" n="94"/>generans inquantum generans sit producens: et genitum inquantum genitum 
-      <lb ed="#V" n="95"/>sit productum. consequentia clara est. Confirmatur ratio auctoritate <ref xml:id="grvnZZ-ed1e35-Rv1v2v3" corresp="#grvnZZ-ed1e35-Qg1d2d3">Aug. 5. de tri.</ref>
-      <lb ed="#V" n="96"/>dicentis sic. <quote xml:id="grvnZZ-ed1e35-Qg1d2d3" source="http://scta.info/resource/adt-l5-d1e753@7-22">si gignens ad id quod gignit principium est: pater ad 
-      fi<lb ed="#V" n="97" break="no"/>lium principium est: quia genuit eum</quote>. Et <ref xml:id="grvnZZ-ed1e35-Rjj8h3v" corresp="#grvnZZ-ed1e35-Qz1a2c4">eiusdem li. 4.</ref> dicit <quote xml:id="grvnZZ-ed1e35-Qz1a2c4" source="http://scta.info/resource/adt-l4-d1e646@63-73">quod pater est 
-      <lb ed="#V" n="98"/>totus diuinitatis: vel si melius dicitur deitatis principium</quote> id est <quote xml:id="grvnZZ-ed1e35-Qn1dr33" source="http://scta.info/resource/pll1d29c1-d1e3504@63-72">filii 
-      <lb ed="#V" n="99"/>et spiritus sancti In quibus singulis tota est divinitas</quote>: vt exponit <ref xml:id="grvnZZ-ed1e35-Rv1vii" corresp="#grvnZZ-ed1e35-Qn1dr33">magister infra
-      <lb ed="#V" n="100"/>distinctione 29</ref>
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e405">
-      ⁋ Item hilarius. 4. de tri. dicit quod pater est actor 
-      fi<lb ed="#V" n="101" break="no"/>lii que genuit. et dameni libro primo pater inquit est causa: et filius ex hac 
-      <lb ed="#V" n="102"/>causa et constat quod non aliter est principium aut actor vel causa: nisi producen 
-      <lb ed="#V" n="103"/>do ipsum sibi consubstectalem eiusdem naturae. est ergo secundum intentionem 
-      praedi<lb ed="#V" n="104" break="no"/>ctorum sanctorum pater principium vere productiuum filii.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e416">
-      ⁋ Ad hanc a 
-      <lb ed="#V" n="105"/>rationem in virtute libet in alio proposito iste doc. respondet distin. 
-      2o<lb ed="#V" n="106" break="no"/>dicens. quod non solum potentia productiua est principium: sed etiam ipsa productior 
-      <lb ed="#V" n="107"/>igitur pater dicitur principium productiuum filii: non per aliquam potentiam 
-      <lb ed="#V" n="108"/>productiuam: sed per ipsam productionem: puta generare quod est in ipso. 
-      <lb ed="#V" n="109"/>hec responsio concedit propositum: cum enim potenda productiua diffiniri ha 
-      <lb ed="#V" n="110"/>beat complete per esse principium productiuum alterius inquantum alterum: 
-      <lb ed="#V" n="111"/>sicut actiua diffinitur per esse principium actiuum alterius inquantum 
-      alte<lb ed="#V" n="112" break="no"/>rum: et talis ratio secundum responsionem competit ipsi actui qui est genderatio sequitur 
-      <lb ed="#V" n="113"/>quod ipsa est potentia productiua. et hoc est propositum ad praesens. non enim 
-      <lb ed="#V" n="114"/>quaerit aliud nisi an in patre sit aliquod principium productiuum respecs filii: 
-      <lb ed="#V" n="115"/>et conceditur in responsione quod sic.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e442">
-      ⁋ Utrum aut illud principium sit ipsa 
-      <lb ed="#V" n="116"/>productio: vel aliquid distinctum ab ea: non quaeritur pro nunc: cum ipse 
-      <lb ed="#V" n="117"/>vniversaliter omne principium productiuum neget.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e449">
-      ⁋ Et si dicatur quod non negatur 
-      <lb ed="#V" n="118"/>principium productiuum respectum producti quale dicit esse ipsam productio 
-      <lb ed="#V" n="119"/>nem: sed tantumo: negat principium productiuum respectu productionis quod 
-      <lb ed="#V" n="120"/>vtique solum secundum ipsum dicitur potentia productiua. Istud stare non 
-      <lb ed="#V" n="121"/>potest. Nam generaliter ipse habet negare secundum dictam sua: et negat omne 
-      <lb ed="#V" n="122"/>principium productiuum tam respectum producti: quam productionis. Quod patet: 
-      <lb ed="#V" n="123"/>Nam si posse principii productiui respectum productionis (vt dicit 
-      <lb ed="#V" n="124"/>est perfectio simpliciter: multo magis posse principii productius 
-      <lb ed="#V" n="125"/>respectum producti est perfectio simpliciter: cum posse in productionem 
-      <lb ed="#V" n="126"/>non sit perfectionis (si perfectionis est) nisi quia posse in 
-      produ<lb ed="#V" n="127" break="no"/>ctum illius productionis est perfectionis: negat aut primum posse a pa 
-      <lb ed="#V" n="128"/>tre: ne aliqua perfectio simpliciter attribuat sibi quae non sit in filio. 
-      <lb ed="#V" n="129"/>igitur et 2m consequenter habet negare. Nec valet dicere quod actualiter 
-      pro<lb ed="#V" n="130" break="no"/>ducere non est perfectionis: sed posse producere. Nam constat quod omne 
-      <!--109.xml-->
-      <pb ed="#V" n="57-v"/>
-               <cb ed="#V" n="a"/>
-               <lb ed="#V" n="1"/>principium productiuum potest producere: nec minus potest producere si 
-      <lb ed="#V" n="2"/>actu producit: quam si esset tantum in potentia ad producendum et non 
-      pro<lb ed="#V" n="3" break="no"/>duceret: nec minoris est perfectionis est ex eo quod actu produ 
-      <lb ed="#V" n="4"/>cit.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e495">
-      ⁋ Item hoc patet ex alio: recitat enim ille doc. in hac mate 
-      <lb ed="#V" n="5"/>vnam opinionem qua ponit quod paternitas est potentia seu principium generandi: et 
-      <lb ed="#V" n="6"/>tamen alibi vult eadem opinio quod paternitas et generare sunt idem: et 
-      <lb ed="#V" n="7"/>per consequens non ponit potentiam gneatiuam in patre respectum actus qui est 
-      <lb ed="#V" n="8"/>generare: sed tantum respectum producti scilicet filii. Et iste contra istam opinionem 
-      <lb ed="#V" n="9"/>sicut contra alias dicit quod supponit impossibil scilicet esse productiuum principi 
-      <lb ed="#V" n="10"/>in divinis. Ex quo patet quod non solum negat principium productiuum 
-      re<lb ed="#V" n="11" break="no"/>spectu gneationis: sed rectu geniti. quod euidentius probatur per eundem in 
-      <lb ed="#V" n="12"/>dicens eto. vbi obiiciendo conrspred. dicit quod posse generare filium saltem 
-      <lb ed="#V" n="13"/>est potenma productiua respectum filii: quamuis non respectu ipsius 
-      ge<lb ed="#V" n="14" break="no"/>nerationis. Et paulo post respondendo dicit quod filius non dicitur possibili 
-      <lb ed="#V" n="15"/>generari loquendo de possibilitate quae respondet potenti productiue: 
-      <lb ed="#V" n="16"/>quaeuis possit dici possibilis generari sumpta possibilitate pro non 
-      re<lb ed="#V" n="17" break="no"/>pugnantia terminorum. Ex quo patet quod vniversaliter omne principium productiuum 
-      <lb ed="#V" n="18"/>intendit negare. probatum est autem et conceditur patre esse principium pro 
-      <lb ed="#V" n="19"/>ductiuum: quare habentur propositum.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e531">
-      ⁋ 2o sic. fides catholica profitetur 
-      <lb ed="#V" n="20"/>filium esse a patre. hoc autem secundum istum in. 5. dicens in solutione vltime 
-      <lb ed="#V" n="21"/>obiectionis: ideo verum est: quia filius est filius formaliter per generari: quod 
-      <lb ed="#V" n="22"/>vtique infertur a patre: siue generare quod est formaliter in patre: et quo 
-      <lb ed="#V" n="23"/>formaliter paiter constituitur.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e542">
-      ⁋ Tunc arguo: aut filius est a patre: vel 
-      <lb ed="#V" n="24"/>a generare illatiue tantum: aut etiam principiatiue seu originaliter et 
-      pro<lb ed="#V" n="25" break="no"/>ductiue. primum non potest concedi: tum quia filius non esset productus nec 
-      <lb ed="#V" n="26"/>originatus seu natus a patre: quamuis esset illatus: quod dicere est impium: 
-      <lb ed="#V" n="27"/>tum quia pater eque esset a filio: sicut filius a patre: tum quia sicut pater 
-      <lb ed="#V" n="28"/>infert filium: sic econverso et sicut generare generari: sic econverso mutua enim e 
-      <lb ed="#V" n="29"/>reciproca est consequentia et illatio: quod cum fidei sit contrarium dicenti 
-      pa<lb ed="#V" n="30" break="no"/>ter a nullo est. filius vero a solo patre. restat quod vltra huiusmodi illatio 
-      <lb ed="#V" n="31"/>nem necesse est confiteri principiationem et originationem et filiu 
-      <lb ed="#V" n="32"/>principiatiue et originaliter esse a patre: et per consequens in patre concede 
-      <lb ed="#V" n="33"/>re principium productiuum ipsius filii seu patrem potius esse principium tale. 
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e566">
-               <lb ed="#V" n="34"/>⁋ Quia si dicatur ipsum actum generationis quem in patre dicit esse et non a 
-      <lb ed="#V" n="35"/>patre esse principium filii: adhuc habentur propositum non enim ad praesens plus 
-      <lb ed="#V" n="36"/>quaeritur: nisi quod in deo vere sit principium seu potentia vere productia filii. 
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e575">
-               <lb ed="#V" n="37"/>⁋ Ad rationes opinionis in oppositum. Ad primam: vel per productionem 
-      <lb ed="#V" n="38"/>intelligis ipsum productum: sicut in creaturis res quia producitur 
-      <lb ed="#V" n="39"/>dicitur actio seu productio: vt dicitur in 2o et tunc minor est falsa: vel 
-      <lb ed="#V" n="40"/>intelligis ipsum producens vel eius habitudinem ad productum: 
-      <lb ed="#V" n="41"/>et tunc est falsa maior. alias potentia creatiua non esset productiua: 
-      <lb ed="#V" n="42"/>cum nec creans vel eius habitudo ad creaturam sit producta: 
-      <lb ed="#V" n="43"/>vel intelligis quandam rem mediam distinctam: tam a producente: quam 
-      <lb ed="#V" n="44"/>a producto: et sic maior est falsa. Et habet instantiam de potentia crea 
-      <lb ed="#V" n="45"/>tiua. Similiter in aliis: cum nullibi sit talis actio media ponen 
-      <lb ed="#V" n="46"/>da: vt patebit in 2o Et si in creaturis poni posset: non tamen it 
-      <lb ed="#V" n="47"/>deo.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e601">
-      ⁋ Ad 2am dicitur quod si valeret eque probaretur et similiter quod po 
-      <lb ed="#V" n="48"/>creatiua dei non esset productiua: quod tamen secundum omnes: et estm secundum hunc 
-      <lb ed="#V" n="49"/>doc. est falsum.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e608">
-      ⁋ Arguam enim sic. posse esse creatorem non est 
-      pos<lb ed="#V" n="50" break="no"/>se esse potentie productiue: alias deus produceretur in esse creatoris: quod 
-      <lb ed="#V" n="51"/>est impium dicere: sed est eadem potentia quae deus potest creare et qua potest esse 
-      <lb ed="#V" n="52"/>creator. sicut idem est deum creare et deum esse creatorem. ergo po 
-      <lb ed="#V" n="53"/>creatiua non est productiua: cum igitur hoc conclusum falsum sit: 
-      li<lb ed="#V" n="54" break="no"/>quet praedictam rationem esse defectiuam.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e622">
-      ⁋ Rsponsio: igitur ad illam: cum 
-      <lb ed="#V" n="55"/>dicitur posse esse patrem non est posse potentie productiue: hoc nomen pitir 
-      <lb ed="#V" n="56"/>vt infra distinguit magitr. dicensi 7. aliquando est nomen hypostasis 
-      <lb ed="#V" n="57"/>aliquando propretatis. primo modo esse patrem est esse personam quae producit 
-      fi<lb ed="#V" n="58" break="no"/>lium. Alio modo est filium generare. hec multum dictenunt. Nam pro modo conced  
-      <lb ed="#V" n="59"/>mus divinitatem esse patrem. non autem 2o modo: vt supra. dicens e aliqualiter 
-      ta<lb ed="#V" n="60" break="no"/>ctum est. Primo modo dico quod posse esse patrem non est posse potentie produ 
-      <lb ed="#V" n="61"/>ctiue. Non enim deitas potest esse piter per aliquam pom productiuam 
-      <lb ed="#V" n="62"/>quae possit in personam patris: et in hoc sensu non est minor vera. Non 
-      <lb ed="#V" n="63"/>enim idem est posse esse patrem et posse generare. cum primum posse vere con 
-      <lb ed="#V" n="64"/>cedatur de divinitate: non autem 2m. Si autem sumatur 2o modo sic neg 
-      <lb ed="#V" n="65"/>primam propositionem: et dico quod posse esse patrem est posse potentie producti 
-      <!--109.xml-->
-      <cb ed="#V" n="b"/> 
-               <!-- 57-v b -->
-               <lb ed="#V" n="66"/>ue. sicut enim per productiuam potentiam paiter potest filium producere et eius esse 
-      <lb ed="#V" n="67"/>principium: sic per eandem potest esse paiter: cum hoc non sit aliud personam primam esse 
-      <lb ed="#V" n="68"/>patrem: quam ipsum filium gignere.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e661">
-      ⁋ Tunc ad probationem: cum dicitur quod 
-      <lb ed="#V" n="69"/>tunc pater produceret se in esse patrem: nego consequentia. Instantia pa 
-      <lb ed="#V" n="70"/>de posse esse creatorem. vnde sicut posse esse creatorem non est 
-      <lb ed="#V" n="71"/>posse producere creatorem: sed creaturam: nec cum deus est de 
-      no<lb ed="#V" n="72" break="no"/>uo creator facit se creatorem proprie loquendo: quia nec facit se 
-      <lb ed="#V" n="73"/>nec aliquid in se: sed tantum creaturam: sic posse esse patrem non est 
-      <lb ed="#V" n="74"/>posse producere patrem: sed filium. nec pater producit se patrem: sed 
-      <lb ed="#V" n="75"/>filium. sicut nec est pater sui: sed filii. Non igitur producit seipum 
-      <lb ed="#V" n="76"/>in esse patrem.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e681">
-      ⁋ Quia autem adducitur de magtro qui dicit illas 
-      <lb ed="#V" n="77"/>propositiones significare idem. Diendum quod magr accipit ibi nome 
-      <lb ed="#V" n="78"/>patris vt est nomen proprietatis. sict dictum est. sicut etiam patet ibi 
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e688">
-               <lb ed="#V" n="79"/>⁋ Ad 3m dico primo: quod per perfectionem simpliciter vel intelligis aliquod 
-      <lb ed="#V" n="80"/>significabile incomplexe. et tunc dico quod nulla est perfectio sim 
-      <lb ed="#V" n="81"/>pliciter nisi deus: quia nihil aliud a deo est quod in quolibet sit melius ipsum 
-      <lb ed="#V" n="82"/>quam non ipsum iuxta modum loquendi ansel. Et tunc concedo quod prino 
-      <lb ed="#V" n="83"/>productiuum filii est perfectio simpliciter: quod et tum habes concedere 
-      <lb ed="#V" n="84"/>nisi tum velis dicere: aut patrem non producere filium: aut pa 
-      <lb ed="#V" n="85"/>trem non esse deum: quorum vtrumque impium est. Et sic patet argumentum est contra te. valet 
-      <lb ed="#V" n="86"/>quod aliqua perfectio simpliciter deest filio: vel intelligis aliquod 
-      signi<lb ed="#V" n="87" break="no"/>ficabile tamen complexe. vbi gratia. si dicatur quod esse sapientem est perfe 
-      <lb ed="#V" n="88"/>ctio simpliciter: quia vniversaliter est melius esse ipsum: quam non ipsum. hoc est cuilibet 
-      <lb ed="#V" n="89"/>esset melius esse sapientem: quam non esse sapientem. ad quem sensum loquitur 
-      <lb ed="#V" n="90"/>Ansel. vt patet consideranti: quamuis non vtatur istis vocabulis 
-      perfe<lb ed="#V" n="91" break="no"/>ctio simpliciter: quod nec est proprie dicitur de tali complexe signifi 
-      <lb ed="#V" n="92"/>cabili. Sed est sensus cum illud dicitur perfectio simpliciter id est vniversali 
-      <lb ed="#V" n="93"/>quod vel cuilibet esset melius esse tale: quam non esse tale: vel quodlibet 
-      <lb ed="#V" n="94"/>si esset tale: esset melius quam si non esset tale ceteris paribus. Sed 
-      <lb ed="#V" n="95"/>secundum hunc sensum cum dicitur quod potentia productiua filii est perfectio 
-      <lb ed="#V" n="96"/>simpliciter: idem est ac si diceret posse producere filium est perfectio 
-      <lb ed="#V" n="97"/>simpliciter. Et secundum hunc modum accipiedi reducitur argumentum et contra te. 
-      <lb ed="#V" n="98"/>Nam si posse producere creaturam est perfectionis simpliciter. et 
-      <lb ed="#V" n="99"/>secundum te: ex hoc sequitur per locum a minori quod posse producere 
-      <lb ed="#V" n="100"/>creatorem est perfectionis simpliciter: cogeris vt vel dicas quod non 
-      <lb ed="#V" n="101"/>omne quod est perfectonis simpliciter conueniens patri conuenit filio dei: 
-      <lb ed="#V" n="102"/>quod tu et vere reputas falsum: vel neges patrem posse produce 
-      <lb ed="#V" n="103"/>re filium: quod est hereticum. Et cum hoc sequitur est quod non omnis 
-      perfe<lb ed="#V" n="104" break="no"/>ctio patri conueniat. Et ideo ita patet quod ratio fortius militat contra suum 
-      <lb ed="#V" n="105"/>actorem.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e749">
-      ⁋ Respondeo tamen ad ipsam. Si primo modo accipiatur perfectio 
-      <lb ed="#V" n="106"/>sicut innuunt verba arguentis. dico quod potentia productiua 
-      <lb ed="#V" n="107"/>filii est perfectio simpliciter: quia ipse pater est perfectio simpliciter. Et 
-      <lb ed="#V" n="108"/>tamen dico quod filius non est minus perfectus seu bonus: quam paiter: quia licem 
-      <lb ed="#V" n="109"/>ipse non sit pater: est tamen id ipsum et est eadem bonitas quae est ipse 
-      <lb ed="#V" n="110"/>pater. Si vero accipiatur 2o mo sic dico quod posse producere filium 
-      <lb ed="#V" n="111"/>non est perfectionis simpliciter. Et quamuis incomparabiliter melior si 
-      <lb ed="#V" n="112"/>deus quam crcatura. non tamen sequitur quod si posse producere 
-      creatu<lb ed="#V" n="113" break="no"/>ram est perfectionis simpliciter: quod posse producere creatorem vel deum 
-      <lb ed="#V" n="114"/>sit perfectionis simpliciter ad sensum datum. Similiter est non sequitur quod 
-      <lb ed="#V" n="115"/>posse producere deum patrem sit perfectionis simpliciter quamuis 
-      inco<lb ed="#V" n="116" break="no"/>parabiliter melior sit deus pater: quam creatura.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e775">
-      ⁋ Si dicas quod 
-      pro<lb ed="#V" n="117" break="no"/>ducere deum patrem est impossibile: et ideo non est perfectionis simpliciter. 
-      di<lb ed="#V" n="118" break="no"/>co tibi quod producere alium deum filium est impossibile simpliciter: nec est 
-      <lb ed="#V" n="119"/>minus impossibile quam quod deus filius producat seipsum.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e785">
-      ⁋ Ad 4m dicendum qu 
-      <lb ed="#V" n="120"/>minor est falsa accipiendo potesm pro principio productiuo: vt dictum est. 
-      <lb ed="#V" n="121"/>Nam Aug. non dicit quod filius non potuit: sed oppositum vnde ait. non quia 
-      <lb ed="#V" n="122"/>non potuit. ex quo argumentum potest reduci contra arguentem: aut enim potuit 
-      <lb ed="#V" n="123"/>significat postsm productiuam: et sic cum Aug. neget non posse 
-      af<lb ed="#V" n="124" break="no"/>firmat posse: ac per hoc potesm productiuam: aut significat 
-      possibilita<lb ed="#V" n="125" break="no"/>tem terminorum: et sic dicendo filius non potuit negatur talis 
-      possi<lb ed="#V" n="126" break="no"/>bilitas. igitur cum dicit non quia non potuit negatur non possibilitas: 
-      <lb ed="#V" n="127"/>per consequens affirmatur possibilitas. Ex quo vltra sequitur hanc esse 
-      <lb ed="#V" n="128"/>veram filius potuit generare: quod est contra Aug. ac contra sic arguentem: 
-      <lb ed="#V" n="129"/>expone igitur vt docet magister non quia non potuit. id est non fuit ex 
-      <lb ed="#V" n="130"/>impotentia: quod idem valet: ac si dicatur non quia impotens fuit: sed non 
-      <!--110.xml-->
-      <pb ed="#V" n="58-r"/>
-               <cb ed="#V" n="a"/>
-               <lb ed="#V" n="1"/>sequitur: non fuit impotens. ergo potuit vel fuit potens 
-      produce<lb ed="#V" n="2" break="no"/>re filium: sicut non sequitur. iste puer non est iniustus. ergo est iustus. 
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e822">
-               <lb ed="#V" n="3"/>⁋ Ad 5m dicendum quod non sequitur. in patre non est potentia productiua 
-      <lb ed="#V" n="4"/>respectu generare. ergo in eo non est potentia productiua: nisi per 
-      ge<lb ed="#V" n="5" break="no"/>nerare intellecgas ipsum genitum. Nam cum hoc quod in patre non est 
-      po<lb ed="#V" n="6" break="no"/>tentia productiua respectum alicuius quod est in eo: stat bene quod in e 
-      <lb ed="#V" n="7"/>sit potentia productiua respectu filii. hoc sufficit in proposito. Si 
-      <lb ed="#V" n="8"/>vero intelligas per generare ipsum filium genitum maior tua est 
-      fal<lb ed="#V" n="9" break="no"/>sa.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e840">
-      ⁋ Ad dium dicendum quod maior non est vera vbi carens habet omnem 
-      <lb ed="#V" n="10"/>perfectionem quam habet non carens. impotentia enim proprie loquendo 
-      <lb ed="#V" n="11"/>defectum alicuius perfectionis importat. Sicut etiam patet in exemplo 
-      <lb ed="#V" n="12"/>argumenti: in proposito autem carens seu non existens potentia 
-      generandi<lb ed="#V" n="13" break="no"/>nulla perfectione caret quam habeat potentia generandi: cum eadem 
-      perfe<lb ed="#V" n="14" break="no"/>ctio seu bonitas que est pater: sit et filius: non igitur proprie filius 
-      <lb ed="#V" n="15"/>dicitur impotens generare: quamuis non potens generare dici possit. Et ideo 
-      <lb ed="#V" n="16"/>qui alium filium generari est impossibile: et non est est possibile vt aliquid  
-      <lb ed="#V" n="17"/>generet se ipsum: sicut nec paiter dicitur impotens: cum tamen nec secundum 
-      fi<lb ed="#V" n="18" break="no"/>lium: nec se ipsum valeat generare. et universaliter nullus impotens dicitur ex 
-      <lb ed="#V" n="19"/>eo quod non poest simpliciter impossibilia: et hanc solutionem innuit Aug. 
-      <lb ed="#V" n="20"/>vt patebit in respondendo ad 9. rationem.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e866">
-      ⁋ Ad Im et 8m dico simul quod 
-      <lb ed="#V" n="21"/>a potentia productiua nihil egreditur: nisi quod ab ea producitur: et 
-      <lb ed="#V" n="22"/>io si per generare intelligas ipsum productum generare egreditur a 
-      <lb ed="#V" n="23"/>potentia productiua que est ipse pliter: vt patebit aritio 2o Si vero per 
-      ge<lb ed="#V" n="24" break="no"/>nerare vel per actum intelligis aliquid aliud: non valet consequentia quod si 
-      <lb ed="#V" n="25"/>respectu illius non sit potentia productiua in patre: ergo absolute non 
-      <lb ed="#V" n="26"/>sit in eo potentia productiua.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e882">
-      ⁋ Ad oum dicendum quod vtique sic 
-      di<lb ed="#V" n="27" break="no"/>cendo sufficienter euaditur argumentum heretici. et sic euadit Augu. 
-      <lb ed="#V" n="28"/>non autem sicut dicit opinio hec: quin immo si sic intelligeret Aug. 
-      <lb ed="#V" n="29"/>non solum non solueret: sed manifeste contradia affirmaret. Nam si 
-      <lb ed="#V" n="30"/>cum dicit: non quia non potuit significatur impossibilitas quae est 
-      re<lb ed="#V" n="31" break="no"/>pugnantia terminorum: vt iste docto. dicit. ergo non posse idem est quod 
-      <lb ed="#V" n="32"/>mpossibile esse. Et cum secundum eundem idem intelligatur per non 
-      opor<lb ed="#V" n="33" break="no"/>tere: vt patet in arguendo: igitur dicendo filius non genuit: non quia 
-      <lb ed="#V" n="34"/>non potuit: sed quia non oportuit: idem est quod dicere: filius non 
-      ge<lb ed="#V" n="35" break="no"/>nuit: non quia fuit impossibile ipsum generare: sed quia fuit 
-      impossibi<lb ed="#V" n="36" break="no"/>le ipsum generare: vbi patet manifeste contradictoria implicari. Duem 
-      <lb ed="#V" n="37"/>ergo secundum supedientua quod cum dicit: non quia non potuit: intelligitur non ex eius 
-      <lb ed="#V" n="38"/>potentia: vel quia impotens fuit: sed quia non oportuit id est non fuit 
-      <lb ed="#V" n="39"/>possibile: sed impossibile: oportere enim idem est quod necesse esse. 
-      <lb ed="#V" n="40"/>ergo non oportere idem est quod necesse: quod autem in divinis non est 
-      ne<lb ed="#V" n="41" break="no"/>cesse esse est impossibile esse: quia omne ibi possibile est necessium. Sic igitur in 
-      <lb ed="#V" n="42"/>hoc stat solumlo argumenti heretici probantis patrem potentiorem 
-      <lb ed="#V" n="43"/>esse filio: eo quod paiter potuit generare: filius autem non: quia verum vtique 
-      <lb ed="#V" n="44"/>est filium non potuisse generare: sed hoc non fuit ex eius impotentia 
-      <lb ed="#V" n="45"/>siue quia fuit impotens: paiter vero potens: sed quia impossibile fuit filium alium 
-      <lb ed="#V" n="46"/>generari. et vt patet ex hoc non arguitur filius impotens ac per hoc nec 
-      <lb ed="#V" n="47"/>minus potens ipso patre.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e930">
-      ⁋ Ad xitum cum dicitur nullum agens 
-      eter<lb ed="#V" n="48" break="no"/>num habet potesm agendi: dicendum quod huius propositionis duplex potest esse 
-      <lb ed="#V" n="49"/>sensus. vnus quod nullum agens eternum habet potentiam. id est principium per quod 
-      <lb ed="#V" n="50"/>agat a mouet: et iste est falsus et contra mentem philosophi et Commentato 
-      <lb ed="#V" n="51"/>ris. vnde. P. dicit ibidem nihil prodest si subiectas faciamus 
-      sempi<lb ed="#V" n="52" break="no"/>ternas: quemadmodum qui species: si non aliquod potens inerit 
-      <lb ed="#V" n="53"/>principium transmutare. etlittera commenti habet nisi in eis sit principium quod potest 
-      <lb ed="#V" n="54"/>transmutare. et Commen. hec verba exponens ait. nihil prodest 
-      <lb ed="#V" n="55"/>ponere subiectam eternam in qua non sit principium mouendi.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e951">
-      ⁋ Ex quibus 
-      <lb ed="#V" n="56"/>patet quod potentia id est principium mouendi motoribus eternis attribuunt. Alius 
-      <lb ed="#V" n="57"/>sensus est nullum agens etc id est nullum eternum est in potentia ac 
-      <lb ed="#V" n="58"/>mouendum: vt scilicet possit aliquando non mouere: sed semper actu ne 
-      <lb ed="#V" n="59"/>cessario mouet. et hec est intentio eorum: quod manifeste apparet per 
-      <lb ed="#V" n="60"/>expositionem Commentatoris ibidem. Ait enim sic. in principio commenti 
-      ne<lb ed="#V" n="61" break="no"/>cesse est vt iste motus habeat motorem qui est actio pura sine aliqua 
-      <lb ed="#V" n="62"/>potentia id est qui in nulla hora est motor in potentia.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e969">
-      ⁋ Est ergo intentio sua 
-      <lb ed="#V" n="63"/>quod sicut eternus motor de necessitate est et non potest non esse: sic 
-      <lb ed="#V" n="64"/>necessario semper mouet in actu: et non potest non actu mouere: aut 
-      <lb ed="#V" n="65"/>numquam est in potentia ad mouendum. et hoc intelligit quando dicit: quod ille 
-      <!--110.xml-->
-      <cb ed="#V" n="b"/> 
-               <!-- 58-r b -->
-               <lb ed="#V" n="66"/>motor est actio pura: non autem intelligit (vt fingunt sic arguen 
-      <lb ed="#V" n="67"/>tes) quod ipse sit actus ille qui est actio. quis enim dixerit quod motor 
-      <lb ed="#V" n="68"/>celi sit motio vel motus celi: Est igitur intentio eorum qua dictam est 
-      <lb ed="#V" n="69"/>et in hoc sensu secundum. P. vera est maior. Similiuso potest concedi de 
-      <lb ed="#V" n="70"/>primo producente scilicet deo pratre. necessario enim eternaliter actu producit 
-      <lb ed="#V" n="71"/>nec vmquam fuit aut esse potest in potentia ad producendum. Et sic ad  
-      <lb ed="#V" n="72"/>rationem patet quid sit dicendum. et ad confirmationem. pro tanto enim dicit 
-      <lb ed="#V" n="73"/>sempiterna esse actu sine potestate: quia semper sunt actu et fuerunt 
-      <lb ed="#V" n="74"/>sine potentia praecedente actum aut distante ab actu: et eodem modo de eter 
-      <lb ed="#V" n="75"/>non agente intelligit: non autem negat potesm quae est principium agendi. sed eam 
-      <lb ed="#V" n="76"/>ibidem in eis affirmat coniuncta tamen actui id est semper actu agentem. 
-      <lb ed="#V" n="77"/>Quantum ad 2m articulum communiter distinguitur de 
-      <lb ed="#V" n="78"/>nuplici principio Nam est principium quod agit et est 
-      <lb ed="#V" n="79"/>principium quo agens agit. Exemplum primi in naturalibus. ignis generans est 
-      <lb ed="#V" n="80"/>principium quod ignis geniti. calor vero est prinum quo formaliter agit. 
-      <lb ed="#V" n="81"/>In artificialibus principium quod est ipse artifex: principium quo est ipsa 
-      <lb ed="#V" n="82"/>ars per quam agit.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1021">
-      ⁋ Quantum ad propositum omnes conueniunt de prin 
-      <lb ed="#V" n="83"/>cipio quod generationis divine. Nam illud est paiter quod generat. Sed de 
-      <lb ed="#V" n="84"/>principio quo: quod quidem non generat: sed est illud per quod paiter generat est di 
-      <lb ed="#V" n="85"/>uersitas opinionum.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1030">
-      ⁋ Dicunt enim quidam quod tale principium est diuina 
-      <lb ed="#V" n="86"/>essentia non proprietas patris. quod probatur sic. primo. Nam illud est 
-      <lb ed="#V" n="87"/>potentia generatiua seu principium generandi in quocunque generante: in quo 
-      <lb ed="#V" n="88"/>genitum similatur generanti. Sed in essentia tantum filius dei simulatur. 
-      <lb ed="#V" n="89"/>patri generanti. ergo etc. maior patet. quia omne producens aliquod per suam 
-      <lb ed="#V" n="90"/>actionem producit sibi simile quantum ad formam qua agit: sicut homo 
-      <lb ed="#V" n="91"/>genitus est similis homini generanti in natua humana: cuius virtute 
-      <lb ed="#V" n="92"/>potest pater generare hominem.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1048">
-      ⁋ Alii probant idem sic. si deus per 
-      <lb ed="#V" n="93"/>impossibile generaret alium deum: et ille alius 3m: diuinitas esset 
-      <lb ed="#V" n="94"/>principium alterius et non relatio. ergo a nunc cum deus generet 
-      <lb ed="#V" n="95"/>alium qui est idem deus. Antecedens est notum. patet consequentia. quia quod est 
-      ali<lb ed="#V" n="96" break="no"/>quid perfectionis in principio productiuo non tollit ab aliquo rationem 
-      <lb ed="#V" n="97"/>principii productiui: sed communicare se in identitate numerali et 
-      <lb ed="#V" n="98"/>adequata communicatione sibi est perfectionis in principio productiuo. 
-      <lb ed="#V" n="99"/>ergo etc.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1066">
-      ⁋ 2o diuinitas est terminus formalis generationis: igitur. 
-      <lb ed="#V" n="100"/>ipsa est formale principium productiuum. Antecedens supponunt se 
-      probas<lb ed="#V" n="101" break="no"/>e. dicens es. cosequentia probatur. quia impossibile est agens communicare 
-      termi<lb ed="#V" n="102" break="no"/>num formalem generationis vel productionis nisi agat forma equa 
-      <lb ed="#V" n="103"/>perfecta si agat vniuoce: vel perfectiori si equiuoce. In diui 
-      <lb ed="#V" n="104"/>nis autem nihil est perfectius vel eque perfectum absoluto seu 
-      <lb ed="#V" n="105"/>essentia: cum sit formaliter infinita: non autem relatio. ergo etc.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1083">
-      ⁋ Alii 
-      <lb ed="#V" n="106"/>autem probant idem sic. vbicumque nata est esse relatio originis 
-      il<lb ed="#V" n="107" break="no"/>la relatio fundatur super principium elicitiuum originis: sed in 
-      <lb ed="#V" n="108"/>patre est relatio originis. igitur ipsa fundatur. super principio eliciti 
-      <lb ed="#V" n="109"/>uo. non fundatur autem super propetate: tum quia ipsa propetas perso 
-      <lb ed="#V" n="110"/>nalis est relatio originis: tum quia eius fundamentu debet esse 
-      ab<lb ed="#V" n="111" break="no"/>solutum. igitur super esea quare ipsa est principium elicitiuum originis. 
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1099">
-               <lb ed="#V" n="112"/>⁋ 2o sicut ratio causandi est illud quo existente in aliquo: vel in se 
-      <lb ed="#V" n="113"/>potest esse effectus: omni quod non est causa eiusdem effectus circunscripto: 
-      <lb ed="#V" n="114"/>vel quod requiritur ad esse alterius et non constituitur ex ipsa 
-      cau<lb ed="#V" n="115" break="no"/>satione vel causato: ita principium elicitiuum alicuius actionis vel 
-      <lb ed="#V" n="116"/>passionis vel productionis est illud quod necessario a per se requiritur. 
-      <lb ed="#V" n="117"/>ad illam productionem: et non constituitur nec ex productione nec 
-      <lb ed="#V" n="118"/>ex producto: et quia sola essentia divina requiritur ad generationem 
-      <lb ed="#V" n="119"/>actiuam et passiuam isto modo: ideo ipsa praecise est ratio eliciendi istas 
-      <lb ed="#V" n="120"/>productiones: tam actiuas quam passiuas.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1121">
-      ⁋ Ad hoc facit auc. 
-      <lb ed="#V" n="121"/>hylatur. 5. de tri. quam allegat etiam magitr. dicensin. ait enim hylatur. 
-      Nati<lb ed="#V" n="122" break="no"/>uitas dei non potest eam ex qua perfecta est non tenere naturam. Cen 
-      <lb ed="#V" n="123"/>tum autem est eam non ex alia natura quam diuina profectam esse. igitur natura 
-      <lb ed="#V" n="124"/>diuina principium est ex quo est natiuitas filii.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1132">
-      ⁋ Item magister 
-      <lb ed="#V" n="125"/>in ista. dicens dicit quod paiter non est potens generare nisi nam: eius enim 
-      po<lb ed="#V" n="126" break="no"/>tentia natura est vel essentia.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1139">
-      ⁋ Alia opinio est quod propretas perso 
-      <lb ed="#V" n="127"/>nalis est principium generandi: quod probatur sic. primo quia proprius 
-      <lb ed="#V" n="128"/>actus est a propria forma: sed generare est proprius actus patris: et 
-      <lb ed="#V" n="129"/>sola propetas personalis est sibi propria. igitur etc.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1148">
-      ⁋ 2o omne quod 
-      <lb ed="#V" n="130"/>est principium essendi est principium operandi: hoc patet quia: vnumquodque 
-      <!--111.xml-->
-      <pb ed="#V" n="58-v"/>
-               <cb ed="#V" n="a"/>
-               <lb ed="#V" n="1"/>agit secundum quod est in actu. ergo agit quo est in actu.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1162">
-      ⁋ Item 
-      <lb ed="#V" n="2"/>agere praesupponit esse: et actus secundus procedit a primo: sed 
-      patni<lb ed="#V" n="3" break="no"/>tas est principium essendi ipsi patri (ea enim est pater) igitur ipsa 
-      <lb ed="#V" n="4"/>est ei principium operandi: non autem est principium alicuius alterius 
-      <lb ed="#V" n="5"/>operationis vt apparet. igitur est principium generandi.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1173">
-      ⁋ he opiniones: si 
-      <lb ed="#V" n="6"/>cut patet: conueniunt in hoc quod quaelibet ponit aliquod productiuum 
-      fi<lb ed="#V" n="7" break="no"/>lii quod non producit filium: sed est quo pater producit: et sic po 
-      <lb ed="#V" n="8"/>nunt duplex principium quod et quo: iuxta communem modum 
-      distin<lb ed="#V" n="9" break="no"/>guendi. differunt autem in assignando illud principium: quo modo 
-      <lb ed="#V" n="10"/>saluo meliori iudicio apparet quod in vtroque deficiant: ideo pono 
-      <lb ed="#V" n="11"/>tres conclusiones Prima est quod non est aliquod principium quo 
-      produ<lb ed="#V" n="12" break="no"/>ctiuum filii aliud a principio quod producit. 2a quod essentia 
-      diu<lb ed="#V" n="13" break="no"/>na non est principium productiuum quo filii. 3a quod nec ipsa relatio 
-      <lb ed="#V" n="14"/>patris.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1195">
-      ⁋ Primam probo. principium producens filium seipso primo 
-      <lb ed="#V" n="15"/>producit. igitur non est aliquod principium quo: aliud a principio quod 
-      <lb ed="#V" n="16"/>producit. consequentia patet. Si enim sit aliquod principium quo producens 
-      pro<lb ed="#V" n="17" break="no"/>ducit: et aliud principium ipsum producens: iam non a seipso primo 
-      <lb ed="#V" n="18"/>producit: sed alio principio. Antecedens probo. si enim non produceret 
-      se<lb ed="#V" n="19" break="no"/>pso primo: cum per se producat produceret per se primo per 
-      ali<lb ed="#V" n="20" break="no"/>quod sui: aut igitur per aliquid quod est sui extrinsece: et hoc dici 
-      <lb ed="#V" n="21"/>non potest: cum nihil tale locum habeat in deo: aut per aliquid 
-      in<lb ed="#V" n="22" break="no"/>trinsecum sibi: et nec hoc: quia omne quod producit primo per aliquod 
-      <lb ed="#V" n="23"/>intrinsecum sibi et non seipso includit in se aliquam entitatem 
-      <lb ed="#V" n="24"/>vltra illud per quod dicitur primo producere: ac per hoc ad minus 
-      <lb ed="#V" n="25"/>duas entitates includit: hoc autem est impossibile de principio quod gene 
-      <lb ed="#V" n="26"/>rat deum: cum ipsum sit infinite simplicitatis.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1224">
-      ⁋ 2o si pater per 
-      <lb ed="#V" n="27"/>aliud a se aliquo modo produceret: tanquam principio quo: esset aliquo 
-      <lb ed="#V" n="28"/>modo illud tale causa patris. hoc autem est expresse contra sctititos. consequentia 
-      pro<lb ed="#V" n="29" break="no"/>batur. quia omne quod agit per aliquid aliud: aliquo modo habet esse vel ta 
-      <lb ed="#V" n="30"/>le esse per illud. vnde nisi ignis esset calidus per calorem: seu 
-      <lb ed="#V" n="31"/>per calorem informaretur: non pius calefaceret per calorem quam 
-      in<lb ed="#V" n="32" break="no"/>frigidaret per frigiditatem aque. vnde in quibuscumque talia 
-      prin<lb ed="#V" n="33" break="no"/>cipia quo et quod distinguuntur: principium quo est forma constituens 
-      <lb ed="#V" n="34"/>vel perficiens ipsum principium quod.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1244">
-      ⁋ 3o si aliqua forma simplex 
-      <lb ed="#V" n="35"/>subsiectalis vel accidentalis per se seperata divina virtute aut naturaliter 
-      <lb ed="#V" n="36"/>existens ageret: ipsa seipsa primo ageret et non aliquo alio 
-      <lb ed="#V" n="37"/>principio quo. igitur sic est in primo producente quod deus est. Antecedens est 
-      <lb ed="#V" n="38"/>notum. consequentia probatur. quia praecisa causa veritatis antecedentis est simplici 
-      <lb ed="#V" n="39"/>tas. quod patet. quia posito quod agens sit quid compositum statim 
-      assi<lb ed="#V" n="40" break="no"/>gnat principium quod. aliud a principio quo. posito vero quod sit 
-      sim<lb ed="#V" n="41" break="no"/>plex non est talis distinctio principii: summa vero simplicitas 
-      <lb ed="#V" n="42"/>est in primo producente. igitur in eo non erit talis principiorum 
-      di<lb ed="#V" n="43" break="no"/>stinctio.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1266">
-      ⁋ Et si dicatur quod non obstante summa simplicitate 
-      <lb ed="#V" n="44"/>persone adhuc essentia et similiter proprietas aliquo modo: distinguuntur a 
-      <lb ed="#V" n="45"/>persona saltem secundum rationem: et per consequens persona potest esse principium 
-      <lb ed="#V" n="46"/>quod. et essentia vel proprietas principium quo. illud non valet. quia 
-      distin<lb ed="#V" n="47" break="no"/>ctio rationis aut coceptus nihil ad propositum: nec conceptus vel ratio 
-      <lb ed="#V" n="48"/>est principium quo. nec quod. generandi filium: sed res extra: in qua 
-      <lb ed="#V" n="49"/>cum nulla penitus sit distinctio: nec potest ibi talium principiorum 
-      <lb ed="#V" n="50"/>distinctio assignari. Et confirmatur. quia eadem ratione in forma 
-      <lb ed="#V" n="51"/>simplici creata posset assignari principium quo: aliud a 
-      prin<lb ed="#V" n="52" break="no"/>quod: quod tamen nullus. dicens.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1289">
-      ⁋ 2am conclusione scilicet quod essentia non sit tale principium 
-      <lb ed="#V" n="53"/>probo sic. omne principium generandi: est realiter distinctum a generatione 
-      <lb ed="#V" n="54"/>vel a generato: essentia diuina non est realiter distincta a generatione 
-      <lb ed="#V" n="55"/>diuina: nec a genito. igitur non est principium generandi genitum. patet 
-      mi<lb ed="#V" n="56" break="no"/>nortes maior probatur. quia omne principium distinguitur ab eo cuius est 
-      <lb ed="#V" n="57"/>principium: omne autem principium generandi est principium generationis vel 
-      ge<lb ed="#V" n="58" break="no"/>niti.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1305">
-      ⁋ Ad hanc ratione dicitur quod principium quod. vtique distinguitur a 
-      <lb ed="#V" n="59"/>principiato: non autem principium quo.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1310">
-      ⁋ Contra. si hoc esset verum 
-      <lb ed="#V" n="60"/>non magis principium quo. esset principium principiati quam econverso verbi 
-      <lb ed="#V" n="61"/>gratia in proposito. essentia diuia non magis esset principium quo. 
-      <lb ed="#V" n="62"/>generationis vel geniti quam econverso genitum vel generatio esset principium eius: 
-      <lb ed="#V" n="63"/>similiter essentia ita esset principium essentie sicut generationis: ex quo 
-      ta<lb ed="#V" n="64" break="no"/>le principium a principiato non distinguitur: sed est ipsum: hoc autem 
-      <lb ed="#V" n="65"/>nullus diceret nisi vocabulis abuteretur.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1326">
-      ⁋ Confirmatur. quia 
-      <!--111.xml-->
-      <cb ed="#V" n="b"/> 
-               <!-- 58-v b -->
-               <lb ed="#V" n="66"/>principium inquantum principium: est principium alterius et non sui. vt 
-      <lb ed="#V" n="67"/>patet primo physicorum: io dicitur ibi quod si tantum vnum est: principium non T. c. S. 
-      <lb ed="#V" n="68"/>est. vel igitur principium quo. non est principium: vel est distinctum 
-      <lb ed="#V" n="69"/>ab eo cuius est principium: hec ratio maxime valet contra 2m et 3m doc. primo 
-      <lb ed="#V" n="70"/>me opinionis superius allegate. vterque enim probans quod proprietas 
-      <lb ed="#V" n="71"/>personalis non sit principium quo. elicitiuum generatonis: sunit hoc 
-      <lb ed="#V" n="72"/>pro fundamento.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1350">
-      ⁋ Unde 2a arguit ducendo ad impossibile oham 
-      <lb ed="#V" n="73"/>dicens: tunc eadem relatio esset principium sui ipsius: quia in patre non est vbi supra. 
-      <lb ed="#V" n="74"/>nisi vnica relatio ad filium: et illa est per te principium quo. respectu 
-      <lb ed="#V" n="75"/>generationis que est eadem relatio: licet aliter nominata. Alius vero sic 
-      <lb ed="#V" n="76"/>ait: nihil est principium elicitiuum sui ipsius: proprietas vero persona 
-      <lb ed="#V" n="77"/>lis et generatio sunt idem omnibus modm. g.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1363">
-      ⁋ Ex quo patet quod nihil 
-      <lb ed="#V" n="78"/>est principium nec quo. nec quod. secundum istos eius quod ipsum est. 
-      Com<lb ed="#V" n="79" break="no"/>stat autem quod essentia est generatio nec aliquo modo sed rem ab ea distin 
-      <lb ed="#V" n="80"/>cta.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1373">
-      ⁋ 3o si essentia esset: principium generationis: vel filii: essentia 
-      di<lb ed="#V" n="81" break="no"/>ceret relatiue principium ad illam vel illum: consequens est falsum: consequentia 
-      <lb ed="#V" n="82"/>patet: quia principium inquantum principium: est ad aliquid: sed falsitas 
-      <lb ed="#V" n="83"/>consequentis patet: quia nullum nomen notionale praedicatu de essentia: vt 
-      <lb ed="#V" n="84"/>magister ponit infra. dictens 2 7. et probatur auc. Danmien. lib. 3. vnde ca. 6. 
-      <lb ed="#V" n="85"/>talia nomina solum de hypostasibus praedicantur: vt ibidem patet. 
-      Con<lb ed="#V" n="86" break="no"/>stat autem hoc nomen principium: nomen esse notionis secundum omnes et 
-      <lb ed="#V" n="87"/>infra habetur. dicens eto.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1391">
-      ⁋ Ad hanc rationem dicitur quod vbi principium Scotus 
-      <lb ed="#V" n="88"/>non distinguitur a prodco: ibi inter illa non est realis relatio. vbi. supra. 
-      <lb ed="#V" n="89"/>vbi vero distinguitur relatio est realis: licet autem in creaturis 
-      <lb ed="#V" n="90"/>semper principium quo. sit realiter distinctum a prodcom: et per consequens 
-      <lb ed="#V" n="91"/>realiter referantur adinuicem: in diuinis tamen non est realis distin 
-      <lb ed="#V" n="92"/>ctio inter illa: vnde nec realis relatio: sed rationis tantum.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1404">
-      ⁋ hec 
-      <lb ed="#V" n="93"/>solutio nulla est. primo quia dicit incompossibilia scilicet aliquod esse 
-      <lb ed="#V" n="94"/>principium alicuius: et tamen non distingui ab illo: sicut supra patet ex 
-      <lb ed="#V" n="95"/>intentione. P. primo phy. et commentatoris. ibidem. dicens quod principium exigit 2. et. c. upr 
-      <lb ed="#V" n="96"/>pluralitatem: et per consequens distinctionem scilicet inter se et principiatum. 
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1415">
-               <lb ed="#V" n="97"/>⁋ 2o quia si non exigitur realis distinctio: quid prohiberet 
-      rela<lb ed="#V" n="98" break="no"/>tionem vt relatio est: esse principium quo. generationis vt actio vel 
-      <lb ed="#V" n="99"/>productio est: et esse tamen indistinctam ab ea realiter: et cum hoc vt su 
-      <lb ed="#V" n="100"/>pra patet impugnauit. quod etiam dicens non esse relationem nisi rationis 
-      ni<lb ed="#V" n="101" break="no"/>hil est. Nam quod extra animam est: est principium extra animam: et non 
-      <lb ed="#V" n="102"/>secundum rationem tantum est ad aliquid. si ergo essentia non realiter referatur: nec 
-      <lb ed="#V" n="103"/>realiter est principium.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1433">
-      ⁋ Sed contra hanc conclusionem expresse videtur Ansel. contra conclusionem 
-      <lb ed="#V" n="104"/>primo quidem mondlogion. vbi de spum sctoto loquens ait. Non ex eo pro caua. 54. 
-      <lb ed="#V" n="105"/>cedit in quo plures sunt pater et filius: sed ex eo in quo vnum 
-      <lb ed="#V" n="106"/>sunt. Nam non ex relationibus suis que plures sunt alia enim est 
-      <lb ed="#V" n="107"/>relatio patris: alia filii) sed ex ipsa sua essentia: que 
-      plura<lb ed="#V" n="108" break="no"/>litatem non admittit: emittunt pater et filius simul tantum bonum. 
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1446">
-               <lb ed="#V" n="109"/>⁋ Ex quibus patet quod virtus spiratiua est essentia communis patri et 
-      <lb ed="#V" n="110"/>filio: et eadem ratione essentia ipsa est virtus generatiua et principium 
-      <lb ed="#V" n="111"/>generandi. Item ipse de processie spiritus sancti. dicens spectum sanctum ca. 2. 
-      <lb ed="#V" n="112"/>procedere de diuinitate patris et non de paternitate. Et addit 
-      <lb ed="#V" n="113"/>quod opinio que dicit: quod non procedit de diuinitate: sed de 
-      pateni<lb ed="#V" n="114" break="no"/>tate patenti se fatuitate suffocat.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1463">
-      ⁋ Ad hoc dicendum quod ver. Respono 
-      <lb ed="#V" n="115"/>ba illa non sunt in sua proprietate intelligenda: non enim spis 
-      san<lb ed="#V" n="116" break="no"/>ctus: aut filius procedit a diuinitate aut de diuinitate: nec 
-      <lb ed="#V" n="117"/>pater de diuinitate generat filium: aut paiter et filius de divinitate 
-      <lb ed="#V" n="118"/>spiectum scuntum emittunt: cum tam spitus secuns quam filius sit divinitas ipsa: 
-      <lb ed="#V" n="119"/>iodo tales locutiones sanctorum exponende sunt: sicut docet magitu. de 
-      <lb ed="#V" n="120"/>b. et ibidem. q. primo et 2a monstratum est etiam per eundem Ansel.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1479">
-      ⁋ 
-      Quan<lb ed="#V" n="121" break="no"/>tum tamen ad propositum in speciali facit. dicendum quod non est intentio Ansel. aliquam 
-      <lb ed="#V" n="122"/>principiationem attribuere essentie aut divinitati communi patris et 
-      fi<lb ed="#V" n="123" break="no"/>lii: resectu spiritus sctit: cum eadem ipsa sit spitus scunus. Sed tota huiusmodi 
-      princi<lb ed="#V" n="124" break="no"/>piatio vel productioio attribuenda est personis patris et filii.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1490">
-      ⁋ 
-      Ue<lb ed="#V" n="125" break="no"/>runtamen pater et filius spirantes spiectum scuntum: non eum spirant inquantum hoc est 
-      <lb ed="#V" n="126"/>piter et ille filius: aut vnus alter ab altero: sed secundum quod funt vnus deus. 
-      <lb ed="#V" n="127"/>et hoc ipse intelligit cum dicens eum procedere ex eo in quo sunt vnum 
-      <lb ed="#V" n="128"/>id est ab ipsis secundum quod sunt vnum: et cum dicens ipsum procedere de divinita 
-      <lb ed="#V" n="129"/>te patris: et non de patetnitate id est de patre secundum quod est deus et non secundum quod 
-      <lb ed="#V" n="130"/>estpatur.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1506">
-      ⁋ Et hoc ex verbis eiusdem in eodem i scilicet de process. spius scit. 
-      <!--112.xml-->
-      <pb ed="#V" n="59-r"/>
-               <cb ed="#V" n="a"/>
-               <lb ed="#V" n="1"/>post verba allegata accipi potest. vnde ait nullus sensus capit 
-      <lb ed="#V" n="2"/>spectum scentum: esse spiectum patris aut filii: secundum quod alter est pater alter 
-      fi<lb ed="#V" n="3" break="no"/>lius: sed secundum quod vterque vnus idemque deus est: ita quod si per impossibile essent 
-      <lb ed="#V" n="4"/>pieter et filius: et non essent abinuicem distincti: adhuc spirarent spictum 
-      <lb ed="#V" n="5"/>scundum. et est similis locutio ac si essent duo calores seperati et in 
-      <lb ed="#V" n="6"/>eodem loco: et producerent vnum calorem in subiecto: et diceremus quod illi 
-      <lb ed="#V" n="7"/>producunt inquantum sunt vnum specie. et non inquantum distinguunt: quia si 
-      <lb ed="#V" n="8"/>essent indisticti nihil minus producerent: et cum nec in illis distin 
-      <lb ed="#V" n="9"/>guerentur: nec ante nec post duo principio qua. et quod: propter vtriusque sim 
-      <lb ed="#V" n="10"/>plicitatem: multo magis nec in proposito. Quod autem dicens quod non ex 
-      <lb ed="#V" n="11"/>relationibus suis etc. accipit relationes pro proprietatibus persona 
-      <lb ed="#V" n="12"/>rum complexe significantibus qua quidem non ipse persone sunt: nec omnino 
-      <lb ed="#V" n="13"/>aliqua entitates: vt in discens 36. dieculurabitur: tales enim proprietates 
-      vti<lb ed="#V" n="14" break="no"/>que ipse vocat relationes: sicut patet in de proces. spiritus scienti non autem 
-      <lb ed="#V" n="15"/>accipit relationes pro illis incomplexe significantibus: que non sunt 
-      <lb ed="#V" n="16"/>aliud quam ipse met persone vt infra patebit. Et eodem modo cum ait quod 
-      <lb ed="#V" n="17"/>non de patrnitate: sed de divinitate id est patre qui est divinitas iuxta praemi 
-      <lb ed="#V" n="18"/>sam doctrinam Aug. vel de patre non secundum quod pater est: sed secundum quod deus pe 
-      <lb ed="#V" n="19"/>nes sensum proxime datum.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1556">
-      ⁋ 3a conclusio est quod proprietas personalis 
-      <lb ed="#V" n="20"/>non est principium quo. divine generationis nisi forte proprietatis nomine 
-      <lb ed="#V" n="21"/>hypostasis ipsa intelligeretur. hec autem conclusio sicut praecedens sufficiem 
-      <lb ed="#V" n="22"/>ter probatur ex his: per quae probata est pia conclusio
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1565">
-      ⁋ Ite contra hominem probari 
-      <lb ed="#V" n="23"/>potest: cum dicat ipsam proprietatem personalem a generationis actu esse extra 
-      <lb ed="#V" n="24"/>animam penitus indistinctam. constat autem principium a principiato distin 
-      <lb ed="#V" n="25"/>gui. Sic ergo videtur dicendum quod non est quaerendum aliquod principium productiuum 
-      <lb ed="#V" n="26"/>quo praiter graeseniet: sic quod ei vere competat ratio principii productiui 
-      distin<lb ed="#V" n="27" break="no"/>ctum a principio productiuo quod generat: sed vel ipsum quod generat: est principium qua. 
-      <lb ed="#V" n="28"/>qui seipso et nullo alio generat: ita quod idem est principium quod et quo. vel 
-      <lb ed="#V" n="29"/>nullum omnino est ibi principium quo. sed tantum quod.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1584">
-      ⁋ Contra hoc videtur esse 
-      <lb ed="#V" n="30"/>quod dicitur a sanctis: patrem et filium esse vnum principium. scilicet quod 
-      verifica<lb ed="#V" n="31" break="no"/>ri non potest vt videt: nisi ponendo vnum principium quo ambo 
-      spi<lb ed="#V" n="32" break="no"/>rant: cum ipsi non sint vnum principium quod spirat: sicut non sunt vna perso 
-      <lb ed="#V" n="33"/>na.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1595">
-      ⁋ Sed ad hoc quid sit dicendum patebit. dit i12.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1598">
-      ⁋ Tunc ad  
-      <lb ed="#V" n="34"/>rationes alterius opinionis. Ad primam dicendum quod siue maior 
-      su<lb ed="#V" n="35" break="no"/>matur sic. omne in quo genitum similatur generanti: est principium quo 
-      <lb ed="#V" n="36"/>generandi siue econverso sic. in omni quod est principium grante andi quo. genitum 
-      as<lb ed="#V" n="37" break="no"/>similatur graesenanti ipsa falsa est. Nam in primo sensu habet instantiam. 
-      <lb ed="#V" n="38"/>nam generata multis suis genitoribus similantur in forma substantiali 
-      <lb ed="#V" n="39"/>et tamen forma substantialis nullius est principium productiuum per istos. Item 
-      <lb ed="#V" n="40"/>in multis formis non actiuis. Item in alio sensu habet instam 
-      <lb ed="#V" n="41"/>tiam: videmus enim quod mulus non similatur in virtute generatiua suo 
-      <lb ed="#V" n="42"/>genitori: et sic in multis reperiri posset instantia.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1620">
-      ⁋ Praeterea esto quod 
-      <lb ed="#V" n="43"/>ipsa esset vera in creatura: in proposito tamen non haberet veritatem: eo quod 
-      <lb ed="#V" n="44"/>principium productiuum quo. necessario debet esse distinctum realiter ab eo cuius 
-      <lb ed="#V" n="45"/>est principium: quod non posset esse in proposito. Nam in quo pater similatur vel 
-      <lb ed="#V" n="46"/>potius identificatur filio nullo modo distiguitur a filio.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1631">
-      ⁋ Praeterea illa 
-      <lb ed="#V" n="47"/>propositio non habet locum (si quem habet) nisi vbi principium quo. distinguitur a 
-      <lb ed="#V" n="48"/>principio quod. quod non est in proposito.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1638">
-      ⁋ Ad rationem alterius doc. dictr 
-      <lb ed="#V" n="49"/>quod in antecedente vel sumit principium quo. distincte a principio quod. vel non. si 
-      <lb ed="#V" n="50"/>sic. antecedens est falsum. similiter consequentia non tenet. falsitas antecedentis patet. quis 
-      <lb ed="#V" n="51"/>supponitur deum esse simplicem omnino: et ista ypothesi facta siul 
-      <lb ed="#V" n="52"/>et supponitur esse deum: et per consequens non esset in eodem talis distinctio 
-      <lb ed="#V" n="53"/>principiorum. Item consequentia non valet: quia ypothesi data essentia dei 
-      di<lb ed="#V" n="54" break="no"/>stingueretur realiter ab alio deo: cuius ponitur principium. Nunc autem non 
-      <lb ed="#V" n="55"/>distinguitur a genito. ideo non potest sic concedi esse principium. Et ad pro 
-      <lb ed="#V" n="56"/>bationem dicendum quod non est perfectionis in aliquo principio productiuo 
-      <lb ed="#V" n="57"/>esse principium eius quod ab ipso est penitus indistinctum: quia hoc est penit 
-      <lb ed="#V" n="58"/>impossibile: et excludit omnino rationem principii et principiati. vnde per simile 
-      <lb ed="#V" n="59"/>rationem probari posset: quod pater et filius: et genitor et genitus sunt vnus 
-      <lb ed="#V" n="60"/>quoniam perfectionis est communicare seipum in identitate omnimoda: et seipum 
-      <lb ed="#V" n="61"/>generare: nec illud magis videtur valere quam hoc. Si autem antecedens ad 
-      <lb ed="#V" n="62"/>cipiat hoc nomen principium 2o modo tunc patet consequentiam non valere. Et perper 
-      il<lb ed="#V" n="63" break="no"/>lud quod dictum est. et quia et concluderet nunc de facto divinam essen 
-      <lb ed="#V" n="64"/>tiam esse filii genitricem: quod est falsum: etiam secundum hunc doc.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1676">
-      ⁋ Ad 
-      <lb ed="#V" n="65"/>2am rationem eiusdem dicendum: quod antecedens est falsum: sicut patet supra. dicensen 
-      <!--112.xml-->
-      <cb ed="#V" n="b"/> 
-               <!-- 59-r b -->
-               <lb ed="#V" n="66"/>q. 2a. vbi etiam hentur solulto rationis facte per eundem ad probationem 
-      <lb ed="#V" n="67"/>huius antecedentis.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1692">
-      ⁋ Ad rationes alterius. Ad primam nego maiorem sum 
-      <lb ed="#V" n="68"/>ptam in sua proprietate. nulla enim divina relatio fundatur in aliquo 
-      <lb ed="#V" n="69"/>sicut nec persona aliqua divina. Si vero sumatur improprie: vt sit 
-      sen<lb ed="#V" n="70" break="no"/>sus: quod omne principium elicitiuum originis refertur: taliter concedo et di 
-      <lb ed="#V" n="71"/>co quod pater est tale principium. nec procedunt probationes contra hoc.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1703">
-      ⁋ Ad 
-      <lb ed="#V" n="72"/>2am rationem dico quod oportet addere in maiore: quod illud non sit ipsum 
-      <lb ed="#V" n="73"/>productum: essentia autem divina est ipse filius productus.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1710">
-      ⁋ Ad auc 
-      <lb ed="#V" n="74"/>illam hylatur. et ceteras similes dicendum est sicut docet magister. distincion 
-      <lb ed="#V" n="75"/>et ibidem dictum est scilicet quod natiuitas est perfecta ex natura id est ex patre est 
-      <lb ed="#V" n="76"/>est eadem esentia et na.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1719">
-      ⁋ Ad illud vero quod ex dicto magri in 
-      <lb ed="#V" n="77"/>ducitur. Dicendum quod magister non aliud intendit dicere: nisi quod pater 
-      <lb ed="#V" n="78"/>nullo alio: sed seipso potens est gignere: quod est verum: quod 
-      signi<lb ed="#V" n="79" break="no"/>ficant verba eius quibus ait: pater non est potens gignere nisi natura etc. 
-      si<lb ed="#V" n="80" break="no"/>cut si calor esset separatus: et posset calefacere diceremus quod ipse 
-      <lb ed="#V" n="81"/>calor non est potens calefacere nisi na et entitate vel essentia 
-      <lb ed="#V" n="82"/>sua: et quod eius essentia est eius calefactiua potentia: nec tamen per 
-      <lb ed="#V" n="83"/>hoc intelligeremus: quod ipse calor esset principium quod. productiuum 
-      ca<lb ed="#V" n="84" break="no"/>loris: et eius natura entitas vel essentia esset principium quo cum inter 
-      <lb ed="#V" n="85"/>ipsum et eius essentiam distinguere sit impossibile.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1741">
-      ⁋ Ad rationem 
-      pri<lb ed="#V" n="86" break="no"/>materia alterius opinionis: quae dicens proprietatem personale esse principium 
-      <lb ed="#V" n="87"/>quo. productiuum generationis. dicendum quod si maior eius aliquam ve 
-      <lb ed="#V" n="88"/>ritatem possit habere hoc non est nisi vbi forma agentis est 
-      princi<lb ed="#V" n="89" break="no"/>pium quo. actomnis vel actus: et vbi ipsius actus est huiusmodi duplex prini 
-      <lb ed="#V" n="90"/>cipium scilicet quod et quo. vtrumque autem deficit in proposito. quare nul 
-      <lb ed="#V" n="91"/>lius est roboris ad intentum.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1758">
-      ⁋ Ad 2am est primo dicendum quod 
-      ma<lb ed="#V" n="92" break="no"/>ior est falsa: sunt enim multe forme principium essendi: que non 
-      <lb ed="#V" n="93"/>sunt actiue: nec principium agendi: nec probatio sufficiens est:  
-      <lb ed="#V" n="94"/>quamuis enim probaret quod omne quod est principium agendi est principium 
-      <lb ed="#V" n="95"/>essendi: non tamen probat conuersam scilicet quod omne quod est principium 
-      <lb ed="#V" n="96"/>essendi. est principium agendi.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1771">
-      ⁋ 2o dicendum etiam: quod minor est 
-      <lb ed="#V" n="97"/>falsa. nihil enim omnino est patri principium essendi: cum ipse sit 
-      <lb ed="#V" n="98"/>penitus sine principio in quocunque principii genere. Quod vero 
-      <lb ed="#V" n="99"/>additur quod proprietate est pater: non est ad propositum. Nam quo: 
-      <lb ed="#V" n="100"/>cunque illa sit vera de quo infra dicet: non tamen facit ad 
-      propo<lb ed="#V" n="101" break="no"/>situm: quia vt magiu. inctin dicntio 2. et Aug. expresse. 7. de tri. iuxta 
-      fi<lb ed="#V" n="102" break="no"/>nem. non est idem deo patri esse patrem: et esse: quapropter nec eo 
-      <lb ed="#V" n="103"/>quo est: pater est: et per consequens non sibi est principium essendi. 
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1789">
-               <lb ed="#V" n="104"/>⁋ Ad articum q. dicendum quod Damen non intendit per illa verba 
-      distingue<lb ed="#V" n="105" break="no"/>re inter generatione et creationem: quia de hoc ibi agit penes elici 
-      <lb ed="#V" n="106"/>tiua principia: sed penes modum existendi a principio scilicet naturaliter 
-      <lb ed="#V" n="107"/>vel voluntarie et contingenter: generatio enim est naturalis et creatio 
-      <lb ed="#V" n="108"/>voluntaria et contingens. Et hoc intendit quando dicens quod generatio est 
-      <lb ed="#V" n="109"/>opus naturae id est qui generat naturaliter operatur seu producit. Creatio 
-      <lb ed="#V" n="110"/>vero est ex voluntate dei id est libere seu voluntarie et 
-      contingen<lb ed="#V" n="111" break="no"/>ter a deo.
-    </p>
-            <p xml:id="grvnZZ-ed1e35-d1e1809">
-      ⁋ Ad argumentum in oppositum: cum dicitur. eo generat quo est 
-      <lb ed="#V" n="112"/>dicitur duplex potest esse sensus. secundum quod ly eo et quo dupliciter possunt 
-      <lb ed="#V" n="113"/>sumi. Uno modo denominatiue et sic est dictu: ea proprietate qua 
-      <lb ed="#V" n="114"/>pater dicitur generare: seu genitor dicitur etiam pater: et in hoc 
-      <lb ed="#V" n="115"/>sensu vera est: et in eodem sensu loquitur Aug. in verbis allegati: 
-      <lb ed="#V" n="116"/>et patet: sed sic nihil ad propositum. Alio modo possunt intelligi eo 
-      <lb ed="#V" n="117"/>et quo elicitiue vel productiue: vt sit sensus: quod eodem principio eli 
-      <lb ed="#V" n="118"/>citiuo generat: quo est pater. et tunc dicendum: quod istud quo est pater est intel 
-      <lb ed="#V" n="119"/>ligendum vel potest intelligi dupliciter. vno modo: formaliter et denominati 
-      <lb ed="#V" n="120"/>ue: et tunc est sensus quod eo elicitiue generat: quo denominatur pater: 
-      <lb ed="#V" n="121"/>et sic nego propositionem: nec probatio valet ad propositum. Alio modo 
-      <lb ed="#V" n="122"/>elicitiue: et tunc est sensus quod eo elicitiue generat qua elicitiue 
-      <lb ed="#V" n="123"/>est pater: et tunc dicendum quod si hoc nomen pater sumatur vt est nomen 
-      proprie<lb ed="#V" n="124" break="no"/>tatis iuxta intellectum datum in responsione secunde rationis opini. 
-      alte<lb ed="#V" n="125" break="no"/>rius in praecedenti arti. vera est propositio: quia sic non est aliud dictu nisi: 
-      <lb ed="#V" n="126"/>quod eo quo elicitiue generat eo elicitiue generat: quia sic idem est esse 
-      <lb ed="#V" n="127"/>genitorem: et esse patrem. Sed tunc minor est falsa in eodem sensu. 
-      <lb ed="#V" n="128"/>seipso enim generat: et nullo alio elicitiue. Si vero sumatur vt est no 
-      <lb ed="#V" n="129"/>men hypostasis proportio est falsa: propter falsam implicationem. impli 
-      <lb ed="#V" n="130"/>cat enim quod hypostasis patena heat aliquod principium elicitiuum: 
-      <!--113.xml-->
-      <pb ed="#V" n="59-v"/>
-               <cb ed="#V" n="a"/>
-               <lb ed="#V" n="1"/>vel productiuum sui: quod est penitus impossibile. 
-    </p>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#Rimini">Gregory of Rimini</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2020-10-03">October 03, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="V" n="cod-ae1bsb">Venice 1503</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-10-03" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#V" n="56-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="grvnZZ-ed1e35"><!-- l1d7q1 -->
+        <head xml:id="grvnZZ-ed1e35-Hd1e106">Quaestio 1</head>
+        <head xml:id="grvnZZ-ed1e35-Hd1e109" type="question-title">Utrum essentia divina sit potentia seu principium generandi filium</head>
+        <p xml:id="grvnZZ-ed1e35-d1e112">
+          <lb ed="#V" n="122"/>⁋ Distinctionis. VII Questio I. 
+          <lb ed="#V" n="123"/>CIrca septimam distinctionem. 
+          <lb ed="#V" n="124"/>Quero vtrum 
+          <lb ed="#V" n="125"/>essentia diuina sit potentia seu principium 
+          <lb ed="#V" n="126"/>generandi filium.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e125">
+          ⁋ Et arguitur quod sic au 
+          <lb ed="#V" n="127"/>ctoritate Daenmenu. libro primo. dicentis quod gene capi. 5. 
+          <lb ed="#V" n="128"/>Iua ratio est opus nature. Et loquitur de 
+          gene<lb ed="#V" n="129" break="no"/>ratione dei eterna: cum igitur non sit opus nature tamquam ope 
+          <lb ed="#V" n="130"/>rantis: cum diuina natura neque generet: neque generetur: vt 
+          <!--108.xml-->
+          <pb ed="#V" n="57-r"/>
+          <cb ed="#V" n="a"/>
+          <lb ed="#V" n="1"/>probatum est. d. 5 sequitur quod est opus eius tanquam principii quae pater generat. 
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e145">
+          <lb ed="#V" n="2"/>⁋ Contra arguitur quod non essentia sed proprietas personalis: quia pater eo 
+          <lb ed="#V" n="3"/>quo pater est eo generat. Nam secundum <ref xml:id="grvnZZ-ed1e35-Rvnn888" corresp="#grvnZZ-ed1e35-Qvbfh11">Aug. 5. de tri.</ref> <quote xml:id="grvnZZ-ed1e35-Qvbfh11" source="http://scta.info/resource/adt-l5-d1e696@132-142">pater non 
+            <lb ed="#V" n="4"/>dicitur pater nisi ex eo quod est ei filius</quote>. ideo autem est ei filius: quia genuit: esse 
+          <lb ed="#V" n="5"/>igitur pater quo genuit et econverso sed pater non deitate: sed paternitate est pater: 
+          <lb ed="#V" n="6"/>sicut filius non eo verbum quo sapientia. eo autem essentia quo sapientia secundum 
+          <lb ed="#V" n="7"/>Aug. 7. de tri. et per consequens non est filius deitate: quia eo verbum quao fili 
+          <lb ed="#V" n="8"/>et econverso ideo autem est filius: quia genitus. 5. de tri. ergo est proprie tate 
+          fi<lb ed="#V" n="9" break="no"/>lius. et similiter paiter est proprietate pater. ergo proprietate generat. et per 
+          <lb ed="#V" n="10"/>consequens proprietas est in eo potentia et principium generandi. 
+          <lb ed="#V" n="11"/>In hac quaestione duo erunt arti. In primo videbitur an in divinis 
+          <lb ed="#V" n="12"/>sit aliqua potentia vere elicitiua seu principium produ 
+          <lb ed="#V" n="13"/>ctiuum ad intra. vel quod in idem venit. vtrum potentia 
+          generan<lb ed="#V" n="14" break="no"/>di vel spirandi sit potentia vere productiua: 2o supposito quod sic 
+          <lb ed="#V" n="15"/>inquiretur quae est illa: an scilicet essentia vel relatio: aut aliquid aliud:  
+          <lb ed="#V" n="16"/>Quantum ad primum articulum est vna opinio quae dicit quod 
+          <lb ed="#V" n="17"/>in patre nulla est omnino potentia vere productia 
+          <lb ed="#V" n="18"/>vel elicitiua quae generet vel possit generare filium: sed potentia. 
+          <lb ed="#V" n="19"/>quae dicitur posse generare est solum modo actualis connexio a non repugnam 
+          <lb ed="#V" n="20"/>tia terminorum sicut et potentia quae deus potest esse deus. Et si liceret 
+          <lb ed="#V" n="21"/>sic loqui vt dicunt: non est aliud potentia generandi in patre: quam potentia pa 
+          <lb ed="#V" n="22"/>ternim andi siue qua potest esse paiter: quam constat non nominare aliquod principio 
+          <lb ed="#V" n="23"/>productiuum.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e196">
+          ⁋ Quod igitur potentia generandi non significet aliquod 
+          pro<lb ed="#V" n="24" break="no"/>ductiuum principium in patre respectu filii: probatur multipliciter.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e201">
+          ⁋ Primo 
+          <lb ed="#V" n="25"/>qui vbi non sunt productiones elicite vanum est quarere principium 
+          pro<lb ed="#V" n="26" break="no"/>ductiuum: sed in deo productiones non sunt elicite vt dicit se 
+          <lb ed="#V" n="27"/>probasse in praecedentibus. igitur etc.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e210">
+          ⁋ 2o sic. posse esse patrem non est 
+          <lb ed="#V" n="28"/>posse potentie productiue: sed est posse connexionis necessarie eo 
+          <lb ed="#V" n="29"/>quo homo potest esse animal et dyametum non mensurari coste. hoc patet. 
+          <lb ed="#V" n="30"/>qui si talis potentia esset productiua est paiter in divinis produceretur in esse 
+          <lb ed="#V" n="31"/>pratrem: quod est erroneum: sed eadem est potentia qua pater potest generare et euo 
+          <lb ed="#V" n="32"/>potest esse paiter. sicut idem est actus cum actu: puta generare et paternitas. 
+          <lb ed="#V" n="33"/>Magiatui est dicit quod simile est de istis propositionibus. pater potest esse pater: et 
+          <lb ed="#V" n="34"/>piaetr potest generare: et de istis. filius non potest esse pater: et filius non potest 
+          ge<lb ed="#V" n="35" break="no"/>nerare.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e230">
+          ⁋ 3o si potentia generandi est potentia productiua: aliquae perfe 
+          <lb ed="#V" n="36"/>ctio simpliciter est in patre quae non est in filio. hoc concedere non est 
+          sa<lb ed="#V" n="37" break="no"/>num: cum sint equae perfecti. consequentia probatur. quia constat quod in filio non est 
+          <lb ed="#V" n="38"/>potentia generandi: quia non respectum patris: cum ille sit ingenitus: nec respe 
+          <lb ed="#V" n="39"/>ctu alterius filii: quia nullus alius est possibilis: nec resectus sui 
+          <lb ed="#V" n="40"/>met: quia nihil producit se. ergo non est in eo: cum omnis potena sit res 
+          <lb ed="#V" n="41"/>alicuius. Quod aut potemda productiua sit perfeco simpliciter patet. Nam po 
+          <lb ed="#V" n="42"/>tentia productiua creature est perfectio simpliciter. multo autem mi 
+          <lb ed="#V" n="43"/>gis potentia producendi creatorem erit perfectio simpliciter.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e250">
+          ⁋ 4o cui 
+          <lb ed="#V" n="44"/>negatio non est negatio potentie ipsum non est formaliter potentia: sed secundu 
+          <lb ed="#V" n="45"/>Aug. nego potetie generatiue non est negatio potentie: sed tamen poss 
+          <lb ed="#V" n="46"/>bilitatis terminorum. ait enim contra Maxin. lir 3 quod filius non genuit:  
+          <lb ed="#V" n="47"/>non quia non potuit: sed quia non oportuit: quod exponens magister 
+          di<lb ed="#V" n="48" break="no"/>cit: non quia non potuit id non ex aliqua impotems fuit: et per consequens negati 
+          <lb ed="#V" n="49"/>potentie generatiue non est negatio potentie.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e266">
+          ⁋ 5o in patre divino non potest 
+          <lb ed="#V" n="50"/>poni aliqua potentia productiua respectu sui formalis constituti: 
+          <lb ed="#V" n="51"/>alias produceretur in esse patris: sed generare est formale 
+          consti<lb ed="#V" n="52" break="no"/>tutiuum patris. ergo respectu generare nulla est in eo potentia productiva. 
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e276">
+          <lb ed="#V" n="53"/>⁋ 6o omne quod caret potentia debita suo generi potest dici impotens: sed fi 
+          <lb ed="#V" n="54"/>lius non potest dici impotens: ergo non caret potentia debita suo gene 
+          <lb ed="#V" n="55"/>ri. caret autem potentia generandi et illa competit suo generi: quia patri. ergo 
+          <lb ed="#V" n="56"/>potentia generandi non est aliqua potentia. maior patet. 5. meta. vbi dicitur quod 
+          <lb ed="#V" n="57"/>talpa dicitur prauari visu: quia est proprietas debita suo generi. 
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e289">
+          <lb ed="#V" n="58"/>⁋ 7o nulla potentia productiua recipit actum in se: sed ab ea egre 
+          <lb ed="#V" n="59"/>dit actus: genare vero non egreditur a patre: immo constituit ipsum. 
+          <lb ed="#V" n="60"/>ergo etc.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e298">
+          ⁋ 8o si in patre est aliquod formale principium productiuum: quaeritur 
+          <lb ed="#V" n="61"/>quod est illud: non dicitur quod sit pratrnitas: quia patrnitas et generare iden 
+          <lb ed="#V" n="62"/>sunt realiter. Nec persona tota: quia tunc generare egrederetur a per 
+          <lb ed="#V" n="63"/>sona et esset aliud realiter ab ea. nec essentia propter eandem rationem. Nam 
+          <lb ed="#V" n="64"/>tunc ab ea egrederetur actus generationis et esset aliud realiter ab ea 
+          <lb ed="#V" n="65"/>cum nihil egrediatur a se.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e311">
+          ⁋ 6o quia si ponatur talis potentia esse produ¬ 
+          <!--108.xml-->
+          <cb ed="#V" n="b"/> 
+          <!-- 57-r b -->
+          <lb ed="#V" n="66"/>ctiua: impossibile est euadere argumentum heretici probantis quod pater sit po 
+          <lb ed="#V" n="67"/>tentior filio: quia pater potuit generare: quod non potuit filius. poner 
+          <lb ed="#V" n="68"/>do autem quod huiusmodi potentia non sit aliud quam necessitas: et filium non posse 
+          <lb ed="#V" n="69"/>non est aliud quam impossibilitas terminorum euidenter euaditur: et 
+          <lb ed="#V" n="70"/>sic euadit Aug. dicendo quod filius non genuit: non quia non potuit:  
+          <lb ed="#V" n="71"/>sed quia non oportuit: aut igitur per non oportere intellexit non 
+          con<lb ed="#V" n="72" break="no"/>gruere et non decere: et sic sua soluio fuit nulla: tum quia tales con 
+          <lb ed="#V" n="73"/>gruentie in nesariis assignari non debent: persuasionibus enim 
+          conten<lb ed="#V" n="74" break="no"/>tari in nececariis ridiculosum est. vt patet primo ethic. Tum quia si 
+          po<lb ed="#V" n="75" break="no"/>tuit et possibile fuit quod filius generaret: vtique congruum fuit. ergo per non opositio 
+          <lb ed="#V" n="76"/>tere intelligit impossibile esse: et hoc est magis clare euadere: quia non 
+          <lb ed="#V" n="77"/>omnis possibilitas essendi quae est in pratre est in filio. paiter enim potest esse 
+          <lb ed="#V" n="78"/>pliter: non autem filius potest esse pater. Sed vtique omnis possibilitas produ 
+          <lb ed="#V" n="79"/>ctiua quae est in vno est in alio. Sic igitur patet quod potentia generandi non 
+          <lb ed="#V" n="80"/>nominat aliquod productiuum principium.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e353">
+          ⁋ 2o nullum agens eternum 
+          <lb ed="#V" n="81"/>habet potentiam agendi: deus est agens eternum respectu 
+          <lb ed="#V" n="82"/>filii extendendo nomen agentis. Nam eternaliter generat. ergo etc. ma 
+          <lb ed="#V" n="83"/>ior probatur ex intentione. P. 12. meta. vbi vult quod non omne agens  
+          <lb ed="#V" n="84"/>habet potentiam qua potest agere. vbi Commentatoris. dicit quod impossibile est quod omne ergo 
+          <lb ed="#V" n="85"/>agens et mouens hbeat potentiam agendi et mouendi. omne enim 
+          eter<lb ed="#V" n="86" break="no"/>num est actio pura: et omne quod est actio pura non habet potentiam. Com 
+          <lb ed="#V" n="87"/>firmari potest. per. P. 2. pyar. qui dicit quod sempiterna sunt actu si 
+          <lb ed="#V" n="88"/>ne potentialitate. igitur sempiterne agentia semper actu agunt 
+          <lb ed="#V" n="89"/>et sunt sine potestate seu virtute seu potentia agendi.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e375">
+          ⁋ hec opinio in
+          <lb ed="#V" n="90"/>eo quod negat omnem potentiam productiuam in patre respectu filii 
+          acci<lb ed="#V" n="91" break="no"/>piendo potentiam pro potestate seu vi et principio productiuo non est vera. 
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e383">
+          <lb ed="#V" n="92"/>⁋ Primo quidem. quia sequeretur quod pater non esset principium productiuum 
+          fi<lb ed="#V" n="93" break="no"/>lii: sed hoc est falsum: quia tunc piter non vraciter filium gigneret: cum 
+          <lb ed="#V" n="94"/>generans inquantum generans sit producens: et genitum inquantum genitum 
+          <lb ed="#V" n="95"/>sit productum. consequentia clara est. Confirmatur ratio auctoritate <ref xml:id="grvnZZ-ed1e35-Rv1v2v3" corresp="#grvnZZ-ed1e35-Qg1d2d3">Aug. 5. de tri.</ref>
+          <lb ed="#V" n="96"/>dicentis sic. <quote xml:id="grvnZZ-ed1e35-Qg1d2d3" source="http://scta.info/resource/adt-l5-d1e753@7-22">si gignens ad id quod gignit principium est: pater ad 
+            fi<lb ed="#V" n="97" break="no"/>lium principium est: quia genuit eum</quote>. Et <ref xml:id="grvnZZ-ed1e35-Rjj8h3v" corresp="#grvnZZ-ed1e35-Qz1a2c4">eiusdem li. 4.</ref> dicit <quote xml:id="grvnZZ-ed1e35-Qz1a2c4" source="http://scta.info/resource/adt-l4-d1e646@63-73">quod pater est 
+              <lb ed="#V" n="98"/>totus diuinitatis: vel si melius dicitur deitatis principium</quote> id est <quote xml:id="grvnZZ-ed1e35-Qn1dr33" source="http://scta.info/resource/pll1d29c1-d1e3504@63-72">filii 
+                <lb ed="#V" n="99"/>et spiritus sancti In quibus singulis tota est divinitas</quote>: vt exponit <ref xml:id="grvnZZ-ed1e35-Rv1vii" corresp="#grvnZZ-ed1e35-Qn1dr33">magister infra
+                  <lb ed="#V" n="100"/>distinctione 29</ref>
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e405">
+          ⁋ Item hilarius. 4. de tri. dicit quod pater est actor 
+          fi<lb ed="#V" n="101" break="no"/>lii que genuit. et dameni libro primo pater inquit est causa: et filius ex hac 
+          <lb ed="#V" n="102"/>causa et constat quod non aliter est principium aut actor vel causa: nisi producen 
+          <lb ed="#V" n="103"/>do ipsum sibi consubstectalem eiusdem naturae. est ergo secundum intentionem 
+          praedi<lb ed="#V" n="104" break="no"/>ctorum sanctorum pater principium vere productiuum filii.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e416">
+          ⁋ Ad hanc a 
+          <lb ed="#V" n="105"/>rationem in virtute libet in alio proposito iste doc. respondet distin. 
+          2o<lb ed="#V" n="106" break="no"/>dicens. quod non solum potentia productiua est principium: sed etiam ipsa productior 
+          <lb ed="#V" n="107"/>igitur pater dicitur principium productiuum filii: non per aliquam potentiam 
+          <lb ed="#V" n="108"/>productiuam: sed per ipsam productionem: puta generare quod est in ipso. 
+          <lb ed="#V" n="109"/>hec responsio concedit propositum: cum enim potenda productiua diffiniri ha 
+          <lb ed="#V" n="110"/>beat complete per esse principium productiuum alterius inquantum alterum: 
+          <lb ed="#V" n="111"/>sicut actiua diffinitur per esse principium actiuum alterius inquantum 
+          alte<lb ed="#V" n="112" break="no"/>rum: et talis ratio secundum responsionem competit ipsi actui qui est genderatio sequitur 
+          <lb ed="#V" n="113"/>quod ipsa est potentia productiua. et hoc est propositum ad praesens. non enim 
+          <lb ed="#V" n="114"/>quaerit aliud nisi an in patre sit aliquod principium productiuum respecs filii: 
+          <lb ed="#V" n="115"/>et conceditur in responsione quod sic.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e442">
+          ⁋ Utrum aut illud principium sit ipsa 
+          <lb ed="#V" n="116"/>productio: vel aliquid distinctum ab ea: non quaeritur pro nunc: cum ipse 
+          <lb ed="#V" n="117"/>vniversaliter omne principium productiuum neget.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e449">
+          ⁋ Et si dicatur quod non negatur 
+          <lb ed="#V" n="118"/>principium productiuum respectum producti quale dicit esse ipsam productio 
+          <lb ed="#V" n="119"/>nem: sed tantumo: negat principium productiuum respectu productionis quod 
+          <lb ed="#V" n="120"/>vtique solum secundum ipsum dicitur potentia productiua. Istud stare non 
+          <lb ed="#V" n="121"/>potest. Nam generaliter ipse habet negare secundum dictam sua: et negat omne 
+          <lb ed="#V" n="122"/>principium productiuum tam respectum producti: quam productionis. Quod patet: 
+          <lb ed="#V" n="123"/>Nam si posse principii productiui respectum productionis (vt dicit 
+          <lb ed="#V" n="124"/>est perfectio simpliciter: multo magis posse principii productius 
+          <lb ed="#V" n="125"/>respectum producti est perfectio simpliciter: cum posse in productionem 
+          <lb ed="#V" n="126"/>non sit perfectionis (si perfectionis est) nisi quia posse in 
+          produ<lb ed="#V" n="127" break="no"/>ctum illius productionis est perfectionis: negat aut primum posse a pa 
+          <lb ed="#V" n="128"/>tre: ne aliqua perfectio simpliciter attribuat sibi quae non sit in filio. 
+          <lb ed="#V" n="129"/>igitur et 2m consequenter habet negare. Nec valet dicere quod actualiter 
+          pro<lb ed="#V" n="130" break="no"/>ducere non est perfectionis: sed posse producere. Nam constat quod omne 
+          <!--109.xml-->
+          <pb ed="#V" n="57-v"/>
+          <cb ed="#V" n="a"/>
+          <lb ed="#V" n="1"/>principium productiuum potest producere: nec minus potest producere si 
+          <lb ed="#V" n="2"/>actu producit: quam si esset tantum in potentia ad producendum et non 
+          pro<lb ed="#V" n="3" break="no"/>duceret: nec minoris est perfectionis est ex eo quod actu produ 
+          <lb ed="#V" n="4"/>cit.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e495">
+          ⁋ Item hoc patet ex alio: recitat enim ille doc. in hac mate 
+          <lb ed="#V" n="5"/>vnam opinionem qua ponit quod paternitas est potentia seu principium generandi: et 
+          <lb ed="#V" n="6"/>tamen alibi vult eadem opinio quod paternitas et generare sunt idem: et 
+          <lb ed="#V" n="7"/>per consequens non ponit potentiam gneatiuam in patre respectum actus qui est 
+          <lb ed="#V" n="8"/>generare: sed tantum respectum producti scilicet filii. Et iste contra istam opinionem 
+          <lb ed="#V" n="9"/>sicut contra alias dicit quod supponit impossibil scilicet esse productiuum principi 
+          <lb ed="#V" n="10"/>in divinis. Ex quo patet quod non solum negat principium productiuum 
+          re<lb ed="#V" n="11" break="no"/>spectu gneationis: sed rectu geniti. quod euidentius probatur per eundem in 
+          <lb ed="#V" n="12"/>dicens eto. vbi obiiciendo conrspred. dicit quod posse generare filium saltem 
+          <lb ed="#V" n="13"/>est potenma productiua respectum filii: quamuis non respectu ipsius 
+          ge<lb ed="#V" n="14" break="no"/>nerationis. Et paulo post respondendo dicit quod filius non dicitur possibili 
+          <lb ed="#V" n="15"/>generari loquendo de possibilitate quae respondet potenti productiue: 
+          <lb ed="#V" n="16"/>quaeuis possit dici possibilis generari sumpta possibilitate pro non 
+          re<lb ed="#V" n="17" break="no"/>pugnantia terminorum. Ex quo patet quod vniversaliter omne principium productiuum 
+          <lb ed="#V" n="18"/>intendit negare. probatum est autem et conceditur patre esse principium pro 
+          <lb ed="#V" n="19"/>ductiuum: quare habentur propositum.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e531">
+          ⁋ 2o sic. fides catholica profitetur 
+          <lb ed="#V" n="20"/>filium esse a patre. hoc autem secundum istum in. 5. dicens in solutione vltime 
+          <lb ed="#V" n="21"/>obiectionis: ideo verum est: quia filius est filius formaliter per generari: quod 
+          <lb ed="#V" n="22"/>vtique infertur a patre: siue generare quod est formaliter in patre: et quo 
+          <lb ed="#V" n="23"/>formaliter paiter constituitur.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e542">
+          ⁋ Tunc arguo: aut filius est a patre: vel 
+          <lb ed="#V" n="24"/>a generare illatiue tantum: aut etiam principiatiue seu originaliter et 
+          pro<lb ed="#V" n="25" break="no"/>ductiue. primum non potest concedi: tum quia filius non esset productus nec 
+          <lb ed="#V" n="26"/>originatus seu natus a patre: quamuis esset illatus: quod dicere est impium: 
+          <lb ed="#V" n="27"/>tum quia pater eque esset a filio: sicut filius a patre: tum quia sicut pater 
+          <lb ed="#V" n="28"/>infert filium: sic econverso et sicut generare generari: sic econverso mutua enim e 
+          <lb ed="#V" n="29"/>reciproca est consequentia et illatio: quod cum fidei sit contrarium dicenti 
+          pa<lb ed="#V" n="30" break="no"/>ter a nullo est. filius vero a solo patre. restat quod vltra huiusmodi illatio 
+          <lb ed="#V" n="31"/>nem necesse est confiteri principiationem et originationem et filiu 
+          <lb ed="#V" n="32"/>principiatiue et originaliter esse a patre: et per consequens in patre concede 
+          <lb ed="#V" n="33"/>re principium productiuum ipsius filii seu patrem potius esse principium tale. 
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e566">
+          <lb ed="#V" n="34"/>⁋ Quia si dicatur ipsum actum generationis quem in patre dicit esse et non a 
+          <lb ed="#V" n="35"/>patre esse principium filii: adhuc habentur propositum non enim ad praesens plus 
+          <lb ed="#V" n="36"/>quaeritur: nisi quod in deo vere sit principium seu potentia vere productia filii. 
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e575">
+          <lb ed="#V" n="37"/>⁋ Ad rationes opinionis in oppositum. Ad primam: vel per productionem 
+          <lb ed="#V" n="38"/>intelligis ipsum productum: sicut in creaturis res quia producitur 
+          <lb ed="#V" n="39"/>dicitur actio seu productio: vt dicitur in 2o et tunc minor est falsa: vel 
+          <lb ed="#V" n="40"/>intelligis ipsum producens vel eius habitudinem ad productum: 
+          <lb ed="#V" n="41"/>et tunc est falsa maior. alias potentia creatiua non esset productiua: 
+          <lb ed="#V" n="42"/>cum nec creans vel eius habitudo ad creaturam sit producta: 
+          <lb ed="#V" n="43"/>vel intelligis quandam rem mediam distinctam: tam a producente: quam 
+          <lb ed="#V" n="44"/>a producto: et sic maior est falsa. Et habet instantiam de potentia crea 
+          <lb ed="#V" n="45"/>tiua. Similiter in aliis: cum nullibi sit talis actio media ponen 
+          <lb ed="#V" n="46"/>da: vt patebit in 2o Et si in creaturis poni posset: non tamen it 
+          <lb ed="#V" n="47"/>deo.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e601">
+          ⁋ Ad 2am dicitur quod si valeret eque probaretur et similiter quod po 
+          <lb ed="#V" n="48"/>creatiua dei non esset productiua: quod tamen secundum omnes: et estm secundum hunc 
+          <lb ed="#V" n="49"/>doc. est falsum.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e608">
+          ⁋ Arguam enim sic. posse esse creatorem non est 
+          pos<lb ed="#V" n="50" break="no"/>se esse potentie productiue: alias deus produceretur in esse creatoris: quod 
+          <lb ed="#V" n="51"/>est impium dicere: sed est eadem potentia quae deus potest creare et qua potest esse 
+          <lb ed="#V" n="52"/>creator. sicut idem est deum creare et deum esse creatorem. ergo po 
+          <lb ed="#V" n="53"/>creatiua non est productiua: cum igitur hoc conclusum falsum sit: 
+          li<lb ed="#V" n="54" break="no"/>quet praedictam rationem esse defectiuam.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e622">
+          ⁋ Rsponsio: igitur ad illam: cum 
+          <lb ed="#V" n="55"/>dicitur posse esse patrem non est posse potentie productiue: hoc nomen pitir 
+          <lb ed="#V" n="56"/>vt infra distinguit magitr. dicensi 7. aliquando est nomen hypostasis 
+          <lb ed="#V" n="57"/>aliquando propretatis. primo modo esse patrem est esse personam quae producit 
+          fi<lb ed="#V" n="58" break="no"/>lium. Alio modo est filium generare. hec multum dictenunt. Nam pro modo conced  
+          <lb ed="#V" n="59"/>mus divinitatem esse patrem. non autem 2o modo: vt supra. dicens e aliqualiter 
+          ta<lb ed="#V" n="60" break="no"/>ctum est. Primo modo dico quod posse esse patrem non est posse potentie produ 
+          <lb ed="#V" n="61"/>ctiue. Non enim deitas potest esse piter per aliquam pom productiuam 
+          <lb ed="#V" n="62"/>quae possit in personam patris: et in hoc sensu non est minor vera. Non 
+          <lb ed="#V" n="63"/>enim idem est posse esse patrem et posse generare. cum primum posse vere con 
+          <lb ed="#V" n="64"/>cedatur de divinitate: non autem 2m. Si autem sumatur 2o modo sic neg 
+          <lb ed="#V" n="65"/>primam propositionem: et dico quod posse esse patrem est posse potentie producti 
+          <!--109.xml-->
+          <cb ed="#V" n="b"/> 
+          <!-- 57-v b -->
+          <lb ed="#V" n="66"/>ue. sicut enim per productiuam potentiam paiter potest filium producere et eius esse 
+          <lb ed="#V" n="67"/>principium: sic per eandem potest esse paiter: cum hoc non sit aliud personam primam esse 
+          <lb ed="#V" n="68"/>patrem: quam ipsum filium gignere.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e661">
+          ⁋ Tunc ad probationem: cum dicitur quod 
+          <lb ed="#V" n="69"/>tunc pater produceret se in esse patrem: nego consequentia. Instantia pa 
+          <lb ed="#V" n="70"/>de posse esse creatorem. vnde sicut posse esse creatorem non est 
+          <lb ed="#V" n="71"/>posse producere creatorem: sed creaturam: nec cum deus est de 
+          no<lb ed="#V" n="72" break="no"/>uo creator facit se creatorem proprie loquendo: quia nec facit se 
+          <lb ed="#V" n="73"/>nec aliquid in se: sed tantum creaturam: sic posse esse patrem non est 
+          <lb ed="#V" n="74"/>posse producere patrem: sed filium. nec pater producit se patrem: sed 
+          <lb ed="#V" n="75"/>filium. sicut nec est pater sui: sed filii. Non igitur producit seipum 
+          <lb ed="#V" n="76"/>in esse patrem.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e681">
+          ⁋ Quia autem adducitur de magtro qui dicit illas 
+          <lb ed="#V" n="77"/>propositiones significare idem. Diendum quod magr accipit ibi nome 
+          <lb ed="#V" n="78"/>patris vt est nomen proprietatis. sict dictum est. sicut etiam patet ibi 
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e688">
+          <lb ed="#V" n="79"/>⁋ Ad 3m dico primo: quod per perfectionem simpliciter vel intelligis aliquod 
+          <lb ed="#V" n="80"/>significabile incomplexe. et tunc dico quod nulla est perfectio sim 
+          <lb ed="#V" n="81"/>pliciter nisi deus: quia nihil aliud a deo est quod in quolibet sit melius ipsum 
+          <lb ed="#V" n="82"/>quam non ipsum iuxta modum loquendi ansel. Et tunc concedo quod prino 
+          <lb ed="#V" n="83"/>productiuum filii est perfectio simpliciter: quod et tum habes concedere 
+          <lb ed="#V" n="84"/>nisi tum velis dicere: aut patrem non producere filium: aut pa 
+          <lb ed="#V" n="85"/>trem non esse deum: quorum vtrumque impium est. Et sic patet argumentum est contra te. valet 
+          <lb ed="#V" n="86"/>quod aliqua perfectio simpliciter deest filio: vel intelligis aliquod 
+          signi<lb ed="#V" n="87" break="no"/>ficabile tamen complexe. vbi gratia. si dicatur quod esse sapientem est perfe 
+          <lb ed="#V" n="88"/>ctio simpliciter: quia vniversaliter est melius esse ipsum: quam non ipsum. hoc est cuilibet 
+          <lb ed="#V" n="89"/>esset melius esse sapientem: quam non esse sapientem. ad quem sensum loquitur 
+          <lb ed="#V" n="90"/>Ansel. vt patet consideranti: quamuis non vtatur istis vocabulis 
+          perfe<lb ed="#V" n="91" break="no"/>ctio simpliciter: quod nec est proprie dicitur de tali complexe signifi 
+          <lb ed="#V" n="92"/>cabili. Sed est sensus cum illud dicitur perfectio simpliciter id est vniversali 
+          <lb ed="#V" n="93"/>quod vel cuilibet esset melius esse tale: quam non esse tale: vel quodlibet 
+          <lb ed="#V" n="94"/>si esset tale: esset melius quam si non esset tale ceteris paribus. Sed 
+          <lb ed="#V" n="95"/>secundum hunc sensum cum dicitur quod potentia productiua filii est perfectio 
+          <lb ed="#V" n="96"/>simpliciter: idem est ac si diceret posse producere filium est perfectio 
+          <lb ed="#V" n="97"/>simpliciter. Et secundum hunc modum accipiedi reducitur argumentum et contra te. 
+          <lb ed="#V" n="98"/>Nam si posse producere creaturam est perfectionis simpliciter. et 
+          <lb ed="#V" n="99"/>secundum te: ex hoc sequitur per locum a minori quod posse producere 
+          <lb ed="#V" n="100"/>creatorem est perfectionis simpliciter: cogeris vt vel dicas quod non 
+          <lb ed="#V" n="101"/>omne quod est perfectonis simpliciter conueniens patri conuenit filio dei: 
+          <lb ed="#V" n="102"/>quod tu et vere reputas falsum: vel neges patrem posse produce 
+          <lb ed="#V" n="103"/>re filium: quod est hereticum. Et cum hoc sequitur est quod non omnis 
+          perfe<lb ed="#V" n="104" break="no"/>ctio patri conueniat. Et ideo ita patet quod ratio fortius militat contra suum 
+          <lb ed="#V" n="105"/>actorem.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e749">
+          ⁋ Respondeo tamen ad ipsam. Si primo modo accipiatur perfectio 
+          <lb ed="#V" n="106"/>sicut innuunt verba arguentis. dico quod potentia productiua 
+          <lb ed="#V" n="107"/>filii est perfectio simpliciter: quia ipse pater est perfectio simpliciter. Et 
+          <lb ed="#V" n="108"/>tamen dico quod filius non est minus perfectus seu bonus: quam paiter: quia licem 
+          <lb ed="#V" n="109"/>ipse non sit pater: est tamen id ipsum et est eadem bonitas quae est ipse 
+          <lb ed="#V" n="110"/>pater. Si vero accipiatur 2o mo sic dico quod posse producere filium 
+          <lb ed="#V" n="111"/>non est perfectionis simpliciter. Et quamuis incomparabiliter melior si 
+          <lb ed="#V" n="112"/>deus quam crcatura. non tamen sequitur quod si posse producere 
+          creatu<lb ed="#V" n="113" break="no"/>ram est perfectionis simpliciter: quod posse producere creatorem vel deum 
+          <lb ed="#V" n="114"/>sit perfectionis simpliciter ad sensum datum. Similiter est non sequitur quod 
+          <lb ed="#V" n="115"/>posse producere deum patrem sit perfectionis simpliciter quamuis 
+          inco<lb ed="#V" n="116" break="no"/>parabiliter melior sit deus pater: quam creatura.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e775">
+          ⁋ Si dicas quod 
+          pro<lb ed="#V" n="117" break="no"/>ducere deum patrem est impossibile: et ideo non est perfectionis simpliciter. 
+          di<lb ed="#V" n="118" break="no"/>co tibi quod producere alium deum filium est impossibile simpliciter: nec est 
+          <lb ed="#V" n="119"/>minus impossibile quam quod deus filius producat seipsum.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e785">
+          ⁋ Ad 4m dicendum qu 
+          <lb ed="#V" n="120"/>minor est falsa accipiendo potesm pro principio productiuo: vt dictum est. 
+          <lb ed="#V" n="121"/>Nam Aug. non dicit quod filius non potuit: sed oppositum vnde ait. non quia 
+          <lb ed="#V" n="122"/>non potuit. ex quo argumentum potest reduci contra arguentem: aut enim potuit 
+          <lb ed="#V" n="123"/>significat postsm productiuam: et sic cum Aug. neget non posse 
+          af<lb ed="#V" n="124" break="no"/>firmat posse: ac per hoc potesm productiuam: aut significat 
+          possibilita<lb ed="#V" n="125" break="no"/>tem terminorum: et sic dicendo filius non potuit negatur talis 
+          possi<lb ed="#V" n="126" break="no"/>bilitas. igitur cum dicit non quia non potuit negatur non possibilitas: 
+          <lb ed="#V" n="127"/>per consequens affirmatur possibilitas. Ex quo vltra sequitur hanc esse 
+          <lb ed="#V" n="128"/>veram filius potuit generare: quod est contra Aug. ac contra sic arguentem: 
+          <lb ed="#V" n="129"/>expone igitur vt docet magister non quia non potuit. id est non fuit ex 
+          <lb ed="#V" n="130"/>impotentia: quod idem valet: ac si dicatur non quia impotens fuit: sed non 
+          <!--110.xml-->
+          <pb ed="#V" n="58-r"/>
+          <cb ed="#V" n="a"/>
+          <lb ed="#V" n="1"/>sequitur: non fuit impotens. ergo potuit vel fuit potens 
+          produce<lb ed="#V" n="2" break="no"/>re filium: sicut non sequitur. iste puer non est iniustus. ergo est iustus. 
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e822">
+          <lb ed="#V" n="3"/>⁋ Ad 5m dicendum quod non sequitur. in patre non est potentia productiua 
+          <lb ed="#V" n="4"/>respectu generare. ergo in eo non est potentia productiua: nisi per 
+          ge<lb ed="#V" n="5" break="no"/>nerare intellecgas ipsum genitum. Nam cum hoc quod in patre non est 
+          po<lb ed="#V" n="6" break="no"/>tentia productiua respectum alicuius quod est in eo: stat bene quod in e 
+          <lb ed="#V" n="7"/>sit potentia productiua respectu filii. hoc sufficit in proposito. Si 
+          <lb ed="#V" n="8"/>vero intelligas per generare ipsum filium genitum maior tua est 
+          fal<lb ed="#V" n="9" break="no"/>sa.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e840">
+          ⁋ Ad dium dicendum quod maior non est vera vbi carens habet omnem 
+          <lb ed="#V" n="10"/>perfectionem quam habet non carens. impotentia enim proprie loquendo 
+          <lb ed="#V" n="11"/>defectum alicuius perfectionis importat. Sicut etiam patet in exemplo 
+          <lb ed="#V" n="12"/>argumenti: in proposito autem carens seu non existens potentia 
+          generandi<lb ed="#V" n="13" break="no"/>nulla perfectione caret quam habeat potentia generandi: cum eadem 
+          perfe<lb ed="#V" n="14" break="no"/>ctio seu bonitas que est pater: sit et filius: non igitur proprie filius 
+          <lb ed="#V" n="15"/>dicitur impotens generare: quamuis non potens generare dici possit. Et ideo 
+          <lb ed="#V" n="16"/>qui alium filium generari est impossibile: et non est est possibile vt aliquid  
+          <lb ed="#V" n="17"/>generet se ipsum: sicut nec paiter dicitur impotens: cum tamen nec secundum 
+          fi<lb ed="#V" n="18" break="no"/>lium: nec se ipsum valeat generare. et universaliter nullus impotens dicitur ex 
+          <lb ed="#V" n="19"/>eo quod non poest simpliciter impossibilia: et hanc solutionem innuit Aug. 
+          <lb ed="#V" n="20"/>vt patebit in respondendo ad 9. rationem.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e866">
+          ⁋ Ad Im et 8m dico simul quod 
+          <lb ed="#V" n="21"/>a potentia productiua nihil egreditur: nisi quod ab ea producitur: et 
+          <lb ed="#V" n="22"/>io si per generare intelligas ipsum productum generare egreditur a 
+          <lb ed="#V" n="23"/>potentia productiua que est ipse pliter: vt patebit aritio 2o Si vero per 
+          ge<lb ed="#V" n="24" break="no"/>nerare vel per actum intelligis aliquid aliud: non valet consequentia quod si 
+          <lb ed="#V" n="25"/>respectu illius non sit potentia productiua in patre: ergo absolute non 
+          <lb ed="#V" n="26"/>sit in eo potentia productiua.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e882">
+          ⁋ Ad oum dicendum quod vtique sic 
+          di<lb ed="#V" n="27" break="no"/>cendo sufficienter euaditur argumentum heretici. et sic euadit Augu. 
+          <lb ed="#V" n="28"/>non autem sicut dicit opinio hec: quin immo si sic intelligeret Aug. 
+          <lb ed="#V" n="29"/>non solum non solueret: sed manifeste contradia affirmaret. Nam si 
+          <lb ed="#V" n="30"/>cum dicit: non quia non potuit significatur impossibilitas quae est 
+          re<lb ed="#V" n="31" break="no"/>pugnantia terminorum: vt iste docto. dicit. ergo non posse idem est quod 
+          <lb ed="#V" n="32"/>mpossibile esse. Et cum secundum eundem idem intelligatur per non 
+          opor<lb ed="#V" n="33" break="no"/>tere: vt patet in arguendo: igitur dicendo filius non genuit: non quia 
+          <lb ed="#V" n="34"/>non potuit: sed quia non oportuit: idem est quod dicere: filius non 
+          ge<lb ed="#V" n="35" break="no"/>nuit: non quia fuit impossibile ipsum generare: sed quia fuit 
+          impossibi<lb ed="#V" n="36" break="no"/>le ipsum generare: vbi patet manifeste contradictoria implicari. Duem 
+          <lb ed="#V" n="37"/>ergo secundum supedientua quod cum dicit: non quia non potuit: intelligitur non ex eius 
+          <lb ed="#V" n="38"/>potentia: vel quia impotens fuit: sed quia non oportuit id est non fuit 
+          <lb ed="#V" n="39"/>possibile: sed impossibile: oportere enim idem est quod necesse esse. 
+          <lb ed="#V" n="40"/>ergo non oportere idem est quod necesse: quod autem in divinis non est 
+          ne<lb ed="#V" n="41" break="no"/>cesse esse est impossibile esse: quia omne ibi possibile est necessium. Sic igitur in 
+          <lb ed="#V" n="42"/>hoc stat solumlo argumenti heretici probantis patrem potentiorem 
+          <lb ed="#V" n="43"/>esse filio: eo quod paiter potuit generare: filius autem non: quia verum vtique 
+          <lb ed="#V" n="44"/>est filium non potuisse generare: sed hoc non fuit ex eius impotentia 
+          <lb ed="#V" n="45"/>siue quia fuit impotens: paiter vero potens: sed quia impossibile fuit filium alium 
+          <lb ed="#V" n="46"/>generari. et vt patet ex hoc non arguitur filius impotens ac per hoc nec 
+          <lb ed="#V" n="47"/>minus potens ipso patre.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e930">
+          ⁋ Ad xitum cum dicitur nullum agens 
+          eter<lb ed="#V" n="48" break="no"/>num habet potesm agendi: dicendum quod huius propositionis duplex potest esse 
+          <lb ed="#V" n="49"/>sensus. vnus quod nullum agens eternum habet potentiam. id est principium per quod 
+          <lb ed="#V" n="50"/>agat a mouet: et iste est falsus et contra mentem philosophi et Commentato 
+          <lb ed="#V" n="51"/>ris. vnde. P. dicit ibidem nihil prodest si subiectas faciamus 
+          sempi<lb ed="#V" n="52" break="no"/>ternas: quemadmodum qui species: si non aliquod potens inerit 
+          <lb ed="#V" n="53"/>principium transmutare. etlittera commenti habet nisi in eis sit principium quod potest 
+          <lb ed="#V" n="54"/>transmutare. et Commen. hec verba exponens ait. nihil prodest 
+          <lb ed="#V" n="55"/>ponere subiectam eternam in qua non sit principium mouendi.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e951">
+          ⁋ Ex quibus 
+          <lb ed="#V" n="56"/>patet quod potentia id est principium mouendi motoribus eternis attribuunt. Alius 
+          <lb ed="#V" n="57"/>sensus est nullum agens etc id est nullum eternum est in potentia ac 
+          <lb ed="#V" n="58"/>mouendum: vt scilicet possit aliquando non mouere: sed semper actu ne 
+          <lb ed="#V" n="59"/>cessario mouet. et hec est intentio eorum: quod manifeste apparet per 
+          <lb ed="#V" n="60"/>expositionem Commentatoris ibidem. Ait enim sic. in principio commenti 
+          ne<lb ed="#V" n="61" break="no"/>cesse est vt iste motus habeat motorem qui est actio pura sine aliqua 
+          <lb ed="#V" n="62"/>potentia id est qui in nulla hora est motor in potentia.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e969">
+          ⁋ Est ergo intentio sua 
+          <lb ed="#V" n="63"/>quod sicut eternus motor de necessitate est et non potest non esse: sic 
+          <lb ed="#V" n="64"/>necessario semper mouet in actu: et non potest non actu mouere: aut 
+          <lb ed="#V" n="65"/>numquam est in potentia ad mouendum. et hoc intelligit quando dicit: quod ille 
+          <!--110.xml-->
+          <cb ed="#V" n="b"/> 
+          <!-- 58-r b -->
+          <lb ed="#V" n="66"/>motor est actio pura: non autem intelligit (vt fingunt sic arguen 
+          <lb ed="#V" n="67"/>tes) quod ipse sit actus ille qui est actio. quis enim dixerit quod motor 
+          <lb ed="#V" n="68"/>celi sit motio vel motus celi: Est igitur intentio eorum qua dictam est 
+          <lb ed="#V" n="69"/>et in hoc sensu secundum. P. vera est maior. Similiuso potest concedi de 
+          <lb ed="#V" n="70"/>primo producente scilicet deo pratre. necessario enim eternaliter actu producit 
+          <lb ed="#V" n="71"/>nec vmquam fuit aut esse potest in potentia ad producendum. Et sic ad  
+          <lb ed="#V" n="72"/>rationem patet quid sit dicendum. et ad confirmationem. pro tanto enim dicit 
+          <lb ed="#V" n="73"/>sempiterna esse actu sine potestate: quia semper sunt actu et fuerunt 
+          <lb ed="#V" n="74"/>sine potentia praecedente actum aut distante ab actu: et eodem modo de eter 
+          <lb ed="#V" n="75"/>non agente intelligit: non autem negat potesm quae est principium agendi. sed eam 
+          <lb ed="#V" n="76"/>ibidem in eis affirmat coniuncta tamen actui id est semper actu agentem. 
+          <lb ed="#V" n="77"/>Quantum ad 2m articulum communiter distinguitur de 
+          <lb ed="#V" n="78"/>nuplici principio Nam est principium quod agit et est 
+          <lb ed="#V" n="79"/>principium quo agens agit. Exemplum primi in naturalibus. ignis generans est 
+          <lb ed="#V" n="80"/>principium quod ignis geniti. calor vero est prinum quo formaliter agit. 
+          <lb ed="#V" n="81"/>In artificialibus principium quod est ipse artifex: principium quo est ipsa 
+          <lb ed="#V" n="82"/>ars per quam agit.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1021">
+          ⁋ Quantum ad propositum omnes conueniunt de prin 
+          <lb ed="#V" n="83"/>cipio quod generationis divine. Nam illud est paiter quod generat. Sed de 
+          <lb ed="#V" n="84"/>principio quo: quod quidem non generat: sed est illud per quod paiter generat est di 
+          <lb ed="#V" n="85"/>uersitas opinionum.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1030">
+          ⁋ Dicunt enim quidam quod tale principium est diuina 
+          <lb ed="#V" n="86"/>essentia non proprietas patris. quod probatur sic. primo. Nam illud est 
+          <lb ed="#V" n="87"/>potentia generatiua seu principium generandi in quocunque generante: in quo 
+          <lb ed="#V" n="88"/>genitum similatur generanti. Sed in essentia tantum filius dei simulatur. 
+          <lb ed="#V" n="89"/>patri generanti. ergo etc. maior patet. quia omne producens aliquod per suam 
+          <lb ed="#V" n="90"/>actionem producit sibi simile quantum ad formam qua agit: sicut homo 
+          <lb ed="#V" n="91"/>genitus est similis homini generanti in natua humana: cuius virtute 
+          <lb ed="#V" n="92"/>potest pater generare hominem.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1048">
+          ⁋ Alii probant idem sic. si deus per 
+          <lb ed="#V" n="93"/>impossibile generaret alium deum: et ille alius 3m: diuinitas esset 
+          <lb ed="#V" n="94"/>principium alterius et non relatio. ergo a nunc cum deus generet 
+          <lb ed="#V" n="95"/>alium qui est idem deus. Antecedens est notum. patet consequentia. quia quod est 
+          ali<lb ed="#V" n="96" break="no"/>quid perfectionis in principio productiuo non tollit ab aliquo rationem 
+          <lb ed="#V" n="97"/>principii productiui: sed communicare se in identitate numerali et 
+          <lb ed="#V" n="98"/>adequata communicatione sibi est perfectionis in principio productiuo. 
+          <lb ed="#V" n="99"/>ergo etc.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1066">
+          ⁋ 2o diuinitas est terminus formalis generationis: igitur. 
+          <lb ed="#V" n="100"/>ipsa est formale principium productiuum. Antecedens supponunt se 
+          probas<lb ed="#V" n="101" break="no"/>e. dicens es. cosequentia probatur. quia impossibile est agens communicare 
+          termi<lb ed="#V" n="102" break="no"/>num formalem generationis vel productionis nisi agat forma equa 
+          <lb ed="#V" n="103"/>perfecta si agat vniuoce: vel perfectiori si equiuoce. In diui 
+          <lb ed="#V" n="104"/>nis autem nihil est perfectius vel eque perfectum absoluto seu 
+          <lb ed="#V" n="105"/>essentia: cum sit formaliter infinita: non autem relatio. ergo etc.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1083">
+          ⁋ Alii 
+          <lb ed="#V" n="106"/>autem probant idem sic. vbicumque nata est esse relatio originis 
+          il<lb ed="#V" n="107" break="no"/>la relatio fundatur super principium elicitiuum originis: sed in 
+          <lb ed="#V" n="108"/>patre est relatio originis. igitur ipsa fundatur. super principio eliciti 
+          <lb ed="#V" n="109"/>uo. non fundatur autem super propetate: tum quia ipsa propetas perso 
+          <lb ed="#V" n="110"/>nalis est relatio originis: tum quia eius fundamentu debet esse 
+          ab<lb ed="#V" n="111" break="no"/>solutum. igitur super esea quare ipsa est principium elicitiuum originis. 
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1099">
+          <lb ed="#V" n="112"/>⁋ 2o sicut ratio causandi est illud quo existente in aliquo: vel in se 
+          <lb ed="#V" n="113"/>potest esse effectus: omni quod non est causa eiusdem effectus circunscripto: 
+          <lb ed="#V" n="114"/>vel quod requiritur ad esse alterius et non constituitur ex ipsa 
+          cau<lb ed="#V" n="115" break="no"/>satione vel causato: ita principium elicitiuum alicuius actionis vel 
+          <lb ed="#V" n="116"/>passionis vel productionis est illud quod necessario a per se requiritur. 
+          <lb ed="#V" n="117"/>ad illam productionem: et non constituitur nec ex productione nec 
+          <lb ed="#V" n="118"/>ex producto: et quia sola essentia divina requiritur ad generationem 
+          <lb ed="#V" n="119"/>actiuam et passiuam isto modo: ideo ipsa praecise est ratio eliciendi istas 
+          <lb ed="#V" n="120"/>productiones: tam actiuas quam passiuas.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1121">
+          ⁋ Ad hoc facit auc. 
+          <lb ed="#V" n="121"/>hylatur. 5. de tri. quam allegat etiam magitr. dicensin. ait enim hylatur. 
+          Nati<lb ed="#V" n="122" break="no"/>uitas dei non potest eam ex qua perfecta est non tenere naturam. Cen 
+          <lb ed="#V" n="123"/>tum autem est eam non ex alia natura quam diuina profectam esse. igitur natura 
+          <lb ed="#V" n="124"/>diuina principium est ex quo est natiuitas filii.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1132">
+          ⁋ Item magister 
+          <lb ed="#V" n="125"/>in ista. dicens dicit quod paiter non est potens generare nisi nam: eius enim 
+          po<lb ed="#V" n="126" break="no"/>tentia natura est vel essentia.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1139">
+          ⁋ Alia opinio est quod propretas perso 
+          <lb ed="#V" n="127"/>nalis est principium generandi: quod probatur sic. primo quia proprius 
+          <lb ed="#V" n="128"/>actus est a propria forma: sed generare est proprius actus patris: et 
+          <lb ed="#V" n="129"/>sola propetas personalis est sibi propria. igitur etc.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1148">
+          ⁋ 2o omne quod 
+          <lb ed="#V" n="130"/>est principium essendi est principium operandi: hoc patet quia: vnumquodque 
+          <!--111.xml-->
+          <pb ed="#V" n="58-v"/>
+          <cb ed="#V" n="a"/>
+          <lb ed="#V" n="1"/>agit secundum quod est in actu. ergo agit quo est in actu.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1162">
+          ⁋ Item 
+          <lb ed="#V" n="2"/>agere praesupponit esse: et actus secundus procedit a primo: sed 
+          patni<lb ed="#V" n="3" break="no"/>tas est principium essendi ipsi patri (ea enim est pater) igitur ipsa 
+          <lb ed="#V" n="4"/>est ei principium operandi: non autem est principium alicuius alterius 
+          <lb ed="#V" n="5"/>operationis vt apparet. igitur est principium generandi.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1173">
+          ⁋ he opiniones: si 
+          <lb ed="#V" n="6"/>cut patet: conueniunt in hoc quod quaelibet ponit aliquod productiuum 
+          fi<lb ed="#V" n="7" break="no"/>lii quod non producit filium: sed est quo pater producit: et sic po 
+          <lb ed="#V" n="8"/>nunt duplex principium quod et quo: iuxta communem modum 
+          distin<lb ed="#V" n="9" break="no"/>guendi. differunt autem in assignando illud principium: quo modo 
+          <lb ed="#V" n="10"/>saluo meliori iudicio apparet quod in vtroque deficiant: ideo pono 
+          <lb ed="#V" n="11"/>tres conclusiones Prima est quod non est aliquod principium quo 
+          produ<lb ed="#V" n="12" break="no"/>ctiuum filii aliud a principio quod producit. 2a quod essentia 
+          diu<lb ed="#V" n="13" break="no"/>na non est principium productiuum quo filii. 3a quod nec ipsa relatio 
+          <lb ed="#V" n="14"/>patris.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1195">
+          ⁋ Primam probo. principium producens filium seipso primo 
+          <lb ed="#V" n="15"/>producit. igitur non est aliquod principium quo: aliud a principio quod 
+          <lb ed="#V" n="16"/>producit. consequentia patet. Si enim sit aliquod principium quo producens 
+          pro<lb ed="#V" n="17" break="no"/>ducit: et aliud principium ipsum producens: iam non a seipso primo 
+          <lb ed="#V" n="18"/>producit: sed alio principio. Antecedens probo. si enim non produceret 
+          se<lb ed="#V" n="19" break="no"/>pso primo: cum per se producat produceret per se primo per 
+          ali<lb ed="#V" n="20" break="no"/>quod sui: aut igitur per aliquid quod est sui extrinsece: et hoc dici 
+          <lb ed="#V" n="21"/>non potest: cum nihil tale locum habeat in deo: aut per aliquid 
+          in<lb ed="#V" n="22" break="no"/>trinsecum sibi: et nec hoc: quia omne quod producit primo per aliquod 
+          <lb ed="#V" n="23"/>intrinsecum sibi et non seipso includit in se aliquam entitatem 
+          <lb ed="#V" n="24"/>vltra illud per quod dicitur primo producere: ac per hoc ad minus 
+          <lb ed="#V" n="25"/>duas entitates includit: hoc autem est impossibile de principio quod gene 
+          <lb ed="#V" n="26"/>rat deum: cum ipsum sit infinite simplicitatis.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1224">
+          ⁋ 2o si pater per 
+          <lb ed="#V" n="27"/>aliud a se aliquo modo produceret: tanquam principio quo: esset aliquo 
+          <lb ed="#V" n="28"/>modo illud tale causa patris. hoc autem est expresse contra sctititos. consequentia 
+          pro<lb ed="#V" n="29" break="no"/>batur. quia omne quod agit per aliquid aliud: aliquo modo habet esse vel ta 
+          <lb ed="#V" n="30"/>le esse per illud. vnde nisi ignis esset calidus per calorem: seu 
+          <lb ed="#V" n="31"/>per calorem informaretur: non pius calefaceret per calorem quam 
+          in<lb ed="#V" n="32" break="no"/>frigidaret per frigiditatem aque. vnde in quibuscumque talia 
+          prin<lb ed="#V" n="33" break="no"/>cipia quo et quod distinguuntur: principium quo est forma constituens 
+          <lb ed="#V" n="34"/>vel perficiens ipsum principium quod.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1244">
+          ⁋ 3o si aliqua forma simplex 
+          <lb ed="#V" n="35"/>subsiectalis vel accidentalis per se seperata divina virtute aut naturaliter 
+          <lb ed="#V" n="36"/>existens ageret: ipsa seipsa primo ageret et non aliquo alio 
+          <lb ed="#V" n="37"/>principio quo. igitur sic est in primo producente quod deus est. Antecedens est 
+          <lb ed="#V" n="38"/>notum. consequentia probatur. quia praecisa causa veritatis antecedentis est simplici 
+          <lb ed="#V" n="39"/>tas. quod patet. quia posito quod agens sit quid compositum statim 
+          assi<lb ed="#V" n="40" break="no"/>gnat principium quod. aliud a principio quo. posito vero quod sit 
+          sim<lb ed="#V" n="41" break="no"/>plex non est talis distinctio principii: summa vero simplicitas 
+          <lb ed="#V" n="42"/>est in primo producente. igitur in eo non erit talis principiorum 
+          di<lb ed="#V" n="43" break="no"/>stinctio.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1266">
+          ⁋ Et si dicatur quod non obstante summa simplicitate 
+          <lb ed="#V" n="44"/>persone adhuc essentia et similiter proprietas aliquo modo: distinguuntur a 
+          <lb ed="#V" n="45"/>persona saltem secundum rationem: et per consequens persona potest esse principium 
+          <lb ed="#V" n="46"/>quod. et essentia vel proprietas principium quo. illud non valet. quia 
+          distin<lb ed="#V" n="47" break="no"/>ctio rationis aut coceptus nihil ad propositum: nec conceptus vel ratio 
+          <lb ed="#V" n="48"/>est principium quo. nec quod. generandi filium: sed res extra: in qua 
+          <lb ed="#V" n="49"/>cum nulla penitus sit distinctio: nec potest ibi talium principiorum 
+          <lb ed="#V" n="50"/>distinctio assignari. Et confirmatur. quia eadem ratione in forma 
+          <lb ed="#V" n="51"/>simplici creata posset assignari principium quo: aliud a 
+          prin<lb ed="#V" n="52" break="no"/>quod: quod tamen nullus. dicens.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1289">
+          ⁋ 2am conclusione scilicet quod essentia non sit tale principium 
+          <lb ed="#V" n="53"/>probo sic. omne principium generandi: est realiter distinctum a generatione 
+          <lb ed="#V" n="54"/>vel a generato: essentia diuina non est realiter distincta a generatione 
+          <lb ed="#V" n="55"/>diuina: nec a genito. igitur non est principium generandi genitum. patet 
+          mi<lb ed="#V" n="56" break="no"/>nortes maior probatur. quia omne principium distinguitur ab eo cuius est 
+          <lb ed="#V" n="57"/>principium: omne autem principium generandi est principium generationis vel 
+          ge<lb ed="#V" n="58" break="no"/>niti.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1305">
+          ⁋ Ad hanc ratione dicitur quod principium quod. vtique distinguitur a 
+          <lb ed="#V" n="59"/>principiato: non autem principium quo.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1310">
+          ⁋ Contra. si hoc esset verum 
+          <lb ed="#V" n="60"/>non magis principium quo. esset principium principiati quam econverso verbi 
+          <lb ed="#V" n="61"/>gratia in proposito. essentia diuia non magis esset principium quo. 
+          <lb ed="#V" n="62"/>generationis vel geniti quam econverso genitum vel generatio esset principium eius: 
+          <lb ed="#V" n="63"/>similiter essentia ita esset principium essentie sicut generationis: ex quo 
+          ta<lb ed="#V" n="64" break="no"/>le principium a principiato non distinguitur: sed est ipsum: hoc autem 
+          <lb ed="#V" n="65"/>nullus diceret nisi vocabulis abuteretur.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1326">
+          ⁋ Confirmatur. quia 
+          <!--111.xml-->
+          <cb ed="#V" n="b"/> 
+          <!-- 58-v b -->
+          <lb ed="#V" n="66"/>principium inquantum principium: est principium alterius et non sui. vt 
+          <lb ed="#V" n="67"/>patet primo physicorum: io dicitur ibi quod si tantum vnum est: principium non T. c. S. 
+          <lb ed="#V" n="68"/>est. vel igitur principium quo. non est principium: vel est distinctum 
+          <lb ed="#V" n="69"/>ab eo cuius est principium: hec ratio maxime valet contra 2m et 3m doc. primo 
+          <lb ed="#V" n="70"/>me opinionis superius allegate. vterque enim probans quod proprietas 
+          <lb ed="#V" n="71"/>personalis non sit principium quo. elicitiuum generatonis: sunit hoc 
+          <lb ed="#V" n="72"/>pro fundamento.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1350">
+          ⁋ Unde 2a arguit ducendo ad impossibile oham 
+          <lb ed="#V" n="73"/>dicens: tunc eadem relatio esset principium sui ipsius: quia in patre non est vbi supra. 
+          <lb ed="#V" n="74"/>nisi vnica relatio ad filium: et illa est per te principium quo. respectu 
+          <lb ed="#V" n="75"/>generationis que est eadem relatio: licet aliter nominata. Alius vero sic 
+          <lb ed="#V" n="76"/>ait: nihil est principium elicitiuum sui ipsius: proprietas vero persona 
+          <lb ed="#V" n="77"/>lis et generatio sunt idem omnibus modm. g.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1363">
+          ⁋ Ex quo patet quod nihil 
+          <lb ed="#V" n="78"/>est principium nec quo. nec quod. secundum istos eius quod ipsum est. 
+          Com<lb ed="#V" n="79" break="no"/>stat autem quod essentia est generatio nec aliquo modo sed rem ab ea distin 
+          <lb ed="#V" n="80"/>cta.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1373">
+          ⁋ 3o si essentia esset: principium generationis: vel filii: essentia 
+          di<lb ed="#V" n="81" break="no"/>ceret relatiue principium ad illam vel illum: consequens est falsum: consequentia 
+          <lb ed="#V" n="82"/>patet: quia principium inquantum principium: est ad aliquid: sed falsitas 
+          <lb ed="#V" n="83"/>consequentis patet: quia nullum nomen notionale praedicatu de essentia: vt 
+          <lb ed="#V" n="84"/>magister ponit infra. dictens 2 7. et probatur auc. Danmien. lib. 3. vnde ca. 6. 
+          <lb ed="#V" n="85"/>talia nomina solum de hypostasibus praedicantur: vt ibidem patet. 
+          Con<lb ed="#V" n="86" break="no"/>stat autem hoc nomen principium: nomen esse notionis secundum omnes et 
+          <lb ed="#V" n="87"/>infra habetur. dicens eto.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1391">
+          ⁋ Ad hanc rationem dicitur quod vbi principium Scotus 
+          <lb ed="#V" n="88"/>non distinguitur a prodco: ibi inter illa non est realis relatio. vbi. supra. 
+          <lb ed="#V" n="89"/>vbi vero distinguitur relatio est realis: licet autem in creaturis 
+          <lb ed="#V" n="90"/>semper principium quo. sit realiter distinctum a prodcom: et per consequens 
+          <lb ed="#V" n="91"/>realiter referantur adinuicem: in diuinis tamen non est realis distin 
+          <lb ed="#V" n="92"/>ctio inter illa: vnde nec realis relatio: sed rationis tantum.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1404">
+          ⁋ hec 
+          <lb ed="#V" n="93"/>solutio nulla est. primo quia dicit incompossibilia scilicet aliquod esse 
+          <lb ed="#V" n="94"/>principium alicuius: et tamen non distingui ab illo: sicut supra patet ex 
+          <lb ed="#V" n="95"/>intentione. P. primo phy. et commentatoris. ibidem. dicens quod principium exigit 2. et. c. upr 
+          <lb ed="#V" n="96"/>pluralitatem: et per consequens distinctionem scilicet inter se et principiatum. 
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1415">
+          <lb ed="#V" n="97"/>⁋ 2o quia si non exigitur realis distinctio: quid prohiberet 
+          rela<lb ed="#V" n="98" break="no"/>tionem vt relatio est: esse principium quo. generationis vt actio vel 
+          <lb ed="#V" n="99"/>productio est: et esse tamen indistinctam ab ea realiter: et cum hoc vt su 
+          <lb ed="#V" n="100"/>pra patet impugnauit. quod etiam dicens non esse relationem nisi rationis 
+          ni<lb ed="#V" n="101" break="no"/>hil est. Nam quod extra animam est: est principium extra animam: et non 
+          <lb ed="#V" n="102"/>secundum rationem tantum est ad aliquid. si ergo essentia non realiter referatur: nec 
+          <lb ed="#V" n="103"/>realiter est principium.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1433">
+          ⁋ Sed contra hanc conclusionem expresse videtur Ansel. contra conclusionem 
+          <lb ed="#V" n="104"/>primo quidem mondlogion. vbi de spum sctoto loquens ait. Non ex eo pro caua. 54. 
+          <lb ed="#V" n="105"/>cedit in quo plures sunt pater et filius: sed ex eo in quo vnum 
+          <lb ed="#V" n="106"/>sunt. Nam non ex relationibus suis que plures sunt alia enim est 
+          <lb ed="#V" n="107"/>relatio patris: alia filii) sed ex ipsa sua essentia: que 
+          plura<lb ed="#V" n="108" break="no"/>litatem non admittit: emittunt pater et filius simul tantum bonum. 
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1446">
+          <lb ed="#V" n="109"/>⁋ Ex quibus patet quod virtus spiratiua est essentia communis patri et 
+          <lb ed="#V" n="110"/>filio: et eadem ratione essentia ipsa est virtus generatiua et principium 
+          <lb ed="#V" n="111"/>generandi. Item ipse de processie spiritus sancti. dicens spectum sanctum ca. 2. 
+          <lb ed="#V" n="112"/>procedere de diuinitate patris et non de paternitate. Et addit 
+          <lb ed="#V" n="113"/>quod opinio que dicit: quod non procedit de diuinitate: sed de 
+          pateni<lb ed="#V" n="114" break="no"/>tate patenti se fatuitate suffocat.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1463">
+          ⁋ Ad hoc dicendum quod ver. Respono 
+          <lb ed="#V" n="115"/>ba illa non sunt in sua proprietate intelligenda: non enim spis 
+          san<lb ed="#V" n="116" break="no"/>ctus: aut filius procedit a diuinitate aut de diuinitate: nec 
+          <lb ed="#V" n="117"/>pater de diuinitate generat filium: aut paiter et filius de divinitate 
+          <lb ed="#V" n="118"/>spiectum scuntum emittunt: cum tam spitus secuns quam filius sit divinitas ipsa: 
+          <lb ed="#V" n="119"/>iodo tales locutiones sanctorum exponende sunt: sicut docet magitu. de 
+          <lb ed="#V" n="120"/>b. et ibidem. q. primo et 2a monstratum est etiam per eundem Ansel.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1479">
+          ⁋ 
+          Quan<lb ed="#V" n="121" break="no"/>tum tamen ad propositum in speciali facit. dicendum quod non est intentio Ansel. aliquam 
+          <lb ed="#V" n="122"/>principiationem attribuere essentie aut divinitati communi patris et 
+          fi<lb ed="#V" n="123" break="no"/>lii: resectu spiritus sctit: cum eadem ipsa sit spitus scunus. Sed tota huiusmodi 
+          princi<lb ed="#V" n="124" break="no"/>piatio vel productioio attribuenda est personis patris et filii.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1490">
+          ⁋ 
+          Ue<lb ed="#V" n="125" break="no"/>runtamen pater et filius spirantes spiectum scuntum: non eum spirant inquantum hoc est 
+          <lb ed="#V" n="126"/>piter et ille filius: aut vnus alter ab altero: sed secundum quod funt vnus deus. 
+          <lb ed="#V" n="127"/>et hoc ipse intelligit cum dicens eum procedere ex eo in quo sunt vnum 
+          <lb ed="#V" n="128"/>id est ab ipsis secundum quod sunt vnum: et cum dicens ipsum procedere de divinita 
+          <lb ed="#V" n="129"/>te patris: et non de patetnitate id est de patre secundum quod est deus et non secundum quod 
+          <lb ed="#V" n="130"/>estpatur.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1506">
+          ⁋ Et hoc ex verbis eiusdem in eodem i scilicet de process. spius scit. 
+          <!--112.xml-->
+          <pb ed="#V" n="59-r"/>
+          <cb ed="#V" n="a"/>
+          <lb ed="#V" n="1"/>post verba allegata accipi potest. vnde ait nullus sensus capit 
+          <lb ed="#V" n="2"/>spectum scentum: esse spiectum patris aut filii: secundum quod alter est pater alter 
+          fi<lb ed="#V" n="3" break="no"/>lius: sed secundum quod vterque vnus idemque deus est: ita quod si per impossibile essent 
+          <lb ed="#V" n="4"/>pieter et filius: et non essent abinuicem distincti: adhuc spirarent spictum 
+          <lb ed="#V" n="5"/>scundum. et est similis locutio ac si essent duo calores seperati et in 
+          <lb ed="#V" n="6"/>eodem loco: et producerent vnum calorem in subiecto: et diceremus quod illi 
+          <lb ed="#V" n="7"/>producunt inquantum sunt vnum specie. et non inquantum distinguunt: quia si 
+          <lb ed="#V" n="8"/>essent indisticti nihil minus producerent: et cum nec in illis distin 
+          <lb ed="#V" n="9"/>guerentur: nec ante nec post duo principio qua. et quod: propter vtriusque sim 
+          <lb ed="#V" n="10"/>plicitatem: multo magis nec in proposito. Quod autem dicens quod non ex 
+          <lb ed="#V" n="11"/>relationibus suis etc. accipit relationes pro proprietatibus persona 
+          <lb ed="#V" n="12"/>rum complexe significantibus qua quidem non ipse persone sunt: nec omnino 
+          <lb ed="#V" n="13"/>aliqua entitates: vt in discens 36. dieculurabitur: tales enim proprietates 
+          vti<lb ed="#V" n="14" break="no"/>que ipse vocat relationes: sicut patet in de proces. spiritus scienti non autem 
+          <lb ed="#V" n="15"/>accipit relationes pro illis incomplexe significantibus: que non sunt 
+          <lb ed="#V" n="16"/>aliud quam ipse met persone vt infra patebit. Et eodem modo cum ait quod 
+          <lb ed="#V" n="17"/>non de patrnitate: sed de divinitate id est patre qui est divinitas iuxta praemi 
+          <lb ed="#V" n="18"/>sam doctrinam Aug. vel de patre non secundum quod pater est: sed secundum quod deus pe 
+          <lb ed="#V" n="19"/>nes sensum proxime datum.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1556">
+          ⁋ 3a conclusio est quod proprietas personalis 
+          <lb ed="#V" n="20"/>non est principium quo. divine generationis nisi forte proprietatis nomine 
+          <lb ed="#V" n="21"/>hypostasis ipsa intelligeretur. hec autem conclusio sicut praecedens sufficiem 
+          <lb ed="#V" n="22"/>ter probatur ex his: per quae probata est pia conclusio
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1565">
+          ⁋ Ite contra hominem probari 
+          <lb ed="#V" n="23"/>potest: cum dicat ipsam proprietatem personalem a generationis actu esse extra 
+          <lb ed="#V" n="24"/>animam penitus indistinctam. constat autem principium a principiato distin 
+          <lb ed="#V" n="25"/>gui. Sic ergo videtur dicendum quod non est quaerendum aliquod principium productiuum 
+          <lb ed="#V" n="26"/>quo praiter graeseniet: sic quod ei vere competat ratio principii productiui 
+          distin<lb ed="#V" n="27" break="no"/>ctum a principio productiuo quod generat: sed vel ipsum quod generat: est principium qua. 
+          <lb ed="#V" n="28"/>qui seipso et nullo alio generat: ita quod idem est principium quod et quo. vel 
+          <lb ed="#V" n="29"/>nullum omnino est ibi principium quo. sed tantum quod.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1584">
+          ⁋ Contra hoc videtur esse 
+          <lb ed="#V" n="30"/>quod dicitur a sanctis: patrem et filium esse vnum principium. scilicet quod 
+          verifica<lb ed="#V" n="31" break="no"/>ri non potest vt videt: nisi ponendo vnum principium quo ambo 
+          spi<lb ed="#V" n="32" break="no"/>rant: cum ipsi non sint vnum principium quod spirat: sicut non sunt vna perso 
+          <lb ed="#V" n="33"/>na.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1595">
+          ⁋ Sed ad hoc quid sit dicendum patebit. dit i12.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1598">
+          ⁋ Tunc ad  
+          <lb ed="#V" n="34"/>rationes alterius opinionis. Ad primam dicendum quod siue maior 
+          su<lb ed="#V" n="35" break="no"/>matur sic. omne in quo genitum similatur generanti: est principium quo 
+          <lb ed="#V" n="36"/>generandi siue econverso sic. in omni quod est principium grante andi quo. genitum 
+          as<lb ed="#V" n="37" break="no"/>similatur graesenanti ipsa falsa est. Nam in primo sensu habet instantiam. 
+          <lb ed="#V" n="38"/>nam generata multis suis genitoribus similantur in forma substantiali 
+          <lb ed="#V" n="39"/>et tamen forma substantialis nullius est principium productiuum per istos. Item 
+          <lb ed="#V" n="40"/>in multis formis non actiuis. Item in alio sensu habet instam 
+          <lb ed="#V" n="41"/>tiam: videmus enim quod mulus non similatur in virtute generatiua suo 
+          <lb ed="#V" n="42"/>genitori: et sic in multis reperiri posset instantia.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1620">
+          ⁋ Praeterea esto quod 
+          <lb ed="#V" n="43"/>ipsa esset vera in creatura: in proposito tamen non haberet veritatem: eo quod 
+          <lb ed="#V" n="44"/>principium productiuum quo. necessario debet esse distinctum realiter ab eo cuius 
+          <lb ed="#V" n="45"/>est principium: quod non posset esse in proposito. Nam in quo pater similatur vel 
+          <lb ed="#V" n="46"/>potius identificatur filio nullo modo distiguitur a filio.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1631">
+          ⁋ Praeterea illa 
+          <lb ed="#V" n="47"/>propositio non habet locum (si quem habet) nisi vbi principium quo. distinguitur a 
+          <lb ed="#V" n="48"/>principio quod. quod non est in proposito.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1638">
+          ⁋ Ad rationem alterius doc. dictr 
+          <lb ed="#V" n="49"/>quod in antecedente vel sumit principium quo. distincte a principio quod. vel non. si 
+          <lb ed="#V" n="50"/>sic. antecedens est falsum. similiter consequentia non tenet. falsitas antecedentis patet. quis 
+          <lb ed="#V" n="51"/>supponitur deum esse simplicem omnino: et ista ypothesi facta siul 
+          <lb ed="#V" n="52"/>et supponitur esse deum: et per consequens non esset in eodem talis distinctio 
+          <lb ed="#V" n="53"/>principiorum. Item consequentia non valet: quia ypothesi data essentia dei 
+          di<lb ed="#V" n="54" break="no"/>stingueretur realiter ab alio deo: cuius ponitur principium. Nunc autem non 
+          <lb ed="#V" n="55"/>distinguitur a genito. ideo non potest sic concedi esse principium. Et ad pro 
+          <lb ed="#V" n="56"/>bationem dicendum quod non est perfectionis in aliquo principio productiuo 
+          <lb ed="#V" n="57"/>esse principium eius quod ab ipso est penitus indistinctum: quia hoc est penit 
+          <lb ed="#V" n="58"/>impossibile: et excludit omnino rationem principii et principiati. vnde per simile 
+          <lb ed="#V" n="59"/>rationem probari posset: quod pater et filius: et genitor et genitus sunt vnus 
+          <lb ed="#V" n="60"/>quoniam perfectionis est communicare seipum in identitate omnimoda: et seipum 
+          <lb ed="#V" n="61"/>generare: nec illud magis videtur valere quam hoc. Si autem antecedens ad 
+          <lb ed="#V" n="62"/>cipiat hoc nomen principium 2o modo tunc patet consequentiam non valere. Et perper 
+          il<lb ed="#V" n="63" break="no"/>lud quod dictum est. et quia et concluderet nunc de facto divinam essen 
+          <lb ed="#V" n="64"/>tiam esse filii genitricem: quod est falsum: etiam secundum hunc doc.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1676">
+          ⁋ Ad 
+          <lb ed="#V" n="65"/>2am rationem eiusdem dicendum: quod antecedens est falsum: sicut patet supra. dicensen 
+          <!--112.xml-->
+          <cb ed="#V" n="b"/> 
+          <!-- 59-r b -->
+          <lb ed="#V" n="66"/>q. 2a. vbi etiam hentur solulto rationis facte per eundem ad probationem 
+          <lb ed="#V" n="67"/>huius antecedentis.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1692">
+          ⁋ Ad rationes alterius. Ad primam nego maiorem sum 
+          <lb ed="#V" n="68"/>ptam in sua proprietate. nulla enim divina relatio fundatur in aliquo 
+          <lb ed="#V" n="69"/>sicut nec persona aliqua divina. Si vero sumatur improprie: vt sit 
+          sen<lb ed="#V" n="70" break="no"/>sus: quod omne principium elicitiuum originis refertur: taliter concedo et di 
+          <lb ed="#V" n="71"/>co quod pater est tale principium. nec procedunt probationes contra hoc.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1703">
+          ⁋ Ad 
+          <lb ed="#V" n="72"/>2am rationem dico quod oportet addere in maiore: quod illud non sit ipsum 
+          <lb ed="#V" n="73"/>productum: essentia autem divina est ipse filius productus.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1710">
+          ⁋ Ad auc 
+          <lb ed="#V" n="74"/>illam hylatur. et ceteras similes dicendum est sicut docet magister. distincion 
+          <lb ed="#V" n="75"/>et ibidem dictum est scilicet quod natiuitas est perfecta ex natura id est ex patre est 
+          <lb ed="#V" n="76"/>est eadem esentia et na.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1719">
+          ⁋ Ad illud vero quod ex dicto magri in 
+          <lb ed="#V" n="77"/>ducitur. Dicendum quod magister non aliud intendit dicere: nisi quod pater 
+          <lb ed="#V" n="78"/>nullo alio: sed seipso potens est gignere: quod est verum: quod 
+          signi<lb ed="#V" n="79" break="no"/>ficant verba eius quibus ait: pater non est potens gignere nisi natura etc. 
+          si<lb ed="#V" n="80" break="no"/>cut si calor esset separatus: et posset calefacere diceremus quod ipse 
+          <lb ed="#V" n="81"/>calor non est potens calefacere nisi na et entitate vel essentia 
+          <lb ed="#V" n="82"/>sua: et quod eius essentia est eius calefactiua potentia: nec tamen per 
+          <lb ed="#V" n="83"/>hoc intelligeremus: quod ipse calor esset principium quod. productiuum 
+          ca<lb ed="#V" n="84" break="no"/>loris: et eius natura entitas vel essentia esset principium quo cum inter 
+          <lb ed="#V" n="85"/>ipsum et eius essentiam distinguere sit impossibile.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1741">
+          ⁋ Ad rationem 
+          pri<lb ed="#V" n="86" break="no"/>materia alterius opinionis: quae dicens proprietatem personale esse principium 
+          <lb ed="#V" n="87"/>quo. productiuum generationis. dicendum quod si maior eius aliquam ve 
+          <lb ed="#V" n="88"/>ritatem possit habere hoc non est nisi vbi forma agentis est 
+          princi<lb ed="#V" n="89" break="no"/>pium quo. actomnis vel actus: et vbi ipsius actus est huiusmodi duplex prini 
+          <lb ed="#V" n="90"/>cipium scilicet quod et quo. vtrumque autem deficit in proposito. quare nul 
+          <lb ed="#V" n="91"/>lius est roboris ad intentum.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1758">
+          ⁋ Ad 2am est primo dicendum quod 
+          ma<lb ed="#V" n="92" break="no"/>ior est falsa: sunt enim multe forme principium essendi: que non 
+          <lb ed="#V" n="93"/>sunt actiue: nec principium agendi: nec probatio sufficiens est:  
+          <lb ed="#V" n="94"/>quamuis enim probaret quod omne quod est principium agendi est principium 
+          <lb ed="#V" n="95"/>essendi: non tamen probat conuersam scilicet quod omne quod est principium 
+          <lb ed="#V" n="96"/>essendi. est principium agendi.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1771">
+          ⁋ 2o dicendum etiam: quod minor est 
+          <lb ed="#V" n="97"/>falsa. nihil enim omnino est patri principium essendi: cum ipse sit 
+          <lb ed="#V" n="98"/>penitus sine principio in quocunque principii genere. Quod vero 
+          <lb ed="#V" n="99"/>additur quod proprietate est pater: non est ad propositum. Nam quo: 
+          <lb ed="#V" n="100"/>cunque illa sit vera de quo infra dicet: non tamen facit ad 
+          propo<lb ed="#V" n="101" break="no"/>situm: quia vt magiu. inctin dicntio 2. et Aug. expresse. 7. de tri. iuxta 
+          fi<lb ed="#V" n="102" break="no"/>nem. non est idem deo patri esse patrem: et esse: quapropter nec eo 
+          <lb ed="#V" n="103"/>quo est: pater est: et per consequens non sibi est principium essendi. 
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1789">
+          <lb ed="#V" n="104"/>⁋ Ad articum q. dicendum quod Damen non intendit per illa verba 
+          distingue<lb ed="#V" n="105" break="no"/>re inter generatione et creationem: quia de hoc ibi agit penes elici 
+          <lb ed="#V" n="106"/>tiua principia: sed penes modum existendi a principio scilicet naturaliter 
+          <lb ed="#V" n="107"/>vel voluntarie et contingenter: generatio enim est naturalis et creatio 
+          <lb ed="#V" n="108"/>voluntaria et contingens. Et hoc intendit quando dicens quod generatio est 
+          <lb ed="#V" n="109"/>opus naturae id est qui generat naturaliter operatur seu producit. Creatio 
+          <lb ed="#V" n="110"/>vero est ex voluntate dei id est libere seu voluntarie et 
+          contingen<lb ed="#V" n="111" break="no"/>ter a deo.
+        </p>
+        <p xml:id="grvnZZ-ed1e35-d1e1809">
+          ⁋ Ad argumentum in oppositum: cum dicitur. eo generat quo est 
+          <lb ed="#V" n="112"/>dicitur duplex potest esse sensus. secundum quod ly eo et quo dupliciter possunt 
+          <lb ed="#V" n="113"/>sumi. Uno modo denominatiue et sic est dictu: ea proprietate qua 
+          <lb ed="#V" n="114"/>pater dicitur generare: seu genitor dicitur etiam pater: et in hoc 
+          <lb ed="#V" n="115"/>sensu vera est: et in eodem sensu loquitur Aug. in verbis allegati: 
+          <lb ed="#V" n="116"/>et patet: sed sic nihil ad propositum. Alio modo possunt intelligi eo 
+          <lb ed="#V" n="117"/>et quo elicitiue vel productiue: vt sit sensus: quod eodem principio eli 
+          <lb ed="#V" n="118"/>citiuo generat: quo est pater. et tunc dicendum: quod istud quo est pater est intel 
+          <lb ed="#V" n="119"/>ligendum vel potest intelligi dupliciter. vno modo: formaliter et denominati 
+          <lb ed="#V" n="120"/>ue: et tunc est sensus quod eo elicitiue generat: quo denominatur pater: 
+          <lb ed="#V" n="121"/>et sic nego propositionem: nec probatio valet ad propositum. Alio modo 
+          <lb ed="#V" n="122"/>elicitiue: et tunc est sensus quod eo elicitiue generat qua elicitiue 
+          <lb ed="#V" n="123"/>est pater: et tunc dicendum quod si hoc nomen pater sumatur vt est nomen 
+          proprie<lb ed="#V" n="124" break="no"/>tatis iuxta intellectum datum in responsione secunde rationis opini. 
+          alte<lb ed="#V" n="125" break="no"/>rius in praecedenti arti. vera est propositio: quia sic non est aliud dictu nisi: 
+          <lb ed="#V" n="126"/>quod eo quo elicitiue generat eo elicitiue generat: quia sic idem est esse 
+          <lb ed="#V" n="127"/>genitorem: et esse patrem. Sed tunc minor est falsa in eodem sensu. 
+          <lb ed="#V" n="128"/>seipso enim generat: et nullo alio elicitiue. Si vero sumatur vt est no 
+          <lb ed="#V" n="129"/>men hypostasis proportio est falsa: propter falsam implicationem. impli 
+          <lb ed="#V" n="130"/>cat enim quod hypostasis patena heat aliquod principium elicitiuum: 
+          <!--113.xml-->
+          <pb ed="#V" n="59-v"/>
+          <cb ed="#V" n="a"/>
+          <lb ed="#V" n="1"/>vel productiuum sui: quod est penitus impossibile. 
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

@@ -1,842 +1,842 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 2</title>
-            <author ref="#Rimini">Gregory of Rimini</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-            
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 2</title>
-               <date when="2020-10-03">October 03, 2020</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="V" n="cod-ae1bsb">Venice 1503</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2020-10-03" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#V" n="148-r"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="grvnZZ-ed1e94"><!-- l1d42-44q2 -->
-            <head xml:id="grvnZZ-ed1e94-Hd1e106">Quaestio 2</head>
-            <head xml:id="grvnZZ-ed1e94-Hd1e109" type="question-title">Utrum Deus possit dicere falsum</head>
-            <p xml:id="grvnZZ-ed1e94-d1e112">
-               <lb ed="#V" n="98"/>⁋ Distinctionis. XLII. XLIII. et XLIIII. Quaestio. II. 
-      <lb ed="#V" n="99"/>SEcundo quero vtrum deus posset 
-      <lb ed="#V" n="100"/>dicere falsum: Et videtur quod sic 
-      <lb ed="#V" n="101"/>primo. quia quicquid potest creatura deo 
-      coagen<lb ed="#V" n="102" break="no"/>ste deus potest per se ipsum nullo alio 
-      coagen<lb ed="#V" n="103" break="no"/>te. hoc patet ex praecedenti quaestione. sed creature 
-      <lb ed="#V" n="104"/>coagente deo potest dicere falsum. ergo deus per 
-      <lb ed="#V" n="105"/>se ipsum nullo coagente posset dicere fal 
-      <lb ed="#V" n="106"/>sum.
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e134">
-      ⁋ 2o falsum dici non est impossibile ergo deus potest per se ipsum 
-      <lb ed="#V" n="107"/>dicere falsum. antecedens est notum. Et consequentia probatur. quia quicquid non 
-      <lb ed="#V" n="108"/>est impossibile fieri deus potest se solo facere. vt patet ex praecedenti quaestione
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e141">
-               <lb ed="#V" n="109"/>Ad oppositum deus non potest facere aliquid 
-      <lb ed="#V" n="110"/>rpaprauum. ergo non potest dicere falsum. 
-      <lb ed="#V" n="111"/>Antecedens est notum. consequentia probatur per illud prophiosophe. Sidelis deus in omnibus 
-      <lb ed="#V" n="112"/>verbis suis: et sanctus in omnibus operibus suis. vbi sic dicit eum 
-      <lb ed="#V" n="113"/>sanctum in opere suo ita fidelem in verb 
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e155">
-               <lb ed="#V" n="114"/>Hic primo praemissis quibusdam distinctionibus ponam aliquas 
-      <lb ed="#V" n="115"/>conclusiones. 2o obiiciam et soluam obiectiones.
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e162">
-               <lb ed="#V" n="116"/>Quantum ad primum sciendum: quod dicere sumitur dupliciter. 
-      <lb ed="#V" n="117"/>Nam vno modo idem est quod dictum proferre vel for 
-      <lb ed="#V" n="118"/>mare. Alio modo idem est quod per dictum aliquid significare. et ista distin 
-      <lb ed="#V" n="119"/>gui abinuicem. patet. Nam et oratio sic a dicente profertur: quod non 
-      signi<lb ed="#V" n="120" break="no"/>ficatur: et significatum orationis sic a dicente significatur quod non 
-      pro<lb ed="#V" n="121" break="no"/>fertur. et hoc modo rectius et magis proprie sumitur dicere siut 
-      <lb ed="#V" n="122"/>potest haberi ex intentione Aug. in libro contra mendacium. circa 
-      <lb ed="#V" n="123"/>medium. vbi ait: quod que significantur vtique ipsa dicuntur. Et secundu 
-      <lb ed="#V" n="124"/>hoc dicere falsum dupliciter sumitur. Uno modo idem est quod proferre seu 
-      <lb ed="#V" n="125"/>formare dictum vel enunciationem secundum se falsam.
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e186">
-      ⁋ Alio modo 
-      <lb ed="#V" n="126"/>idem est: quod per enunciationem vel dictum significare falsum: 
-      acci<lb ed="#V" n="127" break="no"/>piendo falsum pro falso enunciabili seu significabili. iuxta 
-      <lb ed="#V" n="128"/>intellectum in praecedentibus datum frequenter. Et distinctio 
-      <lb ed="#V" n="129"/>patet. Nam contingit aliquem dicere falsum vno modo et non alio modo. 
-      <lb ed="#V" n="130"/>sicut patet in locutione yronica. et est tropicis ac aliis figura¬ 
-      <!--285.xml-->
-      <pb ed="#V" n="148-v"/>
-               <cb ed="#V" n="a"/>
-               <lb ed="#V" n="1"/>tis. in quibus est ipse enunciationes quae proferuntur. secundum se false 
-      <lb ed="#V" n="2"/>sunt: et tamen que per ea significantur sunt vera. et ideo proprie loquen 
-      <lb ed="#V" n="3"/>do et recte. non tunc dicuntur falsa sed vera: sicut prolixe vbi su 
-      <lb ed="#V" n="4"/>pra Aug. declarat. Unde ait: quod in talibus vera non falsa 
-      dicun<lb ed="#V" n="5" break="no"/>tur. quoniam vera non falsa significantur. et paulo ante ait: quod non 
-      <lb ed="#V" n="6"/>est mendacium quando ad intelligentiam veritatis aliud ex aliqu 
-      <lb ed="#V" n="7"/>significantia referuntur.
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e221">
-      ⁋ Ex hoc patet: quod nullus recte et 
-      pro<lb ed="#V" n="8" break="no"/>prie dicitur dicere falsum. nisi intendat per suum dictum signi 
-      <lb ed="#V" n="9"/>ficare id quod est falsum. et hoc etiam sufficit. estiam si non intendat 
-      <lb ed="#V" n="10"/>significare falsum. Si questio intelligatur de dicere primo modo: 
-      <lb ed="#V" n="11"/>dicendum vtique est quod deus potest dicere falsum. quod patet: quia fre 
-      <lb ed="#V" n="12"/>quenter sic dicit falsum. Unde gene. 3o ait yronice de adam 
-      <lb ed="#V" n="13"/>cum peccasset. ecce adam factus est quasi vnus ex nobis: quod 
-      <lb ed="#V" n="14"/>dictum secundum se et propriam significationem falsum fuit. et per consequens 
-      <lb ed="#V" n="15"/>falsum deus protulit et falsum dixit illo modo: Uerum quia per illud 
-      <lb ed="#V" n="16"/>non intendebat significare vel enunciare adam factum esse sicut 
-      <lb ed="#V" n="17"/>deum: quod tamen illud dictum in sua propria significatione signifi 
-      <lb ed="#V" n="18"/>cat: sed intendebat significare oppositum: quod vtique verum erat: 
-      <lb ed="#V" n="19"/>ideo non falsum 2o modo sed verum dixit. Similiter christus talia dicta 
-      <lb ed="#V" n="20"/>metaforica frequenter et secundum se falsa protulit. vt in euangelio patet 
-      <lb ed="#V" n="21"/>quamuis per illa non falsa: sed vera significauit.
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e254">
-      ⁋ Rursus. 2o mo  
-      <lb ed="#V" n="22"/>modo dicere falsum contingit dupliciter. vno modo: scilibet assertorie. alio 
-      <lb ed="#V" n="23"/>modo non assertorie. Assertorie quidem quis dicit falsum quando 
-      <lb ed="#V" n="24"/>per suum dictum perfectum et integrum significat falsum. vbi gratia.sisier 
-      <lb ed="#V" n="25"/>quis dicat deus non est. Non assertorie autem quando per suum 
-      di<lb ed="#V" n="26" break="no"/>ctum integrum significat verum: sed per partiale et imperfectum significat 
-      <lb ed="#V" n="27"/>falsum. vbi gratia: sicut psalmista ait. Dixit insipiens in 
-      cor<lb ed="#V" n="28" break="no"/>de suo non est deus. vbi certum est quod praes. non dixit assertorie seu 
-      <lb ed="#V" n="29"/>asseruit falsum. sed verum. quia solum hoc asseruit quod per suum 
-      <lb ed="#V" n="30"/>integrum dictum significauit scilicet quod insipiens dixit 
-      <lb ed="#V" n="31"/>deus non est. et hoc vtique verum fuit. Et nihilominus etiam 
-      <lb ed="#V" n="32"/>ipse idem in parte sui dicti falsum significauit. Idem in locu 
-      <lb ed="#V" n="33"/>tionibus conditionalibus quae sunt vere: et partes sunt false: quas quoi 
-      <lb ed="#V" n="34"/>dicit vtique falsum dicit: non tamen falsa: sed vera asserit. Et si de 
-      <lb ed="#V" n="35"/>tali dicere falsum non assertorie intelligatur: quaestio non haberet du 
-      <lb ed="#V" n="36"/>bium. Nam constat quod taliter frequenter deus dixit falsum. Unde 
-      <lb ed="#V" n="37"/>Io. 7. ait saluator iudeis loquens de patre. Si dixero quia 
-      <lb ed="#V" n="38"/>nescio eum ero similis vobis mendax: in quo totali dicto patet 
-      <lb ed="#V" n="39"/>inclusum esse hoc partiale. nescio eum. quod vtique falsum est. mul 
-      <lb ed="#V" n="40"/>ta alia exempla in veteri et nouo testamento possent adduci. 
-      <lb ed="#V" n="41"/>Non igitur intelligenda est quastio de dicere falsum primo modo: 
-      <lb ed="#V" n="42"/>sed 2o modo: et non qualitercumque secundo modo: sed assertorie. Circa 
-      <lb ed="#V" n="43"/>quod etiam aduertendum quod quis potest assertorie dupliciter dicere 
-      fal<lb ed="#V" n="44" break="no"/>sum. Uno modo praecise. Alio modo intendens quod ille cui dicit fal 
-      <lb ed="#V" n="45"/>sum assentiat ei quod dicit: et secundum hoc duplex sensus haberi 
-      <lb ed="#V" n="46"/>potest de quaestione. Unus vtrum deus posset alicui dicere falsum: 
-      <lb ed="#V" n="47"/>itendens quod ille assentiret suo dicto. Alius vtrum absolute pos 
-      <lb ed="#V" n="48"/>set dicere falsum et secundum vtrumque sensum pono conclusionem negatiuam 
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e315">
-               <lb ed="#V" n="49"/>⁋ Est ergo prima conclusio. quod deus (in sensu dato de dicere 
-      <lb ed="#V" n="50"/>falsum) non potest alicui dicere falsum intendens et volens quod 
-      <lb ed="#V" n="51"/>ille assentiret suo dicto. hanc probo primo sic. si deus tali 
-      <lb ed="#V" n="52"/>intentione posset alicui dicere secultum: deus posset mentiri. hoc patet 
-      <lb ed="#V" n="53"/>ex diffinitione mendacii communiter concessa: qua dicitur vt 
-      <lb ed="#V" n="54"/>ait Augustinus in libro contra mendacium. quod est 
-      significati<lb ed="#V" n="55" break="no"/>falsa cum voluntate fallendi. quod aliis verbis: sed ea 
-      <lb ed="#V" n="56"/>dem sententia: loquendo de mendacio vocali potest secun 
-      <lb ed="#V" n="57"/>dum eundem in libro de mendacio vocali diffiniri: quod est 
-      <lb ed="#V" n="58"/>enunciatio falsum enunciare volentis vt fallat. Et ideo 
-      <lb ed="#V" n="59"/>vt ait: nemo dubitat mentiri eum qui volens falsum enum 
-      <lb ed="#V" n="60"/>ciat causa fallendi: qua propter enunciationem falsam cum 
-      volun<lb ed="#V" n="61" break="no"/>tate ad fallendum prolatam manium est esse mendacium. hec ipse. 
-      <lb ed="#V" n="62"/>hec omnia sunt in proposito. quia non est aliud aliquem fallere. qua 
-      <lb ed="#V" n="63"/>facere vt assentiat falso. sic enim ille fallitur et errat. Sed  
-      <lb ed="#V" n="64"/>falsitas consequentis patet. tum expressa auctoritate apostoli dicentis in 
-      <lb ed="#V" n="65"/>epistola ad hebre. Impossibile est mentiri deum. Tum 
-      <!--285.xml-->
-      <cb ed="#V" n="b"/> 
-               <!-- 148-v b -->
-               <lb ed="#V" n="66"/>auctoritate. Aug. in libro de symbolo sermone primo. iuxta principium:. 
-      <lb ed="#V" n="67"/>vbi super illo articulo. Credo in deum patrem oimpotentem. ait sic. 
-      <lb ed="#V" n="68"/>Deus omimpotens est: cum sit oimpotens. mori non potest: falli non 
-      <lb ed="#V" n="69"/>potest: mentiri non potest. Et quod ait apostolus seipsum negare non 
-      <lb ed="#V" n="70"/>potest: quam multa non potest et oipotens est: et ideo oimpotens est. quia ista 
-      <lb ed="#V" n="71"/>non potest. sNam si mori posset: oimpotens non esset. si mentiri si 
-      <lb ed="#V" n="72"/>falli: si fallere: si inique agere non esset omimpotens. quia si hoc in 
-      <lb ed="#V" n="73"/>ipso esset non esset dignus quod esset oimpotens. hec Aug.
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e379">
-      ⁋ Item. 
-      <lb ed="#V" n="74"/>2 2. de. ci. dei loquens de philosophis negantibus resurrectionem 
-      <lb ed="#V" n="75"/>esse possibilem ait. <quote xml:id="grvnZZ-ed1e94-Qd1e385" source="http://scta.info/resource/adcd-l22-d1e3795" synch="247-296">Cum de omnipotentia dei qua tot et tanta facit 
-        <lb ed="#V" n="76"/>mirabilia iam multa dixerimus: si volunt inuenire quod omnipotens 
-        <lb ed="#V" n="77"/>non potest: habent prorsus. Ego dicam mentiri non potest. Cre. 
-        <lb ed="#V" n="78"/>damus ergo quod potest: non credendo quod non potest. non itaque 
-        cre<lb ed="#V" n="79" break="no"/>dentes quod mentiri possit facturum credant esse quod se facturum 
-        <lb ed="#V" n="80"/>esse promisit</quote>. Ecce secundum Aug. quod deus secundum omnipotentiam suam: qua 
-      <lb ed="#V" n="81"/>facit magna mirabilia. et per consequens per potentiam suam 
-      abso<lb ed="#V" n="82" break="no"/>lutam non potest mentiri. Tum 3o ratione. quia sequitur quod deus 
-      <lb ed="#V" n="83"/>posset peccare seu vitiose agere. aut praue quod 
-      blasphe<lb ed="#V" n="84" break="no"/>mum est dicere. Consequentia patet: quia omne mendacium peccatum 
-      <lb ed="#V" n="85"/>est. secundum Aug. in enchi. et in libro de mendacio in fine dicit:  
-      <lb ed="#V" n="86"/>quod quisquis esse aliquod genus mendacii quod peccatum non sit pu 
-      <lb ed="#V" n="87"/>tauit: deciperet seipsum.
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e414">
-      ⁋ Ad hanc rationem video dupliciter 
-      <lb ed="#V" n="88"/>responderi secundum dicta quorumdam doctorum modernorum. Et 
-      pri<lb ed="#V" n="89" break="no"/>mo quidem negando consequentiam.
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e421">
-      ⁋ Et ad probationem dicendum: quod 
-      il<lb ed="#V" n="90" break="no"/>la diffinitio mendacii quod est falsa significatio cum intentio 
-      <lb ed="#V" n="91"/>ne fallendi. debet intelligi de intentione de ordinata fal 
-      <lb ed="#V" n="92"/>lendi qualis in deo esse non potest. nec quod talis esse in deo 
-      pos<lb ed="#V" n="93" break="no"/>set probatur: sed solum quod intentio fallendi.
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e432">
-      ⁋ 2o potest dici: quod 
-      ac<lb ed="#V" n="94" break="no"/>cipiendo sic mendacium: videlibet pro falsa significatione fal 
-      <lb ed="#V" n="95"/>lendi sine pluri. consequens non est falsum loquendo de dei potentia abso 
-      <lb ed="#V" n="96"/>luta. sed de ordinata tantum. et sic intelligende dicerentur omnes au 
-      <lb ed="#V" n="97"/>ctoritates apostoli et Aug.
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e443">
-      ⁋ Ad rationem vero cum dicitur quod de 
-      <lb ed="#V" n="98"/>posset tunc peccare. quia omne mendacium est peccatum. dicitur 
-      <lb ed="#V" n="99"/>quod hoc est verum si fiat sine auctoritate divina: quale nunc de 
-      <lb ed="#V" n="100"/>facto est omne mendacium: cum nulli concedatur posse impu 
-      <lb ed="#V" n="101"/>ne mentiri.
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e454">
-      ⁋ Si tamen alicui preciperetur vel 
-      concede<lb ed="#V" n="102" break="no"/>retur auctoritate diuina mentiri sicut dicunt esse 
-      possi<lb ed="#V" n="103" break="no"/>bile de dei potentia absoluta. illud nullatenus esset 
-      pec<lb ed="#V" n="104" break="no"/>catum.
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e464">
-      ⁋ Ex quo etiam sequitur: quod si deus per seipsum 
-      <lb ed="#V" n="105"/>alicui diceret falsum cum intentione fallendi: ac per hoc 
-      <lb ed="#V" n="106"/>mentiretur sic sumpto mendacio non peccaret.
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e471">
-      ⁋ Iste 
-      <lb ed="#V" n="107"/>responsiones non sufficiunt. non quidem prima. quia 
-      il<lb ed="#V" n="108" break="no"/>la glosa nullatenus consona est intentioni apostoli neque 
-      <lb ed="#V" n="109"/>Aug. Et de Aug. quidem patet. Nam ipse in libro de me 
-      <lb ed="#V" n="110"/>dacio vbi predictam asserit diffinitionem principaliter 
-      <lb ed="#V" n="111"/>pertractat hanc questionem. Utrum liceat aliquando 
-      <lb ed="#V" n="112"/>mentiri. Ad cuius discussionem dicit primo. 
-      viden<lb ed="#V" n="113" break="no"/>dum esse quis vere dicatur mentiri: seu quid sit 
-      menda<lb ed="#V" n="114" break="no"/>cium. Et tunc ex communi concessione sumit 
-      diffinitio<lb ed="#V" n="115" break="no"/>nem illam premissam exprimentem quid nominis 
-      men<lb ed="#V" n="116" break="no"/>dacii. Et deinde statim procedit ad inquirendum quid  
-      <lb ed="#V" n="117"/>principaliter queritur.
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e497">
-      ⁋ Constat autem: quod si in diffini 
-      <lb ed="#V" n="118"/>tione quid nominis mendacii. que communiter presup 
-      <lb ed="#V" n="119"/>ponitur disputationibus. poneretur vel 
-      subintelligere<lb ed="#V" n="120" break="no"/>tur deordinata intentio fallendi: superflua et 
-      inconueni<lb ed="#V" n="121" break="no"/>ens esset vlterior inuestigatio: qua inquireretur vtrum 
-      li<lb ed="#V" n="122" break="no"/>citum esset aliquando mentiri. Nam cum deordinatam 
-      <lb ed="#V" n="123"/>intentionem constet numquam licitam esse ex ipsa sui dif 
-      <lb ed="#V" n="124"/>finitione que presupponitur: patet nunquam licere mentiri. 
-      <lb ed="#V" n="125"/>nec de hoc questio remaneret.
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e517">
-      ⁋ Idem patet de aposto 
-      <lb ed="#V" n="126"/>lo si attendatur intentio eius. volens enim ostendere 
-      fi<lb ed="#V" n="127" break="no"/>delibus quod debeant habere certam spem salutis future: 
-      <lb ed="#V" n="128"/>dicit hoc deum abrahe (inter posito iureiurando) 
-      pro<lb ed="#V" n="129" break="no"/>misisse vt per duas res immobiles scilicet promissionem 
-      <lb ed="#V" n="130"/>et iuramentum in quibus impossibile est mentiri deum. 
-      <!--286.xml-->
-      <pb ed="#V" n="149-r"/>
-               <cb ed="#V" n="a"/>
-               <lb ed="#V" n="1"/>fortissimum solatium habeamus etc. quasi sic arguat 
-      apo<lb ed="#V" n="2" break="no"/>stolus. Si deus non esset facturus quod iurauit: deus iurando fuis 
-      <lb ed="#V" n="3"/>set mentitus: quod est impossibile: aut ergo apostolus accipit mentiri in proposito 
-      <lb ed="#V" n="4"/>pro iurare falsum cum intentione fallendi sine pluri et habetur propositum: 
-      <lb ed="#V" n="5"/>aut cum intentione deordinata fallendi: et tunc sua probatio nulla 
-      <lb ed="#V" n="6"/>est: non enim sequitur: si deus non est facturus quod iurauit: aut (quod 
-      tan<lb ed="#V" n="7" break="no"/>tundem valet) si deus falsum iurauit. ergo iurauit falsum cum 
-      deor<lb ed="#V" n="8" break="no"/>dinata intentione. Nam posset dici: et haberent isti dicere: quod possibile 
-      <lb ed="#V" n="9"/>esset ipsum iurasse falsum cum ordinata intentione fallendi. Et 
-      cer<lb ed="#V" n="10" break="no"/>te sic male certificarentur fideles de promisso divino: et multo 
-      <lb ed="#V" n="11"/>minus: quam si solummodo cum deordinata intentione posset falsum 
-      iura<lb ed="#V" n="12" break="no"/>re: quoniam satis credendum esset quod non vellet deordinatam 
-      intentio<lb ed="#V" n="13" break="no"/>nem habere: sic multi iurarent aliquando falsum: si recta voluntate 
-      il<lb ed="#V" n="14" break="no"/>lud possent: qui tamen non faciunt: quia non nisi deordinata voluntate 
-      <lb ed="#V" n="15"/>et culpabili possunt.
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e569">
-      ⁋ Patet igitur quod tam apostolus quam Aug. omnem 
-      fal<lb ed="#V" n="16" break="no"/>sam significationem cum voluntate fallendi absolute vocanti 
-      <lb ed="#V" n="17"/>mendacium: ideo quod plus est: et confirmat propositum Aug. vbi supra 
-      <lb ed="#V" n="18"/>dicit esse dubium. Utrum omne mendacium sit cum intentione fallendi: 
-      <lb ed="#V" n="19"/>propterea quia videri posset: quod omnis falsa significatio cum voluntate 
-      <lb ed="#V" n="20"/>falsum enunciandi (esto quod non sit cum voluntate fallendi) sit men 
-      <lb ed="#V" n="21"/>dacium: quamuis nulli dubium sit: omnem falsam significationem cum 
-      vo<lb ed="#V" n="22" break="no"/>luntate fallendi esse mendacium: patet igitur quod consequentia ista bona est.
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e587">
-      ⁋ 2a 
-      <lb ed="#V" n="23"/>quoque responsio etiam non valet. Nam quod conceditur esse impossibile deo 
-      menti<lb ed="#V" n="24" break="no"/>ri de ordinata potentia tantum: non autem de absoluta repugnat expresse 
-      <lb ed="#V" n="25"/>intentioni Aug. in praeallegata auctoritate: quod patet ex tribus. 
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e597">
-               <lb ed="#V" n="26"/>⁋ Primo: quia omnipotentia dei non attenditur secundum potentiam ordina 
-      <lb ed="#V" n="27"/>tam quae nunc est: quoniam secundum talem non omnia potest: sed secundum absolutam. Cum 
-      <lb ed="#V" n="28"/>igitur ab omnipotentia Aug. excludat posse mentiri: sequitur quod hoc 
-      <lb ed="#V" n="29"/>etiam excludit ab absoluta potentia eius.
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e608">
-      ⁋ 2o quia vniformiter 
-      <lb ed="#V" n="30"/>etiam Aug. negat deum posse mentiri: et ipsum posse mori et 
-      fal<lb ed="#V" n="31" break="no"/>li. Et constat quod nec de potentia absoluta deus potest illa. ergo nec 
-      men<lb ed="#V" n="32" break="no"/>tiri.
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e617">
-      ⁋ 3o idem patet. ex ratione qua ibidem probat deum non posse 
-      ali<lb ed="#V" n="33" break="no"/>quod illorum. ait enim si mori posset: si mentiri: si falli: si fallere pos 
-      <lb ed="#V" n="34"/>set: non esset omnipotens. Et probat: quia si hoc inquit in eo esset: non 
-      <lb ed="#V" n="35"/>fuisset dignus qui esset omnipotens. Si Aug. in auctoritatibus istis 
-      <lb ed="#V" n="36"/>loquitur de posse absoluto habetur propositum. Si non absoluto sed  
-      <lb ed="#V" n="37"/>de compossibili ordinationi divine: quod dicitur posse secundum potentiam 
-      or<lb ed="#V" n="38" break="no"/>dinatam: quaero an deus absolute posset ordinare se mentiturum 
-      ali<lb ed="#V" n="39" break="no"/>quando: vel non: si non: ergo nec absolute potest mentiri: quod est propositum. 
-      <lb ed="#V" n="40"/>patet consequentia quia licet non secundum hanc ordinationem deus posset quicquid absolute et 
-      <lb ed="#V" n="41"/>simpliciter potest: nihil tamen absolute potest quin posset ordinare se illud facere: 
-      <lb ed="#V" n="42"/>et per consequens quin posset illud secundum aliquam potentiam ordinatam possibile ad 
-      bo<lb ed="#V" n="43" break="no"/>num intellctum communis dicti de potentia ordinata dei. Si vero dicatur 
-      <lb ed="#V" n="44"/>quod absolute posset ordinare etc. ponatur quod ita ordinet etc. 
-      se<lb ed="#V" n="45" break="no"/>quitur secundum probationem Aug. quod ipse non erit omnipotens: quia tunc non 
-      <lb ed="#V" n="46"/>erit minus verum differe: quod quia potest mentiri: non fuit dignus vt 
-      <lb ed="#V" n="47"/>esset omnipotens: quam nunc hoc vere dicatur: sicut est cuilibet in 
-      prom<lb ed="#V" n="48" break="no"/>ptu. Cum ergo absolute sit impossibile deum non esse omnipotentem: 
-      sequi<lb ed="#V" n="49" break="no"/>tur quod absolute impossibile est ipsum posse mentiri. Quod vero ad  
-      <lb ed="#V" n="50"/>rationem dicitur quod si quis auctoritate diuina: aut si deus praeciperet 
-      <lb ed="#V" n="51"/>vt mentiretur: non peccaret: expresse est contra Ansel. cur 
-      <lb ed="#V" n="52"/>deus homo. libro primo vbi ait. Quod autem dicitur quia quod vult deus iustum 
-      <lb ed="#V" n="53"/>est: et quod non vult non est iustum non ita intelligendum est: vt si 
-      <lb ed="#V" n="54"/>deus velit quodlibet inconueniens: minus tamen sit: quia ipse vult. 
-      <lb ed="#V" n="55"/>Non enim sequitur: inquit: si deus vult mentiri iustum esse mentiri: 
-      <lb ed="#V" n="56"/>sed potius deum illum non esse. Nam nequaquam potest velle mentiri vo 
-      <lb ed="#V" n="57"/>luntas: nisi in qua corrupta est veritas: immo que deserendo 
-      <lb ed="#V" n="58"/>veritatem corrupta est. Cum igitur dicitur si deus vult mentiri 
-      <lb ed="#V" n="59"/>non est aliud quam si deus est talis natura que velit mentiri: et 
-      iccir<lb ed="#V" n="60" break="no"/>co non sequitur: iustum esse mendacium: nisi ita intelligatur. sicut 
-      <lb ed="#V" n="61"/>cum de duobus impossibilibus dicimus: si hoc est: illud est: quia 
-      <lb ed="#V" n="62"/>nec hoc est: nec illud est: et paulo post concludit: itaque de illis tantum 
-      <lb ed="#V" n="63"/>verum est differe: si deus hoc vult: iustum est: que deum velle non est 
-      in<lb ed="#V" n="64" break="no"/>conueniens. Ex his primo patet: quod illa responsio falsum assumit
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e689">
-      ⁋ 2o  
-      <lb ed="#V" n="65"/>principalis conclusio confirmatur ex eo quod dicit sequi: si deus vult mentiri 
-      <!--286.xml-->
-      <cb ed="#V" n="b"/> 
-               <!-- 149-r b -->
-               <lb ed="#V" n="66"/>deus non est deus: sequitur enim si deus dicit falsum cum 
-      inten<lb ed="#V" n="67" break="no"/>tione fallendi: deus vult mentiri: vt probatum est. ergo si deus sic 
-      <lb ed="#V" n="68"/>dicit falsum deus non est deus: et per consequens si deus potest differe 
-      <lb ed="#V" n="69"/>falsum: deus potest non esse deus. consequens est falsum. ergo et antecedens. 
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e709">
-               <lb ed="#V" n="70"/>⁋ 2o principaliter ad conclusionem arguo sic: si deus posset alicui di 
-      <lb ed="#V" n="71"/>cere falsum: cum intentione vt ille falso dicto suo assentiret:  
-      <lb ed="#V" n="72"/>deus posset falli vel sciens vel nolens alium directe fallere. consequentia 
-      <lb ed="#V" n="73"/>patet: quia vel deus nesciret se differe falsum: et sic putaret se 
-      dice<lb ed="#V" n="74" break="no"/>re verum: et sic falleretur. vel si sciret se dicere falsum: et tamen 
-      <lb ed="#V" n="75"/>vellet sibi falsum dicenti alium assentire: vellet illum fallere: 
-      <lb ed="#V" n="76"/>et sic posset eum scienter et voluntarie fallere: consequens autem falsum est. 
-      <lb ed="#V" n="77"/>patet per auctoritatem praeallegatam Augu. in qua negat tam posse 
-      <lb ed="#V" n="78"/>deum falli quam fallere: quod intelligendum est per se et dire te: per 
-      acci<lb ed="#V" n="79" break="no"/>dens enim et indirecte frequenter deus fefellit: dicendo 
-      quadam<lb ed="#V" n="80" break="no"/>et faciendo: que alii non recte intelligentes: crediderunt 
-      <lb ed="#V" n="81"/>falsum. ipse tamen fallere non intendebat.
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e738">
-      ⁋ Ad hanc dicitur quod deus 
-      <lb ed="#V" n="82"/>non potest de potentia ordinata fallere. De absoluta autem pos 
-      <lb ed="#V" n="83"/>set causando in mente alicuius falsum assensum. Si tamen hoc 
-      <lb ed="#V" n="84"/>ipse faceret illo in quo causaretur nullatenus comprestante 
-      <lb ed="#V" n="85"/>talem assensum: ille non esset ex tali errore damnandus. 
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e750">
-               <lb ed="#V" n="86"/>⁋ Sed ista solutio improbatur ex intentione Augu. sicut:  
-      <lb ed="#V" n="87"/>et solutio precedentis rationis. Utrum autem ille esset damnatus: vel 
-      <lb ed="#V" n="88"/>non: nihil ad propositum: cum ex ipso non arguatur deum non 
-      <lb ed="#V" n="89"/>posse fallere: sed ex eo quod fallere videtur viciosum: et repugnans 
-      <lb ed="#V" n="90"/>est dignitati diuine. Unde Aug. in allegata auctoritate 
-      <lb ed="#V" n="91"/>dicit quod si hoc deus posset non esset dignus: vt esset omnipotens. 
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e766">
-               <lb ed="#V" n="92"/>⁋ Contra hoc etiam est eiusdem intentio libro 4o contra crestom 
-      <lb ed="#V" n="93"/>circa medium: vbi ait: nec ideo fieri potest: vt christus det 
-      <lb ed="#V" n="94"/>scismatico non fidem: sed sacrilegum errorem etc.
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e775">
-      ⁋ 3o sic: et 
-      <lb ed="#V" n="95"/>si deus posset dicere falsum etc. sequeretur quod deus posset 
-      pro<lb ed="#V" n="96" break="no"/>mittere se aliquid facturum: quod ipse non esset facturus: 
-      <lb ed="#V" n="97"/>et per consequens vlterius sequitur. quod posset negare seipsum. 
-      con<lb ed="#V" n="98" break="no"/>tra apostolum dicentem 2a ad Thy. quod ipse fidelis permanet: et 
-      <lb ed="#V" n="99"/>negare seipsum non potest. Prima consequentia patet: quia qua ratione 
-      pos<lb ed="#V" n="100" break="no"/>set vnum falsum sic dicere: eadem ratione et quodlibet. et secunda 
-      pro<lb ed="#V" n="101" break="no"/>batur per glosam super illo verbo allegatam que ait: 
-      nega<lb ed="#V" n="102" break="no"/>re seipsum non potest quod faceret: si dicta sua non 
-      imple<lb ed="#V" n="103" break="no"/>ret.
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e797">
-      ⁋ hic etiam respondetur. quod dictum apostoli 
-      intel<lb ed="#V" n="104" break="no"/>ligendum est de potentia dei ordinata: non etiam de 
-      ab<lb ed="#V" n="105" break="no"/>soluta: sed hec intentio refellitur ex intentione Aug. vbi  
-      <lb ed="#V" n="106"/>supra: vbi etiam allegat hoc dictum apostoli: sicut et 
-      solu<lb ed="#V" n="107" break="no"/>tiones precedentium rationum. Ista conclusio etiam 
-      pro<lb ed="#V" n="108" break="no"/>batur ex probationibus conclusionis sequentis.
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e810">
-      ⁋ 2a 
-      con<lb ed="#V" n="109" break="no"/>clusio. quod absolute deus non potest dicere falsum. hanc probo 
-      <lb ed="#V" n="110"/>primo sic. Si deus posset differe falsum in sensu supra dato: 
-      <lb ed="#V" n="111"/>deus posset non esse deus. consequens est falsum: et consequentia 
-      proba<lb ed="#V" n="112" break="no"/>tur ex dicto <ref xml:id="grvnZZ-ed1e94-Rd1e820">Aug. 5o confessionum</ref>. vbi sententialiter dicit. quod 
-      <lb ed="#V" n="113"/>apertissime et longe a quolibet abiicienda erat dementia 
-      ma<lb ed="#V" n="114" break="no"/>nichei: qui cum in libris suis plura scripserit falsa: dicebat 
-      <lb ed="#V" n="115"/>tamen se esse spiritum sanctum: sicut christus secundum veritatem est filius 
-      <lb ed="#V" n="116"/>dei: sicut ibi aliqualiter dicit Aug. Et expressius contra epistolam 
-      <lb ed="#V" n="117"/>fundamenti: hoc autem verum non esset: nisi sequeretur ipsum non esse 
-      <lb ed="#V" n="118"/>spiritum sanctum ex eo quod scripsit et docuit falsum. Similiter etiam 
-      <lb ed="#V" n="119"/>sequitur: deus dixit vel docuit falsum: ergo deus non est deus: et 
-      <lb ed="#V" n="120"/>per consequens etiam sequitur. quod si posset dicere falsum: quod posset non 
-      <lb ed="#V" n="121"/>esse deus. Et huic consequentie etiam similis est 
-      consequen<lb ed="#V" n="122" break="no"/>tia Ansel. supra posita. valet. quod si deus vellet mentiri deus 
-      <lb ed="#V" n="123"/>non esset deus. Nec valet differe: quod ideo dictum Aug. est verum: quia ipse 
-      di<lb ed="#V" n="124" break="no"/>xit falsum putans esse verum: ideo errabat. Ex quo optime conuincebatur 
-      <lb ed="#V" n="125"/>ipsum non esse spiritum sanctum in quo error non potest esse: deus autem quamuis 
-      <lb ed="#V" n="126"/>posset differe falsum: non tamen potest putare illud esse verum. 
-      <lb ed="#V" n="127"/>Et ideo non potest ex errore: sed voluntate: et intentione 
-      <lb ed="#V" n="128"/>tamen aliqua recta falsum dicere. Non valet inquam: quia 
-      <lb ed="#V" n="129"/>simpliciter vnus manicheorum potuisset dicere augustinum 
-      <lb ed="#V" n="130"/>dici de manicheo: et sic dictum eius nihil valeret.
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e863">
-      ⁋ 2o  
-      <!--287.xml-->
-      <pb ed="#V" n="149-v"/>
-               <cb ed="#V" n="a"/>
-               <lb ed="#V" n="1"/>sic. si deus posset dicere falsum: quilibet fidelis potest licite 
-      <lb ed="#V" n="2"/>credere seu existimare deum posse dicere falsum: hoc patet: quia sicut 
-      <lb ed="#V" n="3"/>fides catholica nulli veritati aduersatur sic nulli prohibet 
-      <lb ed="#V" n="4"/>aduersari. probatur est quo ad hominem: quia certum est quod illi qui opi 
-      <lb ed="#V" n="5"/>nantur deum posse dicere falsum: dicerent se hoc licite posse 
-      opi<lb ed="#V" n="6" break="no"/>nari: et eadem ratione haberent concedere: quod quilibet alius fidelis hoc 
-      <lb ed="#V" n="7"/>idem licite posset. Si autem quilibet fidelis posset licite credere 
-      <lb ed="#V" n="8"/>vel opinari deum posse deere falsum. sequitur quod quodlibet dictum diut 
-      <lb ed="#V" n="9"/>num non expertum: nec per se notum: vel ex notis sibi manifestum 
-      <lb ed="#V" n="10"/>quilibet fidelis rationabiliter et licite posset habere suspectum. et de quolibe 
-      <lb ed="#V" n="11"/>huiusmodi dubitare: et per consequens de quolibet vel multis articulis fidei et 
-      <lb ed="#V" n="12"/>contentis in sacra scriptura. Sed hoc est falsum: et contra Aug. dicentem 
-      <lb ed="#V" n="13"/>8o de tri. quod in his quae pertinent ad fidem catholicam: non licem dicere 
-      for<lb ed="#V" n="14" break="no"/>te: quod dubium importat: vnde ait: salua fide licet dicere forte vergo 
-      <lb ed="#V" n="15"/>Maria talem faciem habuit: forte non talem: forte autem de vergine 
-      <lb ed="#V" n="16"/>natus est christus nemo salua fide christiana dixerit. Unde in lib. de 
-      <lb ed="#V" n="17"/>fi. ad pete per totum firmissime inquit tene et nullatenus 
-      dubi<lb ed="#V" n="18" break="no"/>tes etc. Sed consequentia probo primo ex dicto eiusdem in libro de men 
-      <lb ed="#V" n="19"/>dacio: qui contra eos qui dicebant aliquando esse mentiendum ait: quod secundum hoc 
-      <lb ed="#V" n="20"/>omnis auctoritas doctrine intercipitur et perit: quo enim credendi 
-      <lb ed="#V" n="21"/>inquit est ei qui putat aliquando esse metiendum: ne forte et tunc 
-      men<lb ed="#V" n="22" break="no"/>tiat: cum praecipit vt credamus. Unde enim sciri potest: vtrum et tunc 
-      <lb ed="#V" n="23"/>habeat aliquam causam: sicut ipse putat officiosi mendacii: et postea 
-      <lb ed="#V" n="24"/>concludit quod stultum est credere eis quos credimus aliquando 
-      men<lb ed="#V" n="25" break="no"/>tiri. Idem autem iudicium quantum ad hoc est de eo qui potest dicere falsum: 
-      <lb ed="#V" n="26"/>sicut patet: nec valet si dicatur: quod Aug. loquitur de eo qui de facto 
-      <lb ed="#V" n="27"/>aliquando mentitus est vel actu mentitur: non autem de eo qui potest 
-      menti<lb ed="#V" n="28" break="no"/>ri: vel falsum dicere: numquam tamen dixit qualis est deus: quia si deus potest 
-      di<lb ed="#V" n="29" break="no"/>cere falsum ponatur in esse: quod vnum immo multa dicat: qui nobis 
-      <lb ed="#V" n="30"/>tunc vel postea constent esse falsa: et tunc sequitur. quod omnia eius alia 
-      di<lb ed="#V" n="31" break="no"/>cta non euidenter vera merito sint de falsitate suspecta: et 
-      pro<lb ed="#V" n="32" break="no"/>cedit argumentum. 2o probatur consequentia ratione: quia si de aliquo dicto 
-      <lb ed="#V" n="33"/>dei non euidenti aliquo modorum praemissorum non liceret 
-      dubi<lb ed="#V" n="34" break="no"/>tare: aut hoc esset praecise: quia a deo dictum est: aut quia non solum dictum est: 
-      <lb ed="#V" n="35"/>sed quia vltra hoc dictum est a deo illud esse verum vel credendum: aut 
-      <lb ed="#V" n="36"/>etiam praeceptum vt credatur indubitanter: neutrum potest dici: quia stante 
-      <lb ed="#V" n="37"/>ypotesi quod deus posset dicere falsum: deus potest dicere dicta contradicto 
-      <lb ed="#V" n="38"/>ria: et cum hoc dicere quodlibet illorum esse verum: et iubere vtrumque illo 
-      <lb ed="#V" n="39"/>rum indubitanter esse credendum. Nam qua ratione posset vnum falsum 
-      <lb ed="#V" n="40"/>dicere: et quodlibet aliud posset: et sic in casu homo teneretur 
-      assen<lb ed="#V" n="41" break="no"/>tire duobus contradictoriis scitis esse contradictoriis: ac per hoc tene 
-      <lb ed="#V" n="42"/>retur ad impossibile: quod non videtur esse concedendum.
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e964">
-      ⁋ Confirmatur. quia si deus 
-      <lb ed="#V" n="43"/>posset dicere falsum: potuit est per prophetas et apostolos et 
-      aucto<lb ed="#V" n="44" break="no"/>res ecclesie: et adhuc potest per maiores ecclesie: ad quos 
-      spe<lb ed="#V" n="45" break="no"/>ctat determinare quae spectant ad fidem: dicere falsum. et per consequens licitum 
-      <lb ed="#V" n="46"/>poterit esse cuilibet dubitare de omni determinatione ecclesie: et 
-      <lb ed="#V" n="47"/>dicto scripture: immo certe satis verisimiliter consequens est quod quilibet sciens 
-      <lb ed="#V" n="48"/>aliquod eiusmodi esse falsum: de ceteris dubitabit. Unde Aug 
-      <lb ed="#V" n="49"/>ad hieron. in epsla. Si ad sacras scripturas admissa fue 
-      <lb ed="#V" n="50"/>rint velut officiosa mendacia: quid in eis remanebit auctori 
-      <lb ed="#V" n="51"/>tatis: quae certa de scripturis illis sententia proferetur: cuius 
-      ponde<lb ed="#V" n="52" break="no"/>re contentiose falsitatis obteratur improbitas: quasi diceret 
-      nul<lb ed="#V" n="53" break="no"/>la. Et eodem modo si inter dei dicta vel ecclesie aliqua falsa 
-      <lb ed="#V" n="54"/>admissa fuerunt: nihil penitus remanebit auctoritatis. Et 
-      <lb ed="#V" n="55"/>certe quando nulla alia ratio moueret: hec sola deberet quemlibet 
-      <lb ed="#V" n="56"/>fidelem mouere ad tenendum deum non posse falsum assere. 
-      <lb ed="#V" n="57"/>re.
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e999">
-      ⁋ 3o si deus posset dicere falsum: et falsum iurare: et falsum 
-      <lb ed="#V" n="58"/>promittere: et per consequens est posset periurare: et fallere: et seipum ne 
-      <lb ed="#V" n="59"/>gare: quae omnia sunt plena blasphemie: et contra scripturam sacram: vt 
-      <lb ed="#V" n="60"/>patet in praecedenti quaestione: et consequentia est satis euidens ex dictis. quare etc. 
-      <lb ed="#V" n="61"/>unc 2o obiiciendum est contra dicta. Et primo potest argui deum po 
-      <lb ed="#V" n="62"/>se dicere falsum. Nam de facto videtur falsa dixisse per 
-      <lb ed="#V" n="63"/>prophetas suos: sicut patet in Iona. cum praecepit Ione vt 
-      praedica<lb ed="#V" n="64" break="no"/>ret in niniue. Adhuc. 4o. dies et niniue subuertetur: sicut aut 
-      <lb ed="#V" n="65"/>praecepit prophete hoc dicere: ita ipse per seipum dixisse potuisset 
-      <!--287.xml-->
-      <cb ed="#V" n="b"/> 
-               <!-- 149-v b -->
-               <lb ed="#V" n="66"/>et tamen illud fuit falsum: quia illis penitentiam agentibus misertus est super 
-      <lb ed="#V" n="67"/>malicia: quam locutus fuerat vt faceret: et non fec: vt ibi scri 
-      <lb ed="#V" n="68"/>bitur: idem patet de ysa. qui ex ore dei dixit erechie. Dispone domui capi. 3. 
-      <lb ed="#V" n="69"/>tue: quia morieris tu: et non viues: et tamen ad fletum Eechie 
-      addi<lb ed="#V" n="70" break="no"/>ti sunt sibi anni. 15. vite. Ex quo videtur quod illud dictum dei ad prophe 
-      <lb ed="#V" n="71"/>tam vel per prophetam ad Exechiam fuit sibet.
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e1038">
-      ⁋ 2o arguit quidam 
-      do<lb ed="#V" n="72" break="no"/>ctor supra memoratus: quod non solum deus posset dicere falsum: sed etiam hibenicus 
-      <lb ed="#V" n="73"/>alium per se directe fallere e decipere: quia omnem rem quam deus potest 
-      fa<lb ed="#V" n="74" break="no"/>cere mediante causa secunda: potest immediate per seipem. hoc patet: per 
-      articu<lb ed="#V" n="75" break="no"/>lum omimpotentie et communem concessionem theologorum: sed dictum falsum 
-      at<lb ed="#V" n="76" break="no"/>que error et deceptio sunt quaedam res: quas potest deus mediante causa secunda 
-      <lb ed="#V" n="77"/>causare. ergo hoc potest per seipum: sed causare errorem est decipere. ergo etc. minor patet. 
-      <lb ed="#V" n="78"/>Nam de facto deus frequenter legitur hoc fecisse: sicut patet de filiis istt 
-      <lb ed="#V" n="79"/>qui iubente domino petierunt ab egyptiis vasa argentea: quasi 
-      <lb ed="#V" n="80"/>reddituri: cum tamen reddituri non essent: in quo et falsum dicebant 
-      <lb ed="#V" n="81"/>et egyptios decipiebant.
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e1062">
-      ⁋ Item 3o regum. legitur dixisse domindum. quis cau. vltim: 
-      <lb ed="#V" n="82"/>decipiet achab et egressus est spiritus mendax in ore omnium 
-      pro<lb ed="#V" n="83" break="no"/>phetarum eius: et dominus dixit decipies et praeualebis egredere et 
-      <lb ed="#V" n="84"/>fac ita: vbi patet: quod dominus praecepit deceptionem illam et mendacium: et 
-      <lb ed="#V" n="85"/>illo spum mediante et prophetia fecit.
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e1073">
-      ⁋ Ad hoc et possent addum 
-      <lb ed="#V" n="86"/>ci multi passus scripture in quibus legit tam in praeliis quam in aliis do 
-      <lb ed="#V" n="87"/>cuisse et iussisse fieri quaedam ad deceptionem inimicorum. hoc in q. 5 
-      <lb ed="#V" n="88"/>super confirmatur auctoritate Aug. 83 q. vbi ait. quod <quote xml:id="grvnZZ-ed1e94-Qd1e1081" source="http://scta.info/resource/a83-q53-d1e108" synch="236=251">sicut summa et 
-        <lb ed="#V" n="89"/>proprie divina virtus est neminem decipere: sic vltimum vicium est 
-        <lb ed="#V" n="90"/>quemlibet decipere</quote>: et inter hoc dicit esse gradus. Et finaliter concludit quod 
-      <lb ed="#V" n="91"/>multo purgatior est summeque illi virtuti propinquior: qui quamquam 
-      ve<lb ed="#V" n="92" break="no"/>lit hostem decipere: nondum tamen decipit: nisi auctoritate diuina: et 
-      <lb ed="#V" n="93"/>postea dicit quod eos qui digni sunt decipi deus non per seipsum decipit:  
-      <lb ed="#V" n="94"/>sed neque per angelum: cui non conuenit persona fallacie: sed aut per 
-      ta<lb ed="#V" n="95" break="no"/>lem hominem qui nondum huiusmodi cupiditatibus se exuit: aut per talem 
-      an<lb ed="#V" n="96" break="no"/>gelum qui pro sue voluntatis peruersitate: vel ad vindictam perfectorum: 
-      <lb ed="#V" n="97"/>vel ad exercitationem purgationemque eorum qui secundum deum 
-      renascun<lb ed="#V" n="98" break="no"/>tur in infinitis naturae gradibus ordinatus est. Legimus enim 
-      dece<lb ed="#V" n="99" break="no"/>ptum regem falso vaticinio pseudo prophetarum: et ita legimus: 
-      <lb ed="#V" n="100"/>vt neque sine divino iudicio factum esse inueniamus.
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e1111">
-      ⁋ Item infra 
-      <lb ed="#V" n="101"/>de deceptione egrptiorum facit mentionem di. Quapropter cum 
-      egr<lb ed="#V" n="102" break="no"/>ptii deceptione digni essent: et populus israel pro illa etate 
-      ge<lb ed="#V" n="103" break="no"/>neris humani in tali adhuc gradu morum constitutus esset: vt 
-      <lb ed="#V" n="104"/>non indigne hostem deciperet: factum est vt iuberet deus: vel potius 
-      pro<lb ed="#V" n="105" break="no"/>illorum cupiditate permitteret: vt vasa aurea et argentea: quibus 
-      <lb ed="#V" n="106"/>adhuc terreni regni appetitiones inhyabant: et peterent ali 
-      <lb ed="#V" n="107"/>egyptiis non reddituri: et acciperent quasi illud reddituri. Et 
-      <lb ed="#V" n="108"/>in fine concludit. non ergo mirum si hostem deceptione dignum iussi 
-      <lb ed="#V" n="109"/>sunt decipere: qui erant adhuc digni hostem decipere. non enim iam 
-      <lb ed="#V" n="110"/>erant ydonei vel quibus diceretur: diligite inimicos vestros: 
-      <lb ed="#V" n="111"/>sed tales erant: quibus tantum dicere oportebat: diliges proximum 
-      <lb ed="#V" n="112"/>tuum et oderis inimicum tuum. Ex his patet: quod deus aliquando medi 
-      <lb ed="#V" n="113"/>antibus his quibus congruit tale misterium: decepit qui 
-      deceptio<lb ed="#V" n="114" break="no"/>ne sunt digni. Unde primo dicit quod ille est virtuti diuine 
-      pro<lb ed="#V" n="115" break="no"/>pinquior: qui non decipit: nisi auctoritate diuia. Ex quo 
-      se<lb ed="#V" n="116" break="no"/>quitur quod aliquis decipit aliquando auctoritate diuina. 
-      <lb ed="#V" n="117"/>quatem de achab dicit: quod non fuit sine iudicio diuino 
-      dece<lb ed="#V" n="118" break="no"/>ptus: et de filiis israel quod egrptios decipere iussi sunt.
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e1154">
-      ⁋ 3o potest 
-      <lb ed="#V" n="119"/>argui. quod deus et falsum dicere et mentiri et fallere potest sic. possibile 
-      <lb ed="#V" n="120"/>est deum dixisse falsum et fefellisse et mentitum fuisse. ergo 
-      possibi<lb ed="#V" n="121" break="no"/>le est deum falsum dicere et fallere et mentiri: consequentia est nota: quia omne 
-      <lb ed="#V" n="122"/>quod est verum de praeterito: aliquando fuit verum de praesenti: vt patet 
-      <lb ed="#V" n="123"/>ex primo ethi. et per consequens omne quod possibile est esse verum de praeterito pos 
-      <lb ed="#V" n="124"/>sibile fuit esse verum de praesenti. Si autem fuit possibile de praesenti deum dicere 
-      <lb ed="#V" n="125"/>falsum etc. ita possibile est et nunc: sed antecedens probatur. Nam possibile est: quod 
-      <lb ed="#V" n="126"/>deus alicui reuelet aliquod futurum contingens: et velit illum assentire 
-      <lb ed="#V" n="127"/>reuelato: quin immo et causet in eo assesum vel iudicium: quo ille 
-      <lb ed="#V" n="128"/>iudicet sic esse futurum: sicut reuelatum est sibi: quo facto: et iam 
-      <lb ed="#V" n="129"/>in praeteritum lapso: necessarium est deum dixisse sibi illud futurum: 
-      <lb ed="#V" n="130"/>et voluisse eum assentire: nec non et causasse in illo homoi assensum. 
-      <!--288.xml-->
-      <pb ed="#V" n="150-r"/>
-               <cb ed="#V" n="a"/>
-            </p>
-            <p xml:id="grvnZZ-ed1e94-d1e1189">
-               <lb ed="#V" n="1"/>⁋ Item istis non obstantibus cum deus propter nullam reuelationem 
-      <lb ed="#V" n="2"/>quecumque absolutam: et sine conditione de aliquo futuro fiendo factam: 
-      <lb ed="#V" n="3"/>necessitetur ad faciendum illud futurum: possibile est illud non fore: et per 
-      <lb ed="#V" n="4"/>consequens hac existente necessaria: deus dixit hoc. vbi gratia. a. fore et voluit 
-      <lb ed="#V" n="5"/>illum sic credere futurum: et in ipso causauit assesum huiusmodi: et ille sic cre 
-      <lb ed="#V" n="6"/>didit: hoc est possibilis: et per consequens primo compossibilis a. non erit. Nunc autem sequitur: 
-      <lb ed="#V" n="7"/>deus dixit alicui. verbi gratia petro a. fore: et voluit petrum credere 
-      <lb ed="#V" n="8"/>a. fore. ac in ipso causauit huiusmodi fidem vel assensum: et petrus sic 
-      cre<lb ed="#V" n="9" break="no"/>didit: et a. non erit ergo petro dixit deus falsum: et illi mentitus est:  
-      <lb ed="#V" n="10"/>ac eum fefellit: et antecedens est possibile: quia omnes eius partes sunt possibiles et 
-      compos<lb ed="#V" n="11" break="no"/>sibiles: vt declaratum est. ergo et consequens est possibile: et per consequens possibile est deum 
-      <lb ed="#V" n="12"/>dixisse falsum etc. quod fuit antecedens prime consequentie.
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e1218">
-      ⁋ Ad primum. 
-      <lb ed="#V" n="13"/>nego deum falsum dixisse per prophetas accipiendo dicere in sensu 
-      su<lb ed="#V" n="14" break="no"/>pra posito.
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e1225">
-      ⁋ Ad primam probationem de Iona. dico quod vel ipsa 
-      <lb ed="#V" n="15"/>fuit comminatoria vel conditionalis: licet conditione non expressa: sed tamen 
-      <lb ed="#V" n="16"/>a deo subitellecta. valet. si niniuite non peniterent: sicut quaedam glo 
-      <lb ed="#V" n="17"/>se dicunt: et textus sequens innuit quao ait Ionas. numquid non hoc est 
-      <lb ed="#V" n="18"/>verbum meum cum adhuc essem in terra mea: propter hoc praoccupaui 
-      <lb ed="#V" n="19"/>vt fugerem in tharsis. Scio enim quia tum dominus clemens etc. quasi 
-      di<lb ed="#V" n="20" break="no"/>sciebam quod si peniterent ignosceres: et per consequens potius comminaba 
-      <lb ed="#V" n="21"/>tur si non peniterent: quam excidium absolute praedicens: et tunc patet: 
-      <lb ed="#V" n="22"/>quod deus non dixit falsum vel fuit absolute pronuciatum. Et adhuc 
-      <lb ed="#V" n="23"/>dico quod deus non dixit falsum: quia non per illa verba falsum: sed verum 
-      si<lb ed="#V" n="24" break="no"/>generauit scilicet futuram subuersionem morum malorum in ipsis 
-      niniui<lb ed="#V" n="25" break="no"/>tis qua vtique secuta fuit.
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e1251">
-      ⁋ Et hoc solutio habentur ex glosa 
-      ex<lb ed="#V" n="26" break="no"/>presse ibidem: et sumpta est ab <ref xml:id="grvnZZ-ed1e94-Rd1e1255">Aug. 2i. de ci. dei.</ref> qui ait. <quote xml:id="grvnZZ-ed1e94-Qd1e1258" source="http://scta.info/resource/adcd-l21-d1e3616" synch="137-185">Niniue 
-        <lb ed="#V" n="27"/>subuersa est: quae mala erat et bona edificata: quae non erat: 
-        stanti<lb ed="#V" n="28" break="no"/>bus menibus et domibus euersa est ciuitas in perditis moribus:  
-        <lb ed="#V" n="29"/>et quamuis propheta fuerit contristatus: quia non sit factum quod illi ti 
-        <lb ed="#V" n="30"/>muerunt Iona prophetante futurum: factum est tamen quod fuerat deo 
-        <lb ed="#V" n="31"/>praesciente per se dictum</quote>: et eandem sententiam ponit <ref xml:id="grvnZZ-ed1e94-Rd1e1271">Aug. supra. illud praes. ois.</ref> In 
-      <lb ed="#V" n="32"/>certa et occulta sapientiae tue manifestasti mihi Ad illud de 
-      <lb ed="#V" n="33"/>Eechia vno modo potest dici: quod etiam fuit comminatio: sicut est vna 
-      glo<lb ed="#V" n="34" break="no"/>sa dicit ibi. et si sic. patet: quod deus non falsum dixit. Alio modo quod fuit 
-      <lb ed="#V" n="35"/>absoluta praenunciatio et ad intellectum loquentis vera: quoniam deus per illa 
-      <lb ed="#V" n="36"/>verba non intendebat significare quod illo tempore eechias moreretur: sed 
-      <lb ed="#V" n="37"/>quod illo tempore mori merebatur: quod vtique verum erat: et hoc est quod 
-      <lb ed="#V" n="38"/>dicit Grego. 12. moralis. Per prophetam inquit deus dicit quo tempore 
-      <lb ed="#V" n="39"/>praee mori merebatur: per largitate vero misericordiae illo eum tempore ad  
-      <lb ed="#V" n="40"/>mortem distulit quo ante secula ipse praesciuit: nec propheta ergo 
-      <lb ed="#V" n="41"/>fallax: quia tempus mortis innotuit quo vir ille mori merebat: 
-      <lb ed="#V" n="42"/>nec dominica statuta conuulsa sunt: quia vt ex largitate dei anni 
-      <lb ed="#V" n="43"/>vite crescerent: hoc quoque ante secula praefixum fuit. Unde secundum hoc 
-      <lb ed="#V" n="44"/>sensus illius prophetie. morieris et non viues est id est mori et non vt 
-      <lb ed="#V" n="45"/>uere mereris: patet ergo quod per neutrum deus falsum dixit: quia per neutrum 
-      <lb ed="#V" n="46"/>falsum: sed verum significauit.
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e1308">
-      ⁋ Ad 2m dico primo: quod ex forma non 
-      co<lb ed="#V" n="47" break="no"/>cluditur nisi quod errorem deus potest per seipem causare: sed ex hoc non sequitur 
-      <lb ed="#V" n="48"/>quod potest fallere vel decipere: et hoc ideo: quia et non sequitur quod deus posset 
-      <lb ed="#V" n="49"/>causare errorem: sicut non sequitur meritum potest deus per seipum facere: 
-      <lb ed="#V" n="50"/>ergo potest per seipum mereri. Nec etiam sequitur. potest per seipm facere meritum 
-      <lb ed="#V" n="51"/>et intelligo per seipem id est se solo: sicut intelligitur in proposito: et est eadem 
-      <lb ed="#V" n="52"/>ratio vtrobique: quoniam sicut illa res quae est vel potest esse meritum: potest etiam esse non 
-      <lb ed="#V" n="53"/>meritum: quia illa sic facta non esset meritum: sic illa res quae est vel 
-      <lb ed="#V" n="54"/>otest esse error: potest esse non error: et etiam non iudicium: et ideo non sequitur: quod 
-      <lb ed="#V" n="55"/>si illam faceret quod faceret errorem. 2o quia difficultas quam 
-      im<lb ed="#V" n="56" break="no"/>tendit doctor: posset in alia forma poni scilicet arguendo sic. Deus 
-      <lb ed="#V" n="57"/>otest mediantibus causis secundis causare deceptionem. ergo potest per seipem: 
-      <lb ed="#V" n="58"/>ua consequentia accepto antecedente proprie et stricte: vt scilicet tunc deus dicatur agere 
-      <lb ed="#V" n="59"/>mediante alio: quando non solum alio agente ipse agit: vel coagit: sed 
-      <lb ed="#V" n="60"/>quando ipse in tali actione principaliter aliud vero instrumentaliter agit: ad  
-      <lb ed="#V" n="61"/>quem sensum est probationes adducte videntur tendere: videretur 
-      sa<lb ed="#V" n="62" break="no"/>tis apparens: ideo nego assumptum. Et ad primam probationem de 
-      egy<lb ed="#V" n="63" break="no"/>ptiis. dico quod si textus attendatur diligenter non habter quod deus 
-      dire<lb ed="#V" n="64" break="no"/>cte deciperet mediantibus israelitis egyptios: nec decipere 
-      vo<lb ed="#V" n="65" break="no"/>luerit: nec quod aliquid iusserit ad quod per se et directe deceptio 
-      <!--288.xml-->
-      <cb ed="#V" n="b"/> 
-               <!-- 150-r b -->
-               <lb ed="#V" n="66"/>sequi debeat. Sic enim scribitur in exo. dixisse dominundum moysi. dices 
-      <lb ed="#V" n="67"/>omni plebi: vt postulet vir ab amico suo et mulier a vicina 
-      <lb ed="#V" n="68"/>sua: vasa aurea et argentea: dabit aut dominus gratiam populo suo 
-      <lb ed="#V" n="69"/>coram egyptiis. Constat autem quod deus istud potuit praecipere: et po 
-      <lb ed="#V" n="70"/>pulus exequi sine omni simulatione mutui et cuiuscumque fictione 
-      <lb ed="#V" n="71"/>mendacii: et deus absolute ipsis petentibus potuit facere: vt 
-      <lb ed="#V" n="72"/>egyptii postulata praeberent. Si autem popuius simulauit aut 
-      <lb ed="#V" n="73"/>expressit se mutuo: et quasi redditurus petere: et egyptii 
-      dece<lb ed="#V" n="74" break="no"/>pti se recepturos praestita putauerunt: hoc deus e misit: non 
-      <lb ed="#V" n="75"/>iussit.
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e1381">
-      ⁋ Ad illud etiam de achab: dico quod deus illam deceptionem 
-      <lb ed="#V" n="76"/>non imperauit: sed permisit: et illud verbum egredere et fac. non fuit 
-      <lb ed="#V" n="77"/>ad intentionem dei imperatiuum: sed praenunciatiuum tantum modo: sic illud  
-      <lb ed="#V" n="78"/>dohio 2o soluite templum hoc: et aliud eiusdem: cum ait iude. quod 
-      fa<lb ed="#V" n="79" break="no"/>cis fac citius: vtrobique enim sed glosas et sanctos non 
-      imperati<lb ed="#V" n="80" break="no"/>ue: sed praenunciatiue locutus est. Unde in proposito est egredere et 
-      <lb ed="#V" n="81"/>fac id est egredieris et facies: sicut ante dixerat decipies et 
-      praeuale<lb ed="#V" n="82" break="no"/>bis. Non mediocriter autem miror hunc doctum virum ad 
-      proba<lb ed="#V" n="83" break="no"/>tionem sui dicti illas Aug. auctoritates afferre. Tum quia 
-      <lb ed="#V" n="84"/>Aug. ibi manifeste detestatur quod iste probare intendit. vnde ait. 
-      <lb ed="#V" n="85"/>non itaque deus deceptor est: quod credere nepharium et impium quis 
-      <lb ed="#V" n="86"/>non intelligat: Constat aut quod si deus posset per se decipere vt 
-      <lb ed="#V" n="87"/>iste vult: nepharium non esset: neque impium credere quod hoc aliquando 
-      <lb ed="#V" n="88"/>fieret. Si enim poneretur in esse: tunc licitum esset credere quod 
-      deci<lb ed="#V" n="89" break="no"/>peret. Supra etiam dixit quod summa et proprie diuina virtus est 
-      nemi<lb ed="#V" n="90" break="no"/>nem decipere. ergo si aliquando deus quemquam deciperet: non summam et propriam 
-      <lb ed="#V" n="91"/>virtutem seruaret: quod credere esse possibile: impium est omnino a nepha 
-      <lb ed="#V" n="92"/>rium. Tum quia Aug. ibidem exponit se. et textu cum ait: factum est vt 
-      <lb ed="#V" n="93"/>iuberet deus vel potius pro illorum cupiditate permitteret vt pe 
-      <lb ed="#V" n="94"/>terent non reddituri: et acciperent quasi reddituri. Ex quo patet: quod 
-      si<lb ed="#V" n="95" break="no"/>mulationem istorum non iussit: sed permisit: et ex hoc cetera quae indu 
-      <lb ed="#V" n="96"/>cta sunt in arguendo patet esse intelligenda secundum prmissionem: non secundum impei 
-      <lb ed="#V" n="97"/>rium: quod est confirmat quod vltimo allegatum est ex eo. Nam constat 
-      <lb ed="#V" n="98"/>quod numquam est iussum a deo: vt odirent inimicos: sed solum non fuit 
-      <lb ed="#V" n="99"/>expresse prohibitum.
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e1436">
-      ⁋ Ad id quoque quod annectitur scilicet quod 
-      multo<lb ed="#V" n="100" break="no"/>tiens legitur deum et verbis et factis docuisse decipere inimicos 
-      <lb ed="#V" n="101"/>duen quod si talia ad ea ad que significanda vel dicta vel facta re 
-      <lb ed="#V" n="102"/>ferantur: sicut referende sunt omnes actiones et locutiones 
-      figu<lb ed="#V" n="103" break="no"/>rate et prophetice: vt dicit Aug. in lib. contra mendacium: vt non 
-      <lb ed="#V" n="104"/>secundum sonum verborum et primam (quam communiter non recte 
-      intelli<lb ed="#V" n="105" break="no"/>gentes capiunt) significationem intelligantur: non inuenitur in 
-      <lb ed="#V" n="106"/>talibus deceptio vel mendacium: sed veritatis misterium. 
-      <lb ed="#V" n="107"/>Et ideo dicit ibi Augu. quod in figuris quod velut mendacium 
-      di<lb ed="#V" n="108" break="no"/>citur: bene intellectum verum inuenitur. Unde paulopost 
-      <lb ed="#V" n="109"/>ante dicit quod illud quod Iacob fecit monstre auctore: vt patrem 
-      <lb ed="#V" n="110"/>fallere videretur: si diligenter et fideliter attendatur non 
-      <lb ed="#V" n="111"/>est mendacium: sed misterium: et idem dicit de ceteris 
-      <lb ed="#V" n="112"/>actionibus et locutionibus et prophetiis: et subdit 
-      probatio<lb ed="#V" n="113" break="no"/>nem dicens: quod in his vera non falsa dicuntur: quoniam vera non 
-      <lb ed="#V" n="114"/>falsa significantur seu verbo seu facto que: significantur enim 
-      <lb ed="#V" n="115"/>vtique ipsa dicuntur: putantur aut mendacia: quoniam non ea quae vera 
-      si<lb ed="#V" n="116" break="no"/>gnificantur dicta intelliguntur: sed ea quae falsa sunt dicta esse 
-      credun<lb ed="#V" n="117" break="no"/>tur. Et statim hoc diffuse declarat de Iacob qui nec in verbo 
-      <lb ed="#V" n="118"/>nec in facto mentitus fuit: qui per vtrumque scilicet tam factum quam verbum 
-      <lb ed="#V" n="119"/>non falsum: sed verum significauit: quod cui cure est intelligere 
-      le<lb ed="#V" n="120" break="no"/>gat eum ibidem. Si aut ita est de dictis et factis prophetarum qua non 
-      <lb ed="#V" n="121"/>leguntur per eos deo iubente dicta vel facta: multomagis hoc 
-      tenen<lb ed="#V" n="122" break="no"/>dum est in his que deus dici vel fieri legitur precepisse vel 
-      <lb ed="#V" n="123"/>pocuisse alicui: vt alium directe falleret estimemus: quam 
-      <lb ed="#V" n="124"/>uis aliqua fecerit et iusserit: ex quibus aliquos falli permisit. 
-      <lb ed="#V" n="125"/>Unde Aug. in glosa Iosue. vbi legitur quod deus precepit Iosue 
-      <lb ed="#V" n="126"/>ponere insidias contra vabem hay. ait. quaerendum est vtrum omnis 
-      volun<lb ed="#V" n="127" break="no"/>tas fallendi pro mendacio sit putanda: et si ita est. vtrum posset esse 
-      <lb ed="#V" n="128"/>iustum mendacium quo ille fallitur qui est dignus falli. Et si nec 
-      <lb ed="#V" n="129"/>hoc quidem iustum reparitur restat: vt secundum aliquam significationem hoc 
-      <lb ed="#V" n="130"/>quod de insidiis dictum est ad veritatem referatur.
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e1506">
-      ⁋ Ad 3m nego  
-      <!--289.xml-->
-      <pb ed="#V" n="150-v"/>
-               <cb ed="#V" n="a"/>
-               <lb ed="#V" n="1"/>antecedens proptrea quia quamuis quaelibet pars de inesse sit possibilis: non tamen omnes sunit 
-      <lb ed="#V" n="2"/>compossibiles: et cum probatur: quia illa pars de praeterito est necessaria negandum est 
-      <lb ed="#V" n="3"/> 
-               <lb ed="#V" n="4"/>Unde si teneatur quod res praeterita potest per diuinam potentiam non fuit 
-      <lb ed="#V" n="5"/>se: diceretur possibile esse vt deus numquam illud dictum vel illum assensum 
-      <lb ed="#V" n="6"/>causauerit: et per consequens non dixit a. fore. et ille alius est non credidit 
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e1528">
-               <lb ed="#V" n="7"/>⁋ Si hoc vero non teneatur: sicut aliqui antiqui doctores 
-      dixe<lb ed="#V" n="8" break="no"/>runt quod possibile est illud dictum non fuisse significatiuum: aut non 
-      il<lb ed="#V" n="9" break="no"/>lius significati quod est a fore: et similiter assensum alterius non fuisset 
-      <lb ed="#V" n="10"/>assensum seu iudicium de a. fore: sicut etiam dicendum esset quod iudicium: 
-      <lb ed="#V" n="11"/>quo iudico petrum sedentem sedere si conseruaretur in me a deo 
-      <lb ed="#V" n="12"/>postquam petrus surrexit: non esset iudicium quo iudicarem petrum 
-      <lb ed="#V" n="13"/>sedere: vel aliter dici potest. Nam vt supra dictum est ad hoc quod 
-      <lb ed="#V" n="14"/>aliquis dicat aliquid proprie requiritur intensio significandi illud per suu 
-      <lb ed="#V" n="15"/>dictum: cum ergo deus quod voluit possit non voluisse: alias nullus prim 
-      <lb ed="#V" n="16"/>destinatus posset non fuisse praedestinatus: cuius oppositum communiter 
-      te<lb ed="#V" n="17" break="no"/>netur secundum sensum diuisum: possibile est deum numquam voluisse significare per 
-      <lb ed="#V" n="18"/>suum dictum a. fore et per consequens numquam dixisse a. fore. Si vero nu 
-      <lb ed="#V" n="19"/>la praedictarum viarum placeat inueniatur melior alia. Et si inuen 
-      <lb ed="#V" n="20"/>re non possit alia: potius iudico confitendum esse ignorantiam quam 
-      praeci<lb ed="#V" n="21" break="no"/>pitandum se in tam horrendam auribus fidelium sententiam: qualis est si 
-      <lb ed="#V" n="22"/>dicatur deum posse mentiri: aut dicere falsum aut decipere: cum omnis 
-      <lb ed="#V" n="23"/>scriptura catholica canonis et sanctorum clamet oppositum. 
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e1567">
-               <lb ed="#V" n="24"/>⁋ Ad primum argumentum principale cum dicitur quicquid potest creatura deo co 
-      <lb ed="#V" n="25"/>agente etc. supplenda est propositio determinando illud verbum potenst 
-      <lb ed="#V" n="26"/>per aliquem infinitum: et secundum alium et alium qui potest addi est neganda vel 
-      <lb ed="#V" n="27"/>concedenda. Nam constat si dicatur: quicquid post pati creatura vel re 
-      <lb ed="#V" n="28"/>cipere deus potest per seipm nullo alio coagente pati vel recipere: 
-      <lb ed="#V" n="29"/>propositio esset falsa. Et sic de pluribus aliis: nunc ergo in proposito 
-      <lb ed="#V" n="30"/>videtur addi vel conuenienter posse communiter hoc infinitiuum facere: vt 
-      <lb ed="#V" n="31"/>dicatur. quicquid potest creatura deo coagente facere deus per se 
-      nul<lb ed="#V" n="32" break="no"/>lo coagente potest facere: et istam iuxta praemissa in praecedenti quaestione 
-      <lb ed="#V" n="33"/>concedo: et si debito discursu debeat minor sumi sub oportet asst 
-      <lb ed="#V" n="34"/>mere: sed falsum creatura potest etc. et inferri. ergo falsum 
-      <lb ed="#V" n="35"/>potest deus per se facere: quam concedo: nec est contra: vel 
-      <lb ed="#V" n="36"/>potest addi iste infinitiuus dicere: vt dicatur quicquid creatura de 
-      <lb ed="#V" n="37"/>coagente potest dicere etc. et si dicere sumatur 2o scilicet pro significare. 
-      <lb ed="#V" n="38"/>nego maiorem. Nam sicut creatura deo coagente potest odire 
-      <lb ed="#V" n="39"/>deu et peccare: quamuis non deo auctore: patet de dyabolo: et tamen 
-      <lb ed="#V" n="40"/>deus non potest per se deum odire nec peccare: sic in proposito dico 
-      <lb ed="#V" n="41"/>quod creatura deo coagente potest significare et asserere falsum: et tamen 
-      <lb ed="#V" n="42"/>deus non per se potest hoc: sicut nec potest velle significare falsum.
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e1611">
-      ⁋ Et 
-      <lb ed="#V" n="43"/>nota quod aliud est dictu creatura deo coagente aliquid velle 
-      <lb ed="#V" n="44"/>vel facere: et aliud deo auctore: sicut in secundo declarabitur. 
-    </p>
-            <p xml:id="grvnZZ-ed1e94-d1e1619">
-               <lb ed="#V" n="45"/>⁋ Ad 2am nego consequentia. Ad probationem: quia falsum dici est quoddam 
-      <lb ed="#V" n="46"/>complexum et talia fieri: vt dictum est in principio est ipsa fieri vera non 
-      pro<lb ed="#V" n="47" break="no"/>batur per illam assumptam ex praecedenti quaestione: quia ibi de entitatibus 
-      <lb ed="#V" n="48"/>possibilibus dictum est: quod quamlibet deus se solo potest facere. Non autm 
-      <lb ed="#V" n="49"/>dictum est quod quodlibet enunciabile possibile deus se solo posset facere 
-      <lb ed="#V" n="50"/>esse verum: sed vtique quod quodlibet deus potest facere esse verum: et hoc acci 
-      <lb ed="#V" n="51"/>piendo facere communiter vt dictum est ibi: non autem nunc sequitur. deus potest 
-      <lb ed="#V" n="52"/>facere verum esse: quod siultbet dicitur ergo potest deus facere fioctus: sic non sequitur. de 
-      <lb ed="#V" n="53"/>potest facere verum esse aliquem odire deum vel alias peccare. ergo deus 
-      <lb ed="#V" n="54"/>otest odire deum vel peccare. Nam consequens est sfilibet et antecedens verum. Nam de 
-      <lb ed="#V" n="55"/>sinit multos peccare et odire: et per consequens sinit esse verum quod mult 
-      <lb ed="#V" n="56"/>peccant et odiunt deum: um tamen posset prohibere et inhibere et 
-      impe<lb ed="#V" n="57" break="no"/>dire ne peccarent vel odirent: ac per hoc iuxta intellectum 
-      <lb ed="#V" n="58"/>ibi concessum sinit talia esse vera etc. 
-    </p>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2</title>
+        <author ref="#Rimini">Gregory of Rimini</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2</title>
+          <date when="2020-10-03">October 03, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="V" n="cod-ae1bsb">Venice 1503</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-10-03" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#V" n="148-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="grvnZZ-ed1e94"><!-- l1d42-44q2 -->
+        <head xml:id="grvnZZ-ed1e94-Hd1e106">Quaestio 2</head>
+        <head xml:id="grvnZZ-ed1e94-Hd1e109" type="question-title">Utrum Deus possit dicere falsum</head>
+        <p xml:id="grvnZZ-ed1e94-d1e112">
+          <lb ed="#V" n="98"/>⁋ Distinctionis. XLII. XLIII. et XLIIII. Quaestio. II. 
+          <lb ed="#V" n="99"/>SEcundo quero vtrum deus posset 
+          <lb ed="#V" n="100"/>dicere falsum: Et videtur quod sic 
+          <lb ed="#V" n="101"/>primo. quia quicquid potest creatura deo 
+          coagen<lb ed="#V" n="102" break="no"/>ste deus potest per se ipsum nullo alio 
+          coagen<lb ed="#V" n="103" break="no"/>te. hoc patet ex praecedenti quaestione. sed creature 
+          <lb ed="#V" n="104"/>coagente deo potest dicere falsum. ergo deus per 
+          <lb ed="#V" n="105"/>se ipsum nullo coagente posset dicere fal 
+          <lb ed="#V" n="106"/>sum.
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e134">
+          ⁋ 2o falsum dici non est impossibile ergo deus potest per se ipsum 
+          <lb ed="#V" n="107"/>dicere falsum. antecedens est notum. Et consequentia probatur. quia quicquid non 
+          <lb ed="#V" n="108"/>est impossibile fieri deus potest se solo facere. vt patet ex praecedenti quaestione
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e141">
+          <lb ed="#V" n="109"/>Ad oppositum deus non potest facere aliquid 
+          <lb ed="#V" n="110"/>rpaprauum. ergo non potest dicere falsum. 
+          <lb ed="#V" n="111"/>Antecedens est notum. consequentia probatur per illud prophiosophe. Sidelis deus in omnibus 
+          <lb ed="#V" n="112"/>verbis suis: et sanctus in omnibus operibus suis. vbi sic dicit eum 
+          <lb ed="#V" n="113"/>sanctum in opere suo ita fidelem in verb 
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e155">
+          <lb ed="#V" n="114"/>Hic primo praemissis quibusdam distinctionibus ponam aliquas 
+          <lb ed="#V" n="115"/>conclusiones. 2o obiiciam et soluam obiectiones.
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e162">
+          <lb ed="#V" n="116"/>Quantum ad primum sciendum: quod dicere sumitur dupliciter. 
+          <lb ed="#V" n="117"/>Nam vno modo idem est quod dictum proferre vel for 
+          <lb ed="#V" n="118"/>mare. Alio modo idem est quod per dictum aliquid significare. et ista distin 
+          <lb ed="#V" n="119"/>gui abinuicem. patet. Nam et oratio sic a dicente profertur: quod non 
+          signi<lb ed="#V" n="120" break="no"/>ficatur: et significatum orationis sic a dicente significatur quod non 
+          pro<lb ed="#V" n="121" break="no"/>fertur. et hoc modo rectius et magis proprie sumitur dicere siut 
+          <lb ed="#V" n="122"/>potest haberi ex intentione Aug. in libro contra mendacium. circa 
+          <lb ed="#V" n="123"/>medium. vbi ait: quod que significantur vtique ipsa dicuntur. Et secundu 
+          <lb ed="#V" n="124"/>hoc dicere falsum dupliciter sumitur. Uno modo idem est quod proferre seu 
+          <lb ed="#V" n="125"/>formare dictum vel enunciationem secundum se falsam.
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e186">
+          ⁋ Alio modo 
+          <lb ed="#V" n="126"/>idem est: quod per enunciationem vel dictum significare falsum: 
+          acci<lb ed="#V" n="127" break="no"/>piendo falsum pro falso enunciabili seu significabili. iuxta 
+          <lb ed="#V" n="128"/>intellectum in praecedentibus datum frequenter. Et distinctio 
+          <lb ed="#V" n="129"/>patet. Nam contingit aliquem dicere falsum vno modo et non alio modo. 
+          <lb ed="#V" n="130"/>sicut patet in locutione yronica. et est tropicis ac aliis figura¬ 
+          <!--285.xml-->
+          <pb ed="#V" n="148-v"/>
+          <cb ed="#V" n="a"/>
+          <lb ed="#V" n="1"/>tis. in quibus est ipse enunciationes quae proferuntur. secundum se false 
+          <lb ed="#V" n="2"/>sunt: et tamen que per ea significantur sunt vera. et ideo proprie loquen 
+          <lb ed="#V" n="3"/>do et recte. non tunc dicuntur falsa sed vera: sicut prolixe vbi su 
+          <lb ed="#V" n="4"/>pra Aug. declarat. Unde ait: quod in talibus vera non falsa 
+          dicun<lb ed="#V" n="5" break="no"/>tur. quoniam vera non falsa significantur. et paulo ante ait: quod non 
+          <lb ed="#V" n="6"/>est mendacium quando ad intelligentiam veritatis aliud ex aliqu 
+          <lb ed="#V" n="7"/>significantia referuntur.
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e221">
+          ⁋ Ex hoc patet: quod nullus recte et 
+          pro<lb ed="#V" n="8" break="no"/>prie dicitur dicere falsum. nisi intendat per suum dictum signi 
+          <lb ed="#V" n="9"/>ficare id quod est falsum. et hoc etiam sufficit. estiam si non intendat 
+          <lb ed="#V" n="10"/>significare falsum. Si questio intelligatur de dicere primo modo: 
+          <lb ed="#V" n="11"/>dicendum vtique est quod deus potest dicere falsum. quod patet: quia fre 
+          <lb ed="#V" n="12"/>quenter sic dicit falsum. Unde gene. 3o ait yronice de adam 
+          <lb ed="#V" n="13"/>cum peccasset. ecce adam factus est quasi vnus ex nobis: quod 
+          <lb ed="#V" n="14"/>dictum secundum se et propriam significationem falsum fuit. et per consequens 
+          <lb ed="#V" n="15"/>falsum deus protulit et falsum dixit illo modo: Uerum quia per illud 
+          <lb ed="#V" n="16"/>non intendebat significare vel enunciare adam factum esse sicut 
+          <lb ed="#V" n="17"/>deum: quod tamen illud dictum in sua propria significatione signifi 
+          <lb ed="#V" n="18"/>cat: sed intendebat significare oppositum: quod vtique verum erat: 
+          <lb ed="#V" n="19"/>ideo non falsum 2o modo sed verum dixit. Similiter christus talia dicta 
+          <lb ed="#V" n="20"/>metaforica frequenter et secundum se falsa protulit. vt in euangelio patet 
+          <lb ed="#V" n="21"/>quamuis per illa non falsa: sed vera significauit.
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e254">
+          ⁋ Rursus. 2o mo  
+          <lb ed="#V" n="22"/>modo dicere falsum contingit dupliciter. vno modo: scilibet assertorie. alio 
+          <lb ed="#V" n="23"/>modo non assertorie. Assertorie quidem quis dicit falsum quando 
+          <lb ed="#V" n="24"/>per suum dictum perfectum et integrum significat falsum. vbi gratia.sisier 
+          <lb ed="#V" n="25"/>quis dicat deus non est. Non assertorie autem quando per suum 
+          di<lb ed="#V" n="26" break="no"/>ctum integrum significat verum: sed per partiale et imperfectum significat 
+          <lb ed="#V" n="27"/>falsum. vbi gratia: sicut psalmista ait. Dixit insipiens in 
+          cor<lb ed="#V" n="28" break="no"/>de suo non est deus. vbi certum est quod praes. non dixit assertorie seu 
+          <lb ed="#V" n="29"/>asseruit falsum. sed verum. quia solum hoc asseruit quod per suum 
+          <lb ed="#V" n="30"/>integrum dictum significauit scilicet quod insipiens dixit 
+          <lb ed="#V" n="31"/>deus non est. et hoc vtique verum fuit. Et nihilominus etiam 
+          <lb ed="#V" n="32"/>ipse idem in parte sui dicti falsum significauit. Idem in locu 
+          <lb ed="#V" n="33"/>tionibus conditionalibus quae sunt vere: et partes sunt false: quas quoi 
+          <lb ed="#V" n="34"/>dicit vtique falsum dicit: non tamen falsa: sed vera asserit. Et si de 
+          <lb ed="#V" n="35"/>tali dicere falsum non assertorie intelligatur: quaestio non haberet du 
+          <lb ed="#V" n="36"/>bium. Nam constat quod taliter frequenter deus dixit falsum. Unde 
+          <lb ed="#V" n="37"/>Io. 7. ait saluator iudeis loquens de patre. Si dixero quia 
+          <lb ed="#V" n="38"/>nescio eum ero similis vobis mendax: in quo totali dicto patet 
+          <lb ed="#V" n="39"/>inclusum esse hoc partiale. nescio eum. quod vtique falsum est. mul 
+          <lb ed="#V" n="40"/>ta alia exempla in veteri et nouo testamento possent adduci. 
+          <lb ed="#V" n="41"/>Non igitur intelligenda est quastio de dicere falsum primo modo: 
+          <lb ed="#V" n="42"/>sed 2o modo: et non qualitercumque secundo modo: sed assertorie. Circa 
+          <lb ed="#V" n="43"/>quod etiam aduertendum quod quis potest assertorie dupliciter dicere 
+          fal<lb ed="#V" n="44" break="no"/>sum. Uno modo praecise. Alio modo intendens quod ille cui dicit fal 
+          <lb ed="#V" n="45"/>sum assentiat ei quod dicit: et secundum hoc duplex sensus haberi 
+          <lb ed="#V" n="46"/>potest de quaestione. Unus vtrum deus posset alicui dicere falsum: 
+          <lb ed="#V" n="47"/>itendens quod ille assentiret suo dicto. Alius vtrum absolute pos 
+          <lb ed="#V" n="48"/>set dicere falsum et secundum vtrumque sensum pono conclusionem negatiuam 
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e315">
+          <lb ed="#V" n="49"/>⁋ Est ergo prima conclusio. quod deus (in sensu dato de dicere 
+          <lb ed="#V" n="50"/>falsum) non potest alicui dicere falsum intendens et volens quod 
+          <lb ed="#V" n="51"/>ille assentiret suo dicto. hanc probo primo sic. si deus tali 
+          <lb ed="#V" n="52"/>intentione posset alicui dicere secultum: deus posset mentiri. hoc patet 
+          <lb ed="#V" n="53"/>ex diffinitione mendacii communiter concessa: qua dicitur vt 
+          <lb ed="#V" n="54"/>ait Augustinus in libro contra mendacium. quod est 
+          significati<lb ed="#V" n="55" break="no"/>falsa cum voluntate fallendi. quod aliis verbis: sed ea 
+          <lb ed="#V" n="56"/>dem sententia: loquendo de mendacio vocali potest secun 
+          <lb ed="#V" n="57"/>dum eundem in libro de mendacio vocali diffiniri: quod est 
+          <lb ed="#V" n="58"/>enunciatio falsum enunciare volentis vt fallat. Et ideo 
+          <lb ed="#V" n="59"/>vt ait: nemo dubitat mentiri eum qui volens falsum enum 
+          <lb ed="#V" n="60"/>ciat causa fallendi: qua propter enunciationem falsam cum 
+          volun<lb ed="#V" n="61" break="no"/>tate ad fallendum prolatam manium est esse mendacium. hec ipse. 
+          <lb ed="#V" n="62"/>hec omnia sunt in proposito. quia non est aliud aliquem fallere. qua 
+          <lb ed="#V" n="63"/>facere vt assentiat falso. sic enim ille fallitur et errat. Sed  
+          <lb ed="#V" n="64"/>falsitas consequentis patet. tum expressa auctoritate apostoli dicentis in 
+          <lb ed="#V" n="65"/>epistola ad hebre. Impossibile est mentiri deum. Tum 
+          <!--285.xml-->
+          <cb ed="#V" n="b"/> 
+          <!-- 148-v b -->
+          <lb ed="#V" n="66"/>auctoritate. Aug. in libro de symbolo sermone primo. iuxta principium:. 
+          <lb ed="#V" n="67"/>vbi super illo articulo. Credo in deum patrem oimpotentem. ait sic. 
+          <lb ed="#V" n="68"/>Deus omimpotens est: cum sit oimpotens. mori non potest: falli non 
+          <lb ed="#V" n="69"/>potest: mentiri non potest. Et quod ait apostolus seipsum negare non 
+          <lb ed="#V" n="70"/>potest: quam multa non potest et oipotens est: et ideo oimpotens est. quia ista 
+          <lb ed="#V" n="71"/>non potest. sNam si mori posset: oimpotens non esset. si mentiri si 
+          <lb ed="#V" n="72"/>falli: si fallere: si inique agere non esset omimpotens. quia si hoc in 
+          <lb ed="#V" n="73"/>ipso esset non esset dignus quod esset oimpotens. hec Aug.
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e379">
+          ⁋ Item. 
+          <lb ed="#V" n="74"/>2 2. de. ci. dei loquens de philosophis negantibus resurrectionem 
+          <lb ed="#V" n="75"/>esse possibilem ait. <quote xml:id="grvnZZ-ed1e94-Qd1e385" source="http://scta.info/resource/adcd-l22-d1e3795" synch="247-296">Cum de omnipotentia dei qua tot et tanta facit 
+            <lb ed="#V" n="76"/>mirabilia iam multa dixerimus: si volunt inuenire quod omnipotens 
+            <lb ed="#V" n="77"/>non potest: habent prorsus. Ego dicam mentiri non potest. Cre. 
+            <lb ed="#V" n="78"/>damus ergo quod potest: non credendo quod non potest. non itaque 
+            cre<lb ed="#V" n="79" break="no"/>dentes quod mentiri possit facturum credant esse quod se facturum 
+            <lb ed="#V" n="80"/>esse promisit</quote>. Ecce secundum Aug. quod deus secundum omnipotentiam suam: qua 
+          <lb ed="#V" n="81"/>facit magna mirabilia. et per consequens per potentiam suam 
+          abso<lb ed="#V" n="82" break="no"/>lutam non potest mentiri. Tum 3o ratione. quia sequitur quod deus 
+          <lb ed="#V" n="83"/>posset peccare seu vitiose agere. aut praue quod 
+          blasphe<lb ed="#V" n="84" break="no"/>mum est dicere. Consequentia patet: quia omne mendacium peccatum 
+          <lb ed="#V" n="85"/>est. secundum Aug. in enchi. et in libro de mendacio in fine dicit:  
+          <lb ed="#V" n="86"/>quod quisquis esse aliquod genus mendacii quod peccatum non sit pu 
+          <lb ed="#V" n="87"/>tauit: deciperet seipsum.
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e414">
+          ⁋ Ad hanc rationem video dupliciter 
+          <lb ed="#V" n="88"/>responderi secundum dicta quorumdam doctorum modernorum. Et 
+          pri<lb ed="#V" n="89" break="no"/>mo quidem negando consequentiam.
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e421">
+          ⁋ Et ad probationem dicendum: quod 
+          il<lb ed="#V" n="90" break="no"/>la diffinitio mendacii quod est falsa significatio cum intentio 
+          <lb ed="#V" n="91"/>ne fallendi. debet intelligi de intentione de ordinata fal 
+          <lb ed="#V" n="92"/>lendi qualis in deo esse non potest. nec quod talis esse in deo 
+          pos<lb ed="#V" n="93" break="no"/>set probatur: sed solum quod intentio fallendi.
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e432">
+          ⁋ 2o potest dici: quod 
+          ac<lb ed="#V" n="94" break="no"/>cipiendo sic mendacium: videlibet pro falsa significatione fal 
+          <lb ed="#V" n="95"/>lendi sine pluri. consequens non est falsum loquendo de dei potentia abso 
+          <lb ed="#V" n="96"/>luta. sed de ordinata tantum. et sic intelligende dicerentur omnes au 
+          <lb ed="#V" n="97"/>ctoritates apostoli et Aug.
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e443">
+          ⁋ Ad rationem vero cum dicitur quod de 
+          <lb ed="#V" n="98"/>posset tunc peccare. quia omne mendacium est peccatum. dicitur 
+          <lb ed="#V" n="99"/>quod hoc est verum si fiat sine auctoritate divina: quale nunc de 
+          <lb ed="#V" n="100"/>facto est omne mendacium: cum nulli concedatur posse impu 
+          <lb ed="#V" n="101"/>ne mentiri.
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e454">
+          ⁋ Si tamen alicui preciperetur vel 
+          concede<lb ed="#V" n="102" break="no"/>retur auctoritate diuina mentiri sicut dicunt esse 
+          possi<lb ed="#V" n="103" break="no"/>bile de dei potentia absoluta. illud nullatenus esset 
+          pec<lb ed="#V" n="104" break="no"/>catum.
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e464">
+          ⁋ Ex quo etiam sequitur: quod si deus per seipsum 
+          <lb ed="#V" n="105"/>alicui diceret falsum cum intentione fallendi: ac per hoc 
+          <lb ed="#V" n="106"/>mentiretur sic sumpto mendacio non peccaret.
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e471">
+          ⁋ Iste 
+          <lb ed="#V" n="107"/>responsiones non sufficiunt. non quidem prima. quia 
+          il<lb ed="#V" n="108" break="no"/>la glosa nullatenus consona est intentioni apostoli neque 
+          <lb ed="#V" n="109"/>Aug. Et de Aug. quidem patet. Nam ipse in libro de me 
+          <lb ed="#V" n="110"/>dacio vbi predictam asserit diffinitionem principaliter 
+          <lb ed="#V" n="111"/>pertractat hanc questionem. Utrum liceat aliquando 
+          <lb ed="#V" n="112"/>mentiri. Ad cuius discussionem dicit primo. 
+          viden<lb ed="#V" n="113" break="no"/>dum esse quis vere dicatur mentiri: seu quid sit 
+          menda<lb ed="#V" n="114" break="no"/>cium. Et tunc ex communi concessione sumit 
+          diffinitio<lb ed="#V" n="115" break="no"/>nem illam premissam exprimentem quid nominis 
+          men<lb ed="#V" n="116" break="no"/>dacii. Et deinde statim procedit ad inquirendum quid  
+          <lb ed="#V" n="117"/>principaliter queritur.
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e497">
+          ⁋ Constat autem: quod si in diffini 
+          <lb ed="#V" n="118"/>tione quid nominis mendacii. que communiter presup 
+          <lb ed="#V" n="119"/>ponitur disputationibus. poneretur vel 
+          subintelligere<lb ed="#V" n="120" break="no"/>tur deordinata intentio fallendi: superflua et 
+          inconueni<lb ed="#V" n="121" break="no"/>ens esset vlterior inuestigatio: qua inquireretur vtrum 
+          li<lb ed="#V" n="122" break="no"/>citum esset aliquando mentiri. Nam cum deordinatam 
+          <lb ed="#V" n="123"/>intentionem constet numquam licitam esse ex ipsa sui dif 
+          <lb ed="#V" n="124"/>finitione que presupponitur: patet nunquam licere mentiri. 
+          <lb ed="#V" n="125"/>nec de hoc questio remaneret.
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e517">
+          ⁋ Idem patet de aposto 
+          <lb ed="#V" n="126"/>lo si attendatur intentio eius. volens enim ostendere 
+          fi<lb ed="#V" n="127" break="no"/>delibus quod debeant habere certam spem salutis future: 
+          <lb ed="#V" n="128"/>dicit hoc deum abrahe (inter posito iureiurando) 
+          pro<lb ed="#V" n="129" break="no"/>misisse vt per duas res immobiles scilicet promissionem 
+          <lb ed="#V" n="130"/>et iuramentum in quibus impossibile est mentiri deum. 
+          <!--286.xml-->
+          <pb ed="#V" n="149-r"/>
+          <cb ed="#V" n="a"/>
+          <lb ed="#V" n="1"/>fortissimum solatium habeamus etc. quasi sic arguat 
+          apo<lb ed="#V" n="2" break="no"/>stolus. Si deus non esset facturus quod iurauit: deus iurando fuis 
+          <lb ed="#V" n="3"/>set mentitus: quod est impossibile: aut ergo apostolus accipit mentiri in proposito 
+          <lb ed="#V" n="4"/>pro iurare falsum cum intentione fallendi sine pluri et habetur propositum: 
+          <lb ed="#V" n="5"/>aut cum intentione deordinata fallendi: et tunc sua probatio nulla 
+          <lb ed="#V" n="6"/>est: non enim sequitur: si deus non est facturus quod iurauit: aut (quod 
+          tan<lb ed="#V" n="7" break="no"/>tundem valet) si deus falsum iurauit. ergo iurauit falsum cum 
+          deor<lb ed="#V" n="8" break="no"/>dinata intentione. Nam posset dici: et haberent isti dicere: quod possibile 
+          <lb ed="#V" n="9"/>esset ipsum iurasse falsum cum ordinata intentione fallendi. Et 
+          cer<lb ed="#V" n="10" break="no"/>te sic male certificarentur fideles de promisso divino: et multo 
+          <lb ed="#V" n="11"/>minus: quam si solummodo cum deordinata intentione posset falsum 
+          iura<lb ed="#V" n="12" break="no"/>re: quoniam satis credendum esset quod non vellet deordinatam 
+          intentio<lb ed="#V" n="13" break="no"/>nem habere: sic multi iurarent aliquando falsum: si recta voluntate 
+          il<lb ed="#V" n="14" break="no"/>lud possent: qui tamen non faciunt: quia non nisi deordinata voluntate 
+          <lb ed="#V" n="15"/>et culpabili possunt.
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e569">
+          ⁋ Patet igitur quod tam apostolus quam Aug. omnem 
+          fal<lb ed="#V" n="16" break="no"/>sam significationem cum voluntate fallendi absolute vocanti 
+          <lb ed="#V" n="17"/>mendacium: ideo quod plus est: et confirmat propositum Aug. vbi supra 
+          <lb ed="#V" n="18"/>dicit esse dubium. Utrum omne mendacium sit cum intentione fallendi: 
+          <lb ed="#V" n="19"/>propterea quia videri posset: quod omnis falsa significatio cum voluntate 
+          <lb ed="#V" n="20"/>falsum enunciandi (esto quod non sit cum voluntate fallendi) sit men 
+          <lb ed="#V" n="21"/>dacium: quamuis nulli dubium sit: omnem falsam significationem cum 
+          vo<lb ed="#V" n="22" break="no"/>luntate fallendi esse mendacium: patet igitur quod consequentia ista bona est.
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e587">
+          ⁋ 2a 
+          <lb ed="#V" n="23"/>quoque responsio etiam non valet. Nam quod conceditur esse impossibile deo 
+          menti<lb ed="#V" n="24" break="no"/>ri de ordinata potentia tantum: non autem de absoluta repugnat expresse 
+          <lb ed="#V" n="25"/>intentioni Aug. in praeallegata auctoritate: quod patet ex tribus. 
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e597">
+          <lb ed="#V" n="26"/>⁋ Primo: quia omnipotentia dei non attenditur secundum potentiam ordina 
+          <lb ed="#V" n="27"/>tam quae nunc est: quoniam secundum talem non omnia potest: sed secundum absolutam. Cum 
+          <lb ed="#V" n="28"/>igitur ab omnipotentia Aug. excludat posse mentiri: sequitur quod hoc 
+          <lb ed="#V" n="29"/>etiam excludit ab absoluta potentia eius.
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e608">
+          ⁋ 2o quia vniformiter 
+          <lb ed="#V" n="30"/>etiam Aug. negat deum posse mentiri: et ipsum posse mori et 
+          fal<lb ed="#V" n="31" break="no"/>li. Et constat quod nec de potentia absoluta deus potest illa. ergo nec 
+          men<lb ed="#V" n="32" break="no"/>tiri.
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e617">
+          ⁋ 3o idem patet. ex ratione qua ibidem probat deum non posse 
+          ali<lb ed="#V" n="33" break="no"/>quod illorum. ait enim si mori posset: si mentiri: si falli: si fallere pos 
+          <lb ed="#V" n="34"/>set: non esset omnipotens. Et probat: quia si hoc inquit in eo esset: non 
+          <lb ed="#V" n="35"/>fuisset dignus qui esset omnipotens. Si Aug. in auctoritatibus istis 
+          <lb ed="#V" n="36"/>loquitur de posse absoluto habetur propositum. Si non absoluto sed  
+          <lb ed="#V" n="37"/>de compossibili ordinationi divine: quod dicitur posse secundum potentiam 
+          or<lb ed="#V" n="38" break="no"/>dinatam: quaero an deus absolute posset ordinare se mentiturum 
+          ali<lb ed="#V" n="39" break="no"/>quando: vel non: si non: ergo nec absolute potest mentiri: quod est propositum. 
+          <lb ed="#V" n="40"/>patet consequentia quia licet non secundum hanc ordinationem deus posset quicquid absolute et 
+          <lb ed="#V" n="41"/>simpliciter potest: nihil tamen absolute potest quin posset ordinare se illud facere: 
+          <lb ed="#V" n="42"/>et per consequens quin posset illud secundum aliquam potentiam ordinatam possibile ad 
+          bo<lb ed="#V" n="43" break="no"/>num intellctum communis dicti de potentia ordinata dei. Si vero dicatur 
+          <lb ed="#V" n="44"/>quod absolute posset ordinare etc. ponatur quod ita ordinet etc. 
+          se<lb ed="#V" n="45" break="no"/>quitur secundum probationem Aug. quod ipse non erit omnipotens: quia tunc non 
+          <lb ed="#V" n="46"/>erit minus verum differe: quod quia potest mentiri: non fuit dignus vt 
+          <lb ed="#V" n="47"/>esset omnipotens: quam nunc hoc vere dicatur: sicut est cuilibet in 
+          prom<lb ed="#V" n="48" break="no"/>ptu. Cum ergo absolute sit impossibile deum non esse omnipotentem: 
+          sequi<lb ed="#V" n="49" break="no"/>tur quod absolute impossibile est ipsum posse mentiri. Quod vero ad  
+          <lb ed="#V" n="50"/>rationem dicitur quod si quis auctoritate diuina: aut si deus praeciperet 
+          <lb ed="#V" n="51"/>vt mentiretur: non peccaret: expresse est contra Ansel. cur 
+          <lb ed="#V" n="52"/>deus homo. libro primo vbi ait. Quod autem dicitur quia quod vult deus iustum 
+          <lb ed="#V" n="53"/>est: et quod non vult non est iustum non ita intelligendum est: vt si 
+          <lb ed="#V" n="54"/>deus velit quodlibet inconueniens: minus tamen sit: quia ipse vult. 
+          <lb ed="#V" n="55"/>Non enim sequitur: inquit: si deus vult mentiri iustum esse mentiri: 
+          <lb ed="#V" n="56"/>sed potius deum illum non esse. Nam nequaquam potest velle mentiri vo 
+          <lb ed="#V" n="57"/>luntas: nisi in qua corrupta est veritas: immo que deserendo 
+          <lb ed="#V" n="58"/>veritatem corrupta est. Cum igitur dicitur si deus vult mentiri 
+          <lb ed="#V" n="59"/>non est aliud quam si deus est talis natura que velit mentiri: et 
+          iccir<lb ed="#V" n="60" break="no"/>co non sequitur: iustum esse mendacium: nisi ita intelligatur. sicut 
+          <lb ed="#V" n="61"/>cum de duobus impossibilibus dicimus: si hoc est: illud est: quia 
+          <lb ed="#V" n="62"/>nec hoc est: nec illud est: et paulo post concludit: itaque de illis tantum 
+          <lb ed="#V" n="63"/>verum est differe: si deus hoc vult: iustum est: que deum velle non est 
+          in<lb ed="#V" n="64" break="no"/>conueniens. Ex his primo patet: quod illa responsio falsum assumit
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e689">
+          ⁋ 2o  
+          <lb ed="#V" n="65"/>principalis conclusio confirmatur ex eo quod dicit sequi: si deus vult mentiri 
+          <!--286.xml-->
+          <cb ed="#V" n="b"/> 
+          <!-- 149-r b -->
+          <lb ed="#V" n="66"/>deus non est deus: sequitur enim si deus dicit falsum cum 
+          inten<lb ed="#V" n="67" break="no"/>tione fallendi: deus vult mentiri: vt probatum est. ergo si deus sic 
+          <lb ed="#V" n="68"/>dicit falsum deus non est deus: et per consequens si deus potest differe 
+          <lb ed="#V" n="69"/>falsum: deus potest non esse deus. consequens est falsum. ergo et antecedens. 
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e709">
+          <lb ed="#V" n="70"/>⁋ 2o principaliter ad conclusionem arguo sic: si deus posset alicui di 
+          <lb ed="#V" n="71"/>cere falsum: cum intentione vt ille falso dicto suo assentiret:  
+          <lb ed="#V" n="72"/>deus posset falli vel sciens vel nolens alium directe fallere. consequentia 
+          <lb ed="#V" n="73"/>patet: quia vel deus nesciret se differe falsum: et sic putaret se 
+          dice<lb ed="#V" n="74" break="no"/>re verum: et sic falleretur. vel si sciret se dicere falsum: et tamen 
+          <lb ed="#V" n="75"/>vellet sibi falsum dicenti alium assentire: vellet illum fallere: 
+          <lb ed="#V" n="76"/>et sic posset eum scienter et voluntarie fallere: consequens autem falsum est. 
+          <lb ed="#V" n="77"/>patet per auctoritatem praeallegatam Augu. in qua negat tam posse 
+          <lb ed="#V" n="78"/>deum falli quam fallere: quod intelligendum est per se et dire te: per 
+          acci<lb ed="#V" n="79" break="no"/>dens enim et indirecte frequenter deus fefellit: dicendo 
+          quadam<lb ed="#V" n="80" break="no"/>et faciendo: que alii non recte intelligentes: crediderunt 
+          <lb ed="#V" n="81"/>falsum. ipse tamen fallere non intendebat.
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e738">
+          ⁋ Ad hanc dicitur quod deus 
+          <lb ed="#V" n="82"/>non potest de potentia ordinata fallere. De absoluta autem pos 
+          <lb ed="#V" n="83"/>set causando in mente alicuius falsum assensum. Si tamen hoc 
+          <lb ed="#V" n="84"/>ipse faceret illo in quo causaretur nullatenus comprestante 
+          <lb ed="#V" n="85"/>talem assensum: ille non esset ex tali errore damnandus. 
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e750">
+          <lb ed="#V" n="86"/>⁋ Sed ista solutio improbatur ex intentione Augu. sicut:  
+          <lb ed="#V" n="87"/>et solutio precedentis rationis. Utrum autem ille esset damnatus: vel 
+          <lb ed="#V" n="88"/>non: nihil ad propositum: cum ex ipso non arguatur deum non 
+          <lb ed="#V" n="89"/>posse fallere: sed ex eo quod fallere videtur viciosum: et repugnans 
+          <lb ed="#V" n="90"/>est dignitati diuine. Unde Aug. in allegata auctoritate 
+          <lb ed="#V" n="91"/>dicit quod si hoc deus posset non esset dignus: vt esset omnipotens. 
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e766">
+          <lb ed="#V" n="92"/>⁋ Contra hoc etiam est eiusdem intentio libro 4o contra crestom 
+          <lb ed="#V" n="93"/>circa medium: vbi ait: nec ideo fieri potest: vt christus det 
+          <lb ed="#V" n="94"/>scismatico non fidem: sed sacrilegum errorem etc.
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e775">
+          ⁋ 3o sic: et 
+          <lb ed="#V" n="95"/>si deus posset dicere falsum etc. sequeretur quod deus posset 
+          pro<lb ed="#V" n="96" break="no"/>mittere se aliquid facturum: quod ipse non esset facturus: 
+          <lb ed="#V" n="97"/>et per consequens vlterius sequitur. quod posset negare seipsum. 
+          con<lb ed="#V" n="98" break="no"/>tra apostolum dicentem 2a ad Thy. quod ipse fidelis permanet: et 
+          <lb ed="#V" n="99"/>negare seipsum non potest. Prima consequentia patet: quia qua ratione 
+          pos<lb ed="#V" n="100" break="no"/>set vnum falsum sic dicere: eadem ratione et quodlibet. et secunda 
+          pro<lb ed="#V" n="101" break="no"/>batur per glosam super illo verbo allegatam que ait: 
+          nega<lb ed="#V" n="102" break="no"/>re seipsum non potest quod faceret: si dicta sua non 
+          imple<lb ed="#V" n="103" break="no"/>ret.
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e797">
+          ⁋ hic etiam respondetur. quod dictum apostoli 
+          intel<lb ed="#V" n="104" break="no"/>ligendum est de potentia dei ordinata: non etiam de 
+          ab<lb ed="#V" n="105" break="no"/>soluta: sed hec intentio refellitur ex intentione Aug. vbi  
+          <lb ed="#V" n="106"/>supra: vbi etiam allegat hoc dictum apostoli: sicut et 
+          solu<lb ed="#V" n="107" break="no"/>tiones precedentium rationum. Ista conclusio etiam 
+          pro<lb ed="#V" n="108" break="no"/>batur ex probationibus conclusionis sequentis.
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e810">
+          ⁋ 2a 
+          con<lb ed="#V" n="109" break="no"/>clusio. quod absolute deus non potest dicere falsum. hanc probo 
+          <lb ed="#V" n="110"/>primo sic. Si deus posset differe falsum in sensu supra dato: 
+          <lb ed="#V" n="111"/>deus posset non esse deus. consequens est falsum: et consequentia 
+          proba<lb ed="#V" n="112" break="no"/>tur ex dicto <ref xml:id="grvnZZ-ed1e94-Rd1e820">Aug. 5o confessionum</ref>. vbi sententialiter dicit. quod 
+          <lb ed="#V" n="113"/>apertissime et longe a quolibet abiicienda erat dementia 
+          ma<lb ed="#V" n="114" break="no"/>nichei: qui cum in libris suis plura scripserit falsa: dicebat 
+          <lb ed="#V" n="115"/>tamen se esse spiritum sanctum: sicut christus secundum veritatem est filius 
+          <lb ed="#V" n="116"/>dei: sicut ibi aliqualiter dicit Aug. Et expressius contra epistolam 
+          <lb ed="#V" n="117"/>fundamenti: hoc autem verum non esset: nisi sequeretur ipsum non esse 
+          <lb ed="#V" n="118"/>spiritum sanctum ex eo quod scripsit et docuit falsum. Similiter etiam 
+          <lb ed="#V" n="119"/>sequitur: deus dixit vel docuit falsum: ergo deus non est deus: et 
+          <lb ed="#V" n="120"/>per consequens etiam sequitur. quod si posset dicere falsum: quod posset non 
+          <lb ed="#V" n="121"/>esse deus. Et huic consequentie etiam similis est 
+          consequen<lb ed="#V" n="122" break="no"/>tia Ansel. supra posita. valet. quod si deus vellet mentiri deus 
+          <lb ed="#V" n="123"/>non esset deus. Nec valet differe: quod ideo dictum Aug. est verum: quia ipse 
+          di<lb ed="#V" n="124" break="no"/>xit falsum putans esse verum: ideo errabat. Ex quo optime conuincebatur 
+          <lb ed="#V" n="125"/>ipsum non esse spiritum sanctum in quo error non potest esse: deus autem quamuis 
+          <lb ed="#V" n="126"/>posset differe falsum: non tamen potest putare illud esse verum. 
+          <lb ed="#V" n="127"/>Et ideo non potest ex errore: sed voluntate: et intentione 
+          <lb ed="#V" n="128"/>tamen aliqua recta falsum dicere. Non valet inquam: quia 
+          <lb ed="#V" n="129"/>simpliciter vnus manicheorum potuisset dicere augustinum 
+          <lb ed="#V" n="130"/>dici de manicheo: et sic dictum eius nihil valeret.
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e863">
+          ⁋ 2o  
+          <!--287.xml-->
+          <pb ed="#V" n="149-v"/>
+          <cb ed="#V" n="a"/>
+          <lb ed="#V" n="1"/>sic. si deus posset dicere falsum: quilibet fidelis potest licite 
+          <lb ed="#V" n="2"/>credere seu existimare deum posse dicere falsum: hoc patet: quia sicut 
+          <lb ed="#V" n="3"/>fides catholica nulli veritati aduersatur sic nulli prohibet 
+          <lb ed="#V" n="4"/>aduersari. probatur est quo ad hominem: quia certum est quod illi qui opi 
+          <lb ed="#V" n="5"/>nantur deum posse dicere falsum: dicerent se hoc licite posse 
+          opi<lb ed="#V" n="6" break="no"/>nari: et eadem ratione haberent concedere: quod quilibet alius fidelis hoc 
+          <lb ed="#V" n="7"/>idem licite posset. Si autem quilibet fidelis posset licite credere 
+          <lb ed="#V" n="8"/>vel opinari deum posse deere falsum. sequitur quod quodlibet dictum diut 
+          <lb ed="#V" n="9"/>num non expertum: nec per se notum: vel ex notis sibi manifestum 
+          <lb ed="#V" n="10"/>quilibet fidelis rationabiliter et licite posset habere suspectum. et de quolibe 
+          <lb ed="#V" n="11"/>huiusmodi dubitare: et per consequens de quolibet vel multis articulis fidei et 
+          <lb ed="#V" n="12"/>contentis in sacra scriptura. Sed hoc est falsum: et contra Aug. dicentem 
+          <lb ed="#V" n="13"/>8o de tri. quod in his quae pertinent ad fidem catholicam: non licem dicere 
+          for<lb ed="#V" n="14" break="no"/>te: quod dubium importat: vnde ait: salua fide licet dicere forte vergo 
+          <lb ed="#V" n="15"/>Maria talem faciem habuit: forte non talem: forte autem de vergine 
+          <lb ed="#V" n="16"/>natus est christus nemo salua fide christiana dixerit. Unde in lib. de 
+          <lb ed="#V" n="17"/>fi. ad pete per totum firmissime inquit tene et nullatenus 
+          dubi<lb ed="#V" n="18" break="no"/>tes etc. Sed consequentia probo primo ex dicto eiusdem in libro de men 
+          <lb ed="#V" n="19"/>dacio: qui contra eos qui dicebant aliquando esse mentiendum ait: quod secundum hoc 
+          <lb ed="#V" n="20"/>omnis auctoritas doctrine intercipitur et perit: quo enim credendi 
+          <lb ed="#V" n="21"/>inquit est ei qui putat aliquando esse metiendum: ne forte et tunc 
+          men<lb ed="#V" n="22" break="no"/>tiat: cum praecipit vt credamus. Unde enim sciri potest: vtrum et tunc 
+          <lb ed="#V" n="23"/>habeat aliquam causam: sicut ipse putat officiosi mendacii: et postea 
+          <lb ed="#V" n="24"/>concludit quod stultum est credere eis quos credimus aliquando 
+          men<lb ed="#V" n="25" break="no"/>tiri. Idem autem iudicium quantum ad hoc est de eo qui potest dicere falsum: 
+          <lb ed="#V" n="26"/>sicut patet: nec valet si dicatur: quod Aug. loquitur de eo qui de facto 
+          <lb ed="#V" n="27"/>aliquando mentitus est vel actu mentitur: non autem de eo qui potest 
+          menti<lb ed="#V" n="28" break="no"/>ri: vel falsum dicere: numquam tamen dixit qualis est deus: quia si deus potest 
+          di<lb ed="#V" n="29" break="no"/>cere falsum ponatur in esse: quod vnum immo multa dicat: qui nobis 
+          <lb ed="#V" n="30"/>tunc vel postea constent esse falsa: et tunc sequitur. quod omnia eius alia 
+          di<lb ed="#V" n="31" break="no"/>cta non euidenter vera merito sint de falsitate suspecta: et 
+          pro<lb ed="#V" n="32" break="no"/>cedit argumentum. 2o probatur consequentia ratione: quia si de aliquo dicto 
+          <lb ed="#V" n="33"/>dei non euidenti aliquo modorum praemissorum non liceret 
+          dubi<lb ed="#V" n="34" break="no"/>tare: aut hoc esset praecise: quia a deo dictum est: aut quia non solum dictum est: 
+          <lb ed="#V" n="35"/>sed quia vltra hoc dictum est a deo illud esse verum vel credendum: aut 
+          <lb ed="#V" n="36"/>etiam praeceptum vt credatur indubitanter: neutrum potest dici: quia stante 
+          <lb ed="#V" n="37"/>ypotesi quod deus posset dicere falsum: deus potest dicere dicta contradicto 
+          <lb ed="#V" n="38"/>ria: et cum hoc dicere quodlibet illorum esse verum: et iubere vtrumque illo 
+          <lb ed="#V" n="39"/>rum indubitanter esse credendum. Nam qua ratione posset vnum falsum 
+          <lb ed="#V" n="40"/>dicere: et quodlibet aliud posset: et sic in casu homo teneretur 
+          assen<lb ed="#V" n="41" break="no"/>tire duobus contradictoriis scitis esse contradictoriis: ac per hoc tene 
+          <lb ed="#V" n="42"/>retur ad impossibile: quod non videtur esse concedendum.
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e964">
+          ⁋ Confirmatur. quia si deus 
+          <lb ed="#V" n="43"/>posset dicere falsum: potuit est per prophetas et apostolos et 
+          aucto<lb ed="#V" n="44" break="no"/>res ecclesie: et adhuc potest per maiores ecclesie: ad quos 
+          spe<lb ed="#V" n="45" break="no"/>ctat determinare quae spectant ad fidem: dicere falsum. et per consequens licitum 
+          <lb ed="#V" n="46"/>poterit esse cuilibet dubitare de omni determinatione ecclesie: et 
+          <lb ed="#V" n="47"/>dicto scripture: immo certe satis verisimiliter consequens est quod quilibet sciens 
+          <lb ed="#V" n="48"/>aliquod eiusmodi esse falsum: de ceteris dubitabit. Unde Aug 
+          <lb ed="#V" n="49"/>ad hieron. in epsla. Si ad sacras scripturas admissa fue 
+          <lb ed="#V" n="50"/>rint velut officiosa mendacia: quid in eis remanebit auctori 
+          <lb ed="#V" n="51"/>tatis: quae certa de scripturis illis sententia proferetur: cuius 
+          ponde<lb ed="#V" n="52" break="no"/>re contentiose falsitatis obteratur improbitas: quasi diceret 
+          nul<lb ed="#V" n="53" break="no"/>la. Et eodem modo si inter dei dicta vel ecclesie aliqua falsa 
+          <lb ed="#V" n="54"/>admissa fuerunt: nihil penitus remanebit auctoritatis. Et 
+          <lb ed="#V" n="55"/>certe quando nulla alia ratio moueret: hec sola deberet quemlibet 
+          <lb ed="#V" n="56"/>fidelem mouere ad tenendum deum non posse falsum assere. 
+          <lb ed="#V" n="57"/>re.
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e999">
+          ⁋ 3o si deus posset dicere falsum: et falsum iurare: et falsum 
+          <lb ed="#V" n="58"/>promittere: et per consequens est posset periurare: et fallere: et seipum ne 
+          <lb ed="#V" n="59"/>gare: quae omnia sunt plena blasphemie: et contra scripturam sacram: vt 
+          <lb ed="#V" n="60"/>patet in praecedenti quaestione: et consequentia est satis euidens ex dictis. quare etc. 
+          <lb ed="#V" n="61"/>unc 2o obiiciendum est contra dicta. Et primo potest argui deum po 
+          <lb ed="#V" n="62"/>se dicere falsum. Nam de facto videtur falsa dixisse per 
+          <lb ed="#V" n="63"/>prophetas suos: sicut patet in Iona. cum praecepit Ione vt 
+          praedica<lb ed="#V" n="64" break="no"/>ret in niniue. Adhuc. 4o. dies et niniue subuertetur: sicut aut 
+          <lb ed="#V" n="65"/>praecepit prophete hoc dicere: ita ipse per seipum dixisse potuisset 
+          <!--287.xml-->
+          <cb ed="#V" n="b"/> 
+          <!-- 149-v b -->
+          <lb ed="#V" n="66"/>et tamen illud fuit falsum: quia illis penitentiam agentibus misertus est super 
+          <lb ed="#V" n="67"/>malicia: quam locutus fuerat vt faceret: et non fec: vt ibi scri 
+          <lb ed="#V" n="68"/>bitur: idem patet de ysa. qui ex ore dei dixit erechie. Dispone domui capi. 3. 
+          <lb ed="#V" n="69"/>tue: quia morieris tu: et non viues: et tamen ad fletum Eechie 
+          addi<lb ed="#V" n="70" break="no"/>ti sunt sibi anni. 15. vite. Ex quo videtur quod illud dictum dei ad prophe 
+          <lb ed="#V" n="71"/>tam vel per prophetam ad Exechiam fuit sibet.
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e1038">
+          ⁋ 2o arguit quidam 
+          do<lb ed="#V" n="72" break="no"/>ctor supra memoratus: quod non solum deus posset dicere falsum: sed etiam hibenicus 
+          <lb ed="#V" n="73"/>alium per se directe fallere e decipere: quia omnem rem quam deus potest 
+          fa<lb ed="#V" n="74" break="no"/>cere mediante causa secunda: potest immediate per seipem. hoc patet: per 
+          articu<lb ed="#V" n="75" break="no"/>lum omimpotentie et communem concessionem theologorum: sed dictum falsum 
+          at<lb ed="#V" n="76" break="no"/>que error et deceptio sunt quaedam res: quas potest deus mediante causa secunda 
+          <lb ed="#V" n="77"/>causare. ergo hoc potest per seipum: sed causare errorem est decipere. ergo etc. minor patet. 
+          <lb ed="#V" n="78"/>Nam de facto deus frequenter legitur hoc fecisse: sicut patet de filiis istt 
+          <lb ed="#V" n="79"/>qui iubente domino petierunt ab egyptiis vasa argentea: quasi 
+          <lb ed="#V" n="80"/>reddituri: cum tamen reddituri non essent: in quo et falsum dicebant 
+          <lb ed="#V" n="81"/>et egyptios decipiebant.
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e1062">
+          ⁋ Item 3o regum. legitur dixisse domindum. quis cau. vltim: 
+          <lb ed="#V" n="82"/>decipiet achab et egressus est spiritus mendax in ore omnium 
+          pro<lb ed="#V" n="83" break="no"/>phetarum eius: et dominus dixit decipies et praeualebis egredere et 
+          <lb ed="#V" n="84"/>fac ita: vbi patet: quod dominus praecepit deceptionem illam et mendacium: et 
+          <lb ed="#V" n="85"/>illo spum mediante et prophetia fecit.
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e1073">
+          ⁋ Ad hoc et possent addum 
+          <lb ed="#V" n="86"/>ci multi passus scripture in quibus legit tam in praeliis quam in aliis do 
+          <lb ed="#V" n="87"/>cuisse et iussisse fieri quaedam ad deceptionem inimicorum. hoc in q. 5 
+          <lb ed="#V" n="88"/>super confirmatur auctoritate Aug. 83 q. vbi ait. quod <quote xml:id="grvnZZ-ed1e94-Qd1e1081" source="http://scta.info/resource/a83-q53-d1e108" synch="236=251">sicut summa et 
+            <lb ed="#V" n="89"/>proprie divina virtus est neminem decipere: sic vltimum vicium est 
+            <lb ed="#V" n="90"/>quemlibet decipere</quote>: et inter hoc dicit esse gradus. Et finaliter concludit quod 
+          <lb ed="#V" n="91"/>multo purgatior est summeque illi virtuti propinquior: qui quamquam 
+          ve<lb ed="#V" n="92" break="no"/>lit hostem decipere: nondum tamen decipit: nisi auctoritate diuina: et 
+          <lb ed="#V" n="93"/>postea dicit quod eos qui digni sunt decipi deus non per seipsum decipit:  
+          <lb ed="#V" n="94"/>sed neque per angelum: cui non conuenit persona fallacie: sed aut per 
+          ta<lb ed="#V" n="95" break="no"/>lem hominem qui nondum huiusmodi cupiditatibus se exuit: aut per talem 
+          an<lb ed="#V" n="96" break="no"/>gelum qui pro sue voluntatis peruersitate: vel ad vindictam perfectorum: 
+          <lb ed="#V" n="97"/>vel ad exercitationem purgationemque eorum qui secundum deum 
+          renascun<lb ed="#V" n="98" break="no"/>tur in infinitis naturae gradibus ordinatus est. Legimus enim 
+          dece<lb ed="#V" n="99" break="no"/>ptum regem falso vaticinio pseudo prophetarum: et ita legimus: 
+          <lb ed="#V" n="100"/>vt neque sine divino iudicio factum esse inueniamus.
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e1111">
+          ⁋ Item infra 
+          <lb ed="#V" n="101"/>de deceptione egrptiorum facit mentionem di. Quapropter cum 
+          egr<lb ed="#V" n="102" break="no"/>ptii deceptione digni essent: et populus israel pro illa etate 
+          ge<lb ed="#V" n="103" break="no"/>neris humani in tali adhuc gradu morum constitutus esset: vt 
+          <lb ed="#V" n="104"/>non indigne hostem deciperet: factum est vt iuberet deus: vel potius 
+          pro<lb ed="#V" n="105" break="no"/>illorum cupiditate permitteret: vt vasa aurea et argentea: quibus 
+          <lb ed="#V" n="106"/>adhuc terreni regni appetitiones inhyabant: et peterent ali 
+          <lb ed="#V" n="107"/>egyptiis non reddituri: et acciperent quasi illud reddituri. Et 
+          <lb ed="#V" n="108"/>in fine concludit. non ergo mirum si hostem deceptione dignum iussi 
+          <lb ed="#V" n="109"/>sunt decipere: qui erant adhuc digni hostem decipere. non enim iam 
+          <lb ed="#V" n="110"/>erant ydonei vel quibus diceretur: diligite inimicos vestros: 
+          <lb ed="#V" n="111"/>sed tales erant: quibus tantum dicere oportebat: diliges proximum 
+          <lb ed="#V" n="112"/>tuum et oderis inimicum tuum. Ex his patet: quod deus aliquando medi 
+          <lb ed="#V" n="113"/>antibus his quibus congruit tale misterium: decepit qui 
+          deceptio<lb ed="#V" n="114" break="no"/>ne sunt digni. Unde primo dicit quod ille est virtuti diuine 
+          pro<lb ed="#V" n="115" break="no"/>pinquior: qui non decipit: nisi auctoritate diuia. Ex quo 
+          se<lb ed="#V" n="116" break="no"/>quitur quod aliquis decipit aliquando auctoritate diuina. 
+          <lb ed="#V" n="117"/>quatem de achab dicit: quod non fuit sine iudicio diuino 
+          dece<lb ed="#V" n="118" break="no"/>ptus: et de filiis israel quod egrptios decipere iussi sunt.
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e1154">
+          ⁋ 3o potest 
+          <lb ed="#V" n="119"/>argui. quod deus et falsum dicere et mentiri et fallere potest sic. possibile 
+          <lb ed="#V" n="120"/>est deum dixisse falsum et fefellisse et mentitum fuisse. ergo 
+          possibi<lb ed="#V" n="121" break="no"/>le est deum falsum dicere et fallere et mentiri: consequentia est nota: quia omne 
+          <lb ed="#V" n="122"/>quod est verum de praeterito: aliquando fuit verum de praesenti: vt patet 
+          <lb ed="#V" n="123"/>ex primo ethi. et per consequens omne quod possibile est esse verum de praeterito pos 
+          <lb ed="#V" n="124"/>sibile fuit esse verum de praesenti. Si autem fuit possibile de praesenti deum dicere 
+          <lb ed="#V" n="125"/>falsum etc. ita possibile est et nunc: sed antecedens probatur. Nam possibile est: quod 
+          <lb ed="#V" n="126"/>deus alicui reuelet aliquod futurum contingens: et velit illum assentire 
+          <lb ed="#V" n="127"/>reuelato: quin immo et causet in eo assesum vel iudicium: quo ille 
+          <lb ed="#V" n="128"/>iudicet sic esse futurum: sicut reuelatum est sibi: quo facto: et iam 
+          <lb ed="#V" n="129"/>in praeteritum lapso: necessarium est deum dixisse sibi illud futurum: 
+          <lb ed="#V" n="130"/>et voluisse eum assentire: nec non et causasse in illo homoi assensum. 
+          <!--288.xml-->
+          <pb ed="#V" n="150-r"/>
+          <cb ed="#V" n="a"/>
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e1189">
+          <lb ed="#V" n="1"/>⁋ Item istis non obstantibus cum deus propter nullam reuelationem 
+          <lb ed="#V" n="2"/>quecumque absolutam: et sine conditione de aliquo futuro fiendo factam: 
+          <lb ed="#V" n="3"/>necessitetur ad faciendum illud futurum: possibile est illud non fore: et per 
+          <lb ed="#V" n="4"/>consequens hac existente necessaria: deus dixit hoc. vbi gratia. a. fore et voluit 
+          <lb ed="#V" n="5"/>illum sic credere futurum: et in ipso causauit assesum huiusmodi: et ille sic cre 
+          <lb ed="#V" n="6"/>didit: hoc est possibilis: et per consequens primo compossibilis a. non erit. Nunc autem sequitur: 
+          <lb ed="#V" n="7"/>deus dixit alicui. verbi gratia petro a. fore: et voluit petrum credere 
+          <lb ed="#V" n="8"/>a. fore. ac in ipso causauit huiusmodi fidem vel assensum: et petrus sic 
+          cre<lb ed="#V" n="9" break="no"/>didit: et a. non erit ergo petro dixit deus falsum: et illi mentitus est:  
+          <lb ed="#V" n="10"/>ac eum fefellit: et antecedens est possibile: quia omnes eius partes sunt possibiles et 
+          compos<lb ed="#V" n="11" break="no"/>sibiles: vt declaratum est. ergo et consequens est possibile: et per consequens possibile est deum 
+          <lb ed="#V" n="12"/>dixisse falsum etc. quod fuit antecedens prime consequentie.
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e1218">
+          ⁋ Ad primum. 
+          <lb ed="#V" n="13"/>nego deum falsum dixisse per prophetas accipiendo dicere in sensu 
+          su<lb ed="#V" n="14" break="no"/>pra posito.
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e1225">
+          ⁋ Ad primam probationem de Iona. dico quod vel ipsa 
+          <lb ed="#V" n="15"/>fuit comminatoria vel conditionalis: licet conditione non expressa: sed tamen 
+          <lb ed="#V" n="16"/>a deo subitellecta. valet. si niniuite non peniterent: sicut quaedam glo 
+          <lb ed="#V" n="17"/>se dicunt: et textus sequens innuit quao ait Ionas. numquid non hoc est 
+          <lb ed="#V" n="18"/>verbum meum cum adhuc essem in terra mea: propter hoc praoccupaui 
+          <lb ed="#V" n="19"/>vt fugerem in tharsis. Scio enim quia tum dominus clemens etc. quasi 
+          di<lb ed="#V" n="20" break="no"/>sciebam quod si peniterent ignosceres: et per consequens potius comminaba 
+          <lb ed="#V" n="21"/>tur si non peniterent: quam excidium absolute praedicens: et tunc patet: 
+          <lb ed="#V" n="22"/>quod deus non dixit falsum vel fuit absolute pronuciatum. Et adhuc 
+          <lb ed="#V" n="23"/>dico quod deus non dixit falsum: quia non per illa verba falsum: sed verum 
+          si<lb ed="#V" n="24" break="no"/>generauit scilicet futuram subuersionem morum malorum in ipsis 
+          niniui<lb ed="#V" n="25" break="no"/>tis qua vtique secuta fuit.
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e1251">
+          ⁋ Et hoc solutio habentur ex glosa 
+          ex<lb ed="#V" n="26" break="no"/>presse ibidem: et sumpta est ab <ref xml:id="grvnZZ-ed1e94-Rd1e1255">Aug. 2i. de ci. dei.</ref> qui ait. <quote xml:id="grvnZZ-ed1e94-Qd1e1258" source="http://scta.info/resource/adcd-l21-d1e3616" synch="137-185">Niniue 
+            <lb ed="#V" n="27"/>subuersa est: quae mala erat et bona edificata: quae non erat: 
+            stanti<lb ed="#V" n="28" break="no"/>bus menibus et domibus euersa est ciuitas in perditis moribus:  
+            <lb ed="#V" n="29"/>et quamuis propheta fuerit contristatus: quia non sit factum quod illi ti 
+            <lb ed="#V" n="30"/>muerunt Iona prophetante futurum: factum est tamen quod fuerat deo 
+            <lb ed="#V" n="31"/>praesciente per se dictum</quote>: et eandem sententiam ponit <ref xml:id="grvnZZ-ed1e94-Rd1e1271">Aug. supra. illud praes. ois.</ref> In 
+          <lb ed="#V" n="32"/>certa et occulta sapientiae tue manifestasti mihi Ad illud de 
+          <lb ed="#V" n="33"/>Eechia vno modo potest dici: quod etiam fuit comminatio: sicut est vna 
+          glo<lb ed="#V" n="34" break="no"/>sa dicit ibi. et si sic. patet: quod deus non falsum dixit. Alio modo quod fuit 
+          <lb ed="#V" n="35"/>absoluta praenunciatio et ad intellectum loquentis vera: quoniam deus per illa 
+          <lb ed="#V" n="36"/>verba non intendebat significare quod illo tempore eechias moreretur: sed 
+          <lb ed="#V" n="37"/>quod illo tempore mori merebatur: quod vtique verum erat: et hoc est quod 
+          <lb ed="#V" n="38"/>dicit Grego. 12. moralis. Per prophetam inquit deus dicit quo tempore 
+          <lb ed="#V" n="39"/>praee mori merebatur: per largitate vero misericordiae illo eum tempore ad  
+          <lb ed="#V" n="40"/>mortem distulit quo ante secula ipse praesciuit: nec propheta ergo 
+          <lb ed="#V" n="41"/>fallax: quia tempus mortis innotuit quo vir ille mori merebat: 
+          <lb ed="#V" n="42"/>nec dominica statuta conuulsa sunt: quia vt ex largitate dei anni 
+          <lb ed="#V" n="43"/>vite crescerent: hoc quoque ante secula praefixum fuit. Unde secundum hoc 
+          <lb ed="#V" n="44"/>sensus illius prophetie. morieris et non viues est id est mori et non vt 
+          <lb ed="#V" n="45"/>uere mereris: patet ergo quod per neutrum deus falsum dixit: quia per neutrum 
+          <lb ed="#V" n="46"/>falsum: sed verum significauit.
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e1308">
+          ⁋ Ad 2m dico primo: quod ex forma non 
+          co<lb ed="#V" n="47" break="no"/>cluditur nisi quod errorem deus potest per seipem causare: sed ex hoc non sequitur 
+          <lb ed="#V" n="48"/>quod potest fallere vel decipere: et hoc ideo: quia et non sequitur quod deus posset 
+          <lb ed="#V" n="49"/>causare errorem: sicut non sequitur meritum potest deus per seipum facere: 
+          <lb ed="#V" n="50"/>ergo potest per seipum mereri. Nec etiam sequitur. potest per seipm facere meritum 
+          <lb ed="#V" n="51"/>et intelligo per seipem id est se solo: sicut intelligitur in proposito: et est eadem 
+          <lb ed="#V" n="52"/>ratio vtrobique: quoniam sicut illa res quae est vel potest esse meritum: potest etiam esse non 
+          <lb ed="#V" n="53"/>meritum: quia illa sic facta non esset meritum: sic illa res quae est vel 
+          <lb ed="#V" n="54"/>otest esse error: potest esse non error: et etiam non iudicium: et ideo non sequitur: quod 
+          <lb ed="#V" n="55"/>si illam faceret quod faceret errorem. 2o quia difficultas quam 
+          im<lb ed="#V" n="56" break="no"/>tendit doctor: posset in alia forma poni scilicet arguendo sic. Deus 
+          <lb ed="#V" n="57"/>otest mediantibus causis secundis causare deceptionem. ergo potest per seipem: 
+          <lb ed="#V" n="58"/>ua consequentia accepto antecedente proprie et stricte: vt scilicet tunc deus dicatur agere 
+          <lb ed="#V" n="59"/>mediante alio: quando non solum alio agente ipse agit: vel coagit: sed 
+          <lb ed="#V" n="60"/>quando ipse in tali actione principaliter aliud vero instrumentaliter agit: ad  
+          <lb ed="#V" n="61"/>quem sensum est probationes adducte videntur tendere: videretur 
+          sa<lb ed="#V" n="62" break="no"/>tis apparens: ideo nego assumptum. Et ad primam probationem de 
+          egy<lb ed="#V" n="63" break="no"/>ptiis. dico quod si textus attendatur diligenter non habter quod deus 
+          dire<lb ed="#V" n="64" break="no"/>cte deciperet mediantibus israelitis egyptios: nec decipere 
+          vo<lb ed="#V" n="65" break="no"/>luerit: nec quod aliquid iusserit ad quod per se et directe deceptio 
+          <!--288.xml-->
+          <cb ed="#V" n="b"/> 
+          <!-- 150-r b -->
+          <lb ed="#V" n="66"/>sequi debeat. Sic enim scribitur in exo. dixisse dominundum moysi. dices 
+          <lb ed="#V" n="67"/>omni plebi: vt postulet vir ab amico suo et mulier a vicina 
+          <lb ed="#V" n="68"/>sua: vasa aurea et argentea: dabit aut dominus gratiam populo suo 
+          <lb ed="#V" n="69"/>coram egyptiis. Constat autem quod deus istud potuit praecipere: et po 
+          <lb ed="#V" n="70"/>pulus exequi sine omni simulatione mutui et cuiuscumque fictione 
+          <lb ed="#V" n="71"/>mendacii: et deus absolute ipsis petentibus potuit facere: vt 
+          <lb ed="#V" n="72"/>egyptii postulata praeberent. Si autem popuius simulauit aut 
+          <lb ed="#V" n="73"/>expressit se mutuo: et quasi redditurus petere: et egyptii 
+          dece<lb ed="#V" n="74" break="no"/>pti se recepturos praestita putauerunt: hoc deus e misit: non 
+          <lb ed="#V" n="75"/>iussit.
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e1381">
+          ⁋ Ad illud etiam de achab: dico quod deus illam deceptionem 
+          <lb ed="#V" n="76"/>non imperauit: sed permisit: et illud verbum egredere et fac. non fuit 
+          <lb ed="#V" n="77"/>ad intentionem dei imperatiuum: sed praenunciatiuum tantum modo: sic illud  
+          <lb ed="#V" n="78"/>dohio 2o soluite templum hoc: et aliud eiusdem: cum ait iude. quod 
+          fa<lb ed="#V" n="79" break="no"/>cis fac citius: vtrobique enim sed glosas et sanctos non 
+          imperati<lb ed="#V" n="80" break="no"/>ue: sed praenunciatiue locutus est. Unde in proposito est egredere et 
+          <lb ed="#V" n="81"/>fac id est egredieris et facies: sicut ante dixerat decipies et 
+          praeuale<lb ed="#V" n="82" break="no"/>bis. Non mediocriter autem miror hunc doctum virum ad 
+          proba<lb ed="#V" n="83" break="no"/>tionem sui dicti illas Aug. auctoritates afferre. Tum quia 
+          <lb ed="#V" n="84"/>Aug. ibi manifeste detestatur quod iste probare intendit. vnde ait. 
+          <lb ed="#V" n="85"/>non itaque deus deceptor est: quod credere nepharium et impium quis 
+          <lb ed="#V" n="86"/>non intelligat: Constat aut quod si deus posset per se decipere vt 
+          <lb ed="#V" n="87"/>iste vult: nepharium non esset: neque impium credere quod hoc aliquando 
+          <lb ed="#V" n="88"/>fieret. Si enim poneretur in esse: tunc licitum esset credere quod 
+          deci<lb ed="#V" n="89" break="no"/>peret. Supra etiam dixit quod summa et proprie diuina virtus est 
+          nemi<lb ed="#V" n="90" break="no"/>nem decipere. ergo si aliquando deus quemquam deciperet: non summam et propriam 
+          <lb ed="#V" n="91"/>virtutem seruaret: quod credere esse possibile: impium est omnino a nepha 
+          <lb ed="#V" n="92"/>rium. Tum quia Aug. ibidem exponit se. et textu cum ait: factum est vt 
+          <lb ed="#V" n="93"/>iuberet deus vel potius pro illorum cupiditate permitteret vt pe 
+          <lb ed="#V" n="94"/>terent non reddituri: et acciperent quasi reddituri. Ex quo patet: quod 
+          si<lb ed="#V" n="95" break="no"/>mulationem istorum non iussit: sed permisit: et ex hoc cetera quae indu 
+          <lb ed="#V" n="96"/>cta sunt in arguendo patet esse intelligenda secundum prmissionem: non secundum impei 
+          <lb ed="#V" n="97"/>rium: quod est confirmat quod vltimo allegatum est ex eo. Nam constat 
+          <lb ed="#V" n="98"/>quod numquam est iussum a deo: vt odirent inimicos: sed solum non fuit 
+          <lb ed="#V" n="99"/>expresse prohibitum.
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e1436">
+          ⁋ Ad id quoque quod annectitur scilicet quod 
+          multo<lb ed="#V" n="100" break="no"/>tiens legitur deum et verbis et factis docuisse decipere inimicos 
+          <lb ed="#V" n="101"/>duen quod si talia ad ea ad que significanda vel dicta vel facta re 
+          <lb ed="#V" n="102"/>ferantur: sicut referende sunt omnes actiones et locutiones 
+          figu<lb ed="#V" n="103" break="no"/>rate et prophetice: vt dicit Aug. in lib. contra mendacium: vt non 
+          <lb ed="#V" n="104"/>secundum sonum verborum et primam (quam communiter non recte 
+          intelli<lb ed="#V" n="105" break="no"/>gentes capiunt) significationem intelligantur: non inuenitur in 
+          <lb ed="#V" n="106"/>talibus deceptio vel mendacium: sed veritatis misterium. 
+          <lb ed="#V" n="107"/>Et ideo dicit ibi Augu. quod in figuris quod velut mendacium 
+          di<lb ed="#V" n="108" break="no"/>citur: bene intellectum verum inuenitur. Unde paulopost 
+          <lb ed="#V" n="109"/>ante dicit quod illud quod Iacob fecit monstre auctore: vt patrem 
+          <lb ed="#V" n="110"/>fallere videretur: si diligenter et fideliter attendatur non 
+          <lb ed="#V" n="111"/>est mendacium: sed misterium: et idem dicit de ceteris 
+          <lb ed="#V" n="112"/>actionibus et locutionibus et prophetiis: et subdit 
+          probatio<lb ed="#V" n="113" break="no"/>nem dicens: quod in his vera non falsa dicuntur: quoniam vera non 
+          <lb ed="#V" n="114"/>falsa significantur seu verbo seu facto que: significantur enim 
+          <lb ed="#V" n="115"/>vtique ipsa dicuntur: putantur aut mendacia: quoniam non ea quae vera 
+          si<lb ed="#V" n="116" break="no"/>gnificantur dicta intelliguntur: sed ea quae falsa sunt dicta esse 
+          credun<lb ed="#V" n="117" break="no"/>tur. Et statim hoc diffuse declarat de Iacob qui nec in verbo 
+          <lb ed="#V" n="118"/>nec in facto mentitus fuit: qui per vtrumque scilicet tam factum quam verbum 
+          <lb ed="#V" n="119"/>non falsum: sed verum significauit: quod cui cure est intelligere 
+          le<lb ed="#V" n="120" break="no"/>gat eum ibidem. Si aut ita est de dictis et factis prophetarum qua non 
+          <lb ed="#V" n="121"/>leguntur per eos deo iubente dicta vel facta: multomagis hoc 
+          tenen<lb ed="#V" n="122" break="no"/>dum est in his que deus dici vel fieri legitur precepisse vel 
+          <lb ed="#V" n="123"/>pocuisse alicui: vt alium directe falleret estimemus: quam 
+          <lb ed="#V" n="124"/>uis aliqua fecerit et iusserit: ex quibus aliquos falli permisit. 
+          <lb ed="#V" n="125"/>Unde Aug. in glosa Iosue. vbi legitur quod deus precepit Iosue 
+          <lb ed="#V" n="126"/>ponere insidias contra vabem hay. ait. quaerendum est vtrum omnis 
+          volun<lb ed="#V" n="127" break="no"/>tas fallendi pro mendacio sit putanda: et si ita est. vtrum posset esse 
+          <lb ed="#V" n="128"/>iustum mendacium quo ille fallitur qui est dignus falli. Et si nec 
+          <lb ed="#V" n="129"/>hoc quidem iustum reparitur restat: vt secundum aliquam significationem hoc 
+          <lb ed="#V" n="130"/>quod de insidiis dictum est ad veritatem referatur.
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e1506">
+          ⁋ Ad 3m nego  
+          <!--289.xml-->
+          <pb ed="#V" n="150-v"/>
+          <cb ed="#V" n="a"/>
+          <lb ed="#V" n="1"/>antecedens proptrea quia quamuis quaelibet pars de inesse sit possibilis: non tamen omnes sunit 
+          <lb ed="#V" n="2"/>compossibiles: et cum probatur: quia illa pars de praeterito est necessaria negandum est 
+          <lb ed="#V" n="3"/> 
+          <lb ed="#V" n="4"/>Unde si teneatur quod res praeterita potest per diuinam potentiam non fuit 
+          <lb ed="#V" n="5"/>se: diceretur possibile esse vt deus numquam illud dictum vel illum assensum 
+          <lb ed="#V" n="6"/>causauerit: et per consequens non dixit a. fore. et ille alius est non credidit 
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e1528">
+          <lb ed="#V" n="7"/>⁋ Si hoc vero non teneatur: sicut aliqui antiqui doctores 
+          dixe<lb ed="#V" n="8" break="no"/>runt quod possibile est illud dictum non fuisse significatiuum: aut non 
+          il<lb ed="#V" n="9" break="no"/>lius significati quod est a fore: et similiter assensum alterius non fuisset 
+          <lb ed="#V" n="10"/>assensum seu iudicium de a. fore: sicut etiam dicendum esset quod iudicium: 
+          <lb ed="#V" n="11"/>quo iudico petrum sedentem sedere si conseruaretur in me a deo 
+          <lb ed="#V" n="12"/>postquam petrus surrexit: non esset iudicium quo iudicarem petrum 
+          <lb ed="#V" n="13"/>sedere: vel aliter dici potest. Nam vt supra dictum est ad hoc quod 
+          <lb ed="#V" n="14"/>aliquis dicat aliquid proprie requiritur intensio significandi illud per suu 
+          <lb ed="#V" n="15"/>dictum: cum ergo deus quod voluit possit non voluisse: alias nullus prim 
+          <lb ed="#V" n="16"/>destinatus posset non fuisse praedestinatus: cuius oppositum communiter 
+          te<lb ed="#V" n="17" break="no"/>netur secundum sensum diuisum: possibile est deum numquam voluisse significare per 
+          <lb ed="#V" n="18"/>suum dictum a. fore et per consequens numquam dixisse a. fore. Si vero nu 
+          <lb ed="#V" n="19"/>la praedictarum viarum placeat inueniatur melior alia. Et si inuen 
+          <lb ed="#V" n="20"/>re non possit alia: potius iudico confitendum esse ignorantiam quam 
+          praeci<lb ed="#V" n="21" break="no"/>pitandum se in tam horrendam auribus fidelium sententiam: qualis est si 
+          <lb ed="#V" n="22"/>dicatur deum posse mentiri: aut dicere falsum aut decipere: cum omnis 
+          <lb ed="#V" n="23"/>scriptura catholica canonis et sanctorum clamet oppositum. 
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e1567">
+          <lb ed="#V" n="24"/>⁋ Ad primum argumentum principale cum dicitur quicquid potest creatura deo co 
+          <lb ed="#V" n="25"/>agente etc. supplenda est propositio determinando illud verbum potenst 
+          <lb ed="#V" n="26"/>per aliquem infinitum: et secundum alium et alium qui potest addi est neganda vel 
+          <lb ed="#V" n="27"/>concedenda. Nam constat si dicatur: quicquid post pati creatura vel re 
+          <lb ed="#V" n="28"/>cipere deus potest per seipm nullo alio coagente pati vel recipere: 
+          <lb ed="#V" n="29"/>propositio esset falsa. Et sic de pluribus aliis: nunc ergo in proposito 
+          <lb ed="#V" n="30"/>videtur addi vel conuenienter posse communiter hoc infinitiuum facere: vt 
+          <lb ed="#V" n="31"/>dicatur. quicquid potest creatura deo coagente facere deus per se 
+          nul<lb ed="#V" n="32" break="no"/>lo coagente potest facere: et istam iuxta praemissa in praecedenti quaestione 
+          <lb ed="#V" n="33"/>concedo: et si debito discursu debeat minor sumi sub oportet asst 
+          <lb ed="#V" n="34"/>mere: sed falsum creatura potest etc. et inferri. ergo falsum 
+          <lb ed="#V" n="35"/>potest deus per se facere: quam concedo: nec est contra: vel 
+          <lb ed="#V" n="36"/>potest addi iste infinitiuus dicere: vt dicatur quicquid creatura de 
+          <lb ed="#V" n="37"/>coagente potest dicere etc. et si dicere sumatur 2o scilicet pro significare. 
+          <lb ed="#V" n="38"/>nego maiorem. Nam sicut creatura deo coagente potest odire 
+          <lb ed="#V" n="39"/>deu et peccare: quamuis non deo auctore: patet de dyabolo: et tamen 
+          <lb ed="#V" n="40"/>deus non potest per se deum odire nec peccare: sic in proposito dico 
+          <lb ed="#V" n="41"/>quod creatura deo coagente potest significare et asserere falsum: et tamen 
+          <lb ed="#V" n="42"/>deus non per se potest hoc: sicut nec potest velle significare falsum.
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e1611">
+          ⁋ Et 
+          <lb ed="#V" n="43"/>nota quod aliud est dictu creatura deo coagente aliquid velle 
+          <lb ed="#V" n="44"/>vel facere: et aliud deo auctore: sicut in secundo declarabitur. 
+        </p>
+        <p xml:id="grvnZZ-ed1e94-d1e1619">
+          <lb ed="#V" n="45"/>⁋ Ad 2am nego consequentia. Ad probationem: quia falsum dici est quoddam 
+          <lb ed="#V" n="46"/>complexum et talia fieri: vt dictum est in principio est ipsa fieri vera non 
+          pro<lb ed="#V" n="47" break="no"/>batur per illam assumptam ex praecedenti quaestione: quia ibi de entitatibus 
+          <lb ed="#V" n="48"/>possibilibus dictum est: quod quamlibet deus se solo potest facere. Non autm 
+          <lb ed="#V" n="49"/>dictum est quod quodlibet enunciabile possibile deus se solo posset facere 
+          <lb ed="#V" n="50"/>esse verum: sed vtique quod quodlibet deus potest facere esse verum: et hoc acci 
+          <lb ed="#V" n="51"/>piendo facere communiter vt dictum est ibi: non autem nunc sequitur. deus potest 
+          <lb ed="#V" n="52"/>facere verum esse: quod siultbet dicitur ergo potest deus facere fioctus: sic non sequitur. de 
+          <lb ed="#V" n="53"/>potest facere verum esse aliquem odire deum vel alias peccare. ergo deus 
+          <lb ed="#V" n="54"/>otest odire deum vel peccare. Nam consequens est sfilibet et antecedens verum. Nam de 
+          <lb ed="#V" n="55"/>sinit multos peccare et odire: et per consequens sinit esse verum quod mult 
+          <lb ed="#V" n="56"/>peccant et odiunt deum: um tamen posset prohibere et inhibere et 
+          impe<lb ed="#V" n="57" break="no"/>dire ne peccarent vel odirent: ac per hoc iuxta intellectum 
+          <lb ed="#V" n="58"/>ibi concessum sinit talia esse vera etc. 
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>
