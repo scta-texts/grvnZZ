@@ -1,1011 +1,1011 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Quaesito 3</title>
-        <author ref="#Rimini">Gregory of Rimini</author>
-        <respStmt>
-          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-          <resp>Transcription Editor</resp>
-          <resp>TEI Encoder</resp>
-        </respStmt>
-        
-      </titleStmt>
-      <editionStmt>
-        <edition n="0.0.0-dev">
-          <title>Quaesito 3</title>
-          <date when="2020-10-03">October 03, 2020</date>
-        </edition>
-      </editionStmt>
-      <publicationStmt>
-        <authority>SCTA</authority>
-        <availability status="free">
-          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-          </p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <listWit>
-          <witness xml:id="V" n="cod-ae1bsb">Venice 1503</witness>
-        </listWit>
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
-      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-      <editorialDecl>
-        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-          guidelines for a diplomatic edition.</p>
-      </editorialDecl>
-    </encodingDesc>
-    <revisionDesc status="draft">
-      <listChange>
-        <change when="2020-10-03" status="draft" n="0.0.0">
-          <p>Created file for the first time.</p>
-        </change>
-      </listChange>
-    </revisionDesc>
-  </teiHeader>
-  <text xml:lang="la">
-    <front>
-      <div xml:id="starts-on">
-        <pb ed="#V" n="46-v"/>
-      </div>
-    </front>
-    <body>
-      <div xml:id="grvnZZ-ed1e29"><!-- l1d3q3 -->
-        <head xml:id="grvnZZ-ed1e29-Hd1e106">Quaesito 3</head>
-        <head xml:id="grvnZZ-ed1e29-Hd1e109" type="question-title">Utrum prima notitia intellectus primitate generationis sit notitia intuitiva alicuius singularis sensibilis</head>
-        <p xml:id="grvnZZ-ed1e29-d1e112">
-          <lb ed="#V" n="15"/>⁋ Distinctionis tertie. Questio III 
-          <lb ed="#V" n="16"/>COnsequenter quaero vtrum prima notitia 
-          in<lb ed="#V" n="17" break="no"/>tellectus primitate 
-          generatio<lb ed="#V" n="18" break="no"/>nis sit noticia intuitiua alicuius singularis sensi 
-          <lb ed="#V" n="19"/>bilis.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e125">
-          ⁋ Arguitur quod non: quia prius notum est ab intel 
-          <lb ed="#V" n="20"/>lectu vniversale quam singulare. igitur notitia singularis intui 
-          <lb ed="#V" n="21"/>tiua non est prima noticia intellectus antecedens patet. ex primo phy. 
-          <lb ed="#V" n="22"/>vbi dicens P. quod primo manifesta sunt nobis magis confu 
-          <lb ed="#V" n="23"/>sa. Et post statim concludit: quod ex vniversalibus in singularia oportet procedere 
-          <lb ed="#V" n="24"/>scilicet in cognoscendo. consequentia patet: quia ex auctoritas sequitur quod notitia vniversalis: sit prior 
-          <lb ed="#V" n="25"/>quam noticia singularis: ac per hoc non econtra notitia singularis prior notitia 
-          <lb ed="#V" n="26"/>vniversali.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e143">
-          ⁋ Item sequitur ex hoc quod est notitia singularis intuitiua: non est 
-          <lb ed="#V" n="27"/>prior abstractiua eiusdem. Nam vniversalis notitia est notitia abstractia 
-          <lb ed="#V" n="28"/>ipsius singularis. Nam in vniversali cognoscuntur confuse omnia singularia eius: et con 
-          <lb ed="#V" n="29"/>stat quod non intuitiue: sed abstractiue. Si igitur notitia vniversalis est prior 
-          <lb ed="#V" n="30"/>quam notitia singularis: vt probatum est sequitur quod noticia 
-          abstra<lb ed="#V" n="31" break="no"/>ctiua singularis: est prior quam noticia intuitiua eiusdem.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e157">
-          ⁋ 2o  
-          <lb ed="#V" n="32"/>arguitur quod noticia alicuius insensibilis: sit prior notitia 
-          sensibi<lb ed="#V" n="33" break="no"/>lis: quia nihil potest esse prius praesens menti quam ipsa mens: et per consequens 
-          <lb ed="#V" n="34"/>nihil potest sibi prius esse notum quam ipsa: mens autem quid insensibile 
-          <lb ed="#V" n="35"/>est. igitur aliquod insensibile prius videtur ab intellectu cognosci. 
-          <lb ed="#V" n="36"/>Ad oppositum arguitur. In potentiis subordinatis. vbi 
-          <lb ed="#V" n="37"/>terminatur cognitio inferioris incipit 
-          <lb ed="#V" n="38"/>cognitio superioris: sed sensus et intellecus sunt potentie subordinate: et no 
-          <lb ed="#V" n="39"/>ticia sensus: qui est interior terminatur in singulari sensibili: quia non 
-          <lb ed="#V" n="40"/>apprehendit aliquod insensibile: nec est vniversale. igitur intellectus incipiet in sin 
-          <lb ed="#V" n="41"/>gulari sensibili.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e181">
-          ⁋ 2o quia notitita intellectus non praecedit noticiam sensus: 
-          <lb ed="#V" n="42"/>et quicquid sensus cognoscit intellectus cognoscit. igitur quod primo cognoscitur ab 
-          intel<lb ed="#V" n="43" break="no"/>lectu: et a sensu cognoscitur. igitur singulare sensibile primo cognoscitur ab 
-          in<lb ed="#V" n="44" break="no"/>tellectu. patet consequentia quia solum sensibile singulare cognoscitur a sensu. 
-          <lb ed="#V" n="45"/>In ista quaestione tres erunt articuli In quorum primo videbitur quae 
-          <lb ed="#V" n="46"/>notitia est intuitiua et qui abstractiua et 
-          <lb ed="#V" n="47"/>qualiter distinguitur. In 2o vtrum vniversale prius cognoscatur singulari ab intel 
-          <lb ed="#V" n="48"/>lectu: vel econverso 3o vtrum singulare sensibile sit prius cognitum quam singu 
-          <lb ed="#V" n="49"/>lare intelligibile pure. In ultimo vtrum notitia singularis intuitiua sit 
-          <lb ed="#V" n="50"/>prior abstractiva eiusdem. Et ex istis colligetur responsio: totalis ad propositam quod 
-          <lb ed="#V" n="51"/>Quantum ad primum dico quod sicut patet ex duabus quaestionibus 
-          pro<lb ed="#V" n="52" break="no"/>ximis praecedentibus: quadam cognoscuntur a nobis 
-          <lb ed="#V" n="53"/>immediate et in seipsis: sic quod notitia illa non terminatur ad aliquod medium: 
-          <lb ed="#V" n="54"/>per quod vel in quo illa res cognoscatur: quaedam autem cognoscuntur non in se 
-          im<lb ed="#V" n="55" break="no"/>mediate: sed in aliquo medio vel per aliquod medium prius cognitum ad quod 
-          <lb ed="#V" n="56"/>terminatur ipsa notitia: et omne quod cognoscitur altero istorum modorum 
-          <lb ed="#V" n="57"/>cognoscitur scilicet vel immediate in seipo vel mediante alio: per quod cognitum 
-          <lb ed="#V" n="58"/>aut in quo cognito ipsum cognoscitur. Et secundum hoc potest dici quod noticia 
-          in<lb ed="#V" n="59" break="no"/>tuitiua est notitia simplex: qua formaliter aliquid immediate in seipso 
-          <lb ed="#V" n="60"/>cognoscitur. Abstractiua vero est notitia simpliciter: qua formaliter aliquid in 
-          <lb ed="#V" n="61"/>aliquo medio repraesentatiuo cognoscitur. Dico autem formaliter: quando aliquando 
-          <lb ed="#V" n="62"/>(quamuis improprie) aliquid dicitur cognosci per aliquam noticiam virtualiter: eo 
-          <lb ed="#V" n="63"/>scilicet quod illa notitia continet virtualiter: vel totaliter aut partialiter noticiam 
-          il<lb ed="#V" n="64" break="no"/>lius: sicut conclusio posset dici cognosci per noticiam principiorum: et causa per noticiam effe 
-          <lb ed="#V" n="65"/>ctus: et econverso effectus per noticiam causare: quia scilicet principiorum est noticia aliquo causa 
-          <!--89.xml-->
-          <cb ed="#V" n="b"/> 
-          <!-- 46-v b -->
-          <lb ed="#V" n="66"/>notitiae conclusionis: et notitia causae aliquando est causa aliquo modo notitia effectus: et aliquando 
-          <lb ed="#V" n="67"/>econverso notitia effectus est aliquo modo causa notitie cause: non autem quia ea notitia 
-          for<lb ed="#V" n="68" break="no"/>maliter qua cognoscitur principium cognoscatur conclusio: et sic de aliis: et ideo notitia 
-          princi<lb ed="#V" n="69" break="no"/>pii non est abstractiua notitia conclusionis: nec noticia cause est 
-          abstra<lb ed="#V" n="70" break="no"/>ctiua noticia effectus: nec econverso noticia effectus est abstractiua 
-          <lb ed="#V" n="71"/>noticia cause: nisi quando effectus esset medium repraesentatiuum cause: sic quod 
-          <lb ed="#V" n="72"/>eo cognito inquantum est repraesentatiuum eadem noticia cognoscatur et causa: 
-          <lb ed="#V" n="73"/>sicut supra dictum est: quod cognita imagine vel specie in memoria existente 
-          <lb ed="#V" n="74"/>inquantum est imago: cognoscitur est per eandem noticiam res ipsa cuius ipsa est 
-          <lb ed="#V" n="75"/>species: a qua re causata est species ipsa. Similiter si aliqua causa sit similitudo vel 
-          <lb ed="#V" n="76"/>species (seu quocumque vocetur nomine) repraesentatiua effectus: sic quod per co 
-          <lb ed="#V" n="77"/>gnitionem eius inquantum est talis cognoscatur effectus representatus in illa: 
-          <lb ed="#V" n="78"/>sicut plures dicunt de esentia divina: tunc cognitio illa esset 
-          abstracti<lb ed="#V" n="79" break="no"/>ua ipsius effectus: et ideo si ponatur notitia creaturarum in verbo. iuxta 
-          in<lb ed="#V" n="80" break="no"/>tellectum quem communiter habuerunt antiqui doctores: ipsa noticia est 
-          <lb ed="#V" n="81"/>abstractiua res creaturarum cognitarum in verbo: et licet non respectu verbi in 
-          <lb ed="#V" n="82"/>se cogniti. Dico est simpliciter: quoniam secundum omnes affirmatio et negatio intellectus non 
-          <lb ed="#V" n="83"/>vocantur intuitiue vel abstractiue notitia. Siquis autem non velit 
-          <lb ed="#V" n="84"/>tales noticias simplices vocare intuitiuas vel abstractivas: 
-          <lb ed="#V" n="85"/>sed aliter: et alius velit his nominibus nuncupare: liberum ei est: nec de nomine 
-          <lb ed="#V" n="86"/>debet fieri contentio: dummodo constet de re scilicet quod quaedam est notitia simpliciter: qua 
-          <lb ed="#V" n="87"/>res immediate in seipsa cognoscitur: et quaedam qua mediante aliquo medio. 
-          represen<lb ed="#V" n="88" break="no"/>tatiuo cognito: has tamen nominare istis nominibus magis est consonum 
-          <lb ed="#V" n="89"/>dicto apostoli. ex quo doctores sumpserunt huiusmodi distinctionem notitie 
-          <lb ed="#V" n="90"/>scilicet prima ad Corinthios. vbi ait. Uidemus nunc per speculum in enigmate:  
-          <lb ed="#V" n="91"/>tunc autem facie ad faciem. Quod autem apostolus. dicens videre facie ad faciem 
-          <lb ed="#V" n="92"/>omnes doctores dicunt videre intuitiue. Per dictam aut circumlocutio 
-          <lb ed="#V" n="93"/>nem non intendit amplius significare: nisi quod tunc a nobis deus videbitur in 
-          <lb ed="#V" n="94"/>seipso: et non in aliqua eius similitudine: seu per aliquod medium repraesentatiuum 
-          <lb ed="#V" n="95"/>ipsius: qualiter asserit eum nunc videri: quod expremit cum dicens nos nunc 
-          il<lb ed="#V" n="96" break="no"/>lum videre per speculum: cum enim res videtur per speculum non videtur vtique in 
-          <lb ed="#V" n="97"/>seipsa immediate: sed eius imago existens in speculato: et in illa imagine 
-          <lb ed="#V" n="98"/>debitur res ipsa videri. Unde Aug. 15. de tri. praedictum verbum apostoli 
-          expo<lb ed="#V" n="99" break="no"/>nens. dicens quod apostolus nomine speculi imaginem voluit intelligi: et in. c. 
-          <lb ed="#V" n="100"/>praecedente quale inquit sit et quid sit hoc speculum si quaeramus: profecto 
-          <lb ed="#V" n="101"/>illud occurrit: quod in speculo nisi imago non cernitur. Itaque in 
-          <lb ed="#V" n="102"/>hac visione faciali quam doctores vocant intuitivam videtur res immediate 
-          <lb ed="#V" n="103"/>in seipsa. in visione vero speculari: quam moderni vocant abstra 
-          <lb ed="#V" n="104"/>ctiuam: non videtur res ipsa in se immediate: sed tantum mediante sua imagine 
-          <lb ed="#V" n="105"/>videtur.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e329">
-          ⁋ Aduertendum tamen quod sicut in prioribus habitum est: non omnis visio 
-          ima<lb ed="#V" n="106" break="no"/>ginis est visio abstractiua rei: cuius est imago: sed ea tantum qua videtur 
-          ima<lb ed="#V" n="107" break="no"/>go: tamquam imago: quod Aug. etiam notauit eodem libro Id ipsum verbum apostoli  
-          <lb ed="#V" n="108"/>pertractans: vbi dicens quod illi tantum vident deum per speculum qui imaginem 
-          <lb ed="#V" n="109"/>eius tamquam eius imaginem vident: qui aut non intelligunt vel non credunt 
-          <lb ed="#V" n="110"/>illam esse imaginem dei: quamuis illam videndo speculum videant: non 
-          <lb ed="#V" n="111"/>tamen per speculum vident eum: qui per speculum est videndus quousque facie 
-          <lb ed="#V" n="112"/>ad faciem possit videri: et ideo notat ibi Aug. diligenter verbum 
-          <lb ed="#V" n="113"/>apostoli: qui non ait videmus nunc speculum: sed per speculum: nomine aut 
-          ima<lb ed="#V" n="114" break="no"/>ginis omnis similitudo: et omne repraesentatiuum rei intelligi debet.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e351">
-          ⁋ hoc 
-          <lb ed="#V" n="115"/>confirmatur ex intentione Aug. eiusdem. 12. super Gen. ad litteram. vbi 
-          loqui<lb ed="#V" n="116" break="no"/>tur de raptu pauli. vbi vult quod ipse habauit tunc visionem de deo 
-          <lb ed="#V" n="117"/>facialem quam intuitiuam vocamus. Et distinguens illam ab aliis. dicens 
-          <lb ed="#V" n="118"/>sententialiter quod est illa qua immediate ipse in seipso videtur: non in aliqua imagine ocu 
-          <lb ed="#V" n="119"/>lis corporalibus opposita: vt vidit Moyses: aut interiori spiritui 
-          <lb ed="#V" n="120"/>praesentata: vt Ysa. In hoc igitur praecise videtur consistere differentiam horum 
-          modo<lb ed="#V" n="121" break="no"/>rum cognoscendi scilicet intuitiue et abstractive: quia scilicet quod intuitiue cogsci 
-          <lb ed="#V" n="122"/>tur: cognoscitur in seipso absque meo: cognito. Quod vero cognoscit 
-          ab<lb ed="#V" n="123" break="no"/>stractiue per medium cognitum: nec quantum ad intuitiuam noticiam 
-          inter<lb ed="#V" n="124" break="no"/>est quod obiectum realiter existat: vel non existat: quia si existit et immediate 
-          <lb ed="#V" n="125"/>cognitio terminatur ad ipsum: est illa notitia intuitiua eius. Similiter si 
-          <lb ed="#V" n="126"/>non existit: et aliqua noticia terminatur ad ipsum immediate id est si ipsum 
-          <lb ed="#V" n="127"/>immediate cognoscitur intuitiue cognoscitur: et ista notitia est eius intuitiva. 
-          <lb ed="#V" n="128"/>Similiter si noticia eius immediate non terminetur ad rem sed ad  
-          <lb ed="#V" n="129"/>eius repraesentatiuum: siue illa res existat siue non: abstractiue co 
-          <lb ed="#V" n="130"/>gnoscitur: et ideo si significatam vocabuli velit quis ponderare: ta¬ 
-          <!--90.xml-->
-          <pb ed="#V" n="47-r"/>
-          <cb ed="#V" n="a"/>
-          <lb ed="#V" n="1"/>lis noticia videtur dicenda abstractiua: non quia abstrahat ab 
-          exi<lb ed="#V" n="2" break="no"/>stentia rei: quasi ipsa existentia non possit abstractiue cognosci: nec 
-          <lb ed="#V" n="3"/>qui abstrahit a conditionibus singularibus: sed quia quodammo 
-          ab<lb ed="#V" n="4" break="no"/>strahit a praesentialitate obiectiua rei cognite. Nam in tali 
-          no<lb ed="#V" n="5" break="no"/>ticie modo: non obiicitur ipsa res immediate menti secundum se: vt dictum 
-          <lb ed="#V" n="6"/>est: sed aliquod eius repraesentatiuum: et ideo quasi absens videtur cognosci res 
-          <lb ed="#V" n="7"/>ipsa. notitia vero intuitiua dicitur quia immediate ipsa res cognita 
-          ob<lb ed="#V" n="8" break="no"/>iicitur et ipsa praesens est obiectue menti: esto quod non sit praesens essentialiter: 
-          in<lb ed="#V" n="9" break="no"/>mo etiam si nullibi existat: dummodo tunc ipsa in se immediate noscatur 
-          si<lb ed="#V" n="10" break="no"/>hoc possibile sit.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e416">
-          ⁋ Ex his sequuntur quaedam: vnum est quod est quadam notitia 
-          <lb ed="#V" n="11"/>sensualis intuitiua: et quaedam abstractiua. Et hoc patet quia quaedam 
-          sen<lb ed="#V" n="12" break="no"/>sualis est qua immediate cognoscitur res ipsa sensibilis. quaedam autem quae 
-          <lb ed="#V" n="13"/>non immediate: sed in specie cognita: vt. supra patet.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e425">
-          ⁋ Similiter in intellectum est 
-          <lb ed="#V" n="14"/>quaedam notitia intuitiua et quaedam abstractiua tamreus sensibium quam 
-          in<lb ed="#V" n="15" break="no"/>sensibitum. Nam intellectus: vt. supra patet: quadam sensibilia immediate in seipsis 
-          <lb ed="#V" n="16"/>apprehendit. quadam vero in suis repraesentatiuis speciebus scilicet vel conceptibus:  
-          <lb ed="#V" n="17"/>et ita etiam est circa insensibilia et mere intelligibilia: vt ostensum est. 
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e437">
-          <lb ed="#V" n="18"/>⁋ 2m quod sequitur est quod eadem notitia nuoa est intuitiua et abstra 
-          <lb ed="#V" n="19"/>ctiua: sed non recu eiusdem: immo omnis notitia abstractiua est 
-          intuiti<lb ed="#V" n="20" break="no"/>ua: non autem omnis intuitiua est abstractiua: hoc patet: quia omnis notitia ab 
-          <lb ed="#V" n="21"/>stractiua alicuius est intuitiua sui repraesentatiui in qui illud 
-          cogno<lb ed="#V" n="22" break="no"/>scitur. Nam vt ex dicitis supra patet: quandocumque aliquid cognoscitur in suo 
-          <lb ed="#V" n="23"/>repraesentatiuo ipsum repraesentatiuum immediate in seipso apphenditur: et per 
-          <lb ed="#V" n="24"/>consequens repraesentatiuum videtur intuitiue: et res quae per illud. cognoscitur 
-          abstra<lb ed="#V" n="25" break="no"/>ctiue: ac per hoc eadem notitia est intuitiua et abstractiua: intuitiua 
-          <lb ed="#V" n="26"/>scicet repraesentatiui: et abstractia rei representate: non tamen omnis intuitiua 
-          <lb ed="#V" n="27"/>est abstractiua: quia non quandocumque illa res appreheditur in se immediate 
-          <lb ed="#V" n="28"/>appreheditur per illamnoticiam aliqua alia res in illa: sicut quando videtur color 
-          <lb ed="#V" n="29"/>in pariete: vel actus intelligendi in mente: ideo et ex superioribus patet: 
-          <lb ed="#V" n="30"/>quod non semper quando species in memoria cernitur: cognoscitur in illa res cuius 
-          <lb ed="#V" n="31"/>est species: sed solum quando cognoscitur vt imago. Et ideo tunc illa notitia 
-          <lb ed="#V" n="32"/>specie est tantum intuitiua visio eius: et nullius alius alterius abstracti: 
-          <lb ed="#V" n="33"/>ua. Notitia vero quae cernitur vt est imago intuitiua speciei: et 
-          abstra<lb ed="#V" n="34" break="no"/>ctiua rei ad extr: sic supra dictum est: etiam per. P. quod talis notitia proprie 
-          <lb ed="#V" n="35"/>loquendo est sensus praesentis speciei et memoria rei absentis: illa 
-          <lb ed="#V" n="36"/>tamen notitia quae est intuitiua et abstractiua est qualitas alterius ratiois 
-          <lb ed="#V" n="37"/>ab ea quae est intuitiua praecise. Nec illa quae est praecise intuitiua potest 
-          fie<lb ed="#V" n="38" break="no"/>ri abstractiua. Nec quae est intuitiua et abstractiua: potest fieri 
-          im<lb ed="#V" n="39" break="no"/>tuitiua praecise.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e487">
-          ⁋ 3m quod sequitur est quod istitermini intuitiuum et 
-          <lb ed="#V" n="40"/>abstractiuum non sunt incompossibiles secundum praedicationem circa 
-          eandem<lb ed="#V" n="41" break="no"/>noticiam: et illud patet ex eo quod statim dictum est: non possunt tamen 
-          verificari<lb ed="#V" n="42" break="no"/>de eodem pro eodem respectu eiusdem. Nam resocum cuius noticia aliqua dicitur 
-          <lb ed="#V" n="43"/>abstractiua: non dicitur intuitiua sed respectum diuersorum vt 
-          praiemis<lb ed="#V" n="44" break="no"/>sum est: et istud patet ex rationibus istorum nominum: quae vtique respectum 
-          <lb ed="#V" n="45"/>eiusdem: eidem conuenire non possunt. Impossibile enim est quod idem per 
-          eandem<lb ed="#V" n="46" break="no"/>noticiam apphendatur cum medio et sine medio. Simile his videtur 
-          <lb ed="#V" n="47"/>in aliis termins et nominibus connotatiuis. Idem enim est similitudo et 
-          <lb ed="#V" n="48"/>dissimilitudo: non tamen respectum eiusdem: et eadem res est actio et 
-          <lb ed="#V" n="49"/>papitio immo vt in 2o ostendetur: omnis passio est actio: non tamen omnis actio 
-          <lb ed="#V" n="50"/>est papitio: sic in proposito sicut non obstante: quod omnis paetio est actio: 
-          ratio<lb ed="#V" n="51" break="no"/>nes tamen horum nominum sunt diuerse: nec praedicatio vnius de atuio 
-          <lb ed="#V" n="52"/>est quiditatiua: et per consequens nec in primo modo dicendi per se: et sic quamuis 
-          <lb ed="#V" n="53"/>hec sit vera. omnis noticia abstractiua est intuitiua: non tamen est in 
-          <lb ed="#V" n="54"/>prim modo dicendi per se: nec inquantum notitia aliqua est abstractiua: est 
-          <lb ed="#V" n="55"/>sintuitiua retenta nota reduplicationis specificatiue pro ratione 
-          <lb ed="#V" n="56"/>formali: nec similiter inquantum est intuitiua est abstractiua etc.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e526">
-          ⁋ Con 
-          <lb ed="#V" n="57"/>tra tamen illud quod dictum est in notificatione harum denominationum et 
-          <lb ed="#V" n="58"/>distinctione harum noticiarum. vel modorum cognoscendi. 
-          Ar<lb ed="#V" n="59" break="no"/>guit doc. quidam prius probando quod non omnis notitia intuitiua terminatir 
-          <lb ed="#V" n="60"/>imediate ad rem ipsam in se intuitiue cognitam. Nam vt di. visio 
-          <lb ed="#V" n="61"/>et intuitio quae fit in somnis: est mediante speciem: et deriuatur ab 
-          ima<lb ed="#V" n="62" break="no"/>ginatione ad oculum: nec terminatur ad praesentialitatem rei secundum 
-          <lb ed="#V" n="63"/>veritatem: cum ipsa sit absens: et tamen est vere intuitiua: vt di. se 
-          de<lb ed="#V" n="64" break="no"/>clarasse per Aug. et Commentators.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e546">
-          ⁋ 2o arguit contra illud: quod dictum 
-          <lb ed="#V" n="65"/>est de abstractiua. Nam noticia imaginatiua est abstracti¬ 
-          <!--90.xml-->
-          <cb ed="#V" n="b"/> 
-          <!-- 47-r b -->
-          <lb ed="#V" n="66"/>ua: et tamen non fit mediante aliquo exemplari: aut imagine: aut 
-          <lb ed="#V" n="67"/>aliquo alio obiecto quod imaginans aspiciat cognoscendo. 
-          <lb ed="#V" n="68"/>alias roma imaginata a conditore rome: non esset ipsamet 
-          <lb ed="#V" n="69"/>roma: sed quoddam ydolum eius: nec domus in mente artificis esset 
-          <lb ed="#V" n="70"/>eadem cum domo ex. cuius oppositum di. P. 7. meta. vnde patet quod 
-          ima<lb ed="#V" n="71" break="no"/>ginans re aliquam in eam fertur absque omni medio obiectivo: licet forte per 
-          <lb ed="#V" n="72"/>speciem tamquam per medium formale sicut est videns videt per speciem etc. 
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e572">
-          <lb ed="#V" n="73"/>⁋ Ad ista respondeo. Ad primum dico quod falsum assumit. primo quidem quia 
-          <lb ed="#V" n="74"/>dicit quod in sesctinis est vere visio secundum quod visio dicitur proprie de 
-          operatio<lb ed="#V" n="75" break="no"/>ne potentie visiue: quod vtique falsum est: sicut supra in q. de 
-          intel<lb ed="#V" n="76" break="no"/>lectione sensibilium clare monstratum est: neque Aug. neque Com 
-          <lb ed="#V" n="77"/>menta. sunt pro eo: vt ibi patet. 2o dicens falsum: quia illa noticia quam 
-          <lb ed="#V" n="78"/>dici. esse visionem: non est in dormiente noticia rerum absentium: aut 
-          <lb ed="#V" n="79"/>si in aliquo est ipsa non est intuitiua illarum rerum: sed abstractiua 
-          <lb ed="#V" n="80"/>est: aut intuitiua specierum ad quas immediate terminatur. Quia si 
-          <lb ed="#V" n="81"/>dicatur quod non terminetur ad speciem sed praecise ad rem absentem: et illius 
-          <lb ed="#V" n="82"/>est intuitiua. Confirmatur propositum. valet. quod intuitiua est que 
-          ter<lb ed="#V" n="83" break="no"/>minatur immediate ad rem per ipsam cognitam.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e598">
-          ⁋ Ad 2m dico quod 
-          <lb ed="#V" n="84"/>imaginans aspicit aliquid: et intuetur imaginem siue causatam a sensi 
-          <lb ed="#V" n="85"/>bus siue fictam per animam: sicut per experientiam et per auc. quamplu 
-          <lb ed="#V" n="86"/>rimas: ac rationes est multiplices est ostensum q. praeallegata.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e608">
-          ⁋ Cum 
-          <lb ed="#V" n="87"/>probatur quod alias roma imaginata etc. Dico quod aliquid dicitur 
-          ima<lb ed="#V" n="88" break="no"/>ginari tripliciter. Uno mod id est per imaginationem fictam et formatam. 
-          <lb ed="#V" n="89"/>Alio modo id est per imaginationem cognitam. et hoc potest esse dupliciter: quia vel 
-          <lb ed="#V" n="90"/>immediate vel mediante specie existente in imaginatione 
-          autme<lb ed="#V" n="91" break="no"/>moria de quo non est vis facienda pro nunc.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e621">
-          ⁋ Tunc dico quod 
-          <lb ed="#V" n="92"/>roma imaginata primo modo: non est aliud quam species aut similitudo 
-          ro<lb ed="#V" n="93" break="no"/>me extra animam: et illa non est realiter illa roma quam fabricat in 
-          <lb ed="#V" n="94"/>matis conditor rome: licet sit similis ei in esse imaginato ea 
-          repraesenta<lb ed="#V" n="95" break="no"/>timo. 2o modo dico quod ydolum rome est imaginatu: sed 3o modo roma exra 
-          <lb ed="#V" n="96"/>animam est imaginata. Et cum dicitur quod. P. dicens quod domus in mente 
-          <lb ed="#V" n="97"/>artificis est eadem cum domo ex. Dico primo quod falsum est: quin immo 
-          <lb ed="#V" n="98"/>dici. quod domus in madii fit ex domo in anima: et per consequens non est eadem. 
-          <lb ed="#V" n="99"/>2o dico quod si aliquis auctor. dicens hoc intelligendo est de domo quae est 
-          <lb ed="#V" n="100"/>in anima obiectiue tantum et mediante sua specie in anima immediate 
-          cogni<lb ed="#V" n="101" break="no"/>ta: vel si de domo immediate cognita intelligatur: tunc non est 
-          ac<lb ed="#V" n="102" break="no"/>cipiendum illud dictum secundum proprietatem vocis: sed improprie sicut 
-          <lb ed="#V" n="103"/>quandoque quod alteri est simile dicitur esse illud: sic. P. 3o de anima. dicens quod anima est  
-          <lb ed="#V" n="104"/>per sensum ipsa sensibilia: quod secundum proprietatem sermonis non potest 
-          <lb ed="#V" n="105"/>intelligi: cum anima non sit ipse res ex sensibiles quas cognoscit per 
-          <lb ed="#V" n="106"/>sensum: sed propter species rerum sensibilium perceptarum per sensus 
-          qui<lb ed="#V" n="107" break="no"/>pus speciebus ipsa similatur rebus: dicitur esse sensibilia: sic est Anp. mondlogin. 
-          <lb ed="#V" n="108"/>io dicens quod faber prius in mente concipit rem: et talis conceptio est verbum 
-          <lb ed="#V" n="109"/>interius quod inter oporia verba est magis simile rei. Et in hoc sensu loqui 
-          <lb ed="#V" n="110"/>tur Commentator. 7. meta. quando dicit quod forma artis dicitur duobus modis: 
-          <lb ed="#V" n="111"/>quorum primus est de forma quae est in anima: alius est de illa quae est extra 
-          <lb ed="#V" n="112"/>animam: et sunt idem: et quod non intelligat quod sunt vna res numero 
-          esser<lb ed="#V" n="113" break="no"/>tialiter: vt putant sic arguentes: sed modo praemisso patet: quia nullo 
-          inter<lb ed="#V" n="114" break="no"/>posito addit. et quod illa quae est extra animam est ab illa quae est in anima. 
-          <lb ed="#V" n="115"/>Et declarat per exeum: quia sanitas quae est in corpore est a 
-          sanita<lb ed="#V" n="116" break="no"/>te quae est in anima: et idem frequenter dicit.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e678">
-          ⁋ Item ibidem dicit quod 
-          sa<lb ed="#V" n="117" break="no"/>nitas in anima est intellectus et diffinitio sanitatis: et post dicit quod 
-          <lb ed="#V" n="118"/>non est sanitas quae est exr animam. Non igitur vult quod sint eadem esentialiter: 
-          <lb ed="#V" n="119"/>sed quod tantum per assimilationem intelligat idemam illa sicut ipse manifestati 
-          <lb ed="#V" n="120"/>dici. quod ipse intendebat scilicet Arum. hoc deculare in hoc scilicet quod artificium in hoc 
-          <lb ed="#V" n="121"/>est simile nature scilicet quod fit ab eodem in forma: aut a simili: et est hoc principium intentum 
-          <lb ed="#V" n="122"/>ab eo ibidem scilicet omne quod fit: siue anam: siue ab arte. fit a sibi simili 
-          <lb ed="#V" n="123"/>aliquo modo vnde nunquam ita desipuit. P. aut Commentators. vt illam formam 
-          <lb ed="#V" n="124"/>existentem in anima putarent illam esse quae ex: quod praeter ea quae dictam sunt adhuc 
-          <lb ed="#V" n="125"/>patet ex eo quod ait Commentatoris. 12. meta. Ait enim sic. Forma enim eius quod fit:  
-          <lb ed="#V" n="126"/>est in anima et est aliud ab eo quod est extra animam. et sic ad illud. 
-          <lb ed="#V" n="127"/>Quantum ad 2m artimum dico quod singulare prius est cognitum 
-          <lb ed="#V" n="128"/>ab intellectum quam vniversale.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e707">
-          ⁋ Ad cuius probationem sup 
-          <lb ed="#V" n="129"/>pono vnum quod in 3o probabit. valet. quod vniversale non est aliqua res ex 
-          <lb ed="#V" n="130"/>animam: sed est tantum quidam conceptus fictus seu formatus per animam 
-          <!--91.xml-->
-          <pb ed="#V" n="47-v"/>
-          <cb ed="#V" n="a"/>
-          <lb ed="#V" n="1"/>communis pluribus rebus: aut forte signum aliquod exterius ad 
-          placi<lb ed="#V" n="2" break="no"/>cum institutum eo modo quo dicet in 3o
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e725">
-          ⁋ Quo supposito proba 
-          <lb ed="#V" n="3"/>tur propositum primo sic. antequam vniversale fingat seu formetur: aliquod 
-          sin<lb ed="#V" n="4" break="no"/>gulare est cognitum. igitur singulare prius est cognitum quam vniversale. 
-          <lb ed="#V" n="5"/>Antecedens probatur: quia impossibile est naturaliter abstrahere et fingere 
-          com<lb ed="#V" n="6" break="no"/>ceptum aliquem ab aliquibus rebus nisi ille res: vel alique earum 
-          <lb ed="#V" n="7"/>sint prius apprehense: quoniam de rebus omnino ignotis nullus 
-          conce<lb ed="#V" n="8" break="no"/>ptus formari potest: vt supra patet in. q. de noticia sensibilium: 
-          <lb ed="#V" n="9"/>et experientia idem docet. Aut igitur res de quibus conceptus 
-          <lb ed="#V" n="10"/>vniuersalis formatur: sunt note in seipsis: et habetur propositum: quia 
-          <lb ed="#V" n="11"/>quaelibet talis est singularis: aut sunt note aliqua specie recepta 
-          <lb ed="#V" n="12"/>a rebus: et adhuc habetur propositum: quoniam omne cuius recipi 
-          <lb ed="#V" n="13"/>tur species sic: et quod per eam cognoscit: est in se precognitum: 
-          <lb ed="#V" n="14"/>vt ibi supra patet: aut est cognitum in aliquo coceptu ficto: et 
-          <lb ed="#V" n="15"/>tunc vt pus arguitur: quoniam et antequam ille fingeretur necesse fuit 
-          <lb ed="#V" n="16"/>precognosci aliquam rem singularem: aut procederetur in infinitum 
-          <lb ed="#V" n="17"/>inconceptibus a parte ante: quod est impossibile. consequentia probatur. quia vniversale 
-          <lb ed="#V" n="18"/>intelligi id ipsum est: quod ipsum fingi: vel ipsum simul fingitur et 
-          in<lb ed="#V" n="19" break="no"/>telligit: aut prius fingitur quam intelligitur. Nam impossibile est quod 
-          <lb ed="#V" n="20"/>prius intelligatur quam fingat: quodcumque autem illorum detur. patet consequentia. 
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e767">
-          <lb ed="#V" n="21"/>⁋ Forte diceretur ad hoc quod verum est quod ante formationem 
-          <lb ed="#V" n="22"/>vniversalis aliquod singulare est notum: sed per sensum: non autem per 
-          in<lb ed="#V" n="23" break="no"/>tellectum. Contra hoc est intentio. P. et Commen. 12o meta. dicens quod 
-          <lb ed="#V" n="24"/>apud Arum. vniversalia sunt collecta ex particularibus in intellectum: 
-          <lb ed="#V" n="25"/>qui accipit inter ea similitudinem: et facit ea vnam intentionem. 
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e781">
-          <lb ed="#V" n="26"/>⁋ Intellectus igitur secundum Commentatoris. et vt di. secundum Aru. etiam faciens 
-          <lb ed="#V" n="27"/>intentionem vniversalem: accipit id est considerat: atque cognoscit 
-          consimi<lb ed="#V" n="28" break="no"/>litudinem inter particularia: et constat quod non potest eorum 
-          consimili<lb ed="#V" n="29" break="no"/>tudinem cognoscere: nisi cognoscat illa.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e792">
-          ⁋ Idem vult Eustra. 
-          <lb ed="#V" n="30"/>super primo ethi. vbi ait. quod post subsistentiam multorum anima in seipa 
-          <lb ed="#V" n="31"/>subsistere facit vniversalia propter hoc et animal vniversale nihil aut poste 
-          <lb ed="#V" n="32"/>rius. ipse Arum. in his quae de anima dici nihil autem quoniam secundum se quidem 
-          <lb ed="#V" n="33"/>non subsistit: posterius autem quoniam ad multorum existentiam et 
-          con<lb ed="#V" n="34" break="no"/>prehensionem ipsius consequitur intellectus.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e805">
-          ⁋ Ex quibus patet quod fictio 
-          <lb ed="#V" n="35"/>vniversalis praesupponit comprehensionem particularium: nec est 
-          imagi<lb ed="#V" n="36" break="no"/>nandum quod vna virtus comprehendat singularia et conuenien 
-          <lb ed="#V" n="37"/>tiam eorum. et alia formet vniversale: non plus quam quod vnus homo appre 
-          <lb ed="#V" n="38"/>hendat singularia: et alius abstrahat eorum vniversalem conceptum. 
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e816">
-          <lb ed="#V" n="39"/>⁋ Confirmatur per Commentatoris primo phy. quod licet indiuiduum non sit 
-          <lb ed="#V" n="40"/>principium in scientia demonstratiua: est tamen principium acquisitionis vniversalis: 
-          <lb ed="#V" n="41"/>quod est principium doctrine demonstratiue. Cum enim 
-          demonstratio<lb ed="#V" n="42" break="no"/>sit ex vniversalibus propositionibus: ideo noticia alicuius singularis 
-          de<lb ed="#V" n="43" break="no"/>terminati: siue complexa siue incomplexa: non est principium de 
-          <lb ed="#V" n="44"/>monstrationis: nec demonstratiue doctrine. Est tamen principium 
-          ac<lb ed="#V" n="45" break="no"/>quisitionis noticie vniversalis: sicut patet primo meta. et 2o poste. ita quod 
-          no<lb ed="#V" n="46" break="no"/>ticia singularis precedit noticiam vniversalis.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e836">
-          ⁋ Praeterea primum cognitum 
-          <lb ed="#V" n="47"/>ab intellectu non est aliquid factum ab intellectu. igitur sing 
-          <lb ed="#V" n="48"/>lare est primo cognitum ab intellectu. consequentia tbet. et antecedens probat: quia 
-          <lb ed="#V" n="49"/>primum cognitum ab intellectu precedit tempore vel natura 
-          <lb ed="#V" n="50"/>noticiam intellectus: quod autem factum est ab intellectu est 
-          poste<lb ed="#V" n="51" break="no"/>rius natura prima noticia intellectus et non prius.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e849">
-          ⁋ Praeterea vniversale 
-          <lb ed="#V" n="52"/>esset primo cognitum: aut prima noticia illius esset prima notitia 
-          <lb ed="#V" n="53"/>qua cognosceretur vt signum rerum extra: aut qua cognosceretur 
-          <lb ed="#V" n="54"/>vt quedam res secundum se: sed impossibile est vt prima noticia 
-          in<lb ed="#V" n="55" break="no"/>tellectus sit alicuius vt signum: cum noticia talis presuppona 
-          <lb ed="#V" n="56"/>noticiam rei alicuius in se cuius est signum: vt supra patet.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e863">
-          ⁋ Si 
-          <lb ed="#V" n="57"/>dicatur 2m tunc cum vniversale secundum se sit quedam res singularis: vt pa 
-          <lb ed="#V" n="58"/>tebit in 3o libro libet vt est signum plurium sit vniversale: sequitur quod prima 
-          <lb ed="#V" n="59"/>noticia intellectus erit alicuius singularis: vt singulare. 
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e872">
-          <lb ed="#V" n="60"/>⁋ Praeterea noticia non deseruiet aliquo modo ad noticiam 
-          <lb ed="#V" n="61"/>singularium habendam: nec noticia communioris vniversalis ad 
-          no<lb ed="#V" n="62" break="no"/>ticiam vniversalis minus communis: cuius tamen oppositum intendunt 
-          po<lb ed="#V" n="63" break="no"/>nentes vniversale prius cognosci singulari.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e883">
-          ⁋ Praeterea prius cognoscitur singulare 
-          <lb ed="#V" n="64"/>mere intelligibile. vbi gra. intellectio a volitio quam vniversale 
-          pre<lb ed="#V" n="65" break="no"/>cise illis commune. igitur prius intelligitur singulare sensibile quam 
-          <!--91.xml-->
-          <cb ed="#V" n="b"/> 
-          <!-- 47-v b -->
-          <lb ed="#V" n="66"/>vniversale talibus singularibus commune. igitur singulare prius intel 
-          <lb ed="#V" n="67"/>ligitur quam vniversale. Antecedens patet. quilibet enim quantumcumque grossus et rudis 
-          <lb ed="#V" n="68"/>mox cum incipit habere vsum rationis nouit et non nisi per 
-          in<lb ed="#V" n="69" break="no"/>tellectum determinate suam volitionem: qua vult aliqua rem 
-          <lb ed="#V" n="70"/>singularem determinate. Et tamen constat: quod non statim quilibet 
-          <lb ed="#V" n="71"/>talis habet conceptum specificum vel alium vniversalem illis 
-          singulari<lb ed="#V" n="72" break="no"/>bus proprium: nec omnium est tales conceptus abstrahere. Com 
-          <lb ed="#V" n="73"/>sequentia prima patet: quia cum singulare sensibile intelligibile sit 
-          <lb ed="#V" n="74"/>ab intellectu: vt supra patet eadem ratione de eo respectu vniversalis sui 
-          <lb ed="#V" n="75"/>qua de aliis. patet etiam quoniam ratio que videretur ab aliis 
-          assigna<lb ed="#V" n="76" break="no"/>ri. valet. de processu nature ab imperfecto ad perfectum: et noticia 
-          <lb ed="#V" n="77"/>confusa ad determinatam non plus in his locum habet quam in illis. 
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e922">
-          <lb ed="#V" n="78"/>⁋ hoc potest etiam probari ex intentione Aug. 8. de tri. et libro modo  
-          <lb ed="#V" n="79"/>vbi vult quod noticia vniversalis siue secundum speciem siue secundum genus 
-          col<lb ed="#V" n="80" break="no"/>ligitur ex plurium similitudine singularium visorum in se: sicut 
-          <lb ed="#V" n="81"/>etiam. P. et Commentatoris. dicunt: vt supra patet.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e933">
-          ⁋ Dico igitur: quod cuiuslibet i 
-          <lb ed="#V" n="82"/>vniversalis noticiam. praecedit notitia singuaitoa ipsius in intellectu: quamuis non 
-          cu<lb ed="#V" n="83" break="no"/>iuslibet singuationia notitia praecedat in intellectum notitiam sui vniversalis: immo etiam nec 
-          <lb ed="#V" n="84"/>isensu. Nam multi habent conceptum vniversalem homnis qui numquam quemlibet sin 
-          <lb ed="#V" n="85"/>gularem hominem in se nouerunt. Contra istud arguunt 
-          ali<lb ed="#V" n="86" break="no"/>qui dicentes quod singulare in rebus materialibus non 
-          intelligi<lb ed="#V" n="87" break="no"/>tur directe ab intellectu nostro: sed indirecte et per quan ergo 
-          <lb ed="#V" n="88"/>dam reflexionem. Cuius ratio est: quia principium singularitatis in rebus ego 
-          <lb ed="#V" n="89"/>materialibus est materia indiuidualis: intellectus autem noster 
-          <lb ed="#V" n="90"/>intelligit abstrahendo speciem intelligibilem ab huiusmodi materia: 
-          <lb ed="#V" n="91"/>qd autem a materia indiuiduali abstrahitur est vniversale. vnde intel 
-          <lb ed="#V" n="92"/>lectus noster directe non est cognoscitiuus nisi vniversalium: per 
-          <lb ed="#V" n="93"/>reflexionem autem cognoscit singularia: quia intellectus etiam 
-          <lb ed="#V" n="94"/>postquam abstraxit species intelligibiles non potest secundum eas actu 
-          <lb ed="#V" n="95"/>intelligere nisi conuertendo se ad fantasmata: in quibus 
-          <lb ed="#V" n="96"/>species intelligibiles intelligit. Conuertendo se ad 
-          fantasma<lb ed="#V" n="97" break="no"/>ta intelligit singularia quorum sunt fantasmata: et sic prius in 
-          <lb ed="#V" n="98"/>telligit vniversale quam singulare.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e972">
-          ⁋ Pro hac opinione inducitur 
-          <lb ed="#V" n="99"/>verbum philosophi 3o de ania. et Commenta. quo videntur dicere quod 
-          indiui<lb ed="#V" n="100" break="no"/>duum non intelligitur: nisi per lineam circumflexam aut 
-          sperica<lb ed="#V" n="101" break="no"/>lem: quiditatem autem vniversalem per lineam rectam.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e982">
-          ⁋ Item 
-          di<lb ed="#V" n="102" break="no"/>ctum eiusdem primo phy. vbi ait. quod vniversale est notius secundum intel 
-          <lb ed="#V" n="103"/>lectum: singulare vero notius est secundum sensum: quod autem est 
-          no<lb ed="#V" n="104" break="no"/>tius secundum intellectum prius cognoscitur ab intellectu.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e991">
-          ⁋ Addum 
-          <lb ed="#V" n="105"/>citur etiam ratio ad hoc: quia omne quod procedit de potentia in actum 
-          <lb ed="#V" n="106"/>prius peruenit in actum incompletum qui est medium inter 
-          po<lb ed="#V" n="107" break="no"/>tentiam et actum: quam ad actum perfectum: intellectus autem non 
-          <lb ed="#V" n="108"/>ster procedit de potetia in actu: et actus eius perfectus est 
-          <lb ed="#V" n="109"/>scientia completa per quam distincte et determinate res cognosci 
-          <lb ed="#V" n="110"/>tur: actus aut incompletus est scientia imperfecta per quam sciuntur 
-          <lb ed="#V" n="111"/>res indistincte sub quadam confusione: quod enim sic cognoscitur 
-          <lb ed="#V" n="112"/>in actu cognoscitur quodam modo in potentia. Unde dicit. P. 
-          <lb ed="#V" n="113"/>primo phy. quod sunt primo nobis manifesta et certa confusa magis. 
-          <lb ed="#V" n="114"/>posterius autem cognoscimus distinguendo distincte 
-          princi<lb ed="#V" n="115" break="no"/>pia et elementa. Manifestum autem est quod cognoscere aliquid  
-          <lb ed="#V" n="116"/>in quo plura continentur sine hoc quod habeatur notitia cuiuslibet eorum 
-          <lb ed="#V" n="117"/>que continentur in illo: est aliquid cognoscere sub confusione 
-          <lb ed="#V" n="118"/>quadam: sic autem potest cognosci tam totum vniversale: quam totum integrale. 
-          <lb ed="#V" n="119"/>igitur cognitio vniversalis praecedit cognitionem singularis.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1026">
-          ⁋ hec 
-          <lb ed="#V" n="120"/>potinent quedam falsa et etiam repugnantia aliis dictis eiusdem 
-          <lb ed="#V" n="121"/>doc. vnde sumo primam intellectionem intellectus: et quero an per 
-          <lb ed="#V" n="122"/>illam cognoscatur ipsa species abstracta vniversalis aut fantasma 
-          sin<lb ed="#V" n="123" break="no"/>gulare: aut res extra vna vel plures: quarum est species illa 
-          ab<lb ed="#V" n="124" break="no"/>stracta.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1039">
-          ⁋ Si primum manifeste sibi contradicit qui in 
-          praeceden<lb ed="#V" n="125" break="no"/>ti. q. 85. artitio 2o ex intentie determinatur quod species non intelleiter primo: sed 
-          secunda<lb ed="#V" n="126" break="no"/>rio tantum et per reflexionem: secundum quam intellectus intelligit: et suum intellecte: et 
-          <lb ed="#V" n="127"/>speciem quam intellect: quod aut primo intellecter est res: cuius species intelligibilis est 
-          <lb ed="#V" n="128"/>similitudo: vt dicunt. Et in prima intellecinum spes non est quod intelliter: sed est 
-          <lb ed="#V" n="129"/>tantum forma secend quam res: cuius species intellecter.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1052">
-          ⁋ Praeterea hoc est est siultum secundum se: 
-          pro<lb ed="#V" n="130" break="no"/>batum enim est supra quod abstractio vniversalis praesupponit priorem notititam in intellectu. 
-          <!--92.xml-->
-          <pb ed="#V" n="48-r"/>
-          <cb ed="#V" n="a"/>
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1063">
-          <lb ed="#V" n="1"/>⁋ Si dicat 2m contradicit sibi et habetur propositum. Nam fantas 
-          <lb ed="#V" n="2"/>ma secundum ipsos est mere singulare et non vniversale. Si detur 3m sicut 
-          <lb ed="#V" n="3"/>oportet eos dare secundum dicta eorum. q. proxima vel proximo allegata 
-          <lb ed="#V" n="4"/>habetur propositum. Nam secundum veritatem et secundum ipsos qualibet res talis 
-          <lb ed="#V" n="5"/>est mere singularis: et per consequens primum cognitum ab intellectum est sin 
-          <lb ed="#V" n="6"/>gulare.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1080">
-          ⁋ Si dicatur quod intellectus per suo actu cognoscit rem extra: 
-          <lb ed="#V" n="7"/>abstrahendo eam tamen a coditionibus indiuidualibus eius. verbi gratia. 
-          <lb ed="#V" n="8"/>intelligit hominem quantum ad ea quae pertinent ad rationem speciei: non 
-          intelli<lb ed="#V" n="9" break="no"/>gendo principiom indiuidualia quae non sunt de ratione speciei. et istud est 
-          ab<lb ed="#V" n="10" break="no"/>strahere vniversale a particulari vt dicunt: et sic stat quod primo intelligat vniversale: 
-          <lb ed="#V" n="11"/>non autem singulare.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1093">
-          ⁋ Contra. aut res quam dicis abstrahi ab 
-          <lb ed="#V" n="12"/>intellectu isto modo: et intelligi prima intellectone sumpta praecise secundum ea que 
-          <lb ed="#V" n="13"/>pertinent ad rationem speciei est res aliqua singularis: et habetur propositum 
-          <lb ed="#V" n="14"/>quod singulare primo intellecter: nec talis abstractio impedit. Aut est communis 
-          <lb ed="#V" n="15"/>pluribus: et hoc est contra eos: et contra id quod suppositum est in principio uius arti. 
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1104">
-          <lb ed="#V" n="16"/>⁋ Praeterea hosmodi intellectonem: abstrahentem sic naturam a conditionibus 
-          indi<lb ed="#V" n="17" break="no"/>uidualibus valde difficile est habere: sicut experiri quilibet potest: vnde 
-          <lb ed="#V" n="18"/>nullo modo potest esse prima notitia intellectus.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1113">
-          ⁋ Praeterea sti dicut quod intellectus 
-          <lb ed="#V" n="19"/>nioiter pro statu isto nullam rem materialem potest intelligere: nisi conuertendo 
-          <lb ed="#V" n="20"/>se ad fantatia. Ita quod necessario ad hoc quod intelligat obiectum suum proprium 
-          <lb ed="#V" n="21"/>scilicet nturam vniversalem in particulari existentem oportet quod conuertat se ad fantatia 
-          <lb ed="#V" n="22"/>ipsa singularium. Ad fantaptiva autem non aliter conuertitur: nisi ipsa intel 
-          <lb ed="#V" n="23"/>ligendo et inspiciendo: sic ipsimet est innuunt.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1126">
-          ⁋ Ex quo sequitur primo 
-          <lb ed="#V" n="24"/>quod intellectus nam vniversalem non intelligit: nisi conuersus ad fantativa: et per 
-          <lb ed="#V" n="25"/>consequens non directe: sed per reflexionem secundum ipsos: qui ideo dicunt 
-          singu<lb ed="#V" n="26" break="no"/>lare per reflexionem tantum intelligi: quia non intellecter nisi in intellectum 
-          con<lb ed="#V" n="27" break="no"/>uertente se ad fantativa.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1137">
-          ⁋ Item sequitur quod primum cognitum ab inte 
-          <lb ed="#V" n="28"/>lectu est fantasma: et vlterius cum fanium repraesentet tantum 
-          singula<lb ed="#V" n="29" break="no"/>re: et singulariter non abstrahendo a conditionibus 
-          indiuidua<lb ed="#V" n="30" break="no"/>libus secundum istos: sequitur quod fantasma ipsum solum singulare 
-          in<lb ed="#V" n="31" break="no"/>telligatur et non vniversale: aut saltem prius et magis directe.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1149">
-          ⁋ Amplius 
-          <lb ed="#V" n="32"/>cum vt in praecedentibus est probatum quod per nullam speciem receptam aliqua 
-          <lb ed="#V" n="33"/>res cognosci possit quae non sit prius cognita in se: sequitur quod ante no 
-          <lb ed="#V" n="34"/>ticiam rei in fantatie sit ipsa res singularis cognita in 
-          seipa<lb ed="#V" n="35" break="no"/>et cum notitia fantatiem sit prior vel simul aut eadem cum noticia ipsius 
-          <lb ed="#V" n="36"/>vniversalis secundum dicta istorum: vt probatum est: sequitur quod simpliciter primum 
-          co<lb ed="#V" n="37" break="no"/>gnitum sit ipsum singulare ex.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1165">
-          ⁋ Praeterea aut intellectas noster non potest 
-          in<lb ed="#V" n="38" break="no"/>telligere rem aliquam materialem: nisi abstrahendo eam a 
-          particulari<lb ed="#V" n="39" break="no"/>bus conditionibus materie: et tunc sequitur quod nunquam intelligit singula 
-          <lb ed="#V" n="40"/>re secundum istos: cuius tamen oppositum dicut. aut potest intelligere est non 
-          ab<lb ed="#V" n="41" break="no"/>strahendo: et tunc non habetur plus quod prius intelligat vniversale: quam sin 
-          <lb ed="#V" n="42"/>gulare quam quod singulare prius quam vniversale.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1178">
-          ⁋ Praeterea sti dicunt quod singu 
-          <lb ed="#V" n="43"/>lari materiali non repugnat intelligi inquantum singulare est: sed inquantum 
-          <lb ed="#V" n="44"/>materiale est. Et constat quod non possunt hoc intelligere: nisi de intellectone 
-          <lb ed="#V" n="45"/>directa et prima: quia intellecti indirecte et per reflexionem non repugnat 
-          <lb ed="#V" n="46"/>secundum eos singulari materiali et vt est materiale. igitur repugnat ei intellectr 
-          <lb ed="#V" n="47"/>primo praecise: quia materiale. igitur hoc etia repugnat nature materiali vniversali: cum illa 
-          <lb ed="#V" n="48"/>secundum eos non abstrahat a materia simpliciter: sed indiuiduali tantum. et per 
-          <lb ed="#V" n="49"/>consequens primum cognitum ab intellectum nostro non est vniversale vt dicunt.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1196">
-          ⁋ Praeterea 
-          <lb ed="#V" n="50"/>prima notitia intellectas secundum eos est notitia alicuius totius vniversalis in quo plures con 
-          <lb ed="#V" n="51"/>tin entur entitates. Constat autem quod nulla res ex animam etiam 
-          qualitercum<lb ed="#V" n="52" break="no"/>que intellcta est aliquod huiusmodi tositum continens plura continetia scilicet totius vniversalis: 
-          <lb ed="#V" n="53"/>quamuis continentia totius integralis aliqua res plura contineat: vnde per hoc 
-          <lb ed="#V" n="54"/>quod aliqua res ex animam intellitur non intellecto aliquo extriniosibi siue 
-          <lb ed="#V" n="55"/>sit conditio indiuidualis: siue aliud non sit communis pluribus rebus non plut 
-          <lb ed="#V" n="56"/>quam sonus qui auditur nullo alio audito.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1214">
-          ⁋ Item nullum existens in anima 
-          <lb ed="#V" n="57"/>sequens intellectionem potest esse tale totum primo cognitum. igitur est aliquid 
-          <lb ed="#V" n="58"/>in aia praeueniens intellectionem saltem natura si non tempore. Et non videtur quid 
-          pos<lb ed="#V" n="59" break="no"/>sit dici esse illud: nisi species rei extra: et per consequens primum cognitum ab 
-          in<lb ed="#V" n="60" break="no"/>tellectum est species. hoc aut repugnat dictis eorum: ac est falsum est secundum 
-          <lb ed="#V" n="61"/>se: vt. supra patet.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1227">
-          ⁋ Tenendum est itaque pro constanti quod primo cognitum ab 
-          in<lb ed="#V" n="62" break="no"/>tellectum est res aliqua singularis: nec motiua istorum habent 
-          effica<lb ed="#V" n="63" break="no"/>ciam. Primum quidem non: quoniam quicquid dicunt de tali reflexione 
-          fal<lb ed="#V" n="64" break="no"/>sum est: nec illud ponit. P. sed potius oppositum manifeste: vnde ait. 
-          <lb ed="#V" n="65"/>quod anima sensitiua calitm et frcentum iudicat: et quorum ratio quaedam caro. 
-          <!--92.xml-->
-          <cb ed="#V" n="b"/> 
-          <!-- 48-r b -->
-          <lb ed="#V" n="66"/>alio autem autm seperato aut circumflexe se habet ad seipsam cum extem 
-          <lb ed="#V" n="67"/>sa sit carni esse discernit. vbi patet quod philosophus vult quod singulare 
-          <lb ed="#V" n="68"/>sensibile anima directe apphendat: mediante sensu tamen secundum in 
-          <lb ed="#V" n="69"/>tellectum supra datum. Deide quiditatem quam intelligit per carni 
-          <lb ed="#V" n="70"/>esse siue per quiditatem intelligat formam existentem in materia quae 
-          princi<lb ed="#V" n="71" break="no"/>palior est pars quiditatis: vt quidam dicunt: siue vniversale ipsum: vt opi 
-          <lb ed="#V" n="72"/>nantur alii: siue quicquid aliud intelligat per quiditatem: ania. q. 
-          circu<lb ed="#V" n="73" break="no"/>flexa ad seipsam discernit. Unde Commentatoris. ibidem ait. necesse est vt 
-          <lb ed="#V" n="74"/>forma experimentetur scilicet ab anima aut per dispositionem similem linesse 
-          <lb ed="#V" n="75"/>recte scilicet cum intellexit primam formam existentem in hac re singulari. aut 
-          <lb ed="#V" n="76"/>secundum dispositionem similem linesse sepericali scilicet quando fuerit reuersa 
-          quaeren<lb ed="#V" n="77" break="no"/>do intelligere quiditatem illius forme: deinde quiditatem illius quidi 
-          <lb ed="#V" n="78"/>tatis: quousque perueniat ad simplicem quiditatem. vbi patet quod illud 
-          <lb ed="#V" n="79"/>quod intellecter quasi circumflexe est quiditas: singulare vero cuius est 
-          quidi<lb ed="#V" n="80" break="no"/>tas primo: et directe: et si per quiditatem intelligat vniversale. sequitur quod in 
-          <lb ed="#V" n="81"/>tendit vniversale intelligi per reflexionem: singulare vero directe. 
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1280">
-          <lb ed="#V" n="82"/>⁋ Ad aliam auctoritatem. P. primo phy. quamuis varie dentur ab aliquibus 
-          <lb ed="#V" n="83"/>expositiones. dico quod. P. ibidem nullam facit comparationem 
-          <lb ed="#V" n="84"/>inter noticiam singularis et noticiam sui vniversalis secundum sensum et in 
-          <lb ed="#V" n="85"/>tellectum: vt estimant multi. et hoc patet primo considerato 
-          proposi<lb ed="#V" n="86" break="no"/>to de quo loquitur.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1293">
-          ⁋ Dicit enim quod antiqui conueniebant in hoc 
-          <lb ed="#V" n="87"/>quod omnes ponebant principio contraria: differebant tamen inter cetera 
-          <lb ed="#V" n="88"/>in hoc quod contraria que ponebantur principim ab aliquibus sunt 
-          no<lb ed="#V" n="89" break="no"/>tiora secundum sensum: que vero ponebantur principim ab aliis sunt 
-          notio<lb ed="#V" n="90" break="no"/>ra secundum intellectum. vbi gratia quidam ponebant principio magnum et par 
-          <lb ed="#V" n="91"/>uum: par et impar: que notiora sunt secundum intellectum. Calidum 
-          <lb ed="#V" n="92"/>vero et frigidum rarum et densum que ponebantur ab aliis esse 
-          prin<lb ed="#V" n="93" break="no"/>cipia sunt notiora secundum sensum. Constat autem quod omnia hec 
-          nomi<lb ed="#V" n="94" break="no"/>na sunt vniversalia: licet quedam plus: quedam vero minus.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1313">
-          ⁋ Secundo idem 
-          <lb ed="#V" n="95"/>patet per Commentatoris. ibiud qui exponendo dicit. Et quidam accipiunt illi 
-          <lb ed="#V" n="96"/>quod est prius apud intellectum in cognitione et est illud quod est 
-          <lb ed="#V" n="97"/>magis vniversale: et quidam accipiunt illud quod est prius apud sensum: 
-          <lb ed="#V" n="98"/>et est illud quod est magis particulare: et post subdit. quod compara 
-          <lb ed="#V" n="99"/>tio inter comprehensibilia ab intellectu et sensu non 
-          verifica<lb ed="#V" n="100" break="no"/>tur: nisi respectum communis comprehensionis.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1329">
-          ⁋ Item sequenti commen 
-          <lb ed="#V" n="101"/>to. ait: quoniam magnum et paruum sunt magis vniversalia: quam rarum et 
-          den<lb ed="#V" n="102" break="no"/>sum: ideo attribuuntur magis intellectui: et rarum et densum ma 
-          <lb ed="#V" n="103"/>gis sensui. Et hoc est ita: quia rarum et densum comprehenduntur 
-          <lb ed="#V" n="104"/>in corporalibus sensibilibus naturalibus. Magnum autem  paruum 
-          <lb ed="#V" n="105"/>comprehenduntur in corporalibus naturalibus et mathematicis: 
-          <lb ed="#V" n="106"/>hec Commentatoris. Ex quo patet: quod illa comparatio fit inter principim magis 
-          <lb ed="#V" n="107"/>et minus vniversalia vel communia: et minus communia vocantur singularia 
-          re<lb ed="#V" n="108" break="no"/>spectu communiorum: sicut etiam in principio dicti libri. cum. P. dicit quod oportet 
-          <lb ed="#V" n="109"/>ab vniversalibus in singularia procedere. non intendit: vt dicit 
-          Com<lb ed="#V" n="110" break="no"/>mentator. per singularia ipsa indiuidua: sed vltimas species 
-          <lb ed="#V" n="111"/>aut illa que sunt quasi species vltime.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1355">
-          ⁋ Aduertendum tamen: quod cum 
-          <lb ed="#V" n="112"/>dicitur quod magis vniversalia notiora sunt secundum intellectum: et minus 
-          <lb ed="#V" n="113"/>vniversalia secundum sensum: accipiendi sunt isti actus exerciti pro istis 
-          <lb ed="#V" n="114"/>aliis significatis: de magis vniversalibus verificatur esse notiora 
-          <lb ed="#V" n="115"/>secundum intellectum et de minus vniversalibus verificatur esse notiora secundum 
-          <lb ed="#V" n="116"/>sensum: qui debent exerceri sumptis aliquibus terminis 
-          <lb ed="#V" n="117"/>vniversalioribus. verbi gratia. magnum et paruum: et aliquibus minus vniversali 
-          <lb ed="#V" n="118"/>bus. verbi gratia. calidum et frigidum. sic magnum et paruum sunt no 
-          <lb ed="#V" n="119"/>tiora secundum intellectum: sic calidum et frigidum notiora sunt secundum 
-          <lb ed="#V" n="120"/>sensum. in quibus subiecta supponunt pro rebus 
-          singulari<lb ed="#V" n="121" break="no"/>bus: vnde in actibus significatis fit comparatio inter magis et 
-          <lb ed="#V" n="122"/>minus vniversale: in exercitis vero fit comparatio inter singularia 
-          <lb ed="#V" n="123"/>communioris: et singularia minus communis: quae tamen non se habent sicut per 
-          <lb ed="#V" n="124"/>se superius et inferius sic quod vnum de altero praedicetur in prim modo 
-          di<lb ed="#V" n="125" break="no"/>cendi per se.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1388">
-          ⁋ Praeterea quod Commentators. dicit esse prius apud sensum vel in 
-          <lb ed="#V" n="126"/>tellectum non est accipiendum de prioritate generationis: sed perfectionis. id est 
-          <lb ed="#V" n="127"/>perfectius notum: et eodem modo intelligit. P. quando dicit quod est notius: et 
-          <lb ed="#V" n="128"/>tunc est verum quod dicitur. Nam sensibilia minus communia perfectius a sensu 
-          <lb ed="#V" n="129"/>cognoscuntur: quam communiora: vt patet in exemplis positis: et communiora 
-          per<lb ed="#V" n="130" break="no"/>fectius cognoscuntur ab intellectu.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1402">
-          ⁋ Si tamen velimus accipere dictum. P. 
-          <!--93.xml-->
-          <pb ed="#V" n="48-v"/>
-          <cb ed="#V" n="a"/>
-          <lb ed="#V" n="1"/>tanquam loquens de singulari: vt distinguitur contra commune: tunc 
-          di<lb ed="#V" n="2" break="no"/>co quod comperatio non potest vtrobique proprie sumi. patet: quia siue fiat con 
-          <lb ed="#V" n="3"/>paratio inter potentias respectum eiusdem obiecti. vbi gratia dicende 
-          <lb ed="#V" n="4"/>quod singulare est notius secundum sensum: quam secundum intellectum: et universale 
-          notiti<lb ed="#V" n="5" break="no"/>secundum intellectum: quam secundum sensum: siue fiat comperatio inter diuersa obiecta 
-          <lb ed="#V" n="6"/>recu eiusdem potentie. vebi gratia dicendo. singulare notius est secundum 
-          sen<lb ed="#V" n="7" break="no"/>sum: quam vniversale: et vniversale est notius secundum intellectum: quam singulare: semper 
-          se<lb ed="#V" n="8" break="no"/>quitur quod vniversale sit notum secundum sensum: quod est falsum.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1428">
-          ⁋ Et ideo dicen 
-          <lb ed="#V" n="9"/>dum quod si fiat comperatio primo modo aliter et aliter hincinde exponi debent 
-          <lb ed="#V" n="10"/>verba. Nam ideo singulare dicitur notius secundum sensum: quam secundum intellectum: quia 
-          <lb ed="#V" n="11"/>sensus apprehendere potest singulare absque hoc quod intellectus apphen 
-          <lb ed="#V" n="12"/>dat vel apphenderit ipsum. Intellectus autem non potest absque sensu: 
-          <lb ed="#V" n="13"/>tunc vel prius apphendete apphendere singulare et 
-          sensibi<lb ed="#V" n="14" break="no"/>le de quo est sermmo. Ule autem ideo notius dicitur secundum intellectum: quia tantum ab 
-          in<lb ed="#V" n="15" break="no"/>tellectu est notum.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1446">
-          ⁋ Si vero fiat comperatio 2o modo tunc io dicitur quod secundum 
-          <lb ed="#V" n="16"/>sensum singulare notius est vniversali: quia singulare notum est sensu: 
-          <lb ed="#V" n="17"/>non autem vniversale vniversale vero notius est secundum intellectum: quam singulare: aut quia 
-          <lb ed="#V" n="18"/>est ei proprium nosse vniversale: non autem nosse singulare. cum est sensus 
-          <lb ed="#V" n="19"/>nouerit singulare: aut quia intellectis non actualiter concurrente 
-          notiti<lb ed="#V" n="20" break="no"/>cia sensus per seipum potest nosse vniversale et perfectius quam singulare quod 
-          <lb ed="#V" n="21"/>vtrum sit vel non sit cognoscere non potest: nisi mediante sensu: et 
-          lo<lb ed="#V" n="22" break="no"/>quor semper de singulari sensibili.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1464">
-          ⁋ Ad rationem ipsorum dicendum: quod 
-          <lb ed="#V" n="23"/>alique actum esse medium inter potentiam et alium actum potest intelligi 2a 
-          <lb ed="#V" n="24"/>Uno scilicet secundum ordinem generationis: sic quod prius transmutetur in illum 
-          <lb ed="#V" n="25"/>actum: quam in alium: vel secundum ordinem perfectionis: quia scilicet actus ille 
-          perfe<lb ed="#V" n="26" break="no"/>ctior est quam poteso et imperfectior quam alius actus. Si maior intelligatur prim 
-          <lb ed="#V" n="27"/>modo minor est falsa et petit principium. Nam noticia vniversalis non est hoc 
-          <lb ed="#V" n="28"/>modo media: immo semper ante eam praehabetur notitia alicuius singularis. Similiter 
-          <lb ed="#V" n="29"/>hoc est quod principaliter quaeritur: et ideo petitur quod est in principio Si vero maiori 
-          <lb ed="#V" n="30"/>intelligatur 2o modo: vt sit sensus: quod omne quod procedit de poteso ad actum primo 
-          <lb ed="#V" n="31"/>peruenit in actum minus perfectum: quam in magis perfectu: propositio non 
-          <lb ed="#V" n="32"/>est vera. Patet enim quod aer prius transmutat ad lucem: quam ad calorem: 
-          <lb ed="#V" n="33"/>et tamen lux est perfectior calore sic intellectus et voluntas prus 
-          transmu<lb ed="#V" n="34" break="no"/>tantur ad actum: quam ad habitum: et tamen actus est perfectior.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1493">
-          ⁋ Item 
-          ali<lb ed="#V" n="35" break="no"/>quando prius habetur notitia de re perfectiore: quam imperfectiore. vbi gratia. 
-          <lb ed="#V" n="36"/>de hoc actu intelligendi: quam de hoc sapore vel odore illo.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1500">
-          ⁋ Item 
-          <lb ed="#V" n="37"/>rectus eiusdem complexi obiecti aliquando prius aliquis acquirit scientiam a priori 
-          <lb ed="#V" n="38"/>et alius scientiam a posteriori: quae scientie non sunt equae perfecte: et multe 
-          <lb ed="#V" n="39"/>aptilo possent instantie dari.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1510">
-          ⁋ Et si dicatur quod na semper procedit de imper 
-          <lb ed="#V" n="40"/>fecto ad perfectum non econtra.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1515">
-          ⁋ Dudenmm quod hoc potest duplicem sensum 
-          <lb ed="#V" n="41"/>habere. vnus est quod semper natura prius facit in re illud quod est imperfectius: quam 
-          il<lb ed="#V" n="42" break="no"/>lud quod est perfectius comperando illa duo praecise inter se: et in hoc sensu fal 
-          <lb ed="#V" n="43"/>sum est quod dicitur patet enim quod in corpore animalis prius generatur cor: qua 
-          <lb ed="#V" n="44"/>pes vel manus: et constat quod cor nobilius membrum est. Alius sensus 
-          <lb ed="#V" n="45"/>est quod natura prius facit rem aliquam imperfecte et imperfectam: et post illam 
-          ea<lb ed="#V" n="46" break="no"/>dem perficit: ita quod sit comperatio non inter illa facta praecise: quibus fact 
-          <lb ed="#V" n="47"/>res dicitur perfectior et imperfectior: sed fit comperatio eiusdem rei secundum quod 
-          ali<lb ed="#V" n="48" break="no"/>quando est perfecta et aliquando imperfecta: et hoc est verum in his quae non fiunt 
-          <lb ed="#V" n="49"/>ubito. Sed cum hoc stat quod actus vlterior quo res est perfecta sit 
-          <lb ed="#V" n="50"/>imperfectior actu priore. vbi gratia. homo prius fit imperfectus carens scientia 
-          <lb ed="#V" n="51"/>et virtute: et postea perficitur virtutibus et scientia: et tamen eius anima quae prius 
-          <lb ed="#V" n="52"/>fuit nobilior est quam scientia et virtus.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1544">
-          ⁋ Item corpus humanum prius 
-          <lb ed="#V" n="53"/>fit secundum partem et imperfectum: et tamen partes nobiliores prius fiunt. Sed homo 
-          <lb ed="#V" n="54"/>cum anima et scientia ac virtutibus est quid perfectius: quam homo tantum. Similiter cor 
-          <lb ed="#V" n="55"/>pus cum omnibus membris nobilioribus et ignobilioribus perfectius 
-          <lb ed="#V" n="56"/>est quam cum nobilioribus tantum. Sic in proposito anima est perfectior 
-          <lb ed="#V" n="57"/>habens noticiam de singulari et universali: quam de singulari tantum: et ideo non 
-          <lb ed="#V" n="58"/>obstante quod sensus noscat singulare: et deinde vniversale: esto quod 
-          no<lb ed="#V" n="59" break="no"/>ticia singularis esset perfectior quam vniversalis: adhuc procederetur de 
-          <lb ed="#V" n="60"/>esse imperfecto ad esse perfectum.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1564">
-          ⁋ Ad dictum autem. P. primo phy. quod 
-          in<lb ed="#V" n="61" break="no"/>terponitur dicetur in solutione primi argumentum ad. q.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1569">
-          ⁋ Et si dicatur vt 
-          <lb ed="#V" n="62"/>etiam dicit primo phy. quod pueri vocant virum omnem patrem. deinde deter 
-          <lb ed="#V" n="63"/>minate eum qui est piter cognoscunt: et per consequens prius habent noticiam 
-          confu<lb ed="#V" n="64" break="no"/>sam: quam determinatam. Similiter idem declarat de corpore a remotis 
-          <lb ed="#V" n="65"/>viso quod quidem prius cognoscitur in confuso: quam distincte.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1580">
-          ⁋ Rsponsio quod 
-          <!--93.xml-->
-          <cb ed="#V" n="b"/> 
-          <!-- 48-v b -->
-          <lb ed="#V" n="66"/>ista nihil ad propositum faciunt. Nam pueri tunc nullum vniversale cognoscunt:  
-          <lb ed="#V" n="67"/>sed singulare tantum. vnde cum puer virum qui non est pater eius vocat patrem: 
-          <lb ed="#V" n="68"/>certum est quod virum singularem apphedit: et ideo illud exmpum non probat 
-          <lb ed="#V" n="69"/>quod prius cognoscatur vniversale aliquod: quam singulare: sed solum quod singulare 
-          <lb ed="#V" n="70"/>bus cognoscatur cognitione imperfecta et debili: cuius virtute non potest 
-          <lb ed="#V" n="71"/>hacere puer iudicium discretiuum vltimatum et perfectum quaoe determi 
-          <lb ed="#V" n="72"/>nate nouerit hunc non esse patrem eius: et hunc alium esse: quam notitia 
-          <lb ed="#V" n="73"/>clara et perfecta: qua tale iudicium possit haberi. Quod est contingit in 
-          <lb ed="#V" n="74"/>animalibus ratione carentibus: qua tamen nullius vniversalis sunt apprehensiua: vnde 
-          <lb ed="#V" n="75"/>agnus primo sequitur omnem oue: sicut monstrem: et postea determinate 
-          sequi<lb ed="#V" n="76" break="no"/>tur matrem tantum: quod non prouenit: quia prius habeat noticiam alicuius 
-          <lb ed="#V" n="77"/>vniversalis: sed quia imperfectam noticiam prius habet de singulari: et postea 
-          per<lb ed="#V" n="78" break="no"/>fectiorem: vt dictum est de pueris. Similiter quae ad aliud expum patet: quod 
-          <lb ed="#V" n="79"/>siue de propinquam siue de remoto corpus videatur semper videtur singulare: 
-          <lb ed="#V" n="80"/>sed de propinquae perfectior habter notitia quam de remoto: et ita contingit in 
-          <lb ed="#V" n="81"/>aliis animalibus: vt in homine: vnde non probatur quod vniversale sit prius 
-          notum<lb ed="#V" n="82" break="no"/>Quantum ad 3m artinum dico quod singulare sensibile 
-          <lb ed="#V" n="83"/>prius est intellectum a nobis: quam singulare 
-          in<lb ed="#V" n="84" break="no"/>sensibile: ad materie intelligibile: hoc autem magis patet per experientiam: 
-          <lb ed="#V" n="85"/>quam per rationem. Potest tamen argui sic. sensibilia prius intelliguntur a. 
-          <lb ed="#V" n="86"/>nobis: quam insensibilia. igitur sensibile singulare prius cognitum 
-          <lb ed="#V" n="87"/>est ab intellectum. consequentia patet ex dictis. Antecedens probatur: quia omne 
-          intelligibi<lb ed="#V" n="88" break="no"/>le et insensibile vel est ipsa anima vel aliquid in ea vel aliquid extra 
-          <lb ed="#V" n="89"/>animam. Constat autem quod insensibilia quae sunt extra animam non cognoscimus 
-          <lb ed="#V" n="90"/>nisi praehabita noticia aliquorum aliorum. Ea vero quae sunt in anima: vel 
-          <lb ed="#V" n="91"/>sunt species aut conceptus: vel actus aut habitus: sed nec species nec ali 
-          <lb ed="#V" n="92"/>quis conceptus potest esse primum cognitum: vt ex superioribus patet.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1649">
-          ⁋ Item 
-          <lb ed="#V" n="93"/>nec aliquis actus: quia non actus intellectus. Nam primus actus non est 
-          cogni<lb ed="#V" n="94" break="no"/>tus seipo: sed alio actu: si tamen cognitus sit: vt patet in primea di. vbi 
-          pro<lb ed="#V" n="95" break="no"/>batum est quod actus rectus et reflexus non sunt idem.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1658">
-          ⁋ Item nec 
-          <lb ed="#V" n="96"/>actus voluntatis potest esse primum cognitum ab intellectu: cum volitio 
-          prae<lb ed="#V" n="97" break="no"/>supponat intellectionem. Similiter ipsa anima siue intellectus et voluntas 
-          <lb ed="#V" n="98"/>non est quod a nobis primo cognoscitur: quilibet enim si diligenter attendat 
-          <lb ed="#V" n="99"/>recordari potest se plura atque pluries sensibilia intellexisse prius 
-          <lb ed="#V" n="100"/>quam de mente aut anima sua noticiam habuerit: aut de ipsa modo 
-          <lb ed="#V" n="101"/>aliquo considerauerit. Istud confirmatur per. P. 3o de aia in 
-          il<lb ed="#V" n="102" break="no"/>la parte. Cum autem hec singula fiant. vbi dicit. quod intellectus potest tunc 
-          <lb ed="#V" n="103"/>intellectre seipem quando factus fuerit sciens siue intelligens secundum actum. Et 
-          <lb ed="#V" n="104"/>Commentatoris. dicens quod intellectam fiunt in eo in actu: per intellecta autem 
-          intel<lb ed="#V" n="105" break="no"/>ligit actus intelligendi: vel species intelligibiles. volunt igitur quod intel 
-          <lb ed="#V" n="106"/>lectus prius intelligit alia: quam seipum: et per consequens prius sentita: quam se. Et 
-          <lb ed="#V" n="107"/>vlterius prius sensibilia quam insensibilia: quae consequentie patent ex ratione 
-          fcausa<lb ed="#V" n="108" break="no"/>Quantum ad 4m articum dico quod notitia intuitiua rei sin 
-          <lb ed="#V" n="109"/>gularis: siue sensibilis siue insensibilis: 
-          <lb ed="#V" n="110"/>est prior noticia abstractiua quae ipsum in singulari et propria notitia 
-          <lb ed="#V" n="111"/>cognoscitur. Et istud patet: quia vel per primam noticiam singularis ipsum co 
-          <lb ed="#V" n="112"/>gnoscitur in seipso immediate: et habetur propositum: quia omnes tales noticie 
-          <lb ed="#V" n="113"/>sunt intuitiue: vt supra patet: vel cognoscitur in specie propria sibi: et hoc est 
-          <lb ed="#V" n="114"/>impossibile: cum omnis talis notitia praesupponat noticiam illius rei singula 
-          <lb ed="#V" n="115"/>ris in seipsa: cuius est species: vt declaratum est supra in quaestione de notitia 
-          sen<lb ed="#V" n="116" break="no"/>sibilium. aut cognoscitur in conceptu communi sibi et alii: et tunc non cogsci 
-          <lb ed="#V" n="117"/>tur cognitione sibi propria: et per consequens relinquitur quod prima notitia propria 
-          <lb ed="#V" n="118"/>rei singularis sit intuitiua eiusdem.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1710">
-          ⁋ Ex his cosliliter totalis 
-          <lb ed="#V" n="119"/>respondeo ad quaestionem valet quod prima notitia intellectus praemitate scilicet generationis est notitia  
-          <lb ed="#V" n="120"/>intuitiua alicuius sensibilis singularis. Et potest ex dicitis sic argui. 
-          <lb ed="#V" n="121"/>prima notitia intellectus non est notitia vniversalis alicuius: vt patet in. 2 artio igitur 
-          <lb ed="#V" n="122"/>est notitia alicuius singularis. Aut igitur alicuius singularis 
-          sensibi<lb ed="#V" n="123" break="no"/>lis: aut intelligibilis materie: non materie intelligibilis: vt patet ex 3o  
-          <lb ed="#V" n="124"/>arituo igitur sensibilis. aut ergo est notitia illius intuitiua: aut 
-          abstra<lb ed="#V" n="125" break="no"/>ctiua: non abstractiua: vt patet ex 4o artiuo igitur intuitiua.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1728">
-          ⁋ Sed 
-          <lb ed="#V" n="126"/>si quaeratur cuius singularis noticia sit prima.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1733">
-          ⁋ Dudendm quod illius quod in 
-          <lb ed="#V" n="127"/>mouet sensum motione sufficiente: postquam puer potest intellectre 
-          <lb ed="#V" n="128"/>Et si plura talia sensibilia simul sufficienter mouerent: et 
-          <lb ed="#V" n="129"/>puer tunc simpliciter posset plura simul intelligere: nulla esset prior 
-          <lb ed="#V" n="130"/>sed omnes eque cito mouerent et essent eque prime: sin autem quod for 
-          <!--94.xml-->
-          <pb ed="#V" n="49-r"/>
-          <cb ed="#V" n="a"/>
-          <lb ed="#V" n="1"/>tius moueret sensum. vnde responsio questionis supponit aliquam 
-          <lb ed="#V" n="2"/>vnam esse primam. Si tamen ponerentur plures eque prime: tunc omnes ille 
-          <lb ed="#V" n="3"/>essent etiam intuitiue et de singularibus sensibilibus. vnde nec sic 
-          <lb ed="#V" n="4"/>variatur intentio quaestionis: nec responsionis eiusdem.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1759">
-          ⁋ Ad primum quaestionis 
-          <lb ed="#V" n="5"/>articum nego antecedens. Ad probationem dico quod. P. non facit comparatio 
-          <lb ed="#V" n="6"/>nem aliquam inter notitiam vniversalis et notitiam singularis: vt distiguitur 
-          <lb ed="#V" n="7"/>singulare contra vniversale: sed inter notitiam magis vniversalis et notitiam minus 
-          <lb ed="#V" n="8"/>niversalis: quod vocat singulare in comparatione ad magis vniversale: vt 
-          <lb ed="#V" n="9"/>expresse dicit ibi Commentatoris. cum ibi dixit scilicet Arguit inquit Commentatoris. particu 
-          <lb ed="#V" n="10"/>laria non intendit indiuidua: sed vltimas species: aut illa quae sunt quasi 
-          <lb ed="#V" n="11"/>vltime species. et statim post: et res vniversales sunt notiores apud 
-          intel<lb ed="#V" n="12" break="no"/>lectum: quam particulares scilicet species. ecce quod exponit iterum particulares 
-          <lb ed="#V" n="13"/>per species: et ad istam intentionem exponit. P. ibi per notum. Item conseuenere. 
-          <lb ed="#V" n="14"/>5. adhuc innuit ratiom: quia. P. loquitur ibi de notitia quae pertinet ad  
-          <lb ed="#V" n="15"/>scientiam: notitia autem propria singularis non pertinet ad scientiam: cum non 
-          <lb ed="#V" n="16"/>possit esse pars sillogismi demonstratiui: quamuis possit esse principium acqui 
-          <lb ed="#V" n="17"/>sitionis vniversalis: quod est principium doctrine demonstratiue: vt dicit: et ideo patet 
-          <lb ed="#V" n="18"/>dictum. P. non esse ad propositum. vnde esto quod magis commune sit prius no 
-          <lb ed="#V" n="19"/>tum intellectui: quam minus commune: non tamen est prius notum quam 
-          indiuiduum.<lb ed="#V" n="20" break="no"/>Io quaoelibet communi prius notum est aliquod indiuiduum: quod etiam patet per 
-          <lb ed="#V" n="21"/>verbum commun. iam allegatum scilicet quod indiuiduum est principium acquisitionis vniversalis 
-          <lb ed="#V" n="22"/>quod verum est vniversaliter de notitia incoplexa indiuidui respectum 
-          acquisi<lb ed="#V" n="23" break="no"/>tionis vniversalis incomplexi: et per consequens etiam complexi: Et de notitia etiam 
-          <lb ed="#V" n="24"/>incomplexa indiuidui etiam in multis est verum respectum vniversalis cople 
-          <lb ed="#V" n="25"/>xi: sicut patet ex sumptione vniversalis: quod est principium artis et scientie: et non est 
-          <lb ed="#V" n="26"/>per se notum. Utrum autem notitiam principum per se noti praecedat notitia 
-          <lb ed="#V" n="27"/>alicuius sui singularis complexi: quamuis ipsum vniversale non fiat notum per 
-          <lb ed="#V" n="28"/>illam non curo pro nunc discutere.
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1815">
-          ⁋ Ad 2m dico vt haberi potest 
-          <lb ed="#V" n="29"/>de intentione <ref xml:id="grvnZZ-ed1e29-Rd1e1819">Augusti. 14. de trinita.</ref> quod mentem esse sibi 
-          <lb ed="#V" n="30"/>presentem potest dupliciter intelligi. vno modo de pre 
-          <lb ed="#V" n="31"/>sentia essentiali. Alio modo de praesentia obiectiua. 
-          pri<lb ed="#V" n="32" break="no"/>mo modo mens est sibi semper presens: quamuis non 
-          pro<lb ed="#V" n="33" break="no"/>prie forte dicatur aliquid praesens sibimet: sed potius 
-          <lb ed="#V" n="34"/>non absens sibi: secundum tamen vsitatum modum loquendi 
-          <lb ed="#V" n="35"/>et maxime ab August. et sic mens potest dici sibi praesens semper. 2o autem 
-          <lb ed="#V" n="36"/>modo non semper mens est sibi praesens: sicut non semper est in conspectu proprio id est 
-          <lb ed="#V" n="37"/>non semper se conspicit actu seu cogitat: tunc enim tantum sibimet est praesens 
-          <lb ed="#V" n="38"/>quando actu se cogitat: et hanc praesentiam voco obiectiuam. Cum igitur dicitur quod 
-          <lb ed="#V" n="39"/>nihil prius potest dici praesens esse menti quam ipsa: si de prima praesentia loquaereis 
-          <lb ed="#V" n="40"/>concedo. Et cum infertur. igitur nec aliquid sibi prius notum. potest secundum 
-          eum<lb ed="#V" n="41" break="no"/>dem Aug. ibidem distingui de esse notum scilicet habitualiter et actualiter 
-          <lb ed="#V" n="42"/>quod dicit esse cogitatum. primo potest concedi consequens nihil enim prius notum est 
-          <lb ed="#V" n="43"/>menti notitia tali quasi habituali: quam mens illa: sed illud non est 
-          <lb ed="#V" n="44"/>ad propositum: loquimur enim de actualiter cognito ab 
-          intellectu<lb ed="#V" n="45" break="no"/>2o autem modo accipiendo esse notum neganda est consequentia. Quamuis enim 
-          <lb ed="#V" n="46"/>nihil sit prius praesens menti praesentia essentiali: quam ipsa sibi: aliquid 
-          <lb ed="#V" n="47"/>tamen potest esse ei praesens prius praesentia obiectiua quam ipsamet. quod est patet 
-          <lb ed="#V" n="48"/>per eundem Aug. et proxime praecedente. dicens quod mens in pueris seper 
-          <lb ed="#V" n="49"/>est sibi praesens hac praesentia scilicet et sibi habitualiter nota: non tamen se co 
-          <lb ed="#V" n="50"/>gitat. vnde in fine. 4. c. dicit sic. Nihil inquit tam nouit mens: 
-          <lb ed="#V" n="51"/>nisi quod sibi. presto est: nec menti magis quicquam presto est 
-          <lb ed="#V" n="52"/>quam ipsa sibi. Et statim sequenti capitulo mouet. q. sic. Quid itaque 
-          <lb ed="#V" n="53"/>dicendum de infantis mente: Et respondet an etiam ipsa se nosse 
-          <lb ed="#V" n="54"/>credenda est: sed intenta nimis in eas res quas per corporis 
-          <lb ed="#V" n="55"/>sensus tanto maphise quanto nouiore cepit delectatione senti 
-          <lb ed="#V" n="56"/>re. non ignorare se potest: sed cogitare se non potest. Et infra. Ita 
-          <lb ed="#V" n="57"/>et in aliis corporis sensibus quantum sinit illa etas intensius 
-          <lb ed="#V" n="58"/>se quasi coartant anime paruulorum: vt quidquid per car 
-          <lb ed="#V" n="59"/>nem offendit aut allicit: hec solum abhorreant: autem 
-          <lb ed="#V" n="60"/>vehementer appetant: sua vero interiora non cogitent. 
-        </p>
-        <p xml:id="grvnZZ-ed1e29-d1e1890">
-          <lb ed="#V" n="61"/>⁋ Similiter constat quod tali praesentia deus est semper 
-          <lb ed="#V" n="62"/>presens menti: nec tamen est prius notus a mente. Si 
-          <lb ed="#V" n="63"/>vero antecedens illud intelligatur de praesentia obiectiua 
-          <lb ed="#V" n="64"/>negandum est. Nam multa menti prius obiiciuntur: quam 
-          <lb ed="#V" n="65"/>mens ipsa: vt patet ex antedictis. Et sic finitur. q. praesens. 
-        </p>
-      </div>
-    </body>
-  </text>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaesito 3</title>
+            <author ref="#Rimini">Gregory of Rimini</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaesito 3</title>
+               <date when="2020-10-03">October 03, 2020</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="V" n="cod-ae1bsb">Venice 1503</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2020-10-03" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#V" n="46-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="grvnZZ-ed1e29"><!-- l1d3q3 -->
+            <head xml:id="grvnZZ-ed1e29-Hd1e106">Quaesito 3</head>
+            <head xml:id="grvnZZ-ed1e29-Hd1e109" type="question-title">Utrum prima notitia intellectus primitate generationis sit notitia intuitiva alicuius singularis sensibilis</head>
+            <p xml:id="grvnZZ-ed1e29-d1e112">
+               <lb ed="#V" n="15"/>⁋ Distinctionis tertie. Questio III 
+      <lb ed="#V" n="16"/>COnsequenter quaero vtrum prima notitia 
+      in<lb ed="#V" n="17" break="no"/>tellectus primitate 
+      generatio<lb ed="#V" n="18" break="no"/>nis sit noticia intuitiua alicuius singularis sensi 
+      <lb ed="#V" n="19"/>bilis.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e125">
+      ⁋ Arguitur quod non: quia prius notum est ab 
+      intel<lb ed="#V" n="20" break="no"/>lectu vniversale quam singulare. igitur notitia singularis intui 
+      <lb ed="#V" n="21"/>tiua non est prima noticia intellectus antecedens patet. ex primo phy. 
+      <lb ed="#V" n="22"/>vbi dicens P. quod primo manifesta sunt nobis magis 
+      confu<lb ed="#V" n="23" break="no"/>sa. Et post statim concludit: quod ex vniversalibus in singularia oportet procedere 
+      <lb ed="#V" n="24"/>scilicet in cognoscendo. consequentia patet: quia ex auctoritas sequitur quod notitia vniversalis: sit prior 
+      <lb ed="#V" n="25"/>quam noticia singularis: ac per hoc non econtra notitia singularis prior notitia 
+      <lb ed="#V" n="26"/>vniversali.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e143">
+      ⁋ Item sequitur ex hoc quod est notitia singularis intuitiua: non est 
+      <lb ed="#V" n="27"/>prior abstractiua eiusdem. Nam vniversalis notitia est notitia abstractia 
+      <lb ed="#V" n="28"/>ipsius singularis. Nam in vniversali cognoscuntur confuse omnia singularia eius: et 
+      con<lb ed="#V" n="29" break="no"/>stat quod non intuitiue: sed abstractiue. Si igitur notitia vniversalis est prior 
+      <lb ed="#V" n="30"/>quam notitia singularis: vt probatum est sequitur quod noticia 
+      abstra<lb ed="#V" n="31" break="no"/>ctiua singularis: est prior quam noticia intuitiua eiusdem.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e157">
+      ⁋ 2o  
+      <lb ed="#V" n="32"/>arguitur quod noticia alicuius insensibilis: sit prior notitia 
+      sensibi<lb ed="#V" n="33" break="no"/>lis: quia nihil potest esse prius praesens menti quam ipsa mens: et per consequens 
+      <lb ed="#V" n="34"/>nihil potest sibi prius esse notum quam ipsa: mens autem quid insensibile 
+      <lb ed="#V" n="35"/>est. igitur aliquod insensibile prius videtur ab intellectu cognosci. 
+      <lb ed="#V" n="36"/>Ad oppositum arguitur. In potentiis subordinatis. vbi 
+      <lb ed="#V" n="37"/>terminatur cognitio inferioris incipit 
+      <lb ed="#V" n="38"/>cognitio superioris: sed sensus et intellecus sunt potentie subordinate: et no 
+      <lb ed="#V" n="39"/>ticia sensus: qui est interior terminatur in singulari sensibili: quia non 
+      <lb ed="#V" n="40"/>apprehendit aliquod insensibile: nec est vniversale. igitur intellectus incipiet in 
+      sin<lb ed="#V" n="41" break="no"/>gulari sensibili.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e181">
+      ⁋ 2o quia notitita intellectus non praecedit noticiam sensus: 
+      <lb ed="#V" n="42"/>et quicquid sensus cognoscit intellectus cognoscit. igitur quod primo cognoscitur ab 
+      intel<lb ed="#V" n="43" break="no"/>lectu: et a sensu cognoscitur. igitur singulare sensibile primo cognoscitur ab 
+      in<lb ed="#V" n="44" break="no"/>tellectu. patet consequentia quia solum sensibile singulare cognoscitur a sensu. 
+      <lb ed="#V" n="45"/>In ista quaestione tres erunt articuli In quorum primo videbitur quae 
+      <lb ed="#V" n="46"/>notitia est intuitiua et qui abstractiua et 
+      <lb ed="#V" n="47"/>qualiter distinguitur. In 2o vtrum vniversale prius cognoscatur singulari ab 
+      intel<lb ed="#V" n="48" break="no"/>lectu: vel econverso 3o vtrum singulare sensibile sit prius cognitum quam 
+      singu<lb ed="#V" n="49" break="no"/>lare intelligibile pure. In ultimo vtrum notitia singularis intuitiua sit 
+      <lb ed="#V" n="50"/>prior abstractiva eiusdem. Et ex istis colligetur responsio: totalis ad propositam quod 
+      <lb ed="#V" n="51"/>Quantum ad primum dico quod sicut patet ex duabus quaestionibus 
+      pro<lb ed="#V" n="52" break="no"/>ximis praecedentibus: quadam cognoscuntur a nobis 
+      <lb ed="#V" n="53"/>immediate et in seipsis: sic quod notitia illa non terminatur ad aliquod medium: 
+      <lb ed="#V" n="54"/>per quod vel in quo illa res cognoscatur: quaedam autem cognoscuntur non in se 
+      im<lb ed="#V" n="55" break="no"/>mediate: sed in aliquo medio vel per aliquod medium prius cognitum ad quod 
+      <lb ed="#V" n="56"/>terminatur ipsa notitia: et omne quod cognoscitur altero istorum modorum 
+      <lb ed="#V" n="57"/>cognoscitur scilicet vel immediate in seipo vel mediante alio: per quod cognitum 
+      <lb ed="#V" n="58"/>aut in quo cognito ipsum cognoscitur. Et secundum hoc potest dici quod noticia 
+      in<lb ed="#V" n="59" break="no"/>tuitiua est notitia simplex: qua formaliter aliquid immediate in seipso 
+      <lb ed="#V" n="60"/>cognoscitur. Abstractiua vero est notitia simpliciter: qua formaliter aliquid in 
+      <lb ed="#V" n="61"/>aliquo medio repraesentatiuo cognoscitur. Dico autem formaliter: quando aliquando 
+      <lb ed="#V" n="62"/>(quamuis improprie) aliquid dicitur cognosci per aliquam noticiam virtualiter: eo 
+      <lb ed="#V" n="63"/>scilicet quod illa notitia continet virtualiter: vel totaliter aut partialiter noticiam 
+      il<lb ed="#V" n="64" break="no"/>lius: sicut conclusio posset dici cognosci per noticiam principiorum: et causa per noticiam 
+      effe<lb ed="#V" n="65" break="no"/>ctus: et econverso effectus per noticiam causare: quia scilicet principiorum est noticia aliquo causa 
+      <!--89.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 46-v b -->
+               <lb ed="#V" n="66"/>notitiae conclusionis: et notitia causae aliquando est causa aliquo modo notitia effectus: et aliquando 
+      <lb ed="#V" n="67"/>econverso notitia effectus est aliquo modo causa notitie cause: non autem quia ea notitia 
+      for<lb ed="#V" n="68" break="no"/>maliter qua cognoscitur principium cognoscatur conclusio: et sic de aliis: et ideo notitia 
+      princi<lb ed="#V" n="69" break="no"/>pii non est abstractiua notitia conclusionis: nec noticia cause est 
+      abstra<lb ed="#V" n="70" break="no"/>ctiua noticia effectus: nec econverso noticia effectus est abstractiua 
+      <lb ed="#V" n="71"/>noticia cause: nisi quando effectus esset medium repraesentatiuum cause: sic quod 
+      <lb ed="#V" n="72"/>eo cognito inquantum est repraesentatiuum eadem noticia cognoscatur et causa: 
+      <lb ed="#V" n="73"/>sicut supra dictum est: quod cognita imagine vel specie in memoria existente 
+      <lb ed="#V" n="74"/>inquantum est imago: cognoscitur est per eandem noticiam res ipsa cuius ipsa est 
+      <lb ed="#V" n="75"/>species: a qua re causata est species ipsa. Similiter si aliqua causa sit similitudo vel 
+      <lb ed="#V" n="76"/>species (seu quocumque vocetur nomine) repraesentatiua effectus: sic quod per 
+      co<lb ed="#V" n="77" break="no"/>gnitionem eius inquantum est talis cognoscatur effectus representatus in illa: 
+      <lb ed="#V" n="78"/>sicut plures dicunt de esentia divina: tunc cognitio illa esset 
+      abstracti<lb ed="#V" n="79" break="no"/>ua ipsius effectus: et ideo si ponatur notitia creaturarum in verbo. iuxta 
+      in<lb ed="#V" n="80" break="no"/>tellectum quem communiter habuerunt antiqui doctores: ipsa noticia est 
+      <lb ed="#V" n="81"/>abstractiua res creaturarum cognitarum in verbo: et licet non respectu verbi in 
+      <lb ed="#V" n="82"/>se cogniti. Dico est simpliciter: quoniam secundum omnes affirmatio et negatio intellectus non 
+      <lb ed="#V" n="83"/>vocantur intuitiue vel abstractiue notitia. Siquis autem non velit 
+      <lb ed="#V" n="84"/>tales noticias simplices vocare intuitiuas vel abstractivas: 
+      <lb ed="#V" n="85"/>sed aliter: et alius velit his nominibus nuncupare: liberum ei est: nec de nomine 
+      <lb ed="#V" n="86"/>debet fieri contentio: dummodo constet de re scilicet quod quaedam est notitia simpliciter: qua 
+      <lb ed="#V" n="87"/>res immediate in seipsa cognoscitur: et quaedam qua mediante aliquo medio. 
+      represen<lb ed="#V" n="88" break="no"/>tatiuo cognito: has tamen nominare istis nominibus magis est consonum 
+      <lb ed="#V" n="89"/>dicto apostoli. ex quo doctores sumpserunt huiusmodi distinctionem notitie 
+      <lb ed="#V" n="90"/>scilicet prima ad Corinthios. vbi ait. Uidemus nunc per speculum in enigmate:  
+      <lb ed="#V" n="91"/>tunc autem facie ad faciem. Quod autem apostolus. dicens videre facie ad faciem 
+      <lb ed="#V" n="92"/>omnes doctores dicunt videre intuitiue. Per dictam aut circumlocutio 
+      <lb ed="#V" n="93"/>nem non intendit amplius significare: nisi quod tunc a nobis deus videbitur in 
+      <lb ed="#V" n="94"/>seipso: et non in aliqua eius similitudine: seu per aliquod medium repraesentatiuum 
+      <lb ed="#V" n="95"/>ipsius: qualiter asserit eum nunc videri: quod expremit cum dicens nos nunc 
+      il<lb ed="#V" n="96" break="no"/>lum videre per speculum: cum enim res videtur per speculum non videtur vtique in 
+      <lb ed="#V" n="97"/>seipsa immediate: sed eius imago existens in speculato: et in illa imagine 
+      <lb ed="#V" n="98"/>debitur res ipsa videri. Unde Aug. 15. de tri. praedictum verbum apostoli 
+      expo<lb ed="#V" n="99" break="no"/>nens. dicens quod apostolus nomine speculi imaginem voluit intelligi: et in. c. 
+      <lb ed="#V" n="100"/>praecedente quale inquit sit et quid sit hoc speculum si quaeramus: profecto 
+      <lb ed="#V" n="101"/>illud occurrit: quod in speculo nisi imago non cernitur. Itaque in 
+      <lb ed="#V" n="102"/>hac visione faciali quam doctores vocant intuitivam videtur res immediate 
+      <lb ed="#V" n="103"/>in seipsa. in visione vero speculari: quam moderni vocant abstra 
+      <lb ed="#V" n="104"/>ctiuam: non videtur res ipsa in se immediate: sed tantum mediante sua imagine 
+      <lb ed="#V" n="105"/>videtur.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e329">
+      ⁋ Aduertendum tamen quod sicut in prioribus habitum est: non omnis visio 
+      ima<lb ed="#V" n="106" break="no"/>ginis est visio abstractiua rei: cuius est imago: sed ea tantum qua videtur 
+      ima<lb ed="#V" n="107" break="no"/>go: tamquam imago: quod Aug. etiam notauit eodem libro Id ipsum verbum apostoli  
+      <lb ed="#V" n="108"/>pertractans: vbi dicens quod illi tantum vident deum per speculum qui imaginem 
+      <lb ed="#V" n="109"/>eius tamquam eius imaginem vident: qui aut non intelligunt vel non credunt 
+      <lb ed="#V" n="110"/>illam esse imaginem dei: quamuis illam videndo speculum videant: non 
+      <lb ed="#V" n="111"/>tamen per speculum vident eum: qui per speculum est videndus quousque facie 
+      <lb ed="#V" n="112"/>ad faciem possit videri: et ideo notat ibi Aug. diligenter verbum 
+      <lb ed="#V" n="113"/>apostoli: qui non ait videmus nunc speculum: sed per speculum: nomine aut 
+      ima<lb ed="#V" n="114" break="no"/>ginis omnis similitudo: et omne repraesentatiuum rei intelligi debet.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e351">
+      ⁋ hoc 
+      <lb ed="#V" n="115"/>confirmatur ex intentione Aug. eiusdem. 12. super Gen. ad litteram. vbi 
+      loqui<lb ed="#V" n="116" break="no"/>tur de raptu pauli. vbi vult quod ipse habauit tunc visionem de deo 
+      <lb ed="#V" n="117"/>facialem quam intuitiuam vocamus. Et distinguens illam ab aliis. dicens 
+      <lb ed="#V" n="118"/>sententialiter quod est illa qua immediate ipse in seipso videtur: non in aliqua imagine 
+      ocu<lb ed="#V" n="119" break="no"/>lis corporalibus opposita: vt vidit Moyses: aut interiori spiritui 
+      <lb ed="#V" n="120"/>praesentata: vt Ysa. In hoc igitur praecise videtur consistere differentiam horum 
+      modo<lb ed="#V" n="121" break="no"/>rum cognoscendi scilicet intuitiue et abstractive: quia scilicet quod intuitiue cogsci 
+      <lb ed="#V" n="122"/>tur: cognoscitur in seipso absque meo: cognito. Quod vero cognoscit 
+      ab<lb ed="#V" n="123" break="no"/>stractiue per medium cognitum: nec quantum ad intuitiuam noticiam 
+      inter<lb ed="#V" n="124" break="no"/>est quod obiectum realiter existat: vel non existat: quia si existit et immediate 
+      <lb ed="#V" n="125"/>cognitio terminatur ad ipsum: est illa notitia intuitiua eius. Similiter si 
+      <lb ed="#V" n="126"/>non existit: et aliqua noticia terminatur ad ipsum immediate id est si ipsum 
+      <lb ed="#V" n="127"/>immediate cognoscitur intuitiue cognoscitur: et ista notitia est eius intuitiva. 
+      <lb ed="#V" n="128"/>Similiter si noticia eius immediate non terminetur ad rem sed ad  
+      <lb ed="#V" n="129"/>eius repraesentatiuum: siue illa res existat siue non: abstractiue co 
+      <lb ed="#V" n="130"/>gnoscitur: et ideo si significatam vocabuli velit quis ponderare: ta¬ 
+      <!--90.xml-->
+      <pb ed="#V" n="47-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>lis noticia videtur dicenda abstractiua: non quia abstrahat ab 
+      exi<lb ed="#V" n="2" break="no"/>stentia rei: quasi ipsa existentia non possit abstractiue cognosci: nec 
+      <lb ed="#V" n="3"/>qui abstrahit a conditionibus singularibus: sed quia quodammo 
+      ab<lb ed="#V" n="4" break="no"/>strahit a praesentialitate obiectiua rei cognite. Nam in tali 
+      no<lb ed="#V" n="5" break="no"/>ticie modo: non obiicitur ipsa res immediate menti secundum se: vt dictum 
+      <lb ed="#V" n="6"/>est: sed aliquod eius repraesentatiuum: et ideo quasi absens videtur cognosci res 
+      <lb ed="#V" n="7"/>ipsa. notitia vero intuitiua dicitur quia immediate ipsa res cognita 
+      ob<lb ed="#V" n="8" break="no"/>iicitur et ipsa praesens est obiectue menti: esto quod non sit praesens essentialiter: 
+      in<lb ed="#V" n="9" break="no"/>mo etiam si nullibi existat: dummodo tunc ipsa in se immediate noscatur 
+      si<lb ed="#V" n="10" break="no"/>hoc possibile sit.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e416">
+      ⁋ Ex his sequuntur quaedam: vnum est quod est quadam notitia 
+      <lb ed="#V" n="11"/>sensualis intuitiua: et quaedam abstractiua. Et hoc patet quia quaedam 
+      sen<lb ed="#V" n="12" break="no"/>sualis est qua immediate cognoscitur res ipsa sensibilis. quaedam autem quae 
+      <lb ed="#V" n="13"/>non immediate: sed in specie cognita: vt. supra patet.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e425">
+      ⁋ Similiter in intellectum est 
+      <lb ed="#V" n="14"/>quaedam notitia intuitiua et quaedam abstractiua tamreus sensibium quam 
+      in<lb ed="#V" n="15" break="no"/>sensibitum. Nam intellectus: vt. supra patet: quadam sensibilia immediate in seipsis 
+      <lb ed="#V" n="16"/>apprehendit. quadam vero in suis repraesentatiuis speciebus scilicet vel conceptibus:  
+      <lb ed="#V" n="17"/>et ita etiam est circa insensibilia et mere intelligibilia: vt ostensum est. 
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e437">
+               <lb ed="#V" n="18"/>⁋ 2m quod sequitur est quod eadem notitia nuoa est intuitiua et abstra 
+      <lb ed="#V" n="19"/>ctiua: sed non recu eiusdem: immo omnis notitia abstractiua est 
+      intuiti<lb ed="#V" n="20" break="no"/>ua: non autem omnis intuitiua est abstractiua: hoc patet: quia omnis notitia ab 
+      <lb ed="#V" n="21"/>stractiua alicuius est intuitiua sui repraesentatiui in qui illud 
+      cogno<lb ed="#V" n="22" break="no"/>scitur. Nam vt ex dicitis supra patet: quandocumque aliquid cognoscitur in suo 
+      <lb ed="#V" n="23"/>repraesentatiuo ipsum repraesentatiuum immediate in seipso apphenditur: et per 
+      <lb ed="#V" n="24"/>consequens repraesentatiuum videtur intuitiue: et res quae per illud. cognoscitur 
+      abstra<lb ed="#V" n="25" break="no"/>ctiue: ac per hoc eadem notitia est intuitiua et abstractiua: intuitiua 
+      <lb ed="#V" n="26"/>scicet repraesentatiui: et abstractia rei representate: non tamen omnis intuitiua 
+      <lb ed="#V" n="27"/>est abstractiua: quia non quandocumque illa res appreheditur in se immediate 
+      <lb ed="#V" n="28"/>appreheditur per illamnoticiam aliqua alia res in illa: sicut quando videtur color 
+      <lb ed="#V" n="29"/>in pariete: vel actus intelligendi in mente: ideo et ex superioribus patet: 
+      <lb ed="#V" n="30"/>quod non semper quando species in memoria cernitur: cognoscitur in illa res cuius 
+      <lb ed="#V" n="31"/>est species: sed solum quando cognoscitur vt imago. Et ideo tunc illa notitia 
+      <lb ed="#V" n="32"/>specie est tantum intuitiua visio eius: et nullius alius alterius abstracti: 
+      <lb ed="#V" n="33"/>ua. Notitia vero quae cernitur vt est imago intuitiua speciei: et 
+      abstra<lb ed="#V" n="34" break="no"/>ctiua rei ad extr: sic supra dictum est: etiam per. P. quod talis notitia proprie 
+      <lb ed="#V" n="35"/>loquendo est sensus praesentis speciei et memoria rei absentis: illa 
+      <lb ed="#V" n="36"/>tamen notitia quae est intuitiua et abstractiua est qualitas alterius ratiois 
+      <lb ed="#V" n="37"/>ab ea quae est intuitiua praecise. Nec illa quae est praecise intuitiua potest 
+      fie<lb ed="#V" n="38" break="no"/>ri abstractiua. Nec quae est intuitiua et abstractiua: potest fieri 
+      im<lb ed="#V" n="39" break="no"/>tuitiua praecise.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e487">
+      ⁋ 3m quod sequitur est quod istitermini intuitiuum et 
+      <lb ed="#V" n="40"/>abstractiuum non sunt incompossibiles secundum praedicationem circa 
+      eandem<lb ed="#V" n="41" break="no"/>noticiam: et illud patet ex eo quod statim dictum est: non possunt tamen 
+      verificari<lb ed="#V" n="42" break="no"/>de eodem pro eodem respectu eiusdem. Nam resocum cuius noticia aliqua dicitur 
+      <lb ed="#V" n="43"/>abstractiua: non dicitur intuitiua sed respectum diuersorum vt 
+      praiemis<lb ed="#V" n="44" break="no"/>sum est: et istud patet ex rationibus istorum nominum: quae vtique respectum 
+      <lb ed="#V" n="45"/>eiusdem: eidem conuenire non possunt. Impossibile enim est quod idem per 
+      eandem<lb ed="#V" n="46" break="no"/>noticiam apphendatur cum medio et sine medio. Simile his videtur 
+      <lb ed="#V" n="47"/>in aliis termins et nominibus connotatiuis. Idem enim est similitudo et 
+      <lb ed="#V" n="48"/>dissimilitudo: non tamen respectum eiusdem: et eadem res est actio et 
+      <lb ed="#V" n="49"/>papitio immo vt in 2o ostendetur: omnis passio est actio: non tamen omnis actio 
+      <lb ed="#V" n="50"/>est papitio: sic in proposito sicut non obstante: quod omnis paetio est actio: 
+      ratio<lb ed="#V" n="51" break="no"/>nes tamen horum nominum sunt diuerse: nec praedicatio vnius de atuio 
+      <lb ed="#V" n="52"/>est quiditatiua: et per consequens nec in primo modo dicendi per se: et sic quamuis 
+      <lb ed="#V" n="53"/>hec sit vera. omnis noticia abstractiua est intuitiua: non tamen est in 
+      <lb ed="#V" n="54"/>prim modo dicendi per se: nec inquantum notitia aliqua est abstractiua: est 
+      <lb ed="#V" n="55"/>sintuitiua retenta nota reduplicationis specificatiue pro ratione 
+      <lb ed="#V" n="56"/>formali: nec similiter inquantum est intuitiua est abstractiua etc.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e526">
+      ⁋ 
+      Con<lb ed="#V" n="57" break="no"/>tra tamen illud quod dictum est in notificatione harum denominationum et 
+      <lb ed="#V" n="58"/>distinctione harum noticiarum. vel modorum cognoscendi. 
+      Ar<lb ed="#V" n="59" break="no"/>guit doc. quidam prius probando quod non omnis notitia intuitiua terminatir 
+      <lb ed="#V" n="60"/>imediate ad rem ipsam in se intuitiue cognitam. Nam vt di. visio 
+      <lb ed="#V" n="61"/>et intuitio quae fit in somnis: est mediante speciem: et deriuatur ab 
+      ima<lb ed="#V" n="62" break="no"/>ginatione ad oculum: nec terminatur ad praesentialitatem rei secundum 
+      <lb ed="#V" n="63"/>veritatem: cum ipsa sit absens: et tamen est vere intuitiua: vt di. se 
+      de<lb ed="#V" n="64" break="no"/>clarasse per Aug. et Commentators.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e546">
+      ⁋ 2o arguit contra illud: quod dictum 
+      <lb ed="#V" n="65"/>est de abstractiua. Nam noticia imaginatiua est abstracti¬ 
+      <!--90.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 47-r b -->
+               <lb ed="#V" n="66"/>ua: et tamen non fit mediante aliquo exemplari: aut imagine: aut 
+      <lb ed="#V" n="67"/>aliquo alio obiecto quod imaginans aspiciat cognoscendo. 
+      <lb ed="#V" n="68"/>alias roma imaginata a conditore rome: non esset ipsamet 
+      <lb ed="#V" n="69"/>roma: sed quoddam ydolum eius: nec domus in mente artificis esset 
+      <lb ed="#V" n="70"/>eadem cum domo ex. cuius oppositum di. P. 7. meta. vnde patet quod 
+      ima<lb ed="#V" n="71" break="no"/>ginans re aliquam in eam fertur absque omni medio obiectivo: licet forte per 
+      <lb ed="#V" n="72"/>speciem tamquam per medium formale sicut est videns videt per speciem etc. 
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e572">
+               <lb ed="#V" n="73"/>⁋ Ad ista respondeo. Ad primum dico quod falsum assumit. primo quidem quia 
+      <lb ed="#V" n="74"/>dicit quod in sesctinis est vere visio secundum quod visio dicitur proprie de 
+      operatio<lb ed="#V" n="75" break="no"/>ne potentie visiue: quod vtique falsum est: sicut supra in q. de 
+      intel<lb ed="#V" n="76" break="no"/>lectione sensibilium clare monstratum est: neque Aug. neque Com 
+      <lb ed="#V" n="77"/>menta. sunt pro eo: vt ibi patet. 2o dicens falsum: quia illa noticia quam 
+      <lb ed="#V" n="78"/>dici. esse visionem: non est in dormiente noticia rerum absentium: aut 
+      <lb ed="#V" n="79"/>si in aliquo est ipsa non est intuitiua illarum rerum: sed abstractiua 
+      <lb ed="#V" n="80"/>est: aut intuitiua specierum ad quas immediate terminatur. Quia si 
+      <lb ed="#V" n="81"/>dicatur quod non terminetur ad speciem sed praecise ad rem absentem: et illius 
+      <lb ed="#V" n="82"/>est intuitiua. Confirmatur propositum. valet. quod intuitiua est que 
+      ter<lb ed="#V" n="83" break="no"/>minatur immediate ad rem per ipsam cognitam.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e598">
+      ⁋ Ad 2m dico quod 
+      <lb ed="#V" n="84"/>imaginans aspicit aliquid: et intuetur imaginem siue causatam a 
+      sensi<lb ed="#V" n="85" break="no"/>bus siue fictam per animam: sicut per experientiam et per auc. 
+      quamplu<lb ed="#V" n="86" break="no"/>rimas: ac rationes est multiplices est ostensum q. praeallegata.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e608">
+      ⁋ Cum 
+      <lb ed="#V" n="87"/>probatur quod alias roma imaginata etc. Dico quod aliquid dicitur 
+      ima<lb ed="#V" n="88" break="no"/>ginari tripliciter. Uno mod id est per imaginationem fictam et formatam. 
+      <lb ed="#V" n="89"/>Alio modo id est per imaginationem cognitam. et hoc potest esse dupliciter: quia vel 
+      <lb ed="#V" n="90"/>immediate vel mediante specie existente in imaginatione 
+      autme<lb ed="#V" n="91" break="no"/>moria de quo non est vis facienda pro nunc.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e621">
+      ⁋ Tunc dico quod 
+      <lb ed="#V" n="92"/>roma imaginata primo modo: non est aliud quam species aut similitudo 
+      ro<lb ed="#V" n="93" break="no"/>me extra animam: et illa non est realiter illa roma quam fabricat in 
+      <lb ed="#V" n="94"/>matis conditor rome: licet sit similis ei in esse imaginato ea 
+      repraesenta<lb ed="#V" n="95" break="no"/>timo. 2o modo dico quod ydolum rome est imaginatu: sed 3o modo roma exra 
+      <lb ed="#V" n="96"/>animam est imaginata. Et cum dicitur quod. P. dicens quod domus in mente 
+      <lb ed="#V" n="97"/>artificis est eadem cum domo ex. Dico primo quod falsum est: quin immo 
+      <lb ed="#V" n="98"/>dici. quod domus in madii fit ex domo in anima: et per consequens non est eadem. 
+      <lb ed="#V" n="99"/>2o dico quod si aliquis auctor. dicens hoc intelligendo est de domo quae est 
+      <lb ed="#V" n="100"/>in anima obiectiue tantum et mediante sua specie in anima immediate 
+      cogni<lb ed="#V" n="101" break="no"/>ta: vel si de domo immediate cognita intelligatur: tunc non est 
+      ac<lb ed="#V" n="102" break="no"/>cipiendum illud dictum secundum proprietatem vocis: sed improprie sicut 
+      <lb ed="#V" n="103"/>quandoque quod alteri est simile dicitur esse illud: sic. P. 3o de anima. dicens quod anima est  
+      <lb ed="#V" n="104"/>per sensum ipsa sensibilia: quod secundum proprietatem sermonis non potest 
+      <lb ed="#V" n="105"/>intelligi: cum anima non sit ipse res ex sensibiles quas cognoscit per 
+      <lb ed="#V" n="106"/>sensum: sed propter species rerum sensibilium perceptarum per sensus 
+      qui<lb ed="#V" n="107" break="no"/>pus speciebus ipsa similatur rebus: dicitur esse sensibilia: sic est Anp. mondlogin. 
+      <lb ed="#V" n="108"/>io dicens quod faber prius in mente concipit rem: et talis conceptio est verbum 
+      <lb ed="#V" n="109"/>interius quod inter oporia verba est magis simile rei. Et in hoc sensu 
+      loqui<lb ed="#V" n="110" break="no"/>tur Commentator. 7. meta. quando dicit quod forma artis dicitur duobus modis: 
+      <lb ed="#V" n="111"/>quorum primus est de forma quae est in anima: alius est de illa quae est extra 
+      <lb ed="#V" n="112"/>animam: et sunt idem: et quod non intelligat quod sunt vna res numero 
+      esser<lb ed="#V" n="113" break="no"/>tialiter: vt putant sic arguentes: sed modo praemisso patet: quia nullo 
+      inter<lb ed="#V" n="114" break="no"/>posito addit. et quod illa quae est extra animam est ab illa quae est in anima. 
+      <lb ed="#V" n="115"/>Et declarat per exeum: quia sanitas quae est in corpore est a 
+      sanita<lb ed="#V" n="116" break="no"/>te quae est in anima: et idem frequenter dicit.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e678">
+      ⁋ Item ibidem dicit quod 
+      sa<lb ed="#V" n="117" break="no"/>nitas in anima est intellectus et diffinitio sanitatis: et post dicit quod 
+      <lb ed="#V" n="118"/>non est sanitas quae est exr animam. Non igitur vult quod sint eadem esentialiter: 
+      <lb ed="#V" n="119"/>sed quod tantum per assimilationem intelligat idemam illa sicut ipse manifestati 
+      <lb ed="#V" n="120"/>dici. quod ipse intendebat scilicet Arum. hoc deculare in hoc scilicet quod artificium in hoc 
+      <lb ed="#V" n="121"/>est simile nature scilicet quod fit ab eodem in forma: aut a simili: et est hoc principium intentum 
+      <lb ed="#V" n="122"/>ab eo ibidem scilicet omne quod fit: siue anam: siue ab arte. fit a sibi simili 
+      <lb ed="#V" n="123"/>aliquo modo vnde nunquam ita desipuit. P. aut Commentators. vt illam formam 
+      <lb ed="#V" n="124"/>existentem in anima putarent illam esse quae ex: quod praeter ea quae dictam sunt adhuc 
+      <lb ed="#V" n="125"/>patet ex eo quod ait Commentatoris. 12. meta. Ait enim sic. Forma enim eius quod fit:  
+      <lb ed="#V" n="126"/>est in anima et est aliud ab eo quod est extra animam. et sic ad illud. 
+      <lb ed="#V" n="127"/>Quantum ad 2m artimum dico quod singulare prius est cognitum 
+      <lb ed="#V" n="128"/>ab intellectum quam vniversale.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e707">
+      ⁋ Ad cuius probationem 
+      sup<lb ed="#V" n="129" break="no"/>pono vnum quod in 3o probabit. valet. quod vniversale non est aliqua res ex 
+      <lb ed="#V" n="130"/>animam: sed est tantum quidam conceptus fictus seu formatus per animam 
+      <!--91.xml-->
+      <pb ed="#V" n="47-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>communis pluribus rebus: aut forte signum aliquod exterius ad 
+      placi<lb ed="#V" n="2" break="no"/>cum institutum eo modo quo dicet in 3o
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e725">
+      ⁋ Quo supposito 
+      proba<lb ed="#V" n="3" break="no"/>tur propositum primo sic. antequam vniversale fingat seu formetur: aliquod 
+      sin<lb ed="#V" n="4" break="no"/>gulare est cognitum. igitur singulare prius est cognitum quam vniversale. 
+      <lb ed="#V" n="5"/>Antecedens probatur: quia impossibile est naturaliter abstrahere et fingere 
+      com<lb ed="#V" n="6" break="no"/>ceptum aliquem ab aliquibus rebus nisi ille res: vel alique earum 
+      <lb ed="#V" n="7"/>sint prius apprehense: quoniam de rebus omnino ignotis nullus 
+      conce<lb ed="#V" n="8" break="no"/>ptus formari potest: vt supra patet in. q. de noticia sensibilium: 
+      <lb ed="#V" n="9"/>et experientia idem docet. Aut igitur res de quibus conceptus 
+      <lb ed="#V" n="10"/>vniuersalis formatur: sunt note in seipsis: et habetur propositum: quia 
+      <lb ed="#V" n="11"/>quaelibet talis est singularis: aut sunt note aliqua specie recepta 
+      <lb ed="#V" n="12"/>a rebus: et adhuc habetur propositum: quoniam omne cuius 
+      recipi<lb ed="#V" n="13" break="no"/>tur species sic: et quod per eam cognoscit: est in se precognitum: 
+      <lb ed="#V" n="14"/>vt ibi supra patet: aut est cognitum in aliquo coceptu ficto: et 
+      <lb ed="#V" n="15"/>tunc vt pus arguitur: quoniam et antequam ille fingeretur necesse fuit 
+      <lb ed="#V" n="16"/>precognosci aliquam rem singularem: aut procederetur in infinitum 
+      <lb ed="#V" n="17"/>inconceptibus a parte ante: quod est impossibile. consequentia probatur. quia vniversale 
+      <lb ed="#V" n="18"/>intelligi id ipsum est: quod ipsum fingi: vel ipsum simul fingitur et 
+      in<lb ed="#V" n="19" break="no"/>telligit: aut prius fingitur quam intelligitur. Nam impossibile est quod 
+      <lb ed="#V" n="20"/>prius intelligatur quam fingat: quodcumque autem illorum detur. patet consequentia. 
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e767">
+               <lb ed="#V" n="21"/>⁋ Forte diceretur ad hoc quod verum est quod ante formationem 
+      <lb ed="#V" n="22"/>vniversalis aliquod singulare est notum: sed per sensum: non autem per 
+      in<lb ed="#V" n="23" break="no"/>tellectum. Contra hoc est intentio. P. et Commen. 12o meta. dicens quod 
+      <lb ed="#V" n="24"/>apud Arum. vniversalia sunt collecta ex particularibus in intellectum: 
+      <lb ed="#V" n="25"/>qui accipit inter ea similitudinem: et facit ea vnam intentionem. 
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e781">
+               <lb ed="#V" n="26"/>⁋ Intellectus igitur secundum Commentatoris. et vt di. secundum Aru. etiam faciens 
+      <lb ed="#V" n="27"/>intentionem vniversalem: accipit id est considerat: atque cognoscit 
+      consimi<lb ed="#V" n="28" break="no"/>litudinem inter particularia: et constat quod non potest eorum 
+      consimili<lb ed="#V" n="29" break="no"/>tudinem cognoscere: nisi cognoscat illa.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e792">
+      ⁋ Idem vult Eustra. 
+      <lb ed="#V" n="30"/>super primo ethi. vbi ait. quod post subsistentiam multorum anima in seipa 
+      <lb ed="#V" n="31"/>subsistere facit vniversalia propter hoc et animal vniversale nihil aut 
+      poste<lb ed="#V" n="32" break="no"/>rius. ipse Arum. in his quae de anima dici nihil autem quoniam secundum se quidem 
+      <lb ed="#V" n="33"/>non subsistit: posterius autem quoniam ad multorum existentiam et 
+      con<lb ed="#V" n="34" break="no"/>prehensionem ipsius consequitur intellectus.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e805">
+      ⁋ Ex quibus patet quod fictio 
+      <lb ed="#V" n="35"/>vniversalis praesupponit comprehensionem particularium: nec est 
+      imagi<lb ed="#V" n="36" break="no"/>nandum quod vna virtus comprehendat singularia et 
+      conuenien<lb ed="#V" n="37" break="no"/>tiam eorum. et alia formet vniversale: non plus quam quod vnus homo 
+      appre<lb ed="#V" n="38" break="no"/>hendat singularia: et alius abstrahat eorum vniversalem conceptum. 
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e816">
+               <lb ed="#V" n="39"/>⁋ Confirmatur per Commentatoris primo phy. quod licet indiuiduum non sit 
+      <lb ed="#V" n="40"/>principium in scientia demonstratiua: est tamen principium acquisitionis vniversalis: 
+      <lb ed="#V" n="41"/>quod est principium doctrine demonstratiue. Cum enim 
+      demonstratio<lb ed="#V" n="42" break="no"/>sit ex vniversalibus propositionibus: ideo noticia alicuius singularis 
+      de<lb ed="#V" n="43" break="no"/>terminati: siue complexa siue incomplexa: non est principium de 
+      <lb ed="#V" n="44"/>monstrationis: nec demonstratiue doctrine. Est tamen principium 
+      ac<lb ed="#V" n="45" break="no"/>quisitionis noticie vniversalis: sicut patet primo meta. et 2o poste. ita quod 
+      no<lb ed="#V" n="46" break="no"/>ticia singularis precedit noticiam vniversalis.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e836">
+      ⁋ Praeterea primum cognitum 
+      <lb ed="#V" n="47"/>ab intellectu non est aliquid factum ab intellectu. igitur sing 
+      <lb ed="#V" n="48"/>lare est primo cognitum ab intellectu. consequentia tbet. et antecedens probat: quia 
+      <lb ed="#V" n="49"/>primum cognitum ab intellectu precedit tempore vel natura 
+      <lb ed="#V" n="50"/>noticiam intellectus: quod autem factum est ab intellectu est 
+      poste<lb ed="#V" n="51" break="no"/>rius natura prima noticia intellectus et non prius.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e849">
+      ⁋ Praeterea vniversale 
+      <lb ed="#V" n="52"/>esset primo cognitum: aut prima noticia illius esset prima notitia 
+      <lb ed="#V" n="53"/>qua cognosceretur vt signum rerum extra: aut qua cognosceretur 
+      <lb ed="#V" n="54"/>vt quedam res secundum se: sed impossibile est vt prima noticia 
+      in<lb ed="#V" n="55" break="no"/>tellectus sit alicuius vt signum: cum noticia talis presuppona 
+      <lb ed="#V" n="56"/>noticiam rei alicuius in se cuius est signum: vt supra patet.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e863">
+      ⁋ Si 
+      <lb ed="#V" n="57"/>dicatur 2m tunc cum vniversale secundum se sit quedam res singularis: vt 
+      pa<lb ed="#V" n="58" break="no"/>tebit in 3o libro libet vt est signum plurium sit vniversale: sequitur quod prima 
+      <lb ed="#V" n="59"/>noticia intellectus erit alicuius singularis: vt singulare. 
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e872">
+               <lb ed="#V" n="60"/>⁋ Praeterea noticia non deseruiet aliquo modo ad noticiam 
+      <lb ed="#V" n="61"/>singularium habendam: nec noticia communioris vniversalis ad 
+      no<lb ed="#V" n="62" break="no"/>ticiam vniversalis minus communis: cuius tamen oppositum intendunt 
+      po<lb ed="#V" n="63" break="no"/>nentes vniversale prius cognosci singulari.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e883">
+      ⁋ Praeterea prius cognoscitur singulare 
+      <lb ed="#V" n="64"/>mere intelligibile. vbi gra. intellectio a volitio quam vniversale 
+      pre<lb ed="#V" n="65" break="no"/>cise illis commune. igitur prius intelligitur singulare sensibile quam 
+      <!--91.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 47-v b -->
+               <lb ed="#V" n="66"/>vniversale talibus singularibus commune. igitur singulare prius 
+      intel<lb ed="#V" n="67" break="no"/>ligitur quam vniversale. Antecedens patet. quilibet enim quantumcumque grossus et rudis 
+      <lb ed="#V" n="68"/>mox cum incipit habere vsum rationis nouit et non nisi per 
+      in<lb ed="#V" n="69" break="no"/>tellectum determinate suam volitionem: qua vult aliqua rem 
+      <lb ed="#V" n="70"/>singularem determinate. Et tamen constat: quod non statim quilibet 
+      <lb ed="#V" n="71"/>talis habet conceptum specificum vel alium vniversalem illis 
+      singulari<lb ed="#V" n="72" break="no"/>bus proprium: nec omnium est tales conceptus abstrahere. Com 
+      <lb ed="#V" n="73"/>sequentia prima patet: quia cum singulare sensibile intelligibile sit 
+      <lb ed="#V" n="74"/>ab intellectu: vt supra patet eadem ratione de eo respectu vniversalis sui 
+      <lb ed="#V" n="75"/>qua de aliis. patet etiam quoniam ratio que videretur ab aliis 
+      assigna<lb ed="#V" n="76" break="no"/>ri. valet. de processu nature ab imperfecto ad perfectum: et noticia 
+      <lb ed="#V" n="77"/>confusa ad determinatam non plus in his locum habet quam in illis. 
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e922">
+               <lb ed="#V" n="78"/>⁋ hoc potest etiam probari ex intentione Aug. 8. de tri. et libro modo  
+      <lb ed="#V" n="79"/>vbi vult quod noticia vniversalis siue secundum speciem siue secundum genus 
+      col<lb ed="#V" n="80" break="no"/>ligitur ex plurium similitudine singularium visorum in se: sicut 
+      <lb ed="#V" n="81"/>etiam. P. et Commentatoris. dicunt: vt supra patet.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e933">
+      ⁋ Dico igitur: quod cuiuslibet i 
+      <lb ed="#V" n="82"/>vniversalis noticiam. praecedit notitia singuaitoa ipsius in intellectu: quamuis non 
+      cu<lb ed="#V" n="83" break="no"/>iuslibet singuationia notitia praecedat in intellectum notitiam sui vniversalis: immo etiam nec 
+      <lb ed="#V" n="84"/>isensu. Nam multi habent conceptum vniversalem homnis qui numquam quemlibet 
+      sin<lb ed="#V" n="85" break="no"/>gularem hominem in se nouerunt. Contra istud arguunt 
+      ali<lb ed="#V" n="86" break="no"/>qui dicentes quod singulare in rebus materialibus non 
+      intelligi<lb ed="#V" n="87" break="no"/>tur directe ab intellectu nostro: sed indirecte et per quan ergo 
+      <lb ed="#V" n="88"/>dam reflexionem. Cuius ratio est: quia principium singularitatis in rebus ego 
+      <lb ed="#V" n="89"/>materialibus est materia indiuidualis: intellectus autem noster 
+      <lb ed="#V" n="90"/>intelligit abstrahendo speciem intelligibilem ab huiusmodi materia: 
+      <lb ed="#V" n="91"/>qd autem a materia indiuiduali abstrahitur est vniversale. vnde 
+      intel<lb ed="#V" n="92" break="no"/>lectus noster directe non est cognoscitiuus nisi vniversalium: per 
+      <lb ed="#V" n="93"/>reflexionem autem cognoscit singularia: quia intellectus etiam 
+      <lb ed="#V" n="94"/>postquam abstraxit species intelligibiles non potest secundum eas actu 
+      <lb ed="#V" n="95"/>intelligere nisi conuertendo se ad fantasmata: in quibus 
+      <lb ed="#V" n="96"/>species intelligibiles intelligit. Conuertendo se ad 
+      fantasma<lb ed="#V" n="97" break="no"/>ta intelligit singularia quorum sunt fantasmata: et sic prius 
+      in<lb ed="#V" n="98" break="no"/>telligit vniversale quam singulare.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e972">
+      ⁋ Pro hac opinione inducitur 
+      <lb ed="#V" n="99"/>verbum philosophi 3o de ania. et Commenta. quo videntur dicere quod 
+      indiui<lb ed="#V" n="100" break="no"/>duum non intelligitur: nisi per lineam circumflexam aut 
+      sperica<lb ed="#V" n="101" break="no"/>lem: quiditatem autem vniversalem per lineam rectam.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e982">
+      ⁋ Item 
+      di<lb ed="#V" n="102" break="no"/>ctum eiusdem primo phy. vbi ait. quod vniversale est notius secundum 
+      intel<lb ed="#V" n="103" break="no"/>lectum: singulare vero notius est secundum sensum: quod autem est 
+      no<lb ed="#V" n="104" break="no"/>tius secundum intellectum prius cognoscitur ab intellectu.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e991">
+      ⁋ Addum 
+      <lb ed="#V" n="105"/>citur etiam ratio ad hoc: quia omne quod procedit de potentia in actum 
+      <lb ed="#V" n="106"/>prius peruenit in actum incompletum qui est medium inter 
+      po<lb ed="#V" n="107" break="no"/>tentiam et actum: quam ad actum perfectum: intellectus autem non 
+      <lb ed="#V" n="108"/>ster procedit de potetia in actu: et actus eius perfectus est 
+      <lb ed="#V" n="109"/>scientia completa per quam distincte et determinate res 
+      cognosci<lb ed="#V" n="110" break="no"/>tur: actus aut incompletus est scientia imperfecta per quam sciuntur 
+      <lb ed="#V" n="111"/>res indistincte sub quadam confusione: quod enim sic cognoscitur 
+      <lb ed="#V" n="112"/>in actu cognoscitur quodam modo in potentia. Unde dicit. P. 
+      <lb ed="#V" n="113"/>primo phy. quod sunt primo nobis manifesta et certa confusa magis. 
+      <lb ed="#V" n="114"/>posterius autem cognoscimus distinguendo distincte 
+      princi<lb ed="#V" n="115" break="no"/>pia et elementa. Manifestum autem est quod cognoscere aliquid  
+      <lb ed="#V" n="116"/>in quo plura continentur sine hoc quod habeatur notitia cuiuslibet 
+      eorum<lb ed="#V" n="117" break="no"/>que continentur in illo: est aliquid cognoscere sub confusione 
+      <lb ed="#V" n="118"/>quadam: sic autem potest cognosci tam totum vniversale: quam totum integrale. 
+      <lb ed="#V" n="119"/>igitur cognitio vniversalis praecedit cognitionem singularis.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1026">
+      ⁋ hec 
+      <lb ed="#V" n="120"/>potinent quedam falsa et etiam repugnantia aliis dictis eiusdem 
+      <lb ed="#V" n="121"/>doc. vnde sumo primam intellectionem intellectus: et quero an per 
+      <lb ed="#V" n="122"/>illam cognoscatur ipsa species abstracta vniversalis aut fantasma 
+      sin<lb ed="#V" n="123" break="no"/>gulare: aut res extra vna vel plures: quarum est species illa 
+      ab<lb ed="#V" n="124" break="no"/>stracta.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1039">
+      ⁋ Si primum manifeste sibi contradicit qui in 
+      praeceden<lb ed="#V" n="125" break="no"/>ti. q. 85. artitio 2o ex intentie determinatur quod species non intelleiter primo: sed 
+      secunda<lb ed="#V" n="126" break="no"/>rio tantum et per reflexionem: secundum quam intellectus intelligit: et suum intellecte: et 
+      <lb ed="#V" n="127"/>speciem quam intellect: quod aut primo intellecter est res: cuius species intelligibilis est 
+      <lb ed="#V" n="128"/>similitudo: vt dicunt. Et in prima intellecinum spes non est quod intelliter: sed est 
+      <lb ed="#V" n="129"/>tantum forma secend quam res: cuius species intellecter.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1052">
+      ⁋ Praeterea hoc est est siultum secundum se: 
+      pro<lb ed="#V" n="130" break="no"/>batum enim est supra quod abstractio vniversalis praesupponit priorem notititam in intellectu. 
+      <!--92.xml-->
+      <pb ed="#V" n="48-r"/>
+               <cb ed="#V" n="a"/>
+            </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1063">
+               <lb ed="#V" n="1"/>⁋ Si dicat 2m contradicit sibi et habetur propositum. Nam fantas 
+      <lb ed="#V" n="2"/>ma secundum ipsos est mere singulare et non vniversale. Si detur 3m sicut 
+      <lb ed="#V" n="3"/>oportet eos dare secundum dicta eorum. q. proxima vel proximo allegata 
+      <lb ed="#V" n="4"/>habetur propositum. Nam secundum veritatem et secundum ipsos qualibet res talis 
+      <lb ed="#V" n="5"/>est mere singularis: et per consequens primum cognitum ab intellectum est 
+      sin<lb ed="#V" n="6" break="no"/>gulare.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1080">
+      ⁋ Si dicatur quod intellectus per suo actu cognoscit rem extra: 
+      <lb ed="#V" n="7"/>abstrahendo eam tamen a coditionibus indiuidualibus eius. verbi gratia. 
+      <lb ed="#V" n="8"/>intelligit hominem quantum ad ea quae pertinent ad rationem speciei: non 
+      intelli<lb ed="#V" n="9" break="no"/>gendo principiom indiuidualia quae non sunt de ratione speciei. et istud est 
+      ab<lb ed="#V" n="10" break="no"/>strahere vniversale a particulari vt dicunt: et sic stat quod primo intelligat vniversale: 
+      <lb ed="#V" n="11"/>non autem singulare.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1093">
+      ⁋ Contra. aut res quam dicis abstrahi ab 
+      <lb ed="#V" n="12"/>intellectu isto modo: et intelligi prima intellectone sumpta praecise secundum ea que 
+      <lb ed="#V" n="13"/>pertinent ad rationem speciei est res aliqua singularis: et habetur propositum 
+      <lb ed="#V" n="14"/>quod singulare primo intellecter: nec talis abstractio impedit. Aut est communis 
+      <lb ed="#V" n="15"/>pluribus: et hoc est contra eos: et contra id quod suppositum est in principio uius arti. 
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1104">
+               <lb ed="#V" n="16"/>⁋ Praeterea hosmodi intellectonem: abstrahentem sic naturam a conditionibus 
+      indi<lb ed="#V" n="17" break="no"/>uidualibus valde difficile est habere: sicut experiri quilibet potest: vnde 
+      <lb ed="#V" n="18"/>nullo modo potest esse prima notitia intellectus.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1113">
+      ⁋ Praeterea sti dicut quod intellectus 
+      <lb ed="#V" n="19"/>nioiter pro statu isto nullam rem materialem potest intelligere: nisi conuertendo 
+      <lb ed="#V" n="20"/>se ad fantatia. Ita quod necessario ad hoc quod intelligat obiectum suum proprium 
+      <lb ed="#V" n="21"/>scilicet nturam vniversalem in particulari existentem oportet quod conuertat se ad fantatia 
+      <lb ed="#V" n="22"/>ipsa singularium. Ad fantaptiva autem non aliter conuertitur: nisi ipsa 
+      intel<lb ed="#V" n="23" break="no"/>ligendo et inspiciendo: sic ipsimet est innuunt.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1126">
+      ⁋ Ex quo sequitur primo 
+      <lb ed="#V" n="24"/>quod intellectus nam vniversalem non intelligit: nisi conuersus ad fantativa: et per 
+      <lb ed="#V" n="25"/>consequens non directe: sed per reflexionem secundum ipsos: qui ideo dicunt 
+      singu<lb ed="#V" n="26" break="no"/>lare per reflexionem tantum intelligi: quia non intellecter nisi in intellectum 
+      con<lb ed="#V" n="27" break="no"/>uertente se ad fantativa.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1137">
+      ⁋ Item sequitur quod primum cognitum ab inte 
+      <lb ed="#V" n="28"/>lectu est fantasma: et vlterius cum fanium repraesentet tantum 
+      singula<lb ed="#V" n="29" break="no"/>re: et singulariter non abstrahendo a conditionibus 
+      indiuidua<lb ed="#V" n="30" break="no"/>libus secundum istos: sequitur quod fantasma ipsum solum singulare 
+      in<lb ed="#V" n="31" break="no"/>telligatur et non vniversale: aut saltem prius et magis directe.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1149">
+      ⁋ Amplius 
+      <lb ed="#V" n="32"/>cum vt in praecedentibus est probatum quod per nullam speciem receptam aliqua 
+      <lb ed="#V" n="33"/>res cognosci possit quae non sit prius cognita in se: sequitur quod ante no 
+      <lb ed="#V" n="34"/>ticiam rei in fantatie sit ipsa res singularis cognita in 
+      seipa<lb ed="#V" n="35" break="no"/>et cum notitia fantatiem sit prior vel simul aut eadem cum noticia ipsius 
+      <lb ed="#V" n="36"/>vniversalis secundum dicta istorum: vt probatum est: sequitur quod simpliciter primum 
+      co<lb ed="#V" n="37" break="no"/>gnitum sit ipsum singulare ex.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1165">
+      ⁋ Praeterea aut intellectas noster non potest 
+      in<lb ed="#V" n="38" break="no"/>telligere rem aliquam materialem: nisi abstrahendo eam a 
+      particulari<lb ed="#V" n="39" break="no"/>bus conditionibus materie: et tunc sequitur quod nunquam intelligit singula 
+      <lb ed="#V" n="40"/>re secundum istos: cuius tamen oppositum dicut. aut potest intelligere est non 
+      ab<lb ed="#V" n="41" break="no"/>strahendo: et tunc non habetur plus quod prius intelligat vniversale: quam 
+      sin<lb ed="#V" n="42" break="no"/>gulare quam quod singulare prius quam vniversale.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1178">
+      ⁋ Praeterea sti dicunt quod 
+      singu<lb ed="#V" n="43" break="no"/>lari materiali non repugnat intelligi inquantum singulare est: sed inquantum 
+      <lb ed="#V" n="44"/>materiale est. Et constat quod non possunt hoc intelligere: nisi de intellectone 
+      <lb ed="#V" n="45"/>directa et prima: quia intellecti indirecte et per reflexionem non repugnat 
+      <lb ed="#V" n="46"/>secundum eos singulari materiali et vt est materiale. igitur repugnat ei intellectr 
+      <lb ed="#V" n="47"/>primo praecise: quia materiale. igitur hoc etia repugnat nature materiali vniversali: cum illa 
+      <lb ed="#V" n="48"/>secundum eos non abstrahat a materia simpliciter: sed indiuiduali tantum. et per 
+      <lb ed="#V" n="49"/>consequens primum cognitum ab intellectum nostro non est vniversale vt dicunt.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1196">
+      ⁋ Praeterea 
+      <lb ed="#V" n="50"/>prima notitia intellectas secundum eos est notitia alicuius totius vniversalis in quo plures con 
+      <lb ed="#V" n="51"/>tin entur entitates. Constat autem quod nulla res ex animam etiam 
+      qualitercum<lb ed="#V" n="52" break="no"/>que intellcta est aliquod huiusmodi tositum continens plura continetia scilicet totius vniversalis: 
+      <lb ed="#V" n="53"/>quamuis continentia totius integralis aliqua res plura contineat: vnde per hoc 
+      <lb ed="#V" n="54"/>quod aliqua res ex animam intellitur non intellecto aliquo extriniosibi siue 
+      <lb ed="#V" n="55"/>sit conditio indiuidualis: siue aliud non sit communis pluribus rebus non plut 
+      <lb ed="#V" n="56"/>quam sonus qui auditur nullo alio audito.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1214">
+      ⁋ Item nullum existens in anima 
+      <lb ed="#V" n="57"/>sequens intellectionem potest esse tale totum primo cognitum. igitur est aliquid 
+      <lb ed="#V" n="58"/>in aia praeueniens intellectionem saltem natura si non tempore. Et non videtur quid 
+      pos<lb ed="#V" n="59" break="no"/>sit dici esse illud: nisi species rei extra: et per consequens primum cognitum ab 
+      in<lb ed="#V" n="60" break="no"/>tellectum est species. hoc aut repugnat dictis eorum: ac est falsum est secundum 
+      <lb ed="#V" n="61"/>se: vt. supra patet.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1227">
+      ⁋ Tenendum est itaque pro constanti quod primo cognitum ab 
+      in<lb ed="#V" n="62" break="no"/>tellectum est res aliqua singularis: nec motiua istorum habent 
+      effica<lb ed="#V" n="63" break="no"/>ciam. Primum quidem non: quoniam quicquid dicunt de tali reflexione 
+      fal<lb ed="#V" n="64" break="no"/>sum est: nec illud ponit. P. sed potius oppositum manifeste: vnde ait. 
+      <lb ed="#V" n="65"/>quod anima sensitiua calitm et frcentum iudicat: et quorum ratio quaedam caro. 
+      <!--92.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 48-r b -->
+               <lb ed="#V" n="66"/>alio autem autm seperato aut circumflexe se habet ad seipsam cum extem 
+      <lb ed="#V" n="67"/>sa sit carni esse discernit. vbi patet quod philosophus vult quod singulare 
+      <lb ed="#V" n="68"/>sensibile anima directe apphendat: mediante sensu tamen secundum 
+      in<lb ed="#V" n="69" break="no"/>tellectum supra datum. Deide quiditatem quam intelligit per carni 
+      <lb ed="#V" n="70"/>esse siue per quiditatem intelligat formam existentem in materia quae 
+      princi<lb ed="#V" n="71" break="no"/>palior est pars quiditatis: vt quidam dicunt: siue vniversale ipsum: vt opi 
+      <lb ed="#V" n="72"/>nantur alii: siue quicquid aliud intelligat per quiditatem: ania. q. 
+      circu<lb ed="#V" n="73" break="no"/>flexa ad seipsam discernit. Unde Commentatoris. ibidem ait. necesse est vt 
+      <lb ed="#V" n="74"/>forma experimentetur scilicet ab anima aut per dispositionem similem linesse 
+      <lb ed="#V" n="75"/>recte scilicet cum intellexit primam formam existentem in hac re singulari. aut 
+      <lb ed="#V" n="76"/>secundum dispositionem similem linesse sepericali scilicet quando fuerit reuersa 
+      quaeren<lb ed="#V" n="77" break="no"/>do intelligere quiditatem illius forme: deinde quiditatem illius quidi 
+      <lb ed="#V" n="78"/>tatis: quousque perueniat ad simplicem quiditatem. vbi patet quod illud 
+      <lb ed="#V" n="79"/>quod intellecter quasi circumflexe est quiditas: singulare vero cuius est 
+      quidi<lb ed="#V" n="80" break="no"/>tas primo: et directe: et si per quiditatem intelligat vniversale. sequitur quod in 
+      <lb ed="#V" n="81"/>tendit vniversale intelligi per reflexionem: singulare vero directe. 
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1280">
+               <lb ed="#V" n="82"/>⁋ Ad aliam auctoritatem. P. primo phy. quamuis varie dentur ab aliquibus 
+      <lb ed="#V" n="83"/>expositiones. dico quod. P. ibidem nullam facit comparationem 
+      <lb ed="#V" n="84"/>inter noticiam singularis et noticiam sui vniversalis secundum sensum et 
+      in<lb ed="#V" n="85" break="no"/>tellectum: vt estimant multi. et hoc patet primo considerato 
+      proposi<lb ed="#V" n="86" break="no"/>to de quo loquitur.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1293">
+      ⁋ Dicit enim quod antiqui conueniebant in hoc 
+      <lb ed="#V" n="87"/>quod omnes ponebant principio contraria: differebant tamen inter cetera 
+      <lb ed="#V" n="88"/>in hoc quod contraria que ponebantur principim ab aliquibus sunt 
+      no<lb ed="#V" n="89" break="no"/>tiora secundum sensum: que vero ponebantur principim ab aliis sunt 
+      notio<lb ed="#V" n="90" break="no"/>ra secundum intellectum. vbi gratia quidam ponebant principio magnum et 
+      par<lb ed="#V" n="91" break="no"/>uum: par et impar: que notiora sunt secundum intellectum. Calidum 
+      <lb ed="#V" n="92"/>vero et frigidum rarum et densum que ponebantur ab aliis esse 
+      prin<lb ed="#V" n="93" break="no"/>cipia sunt notiora secundum sensum. Constat autem quod omnia hec 
+      nomi<lb ed="#V" n="94" break="no"/>na sunt vniversalia: licet quedam plus: quedam vero minus.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1313">
+      ⁋ Secundo idem 
+      <lb ed="#V" n="95"/>patet per Commentatoris. ibiud qui exponendo dicit. Et quidam accipiunt illi 
+      <lb ed="#V" n="96"/>quod est prius apud intellectum in cognitione et est illud quod est 
+      <lb ed="#V" n="97"/>magis vniversale: et quidam accipiunt illud quod est prius apud sensum: 
+      <lb ed="#V" n="98"/>et est illud quod est magis particulare: et post subdit. quod 
+      compara<lb ed="#V" n="99" break="no"/>tio inter comprehensibilia ab intellectu et sensu non 
+      verifica<lb ed="#V" n="100" break="no"/>tur: nisi respectum communis comprehensionis.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1329">
+      ⁋ Item sequenti 
+      commen<lb ed="#V" n="101" break="no"/>to. ait: quoniam magnum et paruum sunt magis vniversalia: quam rarum et 
+      den<lb ed="#V" n="102" break="no"/>sum: ideo attribuuntur magis intellectui: et rarum et densum 
+      ma<lb ed="#V" n="103" break="no"/>gis sensui. Et hoc est ita: quia rarum et densum comprehenduntur 
+      <lb ed="#V" n="104"/>in corporalibus sensibilibus naturalibus. Magnum autem  paruum 
+      <lb ed="#V" n="105"/>comprehenduntur in corporalibus naturalibus et mathematicis: 
+      <lb ed="#V" n="106"/>hec Commentatoris. Ex quo patet: quod illa comparatio fit inter principim magis 
+      <lb ed="#V" n="107"/>et minus vniversalia vel communia: et minus communia vocantur singularia 
+      re<lb ed="#V" n="108" break="no"/>spectu communiorum: sicut etiam in principio dicti libri. cum. P. dicit quod oportet 
+      <lb ed="#V" n="109"/>ab vniversalibus in singularia procedere. non intendit: vt dicit 
+      Com<lb ed="#V" n="110" break="no"/>mentator. per singularia ipsa indiuidua: sed vltimas species 
+      <lb ed="#V" n="111"/>aut illa que sunt quasi species vltime.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1355">
+      ⁋ Aduertendum tamen: quod cum 
+      <lb ed="#V" n="112"/>dicitur quod magis vniversalia notiora sunt secundum intellectum: et minus 
+      <lb ed="#V" n="113"/>vniversalia secundum sensum: accipiendi sunt isti actus exerciti pro istis 
+      <lb ed="#V" n="114"/>aliis significatis: de magis vniversalibus verificatur esse notiora 
+      <lb ed="#V" n="115"/>secundum intellectum et de minus vniversalibus verificatur esse notiora secundum 
+      <lb ed="#V" n="116"/>sensum: qui debent exerceri sumptis aliquibus terminis 
+      <lb ed="#V" n="117"/>vniversalioribus. verbi gratia. magnum et paruum: et aliquibus minus 
+      vniversali<lb ed="#V" n="118" break="no"/>bus. verbi gratia. calidum et frigidum. sic magnum et paruum sunt 
+      no<lb ed="#V" n="119" break="no"/>tiora secundum intellectum: sic calidum et frigidum notiora sunt secundum 
+      <lb ed="#V" n="120"/>sensum. in quibus subiecta supponunt pro rebus 
+      singulari<lb ed="#V" n="121" break="no"/>bus: vnde in actibus significatis fit comparatio inter magis et 
+      <lb ed="#V" n="122"/>minus vniversale: in exercitis vero fit comparatio inter singularia 
+      <lb ed="#V" n="123"/>communioris: et singularia minus communis: quae tamen non se habent sicut per 
+      <lb ed="#V" n="124"/>se superius et inferius sic quod vnum de altero praedicetur in prim modo 
+      di<lb ed="#V" n="125" break="no"/>cendi per se.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1388">
+      ⁋ Praeterea quod Commentators. dicit esse prius apud sensum vel 
+      in<lb ed="#V" n="126" break="no"/>tellectum non est accipiendum de prioritate generationis: sed perfectionis. id est 
+      <lb ed="#V" n="127"/>perfectius notum: et eodem modo intelligit. P. quando dicit quod est notius: et 
+      <lb ed="#V" n="128"/>tunc est verum quod dicitur. Nam sensibilia minus communia perfectius a sensu 
+      <lb ed="#V" n="129"/>cognoscuntur: quam communiora: vt patet in exemplis positis: et communiora 
+      per<lb ed="#V" n="130" break="no"/>fectius cognoscuntur ab intellectu.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1402">
+      ⁋ Si tamen velimus accipere dictum. P. 
+      <!--93.xml-->
+      <pb ed="#V" n="48-v"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>tanquam loquens de singulari: vt distinguitur contra commune: tunc 
+      di<lb ed="#V" n="2" break="no"/>co quod comperatio non potest vtrobique proprie sumi. patet: quia siue fiat 
+      con<lb ed="#V" n="3" break="no"/>paratio inter potentias respectum eiusdem obiecti. vbi gratia dicende 
+      <lb ed="#V" n="4"/>quod singulare est notius secundum sensum: quam secundum intellectum: et universale 
+      notiti<lb ed="#V" n="5" break="no"/>secundum intellectum: quam secundum sensum: siue fiat comperatio inter diuersa obiecta 
+      <lb ed="#V" n="6"/>recu eiusdem potentie. vebi gratia dicendo. singulare notius est secundum 
+      sen<lb ed="#V" n="7" break="no"/>sum: quam vniversale: et vniversale est notius secundum intellectum: quam singulare: semper 
+      se<lb ed="#V" n="8" break="no"/>quitur quod vniversale sit notum secundum sensum: quod est falsum.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1428">
+      ⁋ Et ideo 
+      dicen<lb ed="#V" n="9" break="no"/>dum quod si fiat comperatio primo modo aliter et aliter hincinde exponi debent 
+      <lb ed="#V" n="10"/>verba. Nam ideo singulare dicitur notius secundum sensum: quam secundum intellectum: quia 
+      <lb ed="#V" n="11"/>sensus apprehendere potest singulare absque hoc quod intellectus apphen 
+      <lb ed="#V" n="12"/>dat vel apphenderit ipsum. Intellectus autem non potest absque sensu: 
+      <lb ed="#V" n="13"/>tunc vel prius apphendete apphendere singulare et 
+      sensibi<lb ed="#V" n="14" break="no"/>le de quo est sermmo. Ule autem ideo notius dicitur secundum intellectum: quia tantum ab 
+      in<lb ed="#V" n="15" break="no"/>tellectu est notum.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1446">
+      ⁋ Si vero fiat comperatio 2o modo tunc io dicitur quod secundum 
+      <lb ed="#V" n="16"/>sensum singulare notius est vniversali: quia singulare notum est sensu: 
+      <lb ed="#V" n="17"/>non autem vniversale vniversale vero notius est secundum intellectum: quam singulare: aut quia 
+      <lb ed="#V" n="18"/>est ei proprium nosse vniversale: non autem nosse singulare. cum est sensus 
+      <lb ed="#V" n="19"/>nouerit singulare: aut quia intellectis non actualiter concurrente 
+      notiti<lb ed="#V" n="20" break="no"/>cia sensus per seipum potest nosse vniversale et perfectius quam singulare quod 
+      <lb ed="#V" n="21"/>vtrum sit vel non sit cognoscere non potest: nisi mediante sensu: et 
+      lo<lb ed="#V" n="22" break="no"/>quor semper de singulari sensibili.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1464">
+      ⁋ Ad rationem ipsorum dicendum: quod 
+      <lb ed="#V" n="23"/>alique actum esse medium inter potentiam et alium actum potest intelligi 2a 
+      <lb ed="#V" n="24"/>Uno scilicet secundum ordinem generationis: sic quod prius transmutetur in illum 
+      <lb ed="#V" n="25"/>actum: quam in alium: vel secundum ordinem perfectionis: quia scilicet actus ille 
+      perfe<lb ed="#V" n="26" break="no"/>ctior est quam poteso et imperfectior quam alius actus. Si maior intelligatur prim 
+      <lb ed="#V" n="27"/>modo minor est falsa et petit principium. Nam noticia vniversalis non est hoc 
+      <lb ed="#V" n="28"/>modo media: immo semper ante eam praehabetur notitia alicuius singularis. Similiter 
+      <lb ed="#V" n="29"/>hoc est quod principaliter quaeritur: et ideo petitur quod est in principio Si vero maiori 
+      <lb ed="#V" n="30"/>intelligatur 2o modo: vt sit sensus: quod omne quod procedit de poteso ad actum primo 
+      <lb ed="#V" n="31"/>peruenit in actum minus perfectum: quam in magis perfectu: propositio non 
+      <lb ed="#V" n="32"/>est vera. Patet enim quod aer prius transmutat ad lucem: quam ad calorem: 
+      <lb ed="#V" n="33"/>et tamen lux est perfectior calore sic intellectus et voluntas prus 
+      transmu<lb ed="#V" n="34" break="no"/>tantur ad actum: quam ad habitum: et tamen actus est perfectior.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1493">
+      ⁋ Item 
+      ali<lb ed="#V" n="35" break="no"/>quando prius habetur notitia de re perfectiore: quam imperfectiore. vbi gratia. 
+      <lb ed="#V" n="36"/>de hoc actu intelligendi: quam de hoc sapore vel odore illo.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1500">
+      ⁋ Item 
+      <lb ed="#V" n="37"/>rectus eiusdem complexi obiecti aliquando prius aliquis acquirit scientiam a priori 
+      <lb ed="#V" n="38"/>et alius scientiam a posteriori: quae scientie non sunt equae perfecte: et multe 
+      <lb ed="#V" n="39"/>aptilo possent instantie dari.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1510">
+      ⁋ Et si dicatur quod na semper procedit de 
+      imper<lb ed="#V" n="40" break="no"/>fecto ad perfectum non econtra.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1515">
+      ⁋ Dudenmm quod hoc potest duplicem sensum 
+      <lb ed="#V" n="41"/>habere. vnus est quod semper natura prius facit in re illud quod est imperfectius: quam 
+      il<lb ed="#V" n="42" break="no"/>lud quod est perfectius comperando illa duo praecise inter se: et in hoc sensu 
+      fal<lb ed="#V" n="43" break="no"/>sum est quod dicitur patet enim quod in corpore animalis prius generatur cor: qua 
+      <lb ed="#V" n="44"/>pes vel manus: et constat quod cor nobilius membrum est. Alius sensus 
+      <lb ed="#V" n="45"/>est quod natura prius facit rem aliquam imperfecte et imperfectam: et post illam 
+      ea<lb ed="#V" n="46" break="no"/>dem perficit: ita quod sit comperatio non inter illa facta praecise: quibus fact 
+      <lb ed="#V" n="47"/>res dicitur perfectior et imperfectior: sed fit comperatio eiusdem rei secundum quod 
+      ali<lb ed="#V" n="48" break="no"/>quando est perfecta et aliquando imperfecta: et hoc est verum in his quae non fiunt 
+      <lb ed="#V" n="49"/>ubito. Sed cum hoc stat quod actus vlterior quo res est perfecta sit 
+      <lb ed="#V" n="50"/>imperfectior actu priore. vbi gratia. homo prius fit imperfectus carens scientia 
+      <lb ed="#V" n="51"/>et virtute: et postea perficitur virtutibus et scientia: et tamen eius anima quae prius 
+      <lb ed="#V" n="52"/>fuit nobilior est quam scientia et virtus.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1544">
+      ⁋ Item corpus humanum prius 
+      <lb ed="#V" n="53"/>fit secundum partem et imperfectum: et tamen partes nobiliores prius fiunt. Sed homo 
+      <lb ed="#V" n="54"/>cum anima et scientia ac virtutibus est quid perfectius: quam homo tantum. Similiter cor 
+      <lb ed="#V" n="55"/>pus cum omnibus membris nobilioribus et ignobilioribus perfectius 
+      <lb ed="#V" n="56"/>est quam cum nobilioribus tantum. Sic in proposito anima est perfectior 
+      <lb ed="#V" n="57"/>habens noticiam de singulari et universali: quam de singulari tantum: et ideo non 
+      <lb ed="#V" n="58"/>obstante quod sensus noscat singulare: et deinde vniversale: esto quod 
+      no<lb ed="#V" n="59" break="no"/>ticia singularis esset perfectior quam vniversalis: adhuc procederetur de 
+      <lb ed="#V" n="60"/>esse imperfecto ad esse perfectum.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1564">
+      ⁋ Ad dictum autem. P. primo phy. quod 
+      in<lb ed="#V" n="61" break="no"/>terponitur dicetur in solutione primi argumentum ad. q.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1569">
+      ⁋ Et si dicatur vt 
+      <lb ed="#V" n="62"/>etiam dicit primo phy. quod pueri vocant virum omnem patrem. deinde 
+      deter<lb ed="#V" n="63" break="no"/>minate eum qui est piter cognoscunt: et per consequens prius habent noticiam 
+      confu<lb ed="#V" n="64" break="no"/>sam: quam determinatam. Similiter idem declarat de corpore a remotis 
+      <lb ed="#V" n="65"/>viso quod quidem prius cognoscitur in confuso: quam distincte.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1580">
+      ⁋ Rsponsio quod 
+      <!--93.xml-->
+      <cb ed="#V" n="b"/> 
+               <!-- 48-v b -->
+               <lb ed="#V" n="66"/>ista nihil ad propositum faciunt. Nam pueri tunc nullum vniversale cognoscunt:  
+      <lb ed="#V" n="67"/>sed singulare tantum. vnde cum puer virum qui non est pater eius vocat patrem: 
+      <lb ed="#V" n="68"/>certum est quod virum singularem apphedit: et ideo illud exmpum non probat 
+      <lb ed="#V" n="69"/>quod prius cognoscatur vniversale aliquod: quam singulare: sed solum quod singulare 
+      <lb ed="#V" n="70"/>bus cognoscatur cognitione imperfecta et debili: cuius virtute non potest 
+      <lb ed="#V" n="71"/>hacere puer iudicium discretiuum vltimatum et perfectum quaoe 
+      determi<lb ed="#V" n="72" break="no"/>nate nouerit hunc non esse patrem eius: et hunc alium esse: quam notitia 
+      <lb ed="#V" n="73"/>clara et perfecta: qua tale iudicium possit haberi. Quod est contingit in 
+      <lb ed="#V" n="74"/>animalibus ratione carentibus: qua tamen nullius vniversalis sunt apprehensiua: vnde 
+      <lb ed="#V" n="75"/>agnus primo sequitur omnem oue: sicut monstrem: et postea determinate 
+      sequi<lb ed="#V" n="76" break="no"/>tur matrem tantum: quod non prouenit: quia prius habeat noticiam alicuius 
+      <lb ed="#V" n="77"/>vniversalis: sed quia imperfectam noticiam prius habet de singulari: et postea 
+      per<lb ed="#V" n="78" break="no"/>fectiorem: vt dictum est de pueris. Similiter quae ad aliud expum patet: quod 
+      <lb ed="#V" n="79"/>siue de propinquam siue de remoto corpus videatur semper videtur singulare: 
+      <lb ed="#V" n="80"/>sed de propinquae perfectior habter notitia quam de remoto: et ita contingit in 
+      <lb ed="#V" n="81"/>aliis animalibus: vt in homine: vnde non probatur quod vniversale sit prius 
+      notum<lb ed="#V" n="82" break="no"/>Quantum ad 3m artinum dico quod singulare sensibile 
+      <lb ed="#V" n="83"/>prius est intellectum a nobis: quam singulare 
+      in<lb ed="#V" n="84" break="no"/>sensibile: ad materie intelligibile: hoc autem magis patet per experientiam: 
+      <lb ed="#V" n="85"/>quam per rationem. Potest tamen argui sic. sensibilia prius intelliguntur a. 
+      <lb ed="#V" n="86"/>nobis: quam insensibilia. igitur sensibile singulare prius cognitum 
+      <lb ed="#V" n="87"/>est ab intellectum. consequentia patet ex dictis. Antecedens probatur: quia omne 
+      intelligibi<lb ed="#V" n="88" break="no"/>le et insensibile vel est ipsa anima vel aliquid in ea vel aliquid extra 
+      <lb ed="#V" n="89"/>animam. Constat autem quod insensibilia quae sunt extra animam non cognoscimus 
+      <lb ed="#V" n="90"/>nisi praehabita noticia aliquorum aliorum. Ea vero quae sunt in anima: vel 
+      <lb ed="#V" n="91"/>sunt species aut conceptus: vel actus aut habitus: sed nec species nec ali 
+      <lb ed="#V" n="92"/>quis conceptus potest esse primum cognitum: vt ex superioribus patet.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1649">
+      ⁋ Item 
+      <lb ed="#V" n="93"/>nec aliquis actus: quia non actus intellectus. Nam primus actus non est 
+      cogni<lb ed="#V" n="94" break="no"/>tus seipo: sed alio actu: si tamen cognitus sit: vt patet in primea di. vbi 
+      pro<lb ed="#V" n="95" break="no"/>batum est quod actus rectus et reflexus non sunt idem.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1658">
+      ⁋ Item nec 
+      <lb ed="#V" n="96"/>actus voluntatis potest esse primum cognitum ab intellectu: cum volitio 
+      prae<lb ed="#V" n="97" break="no"/>supponat intellectionem. Similiter ipsa anima siue intellectus et voluntas 
+      <lb ed="#V" n="98"/>non est quod a nobis primo cognoscitur: quilibet enim si diligenter attendat 
+      <lb ed="#V" n="99"/>recordari potest se plura atque pluries sensibilia intellexisse prius 
+      <lb ed="#V" n="100"/>quam de mente aut anima sua noticiam habuerit: aut de ipsa modo 
+      <lb ed="#V" n="101"/>aliquo considerauerit. Istud confirmatur per. P. 3o de aia in 
+      il<lb ed="#V" n="102" break="no"/>la parte. Cum autem hec singula fiant. vbi dicit. quod intellectus potest tunc 
+      <lb ed="#V" n="103"/>intellectre seipem quando factus fuerit sciens siue intelligens secundum actum. Et 
+      <lb ed="#V" n="104"/>Commentatoris. dicens quod intellectam fiunt in eo in actu: per intellecta autem 
+      intel<lb ed="#V" n="105" break="no"/>ligit actus intelligendi: vel species intelligibiles. volunt igitur quod 
+      intel<lb ed="#V" n="106" break="no"/>lectus prius intelligit alia: quam seipum: et per consequens prius sentita: quam se. Et 
+      <lb ed="#V" n="107"/>vlterius prius sensibilia quam insensibilia: quae consequentie patent ex ratione 
+      fcausa<lb ed="#V" n="108" break="no"/>Quantum ad 4m articum dico quod notitia intuitiua rei 
+      sin<lb ed="#V" n="109" break="no"/>gularis: siue sensibilis siue insensibilis: 
+      <lb ed="#V" n="110"/>est prior noticia abstractiua quae ipsum in singulari et propria notitia 
+      <lb ed="#V" n="111"/>cognoscitur. Et istud patet: quia vel per primam noticiam singularis ipsum co 
+      <lb ed="#V" n="112"/>gnoscitur in seipso immediate: et habetur propositum: quia omnes tales noticie 
+      <lb ed="#V" n="113"/>sunt intuitiue: vt supra patet: vel cognoscitur in specie propria sibi: et hoc est 
+      <lb ed="#V" n="114"/>impossibile: cum omnis talis notitia praesupponat noticiam illius rei singula 
+      <lb ed="#V" n="115"/>ris in seipsa: cuius est species: vt declaratum est supra in quaestione de notitia 
+      sen<lb ed="#V" n="116" break="no"/>sibilium. aut cognoscitur in conceptu communi sibi et alii: et tunc non cogsci 
+      <lb ed="#V" n="117"/>tur cognitione sibi propria: et per consequens relinquitur quod prima notitia propria 
+      <lb ed="#V" n="118"/>rei singularis sit intuitiua eiusdem.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1710">
+      ⁋ Ex his cosliliter totalis 
+      <lb ed="#V" n="119"/>respondeo ad quaestionem valet quod prima notitia intellectus praemitate scilicet generationis est notitia  
+      <lb ed="#V" n="120"/>intuitiua alicuius sensibilis singularis. Et potest ex dicitis sic argui. 
+      <lb ed="#V" n="121"/>prima notitia intellectus non est notitia vniversalis alicuius: vt patet in. 2 artio igitur 
+      <lb ed="#V" n="122"/>est notitia alicuius singularis. Aut igitur alicuius singularis 
+      sensibi<lb ed="#V" n="123" break="no"/>lis: aut intelligibilis materie: non materie intelligibilis: vt patet ex 3o  
+      <lb ed="#V" n="124"/>arituo igitur sensibilis. aut ergo est notitia illius intuitiua: aut 
+      abstra<lb ed="#V" n="125" break="no"/>ctiua: non abstractiua: vt patet ex 4o artiuo igitur intuitiua.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1728">
+      ⁋ Sed 
+      <lb ed="#V" n="126"/>si quaeratur cuius singularis noticia sit prima.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1733">
+      ⁋ Dudendm quod illius quod in 
+      <lb ed="#V" n="127"/>mouet sensum motione sufficiente: postquam puer potest intellectre 
+      <lb ed="#V" n="128"/>Et si plura talia sensibilia simul sufficienter mouerent: et 
+      <lb ed="#V" n="129"/>puer tunc simpliciter posset plura simul intelligere: nulla esset prior 
+      <lb ed="#V" n="130"/>sed omnes eque cito mouerent et essent eque prime: sin autem quod for 
+      <!--94.xml-->
+      <pb ed="#V" n="49-r"/>
+               <cb ed="#V" n="a"/>
+               <lb ed="#V" n="1"/>tius moueret sensum. vnde responsio questionis supponit aliquam 
+      <lb ed="#V" n="2"/>vnam esse primam. Si tamen ponerentur plures eque prime: tunc omnes ille 
+      <lb ed="#V" n="3"/>essent etiam intuitiue et de singularibus sensibilibus. vnde nec sic 
+      <lb ed="#V" n="4"/>variatur intentio quaestionis: nec responsionis eiusdem.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1759">
+      ⁋ Ad primum quaestionis 
+      <lb ed="#V" n="5"/>articum nego antecedens. Ad probationem dico quod. P. non facit comparatio 
+      <lb ed="#V" n="6"/>nem aliquam inter notitiam vniversalis et notitiam singularis: vt distiguitur 
+      <lb ed="#V" n="7"/>singulare contra vniversale: sed inter notitiam magis vniversalis et notitiam minus 
+      <lb ed="#V" n="8"/>niversalis: quod vocat singulare in comparatione ad magis vniversale: vt 
+      <lb ed="#V" n="9"/>expresse dicit ibi Commentatoris. cum ibi dixit scilicet Arguit inquit Commentatoris. 
+      particu<lb ed="#V" n="10" break="no"/>laria non intendit indiuidua: sed vltimas species: aut illa quae sunt quasi 
+      <lb ed="#V" n="11"/>vltime species. et statim post: et res vniversales sunt notiores apud 
+      intel<lb ed="#V" n="12" break="no"/>lectum: quam particulares scilicet species. ecce quod exponit iterum particulares 
+      <lb ed="#V" n="13"/>per species: et ad istam intentionem exponit. P. ibi per notum. Item conseuenere. 
+      <lb ed="#V" n="14"/>5. adhuc innuit ratiom: quia. P. loquitur ibi de notitia quae pertinet ad  
+      <lb ed="#V" n="15"/>scientiam: notitia autem propria singularis non pertinet ad scientiam: cum non 
+      <lb ed="#V" n="16"/>possit esse pars sillogismi demonstratiui: quamuis possit esse principium 
+      acqui<lb ed="#V" n="17" break="no"/>sitionis vniversalis: quod est principium doctrine demonstratiue: vt dicit: et ideo patet 
+      <lb ed="#V" n="18"/>dictum. P. non esse ad propositum. vnde esto quod magis commune sit prius no 
+      <lb ed="#V" n="19"/>tum intellectui: quam minus commune: non tamen est prius notum quam 
+      indiuiduum.<lb ed="#V" n="20" break="no"/>Io quaoelibet communi prius notum est aliquod indiuiduum: quod etiam patet per 
+      <lb ed="#V" n="21"/>verbum commun. iam allegatum scilicet quod indiuiduum est principium acquisitionis vniversalis 
+      <lb ed="#V" n="22"/>quod verum est vniversaliter de notitia incoplexa indiuidui respectum 
+      acquisi<lb ed="#V" n="23" break="no"/>tionis vniversalis incomplexi: et per consequens etiam complexi: Et de notitia etiam 
+      <lb ed="#V" n="24"/>incomplexa indiuidui etiam in multis est verum respectum vniversalis cople 
+      <lb ed="#V" n="25"/>xi: sicut patet ex sumptione vniversalis: quod est principium artis et scientie: et non est 
+      <lb ed="#V" n="26"/>per se notum. Utrum autem notitiam principum per se noti praecedat notitia 
+      <lb ed="#V" n="27"/>alicuius sui singularis complexi: quamuis ipsum vniversale non fiat notum per 
+      <lb ed="#V" n="28"/>illam non curo pro nunc discutere.
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1815">
+      ⁋ Ad 2m dico vt haberi potest 
+      <lb ed="#V" n="29"/>de intentione <ref xml:id="grvnZZ-ed1e29-Rd1e1819">Augusti. 14. de trinita.</ref> quod mentem esse sibi 
+      <lb ed="#V" n="30"/>presentem potest dupliciter intelligi. vno modo de pre 
+      <lb ed="#V" n="31"/>sentia essentiali. Alio modo de praesentia obiectiua. 
+      pri<lb ed="#V" n="32" break="no"/>mo modo mens est sibi semper presens: quamuis non 
+      pro<lb ed="#V" n="33" break="no"/>prie forte dicatur aliquid praesens sibimet: sed potius 
+      <lb ed="#V" n="34"/>non absens sibi: secundum tamen vsitatum modum loquendi 
+      <lb ed="#V" n="35"/>et maxime ab August. et sic mens potest dici sibi praesens semper. 2o autem 
+      <lb ed="#V" n="36"/>modo non semper mens est sibi praesens: sicut non semper est in conspectu proprio id est 
+      <lb ed="#V" n="37"/>non semper se conspicit actu seu cogitat: tunc enim tantum sibimet est praesens 
+      <lb ed="#V" n="38"/>quando actu se cogitat: et hanc praesentiam voco obiectiuam. Cum igitur dicitur quod 
+      <lb ed="#V" n="39"/>nihil prius potest dici praesens esse menti quam ipsa: si de prima praesentia loquaereis 
+      <lb ed="#V" n="40"/>concedo. Et cum infertur. igitur nec aliquid sibi prius notum. potest secundum 
+      eum<lb ed="#V" n="41" break="no"/>dem Aug. ibidem distingui de esse notum scilicet habitualiter et actualiter 
+      <lb ed="#V" n="42"/>quod dicit esse cogitatum. primo potest concedi consequens nihil enim prius notum est 
+      <lb ed="#V" n="43"/>menti notitia tali quasi habituali: quam mens illa: sed illud non est 
+      <lb ed="#V" n="44"/>ad propositum: loquimur enim de actualiter cognito ab 
+      intellectu<lb ed="#V" n="45" break="no"/>2o autem modo accipiendo esse notum neganda est consequentia. Quamuis enim 
+      <lb ed="#V" n="46"/>nihil sit prius praesens menti praesentia essentiali: quam ipsa sibi: aliquid 
+      <lb ed="#V" n="47"/>tamen potest esse ei praesens prius praesentia obiectiua quam ipsamet. quod est patet 
+      <lb ed="#V" n="48"/>per eundem Aug. et proxime praecedente. dicens quod mens in pueris seper 
+      <lb ed="#V" n="49"/>est sibi praesens hac praesentia scilicet et sibi habitualiter nota: non tamen se 
+      co<lb ed="#V" n="50" break="no"/>gitat. vnde in fine. 4. c. dicit sic. Nihil inquit tam nouit mens: 
+      <lb ed="#V" n="51"/>nisi quod sibi. presto est: nec menti magis quicquam presto est 
+      <lb ed="#V" n="52"/>quam ipsa sibi. Et statim sequenti capitulo mouet. q. sic. Quid itaque 
+      <lb ed="#V" n="53"/>dicendum de infantis mente: Et respondet an etiam ipsa se nosse 
+      <lb ed="#V" n="54"/>credenda est: sed intenta nimis in eas res quas per corporis 
+      <lb ed="#V" n="55"/>sensus tanto maphise quanto nouiore cepit delectatione senti 
+      <lb ed="#V" n="56"/>re. non ignorare se potest: sed cogitare se non potest. Et infra. Ita 
+      <lb ed="#V" n="57"/>et in aliis corporis sensibus quantum sinit illa etas intensius 
+      <lb ed="#V" n="58"/>se quasi coartant anime paruulorum: vt quidquid per car 
+      <lb ed="#V" n="59"/>nem offendit aut allicit: hec solum abhorreant: autem 
+      <lb ed="#V" n="60"/>vehementer appetant: sua vero interiora non cogitent. 
+    </p>
+            <p xml:id="grvnZZ-ed1e29-d1e1890">
+               <lb ed="#V" n="61"/>⁋ Similiter constat quod tali praesentia deus est semper 
+      <lb ed="#V" n="62"/>presens menti: nec tamen est prius notus a mente. Si 
+      <lb ed="#V" n="63"/>vero antecedens illud intelligatur de praesentia obiectiua 
+      <lb ed="#V" n="64"/>negandum est. Nam multa menti prius obiiciuntur: quam 
+      <lb ed="#V" n="65"/>mens ipsa: vt patet ex antedictis. Et sic finitur. q. praesens. 
+    </p>
+         </div>
+      </body>
+   </text>
 </TEI>
