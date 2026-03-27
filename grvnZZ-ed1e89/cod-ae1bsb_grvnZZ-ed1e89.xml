@@ -95,13 +95,13 @@
         <p xml:id="grvnZZ-ed1e89-d1e190">
           <lb ed="#V" n="61"/>Ad oppositum artituo ex eo quod scribitur in euangelio 
           <lb ed="#V" n="62"/>Math. Quia cum sederit filius 
-          ho<lb ed="#V" n="63" break="no"/>minis in sede maiestatis sue <quote source="http://scta.info/resource/mt25_32@2-6">congregabuntur ante eum omnes
+          ho<lb ed="#V" n="63" break="no"/>minis in sede maiestatis sue <quote xml:id="grvnZZ-ed1e89-Qd1e191" source="http://scta.info/resource/mt25_32@2-6">congregabuntur ante eum omnes
           <lb ed="#V" n="64"/>gentes</quote> a dextris et a sinistris: et dicet his qui a dextris.
-          <quote source="http://scta.info/resource/mt25_34@10-20">ve<lb ed="#V" n="65" break="no"/>nite benedicti patris mei possidete paratum vobis regnum
+          <quote xml:id="grvnZZ-ed1e89-Qd1e196" source="http://scta.info/resource/mt25_34@10-20">ve<lb ed="#V" n="65" break="no"/>nite benedicti patris mei possidete paratum vobis regnum
           <!--269.xml-->
           <cb ed="#V" n="b"/>
           <!-- 140-v b -->
-          <lb ed="#V" n="66"/>a constitutione mundi:</quote> Sinistris vero. <quote source="http://scta.info/resource/mt25_41@12-22">ite maledicti in ignem
+          <lb ed="#V" n="66"/>a constitutione mundi:</quote> Sinistris vero. <quote xml:id="grvnZZ-ed1e89-Qd1e210" source="http://scta.info/resource/mt25_41@12-22">ite maledicti in ignem
           <lb ed="#V" n="67"/>eternum: qui praeparatus est dyabolo ea angelis eius.</quote> 
           Prepa<lb ed="#V" n="68" break="no"/>ratio autem regni dei praedestinatio est: praeparatio vero eterne 
           pe<lb ed="#V" n="69" break="no"/>ne que nomine ignis describitur reprobatio est. Cum ergo quilibet 
@@ -129,8 +129,8 @@
           <lb ed="#V" n="87"/>stinatus cui proposuit deus dare vitam eternam. Et ille 
           repro<lb ed="#V" n="88" break="no"/>batus cui proposuit non dare. hoc satis innuit apostolus cum 
           gratui<lb ed="#V" n="89" break="no"/>tam ab eterno Iacob praedestinationem: et Esau 
-          reprobatio<lb ed="#V" n="90" break="no"/>nem volens ostendere introducit verbum dei dicentis. <quote source="http://scta.info/resource/rom9_13@4-9">Iacob
-          <lb ed="#V" n="91"/>dilexi. Esau autem odio habui.</quote> et postea generaliter concludit. <quote source="http://scta.info/resource/rom9_18@1-8">ergo
+          reprobatio<lb ed="#V" n="90" break="no"/>nem volens ostendere introducit verbum dei dicentis. <quote xml:id="grvnZZ-ed1e89-Qd1e270" source="http://scta.info/resource/rom9_13@4-9">Iacob
+          <lb ed="#V" n="91"/>dilexi. Esau autem odio habui.</quote> et postea generaliter concludit. <quote xml:id="grvnZZ-ed1e89-Qd1e275" source="http://scta.info/resource/rom9_18@1-8">ergo
           <lb ed="#V" n="92"/>cuius vult miseretur. et quem vult indurat</quote> id est non miseretur: vt 
           <lb ed="#V" n="93"/>exponit Aug. ad simpli. libro primo ita quod idem intelligit apostolus per 
           <lb ed="#V" n="94"/>pdire in proposito quod per velle non misereri: et per diligere idem 
@@ -292,7 +292,7 @@
         </p>
         <p xml:id="grvnZZ-ed1e89-d1e594">
           <lb ed="#V" n="97"/>⁋ Praeterea ait. Aug. ibidem. Apostolus limitem fecit quem transgredi non 
-          <lb ed="#V" n="98"/>debeat hominis incauta suspicatio. ait enim <quote source="http://scta.info/resource/IIcor5_10@4-15">omnes astabimus
+          <lb ed="#V" n="98"/>debeat hominis incauta suspicatio. ait enim <quote xml:id="grvnZZ-ed1e89-Qd1e607" source="http://scta.info/resource/IIcor5_10@4-15">omnes astabimus
           an<lb ed="#V" n="99" break="no"/>te tribunal christi: vt ferat vnusquisque secundum ea quae per corpus gessit</quote> 
           <lb ed="#V" n="100"/>id est illo tempore quo in corpore vixit siue bonum siue malum 
           gesse<lb ed="#V" n="101" break="no"/>rit inquit non adiunxit vel gesturus fuit. Est igitur determinatus 
@@ -304,7 +304,7 @@
         <p xml:id="grvnZZ-ed1e89-d1e616">
           ⁋ Praeterea arguit Aug. Si 
           iudica<lb ed="#V" n="106" break="no"/>rentur inquit homines pro meritis sue vite: quae non habuerunt 
-          mor<lb ed="#V" n="107" break="no"/>te praeuenti: sed habituri si viuerent <quote source="http://scta.info/resource/sap4_11@1-6">nihil prodesset ei qui raptus est
+          mor<lb ed="#V" n="107" break="no"/>te praeuenti: sed habituri si viuerent <quote xml:id="grvnZZ-ed1e89-Qd1e632" source="http://scta.info/resource/sap4_11@1-6">nihil prodesset ei qui raptus est
           <lb ed="#V" n="108"/>ne malitia mutaret intellictum:</quote> sicut scribitur Sapientie 4o nihil 
           pro<lb ed="#V" n="109" break="no"/>desset eis qui lapsi moriuntur: si ante morerentur: quod nullus 
           christi<lb ed="#V" n="110" break="no"/>anus dicere audebit. Et subdit. Nam quis christianus non 
@@ -379,8 +379,8 @@
           <lb ed="#V" n="37"/>quicumque fuit habiturus huiusmodi vsum: ideo fuit habiturus: quia fuit 
           <lb ed="#V" n="38"/>praedestinatus. consequentia patet: et prima pars antecedentis in multis auctoritatibus 
           scri<lb ed="#V" n="39" break="no"/>pture probatur: sicut illa apostoli prima ad Cortis quid enim habes quod non 
-          acce<lb ed="#V" n="40" break="no"/>pisti: et illa eiusdem ad Phil. <quote source="http://scta.info/resource/phil2_13@4-11">Deus operatur in nobis velle et
-          <lb ed="#V" n="41"/>perficere pro bona voluntate:</quote> et illa eiusdem ad Eph. <quote source="http://scta.info/resource/eph2_10@1-18">Ipsius su
+          acce<lb ed="#V" n="40" break="no"/>pisti: et illa eiusdem ad Phil. <quote xml:id="grvnZZ-ed1e89-Qd1e787" source="http://scta.info/resource/phil2_13@4-11">Deus operatur in nobis velle et
+          <lb ed="#V" n="41"/>perficere pro bona voluntate:</quote> et illa eiusdem ad Eph. <quote xml:id="grvnZZ-ed1e89-Qd1e792" source="http://scta.info/resource/eph2_10@1-18">Ipsius su
           <lb ed="#V" n="42"/>mus factura creati in christo id est per christum in operibus bonis quae pre
           <lb ed="#V" n="43"/>parauit nobis deus: vt in illis ambulemus:</quote> et plurime aliqui 
           <lb ed="#V" n="44"/>quas recurrere longum esset. 2a pars autem satis patet ex se. Nam 
@@ -403,7 +403,7 @@
           <lb ed="#V" n="59"/>cepit: quo enim post iuste viuere qui non fuerit iustificatus: 
           iu<lb ed="#V" n="60" break="no"/>stificat autem grata: vt iustificatus possit iuste viuere. prima autem 
           <lb ed="#V" n="61"/>est gratia. 2a autem sunt opera. Et paulo ante super illo apostoli ad
-          Ro<lb ed="#V" n="62" break="no"/><quote source="http://scta.info/resource/rom9_12@1-13">No ex operibus sed ex vocante dictum est: quia maior seruiet
+          Ro<lb ed="#V" n="62" break="no"/><quote xml:id="grvnZZ-ed1e89-Qd1e845" source="http://scta.info/resource/rom9_12@1-13">No ex operibus sed ex vocante dictum est: quia maior seruiet
           mi<lb ed="#V" n="63" break="no"/>nori</quote> inquit. ergo vocantis est gratia: percipientis autem gratiam consequenter sunt 
           <lb ed="#V" n="64"/>opera non quem gratiam periant: sed quae gra periantur. Et infra. iuxta medium 
           <lb ed="#V" n="65"/>libri dicit. quod vocatio est effectrix bone voluntatis et eam prae¬ 
@@ -456,7 +456,7 @@
           <lb ed="#V" n="97"/>effectus divine praedestinationis. ergo non quia quis praeuidetur futurus sine 
           <lb ed="#V" n="98"/>obice talis salutis: aut gratiae est praedestinatus. Consequentia pate 
           <lb ed="#V" n="99"/>et antecedens probatur primo expressa auctoritate apostoli dicentis in eplara ad Eph.
-          <lb ed="#V" n="100"/><quote source="http://scta.info/resource/eph1_4@2-13">Elegit nos ante mundi constitutionem vt essemus sancti et
+          <lb ed="#V" n="100"/><quote xml:id="grvnZZ-ed1e89-Qd1e945" source="http://scta.info/resource/eph1_4@2-13">Elegit nos ante mundi constitutionem vt essemus sancti et
           in<lb ed="#V" n="101" break="no"/>maculati:</quote> vbi vt dicit glo. loquitur apostolus de electione quae 
           pre<lb ed="#V" n="102" break="no"/>destinauit nos: et sicut non praedestinauit nos: eo quod scien essemus 
           <lb ed="#V" n="103"/>et immaculati: sic nec quia futuri eramus: sed quia nos 
@@ -480,7 +480,7 @@
           <lb ed="#V" n="116"/>et ideo sunt baptiçati: quia sunt praedestinati. ergo ipsi non: quia sunt sine 
           cul<lb ed="#V" n="117" break="no"/>pa originali sut praedestinati: sed econtra: quia sunt praedestinati: sunt sine 
           <lb ed="#V" n="118"/>tali culpa. consequentia patet: et prima pars antecedentis communiter a catholicis conceditur. 
-          <lb ed="#V" n="119"/>et 2a pars probatur per apostolum ad Tytum. dicentem. <quote source="http://scta.info/resource/tit3_5@1-17">non ex operibus iu
+          <lb ed="#V" n="119"/>et 2a pars probatur per apostolum ad Tytum. dicentem. <quote xml:id="grvnZZ-ed1e89-Qd1e998" source="http://scta.info/resource/tit3_5@1-17">non ex operibus iu
           <lb ed="#V" n="120"/>sticie quae fecimus nos: sed secundum suam misericoridam saluos nos fec: per
           laua<lb ed="#V" n="121" break="no"/>crum regnationis etc</quote> id est bapseum.
         </p>
@@ -565,7 +565,7 @@
           volun<lb ed="#V" n="56" break="no"/>tate in eo specialiter non operante: et per consequens ex puris naturalibus 
           <lb ed="#V" n="57"/>posset quis de statu perditionis ad statum salutis et gratie 
           perue<lb ed="#V" n="58" break="no"/>nire: quod forte non exit pelagiane heresis methas. Et est ex 
-          <lb ed="#V" n="59"/>presse contra apostolum in epslara ad Cols. <quote source="http://scta.info/resource/col1_12@1-13 http://scta.info/resource/col1_13@1-13">Gratias agentes deo pateri
+          <lb ed="#V" n="59"/>presse contra apostolum in epslara ad Cols. <quote xml:id="grvnZZ-ed1e89-Qd1e1170" source="http://scta.info/resource/col1_12@1-13 http://scta.info/resource/col1_13@1-13">Gratias agentes deo pateri
           <lb ed="#V" n="60"/>qui dignos nos fecit in partem sortis sanctorum in lumine. Qui
           <lb ed="#V" n="61"/>eripuit nos de potestate tenebrarum: et transtulit in regnum filii
           <lb ed="#V" n="62"/>dilectionis sue.</quote>
@@ -597,7 +597,7 @@
           <lb ed="#V" n="79"/>curam negligat: vt quos ordinauit ad gloriam: quam eis non 
           si<lb ed="#V" n="80" break="no"/>ne baptismo dare proposuit. relinquat naturali cursui vt bapti 
           <lb ed="#V" n="81"/>getur et non potius ipse sue misericordiae prouidentia id ei tribuat: per 
-          <lb ed="#V" n="82"/>quod suum propositum impleatur: quo enim dicit apostolus. <quote source="http://scta.info/resource/rom8_28@6-16">omnia procedunt
+          <lb ed="#V" n="82"/>quod suum propositum impleatur: quo enim dicit apostolus. <quote xml:id="grvnZZ-ed1e89-Qd1e1235" source="http://scta.info/resource/rom8_28@6-16">omnia procedunt
           <lb ed="#V" n="83"/>in bonum his qui secundum propositum vocati sunt sancti:</quote> et quo ait 
           <lb ed="#V" n="84"/>Saluator electis in euangelio Math. quod vnus passer non 
           <lb ed="#V" n="85"/>cadit in terra sine prouidentia dei. vos autem inquit multis 
@@ -663,8 +663,8 @@
           <!--273.xml-->
           <pb ed="#V" n="142-v"/>
           <cb ed="#V" n="a"/>
-          <lb ed="#V" n="1"/>propositum voluntatis sue <quote source="http://scta.info/resource/eph1_6@1-5">in laudem glorie gratie sue.</quote> Et infra
-          <quote source="http://scta.info/resource/eph1_11@7-17">praede<lb ed="#V" n="2" break="no"/>stinati secundum propositum eius qui omnia operatur secundum consilium
+          <lb ed="#V" n="1"/>propositum voluntatis sue <quote xml:id="grvnZZ-ed1e89-Qd1e1366" source="http://scta.info/resource/eph1_6@1-5">in laudem glorie gratie sue.</quote> Et infra
+          <quote xml:id="grvnZZ-ed1e89-Qd1e1369" source="http://scta.info/resource/eph1_11@7-17">praede<lb ed="#V" n="2" break="no"/>stinati secundum propositum eius qui omnia operatur secundum consilium
           <lb ed="#V" n="3"/>voluntatis sue.</quote> Et ad Ro. vocat praedestinatos <quote xml:id="grvnZZ-ed1e89-Qd1e1339" source="http://scta.info/resource/rom9_23" synch="7-8">vasa 
             miseri<lb ed="#V" n="4" break="no"/>cordie</quote>: et multa alia possent induci quibus manifeste 
           proba<lb ed="#V" n="5" break="no"/>tur quod quicumque praedestinatus est ex sola gratuita: dei 
@@ -681,12 +681,12 @@
           <lb ed="#V" n="13"/>apostoli expressa: et determinatione Aug. ipsum exponentis 
           <lb ed="#V" n="14"/>lilo primo ad Simpli. multipliciter. primo quidem: quia apostolus ad Ro. 
           lo<lb ed="#V" n="15" break="no"/>quens de praedestinatione Iacob: et reprobatione Esau. et per 
-          <lb ed="#V" n="16"/>hoc quid sit de ceteris sentiendum nos edocens ait: <quote source="http://scta.info/resource/rom9_11@1-17 http://scta.info/resource/rom9_12@1-13">quod cum non
+          <lb ed="#V" n="16"/>hoc quid sit de ceteris sentiendum nos edocens ait: <quote xml:id="grvnZZ-ed1e89-Qd1e1412" source="http://scta.info/resource/rom9_11@1-17 http://scta.info/resource/rom9_12@1-13">quod cum non
           <lb ed="#V" n="17"/>dum nati essent aut aliquid egissent boni aut mali vt secundum
           ele<lb ed="#V" n="18" break="no"/>ctionem propositum dei maneret non ex opoeribus: sed ex
           volunta<lb ed="#V" n="19" break="no"/>te dictum est: quia maior seruiet minori:</quote> per hoc autem quod ait 
           ma<lb ed="#V" n="20" break="no"/>ior seruiet minori: significatur reprobatio Esau et 
-          praedestina<lb ed="#V" n="21" break="no"/>tio Iacob: sicut declarant verba sequentia. <quote source="http://scta.info/resource/rom9_13@1-9">Sicut inquit
+          praedestina<lb ed="#V" n="21" break="no"/>tio Iacob: sicut declarant verba sequentia. <quote xml:id="grvnZZ-ed1e89-Qd1e1426" source="http://scta.info/resource/rom9_13@1-9">Sicut inquit
           scri<lb ed="#V" n="22" break="no"/>ptum est Iacob dilexi: Esau autem odio habui.</quote> hoc autem scilicet odium 
           <lb ed="#V" n="23"/>seu reprobationem Esau: et Iacob dilectionem seu 
           praedestina<lb ed="#V" n="24" break="no"/>tionem. dicit apostolus. non ex operibus eorum esse: sed ex deo vocante: 
@@ -713,8 +713,8 @@
         </p>
         <p xml:id="grvnZZ-ed1e89-d1e1433">
           ⁋ 2o idem probatur ex sequenti verbo apostoli. 
-          <lb ed="#V" n="42"/><quote source="http://scta.info/resource/rom9_16@1-8">Non est inquit volentis aut currentis: sed dei est miserentis.</quote> Et
-          <lb ed="#V" n="43"/>statim concludit. <quote source="http://scta.info/resource/rom9_18@1-8">ergo cuius vult miseretur: et quem vult indurat
+          <lb ed="#V" n="42"/><quote xml:id="grvnZZ-ed1e89-Qd1e1479" source="http://scta.info/resource/rom9_16@1-8">Non est inquit volentis aut currentis: sed dei est miserentis.</quote> Et
+          <lb ed="#V" n="43"/>statim concludit. <quote xml:id="grvnZZ-ed1e89-Qd1e1484" source="http://scta.info/resource/rom9_18@1-8">ergo cuius vult miseretur: et quem vult indurat
           <lb ed="#V" n="44"/>ti.</quote> non miseretur: vt exponit Aug. per quorum verborum consequentiam secundum 
           <lb ed="#V" n="45"/>Aug. colligitur: quod sict apostolus dixerat: non est volentis: neque 
           cur<lb ed="#V" n="46" break="no"/>rentis: sed dei miserentis: sic etiam dici debeat secundum intentionem 
@@ -735,7 +735,7 @@
           <lb ed="#V" n="58"/>uid est iniquitas apud deum: vt enim ait Aug. in ench. iniquum 
           <lb ed="#V" n="59"/>videtur: vt sine vllis bonorum malorumue operum meritis vnum 
           <lb ed="#V" n="60"/>deus diligat alterumque oderit. Item cum post dixisset cuius vult 
-          <lb ed="#V" n="61"/><quote source="http://scta.info/resource/rom9_18@1-8">miseretur: et quem vult indurat.</quote> statim obicit dicens. dicis 
+          <lb ed="#V" n="61"/><quote xml:id="grvnZZ-ed1e89-Qd1e1528" source="http://scta.info/resource/rom9_18@1-8">miseretur: et quem vult indurat.</quote> statim obicit dicens. dicis 
           ita<lb ed="#V" n="62" break="no"/>que mihi vt quod deus queritur: et conqueritur de his qui nec bene 
           vo<lb ed="#V" n="63" break="no"/>lunt nec bene operantur. nam voluntati eius quis resistit. q. dce 
           <lb ed="#V" n="64"/>cum nullus quicquam possit contra voluntatem domini si deus quos vult 
@@ -778,7 +778,7 @@
         <p xml:id="grvnZZ-ed1e89-d1e1561">
           ⁋ 4o 
           euidentissi<lb ed="#V" n="94" break="no"/>me idem videtur probari secundum intentionem Aug. in de bo. perse. circa 
-          <lb ed="#V" n="95"/>medium libri. ex verbo christi dicentis Luc. ideo. <quote source="http://scta.info/resource/mt11_21@1-27">Ue tibi
+          <lb ed="#V" n="95"/>medium libri. ex verbo christi dicentis Luc. ideo. <quote xml:id="grvnZZ-ed1e89-Qd1e1617" source="http://scta.info/resource/mt11_21@1-27">Ue tibi
           coro<lb ed="#V" n="96" break="no"/>çaim. ve tibi bethsayda: quia si in tyro et sydone facte esent
           <lb ed="#V" n="97"/>virtutes que facte sunt in vobis: olim in cilicio eta cinere
           <lb ed="#V" n="98"/>penitentiam egissent:</quote> expresse denotat quod ideo tyrii et sydonii non 
@@ -811,14 +811,14 @@
           vi<lb ed="#V" n="125" break="no"/>derent. Deide continue subdit quod dictum est de iudeis: in eadem 
           in<lb ed="#V" n="126" break="no"/>quit parditionis massa relicti sunt. etiam iudei: qui non potuerunt 
           cre<lb ed="#V" n="127" break="no"/>dere factis in conspectu suo tam magnis clarisque virtutibus. Cur 
-          <lb ed="#V" n="128"/>enim non poterant credere: non tacuit euangenum dicens: <quote source="http://scta.info/resource/io12_37@1-11">cum autem tanta
+          <lb ed="#V" n="128"/>enim non poterant credere: non tacuit euangenum dicens: <quote xml:id="grvnZZ-ed1e89-Qd1e1691" source="http://scta.info/resource/io12_37@1-11">cum autem tanta
           <lb ed="#V" n="129"/>signa fecisset coram eis non crediderunt in eum:</quote> vt Ysaie prophiee 
-          <lb ed="#V" n="130"/>sermo impleretur quem dixit. <quote source="http://scta.info/resource/io12_38@8-18">domine quis credidit auditui nostro
+          <lb ed="#V" n="130"/>sermo impleretur quem dixit. <quote xml:id="grvnZZ-ed1e89-Qd1e1699" source="http://scta.info/resource/io12_38@8-18">domine quis credidit auditui nostro
           <!--274.xml-->
           <pb ed="#V" n="143-r"/>
           <cb ed="#V" n="a"/>
           <lb ed="#V" n="1"/>et brachium domini cui reuelatum est:</quote> et ideo non poterant credere: 
-          <lb ed="#V" n="2"/>qui iterum dixit Ysa. <quote source="http://scta.info/resource/io12_40@1-11">excecauit oculos eorum et indurauit cor
+          <lb ed="#V" n="2"/>qui iterum dixit Ysa. <quote xml:id="grvnZZ-ed1e89-Qd1e1712" source="http://scta.info/resource/io12_40@1-11">excecauit oculos eorum et indurauit cor
           <lb ed="#V" n="3"/>eorum: vt non videant oculis nec intelligant corde nec
           conuer<lb ed="#V" n="4" break="no"/>tantur: et sanem illos.</quote> non erant ergo sic execati oculi: nec sic 
           indura<lb ed="#V" n="5" break="no"/>tum cor tyriorum et sydoniorum: quando credidissent si qualia 
@@ -871,7 +871,7 @@
           <lb ed="#V" n="37"/>in ench. ita desipiat: vt dicat deum malas hominum 
           volunta<lb ed="#V" n="38" break="no"/>tes quas voluerit: et quando voluerit et vbi voluerit in bonum non 
           <lb ed="#V" n="39"/>posse conuertere: Et ideo non potest aliter responderi: nisi quia sibi non 
-          <lb ed="#V" n="40"/>placet: et iuxta apostolum <quote source="http://scta.info/resource/rom9_18@1-8">cuius vult miseretur: et quem vult indurat</quote> id est
+          <lb ed="#V" n="40"/>placet: et iuxta apostolum <quote xml:id="grvnZZ-ed1e89-Qd1e1809" source="http://scta.info/resource/rom9_18@1-8">cuius vult miseretur: et quem vult indurat</quote> id est
           <lb ed="#V" n="41"/>immiseretur: vel quod tantum valet non miseretur. Concludo igitur vna cum 
           <lb ed="#V" n="42"/>Magistro nostro. distinctione 41. quod sicut deus quos voluit ab eterno 
           praedesti<lb ed="#V" n="43" break="no"/>nauit: et non propter merita aliqua futura: ita quos voluit ab 
@@ -1074,7 +1074,7 @@
           ta<lb ed="#V" n="57" break="no"/>lem consequentiam non facerent si verba scripture cum debita 
           veneratio<lb ed="#V" n="58" break="no"/>ne attenderent: atque sanctorum. Ait enim sapiens deo supra Saprum. 12. 
           <lb ed="#V" n="59"/>quis tibi imputabit si perierint nationes quas tum fecisti: et pau 
-          <lb ed="#V" n="60"/>lopost. <quote source="http://scta.info/resource/sap12_15@1-19">cum sis inquit iustus iuste omnia disponis: ipsum quoque qui
+          <lb ed="#V" n="60"/>lopost. <quote xml:id="grvnZZ-ed1e89-Qd1e2197" source="http://scta.info/resource/sap12_15@1-19">cum sis inquit iustus iuste omnia disponis: ipsum quoque qui
           <lb ed="#V" n="61"/>puniri non debet condenas: et exterum existimas a tua virtute.</quote> vbi 
           <lb ed="#V" n="62"/>glose. interlinealis. vel ipsum qui puniri non debet eterna pena 
           <lb ed="#V" n="63"/>condemnas in eternum et exterum etc. id est alienum et indignum a tua 
@@ -1303,7 +1303,7 @@
           <lb ed="#V" n="101"/>eorum culpam. Dudenmm. hic sunt duo distincte consideranda. vnum est 
           <lb ed="#V" n="102"/>quod deus proposuit se aliquorum non misereri: et in hoc proprie consi 
           <lb ed="#V" n="103"/>stit ratio reprobationis: et cur sic proposuit non est dare causam praeter 
-          <lb ed="#V" n="104"/>sui bemplacitum. Sed simpliciter confitendum cum apostolo <quote source="http://scta.info/resource/rom9_18@1-8">quod cuius vult
+          <lb ed="#V" n="104"/>sui bemplacitum. Sed simpliciter confitendum cum apostolo <quote xml:id="grvnZZ-ed1e89-Qd1e2651" source="http://scta.info/resource/rom9_18@1-8">quod cuius vult
           mi<lb ed="#V" n="105" break="no"/>seretur: et quem vult indurat.</quote> id est immiseretur: vt exponit Aug. 
           Ali<lb ed="#V" n="106" break="no"/>ud est quod in talibus quorum proposuit non misereri. praeparauit etiam 
           <lb ed="#V" n="107"/>quod peccatis penam debitam: et ideo quamuis non propter eorum culpam no 

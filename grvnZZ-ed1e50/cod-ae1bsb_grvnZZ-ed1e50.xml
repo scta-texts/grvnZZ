@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--
+<?xml version="1.0" encoding="UTF-8"?><!--
   schema preventing valid use of <figure> element inside <p>
   <?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-  <?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>--><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -308,7 +306,7 @@
           <lb ed="#V" n="124"/>totiens sicut congelatio. vbi autem hec littera habet velox littera commenti habet 
           <lb ed="#V" n="125"/>subito: et Commentatoris. exponit. id est in instanti: videtur ergo mens. P. esse qui 
           <lb ed="#V" n="126"/>neque augntio neque diminutio: neque alteratio est continua: sed 
-          in<lb ed="#V" n="127" break="no"/>terrumpitur per quiete. Et <ref>ibidem innuit Commentatoris.</ref> rationem huius: quia cuiuslibet 
+          in<lb ed="#V" n="127" break="no"/>terrumpitur per quiete. Et <ref xml:id="grvnZZ-ed1e50-Rd1e579">ibidem innuit Commentatoris.</ref> rationem huius: quia cuiuslibet 
           <lb ed="#V" n="128"/>forme naturalis est dare mimam partem in actu: et illa fit in instanti: vt. supra
           <lb ed="#V" n="129"/>arguendo tactum est. ideo dicens <ref xml:id="grvnZZ-ed1e50-Rja2dd3" corresp="#grvnZZ-ed1e50-Qg2daa1">Commentatoris. ibidem</ref>: <quote xml:id="grvnZZ-ed1e50-Qg2daa1" source="http://scta.info/resource/cnag1q-d1e110-d1e6597@517-531">quod non est hoc motus continuus 
           <lb ed="#V" n="130"/>in rei veritate: nisi motus localis qui est velocissimus motuum</quote>. Et in 
