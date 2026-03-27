@@ -171,7 +171,7 @@
         </p>
         <p xml:id="grvnZZ-d1e218-d1e346">
           ⁋ Item Grego. omel. 2 7. super illud  
-          <lb ed="#V" n="118"/>do. 15. quacumque audiui a patre meo nota feci vobis) dicit sic. 
+          <lb ed="#V" n="118"/>do. 15. <quote source="http://scta.info/resource/io15_15@18-26">quacumque audiui a patre meo nota feci vobis</quote>) dicit sic. 
           <lb ed="#V" n="119"/>Dum audita senuaui amata iam noui: quia amor ipse notitia est. 
           <lb ed="#V" n="120"/>Uult igitur opinio hec: quod licet non omnis cognitio sit volitio vel no 
           <lb ed="#V" n="121"/>litio Nam experimur aliquando nos intelligere aliquid: quod nec 
@@ -1152,9 +1152,9 @@
           <lb ed="#V" n="19"/>quae inducitur pro confirmatione responsionis: dicendum est quod illa non 
           ne<lb ed="#V" n="20" break="no"/>gat nec negare intendit vniversaliter odium a deo: quia non odium 
           <lb ed="#V" n="21"/>iniquitatis: sed odium ipsorum hominum iniquorum qui inquantum 
-          <lb ed="#V" n="22"/>homines sunt creature dei sunt. et sic non odiunt a deo. iuxta 
-          <lb ed="#V" n="23"/>illud Sapientie. Diligis enim omnia que sunt et nihil 
-          odi<lb ed="#V" n="24" break="no"/>sti eorum que fecisti. Et hec est expressa intentio Aug. primo libro ad  
+          <lb ed="#V" n="22"/>homines sunt creature dei sunt. et sic non odiunt a deo. iuxta
+          <lb ed="#V" n="23"/>illud Sapientie. <quote source="http://scta.info/resource/sap11_25@1-11">Diligis enim omnia que sunt et nihil
+          odi<lb ed="#V" n="24" break="no"/>sti eorum que fecisti.</quote> Et hec est expressa intentio Aug. primo libro ad  
           <lb ed="#V" n="25"/>Simplicianum. circa finem. vbi dixit: quod innixus verbis iam 
           <lb ed="#V" n="26"/>allegatis quod etiam in damnatis homnibus non odiat deus quod 
           <lb ed="#V" n="27"/>in eis fecit creando: nec quod in eis fecit ordinando: sed  

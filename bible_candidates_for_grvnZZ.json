@@ -1,0 +1,1175 @@
+{
+  "grvnZZ-d1e154": {
+    "grvnZZ-d1e154-d1e149": [
+      {
+        "candidate_id": "Icor13_12",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "Uidemus nunc per speculum in enigmate tunc aut facie ad faciem"
+      }
+    ]
+  },
+  "grvnZZ-d1e199": {
+    "grvnZZ-d1e199-d1e1785": [
+      {
+        "candidate_id": "lc15_10",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "quote encoded @4-13"
+      }
+    ]
+  },
+  "grvnZZ-d1e218": {
+    "grvnZZ-d1e218-d1e346": [
+      {
+        "candidate_id": "io15_15",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "quacumque audiui a patre meo nota feci vobis \u2014 Gregory citing John 15"
+      }
+    ],
+    "grvnZZ-d1e218-d1e2183": [
+      {
+        "candidate_id": "sap11_25",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ]
+  },
+  "grvnZZ-d1e237": {
+    "grvnZZ-d1e237-d1e264": [
+      {
+        "candidate_id": "phm1_20",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "quote encoded @3-7"
+      }
+    ],
+    "grvnZZ-d1e237-d1e960": [
+      {
+        "candidate_id": "ps79_20",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "embedded in Augustine paraphrase, not a direct MS citation"
+      },
+      {
+        "candidate_id": "ps79_8",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "embedded in Augustine paraphrase, not a direct MS citation"
+      }
+    ],
+    "grvnZZ-d1e237-d1e1420": [
+      {
+        "candidate_id": "ps118_112",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "Inclinaui cor meum ad faciendas iustificationes tuas propter retributionem"
+      }
+    ]
+  },
+  "grvnZZ-ed1e23": {
+    "grvnZZ-ed1e23-d1e112": [
+      {
+        "candidate_id": "rom1_20",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "invisibilia dei a creatura mundi per ea quae facta sunt \u2014 cited as apostolus dicit with explanatory gloss"
+      }
+    ],
+    "grvnZZ-ed1e23-d1e3772": [
+      {
+        "candidate_id": "lc16_25",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "quote encoded @6-16"
+      }
+    ]
+  },
+  "grvnZZ-ed1e28": {
+    "grvnZZ-ed1e28-d1e1065": [
+      {
+        "candidate_id": "is41_24",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph about concept of being, no Isaiah citation"
+      }
+    ]
+  },
+  "grvnZZ-ed1e29": {
+    "grvnZZ-ed1e29-d1e181": [
+      {
+        "candidate_id": "Icor13_12",
+        "intersectionCount": 8,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e29-d1e1580": [
+      {
+        "candidate_id": "phil3_13",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph about cognition theory, no Philippians citation"
+      }
+    ]
+  },
+  "grvnZZ-ed1e31": {
+    "grvnZZ-ed1e31-d1e559": [
+      {
+        "candidate_id": "io8_32",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "encoded as io8_31+io8_32 multi-verse quote"
+      }
+    ]
+  },
+  "grvnZZ-ed1e3X": {
+    "grvnZZ-ed1e3X-d1e161": [
+      {
+        "candidate_id": "ps108_16",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 no Psalm citation in paragraph"
+      }
+    ]
+  },
+  "grvnZZ-ed1e33": {
+    "grvnZZ-ed1e33-d1e1266": [
+      {
+        "candidate_id": "mt19_28",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "in regeneratione cum sederit filius hominis in sede maiestatis sue"
+      }
+    ]
+  },
+  "grvnZZ-ed1e34": {
+    "grvnZZ-ed1e34-d1e614": [
+      {
+        "candidate_id": "gal1_7",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph about necessity of generation, no Galatians citation"
+      }
+    ],
+    "grvnZZ-ed1e34-d1e976": [
+      {
+        "candidate_id": "IIpetr1_17",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "same quote already encoded as mt17_5; MS attributes to Matthew"
+      },
+      {
+        "candidate_id": "mt3_17",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "same quote already encoded as mt17_5 (transfiguration verse)"
+      },
+      {
+        "candidate_id": "mt17_5",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "hic est filius meus dilectus in quo mihi bene complacui"
+      }
+    ]
+  },
+  "grvnZZ-ed1e37": {
+    "grvnZZ-ed1e37-d1e995": [
+      {
+        "candidate_id": "iob24_1",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph discusses divine attributes/Anselm, no Job citation"
+      }
+    ]
+  },
+  "grvnZZ-ed1e41": {
+    "grvnZZ-ed1e41-d1e1482": [
+      {
+        "candidate_id": "is41_24",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 no Isaiah citation in paragraph"
+      }
+    ],
+    "grvnZZ-ed1e41-d1e2182": [
+      {
+        "candidate_id": "is41_24",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 no Isaiah citation in paragraph"
+      }
+    ],
+    "grvnZZ-ed1e41-d1e2319": [
+      {
+        "candidate_id": "ex3_14",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "Ego sum qui sum et dices filiis qui est misit me ad vos \u2014 nested within Augustine quote"
+      }
+    ]
+  },
+  "grvnZZ-ed1e45": {
+    "grvnZZ-ed1e45-d1e965": [
+      {
+        "candidate_id": "ps108_16",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph about natural production, no Psalm citation"
+      }
+    ]
+  },
+  "grvnZZ-ed1e46": {
+    "grvnZZ-ed1e46-d1e816": [
+      {
+        "candidate_id": "io5_19",
+        "intersectionCount": 18,
+        "status": "encoded",
+        "note": "explicitly attributed to 'Io. dicentis', full verse"
+      }
+    ]
+  },
+  "grvnZZ-ed1e49": {
+    "grvnZZ-ed1e49-d1e151": [
+      {
+        "candidate_id": "io3_16",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "quote encoded @1-9"
+      }
+    ]
+  },
+  "grvnZZ-ed1e5Y": {
+    "grvnZZ-ed1e5Y-d1e196": [
+      {
+        "candidate_id": "io14_16",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Ego rogabo patrem et alium paraclitum dabit vobis \u2014 Augustine citing John 14"
+      },
+      {
+        "candidate_id": "rom5_5",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e5Y-d1e231": [
+      {
+        "candidate_id": "io14_16",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Ego rogabo patrem et alium paraclitum dabit vobis \u2014 Leo papa citing John 14"
+      }
+    ],
+    "grvnZZ-ed1e5Y-d1e277": [
+      {
+        "candidate_id": "lc1_35",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e5Y-d1e321": [
+      {
+        "candidate_id": "gal5_4",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e5Y-d1e355": [
+      {
+        "candidate_id": "rom8_9",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "tit3_7",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e5Y-d1e377": [
+      {
+        "candidate_id": "lc1_35",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ]
+  },
+  "grvnZZ-ed1e5X": {
+    "grvnZZ-ed1e5X-d1e147": [
+      {
+        "candidate_id": "Icor13_13",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e5X-d1e154": [
+      {
+        "candidate_id": "col3_14",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "super omnia autem hec charitatem habete quod est vinculum perfectionis"
+      }
+    ],
+    "grvnZZ-ed1e5X-d1e201": [
+      {
+        "candidate_id": "rom5_5",
+        "intersectionCount": 11,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom8_26",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "ipse spiritus postulat pro nobis \u2014 cited via Augustine commentary"
+      }
+    ],
+    "grvnZZ-ed1e5X-d1e264": [
+      {
+        "candidate_id": "rom7_25",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "gratia dei per iesum christum dominum nostrum \u2014 Augustine paraphrase"
+      },
+      {
+        "candidate_id": "eph6_23",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "charitas cum fide a deo patre cum dominu iesu christo"
+      }
+    ],
+    "grvnZZ-ed1e5X-d1e883": [
+      {
+        "candidate_id": "sap11_25",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "diligis enim omnia quae sunt et nihil odisti eorum que fecisti"
+      }
+    ],
+    "grvnZZ-ed1e5X-d1e1256": [
+      {
+        "candidate_id": "Icor15_31",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 same, no 1 Corinthians 15 citation"
+      },
+      {
+        "candidate_id": "eph3_11",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph about charity/eternal life, no Ephesians 3 citation"
+      },
+      {
+        "candidate_id": "rom8_39",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph only contains rom6_23 (already encoded), no rom8_39"
+      },
+      {
+        "candidate_id": "rom6_23",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "second (fuller) citation in paragraph encoded"
+      }
+    ],
+    "grvnZZ-ed1e5X-d1e1310": [
+      {
+        "candidate_id": "rom8_18",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e5X-d1e1326": [
+      {
+        "candidate_id": "lc17_10",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cum feceritis omnia quae praecepta sunt vobis dicite servi inutiles sumus"
+      },
+      {
+        "candidate_id": "rom8_18",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "non sunt condigne passiones huius temporis \u2014 cited as interlinear gloss on Luke 17:10"
+      }
+    ],
+    "grvnZZ-ed1e5X-d1e1419": [
+      {
+        "candidate_id": "ps5_5",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "quoniam non deus volens iniquitatem tu es"
+      }
+    ],
+    "grvnZZ-ed1e5X-d1e1492": [
+      {
+        "candidate_id": "IItim4_8",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "multi-verse quote with IItim4_7@1-7"
+      }
+    ],
+    "grvnZZ-ed1e5X-d1e1743": [
+      {
+        "candidate_id": "rom8_18",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "non sunt condigne passiones huius temporis"
+      }
+    ]
+  },
+  "grvnZZ-ed1e55": {
+    "grvnZZ-ed1e55-d1e441": [
+      {
+        "candidate_id": "is41_24",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 no Isaiah citation in paragraph"
+      }
+    ]
+  },
+  "grvnZZ-ed1e61": {
+    "grvnZZ-ed1e61-d1e2560": [
+      {
+        "candidate_id": "Icor3_15",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "ipse saluus erit sic tamen quasi per ignem"
+      }
+    ],
+    "grvnZZ-ed1e61-d1e3185": [
+      {
+        "candidate_id": "lam3_22",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Mnintie domini quia non sumus consumpti"
+      }
+    ]
+  },
+  "grvnZZ-ed1e65": {
+    "grvnZZ-ed1e65-d1e1722": [
+      {
+        "candidate_id": "gen32_30",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 vidit deum facie ad faciem cited via Augustine about Christ, not as Gen 32 quote"
+      }
+    ],
+    "grvnZZ-ed1e65-d1e1837": [
+      {
+        "candidate_id": "io15_13",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "maiorem hac dilectionem habet nemo"
+      }
+    ]
+  },
+  "grvnZZ-ed1e67": {
+    "grvnZZ-ed1e67-d1e194": [
+      {
+        "candidate_id": "Ith1_5",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph about divine equality/goodness, no 1 Thessalonians citation"
+      }
+    ],
+    "grvnZZ-ed1e67-d1e540": [
+      {
+        "candidate_id": "sap7_27",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "already present in paragraph \u2014 cum sit vna omnia potest (encoded for ed1e91-d1e501 but also appears here)"
+      },
+      {
+        "candidate_id": "ap4_8",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph quotes ap1_8, not ap4_8"
+      },
+      {
+        "candidate_id": "io5_19",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "non potest filius a seipso facere quidquam nisi quod viderit patrem facientem"
+      },
+      {
+        "candidate_id": "ap1_4",
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "both ap1_4 and ap1_8 contain 'qui est et qui erat'; direct quote is ap1_8"
+      },
+      {
+        "candidate_id": "ap1_8",
+        "intersectionCount": 9,
+        "status": "encoded"
+      }
+    ]
+  },
+  "grvnZZ-ed1e7X": {
+    "grvnZZ-ed1e7X-d1e688": [
+      {
+        "candidate_id": "is41_24",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 philosophical discussion of divine properties, no Isaiah citation"
+      }
+    ],
+    "grvnZZ-ed1e7X-d1e844": [
+      {
+        "candidate_id": "ps68_3",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e7X-d1e974": [
+      {
+        "candidate_id": "io16_15",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e7X-d1e1270": [
+      {
+        "candidate_id": "io5_19",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "non potest filius a se facere quicquam \u2014 Hilary citing the verse"
+      }
+    ]
+  },
+  "grvnZZ-ed1e73": {
+    "grvnZZ-ed1e73-d1e1752": [
+      {
+        "candidate_id": "col1_16",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph quotes rom11_36 (ex ipso et per ipsum et in ipso sunt omnia), already encoded"
+      },
+      {
+        "candidate_id": "rom11_36",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ]
+  },
+  "grvnZZ-ed1e82": {
+    "grvnZZ-ed1e82-d1e1289": [
+      {
+        "candidate_id": "act1_11",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "hic iesus qui assumptus est a vobis in celum sic veniet"
+      }
+    ],
+    "grvnZZ-ed1e82-d1e1309": [
+      {
+        "candidate_id": "ap21_5",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e82-d1e1450": [
+      {
+        "candidate_id": "ag2_24",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 same paragraph, no Haggai citation"
+      },
+      {
+        "candidate_id": "is22_25",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph quotes os2_16 not Isaiah"
+      },
+      {
+        "candidate_id": "os2_16",
+        "intersectionCount": 8,
+        "status": "encoded"
+      }
+    ]
+  },
+  "grvnZZ-ed1e85": {
+    "grvnZZ-ed1e85-d1e446": [
+      {
+        "candidate_id": "sir23_29",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "domino enim antequam crearentur omnia sunt cognita sicut et post perfectum respicit omnia"
+      }
+    ],
+    "grvnZZ-ed1e85-d1e553": [
+      {
+        "candidate_id": "io18_4",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io6_65",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ]
+  },
+  "grvnZZ-ed1e88": {
+    "grvnZZ-ed1e88-d1e352": [
+      {
+        "candidate_id": "hebr4_13",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ]
+  },
+  "grvnZZ-ed1e89": {
+    "grvnZZ-ed1e89-d1e190": [
+      {
+        "candidate_id": "Ireg22_19",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 same paragraph, no Kings citation"
+      },
+      {
+        "candidate_id": "ex14_29",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph is about predestination using Matt 25, no Exodus citation"
+      },
+      {
+        "candidate_id": "mt25_32",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "congregabuntur ante eum omnes gentes"
+      },
+      {
+        "candidate_id": "mt25_41",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "already encoded from prior session"
+      },
+      {
+        "candidate_id": "Imac6_45",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph quotes mt25 (already encoded), no 1 Maccabees content"
+      },
+      {
+        "candidate_id": "mt19_28",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "paragraph quotes mt25:31-41; 'cum sederit filius hominis' phrase also in mt19_28 but context is mt25"
+      },
+      {
+        "candidate_id": "mt25_34",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "also encoded mt25_41@12-22 for the second quote in same paragraph"
+      }
+    ],
+    "grvnZZ-ed1e89-d1e248": [
+      {
+        "candidate_id": "mal1_3",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph quotes Iacob dilexi Esau odio habui as apostolus (rom9_13), not citing Malachi directly"
+      },
+      {
+        "candidate_id": "rom9_13",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "Iacob dilexi Esau autem odio habui"
+      },
+      {
+        "candidate_id": "rom9_18",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e89-d1e594": [
+      {
+        "candidate_id": "IIcor5_10",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "omnes astabimus ante tribunal christi vt ferat vnusquisque secundum ea quae per corpus gessit"
+      }
+    ],
+    "grvnZZ-ed1e89-d1e616": [
+      {
+        "candidate_id": "sap4_11",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "raptus est ne malitia mutaret intellectum"
+      }
+    ],
+    "grvnZZ-ed1e89-d1e757": [
+      {
+        "candidate_id": "phil2_13",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "Deus operatur in nobis velle et perficere pro bona voluntate"
+      },
+      {
+        "candidate_id": "eph2_10",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e89-d1e794": [
+      {
+        "candidate_id": "rom9_12",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e89-d1e910": [
+      {
+        "candidate_id": "eph1_4",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e89-d1e946": [
+      {
+        "candidate_id": "tit3_5",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "non ex operibus iusticie quae fecimus nos sed secundum misericordiam saluos nos fec per lavacrum"
+      }
+    ],
+    "grvnZZ-ed1e89-d1e1123": [
+      {
+        "candidate_id": "col1_13",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "multi-verse quote with col1_12@1-13"
+      },
+      {
+        "candidate_id": "col1_12",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded as part of col1_12+13 multi-verse quote"
+      }
+    ],
+    "grvnZZ-ed1e89-d1e1197": [
+      {
+        "candidate_id": "rom8_28",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e89-d1e1322": [
+      {
+        "candidate_id": "eph1_6",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "in laudem glorie gratie sue"
+      },
+      {
+        "candidate_id": "eph1_11",
+        "intersectionCount": 8,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e89-d1e1365": [
+      {
+        "candidate_id": "rom9_11",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "encoded as rom9_11+12 multi-verse quote"
+      },
+      {
+        "candidate_id": "rom9_12",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "encoded as rom9_11+12 multi-verse quote"
+      },
+      {
+        "candidate_id": "rom9_13",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e89-d1e1433": [
+      {
+        "candidate_id": "rom9_18",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "also encoded rom9_16@1-8 for the preceding quote in same paragraph"
+      }
+    ],
+    "grvnZZ-ed1e89-d1e1466": [
+      {
+        "candidate_id": "rom9_18",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "cuius vult miseretur et quem vult indurat"
+      }
+    ],
+    "grvnZZ-ed1e89-d1e1561": [
+      {
+        "candidate_id": "io12_38",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "explicitly attributed via 'sermo Esaiae impleretur quem dixit'; range @8-18"
+      },
+      {
+        "candidate_id": "mt11_21",
+        "intersectionCount": 13,
+        "status": "encoded",
+        "note": "MS attributes to 'Luc.' but text matches mt11_21 (paenitentiam egissent); full verse"
+      },
+      {
+        "candidate_id": "mt11_23",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph quotes mt11_21, not mt11_23"
+      },
+      {
+        "candidate_id": "rom10_16",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "text already encoded as io12_38 (domine quis credidit auditui nostro)"
+      },
+      {
+        "candidate_id": "io12_40",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "excecauit oculos eorum et indurauit cor eorum"
+      },
+      {
+        "candidate_id": "io12_37",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "is53_1",
+        "intersectionCount": 7,
+        "status": "not_found",
+        "note": "Isaiah 53:1 text cited via John 12:38; already encoded as io12_38@8-18"
+      },
+      {
+        "candidate_id": "lc10_13",
+        "intersectionCount": 7,
+        "status": "not_found",
+        "note": "parallel passage already encoded as mt11_21@1-27"
+      }
+    ],
+    "grvnZZ-ed1e89-d1e1727": [
+      {
+        "candidate_id": "rom9_18",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e89-d1e1801": [
+      {
+        "candidate_id": "rom9_18",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "biblical verse cited within Augustine quote (a83-q68), already attributed patristically"
+      }
+    ],
+    "grvnZZ-ed1e89-d1e2123": [
+      {
+        "candidate_id": "sap12_15",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e89-d1e2567": [
+      {
+        "candidate_id": "rom9_18",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ]
+  },
+  "grvnZZ-ed1e91": {
+    "grvnZZ-ed1e91-d1e180": [
+      {
+        "candidate_id": "ap1_8",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "explicitly attributed 'per illud Apoca. primo'; full verse"
+      },
+      {
+        "candidate_id": "ap4_8",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph quotes ap1_8 (qui est et qui erat et qui venturus est), not ap4_8"
+      },
+      {
+        "candidate_id": "ap1_4",
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "direct quote is ap1_8 (already encoded); 'qui est et qui erat' appears in both ap1_4 and ap1_8"
+      }
+    ],
+    "grvnZZ-ed1e91-d1e501": [
+      {
+        "candidate_id": "sap7_27",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cum sit vna omnia potest"
+      }
+    ],
+    "grvnZZ-ed1e91-d1e510": [
+      {
+        "candidate_id": "sap11_26",
+        "intersectionCount": 11,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e91-d1e1180": [
+      {
+        "candidate_id": "io10_18",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Potestatem habeo ponendi animam meam nemo tollet animam meam a me sed ego ponam eam a me ipso"
+      },
+      {
+        "candidate_id": "mt26_53",
+        "intersectionCount": 8,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e91-d1e1368": [
+      {
+        "candidate_id": "num5_13",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph is Augustine on immutability of past truths, no Numbers citation"
+      }
+    ],
+    "grvnZZ-ed1e91-d1e1817": [
+      {
+        "candidate_id": "ap17_11",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 same as ap17_8"
+      },
+      {
+        "candidate_id": "ap17_8",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph is philosophical discussion about immutability of past truths, no Apocalypse citation"
+      }
+    ]
+  },
+  "grvnZZ-ed1e94": {
+    "grvnZZ-ed1e94-d1e141": [
+      {
+        "candidate_id": "ps144_17",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive - 'sanctus in omnibus operibus suis' in both ps144_13 and ps144_17; quote matches ps144_13 (already encoded)"
+      },
+      {
+        "candidate_id": "ps144_13",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e94-d1e221": [
+      {
+        "candidate_id": "gen3_22",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e94-d1e254": [
+      {
+        "candidate_id": "io8_55",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Si dixero quia nescio eum ero similis vobis mendax \u2014 MS erroneously cites Io.7"
+      },
+      {
+        "candidate_id": "ps13_1",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps52_1",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "same text as ps13_1 (duplicate psalms); encoded as ps13_1@5-12"
+      }
+    ],
+    "grvnZZ-ed1e94-d1e517": [
+      {
+        "candidate_id": "hebr6_18",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "per duas res immobiles in quibus impossibile est mentiri deum fortissimum solatium habeamus"
+      }
+    ],
+    "grvnZZ-ed1e94-d1e999": [
+      {
+        "candidate_id": "ion3_10",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "misertus est super malicia quam locutus fuerat ut faceret et non fec"
+      },
+      {
+        "candidate_id": "is38_1",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e94-d1e1038": [
+      {
+        "candidate_id": "ex12_35",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "filii Israel qui petierunt ab egyptiis vasa argentea"
+      }
+    ],
+    "grvnZZ-ed1e94-d1e1062": [
+      {
+        "candidate_id": "IIchr18_21",
+        "intersectionCount": 8,
+        "status": "not_found",
+        "note": "parallel passage (2Chr 18:21) of the same story; MS cites '3o regum' = Ireg22_22"
+      },
+      {
+        "candidate_id": "Ireg22_22",
+        "intersectionCount": 9,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e94-d1e1225": [
+      {
+        "candidate_id": "ion4_2",
+        "intersectionCount": 15,
+        "status": "encoded",
+        "note": "attributed to 'ait Ionas', partial quote ending with etc."
+      }
+    ],
+    "grvnZZ-ed1e94-d1e1308": [
+      {
+        "candidate_id": "ex11_2",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "multi-verse quote with ex11_3@1-7"
+      }
+    ]
+  },
+  "grvnZZ-ed1e95": {
+    "grvnZZ-ed1e95-d1e1385": [
+      {
+        "candidate_id": "iudic20_22",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph about local motion, no Judges citation"
+      }
+    ]
+  },
+  "grvnZZ-ed1e1X": {
+    "grvnZZ-ed1e1X-d1e177": [
+      {
+        "candidate_id": "Icor15_36",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "already encoded as multi-verse Icor15_36-38"
+      },
+      {
+        "candidate_id": "Icor15_38",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "already encoded as multi-verse Icor15_36-38"
+      },
+      {
+        "candidate_id": "io5_21",
+        "intersectionCount": 7,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor15_37",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "quote spans Icor15_36-38"
+      }
+    ],
+    "grvnZZ-ed1e1X-d1e234": [
+      {
+        "candidate_id": "Icor3_7",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e1X-d1e298": [
+      {
+        "candidate_id": "IImac7_23",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "already encoded as IImac7_22+23 multi-verse quote"
+      },
+      {
+        "candidate_id": "IImac7_22",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "multi-verse quote with IImac7_23@1-8"
+      }
+    ],
+    "grvnZZ-ed1e1X-d1e358": [
+      {
+        "candidate_id": "sap11_26",
+        "intersectionCount": 8,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e1X-d1e397": [
+      {
+        "candidate_id": "sap8_1",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e1X-d1e491": [
+      {
+        "candidate_id": "rom11_36",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph cites Col 1:16 (ad Colossenses), not Romans"
+      },
+      {
+        "candidate_id": "col1_16",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e1X-d1e512": [
+      {
+        "candidate_id": "mt27_45",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "tenebre facte sunt super vniuersam terram \u2014 used as argument about divine conservation"
+      }
+    ],
+    "grvnZZ-ed1e1X-d1e1125": [
+      {
+        "candidate_id": "eph1_4",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "elegit nos ante mundi constitutionem vt essemus sancti"
+      }
+    ]
+  },
+  "grvnZZ-ed1e10": {
+    "grvnZZ-ed1e10-d1e123": [
+      {
+        "candidate_id": "ps110_2",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "opera domini exquisita in omnes voluntates eius"
+      }
+    ],
+    "grvnZZ-ed1e10-d1e480": [
+      {
+        "candidate_id": "sap12_17",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "virtutem ostendimus tu qui non crederis \u2014 also encoded nearby sap12_18 subest enim tibi"
+      }
+    ]
+  }
+}
