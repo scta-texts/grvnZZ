@@ -1,0 +1,1589 @@
+{
+  "grvnZZ-d1e97": {
+    "grvnZZ-d1e97-d1e174": [
+      {
+        "candidate_id": "adt-l14-d1e1535",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-d1e97-d1e1651": [
+      {
+        "candidate_id": "adt-l14-d1e1535",
+        "intersectionCount": 10,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "adt-l1-d1e36",
+        "intersectionCount": 25,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "adt-l1-d1e24",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "paragraph already has adt-l1-d1e36@1-39 encoded; adt-l1-d1e24 is false positive"
+      },
+      {
+        "candidate_id": "adt-l1-d1e59",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "paragraph already has adt-l1-d1e36@1-39 encoded; adt-l1-d1e59 is false positive"
+      }
+    ],
+    "grvnZZ-d1e97-d1e2372": [
+      {
+        "candidate_id": "adt-l15-d1e1801",
+        "intersectionCount": 14,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1836",
+        "intersectionCount": 16,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1794",
+        "intersectionCount": 25,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-d1e97-d1e3338": [
+      {
+        "candidate_id": "adt-l13-d1e1393",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@119-129; after 'inquit quod'; ref element already present for citation"
+      }
+    ],
+    "grvnZZ-d1e97-d1e3958": [
+      {
+        "candidate_id": "adt-l8-d1e974",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-d1e97-d1e4081": [
+      {
+        "candidate_id": "adt-l9-d1e1027",
+        "intersectionCount": 13,
+        "status": "encoded"
+      }
+    ]
+  },
+  "grvnZZ-d1e116": {
+    "grvnZZ-d1e116-d1e1129": [
+      {
+        "candidate_id": "adt-l13-d1e1406",
+        "intersectionCount": 10,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "adt-l8-d1e974",
+        "intersectionCount": 20,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-d1e116-d1e1372": [
+      {
+        "candidate_id": "adt-l13-d1e1393",
+        "intersectionCount": 34,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-d1e116-d1e1414": [
+      {
+        "candidate_id": "adt-l13-d1e1393",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-d1e116-d1e1453": [
+      {
+        "candidate_id": "adt-l14-d1e1596",
+        "intersectionCount": 19,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-d1e116-d1e2179": [
+      {
+        "candidate_id": "adt-l13-d1e1403",
+        "intersectionCount": 21,
+        "status": "encoded"
+      }
+    ]
+  },
+  "grvnZZ-d1e154": {
+    "grvnZZ-d1e154-d1e149": [
+      {
+        "candidate_id": "adt-l14-d1e1668",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l12-d1e1366",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l8-d1e968",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "adt-l14-d1e1535",
+        "intersectionCount": 9,
+        "also_in_bible_candidates": true,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-d1e154-d1e1630": [
+      {
+        "candidate_id": "adt-l14-d1e1535",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@98-106; after 'vt vult Augu. 14. de tri.'"
+      }
+    ]
+  },
+  "grvnZZ-d1e174": {
+    "grvnZZ-d1e174-d1e2979": [
+      {
+        "candidate_id": "adt-l15-d1e1889",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "MS cites Enchiridion, not De Trinitate; shared charitas vocabulary is false positive"
+      }
+    ]
+  },
+  "grvnZZ-d1e199": {
+    "grvnZZ-d1e199-d1e1250": [
+      {
+        "candidate_id": "adt-l11-d1e1251",
+        "intersectionCount": 32,
+        "status": "encoded",
+        "note": "two quotes: @42-80 and @81-99; author interpolates 'quod vniformiter est intelligendum...' within the second quote element"
+      }
+    ],
+    "grvnZZ-d1e199-d1e1301": [
+      {
+        "candidate_id": "adt-l11-d1e1251",
+        "intersectionCount": 27,
+        "status": "encoded",
+        "note": "two segments: aut si velit videre fenestram @111-120, and voluntas videndi finem @157-189"
+      }
+    ],
+    "grvnZZ-d1e199-d1e1319": [
+      {
+        "candidate_id": "adt-l11-d1e1251",
+        "intersectionCount": 30,
+        "status": "encoded",
+        "note": "two segments from voluntas probandi vulnus and voluntas videndi fenestram, encoded as single range @190-233"
+      }
+    ]
+  },
+  "grvnZZ-d1e218": {
+    "grvnZZ-d1e218-d1e220": [
+      {
+        "candidate_id": "adt-l9-d1e1043",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-d1e218-d1e295": [
+      {
+        "candidate_id": "adt-l12-d1e1366",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-d1e218-d1e322": [
+      {
+        "candidate_id": "adt-l15-d1e1927",
+        "intersectionCount": 26,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-d1e218-d1e978": [
+      {
+        "candidate_id": "adt-l10-d1e1166",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-d1e218-d1e1126": [
+      {
+        "candidate_id": "adt-l1-d1e93",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "@28-37; after 'primo de tri.'; inquit inside quote"
+      }
+    ],
+    "grvnZZ-d1e218-d1e1448": [
+      {
+        "candidate_id": "adt-l12-d1e1350",
+        "intersectionCount": 20,
+        "status": "encoded",
+        "note": "Nec sane cum sola cogitatione mens oblectatur...opere statuatur implendum @1-38"
+      }
+    ],
+    "grvnZZ-d1e218-d1e2709": [
+      {
+        "candidate_id": "adt-l1-d1e93",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-d1e218-d1e2761": [
+      {
+        "candidate_id": "adt-l9-d1e1059",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "@301-323; after 'ait in fine quinti capostoli'"
+      },
+      {
+        "candidate_id": "adt-l11-d1e1238",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "adt-l11-d1e1238@99-120 two segments"
+      }
+    ]
+  },
+  "grvnZZ-d1e237": {
+    "grvnZZ-d1e237-d1e264": [
+      {
+        "candidate_id": "adt-l9-d1e1078",
+        "intersectionCount": 28,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "grvnZZ-d1e237-d1e989": [
+      {
+        "candidate_id": "adt-l9-d1e1078",
+        "intersectionCount": 28,
+        "status": "encoded",
+        "note": "Aug. 9 de tri. cited; non quo non sit amanda creatura...corrumpit fruentem @6-40"
+      }
+    ],
+    "grvnZZ-d1e237-d1e1219": [
+      {
+        "candidate_id": "adt-l10-d1e1166",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@220-229; after 'sic accipit Aug. vti 1d0e de tri. cum ait'"
+      }
+    ],
+    "grvnZZ-d1e237-d1e1719": [
+      {
+        "candidate_id": "adt-l8-d1e1006",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "@478-494; inquit inside quote; 'capostolo 8' is MS chapter ref inside quote"
+      }
+    ],
+    "grvnZZ-d1e237-d1e2056": [
+      {
+        "candidate_id": "adt-l14-d1e1608",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@74-86; after 'vt dicit Aug. 14. de tri.'; same paragraph as candidate 77 (adt-l9-d1e1100)"
+      },
+      {
+        "candidate_id": "adt-l9-d1e1100",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "@31-43; after 'secundum eundem. 9. de tri.'"
+      }
+    ],
+    "grvnZZ-d1e237-d1e2229": [
+      {
+        "candidate_id": "adt-l9-d1e1036",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-d1e237-d1e2387": [
+      {
+        "candidate_id": "adt-l15-d1e1826",
+        "intersectionCount": 21,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-d1e237-d1e2562": [
+      {
+        "candidate_id": "adt-l9-d1e1059",
+        "intersectionCount": 9,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-d1e237-d1e2596": [
+      {
+        "candidate_id": "adt-l9-d1e1059",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "adt-l9-d1e1059@100-110"
+      }
+    ],
+    "grvnZZ-d1e237-d1e2745": [
+      {
+        "candidate_id": "adt-l14-d1e1567",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "adt-l14-d1e1567@139-171"
+      }
+    ]
+  },
+  "grvnZZ-ed1e23": {
+    "grvnZZ-ed1e23-d1e112": [
+      {
+        "candidate_id": "adt-l15-d1e1696",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e305",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "grvnZZ-ed1e23-d1e563": [
+      {
+        "candidate_id": "adt-l11-d1e1238",
+        "intersectionCount": 29,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e23-d1e606": [
+      {
+        "candidate_id": "adt-l11-d1e1273",
+        "intersectionCount": 27,
+        "status": "encoded",
+        "note": "vt autem inquit possit esse visio cogitantis...acies oculorum @134-165"
+      }
+    ],
+    "grvnZZ-ed1e23-d1e624": [
+      {
+        "candidate_id": "adt-l14-d1e1548",
+        "intersectionCount": 51,
+        "status": "encoded",
+        "note": "single quote @182-259; Faciamus ergo passage on corporeal trinity"
+      }
+    ],
+    "grvnZZ-ed1e23-d1e1212": [
+      {
+        "candidate_id": "adt-l10-d1e1175",
+        "intersectionCount": 53,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e23-d1e1325": [
+      {
+        "candidate_id": "adt-l8-d1e990",
+        "intersectionCount": 56,
+        "status": "encoded",
+        "note": "single quote @73-165; Carthaginem passage, explicit attribution 'Augusti. distinctione den trini.'"
+      }
+    ],
+    "grvnZZ-ed1e23-d1e1434": [
+      {
+        "candidate_id": "adt-l8-d1e990",
+        "intersectionCount": 31,
+        "status": "encoded",
+        "note": "single quote @166-212; Alexandria passage; MS truncates quote with 'et:' (= etc.)"
+      }
+    ],
+    "grvnZZ-ed1e23-d1e1567": [
+      {
+        "candidate_id": "adt-l11-d1e1216",
+        "intersectionCount": 40,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e23-d1e2994": [
+      {
+        "candidate_id": "adt-l11-d1e1235",
+        "intersectionCount": 58,
+        "status": "encoded",
+        "note": "two quotes: @15-69 and @146-239; MS inserts 'Et subdit.' between segments"
+      }
+    ],
+    "grvnZZ-ed1e23-d1e3420": [
+      {
+        "candidate_id": "adt-l13-d1e1393",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "adt-l13-d1e1393@22-37 two segments"
+      }
+    ],
+    "grvnZZ-ed1e23-d1e4154": [
+      {
+        "candidate_id": "adt-l9-d1e1100",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@108-123; after 'Unde ait.'"
+      }
+    ],
+    "grvnZZ-ed1e23-d1e4259": [
+      {
+        "candidate_id": "adt-l11-d1e1267",
+        "intersectionCount": 82,
+        "status": "encoded",
+        "note": "two quote elements: @120-250 and @253-268; MS inserts 'Et post dicit: quod' between segments"
+      }
+    ],
+    "grvnZZ-ed1e23-d1e4551": [
+      {
+        "candidate_id": "adt-l9-d1e1065",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "two segments @3-25 and @55-69; same paragraph as candidate 68 (adt-l9-d1e1071)"
+      },
+      {
+        "candidate_id": "adt-l9-d1e1071",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "adt-l9-d1e1071@56-82"
+      }
+    ],
+    "grvnZZ-ed1e23-d1e4608": [
+      {
+        "candidate_id": "adt-l13-d1e1393",
+        "intersectionCount": 23,
+        "status": "encoded",
+        "note": "two consecutive segments: vt corpora oculis @21-37 and nec sicut ea quae non vidimus @38-72"
+      }
+    ],
+    "grvnZZ-ed1e23-d1e4682": [
+      {
+        "candidate_id": "adt-l10-d1e1131",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "@149-155; after 'sententia Aug. id0 de tri. cum inquit'; paragraph also has existing adt-l10-d1e1175 quote"
+      },
+      {
+        "candidate_id": "adt-l10-d1e1175",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "adt-l10-d1e1175@185-202"
+      }
+    ],
+    "grvnZZ-ed1e23-d1e4732": [
+      {
+        "candidate_id": "adt-l8-d1e971",
+        "intersectionCount": 32,
+        "status": "encoded",
+        "note": "single quote @163-213; 'Neque in fide nostra' passage on mental image of Christ"
+      }
+    ],
+    "grvnZZ-ed1e23-d1e4756": [
+      {
+        "candidate_id": "adt-l10-d1e1131",
+        "intersectionCount": 20,
+        "status": "encoded",
+        "note": "si mens sui similitudinem fingit...nihil possit esse praesentius @76-129"
+      }
+    ],
+    "grvnZZ-ed1e23-d1e4825": [
+      {
+        "candidate_id": "adt-l11-d1e1264",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "adt-l11-d1e1264@30-53"
+      }
+    ]
+  },
+  "grvnZZ-ed1e28": {
+    "grvnZZ-ed1e28-d1e243": [
+      {
+        "candidate_id": "adt-l13-d1e1393",
+        "intersectionCount": 90,
+        "status": "encoded",
+        "note": "three quote elements: @4-54, @73-96, @99-161; MS inserts 'Et subdit.' and 'scilicet modo praedicto' between segments"
+      }
+    ],
+    "grvnZZ-ed1e28-d1e335": [
+      {
+        "candidate_id": "adt-l13-d1e1406",
+        "intersectionCount": 21,
+        "status": "encoded",
+        "note": "sua voluntas cuique conspicua...peruidet voluntatem @253-288"
+      },
+      {
+        "candidate_id": "adt-l13-d1e1412",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "adt-l13-d1e1412@82-92"
+      }
+    ],
+    "grvnZZ-ed1e28-d1e385": [
+      {
+        "candidate_id": "adt-l10-d1e1131",
+        "intersectionCount": 17,
+        "status": "encoded",
+        "note": "two segments: vbi ergo nouit suum nosse and quo pacto igitur, both @344-392"
+      }
+    ],
+    "grvnZZ-ed1e28-d1e422": [
+      {
+        "candidate_id": "adt-l9-d1e1043",
+        "intersectionCount": 15,
+        "status": "encoded",
+        "note": "adt-l9-d1e1043@17-50"
+      },
+      {
+        "candidate_id": "adt-l10-d1e1144",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "@83-99; after 'Aug. io. de tri. dicit quod'"
+      }
+    ],
+    "grvnZZ-ed1e28-d1e485": [
+      {
+        "candidate_id": "adt-l15-d1e1832",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "adt-l15-d1e1832@44-72"
+      }
+    ],
+    "grvnZZ-ed1e28-d1e564": [
+      {
+        "candidate_id": "adt-l14-d1e1605",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "adt-l14-d1e1605@127-147"
+      },
+      {
+        "candidate_id": "adt-l14-d1e1596",
+        "intersectionCount": 17,
+        "status": "encoded",
+        "note": "aliam inquit nunc trinitatem facit per suam praesentiam...dereliquit @84-105"
+      },
+      {
+        "candidate_id": "adt-l14-d1e1548",
+        "intersectionCount": 47,
+        "status": "encoded",
+        "note": "two quotes: @1-34 and @312-352; additional quotes from 'in fine' and 'c. sequenti' not matched to this paragraph"
+      }
+    ],
+    "grvnZZ-ed1e28-d1e751": [
+      {
+        "candidate_id": "adt-l8-d1e984",
+        "intersectionCount": 38,
+        "status": "encoded",
+        "note": "two quotes: @158-196 and @245-274; 'neque inquit' is attribution marker within quote boundary; 'et subdit.' bridges the two segments"
+      }
+    ],
+    "grvnZZ-ed1e28-d1e1078": [
+      {
+        "candidate_id": "adt-l8-d1e990",
+        "intersectionCount": 45,
+        "status": "encoded",
+        "note": "single quote @319-397; 'iustus est animus' passage; 'cu/enimd' in XML appears to be 'Cum enim d' split across line without break=no"
+      },
+      {
+        "candidate_id": "adt-l8-d1e993",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "paragraph already has quote from adt-l8-d1e990; 'qui scientia atque ratione' phrase is inside that quote; false positive"
+      }
+    ],
+    "grvnZZ-ed1e28-d1e1148": [
+      {
+        "candidate_id": "adt-l8-d1e952",
+        "intersectionCount": 16,
+        "status": "encoded",
+        "note": "neque in omnibus his bonis...aliud alii praeponeremus @157-194"
+      }
+    ]
+  },
+  "grvnZZ-ed1e29": {
+    "grvnZZ-ed1e29-d1e181": [
+      {
+        "candidate_id": "adt-l15-d1e1769",
+        "intersectionCount": 18,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e84",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l12-d1e1366",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l15-d1e1782",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l14-d1e1668",
+        "intersectionCount": 8,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "grvnZZ-ed1e29-d1e1815": [
+      {
+        "candidate_id": "adt-l14-d1e1558",
+        "intersectionCount": 31,
+        "status": "encoded",
+        "note": "two quotes: @28-60 and @139-172; 'Et infra.' bridges the segments; separate reference to c.4 ('Nihil tam nouit mens') not from this paragraph"
+      },
+      {
+        "candidate_id": "adt-l14-d1e207",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "adt-l14-d1e207@12-31"
+      }
+    ]
+  },
+  "grvnZZ-ed1e31": {
+    "grvnZZ-ed1e31-d1e149": [
+      {
+        "candidate_id": "adt-l10-d1e1175",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e31-d1e230": [
+      {
+        "candidate_id": "adt-l15-d1e1696",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "two segments @31-51 and @110-120; after 'Aug. 15. de tri.'"
+      }
+    ],
+    "grvnZZ-ed1e31-d1e511": [
+      {
+        "candidate_id": "adt-l8-d1e993",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "adt-l8-d1e993@220-239"
+      },
+      {
+        "candidate_id": "adt-l8-d1e1012",
+        "intersectionCount": 53,
+        "status": "encoded",
+        "note": "two quotes: @1-82 and @163-174; MS inserts 'Et paulo post dicit: quod' between segments"
+      }
+    ],
+    "grvnZZ-ed1e31-d1e559": [
+      {
+        "candidate_id": "adt-l4-d1e621",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "grvnZZ-ed1e31-d1e649": [
+      {
+        "candidate_id": "adt-l8-d1e958",
+        "intersectionCount": 21,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e31-d1e684": [
+      {
+        "candidate_id": "adt-l8-d1e952",
+        "intersectionCount": 24,
+        "status": "encoded",
+        "note": "quid plura et plura...sed omnis boni bonum @127-156"
+      }
+    ],
+    "grvnZZ-ed1e31-d1e764": [
+      {
+        "candidate_id": "adt-l14-d1e1656",
+        "intersectionCount": 34,
+        "status": "encoded"
+      }
+    ]
+  },
+  "grvnZZ-ed1e32": {
+    "grvnZZ-ed1e32-d1e200": [
+      {
+        "candidate_id": "adt-l5-d1e702",
+        "intersectionCount": 9,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e32-d1e250": [
+      {
+        "candidate_id": "adt-l15-d1e1848",
+        "intersectionCount": 18,
+        "status": "encoded",
+        "note": "verbum dei patris unigenitus...non tamen pater @1-37"
+      }
+    ],
+    "grvnZZ-ed1e32-d1e1043": [
+      {
+        "candidate_id": "adt-l7-d1e870",
+        "intersectionCount": 21,
+        "status": "encoded",
+        "note": "Aug. 7 de tri.: Et ideo Christus virtus et sapientia dei...fontem uitae @1-33"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1845",
+        "intersectionCount": 26,
+        "status": "encoded",
+        "note": "lib. 15 citation: sicut scientia nostra @88-113 and est autem ac si diceremus @114-135"
+      }
+    ]
+  },
+  "grvnZZ-ed1e33": {
+    "grvnZZ-ed1e33-d1e292": [
+      {
+        "candidate_id": "adt-l7-d1e902",
+        "intersectionCount": 26,
+        "status": "encoded",
+        "note": "three segments: de his enim rebus @9-31, res mutabiles @83-90, deus si subsistit @91-110"
+      }
+    ],
+    "grvnZZ-ed1e33-d1e484": [
+      {
+        "candidate_id": "adt-l7-d1e918",
+        "intersectionCount": 23,
+        "status": "encoded",
+        "note": "two segments: tamen tres personas unam essentiam @47-59, sicut tres statuas @70-86"
+      }
+    ],
+    "grvnZZ-ed1e33-d1e713": [
+      {
+        "candidate_id": "adt-l5-d1e759",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e33-d1e766": [
+      {
+        "candidate_id": "adt-l7-d1e855",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "adt-l7-d1e855@100-109"
+      }
+    ]
+  },
+  "grvnZZ-ed1e34": {
+    "grvnZZ-ed1e34-d1e343": [
+      {
+        "candidate_id": "adt-l15-d1e1886",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "no Augustine citation; philosophical argument with no attribution marker"
+      }
+    ],
+    "grvnZZ-ed1e34-d1e391": [
+      {
+        "candidate_id": "adt-l7-d1e861",
+        "intersectionCount": 12,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e34-d1e479": [
+      {
+        "candidate_id": "adt-l15-d1e1839",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e34-d1e509": [
+      {
+        "candidate_id": "adt-l15-d1e1756",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "adt-l15-d1e1756@37-63"
+      }
+    ]
+  },
+  "grvnZZ-ed1e35": {
+    "grvnZZ-ed1e35-d1e145": [
+      {
+        "candidate_id": "adt-l5-d1e696",
+        "intersectionCount": 8,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e35-d1e383": [
+      {
+        "candidate_id": "adt-l5-d1e753",
+        "intersectionCount": 13,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "adt-l4-d1e646",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ]
+  },
+  "grvnZZ-ed1e37": {
+    "grvnZZ-ed1e37-d1e641": [
+      {
+        "candidate_id": "adt-l15-d1e1744",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "adt-l15-d1e1744@44-62"
+      }
+    ],
+    "grvnZZ-ed1e37-d1e667": [
+      {
+        "candidate_id": "adt-l7-d1e902",
+        "intersectionCount": 20,
+        "status": "encoded",
+        "note": "nephas est dicere ut subsistat...in subiecto @138-170"
+      }
+    ],
+    "grvnZZ-ed1e37-d1e849": [
+      {
+        "candidate_id": "adt-l7-d1e861",
+        "intersectionCount": 19,
+        "status": "encoded",
+        "note": "three segments: sed absit quia essentia @1-13, hoc ergo est @13-19, Quid enim aliud dicimus @45-62"
+      }
+    ],
+    "grvnZZ-ed1e37-d1e911": [
+      {
+        "candidate_id": "adt-l1-d1e49",
+        "intersectionCount": 24,
+        "status": "encoded",
+        "note": "Aug. primo de tri.: si factus non est creatura non est...ergo facta subiecta est etc. @145-191"
+      }
+    ],
+    "grvnZZ-ed1e37-d1e1271": [
+      {
+        "candidate_id": "adt-l6-d1e814",
+        "intersectionCount": 26,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e37-d1e1289": [
+      {
+        "candidate_id": "adt-l15-d1e1734",
+        "intersectionCount": 26,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e37-d1e1537": [
+      {
+        "candidate_id": "adt-l15-d1e1737",
+        "intersectionCount": 38,
+        "status": "encoded",
+        "note": "two quotes: @1-73 (Si dicatur passage) and @207-226 (idem sit iustum); MS uses 'subiectam' for source 'substantiam'"
+      }
+    ],
+    "grvnZZ-ed1e37-d1e1574": [
+      {
+        "candidate_id": "adt-l8-d1e939",
+        "intersectionCount": 23,
+        "status": "encoded",
+        "note": "non enim ibi maior est quae uerior non est...magnum esse @241-273"
+      }
+    ]
+  },
+  "grvnZZ-ed1e39": {
+    "grvnZZ-ed1e39-d1e1368": [
+      {
+        "candidate_id": "adt-l7-d1e861",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "adt-l7-d1e861@45-62"
+      }
+    ],
+    "grvnZZ-ed1e39-d1e1394": [
+      {
+        "candidate_id": "adt-l7-d1e858",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@55-70; after 'dicens quod'"
+      }
+    ]
+  },
+  "grvnZZ-ed1e41": {
+    "grvnZZ-ed1e41-d1e1598": [
+      {
+        "candidate_id": "adt-l5-d1e677",
+        "intersectionCount": 22,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e41-d1e1842": [
+      {
+        "candidate_id": "adt-l5-d1e715",
+        "intersectionCount": 26,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e41-d1e1894": [
+      {
+        "candidate_id": "adt-l5-d1e721",
+        "intersectionCount": 17,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e41-d1e1905": [
+      {
+        "candidate_id": "adt-l5-d1e721",
+        "intersectionCount": 13,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e41-d1e2319": [
+      {
+        "candidate_id": "adt-l5-d1e680",
+        "intersectionCount": 47,
+        "also_in_bible_candidates": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "adt-l1-d1e14",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e87",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l7-d1e902",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "grvnZZ-ed1e43": {
+    "grvnZZ-ed1e43-d1e250": [
+      {
+        "candidate_id": "adt-l4-d1e618",
+        "intersectionCount": 11,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e43-d1e934": [
+      {
+        "candidate_id": "adt-l15-d1e1978",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "@150-170; after 'Aug. 15. de tri. Quo inquit'"
+      }
+    ],
+    "grvnZZ-ed1e43-d1e1215": [
+      {
+        "candidate_id": "adt-l14-d1e1608",
+        "intersectionCount": 42,
+        "status": "encoded",
+        "note": "single quote @9-86; 'quaedam cognoscibilia' passage on cognition preceding or coinciding with its object"
+      }
+    ],
+    "grvnZZ-ed1e43-d1e1318": [
+      {
+        "candidate_id": "adt-l1-d1e11",
+        "intersectionCount": 8,
+        "status": "encoded"
+      }
+    ]
+  },
+  "grvnZZ-ed1e45": {
+    "grvnZZ-ed1e45-d1e1334": [
+      {
+        "candidate_id": "adt-l4-d1e643",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e45-d1e1351": [
+      {
+        "candidate_id": "adt-l5-d1e759",
+        "intersectionCount": 25,
+        "status": "encoded"
+      }
+    ]
+  },
+  "grvnZZ-ed1e46": {
+    "grvnZZ-ed1e46-d1e683": [
+      {
+        "candidate_id": "adt-l5-d1e740",
+        "intersectionCount": 44,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e46-d1e735": [
+      {
+        "candidate_id": "adt-l15-d1e1877",
+        "intersectionCount": 22,
+        "status": "encoded",
+        "note": "libro 15 ait: spiritus sanctus nec patris solius nec filii solius sed amborum @29-56"
+      }
+    ],
+    "grvnZZ-ed1e46-d1e816": [
+      {
+        "candidate_id": "adt-l15-d1e1848",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e194",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e201",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "grvnZZ-ed1e47": {
+    "grvnZZ-ed1e47-d1e180": [
+      {
+        "candidate_id": "adt-l5-d1e756",
+        "intersectionCount": 28,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e47-d1e421": [
+      {
+        "candidate_id": "adt-l5-d1e747",
+        "intersectionCount": 16,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "adt-l9-d1e1030",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "MS cites Aug. 5. de tri.; adt-l9-d1e1030 is book 9 \u2014 false positive from theological vocabulary"
+      }
+    ]
+  },
+  "grvnZZ-ed1e49": {
+    "grvnZZ-ed1e49-d1e151": [
+      {
+        "candidate_id": "adt-l5-d1e702",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "adt-l5-d1e709",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "grvnZZ-ed1e5Y": {
+    "grvnZZ-ed1e5Y-d1e149": [
+      {
+        "candidate_id": "adt-l4-d1e643",
+        "intersectionCount": 11,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e5Y-d1e196": [
+      {
+        "candidate_id": "adt-l15-d1e1893",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1460",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l8-d1e996",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "grvnZZ-ed1e5Y-d1e277": [
+      {
+        "candidate_id": "adt-l2-d1e213",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "grvnZZ-ed1e5Y-d1e355": [
+      {
+        "candidate_id": "adt-l5-d1e740",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "grvnZZ-ed1e5Y-d1e377": [
+      {
+        "candidate_id": "adt-l2-d1e213",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "grvnZZ-ed1e5X": {
+    "grvnZZ-ed1e5X-d1e151": [
+      {
+        "candidate_id": "adt-l8-d1e996",
+        "intersectionCount": 14,
+        "status": "encoded",
+        "note": "added source to existing quote element adt-l8-d1e996@286-314"
+      },
+      {
+        "candidate_id": "adt-l8-d1e1003",
+        "intersectionCount": 34,
+        "status": "encoded",
+        "note": "added source attrs to existing Qd1e165 @1-47 and Qd1e171 @85-91; Qd1e167 is inner quote 'Non novi quid diligam'"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1893",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "MS cites Aug. 8 de tri., not book 15; false positive from shared theological vocabulary"
+      },
+      {
+        "candidate_id": "adt-l8-d1e1006",
+        "intersectionCount": 41,
+        "status": "encoded",
+        "note": "quotes already structured; added source attrs to Qd1e181 @249-257, Qd1e184 @258-297, Qd1e187 @307-325"
+      }
+    ],
+    "grvnZZ-ed1e5X-d1e201": [
+      {
+        "candidate_id": "adt-l15-d1e1893",
+        "intersectionCount": 10,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l13-d1e1460",
+        "intersectionCount": 11,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l8-d1e996",
+        "intersectionCount": 11,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l7-d1e874",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "grvnZZ-ed1e5X-d1e375": [
+      {
+        "candidate_id": "adt-l8-d1e1003",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@13-22; after 'cum ait'"
+      },
+      {
+        "candidate_id": "adt-l8-d1e1006",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "adt-l8-d1e1006@276-285"
+      }
+    ]
+  },
+  "grvnZZ-ed1e61": {
+    "grvnZZ-ed1e61-d1e2534": [
+      {
+        "candidate_id": "adt-l15-d1e1896",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ]
+  },
+  "grvnZZ-ed1e67": {
+    "grvnZZ-ed1e67-d1e194": [
+      {
+        "candidate_id": "adt-l6-d1e820",
+        "intersectionCount": 10,
+        "also_in_bible_candidates": true,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e67-d1e586": [
+      {
+        "candidate_id": "adt-l2-d1e194",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "adt-l2-d1e194@351-358"
+      }
+    ]
+  },
+  "grvnZZ-ed1e69": {
+    "grvnZZ-ed1e69-d1e369": [
+      {
+        "candidate_id": "adt-l6-d1e795",
+        "intersectionCount": 25,
+        "status": "encoded"
+      }
+    ]
+  },
+  "grvnZZ-ed1e7X": {
+    "grvnZZ-ed1e7X-d1e688": [
+      {
+        "candidate_id": "adt-l3-d1e489",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l6-d1e820",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l7-d1e921",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "grvnZZ-ed1e7X-d1e844": [
+      {
+        "candidate_id": "adt-l1-d1e49",
+        "intersectionCount": 11,
+        "also_in_bible_candidates": true,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e7X-d1e974": [
+      {
+        "candidate_id": "adt-l15-d1e1848",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true,
+        "status": "encoded"
+      }
+    ]
+  },
+  "grvnZZ-ed1e72": {
+    "grvnZZ-ed1e72-d1e200": [
+      {
+        "candidate_id": "adt-l5-d1e740",
+        "intersectionCount": 17,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "adt-l5-d1e744",
+        "intersectionCount": 24,
+        "status": "encoded"
+      }
+    ]
+  },
+  "grvnZZ-ed1e73": {
+    "grvnZZ-ed1e73-d1e254": [
+      {
+        "candidate_id": "adt-l7-d1e848",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "adt-l7-d1e848@136-156"
+      }
+    ],
+    "grvnZZ-ed1e73-d1e298": [
+      {
+        "candidate_id": "adt-l7-d1e855",
+        "intersectionCount": 13,
+        "status": "encoded",
+        "note": "adt-l7-d1e855@97-146"
+      }
+    ],
+    "grvnZZ-ed1e73-d1e381": [
+      {
+        "candidate_id": "adt-l7-d1e855",
+        "intersectionCount": 17,
+        "status": "encoded",
+        "note": "quomodo cum dicitur dominus...tunc indicatur essentia @32-61"
+      }
+    ],
+    "grvnZZ-ed1e73-d1e497": [
+      {
+        "candidate_id": "adt-l7-d1e855",
+        "intersectionCount": 25,
+        "status": "encoded",
+        "note": "two segments: Restat ergo ut essentia filius @1-31, hoc autem unde agimus @83-96"
+      },
+      {
+        "candidate_id": "adt-l7-d1e851",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "MS quotes adt-l7-d1e855 (already encoded in other candidates); d1e851 is false positive"
+      }
+    ],
+    "grvnZZ-ed1e73-d1e638": [
+      {
+        "candidate_id": "adt-l5-d1e696",
+        "intersectionCount": 17,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e73-d1e744": [
+      {
+        "candidate_id": "adt-l5-d1e769",
+        "intersectionCount": 44,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e73-d1e1593": [
+      {
+        "candidate_id": "adt-l9-d1e1049",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "adt-l9-d1e1049@42-64"
+      }
+    ],
+    "grvnZZ-ed1e73-d1e1752": [
+      {
+        "candidate_id": "adt-l6-d1e804",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e59",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l14-d1e1624",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "grvnZZ-ed1e73-d1e1870": [
+      {
+        "candidate_id": "adt-l5-d1e769",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e73-d1e2377": [
+      {
+        "candidate_id": "adt-l5-d1e693",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e73-d1e2393": [
+      {
+        "candidate_id": "adt-l7-d1e855",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "adt-l7-d1e855@100-109"
+      }
+    ]
+  },
+  "grvnZZ-ed1e77": {
+    "grvnZZ-ed1e77-d1e209": [
+      {
+        "candidate_id": "adt-l7-d1e851",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@146-153; after 'iuxta illud Aug. 7o de tri.'"
+      }
+    ],
+    "grvnZZ-ed1e77-d1e628": [
+      {
+        "candidate_id": "adt-l7-d1e855",
+        "intersectionCount": 32,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e77-d1e915": [
+      {
+        "candidate_id": "adt-l7-d1e855",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "adt-l7-d1e855@148-161 and @188-204 two segments"
+      }
+    ]
+  },
+  "grvnZZ-ed1e78": {
+    "grvnZZ-ed1e78-d1e432": [
+      {
+        "candidate_id": "adt-l7-d1e855",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "@100-109; after 'Aug. 7. de tri. Dis inquit'"
+      }
+    ],
+    "grvnZZ-ed1e78-d1e440": [
+      {
+        "candidate_id": "adt-l7-d1e855",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "@188-204; 'Item ibidem' refers to Aug. 7. de tri. cited in preceding paragraph"
+      }
+    ],
+    "grvnZZ-ed1e78-d1e451": [
+      {
+        "candidate_id": "adt-l7-d1e864",
+        "intersectionCount": 59,
+        "status": "encoded",
+        "note": "two quotes: @88-115 and @236-277; MS adds 'eodem modo pater non eodem pater est: et deus' as gloss between segments"
+      }
+    ],
+    "grvnZZ-ed1e78-d1e1184": [
+      {
+        "candidate_id": "adt-l7-d1e899",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "adt-l7-d1e899@227-235"
+      }
+    ],
+    "grvnZZ-ed1e78-d1e1926": [
+      {
+        "candidate_id": "adt-l7-d1e908",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "adt-l7-d1e908@3-15"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1937",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "adt-l15-d1e1937@248-263"
+      }
+    ]
+  },
+  "grvnZZ-ed1e85": {
+    "grvnZZ-ed1e85-d1e484": [
+      {
+        "candidate_id": "adt-l15-d1e1842",
+        "intersectionCount": 38,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e85-d1e1190": [
+      {
+        "candidate_id": "adt-l15-d1e1763",
+        "intersectionCount": 39,
+        "status": "encoded",
+        "note": "single quote @1-57; 'Quis ergo hominum potest' passage; MS embeds 'inquit' parenthetically within the quoted text"
+      }
+    ],
+    "grvnZZ-ed1e85-d1e3077": [
+      {
+        "candidate_id": "adt-l15-d1e1842",
+        "intersectionCount": 23,
+        "status": "encoded",
+        "note": "Aug. 15 de tri.: vniuersas creaturas...nec aliter sciuit creata quam creanda @66-104"
+      }
+    ]
+  },
+  "grvnZZ-ed1e88": {
+    "grvnZZ-ed1e88-d1e217": [
+      {
+        "candidate_id": "adt-l15-d1e1842",
+        "intersectionCount": 48,
+        "status": "encoded",
+        "note": "two quotes: @66-83 and @98-157; MS omits words 84-97 and bridges with 'et sequitur.'"
+      }
+    ],
+    "grvnZZ-ed1e88-d1e390": [
+      {
+        "candidate_id": "adt-l15-d1e1848",
+        "intersectionCount": 10,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1763",
+        "intersectionCount": 16,
+        "status": "encoded"
+      }
+    ],
+    "grvnZZ-ed1e88-d1e677": [
+      {
+        "candidate_id": "adt-l15-d1e1788",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ]
+  },
+  "grvnZZ-ed1e89": {
+    "grvnZZ-ed1e89-d1e190": [
+      {
+        "candidate_id": "adt-l14-d1e1675",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l1-d1e176",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "grvnZZ-ed1e89-d1e1123": [
+      {
+        "candidate_id": "adt-l13-d1e1488",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l15-d1e1912",
+        "intersectionCount": 6,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "grvnZZ-ed1e89-d1e1197": [
+      {
+        "candidate_id": "adt-l13-d1e1492",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "grvnZZ-ed1e91": {
+    "grvnZZ-ed1e91-d1e1180": [
+      {
+        "candidate_id": "adt-l4-d1e583",
+        "intersectionCount": 5,
+        "also_in_bible_candidates": true
+      }
+    ]
+  },
+  "grvnZZ-ed1e94": {
+    "grvnZZ-ed1e94-d1e863": [
+      {
+        "candidate_id": "adt-l8-d1e974",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "adt-l8-d1e974@278-300"
+      }
+    ]
+  },
+  "grvnZZ-ed1e1X": {
+    "grvnZZ-ed1e1X-d1e151": [
+      {
+        "candidate_id": "adt-l1-d1e49",
+        "intersectionCount": 13,
+        "status": "encoded",
+        "note": "adt-l1-d1e49@179-191"
+      }
+    ],
+    "grvnZZ-ed1e1X-d1e177": [
+      {
+        "candidate_id": "adt-l1-d1e55",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ],
+    "grvnZZ-ed1e1X-d1e397": [
+      {
+        "candidate_id": "adt-l15-d1e1734",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e334",
+        "intersectionCount": 4,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l2-d1e210",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      },
+      {
+        "candidate_id": "adt-l3-d1e378",
+        "intersectionCount": 7,
+        "also_in_bible_candidates": true
+      }
+    ]
+  }
+}
