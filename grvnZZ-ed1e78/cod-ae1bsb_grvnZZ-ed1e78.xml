@@ -224,22 +224,22 @@
         </p>
         <p xml:id="grvnZZ-ed1e78-d1e432">
           ⁋ 4o idem alibi probat i 
-          <lb ed="#V" n="7"/>Aug. 7. de tri. Dis inquit <quote source="http://scta.info/resource/adt-l7-d1e855@100-109">essentia quae relatiue dicitur est etiam aliquid
+          <lb ed="#V" n="7"/>Aug. 7. de tri. Dis inquit <quote xml:id="grvnZZ-ed1e78-Qd1e429" source="http://scta.info/resource/adt-l7-d1e855@100-109">essentia quae relatiue dicitur est etiam aliquid
           <lb ed="#V" n="8"/>aliud excepto relatiuo</quote>.
         </p>
         <p xml:id="grvnZZ-ed1e78-d1e440">
-          ⁋ Item ibidem <quote source="http://scta.info/resource/adt-l7-d1e855@188-204">si pater non est aliquid
+          ⁋ Item ibidem <quote xml:id="grvnZZ-ed1e78-Qd1e438" source="http://scta.info/resource/adt-l7-d1e855@188-204">si pater non est aliquid
           <lb ed="#V" n="9"/>ad seipsum: non est omnino qui relatiue dicat ad aliquid</quote>. est ergo in 
           <lb ed="#V" n="10"/>re essentia ad se et non ad aliquid: et in re pater inquantum pater 
           re<lb ed="#V" n="11" break="no"/>latiue dicitur Non est autem formaliter eadem entitas ad se et non ad 
           <lb ed="#V" n="12"/>se. igitur.
         </p>
         <p xml:id="grvnZZ-ed1e78-d1e451">
-          ⁋ 5o Aug. eodem libro ait quod <quote source="http://scta.info/resource/adt-l7-d1e864@88-115">filius non eo verbum quo 
+          ⁋ 5o Aug. eodem libro ait quod <quote xml:id="grvnZZ-ed1e78-Qd1e452" source="http://scta.info/resource/adt-l7-d1e864@88-115">filius non eo verbum quo 
           sa<lb ed="#V" n="13" break="no"/>pientia: quia verbum non ad se dicitur sed tantum relatiue ad eum cuius est vel 
           <lb ed="#V" n="14"/>bum: sicut filius ad patrem. sapientia vero eo quo essentia</quote>. eodem 
           mo<lb ed="#V" n="15" break="no"/>do pater non eodem pater est: et deus. Et ex hoc infra in eodem captio: 
-          <lb ed="#V" n="16"/>concludit: <quote source="http://scta.info/resource/adt-l7-d1e864@236-277">quapropter non quia pater non est filius. et filius non est pater aut 
+          <lb ed="#V" n="16"/>concludit: <quote xml:id="grvnZZ-ed1e78-Qd1e463" source="http://scta.info/resource/adt-l7-d1e864@236-277">quapropter non quia pater non est filius. et filius non est pater aut 
           <lb ed="#V" n="17"/>ille ingenitus. ille autem genitus: ideo non vna essentia: quia his 
           no<lb ed="#V" n="18" break="no"/>minibus relatiua eorum ostenduntur. vterque autem simul vna sapientia. 
           <lb ed="#V" n="19"/>et vna essentia. vbi hoc est esse: quod sapere</quote>. Est ergo secundum Aug. 
@@ -615,7 +615,7 @@
         <p xml:id="grvnZZ-ed1e78-d1e1184">
           ⁋ Deinde coniunctim 
           <lb ed="#V" n="47"/>vtramque partem illius conclusionis probo per eundem. 7. de tri. 
-          dicen<lb ed="#V" n="48" break="no"/>tem quod <quote source="http://scta.info/resource/adt-l7-d1e899@227-235">aliud est deo esse et aliud patrem esse</quote>. Et ibidem dicit quod 
+          dicen<lb ed="#V" n="48" break="no"/>tem quod <quote xml:id="grvnZZ-ed1e78-Qd1e1194" source="http://scta.info/resource/adt-l7-d1e899@227-235">aliud est deo esse et aliud patrem esse</quote>. Et ibidem dicit quod 
           <lb ed="#V" n="49"/>hoc illi est deum esse quod est esse: et per consequens aliud est esse deum. 
           ali<lb ed="#V" n="50" break="no"/>ud esse patrem. Similiter Ansel. de proces.s scilicet non enim est inquit idem 
           <lb ed="#V" n="51"/>esse deu quod est esse patrem aut filium. Ex his infero. ergo neutra 
@@ -1010,8 +1010,8 @@
           <lb ed="#V" n="94"/>persona. ergo pater et filius inter se sunt eadem persona. conclusio est 
           fal<lb ed="#V" n="95" break="no"/>sa. non est dubium: et minor est similiter falsa est. nulli enim vni persone 
           <lb ed="#V" n="96"/>sunt eadem persona pater et filius. iuxta illud Aug. 7. de tri. habet tria
-          <lb ed="#V" n="97"/><quote source="http://scta.info/resource/adt-l7-d1e908@3-15">non vnam personam dicimus sicut vnam essentiam et vnum deum</quote>: et in libro 
-          <lb ed="#V" n="98"/>i15o dicit quod <quote source="http://scta.info/resource/adt-l15-d1e1937@248-263">non vnius dei: sed vnus deus est et tres sunt ille non
+          <lb ed="#V" n="97"/><quote xml:id="grvnZZ-ed1e78-Qd1e1968" source="http://scta.info/resource/adt-l7-d1e908@3-15">non vnam personam dicimus sicut vnam essentiam et vnum deum</quote>: et in libro 
+          <lb ed="#V" n="98"/>i15o dicit quod <quote xml:id="grvnZZ-ed1e78-Qd1e1974" source="http://scta.info/resource/adt-l15-d1e1937@248-263">non vnius dei: sed vnus deus est et tres sunt ille non
           <lb ed="#V" n="99"/>vna persona</quote>. et ratio est: quia ipsa essentia communis tribus non est secundum se 
           <lb ed="#V" n="100"/>posona aliqua tribus communis. Si tamen in conclusione illius rationis scilicet ergo pater et 
           <lb ed="#V" n="101"/>filius sunt idem: ly idem esset singularis numeri: et neutri generis. 
