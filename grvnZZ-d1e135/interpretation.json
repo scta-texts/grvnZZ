@@ -1,0 +1,1987 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-01T10:09:30Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "45a389000ba97d7a39af64d67c91c4055664d13b",
+    "generation_method": "hierarchical"
+  },
+  "grvnZZ-d1e135-d1e112": {
+    "summary": "States question 3 of the prologue—whether there is one numerically single habit of all theological conclusions—with an affirmative argument (theology, with its maximally one subject God, is no less one than geometry, which must be one habit, else geometry would be no more one than geometry plus mathematics) and a contrary argument (judging that God knows all things and that the devil will never be saved are specifically different acts, which generate specifically and so numerically different habits). Divides into three articles: (1) whether properly scientific habits of many conclusions are numerically one; (2) how many conclusions form one science and which do; (3) the question itself. For article 1 reports an opinion: a habit considering many attributes of one subject under one formal ratio is numerically one simple form, like whiteness or temperance; its whole essence is acquired by one generating act and then intensified, and cognitive habits (unlike moral ones) are augmented by acts of different kinds, acquiring new respects to further conclusions.",
+    "claims": [
+      "(Objection) Theology is one habit as geometry is.",
+      "(Sed contra) Specifically different acts generate numerically different habits.",
+      "(Reported) A whole science is one numerically simple habit acquiring respects to new conclusions as it is intensified."
+    ],
+    "concepts": [
+      "unity of habit",
+      "numerical vs. specific unity",
+      "intensification of habits",
+      "respectus",
+      "divisio quaestionis"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e214": {
+    "summary": "Introduces the reasons offered for the reported opinion.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e112"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e219": {
+    "summary": "First reason: if the habit of a conclusion differed from that of its principle, one could know a conclusion more perfectly and intensify its habit without knowing the principle more perfectly—false, since the conclusion is known only through principles.",
+    "claims": [
+      "(Reported) Perfecting knowledge of a conclusion requires perfecting knowledge of its principles."
+    ],
+    "concepts": [
+      "dependence of conclusion on principles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e214"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e233": {
+    "summary": "Second reason: an intellectual habit has no less unity than a bodily habit (whiteness) or a habit of will (temperance), both numerically one and simple.",
+    "claims": [
+      "(Reported) Intellectual habits are as simply one as bodily and moral habits."
+    ],
+    "concepts": [
+      "analogy of habits",
+      "simplicity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e214"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e253": {
+    "summary": "Third reason: otherwise geometry would be one only by attribution or aggregation, and no more one in itself than with metaphysics and medicine—absurd.",
+    "claims": [
+      "(Reported) Denying numerical unity reduces a science to an aggregate."
+    ],
+    "concepts": [
+      "unity by aggregation",
+      "unity by attribution"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e214"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e262": {
+    "summary": "Fourth reason: in essentially ordered things there must be a first one, so among sciences there is one first, hence numerically one.",
+    "claims": [
+      "(Reported) Essential order implies a numerically one first science."
+    ],
+    "concepts": [
+      "essential order"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e214"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e269": {
+    "summary": "Fifth reason: as a power relates to its object and all contained under it (one numerical sight for all colors), so a habit relates to its object and all contained under it; so it is numerically one.",
+    "claims": [
+      "(Reported) A habit, like a power, is one for all contents of its object."
+    ],
+    "concepts": [
+      "power and habit",
+      "adequate object"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e214"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e282": {
+    "summary": "Notes that the opinion implicitly posits three theses, as its proofs show.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e112"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e287": {
+    "summary": "First thesis: many conclusions, indeed all considered in one total science (e.g., Euclidean geometry), form one science and one numerical habit.",
+    "claims": [
+      "(Reported) A total science is one numerical habit."
+    ],
+    "concepts": [
+      "total science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e282"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e299": {
+    "summary": "Second and third theses: a conclusion and its principles share one numerical habit, and so do the principles themselves. Gregory judges all three false and announces three contrary conclusions.",
+    "claims": [
+      "(Reported) Conclusion and principles share one habit.",
+      "(Reported) Principles share one habit.",
+      "All three theses are false."
+    ],
+    "concepts": [
+      "habit of principles",
+      "habit of conclusions"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e282"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e310": {
+    "summary": "Gregory's first conclusion: there is not one numerical habit of all such conclusions.",
+    "claims": [
+      "Not all conclusions of a science share one numerical habit."
+    ],
+    "concepts": [
+      "plurality of habits"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e299"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e315": {
+    "summary": "Second conclusion: there is not one numerical habit even of one conclusion and its principles.",
+    "claims": [
+      "A conclusion and its principles do not share one habit."
+    ],
+    "concepts": [
+      "habit of principles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e299"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e322": {
+    "summary": "Third conclusion: there is not one numerical habit of the principles themselves.",
+    "claims": [
+      "Distinct principles do not share one habit."
+    ],
+    "concepts": [
+      "habit of principles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e299"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e327": {
+    "summary": "First proof of conclusion 1: on the opinion, whoever knows one geometrical conclusion would know all, contrary to experience. Let Socrates know all of geometry (habit a), Plato only the first conclusion (habit b); since a was once of the same kind as b and, on the opinion, gained nothing absolute of another kind, a and b remain the same in kind. (Gregory stipulates that 'knowing a conclusion' means knowing things to be as it signifies.)",
+    "claims": [
+      "On the opinion, a full and a minimal geometrical habit are of the same kind."
+    ],
+    "concepts": [
+      "Socrates and Plato example",
+      "specific identity of habits",
+      "terminological stipulation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e310"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e366": {
+    "summary": "Continues: whatever any form can do per se, any form of the same kind can do something similar in species; a can elicit knowledge of the hundredth conclusion; so b, being of the same kind, could too—so Plato would know it.",
+    "claims": [
+      "Forms of the same kind can produce acts of the same kind."
+    ],
+    "concepts": [
+      "same form, same kind of act",
+      "induction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e327"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e385": {
+    "summary": "Anticipated reply: the major holds only for forms of the same kind and equal perfection, which a and b are not.",
+    "claims": [
+      "(Reply) The principle holds only for equally perfect forms."
+    ],
+    "concepts": [
+      "degrees of perfection"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e366"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e392": {
+    "summary": "Second anticipated reply: the major holds only when nothing in one lacks a counterpart in the other; but a has respects to other conclusions that b lacks.",
+    "claims": [
+      "(Reply) Differing respects block the inference."
+    ],
+    "concepts": [
+      "respectus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e366"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e403": {
+    "summary": "Against the first reply: the principle holds of more and less perfect forms too—a weaker heat can heat, dry, and rarefy a proportioned patient, though not as intensely—and the intellect is a proportioned patient for any of its habits.",
+    "claims": [
+      "Less perfect forms of a kind can produce the same kinds of act, though less intensely."
+    ],
+    "concepts": [
+      "intensity vs. kind of action",
+      "heat example"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e385"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e419": {
+    "summary": "Confirms from De caelo I: Aristotle proves the heaven is neither heavy nor light because heavy things move per se to the center, light from it, and the heaven neither—as Averroes notes.",
+    "claims": [
+      "Natural motions follow from natural form."
+    ],
+    "concepts": [
+      "De caelo I",
+      "heavy and light"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e403"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e437": {
+    "summary": "Averroes grounds this on the principle that whole and part of a homogeneous body share place, definition, form, and therefore action; so the same form yields the same kind of action—as in the present case.",
+    "claims": [
+      "Same form entails same kind of action."
+    ],
+    "concepts": [
+      "Averroes",
+      "homogeneous parts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e419"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e459": {
+    "summary": "Further confirmation from De caelo III against those who made elemental shapes their forms: if fire burns by sharp angles, all elements would burn more or less; Averroes states the rule that causes of the same nature differing only by degree yield effects of one species differing by degree, never effects of different species.",
+    "claims": [
+      "Causes differing only in degree produce effects differing only in degree."
+    ],
+    "concepts": [
+      "Averroes' rule",
+      "elemental shapes",
+      "degree vs. species"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e403"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e497": {
+    "summary": "Concludes: whatever operation a form can produce, any lesser form of the same kind can produce one similar in species if not equally perfect—a maximal rule evident by induction.",
+    "claims": [
+      "Any lesser form of a kind can produce the same kind of operation."
+    ],
+    "concepts": [
+      "induction",
+      "regula maxima"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e459"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e508": {
+    "summary": "Clarifies the rule: it does not deny that one cause can produce actions of several species (one numerical cause often does).",
+    "claims": [
+      "One cause can produce actions of diverse species."
+    ],
+    "concepts": [
+      "clarification"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e497"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e521": {
+    "summary": "Rather: no action can come from one cause unless one of the same species can come from another cause of the same species. So if a produces knowledge of the hundredth conclusion, b can too—since, as the opinion grants, knowing different conclusions are acts of different kinds by which the habit is intensified.",
+    "claims": [
+      "What one cause can produce, any cause of its species can produce in kind.",
+      "Knowing different conclusions are acts of different kinds."
+    ],
+    "concepts": [
+      "causal parity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e508"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e541": {
+    "summary": "Second argument against the reply: the habit of one conclusion can be intensified by acts about the same conclusion, since habits grow from the acts that generate them (Ethics II), as experience shows for arts perfected by repeated similar acts—and the opponents concede this.",
+    "claims": [
+      "A habit is intensified by acts similar to those generating it."
+    ],
+    "concepts": [
+      "habit growth",
+      "Ethics II"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e392"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e559": {
+    "summary": "Dilemma: when the habit grows by acts of different kinds, it either acquires an absolute entity of another species—then the perfected habit includes several forms of different kinds and is not one simple form—or not. If not, suppose a remiss habit is intensified only by acts about the same conclusion: either it then inclines to other conclusions, so one would know conclusions never considered—denied by experience.",
+    "claims": [
+      "Acquiring absolute entities of different kinds destroys numerical simplicity.",
+      "Otherwise, repeated acts about one conclusion would yield knowledge of others."
+    ],
+    "concepts": [
+      "dilemma",
+      "absolute vs. respective entity",
+      "experience"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e541"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e603": {
+    "summary": "Continues: it would follow that intensifying via one conclusion could yield knowledge of all conclusions the most perfect habit knows; or else the habit so intensified does not incline to other conclusions, and then neither would one intensified by acts about others, since dissimilar acts do nothing to it that similar acts do not.",
+    "claims": [
+      "If dissimilar acts add nothing beyond similar acts, they cannot extend the habit's scope."
+    ],
+    "concepts": [
+      "reductio"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e559"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e622": {
+    "summary": "Illustration: heat generated by fire and intensified by the sun, if nothing else happens to it than if fire intensified it, can do whatever equally intense fire-heat can; a form's operative power is indifferent to what generated or augmented it.",
+    "claims": [
+      "A form's operative capacity does not depend on its generating cause."
+    ],
+    "concepts": [
+      "heat example",
+      "causal history irrelevant"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e603"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e640": {
+    "summary": "Against the second reply: if forms are absolutely of the same kind, no respect in one can make it the principle of a different kind of operation—Averroes calls such talk 'outside the norm', diversity of operations arising only from diversity of forms. Nor can a habit with no respect to a conclusion come to have one without acquiring a new habit or degree.",
+    "claims": [
+      "Respects cannot ground different kinds of operation between same-kind forms.",
+      "A new respect requires something newly acquired."
+    ],
+    "concepts": [
+      "respectus",
+      "Averroes",
+      "relation and foundation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e392"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e669": {
+    "summary": "Anticipated rejoinder: the habit acquires a new respect to another conclusion because of the act newly elicited about it, since knowledge of the later conclusion depends on knowledge of the earlier, of which the habit is.",
+    "claims": [
+      "(Rejoinder) Dependence of later on earlier conclusions grounds the new respect."
+    ],
+    "concepts": [
+      "dependence among conclusions"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e640"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e678": {
+    "summary": "Against this: many conclusions in a science are mutually independent (Euclid I.1 and I.4), so an act about one gives the habit of the other no more respect than the habit of a conclusion of physics or metaphysics.",
+    "claims": [
+      "Many conclusions within a science are mutually independent."
+    ],
+    "concepts": [
+      "Euclid I.1 and I.4",
+      "independence of conclusions"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e669"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e694": {
+    "summary": "Further: on this account subalternating and subalternated sciences (where principles are taken from the higher) would be one numerical habit, since the lower's conclusions depend on the higher's—which they would not concede.",
+    "claims": [
+      "The dependence account would merge subalternating and subalternated sciences."
+    ],
+    "concepts": [
+      "subalternation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e669"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e707": {
+    "summary": "Further: if the new act causes nothing absolute in the habit, the habit has its new respect just because the act was elicited; since a past act cannot naturally not have been, the habit could never afterwards lack that respect or fail to be the habit of that conclusion while it exists.",
+    "claims": [
+      "A respect grounded solely in a past act would be irrevocable."
+    ],
+    "concepts": [
+      "necessity of the past",
+      "respectus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e669"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e728": {
+    "summary": "Hence one could never forget a conclusion without losing knowledge of the first conclusion and indeed of all, since only losing the absolute essence would remove the respects—contrary to experience.",
+    "claims": [
+      "The opinion makes selective forgetting impossible."
+    ],
+    "concepts": [
+      "forgetting",
+      "reductio"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e707"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e748": {
+    "summary": "Further: the respect either is an entity distinct from the habit's essence or not; if not, the habit is not thereby principle of a new kind of operation; if so, that new entity is rather the principle of acts about the new conclusion and should be called its habit.",
+    "claims": [
+      "A new principle of operation would itself be the habit of the new conclusion."
+    ],
+    "concepts": [
+      "dilemma",
+      "entity of respects"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e669"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e772": {
+    "summary": "So two conclusions do not share one habit numerically or specifically; and the same argument applies to respects acquired toward other conclusions.",
+    "claims": [
+      "Distinct conclusions have numerically and specifically distinct habits."
+    ],
+    "concepts": [
+      "plurality of habits"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e748"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e781": {
+    "summary": "Second proof of conclusion 1: one can lose the habit of one conclusion of a total science while keeping another—ceasing to consider one while often demonstrating another, one later cannot readily demonstrate the first but readily the second; whatever makes one ready for an act, absolute or respective, is the habit.",
+    "claims": [
+      "Habits of different conclusions can be lost separately.",
+      "A habit is whatever grounds readiness for an act."
+    ],
+    "concepts": [
+      "forgetting",
+      "promptness",
+      "functional definition of habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e310"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e805": {
+    "summary": "Third proof: on the opinion one could simultaneously have knowledge and habitual error about the same conclusion, since one can know a and err about b in the same science; if knowledge of a is knowledge of b, one would know and err about b. Equivalently, error about b is compatible with knowledge of a but not of b, so they differ in species and number.",
+    "claims": [
+      "Error about one conclusion is compatible with knowledge of another, not of the same.",
+      "Forms incompatible with different things differ in species."
+    ],
+    "concepts": [
+      "error and knowledge",
+      "compossibility"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e310"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e836": {
+    "summary": "Proof of conclusion 2: if any conclusion shared a habit with its principles, all would. Take a conclusion proved from twenty prior ones; its habit would extend back through all of them to the first principles. Since one previously had the habits of the earlier conclusions, either the earliest habit is identical with the later (refuted) or there are twenty superfluous habits; nor is the earlier corrupted when the later is acquired, since experience shows one holds the earlier firmly while the later is weak, and the opinion itself would find it absurd; and then forgetting the twentieth would require forgetting all prior ones, contrary to experience.",
+    "claims": [
+      "A unified habit of conclusion and principles would multiply superfluous habits.",
+      "Acquiring a later conclusion's habit does not corrupt earlier ones.",
+      "One can forget later conclusions while retaining earlier ones."
+    ],
+    "concepts": [
+      "chains of demonstration",
+      "superfluity",
+      "experience",
+      "forgetting"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e315"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e939": {
+    "summary": "Further: the single habit of twenty conclusions would be acquired from acts about the last only, about it and some prior, or about all. Not the first two: a habit's object is only what its generating acts concerned, and a habit can only produce acts like those generating it (Ethics II); besides, acts about principles would rather generate habits of conclusions than vice versa. Not the third: no one can naturally know so many conclusions in one act or at once.",
+    "claims": [
+      "A habit's objects are only those of its generating acts.",
+      "One cannot naturally cognize many conclusions in one act."
+    ],
+    "concepts": [
+      "generation of habits",
+      "Ethics II",
+      "limits of simultaneous cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e836"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e989": {
+    "summary": "Further, assuming from the prologue's first question that science concerns significates: when knowledge of a conclusion is first acquired, cognitions of the principles cause it, so it is distinct from them; hence the habit generated from it is distinct from the habit(s) of the principles, since a habit's object is that of its generating acts.",
+    "claims": [
+      "Cognition of a conclusion is caused by and distinct from cognition of principles.",
+      "Hence their habits are distinct."
+    ],
+    "concepts": [
+      "causal distinctness",
+      "significate as object"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e836",
+        "grvnZZ-d1e97-d1e417"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1020": {
+    "summary": "Further: a demonstration is not one act, since premises cause the conclusion (Posterior Analytics I) and the premises of a mental demonstration are the cognitions of principles; and no one natural mental proposition can be both affirmative and negative, universal and particular, about different subjects and predicates—especially for those who hold mental propositions composed of term-cognitions. Since the conclusion's habit is caused by demonstrations without any further act embracing conclusion and premises together, it is not the habit of the principles.",
+    "claims": [
+      "A demonstration consists of several distinct acts.",
+      "One mental proposition cannot have contrary qualities or quantities.",
+      "The conclusion's habit is not the habit of its principles."
+    ],
+    "concepts": [
+      "mental demonstration",
+      "premises as causes",
+      "unity of mental proposition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e315",
+        "grvnZZ-d1e97-d1e2304"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1092": {
+    "summary": "From the same reasoning: no single act can cognize that things are as both premises and conclusion state, since enunciables are cognized only by enunciations and no natural single enunciation enunciates several enunciables.",
+    "claims": [
+      "No single natural enunciation enunciates several enunciables."
+    ],
+    "concepts": [
+      "enunciation",
+      "one act per enunciable"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1020"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1108": {
+    "summary": "Confirms: if three enunciables could be enunciated by one mental enunciation, there is no principled limit—four, ten, a hundred—so one enunciation could suffice to know anything.",
+    "claims": [
+      "Allowing one enunciation for several enunciables has no principled limit."
+    ],
+    "concepts": [
+      "slippery slope"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1092"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1119": {
+    "summary": "Further: there would be no reason why contradictory enunciables could not share one mental enunciation—even more plausibly, sharing subject and predicate—so one proposition would be true and false, affirmative and negative, which no one would concede. Hence again there is no one habit of conclusion and premises.",
+    "claims": [
+      "One enunciation of several enunciables would permit one enunciation of contradictories."
+    ],
+    "concepts": [
+      "contradiction",
+      "reductio"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1092"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1144": {
+    "summary": "Further: one cannot have a mental demonstration composed of cognitions without actually knowing what the conclusion signifies; actual knowing is not the whole demonstration, so it is the conclusion itself; hence the act of knowing does not bear on what the principles signify.",
+    "claims": [
+      "Having a demonstration entails actually knowing its conclusion.",
+      "Actual knowing is the conclusion, not the whole demonstration."
+    ],
+    "concepts": [
+      "scire as conclusion",
+      "mental demonstration"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1020",
+        "grvnZZ-d1e97-d1e2304"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1164": {
+    "summary": "Proves the second part: if the whole demonstration were knowing, science would be of principles as much as or more than of the conclusion (two parts bear on principles), contrary to Aristotle that there is no science of principles. Since neither premise nor both are knowing, and positing the demonstration posits knowing, the conclusion is the actual knowing, and it bears only on its own significate—so there is no single habit of the significates of conclusion and premises.",
+    "claims": [
+      "There is no science of principles in the strict sense.",
+      "The conclusion alone is actual scientific knowing."
+    ],
+    "concepts": [
+      "Posterior Analytics II",
+      "intellectus principiorum"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1144"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1199": {
+    "summary": "Further: if one act cognized principles and conclusion, either it cognizes the conclusion because of the principles (then it would cause itself, since 'knowing this because of that' means the one cognition causes the other) or neither because of the other (then it is superfluous, since each principle has its own act and the common act adds no perfection).",
+    "claims": [
+      "Cognizing A because of B means cognition of B causes cognition of A.",
+      "A single act cannot cause itself."
+    ],
+    "concepts": [
+      "self-causation",
+      "parsimony"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e315"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1228": {
+    "summary": "Further: the end and the means for the sake of the end are not willed by one act (to be proved in distinction 1); so, by the opponents' own analogy of principle to end, conclusion and principles are not cognized by one act.",
+    "claims": [
+      "End and means are not willed by the same act."
+    ],
+    "concepts": [
+      "will of end and means",
+      "analogy of intellect and will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1199"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1241": {
+    "summary": "Finally: if a conclusion and its principles shared a habit, every science would be intellectus and every subalternated science would be the subalternating one—contrary to Aristotle, who holds there is no science of principles but intellectus, which is truer and not acquired by demonstration (Ethics VI), and that subalternating and subalternated sciences differ (Posterior Analytics I).",
+    "claims": [
+      "Science and intellectus are distinct habits.",
+      "Subalternating and subalternated sciences are distinct."
+    ],
+    "concepts": [
+      "intellectus vs. scientia",
+      "subalternation",
+      "Ethics VI"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e315"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1278": {
+    "summary": "Proof of conclusion 3: sometimes one principle is self-evident and another known by experience and memory (Posterior Analytics II, Metaphysics proem); these do not share a habit—especially if, as many hold, there is no habit generated for first-mode principles.",
+    "claims": [
+      "Self-evident and experiential principles have distinct habits."
+    ],
+    "concepts": [
+      "experiential principles",
+      "per se nota"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e322"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1295": {
+    "summary": "Further: sometimes one premise is immediate and the other mediate and known by demonstration; such do not share a habit, as shown above.",
+    "claims": [
+      "Immediate and demonstrated premises have distinct habits."
+    ],
+    "concepts": [
+      "immediate vs. mediate premises"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1278"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1302": {
+    "summary": "Further: knowledge of one principle can coexist with ignorance (even contrary disposition) about another—e.g., lacking sufficient experience of singulars for a universal principle, one may even think the opposite, while the other principle is self-evident; so they do not share a habit.",
+    "claims": [
+      "Knowledge of one principle is compatible with ignorance or error about another."
+    ],
+    "concepts": [
+      "ignorance of dispositio",
+      "experience"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1278"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1326": {
+    "summary": "Further: the significates of first immediate principles are distinct and neither is known through the other; specifically distinct objects neither of which is known through the other do not share a habit—else any disparate conclusions could. This also shows there is not one cognition of both principles of a demonstration.",
+    "claims": [
+      "Mutually independent objects have distinct habits and cognitions."
+    ],
+    "concepts": [
+      "independent objects"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1278"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1348": {
+    "summary": "Further: principles sometimes differ in quality or quantity (affirmative/negative, universal/particular), so there is not one numerical cognition of them.",
+    "claims": [
+      "Principles differing in quality or quantity cannot be one cognition."
+    ],
+    "concepts": [
+      "quality and quantity of propositions"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1278"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1357": {
+    "summary": "Introduces arguments of opponents against conclusions 2 and 3. First: wherever one act is possible one habit is possible; principles and conclusion can be grasped in one act, since a syllogism of many propositions is no more resistant to one act than a proposition of many terms; and knowing a conclusion presupposes knowing premises just as knowing a proposition presupposes knowing its terms.",
+    "claims": [
+      "(Objection) A syllogism can be understood in one act as a proposition is."
+    ],
+    "concepts": [
+      "one act for many propositions",
+      "analogy of terms and premises"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e315"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1381": {
+    "summary": "Second objection: wisdom is one habit concerning both conclusions and premises (Ethics VI: the wise must know truly about principles and what follows from them; wisdom is intellectus and scientia).",
+    "claims": [
+      "(Objection) Wisdom is one habit of principles and conclusions."
+    ],
+    "concepts": [
+      "sapientia",
+      "Ethics VI"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1357"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1395": {
+    "summary": "The objectors add: wisdom is not really and formally science and intellectus (else not a distinct habit), so it is them equivalently, being about what they are about.",
+    "claims": [
+      "(Objection) Wisdom is equivalently intellectus and scientia."
+    ],
+    "concepts": [
+      "equivalent unity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1381"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1408": {
+    "summary": "Third objection: what the conclusion signifies depends in being on what the premises signify, so also in knowability, since each thing stands to truth and knowability as to being (Metaphysics II).",
+    "claims": [
+      "(Objection) Ontological dependence implies cognitive dependence."
+    ],
+    "concepts": [
+      "Metaphysics II",
+      "being and truth"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1357"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1426": {
+    "summary": "Fourth objection: a conclusion cannot be evidently known merely by the intellect's bearing absolutely on it; so it is known with intrinsic evidence only in relation to the premises' significates.",
+    "claims": [
+      "(Objection) Evidence of a conclusion requires apprehending it with its premises."
+    ],
+    "concepts": [
+      "intrinsic evidence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1357"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1437": {
+    "summary": "Fifth objection: knowing is an act such that, informing the soul with all else removed, it is contradictory not to know; no such act exists unless it bears on both conclusion and premises, else the conclusion would not be evident.",
+    "claims": [
+      "(Objection) An act sufficient for knowing must include the premises."
+    ],
+    "concepts": [
+      "sufficiency of the act of knowing"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1357"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1450": {
+    "summary": "Sixth objection: principle and conclusion relate to truth and intellect as end and means to goodness and appetite (Physics II); appetite bears on means only as it bears on the end, so intellect bears on the conclusion only as it bears on the principle.",
+    "claims": [
+      "(Objection) Conclusions are grasped only through grasping principles, as means through end."
+    ],
+    "concepts": [
+      "analogy of end and principle",
+      "Physics II"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1357"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1466": {
+    "summary": "Seventh objection: if intellect grasped the conclusion in itself, it would be from its terms (then it would be a principle), from their combination (known only from terms), or from the intellect's own weight (but intellect is moved by objects); so it grasps the conclusion only as it simultaneously grasps the principle.",
+    "claims": [
+      "(Objection) There is no source of evidence for a conclusion apart from its principles."
+    ],
+    "concepts": [
+      "source of evidence",
+      "trilemma"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1357"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1489": {
+    "summary": "Confirms: knowing is cognizing that this is because of that—hence the question 'how do you know?'—as in Posterior Analytics I: we think we know when we know the cause and that it is its cause.",
+    "claims": [
+      "(Objection) Scientific knowing is knowing the cause as cause."
+    ],
+    "concepts": [
+      "Posterior Analytics I.2",
+      "knowledge through causes"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1466"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1500": {
+    "summary": "Eighth objection: if the act grasping the conclusion's truth were not the same as that grasping the principle's, intellect would find truth per se in the conclusion; but a conclusion has truth only as joined to the principle's, as a bitter potion is good only as inducing health.",
+    "claims": [
+      "(Objection) A conclusion's truth is derivative, like a means' goodness."
+    ],
+    "concepts": [
+      "derivative truth",
+      "bitter potion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1357"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1520": {
+    "summary": "Ninth objection: the act by which one knows that this is because of that bears on both cause and caused; knowing is such an act (Posterior Analytics, Physics), while knowing that something is simply and of itself is understanding principles; so knowing bears on both truths.",
+    "claims": [
+      "(Objection) Knowing bears on cause and effect together."
+    ],
+    "concepts": [
+      "knowledge of the propter quid"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1357"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1536": {
+    "summary": "Tenth objection: knowing is in intellect what choosing is in will, as understanding principles is what willing the end is (Physics II); choice is one simple act bearing on means for the sake of the end; so knowing bears on both truths together.",
+    "claims": [
+      "(Objection) Like choice, knowing is one act embracing principle and conclusion."
+    ],
+    "concepts": [
+      "electio",
+      "analogy of intellect and will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1357"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1549": {
+    "summary": "Reply to the first: 'understood by one act' may mean by non-judicative simple understanding (perhaps conceded but irrelevant, since knowing is a judicative enunciation) or by one judicative act (denied). The analogy fails: a principle's cognition necessarily bears on its terms because their significates are parts of its significate, whereas the principles' significates are not included in the conclusion's.",
+    "claims": [
+      "Knowing is a judicative enunciation, not simple understanding.",
+      "Terms' significates are parts of a proposition's significate; premises' significates are not parts of the conclusion's."
+    ],
+    "concepts": [
+      "simple vs. judicative act",
+      "parts of significates"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1357"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1608": {
+    "summary": "Confirms from the arguer's own view that some demonstrable proposition can be known by experience: such cognition bears only on its own significate, not on principles from which it could be demonstrated, whereas a principle's cognition always bears on its terms.",
+    "claims": [
+      "Experiential knowledge of a demonstrable proposition does not involve its principles."
+    ],
+    "concepts": [
+      "experiential knowledge",
+      "disanalogy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1549"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1627": {
+    "summary": "Further: it does not follow that because one truth and its parts can be grasped in one act, several truths neither part of the other can; nor that because one affirmation signifies one truth, one act can be affirmation and negation signifying two—which is naturally impossible yet required by the argument. Gregory sets aside whether knowledge of conclusions necessarily presupposes knowledge of premises, noting the original proponent should deny it, that he gives the minor without proof, and that a follower added a proof inconsistent with him.",
+    "claims": [
+      "One act cannot naturally be both affirmation and negation."
+    ],
+    "concepts": [
+      "parts and wholes of truths",
+      "inconsistency among opponents"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1549"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1660": {
+    "summary": "Reply to the second: the argument backfires on its proponents, who hold every act of knowing bears on conclusion and principles—making every science wisdom. Denies the antecedent if it means a numerically one habit not including specifically distinct habits: wisdom is one total habit including intellectus and science, differing from each as whole from part (Eustratius), one in the way all of metaphysics (perhaps the only wisdom proper) is one science—to be explained in article 2.",
+    "claims": [
+      "Wisdom is a total habit including intellectus and science as parts."
+    ],
+    "concepts": [
+      "sapientia as total habit",
+      "Eustratius",
+      "metaphysics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1381",
+        "grvnZZ-d1e135-d1e1395"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1686": {
+    "summary": "Reply to the third: at most it proves that knowledge of the conclusion depends on knowledge of principles, not that they are the same cognition.",
+    "claims": [
+      "Dependence of cognitions does not imply their identity."
+    ],
+    "concepts": [
+      "dependence vs. identity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1408"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1695": {
+    "summary": "Further: the argument would prove that no effect can be known unless its cause—ultimately God—is known, and by the same act, which is plainly false. And Aristotle's text compares a thing's being with its truth in permanence and necessity (eternal things have eternally true principles), not dependence in being with dependence in knowing, as Averroes confirms.",
+    "claims": [
+      "Knowing an effect does not require knowing its cause by the same act.",
+      "Metaphysics II correlates permanence of being with permanence of truth."
+    ],
+    "concepts": [
+      "exegesis of Metaphysics II",
+      "Averroes",
+      "reductio"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1686"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1743": {
+    "summary": "Reply to the fourth: the antecedent may mean that a conclusion cannot be evident if intellect bears on it while excluding any present or past bearing on principles—conceded for natural power and scientific knowledge (setting aside experiential knowledge), but the consequence is denied—or that the act bearing precisely on the conclusion cannot make it evident—denied.",
+    "claims": [
+      "An act bearing precisely on the conclusion can make it evident, given causal history from principles."
+    ],
+    "concepts": [
+      "evidence",
+      "causal history"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1426"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1769": {
+    "summary": "Reply to the fifth: whatever of the major (many doubt whether any created cognition is essentially a cognition), an act bearing precisely on the conclusion is such that, with it in the soul and all else removed, one knows—or if knowing must be cognition, it is contradictory not to know. So the minor is denied.",
+    "claims": [
+      "The act bearing only on the conclusion suffices for knowing."
+    ],
+    "concepts": [
+      "essential cognition",
+      "sufficiency"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1437"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1794": {
+    "summary": "Reply to the sixth: granting the analogy, the means is desired only because of the end, yet not by the same appetite—desire of the end causes desire of the means; likewise cognition of principle causes cognition of conclusion, which shows rather that they are not the same.",
+    "claims": [
+      "'Because of' signifies causation between distinct acts."
+    ],
+    "concepts": [
+      "end and means",
+      "causal distinctness"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1450"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1814": {
+    "summary": "Reply to the seventh: the conclusion is known not from any of those sources but causally from cognition of principles, whether or not these are simultaneous, without being one cognition. To the confirmation: 'knowing is cognizing this because of that' (always true—all knowing is caused by prior cognitions) differs from 'knowing is cognizing that this is because of that'.",
+    "claims": [
+      "Knowing is cognition caused by prior cognitions.",
+      "Knowing p because of q differs from knowing that p because q."
+    ],
+    "concepts": [
+      "de re vs. de dicto 'because'",
+      "causal account of knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1466",
+        "grvnZZ-d1e135-d1e1489"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1834": {
+    "summary": "The second formula is not universally true: one knowing a posteriori does not know that this is because of that, nor does everyone knowing a priori through the cause.",
+    "claims": [
+      "Not every scientific knower knows the explanatory relation as such."
+    ],
+    "concepts": [
+      "a priori vs. a posteriori knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1814"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1843": {
+    "summary": "Example: demonstrating that the moon is eclipsable (whatever receives light from another with an opaque body interposable is eclipsable; the moon is such), one knows a priori that the moon is eclipsable, but not that it is eclipsable because of that cause; 'the moon is eclipsable because…' is a different enunciable, knowable without the first.",
+    "claims": [
+      "Knowing p by its cause differs from knowing that p holds because of that cause."
+    ],
+    "concepts": [
+      "lunar eclipse example",
+      "explanatory proposition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1834"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1863": {
+    "summary": "Further: if the latter, explanatory proposition is known by demonstration, that knowledge bears precisely on it, not objectively on its principle.",
+    "claims": [
+      "Knowledge of an explanatory conclusion bears only on it."
+    ],
+    "concepts": [
+      "object of knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1843"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1870": {
+    "summary": "Concludes that the confirmation assumes something false.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1863"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1876": {
+    "summary": "To the proof from Aristotle: he speaks there not of one knowing but of several knowings together by which a thing is most perfectly known.",
+    "claims": [
+      "Aristotle's definition concerns aggregated knowings."
+    ],
+    "concepts": [
+      "exegesis of Posterior Analytics I.2"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1489"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1883": {
+    "summary": "That knowing aggregates knowledge that (quia) and knowledge why (propter quid), which differ as the corresponding questions do (Posterior Analytics II); perfect knowledge requires both. Gregory speaks of one knowing, which Aristotle defines as 'understanding through demonstration', common to every proper knowing.",
+    "claims": [
+      "Perfect knowledge aggregates quia and propter quid knowledge.",
+      "Single scientific knowing is understanding through demonstration."
+    ],
+    "concepts": [
+      "quia vs. propter quid",
+      "aggregate knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1876"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1901": {
+    "summary": "Reply to the eighth: denies the minor; whether or not joined to the principle's truth, the conclusion's truth is precise and distinct; similarly health's goodness differs from the bitter potion's, called good as causing health, a ratio by which health is not called good.",
+    "claims": [
+      "A conclusion has its own distinct truth."
+    ],
+    "concepts": [
+      "distinct truths",
+      "analogy of goodness"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1500"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1914": {
+    "summary": "Reply to the ninth: answered by the reply to the seventh's confirmation. To the addition that knowing that something is simply is not knowing: if 'not every' such knowing is scientific, granted but irrelevant; if 'none', false—knowing that something is, caused by prior cognitions as demonstration requires, is truly knowing.",
+    "claims": [
+      "Knowing that p, caused by prior demonstrative cognitions, is scientific knowing."
+    ],
+    "concepts": [
+      "knowing quia"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1520",
+        "grvnZZ-d1e135-d1e1814"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1938": {
+    "summary": "Reply to the tenth: the minor (choice is one act embracing end and means) is false, as said above and to be proved later. Turns to the reasons of the first opinion stated at the article's start.",
+    "claims": [
+      "Choice is not one act embracing end and means."
+    ],
+    "concepts": [
+      "electio"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1536",
+        "grvnZZ-d1e135-d1e1228"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1945": {
+    "summary": "Reply to the opinion's first reason: even granted fully, it does not show one habit of all conclusions of a genus (geometrical or metaphysical), since not every conclusion of a science is a principle for another.",
+    "claims": [
+      "Not every conclusion in a science serves as principle for another."
+    ],
+    "concepts": [
+      "independence of conclusions"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e219"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1959": {
+    "summary": "Further: the consequent can be reasonably conceded: before the habit, knowledge of a conclusion requires actual cognition of immediate principles; but once the habit exists, one can elicit the conclusion's cognition without the premises, though it is still known through principles antecedently and causally, since the habit arose from cognitions they caused. So it does not follow that conclusion and principles share a habit.",
+    "claims": [
+      "A formed habit can elicit cognition of a conclusion without actual cognition of premises.",
+      "Such cognition is still mediately caused by principles."
+    ],
+    "concepts": [
+      "habitual knowledge",
+      "mediate causation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1945"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e1983": {
+    "summary": "Third, one may deny the consequence: whenever the conclusion is known by its habit, the principle is simultaneously known by another act through its own habit; even if the conclusion's habit cannot be intensified without the principle's, they are not thereby the same, just as the cognitions are not.",
+    "claims": [
+      "Correlated intensification does not imply identity of habits."
+    ],
+    "concepts": [
+      "co-variation vs. identity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1945"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e2001": {
+    "summary": "Fourth: even before the habit, a conclusion can be known without actually knowing all its mediate and immediate principles back to the first, else no one could naturally know a 30th or 15th conclusion presupposing many others, since one cannot hold so many cognitions at once. Rather, two first cognitions cause a third; that third, remaining in the intellect with another, causes a further one, even after the first two have ceased, and so on. So not all principles are simultaneously actual, nor their habits simultaneously intensified.",
+    "claims": [
+      "Long demonstrative chains proceed by successive causation, not simultaneous cognition of all principles.",
+      "Earlier premises may cease while later conclusions persist."
+    ],
+    "concepts": [
+      "successive demonstration",
+      "cognitive limits",
+      "chain of causation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e1945"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e2038": {
+    "summary": "Reply to the second reason: concedes that an intellectual habit is numerically one, but this does not make diverse conclusions or conclusion and principles one habit, since these are not even of one species. As habits of one lowest species in one subject are one form, while different bodily qualities (whiteness and sweetness) or moral habits (commutative and distributive justice, temperance in taste and touch) in one subject are not per se one, so intellectual habits of different species are not per se numerically one.",
+    "claims": [
+      "Only habits of one lowest species in one subject are numerically one form.",
+      "Habits inclining to dissimilar acts are not per se one, even in one subject."
+    ],
+    "concepts": [
+      "numerical unity of habits",
+      "specific diversity",
+      "justice and temperance examples"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e233"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e2086": {
+    "summary": "Reply to the third: if forms not per se one are called one only by aggregation, the consequent is granted—metaphysics and geometry, or all partial geometries, are not one form—yet partial geometries agree more with each other than with metaphysics, falling under a closer genus, as one temperance agrees more with another than with liberality.",
+    "claims": [
+      "Partial geometries are one only by aggregation but are generically closer to each other."
+    ],
+    "concepts": [
+      "unity by aggregation",
+      "proximate genus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e253"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e2119": {
+    "summary": "Reply to the fourth: concedes the indefinite consequent, but it does not prove the thesis: not all conclusions or sciences of one genus are essentially ordered, and even among essentially ordered ones, a first does not make them all one—rather essentially ordered things are really distinct in number and species.",
+    "claims": [
+      "Essentially ordered things are really distinct.",
+      "A first in an order does not unify the order into one."
+    ],
+    "concepts": [
+      "essential order"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e262"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e2151": {
+    "summary": "Reply to the fifth: denies the major—one numerical power can have acts of different kinds about specifically different objects, but a habit one in species and number cannot. Opens article 2 (how many conclusions form one science or habit) with three conclusions.",
+    "claims": [
+      "Powers, unlike habits, can have acts of diverse kinds."
+    ],
+    "concepts": [
+      "power vs. habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e269"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e2169": {
+    "summary": "States article 2's conclusions: (1) if the subjects of conclusions belonging to one science are one in subaltern genus, their multitude is one science by unity of subaltern genus; (2) only those partial sciences sharing the same per se subject-genus are one in this way; (3) among habits generally, not all sharing a subject-genus are so one, but those that also proceed from the same first principles in genus.",
+    "claims": [
+      "A total science is one by unity of subaltern genus of its subjects.",
+      "Only partial sciences with the same per se subject-genus form one science.",
+      "Habits sharing subject-genus and first principles are one in this way."
+    ],
+    "concepts": [
+      "unity of subaltern genus",
+      "subject-genus",
+      "first principles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e2151"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e2189": {
+    "summary": "Proof of conclusion 1: the unity of such sciences is numerical, specific (lowest species), generic (most general or lesser), or of subaltern genus. Not numerical (article 1), nor specific, since sciences of different objects differ in kind, and even a priori and a posteriori sciences of one object differ (Q2).",
+    "claims": [
+      "A total science is not specifically one."
+    ],
+    "concepts": [
+      "kinds of unity",
+      "a priori vs. a posteriori"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e2169",
+        "grvnZZ-d1e116-d1e709"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e2211": {
+    "summary": "Further: Socrates' science of a agrees more with Plato's science of a by the same principles than with Socrates' science of b; so sciences of a and b differ in species.",
+    "claims": [
+      "Sciences of different objects differ in species."
+    ],
+    "concepts": [
+      "Socrates and Plato example"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e2189"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e2222": {
+    "summary": "Further: if all were one in species they would be one in number (no two habits of one species in one soul), which is refuted. Nor is it unity of the most general genus, else two partial geometries would be no more one than medicine and geometry or geometry and whiteness, all being qualities. So it is unity of subaltern genus.",
+    "claims": [
+      "One soul cannot have two habits of the same species.",
+      "Total science has unity of subaltern genus."
+    ],
+    "concepts": [
+      "quality",
+      "subaltern genus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e2189"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e2246": {
+    "summary": "Proof of conclusion 2: sciences with the same per se subject-genus and the same proper first principles in genus are one science (Posterior Analytics I: one science is of one subject-genus); and those with the same per se subject-genus have the same proper principles. Sciences are of one subject-genus when their subjects are considered under one common ratio or by analogy to one thing.",
+    "claims": [
+      "One subject-genus and one set of proper principles make one science.",
+      "Subject-genus unity may be by common ratio or by analogy."
+    ],
+    "concepts": [
+      "Posterior Analytics I",
+      "analogy",
+      "subject-genus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e2169"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e2276": {
+    "summary": "Supports with Metaphysics IV and Averroes: one science considers not only what is univocally one but what is referred to one end, agent, or subject (e.g., medicine). 'Under one ratio' matters: physics and geometry both consider magnitudes but physics as properties of natural bodies, geometry as magnitudes, so they are not one science (Physics II).",
+    "claims": [
+      "Things referred to one are objects of one science.",
+      "Same things under different rationes belong to different sciences."
+    ],
+    "concepts": [
+      "pros hen unity",
+      "Averroes",
+      "physics vs. geometry"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e2246"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e2318": {
+    "summary": "Proves the minor by reason: one cannot demonstrate any conclusions about any genus from any principles—geometry cannot show God is separate or intelligent, or that contraries share one discipline; physics cannot prove Euclid I.1.",
+    "claims": [
+      "Principles are proper to their subject-genus."
+    ],
+    "concepts": [
+      "metabasis",
+      "proper principles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e2246"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e2334": {
+    "summary": "By induction: geometry considers the continuous as such, so all its first principles (common notions, postulates) concern the continuous; physics, not considering magnitudes under that ratio, never uses them qua physics. When sciences prove the same conclusion from different first principles, their shared subject falls under different rationes, as Avicenna shows for the astronomer's and physicist's proofs of the earth's roundness.",
+    "claims": [
+      "A science's first principles all pertain to its subject-genus.",
+      "Different first principles indicate different rationes of the subject."
+    ],
+    "concepts": [
+      "geometry's principles",
+      "Avicenna",
+      "roundness of earth"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e2246",
+        "grvnZZ-d1e116-d1e672"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e2369": {
+    "summary": "Completes: the astronomer's proofs use features of the continuous (under which ratio he considers celestial motion, per Averroes), the physicist's the nature of natural body; so earth enters each science under a different ratio and from different principles. Then proves the other part: sciences with different first principles in genus are different sciences (Posterior Analytics I), meaning the ultimate indemonstrable principles to which resolution stops, not proximate premises.",
+    "claims": [
+      "Different ultimate first principles make different sciences.",
+      "Proximate premises differ even within one science."
+    ],
+    "concepts": [
+      "ultimate resolution",
+      "astronomy vs. physics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e2334"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e2413": {
+    "summary": "Further: Averroes (Metaphysics III) says sciences differ by principles, so that demonstrative modes differ; and Aristotle shows diverse subject-genera have diverse proper principles, since not everything can be demonstrated from common principles alone—some are proper to quantity, some to quality.",
+    "claims": [
+      "Diverse subject-genera have diverse proper principles."
+    ],
+    "concepts": [
+      "common vs. proper principles",
+      "Averroes"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e2369"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e2448": {
+    "summary": "Proof of conclusion 3: for habits generally, sharing a subject-genus does not suffice, since faith, science, and opinion may share a subject under the same ratio but have diverse first principles (opinion uses common and extraneous principles)—as metaphysics and dialectic share a genus but not principles (Metaphysics IV). Then article 3, first conclusion: there is not one habit of all theological conclusions, numerically or in lowest species—proved as in article 1: having one does not enable acts about all, theology of one conclusion coexists with error about another, and one can be lost while another remains.",
+    "claims": [
+      "Faith, science, and opinion can share a subject but not first principles.",
+      "There is no numerically or specifically single habit of all theological conclusions."
+    ],
+    "concepts": [
+      "metaphysics and dialectic",
+      "plurality of theological habits"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e2169",
+        "grvnZZ-d1e135-d1e310"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e2499": {
+    "summary": "Second conclusion of article 3: there is one total theology of all theological conclusions, as one geometry or medicine, since all their subjects are considered by attribution to one per se first, God, and all are proved by the same first principles—the authorities of the sacred canon.",
+    "claims": [
+      "All theological conclusions form one total theology by unity of subject (God, by attribution) and principles (the canon)."
+    ],
+    "concepts": [
+      "unity of theology",
+      "God as first subject",
+      "authority of the canon"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e2169",
+        "grvnZZ-d1e97-d1e1651"
+      ]
+    }
+  },
+  "grvnZZ-d1e135-d1e2519": {
+    "summary": "Reply to the principal argument: its minor (geometry is numerically one habit) is false, as proved in article 1.",
+    "claims": [
+      "Geometry is not numerically one habit."
+    ],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e135-d1e112",
+        "grvnZZ-d1e135-d1e310"
+      ]
+    }
+  },
+  "grvnZZ-d1e135": {
+    "summary": "Question 3 of the prologue asks whether there is one numerically single habit of all theological conclusions. Article 1 addresses scientific habits in general. Gregory attacks the opinion that a whole science such as geometry is one numerically simple habit, generated by a first act and then intensified by acts of other kinds that give it new respects to further conclusions; he also attacks the related theses that a conclusion shares a habit with its principles and that principles share a habit with one another. His main arguments are these. Forms of the same kind can produce the same kinds of act, so on the opinion anyone who knew one geometrical conclusion could know all (the Socrates and Plato case). Respects grounded only in past acts would make selective forgetting impossible. Conclusions within a science are often mutually independent (Euclid I.1 and I.4). Error about one conclusion can coexist with knowledge of another. Demonstrations consist of several distinct acts, since no single natural enunciation can enunciate several enunciables or combine contrary qualities. Experiential and self-evident principles have different habits. Against ten objections claiming that knowing embraces principle and conclusion in one act, Gregory holds that cognition of principles causes cognition of the conclusion as a distinct act, that knowing p by its cause differs from knowing that p holds because of that cause (the lunar eclipse example), and that long demonstrative chains proceed by successive causation rather than simultaneous grasp of all principles. Wisdom is a total habit that includes intellectus and science. Article 2 holds that a total science is one not numerically or specifically but by unity of subaltern genus. Partial sciences belong to one science when they share a per se subject-genus (by common ratio or by attribution to one) and the same proper first principles; the same things considered under different rationes, as in physics and geometry or physics and astronomy, belong to different sciences. Article 3 concludes that there is no numerically or specifically single habit of all theological conclusions. There is, however, one total theology, as there is one geometry or medicine, because all its subjects are considered by attribution to God and all its conclusions are proved from the same first principles, the authorities of the sacred canon.",
+    "claims": [
+      "A whole science is not one numerically simple habit; each conclusion has its own habit.",
+      "A conclusion and its principles do not share one habit, nor do distinct principles.",
+      "Cognition of principles causes a distinct cognition of the conclusion; a demonstration is several acts.",
+      "No single natural mental enunciation can enunciate several enunciables.",
+      "Long demonstrations proceed by successive causation, not by simultaneous grasp of all principles.",
+      "Knowing p through its cause differs from knowing that p holds because of that cause.",
+      "Wisdom is a total habit that includes intellectus and science as parts.",
+      "A total science is one by unity of subaltern genus, grounded in a shared per se subject-genus and shared proper first principles.",
+      "There is no numerically or specifically single habit of all theological conclusions.",
+      "All theological conclusions form one total theology, unified by attribution to God and by the canon of Scripture as first principles."
+    ],
+    "concepts": [
+      "unity of habit",
+      "numerical vs. specific vs. generic unity",
+      "intensification of habits",
+      "habit of principles vs. conclusions",
+      "mental demonstration",
+      "subaltern genus",
+      "subject-genus and proper principles",
+      "sapientia",
+      "unity of theology",
+      "authority of the canon"
+    ],
+    "_metadata": {
+      "level": "div",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "grvnZZ-d1e135-d1e112",
+        "grvnZZ-d1e135-d1e214",
+        "grvnZZ-d1e135-d1e219",
+        "grvnZZ-d1e135-d1e233",
+        "grvnZZ-d1e135-d1e253",
+        "grvnZZ-d1e135-d1e262",
+        "grvnZZ-d1e135-d1e269",
+        "grvnZZ-d1e135-d1e282",
+        "grvnZZ-d1e135-d1e287",
+        "grvnZZ-d1e135-d1e299",
+        "grvnZZ-d1e135-d1e310",
+        "grvnZZ-d1e135-d1e315",
+        "grvnZZ-d1e135-d1e322",
+        "grvnZZ-d1e135-d1e327",
+        "grvnZZ-d1e135-d1e366",
+        "grvnZZ-d1e135-d1e385",
+        "grvnZZ-d1e135-d1e392",
+        "grvnZZ-d1e135-d1e403",
+        "grvnZZ-d1e135-d1e419",
+        "grvnZZ-d1e135-d1e437",
+        "grvnZZ-d1e135-d1e459",
+        "grvnZZ-d1e135-d1e497",
+        "grvnZZ-d1e135-d1e508",
+        "grvnZZ-d1e135-d1e521",
+        "grvnZZ-d1e135-d1e541",
+        "grvnZZ-d1e135-d1e559",
+        "grvnZZ-d1e135-d1e603",
+        "grvnZZ-d1e135-d1e622",
+        "grvnZZ-d1e135-d1e640",
+        "grvnZZ-d1e135-d1e669",
+        "grvnZZ-d1e135-d1e678",
+        "grvnZZ-d1e135-d1e694",
+        "grvnZZ-d1e135-d1e707",
+        "grvnZZ-d1e135-d1e728",
+        "grvnZZ-d1e135-d1e748",
+        "grvnZZ-d1e135-d1e772",
+        "grvnZZ-d1e135-d1e781",
+        "grvnZZ-d1e135-d1e805",
+        "grvnZZ-d1e135-d1e836",
+        "grvnZZ-d1e135-d1e939",
+        "grvnZZ-d1e135-d1e989",
+        "grvnZZ-d1e135-d1e1020",
+        "grvnZZ-d1e135-d1e1092",
+        "grvnZZ-d1e135-d1e1108",
+        "grvnZZ-d1e135-d1e1119",
+        "grvnZZ-d1e135-d1e1144",
+        "grvnZZ-d1e135-d1e1164",
+        "grvnZZ-d1e135-d1e1199",
+        "grvnZZ-d1e135-d1e1228",
+        "grvnZZ-d1e135-d1e1241",
+        "grvnZZ-d1e135-d1e1278",
+        "grvnZZ-d1e135-d1e1295",
+        "grvnZZ-d1e135-d1e1302",
+        "grvnZZ-d1e135-d1e1326",
+        "grvnZZ-d1e135-d1e1348",
+        "grvnZZ-d1e135-d1e1357",
+        "grvnZZ-d1e135-d1e1381",
+        "grvnZZ-d1e135-d1e1395",
+        "grvnZZ-d1e135-d1e1408",
+        "grvnZZ-d1e135-d1e1426",
+        "grvnZZ-d1e135-d1e1437",
+        "grvnZZ-d1e135-d1e1450",
+        "grvnZZ-d1e135-d1e1466",
+        "grvnZZ-d1e135-d1e1489",
+        "grvnZZ-d1e135-d1e1500",
+        "grvnZZ-d1e135-d1e1520",
+        "grvnZZ-d1e135-d1e1536",
+        "grvnZZ-d1e135-d1e1549",
+        "grvnZZ-d1e135-d1e1608",
+        "grvnZZ-d1e135-d1e1627",
+        "grvnZZ-d1e135-d1e1660",
+        "grvnZZ-d1e135-d1e1686",
+        "grvnZZ-d1e135-d1e1695",
+        "grvnZZ-d1e135-d1e1743",
+        "grvnZZ-d1e135-d1e1769",
+        "grvnZZ-d1e135-d1e1794",
+        "grvnZZ-d1e135-d1e1814",
+        "grvnZZ-d1e135-d1e1834",
+        "grvnZZ-d1e135-d1e1843",
+        "grvnZZ-d1e135-d1e1863",
+        "grvnZZ-d1e135-d1e1870",
+        "grvnZZ-d1e135-d1e1876",
+        "grvnZZ-d1e135-d1e1883",
+        "grvnZZ-d1e135-d1e1901",
+        "grvnZZ-d1e135-d1e1914",
+        "grvnZZ-d1e135-d1e1938",
+        "grvnZZ-d1e135-d1e1945",
+        "grvnZZ-d1e135-d1e1959",
+        "grvnZZ-d1e135-d1e1983",
+        "grvnZZ-d1e135-d1e2001",
+        "grvnZZ-d1e135-d1e2038",
+        "grvnZZ-d1e135-d1e2086",
+        "grvnZZ-d1e135-d1e2119",
+        "grvnZZ-d1e135-d1e2151",
+        "grvnZZ-d1e135-d1e2169",
+        "grvnZZ-d1e135-d1e2189",
+        "grvnZZ-d1e135-d1e2211",
+        "grvnZZ-d1e135-d1e2222",
+        "grvnZZ-d1e135-d1e2246",
+        "grvnZZ-d1e135-d1e2276",
+        "grvnZZ-d1e135-d1e2318",
+        "grvnZZ-d1e135-d1e2334",
+        "grvnZZ-d1e135-d1e2369",
+        "grvnZZ-d1e135-d1e2413",
+        "grvnZZ-d1e135-d1e2448",
+        "grvnZZ-d1e135-d1e2499",
+        "grvnZZ-d1e135-d1e2519"
+      ]
+    }
+  }
+}

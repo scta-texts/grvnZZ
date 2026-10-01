@@ -1,0 +1,122 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-01T10:09:57Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-ancestors-v1",
+    "source_commit": "45a3890",
+    "generation_method": "hierarchical",
+    "scope": "Ancestor nodes above the item level, per scta-projectfiles/grvnZZ.xml; only ancestors with at least one interpreted descendant are included"
+  },
+  "gdr-l1prol": {
+    "summary": "Gregory of Rimini's Prologue to Book I of the Sentences is a sustained, five-question inquiry into the epistemic status of theology. Q1 lays the epistemological foundation. The object of science is the total significate of a demonstrated conclusion (the complexe significabile), which is not an existing entity. In demonstrative knowledge, mental enunciation, cognition and assent are one act. Theological discourse is defined by Scripture: its principles are scriptural truths and its conclusions are whatever follows necessarily from them. Such discourse yields not scientia but, in believers, an acquired faith without evidence and without fear of the opposite. Gregory rejects the view that theology is a science subalternated to the knowledge of God and the blessed. Q2 shows that science, opinion and theological faith can concern the same object but cannot coexist as assents in one person, because faith requires inevidence and is fearless while opinion always involves fear. Theology as exegetical and argumentative skill is compatible with all of them. Q3 denies that a science is one numerically simple habit. Each conclusion has its own habit, distinct from the habits of its principles, and a demonstration is several causally linked acts. A total science is one only by unity of subaltern genus, through a shared subject-genus and shared proper first principles. On that basis all theological conclusions form one total theology, unified by attribution to God and by the canon of Scripture as first principles. Q4 rejects Scotus's account of a science's subject as what virtually contains all its truths, and builds a deflationary account of subjects and of the unity of total sciences. It concludes, with Giles of Rome, that God as God is the first subject of theology by attribution, but only contractedly, as glorifier, since no created cognition comprehends God. Q5 defines praxis as any operation in human power and practical cognition as complex enunciation formally directing action. Some partial theologies are therefore speculative and others practical, while total theology is practical because all of Scripture is ordered to charity. Across the five questions run a parsimonious, nominalist-leaning epistemology of acts and habits, a definition of theology grounded in Scripture, and sustained critique of Scotus and other contemporaries.",
+    "claims": [
+      "(Q1) The object of demonstrative science is the total significate of the conclusion, not the proposition or the extramental thing.",
+      "(Q1) Theological discourse proceeds from Scripture or what follows necessarily from it.",
+      "(Q1) Theological discourse yields not scientia but, in believers, an acquired faith without fear of the opposite.",
+      "(Q1) Theology is not a science subalternated to the science of God and the blessed.",
+      "(Q2) Science, opinion, and theological faith can concern the same object but cannot coexist as assents to it in one person.",
+      "(Q2) Theology as exegetical and argumentative skill is compatible with science and opinion of the same object.",
+      "(Q3) No science is one numerically simple habit; conclusions and their principles have distinct habits.",
+      "(Q3) All theological conclusions form one total theology by unity of subject (God) and principles (the canon).",
+      "(Q4) A science's first subject does not virtually contain all its truths.",
+      "(Q4) God as God is the first subject of theology by attribution, but only contractedly, as glorifier.",
+      "(Q5) Practical cognition is complex cognition that formally directs action; practicality does not depend on executive power.",
+      "(Q5) Theology as a whole is practical because Scripture is ordered to charity, though some theological truths are speculative."
+    ],
+    "concepts": [
+      "epistemic status of theology",
+      "complexe significabile",
+      "authority of Scripture",
+      "fides acquisita",
+      "assent, cognition, and evidence",
+      "faith vs. science vs. opinion",
+      "unity of habits and sciences",
+      "subject of theology",
+      "Deus glorificator",
+      "practical vs. speculative",
+      "charity as end of theology",
+      "critique of Scotus"
+    ],
+    "_metadata": {
+      "level": "prologus",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "grvnZZ-d1e97",
+        "grvnZZ-d1e116",
+        "grvnZZ-d1e135",
+        "grvnZZ-d1e154",
+        "grvnZZ-d1e174"
+      ],
+      "partial": false,
+      "model": "claude-opus-5-5",
+      "prompt_version": "interpretation-ancestors-v1",
+      "generated_at": "2026-10-01T10:09:57Z",
+      "source_commit": "45a3890",
+      "source_structure": "scta-projectfiles/grvnZZ.xml"
+    }
+  },
+  "grvnZZ-d1e87": {
+    "summary": "Partial summary of Book I of Gregory of Rimini's Commentary on the Sentences. Of the book's 29 sections (the Prologue and 28 distinction groupings), only the Prologue has an interpretation, though that interpretation is complete (all five questions). This entry therefore reflects only the Prologue's account of theology. It says nothing about the distinctions on God, the Trinity, divine knowledge and will, predestination and the rest of Book I. Within that limit, Book I opens by fixing the epistemic framework for the theology that follows. Theology is discourse grounded in Scripture. It yields acquired faith rather than science. It forms one total habit only by unity of subject and principles. Its object is complexly signifiable truth, its first subject is God as glorifier, and it is practical as a whole because it is ordered to charity.",
+    "claims": [
+      "(Prologue) Theology is discourse grounded in Scripture, yielding acquired faith rather than scientia.",
+      "(Prologue) Theology is one total habit by unity of subject (God) and principles (the canon), not one simple habit.",
+      "(Prologue) God as God, contractedly as glorifier, is the first subject of theology.",
+      "(Prologue) Theology taken as a whole is practical, ordered to charity."
+    ],
+    "concepts": [
+      "epistemic status of theology",
+      "authority of Scripture",
+      "fides acquisita",
+      "unity of theology",
+      "subject of theology",
+      "practical theology"
+    ],
+    "_metadata": {
+      "level": "liber",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "gdr-l1prol"
+      ],
+      "partial": true,
+      "coverage": "1 of 29 direct children have interpretations",
+      "model": "claude-opus-5-5",
+      "prompt_version": "interpretation-ancestors-v1",
+      "generated_at": "2026-10-01T10:09:57Z",
+      "source_commit": "45a3890",
+      "source_structure": "scta-projectfiles/grvnZZ.xml"
+    }
+  },
+  "grvnZZ": {
+    "summary": "Partial summary of Gregory of Rimini's Commentary on the Sentences. In this edition the work consists of Book I, and of Book I only the Prologue (all five questions) is interpreted. This entry therefore reflects Gregory's prologue account of the nature of theology, not the commentary as a whole. On that basis, the work begins from an Augustinian, scripture-centred and epistemologically rigorous account of theology. Theology is not a demonstrative science. It is an acquired faith formed by reasoning from Scripture. It is unified as one total discipline by its relation to God and its scriptural principles, directed to God as glorifier, and ultimately ordered to charity. It rests on a theory of the complexe significabile and of the unity of assent and cognition in single acts, with a strict individuation of habits by their acts, and it is developed through repeated engagement with Scotus.",
+    "claims": [
+      "(Prologue) Theology is an acquired faith formed by reasoning from Scripture, not a demonstrative science.",
+      "(Prologue) The object of science and faith is the complexly signifiable significate of a proposition.",
+      "(Prologue) Theology is one total discipline by unity of subject and scriptural principles.",
+      "(Prologue) Theology has God as glorifier for its first subject and is practical, being ordered to charity."
+    ],
+    "concepts": [
+      "nature of theology",
+      "complexe significabile",
+      "authority of Scripture",
+      "fides acquisita",
+      "unity of theology",
+      "Augustinianism",
+      "critique of Scotus"
+    ],
+    "_metadata": {
+      "level": "work",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "grvnZZ-d1e87"
+      ],
+      "partial": true,
+      "coverage": "1 of 1 direct children have interpretations; that child is partial",
+      "model": "claude-opus-5-5",
+      "prompt_version": "interpretation-ancestors-v1",
+      "generated_at": "2026-10-01T10:09:57Z",
+      "source_commit": "45a3890",
+      "source_structure": "scta-projectfiles/grvnZZ.xml"
+    }
+  }
+}

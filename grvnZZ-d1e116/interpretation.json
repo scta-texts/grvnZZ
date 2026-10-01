@@ -1,0 +1,2580 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-01T10:01:23Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "45a389000ba97d7a39af64d67c91c4055664d13b",
+    "generation_method": "hierarchical"
+  },
+  "grvnZZ-d1e116-d1e112": {
+    "summary": "States question 2 of the prologue, building on question 1's result that theological discourse does not yield science properly speaking: whether, concerning the theological object, science or opinion can be had.",
+    "claims": [],
+    "concepts": [
+      "theological object",
+      "science",
+      "opinion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116",
+        "grvnZZ-d1e97-d1e3767"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e125": {
+    "summary": "First argument for the negative: specifically different habits cannot concern the same subject (Aristotle, De anima III: sciences are divided as things are), hence not the same object, since the subject is part of the object; theology is faith, specifically distinct from any science or opinion, so no science or opinion can concern the theological object.",
+    "claims": [
+      "(Objection) Specifically distinct habits cannot share a subject.",
+      "(Objection) Sharing an object entails sharing its subject-part.",
+      "(Objection) Theology, being faith, differs in species from science and opinion."
+    ],
+    "concepts": [
+      "distinction of habits",
+      "subject vs. object of science",
+      "division of sciences"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e112"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e158": {
+    "summary": "Second argument for the negative: specifically different sciences cannot share a conclusion, else one could prove one science's conclusion by another's principles, contrary to Aristotle's ban on passing from genus to genus (Posterior Analytics I); so they cannot share an object.",
+    "claims": [
+      "(Objection) Distinct sciences cannot have the same conclusion.",
+      "(Objection) Demonstration cannot cross genera."
+    ],
+    "concepts": [
+      "metabasis eis allo genos",
+      "unity of science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e112"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e170": {
+    "summary": "Sed contra: that God is eternal and incorruptible is a theological object about which both science and opinion can be had, since it can be concluded both demonstratively and topically. Gregory distinguishes two senses of the question (same object by anyone, or same person having theology and science/opinion) and divides it into four articles: (1) the first sense; (2) whether one person can simultaneously have theology and science of the same object; (3) theology and opinion; (4) science and opinion. For article 1 he posits four conclusions: specifically distinct habits can concern the same subject; and the same object; specifically distinct habits cannot share one natural mental conclusion (though they may share a spoken or conventional mental one); and science, theology, and opinion can concern the same object.",
+    "claims": [
+      "Science and opinion can both be had of God's eternity.",
+      "Specifically distinct habits can concern the same subject and the same object.",
+      "Specifically distinct habits cannot share the same natural mental conclusion.",
+      "Science, theology, and opinion can concern the same object."
+    ],
+    "concepts": [
+      "divisio quaestionis",
+      "distinction of habits",
+      "natural vs. conventional mental proposition",
+      "theology, science, opinion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e112",
+        "grvnZZ-d1e97-d1e2562"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e214": {
+    "summary": "First proof of conclusion 1: specifically distinct knowable objects (e.g., that any rectilinear angle can be bisected, and that it equals its vertical opposite) share the same subject (rectilinear angle); distinct cognitions and hence distinct scientific habits can be had of them; so distinct habits share a subject.",
+    "claims": [
+      "Distinct knowable objects can share a subject term's referent.",
+      "Distinct objects ground specifically distinct cognitions and habits."
+    ],
+    "concepts": [
+      "subject of a proposition",
+      "partial habits",
+      "geometry"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e170"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e240": {
+    "summary": "Second proof: intellectus (habit of principles) and scientia (habit of conclusions) differ in kind, yet in a most powerful demonstration the minor premise (known by intellectus) and the conclusion (known by scientia) have the same subject.",
+    "claims": [
+      "Intellectus and scientia can concern the same subject."
+    ],
+    "concepts": [
+      "demonstratio potissima",
+      "intellectus principiorum"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e170"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e251": {
+    "summary": "Third proof: contradictory enunciables can be objects of different habits (one person knowing the diagonal is incommensurable, another opining it is commensurable), and contradictories share a subject.",
+    "claims": [
+      "Habits concerning contradictories share a subject yet differ in kind."
+    ],
+    "concepts": [
+      "contradictories",
+      "science and opinion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e170"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e269": {
+    "summary": "Fourth proof: natural philosophy and astronomy consider the same heavens and stars, natural philosophy and geometry the same magnitudes; many distinct sciences consider the same things.",
+    "claims": [
+      "Distinct sciences often treat the same things."
+    ],
+    "concepts": [
+      "overlap of sciences",
+      "astronomy",
+      "natural philosophy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e170"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e276": {
+    "summary": "Cites supporting authorities: Aristotle's Physics II and Ethics I, and Averroes on Physics II.",
+    "claims": [],
+    "concepts": [
+      "authorities"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e269"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e284": {
+    "summary": "Further authorities: Averroes on Metaphysics II (one nature can fall under two arts, e.g., mathematical and natural treatment of body, line, surface) and Eustratius on Ethics I (rhetorician and geometer inquire into 'the straight' differently; different methods concern the same subject under different intentions).",
+    "claims": [
+      "The same subject can be treated by different arts under different aspects."
+    ],
+    "concepts": [
+      "modes of consideration",
+      "Eustratius",
+      "Averroes"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e269"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e300": {
+    "summary": "Identifies the opinion refuted: that habits differ in species only if they concern wholly or partly distinct things—each including something the other does not (metaphysics including separated substances, geometry more lines than optics, physics more than geometry).",
+    "claims": [
+      "(Rejected) Specific difference of habits requires difference of things considered."
+    ],
+    "concepts": [
+      "distinction of sciences by subject matter"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e214"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e331": {
+    "summary": "Refutes it: distinguishes partial habits (of one conclusion) from total habits (of many conclusions, whether essentially one or a collection, like Euclidean geometry); since distinct partial habits can concern the same subject, nothing prevents distinct total habits from concerning the very same things.",
+    "claims": [
+      "Partial habits concern single conclusions; total habits collect many.",
+      "Distinct total habits can concern the very same things."
+    ],
+    "concepts": [
+      "partial vs. total habit",
+      "unity of a science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e300"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e357": {
+    "summary": "Confirms: the part of natural philosophy about heavenly bodies differs from astronomy not because other parts of physics treat other things; even if there were no other natural things, celestial physics would differ in species from astronomy.",
+    "claims": [
+      "Celestial physics differs specifically from astronomy independently of other subject matter."
+    ],
+    "concepts": [
+      "astronomy vs. physics",
+      "specific distinction of habits"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e331"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e373": {
+    "summary": "Second refutation: whatever can be known can be opined, since whatever is demonstrable can be concluded probably and assented to; science and opinion differ specifically; so specifically distinct total habits concern the same things.",
+    "claims": [
+      "Whatever can be demonstrated can also be concluded probably."
+    ],
+    "concepts": [
+      "science vs. opinion",
+      "probable reasoning"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e300"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e384": {
+    "summary": "Confirms from Aristotle's Metaphysics IV and Averroes: sophistic and dialectic (as used, not taught) concern the same genus as philosophy—being—differing only by mode: philosophy considers demonstratively, logic probably. So whatever there is science of, there can be opinion of.",
+    "claims": [
+      "Philosophy and dialectic share their subject and differ in mode of consideration."
+    ],
+    "concepts": [
+      "dialectica utens",
+      "being as subject",
+      "demonstrative vs. probable consideration"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e373"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e416": {
+    "summary": "Introduces arguments for the rejected opinion, first from Aristotle's De anima III as cited in the opening argument.",
+    "claims": [
+      "(Reported) Aristotle's 'sciences are divided as things' supports distinction by subject."
+    ],
+    "concepts": [
+      "De anima III"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e300",
+        "grvnZZ-d1e116-d1e125"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e423": {
+    "summary": "Second argument for the rejected opinion: every science proves some property of its subject that no other science proves, so it has a different subject.",
+    "claims": [
+      "(Reported) Each science proves unique properties, so has a unique subject."
+    ],
+    "concepts": [
+      "passio",
+      "subject of science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e416"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e430": {
+    "summary": "Third argument: Aristotle (Metaphysics VI) says that if there were no separate substances, physics would be first philosophy; so metaphysics differs from physics because it considers abstract substances physics does not.",
+    "claims": [
+      "(Reported) Metaphysics is distinguished from physics by its proper subject matter."
+    ],
+    "concepts": [
+      "first philosophy",
+      "separate substances"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e416"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e441": {
+    "summary": "Fourth argument Gregory adds on the opponent's behalf: Averroes on Metaphysics II says if every being had matter, no science but natural science would exist; hence any other science must concern immaterial things physics does not treat.",
+    "claims": [
+      "(Reported) If all beings were material, natural science would be the only science."
+    ],
+    "concepts": [
+      "Averroes",
+      "material vs. immaterial being"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e416"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e461": {
+    "summary": "Reply to the first: the De anima text would equally prove that two partial sciences cannot concern the same thing, which is false; and its sense is not that sciences are distinguished as things, but that soul and its objects share the same division into potency and act, so that knower is in a way the known—by likeness, not essence (Averroes' exposition).",
+    "claims": [
+      "The De anima text concerns the parallel division of soul and objects into act and potency.",
+      "It does not ground a distinction of sciences by things."
+    ],
+    "concepts": [
+      "De anima III",
+      "potency and act",
+      "species specierum",
+      "exegesis of Aristotle"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e416"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e520": {
+    "summary": "Reply to the second: the consequence fails, since different artisans demonstrate different properties of the same subject (astrologer and physicist of stars; physicist and geometer of magnitudes).",
+    "claims": [
+      "Different sciences can demonstrate different properties of one subject."
+    ],
+    "concepts": [
+      "passiones",
+      "subject"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e423"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e534": {
+    "summary": "Further: if 'science' includes partial and total sciences, the antecedent is false, for distinct partial sciences prove the same property of the same subject, as will be shown.",
+    "claims": [
+      "Distinct partial sciences can prove the same property of the same subject."
+    ],
+    "concepts": [
+      "partial science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e520"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e545": {
+    "summary": "Further: whatever holds of scientific habits, of habits generally the antecedent is false, since physical opinion can prove whatever property physical science proves, though they differ specifically.",
+    "claims": [
+      "Physical opinion and physical science can concern the same property and subject."
+    ],
+    "concepts": [
+      "opinion vs. science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e520"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e558": {
+    "summary": "Reply to the third: Aristotle does not mean physics would be 'first philosophy' in the sense of metaphysics, but first in universality—no science more common—since it would range over all being. Even so, another science could exist alongside it, as the metaphysician's and geometer's considerations of magnitude differ.",
+    "claims": [
+      "'Prima' in Metaphysics VI denotes primacy of universality.",
+      "A most universal science does not exclude other sciences of the same things."
+    ],
+    "concepts": [
+      "first philosophy",
+      "universality",
+      "exegesis of Aristotle"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e430"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e597": {
+    "summary": "Reply to the fourth: likewise Averroes means that natural science would then be the most common science, not that no other would exist—mathematics would still differ from it.",
+    "claims": [
+      "Averroes refers to the most universal science, not the only one."
+    ],
+    "concepts": [
+      "Averroes",
+      "mathematics vs. physics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e441"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e613": {
+    "summary": "First proof of conclusion 2: of what one conclusion signifies, one person can have science, another opinion, another faith—assenting through demonstration, probable middle, or authority—and these habits differ specifically.",
+    "claims": [
+      "Science, opinion, and faith can concern the same significate."
+    ],
+    "concepts": [
+      "object of habits",
+      "middle term",
+      "authority"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e170"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e629": {
+    "summary": "Second proof: one can have complex knowledge of an object via intuitive cognition while another has it by demonstration—the blessed know God exists by intuition, a wayfarer by demonstration; so specifically distinct acts, and hence habits, concern the same object.",
+    "claims": [
+      "The blessed and the wayfarer know the same truth by specifically different cognitions."
+    ],
+    "concepts": [
+      "intuitive cognition",
+      "beatific knowledge",
+      "wayfarer"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e170"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e648": {
+    "summary": "Third proof: the blessed have, according to Augustine, knowledge of things in the Word and in their proper genus, which differ specifically (no intensification of the latter could equal the former); so specifically distinct cognitions, and likewise habits, can concern the same object.",
+    "claims": [
+      "Morning and evening knowledge (in the Word vs. in proper genus) differ in species."
+    ],
+    "concepts": [
+      "cognitio in Verbo",
+      "cognitio in proprio genere",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e629"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e672": {
+    "summary": "Fourth proof: astronomy and physics differ specifically, yet both know that stars are spherical and the earth round (De caelo II): physics from the stars' non-rectilinear motion and parts' equal tendency to the center, astronomy from the arc-shaped eclipses—as Aristotle, Averroes, and Avicenna attest.",
+    "claims": [
+      "Physics and astronomy prove the same conclusions by different middles."
+    ],
+    "concepts": [
+      "physical vs. mathematical proof",
+      "sphericity of the earth",
+      "eclipses"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e170"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e709": {
+    "summary": "Fifth proof: the same object can be known by a priori and by a posteriori demonstration, and these sciences differ specifically; just as probable and demonstrative middles produce different kinds of habits, so do demonstrative middles of different kinds.",
+    "claims": [
+      "A priori and a posteriori demonstrations yield specifically distinct sciences.",
+      "Specifically distinct middles produce specifically distinct habits."
+    ],
+    "concepts": [
+      "demonstratio propter quid / quia",
+      "middle term",
+      "specification of habits"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e170"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e731": {
+    "summary": "Concedes that the last two arguments would not compel a stubborn opponent, since they rest on the principle that specifically different middles cause specifically different acts and habits, and specifically different causes sometimes produce same-kind effects (heat from fire and sun). Yet since no impossibility appears and the principle is more probable—otherwise one could equally say theological and demonstrative middles produce same-kind habits, or vision of white and black are same-kind—the arguments conclude probably.",
+    "claims": [
+      "The principle that diverse middles cause diverse habits is probable, not evident.",
+      "Rejecting it would undermine plausible distinctions accepted by all."
+    ],
+    "concepts": [
+      "probability vs. demonstration",
+      "causal specification",
+      "proteruus (obstinate opponent)"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e672",
+        "grvnZZ-d1e116-d1e709"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e779": {
+    "summary": "Further: by the same stubbornness one could say acts of different kinds generate same-kind moral and mental habits (writing and harp-playing; facing dangers and giving one's own), destroying every way of knowing the specific distinction of habits.",
+    "claims": [
+      "Denying the principle would make specific distinction of habits unknowable."
+    ],
+    "concepts": [
+      "moral habits",
+      "specification by acts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e731"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e795": {
+    "summary": "Further: though some different-kind causes produce same-kind effects, every such cause produces some different-kind effects; and the only plausible different effects of diverse middles are the corresponding assents or habits—any alternative proposed could be as easily denied.",
+    "claims": [
+      "The distinctive effects of different middles are their assents and habits."
+    ],
+    "concepts": [
+      "causal argument",
+      "assent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e731"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e812": {
+    "summary": "Infers the falsity of the view that distinct sciences require distinct subjects or predicates, so that distinct sciences cannot share a conclusion, on the ground that specifically distinct acts of knowing cannot concern the same conclusion.",
+    "claims": [
+      "(Rejected) Distinct sciences require distinct subjects or predicates."
+    ],
+    "concepts": [
+      "distinction of sciences",
+      "conclusion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e709"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e834": {
+    "summary": "Refutes the motive of that view: it is no less possible for specifically distinct complex cognitions to concern the same complex than for distinct incomplex cognitions to concern the same object—angelic, human, and animal intuitions of the same whiteness differ in kind—and scientific and opinative assent differ while their complex object is identical.",
+    "claims": [
+      "Specifically different cognitions can share the same object."
+    ],
+    "concepts": [
+      "angelic, human, animal cognition",
+      "intuitive cognition",
+      "identity of object"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e812"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e856": {
+    "summary": "Proof of conclusion 3: specifically distinct habits have specifically distinct proper acts (Ethics II); scientific, opinative, and creditive assents are the proper acts of science, opinion, and faith, and each is a mental conclusion (per Q1). So despite identity of object, the mental conclusions differ.",
+    "claims": [
+      "Specifically distinct habits have specifically distinct acts.",
+      "Assents are mental conclusions.",
+      "Different habits about the same object have different mental conclusions."
+    ],
+    "concepts": [
+      "assent as mental conclusion",
+      "proper act of a habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e170",
+        "grvnZZ-d1e97-d1e2304"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e885": {
+    "summary": "Proof of conclusion 4: the same object (e.g., that God is incorruptible, that each human has his own soul) can be assented to evidently by demonstration, certainly but inevidently by theological middle, and with fear by a probable middle; so theology, science, and opinion—as acts and as habits generated by them—can concern the same object. Then opens article 2 by recalling Q1's two senses of theology: (1) the habit(s) of knowing Scripture's sense, expounding, proving, and deducing; (2) the actual or habitual assent acquired by theological discourse in a believer.",
+    "claims": [
+      "The same object can be assented to by science, theology, and opinion.",
+      "Theology can be taken as exegetical-deductive skill or as acquired believing assent."
+    ],
+    "concepts": [
+      "two senses of theology",
+      "evident vs. inevident certain assent",
+      "formido"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e170",
+        "grvnZZ-d1e97-d1e3990"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e933": {
+    "summary": "Posits four conclusions for article 2. First: theology in the first sense (act or habit) is compossible with the habit and act of science in the same person about the same object. The remaining three concern theology in the second sense; the second: the act of theology is not compossible with the act of science—one cannot simultaneously assent to the same object scientifically and theologically.",
+    "claims": [
+      "Theology as skill is compatible with science of the same object.",
+      "Actual theological assent and actual scientific assent to the same object are incompatible."
+    ],
+    "concepts": [
+      "compossibility",
+      "theology as skill vs. assent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e885"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e951": {
+    "summary": "Third conclusion of article 2: the act of theology is compossible with the habit of science, and the habit of theology with the act of science.",
+    "claims": [
+      "Act of theology is compatible with habit of science and vice versa."
+    ],
+    "concepts": [
+      "act vs. habit",
+      "compossibility"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e933"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e957": {
+    "summary": "Fourth conclusion: the habit of theology is not compossible with the habit of science—all understood as in the same subject and about the same object.",
+    "claims": [
+      "Habitual theology and habitual science of the same object are incompatible in one subject."
+    ],
+    "concepts": [
+      "habit",
+      "compossibility"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e933"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e966": {
+    "summary": "Proof of the first conclusion: someone with demonstrative knowledge (e.g., of God's eternity or that not all humans share one soul) can readily prove the same theologically, and vice versa; promptness comes from habit, and what is compossible with a readily elicited act is compossible with the habit eliciting it.",
+    "claims": [
+      "Experience shows scientists can readily argue theologically about what they know.",
+      "Promptness of action indicates habit."
+    ],
+    "concepts": [
+      "habit and promptness",
+      "experience",
+      "unicity of intellect"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e933"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1008": {
+    "summary": "Second proof: the habit of proving even the contradictory of what one knows is compossible with knowing it (as with those who formerly opined the opposite and remain ready to argue it while demonstrating the truth); a fortiori, a deductive habit (theology in sense 1) about the same object is compossible with science.",
+    "claims": [
+      "One can retain the skill to argue for a contradictory of what one knows.",
+      "A fortiori, skill in theological argument for the same truth is compatible with knowing it."
+    ],
+    "concepts": [
+      "a fortiori",
+      "deductive habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e966"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1043": {
+    "summary": "Concludes that theological skill (habit and act) and science (habit and act) are mutually compossible; their acts are compossible in themselves, though perhaps the power cannot naturally hold many acts at once.",
+    "claims": [
+      "Acts of compossible naturally acquired habits are compossible in themselves."
+    ],
+    "concepts": [
+      "capacity of the intellect",
+      "simultaneous acts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e1008"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1065": {
+    "summary": "Proof of the second conclusion: nothing can be both actually known and not known to the same person; whatever is known is (actually or habitually) evident, while what is believed—taking 'belief' strictly as the assent of faith distinct from science, opinion, and suspicion—is not evident. Hence one cannot simultaneously know and theologically assent to the same object. Supported by Hebrews 11 and Augustine's Enchiridion (faith concerns what is not seen).",
+    "claims": [
+      "What is known is evident to the knower; what is believed is not.",
+      "Theological assent is a kind of faith.",
+      "One cannot simultaneously know and believe the same object."
+    ],
+    "concepts": [
+      "faith as assent to the inevident",
+      "evidence",
+      "incompatibility of faith and science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e933"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1129": {
+    "summary": "Second proof from Augustine and the Apostle: faith no less than hope concerns the unseen and unknown, which is in faith's definition; Augustine (De Trinitate 8) believes Christ was born of a virgin but knows what a virgin is, and (13) each sees rather than believes his own will.",
+    "claims": [
+      "Augustine denies believing what he knows."
+    ],
+    "concepts": [
+      "faith and knowledge",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e1065"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1167": {
+    "summary": "Introduces two customary responses to the argument.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e1065"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1172": {
+    "summary": "First response: it is not absurd for the same thing to be known and unknown to the same person in different respects, just as milk is like a pearl in whiteness and unlike in sweetness.",
+    "claims": [
+      "(Response) The same object can be known and unknown in different respects."
+    ],
+    "concepts": [
+      "secundum quid",
+      "respects"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e1167"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1183": {
+    "summary": "Applies the first response: the object is known through science and not known (unknown) through faith, so not known and unknown in the same respect.",
+    "claims": [
+      "(Response) Known by science and unknown by faith is no contradiction."
+    ],
+    "concepts": [
+      "respects",
+      "faith and science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e1172"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1190": {
+    "summary": "Second response: the consequence fails, because although science makes its object evident, faith does not make its object inevident; faith is indifferent to evidence and non-evidence, unlike science.",
+    "claims": [
+      "(Response) Faith is compatible with evidence of its object."
+    ],
+    "concepts": [
+      "evidence",
+      "faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e1167"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1203": {
+    "summary": "Against the first response: both parts of a contradiction cannot be true by different causes, else two people could each verify one part and make contradictories simultaneously true.",
+    "claims": [
+      "Contradictories cannot be simultaneously true through different causes."
+    ],
+    "concepts": [
+      "law of non-contradiction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e1172"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1216": {
+    "summary": "Elaborates: no contradictories, whatever their predicates, can be verified in different respects. The milk example involves non-contradictories ('like by whiteness' vs. 'not like by sweetness'); the genuine contradictories 'this is evident to him' / 'this is not evident to him' cannot both be true, and 'known by him' entails 'evident to him' while 'believed by him' entails 'not evident to him'. So the first response fails.",
+    "claims": [
+      "Secundum quid qualifications do not create genuine contradictories.",
+      "Being known entails being evident; being believed entails being inevident."
+    ],
+    "concepts": [
+      "contradiction",
+      "logic of qualifications",
+      "evidence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e1203"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1272": {
+    "summary": "Against the second response: though faith does not cause inevidence, its object must be inevident to the believer; otherwise there could be faith of first principles and of what is intuitively evident, contrary to all the saints, the Gloss, Gregory the Great (what appears has not faith but recognition), and Hugh (faith is certainty of absent things; if you see, it is not faith).",
+    "claims": [
+      "Faith requires its object be inevident to the believer.",
+      "There is no faith of what is evident."
+    ],
+    "concepts": [
+      "faith of the unseen",
+      "agnitio",
+      "Hugh of St Victor",
+      "Gregory the Great"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e1190"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1305": {
+    "summary": "Further: otherwise the Apostle's definition of faith, which includes 'things not apparent', would be bad, since a definition must convert with the defined.",
+    "claims": [
+      "A definition must convert universally with its definiendum."
+    ],
+    "concepts": [
+      "definition of faith",
+      "Hebrews 11:1"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e1272"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1312": {
+    "summary": "Second argument for the conclusion: if faith were compossible with science of the same object, faith need not cede to clear knowledge, and would remain alongside vision in heaven—contrary to Augustine (De doctrina christiana I) that faith and hope pass away while charity remains.",
+    "claims": [
+      "Faith does not remain in the beatific vision."
+    ],
+    "concepts": [
+      "faith in patria",
+      "theological virtues",
+      "eschatology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e933"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1338": {
+    "summary": "Confirms from Augustine's Soliloquies I: when the soul sees God, faith is unnecessary since it already sees, hope even less, while charity increases.",
+    "claims": [
+      "Faith is unnecessary once God is seen."
+    ],
+    "concepts": [
+      "beatific vision",
+      "faith, hope, charity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e1312"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1356": {
+    "summary": "Confirms from De Genesi ad litteram 12: faith and hope are useful for this pilgrimage and will not exist in the next life—certainly true of the act of faith.",
+    "claims": [
+      "The act of faith does not exist in heaven."
+    ],
+    "concepts": [
+      "pilgrimage (peregrinatio)",
+      "faith and hope"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e1312"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1372": {
+    "summary": "Anticipated reply: the same assent remains numerically or specifically when vision arrives, but ceases to be called faith (being of present things it is truth or science). Supported by Augustine (De Trinitate 13): faith in falsehoods perishes when truth is found, but faith in truths passes into the things themselves and does not perish when what was believed is seen.",
+    "claims": [
+      "(Reply) The assent of faith persists into vision under a new name."
+    ],
+    "concepts": [
+      "continuity of assent",
+      "faith passing into sight"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e1312"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1414": {
+    "summary": "Continues the reply: Augustine adds 'is it still to be called faith?', and De Trinitate 4 says our faith will become truth by seeing—i.e., will pass into presence and vision.",
+    "claims": [
+      "(Reply) Augustine says faith becomes truth by seeing."
+    ],
+    "concepts": [
+      "fides transit in veritatem"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e1372"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1437": {
+    "summary": "Rejects the reply: Augustine's Soliloquies says all three now, after this life only charity; faith does not turn into charity, so no reality that is faith or hope remains after this life.",
+    "claims": [
+      "No entity that is faith survives into the afterlife."
+    ],
+    "concepts": [
+      "cessation of faith",
+      "charity alone remains"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e1372"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1453": {
+    "summary": "Second rejection: Augustine (De Trinitate 14) says faith will be past when it ceases, constituting then a different trinity in memory by a trace it left—which would be false if the same assent remained present.",
+    "claims": [
+      "Faith ceases to exist and survives only as a memory trace."
+    ],
+    "concepts": [
+      "trinity of the mind",
+      "memory trace",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e1372"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1484": {
+    "summary": "Interprets the Augustinian text: faith in falsehoods 'perishes' because it ceases with no assent about the same succeeding it, but rather dissent and assent to the opposite.",
+    "claims": [
+      "Faith in falsehood is replaced by dissent."
+    ],
+    "concepts": [
+      "exegesis of Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e1372"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1495": {
+    "summary": "Faith in truths is said not to perish because, though it ceases, a more perfect assent about the same object succeeds it in vision; that is Augustine's meaning.",
+    "claims": [
+      "Faith in truths is succeeded by a more perfect assent of vision."
+    ],
+    "concepts": [
+      "succession of assents",
+      "vision"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e1484"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1508": {
+    "summary": "Third argument from Hugh of St Victor (De sacramentis I): things are from reason (necessary), according to reason (probable), above reason (wondrous), or against reason (incredible); the extremes do not admit faith—what is from reason is fully known and cannot be believed. Hence what is known by reason cannot be believed.",
+    "claims": [
+      "What is known by reason cannot be believed."
+    ],
+    "concepts": [
+      "ex/secundum/supra/contra rationem",
+      "Hugh of St Victor"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e933"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1540": {
+    "summary": "First objection to the conclusion: faith is no more repugnant to science than authority to demonstration, since any repugnance must come from the middles (not the objects, which can be shared); but authority and demonstration are compossible, as one can have both about the same thing.",
+    "claims": [
+      "(Objection) Authority and demonstration about the same thing are compatible.",
+      "(Objection) Hence faith and science are compatible."
+    ],
+    "concepts": [
+      "authority vs. demonstration",
+      "middle term"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e1065"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1560": {
+    "summary": "Confirms: Aristotle often adduces ancient authorities after demonstrations, which he would not do if authority were incompatible with demonstration (it would destroy the science) or caused no assent (it would be superfluous).",
+    "claims": [
+      "(Objection) Aristotle's practice shows authority is compatible with demonstration."
+    ],
+    "concepts": [
+      "authority in philosophy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e1540"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1578": {
+    "summary": "Second objection: whoever can have a theological middle and assent to its premises can have assent to the theological conclusion; one with science of a theological conclusion can have such a middle and assent to its premises; so science and theological assent are compossible.",
+    "claims": [
+      "(Objection) Assent to premises entails possible assent to the conclusion."
+    ],
+    "concepts": [
+      "closure of assent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e1065"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1594": {
+    "summary": "Proves the minor: one who knows a conclusion can deduce it theologically (per conclusion 1) and can assent to the scriptural premises (else not a true believer)—assenting to at least one by faith, since a fully scientific assent would not be a theological middle; and faith in one premise with science of the other yields only faith in the conclusion.",
+    "claims": [
+      "(Objection) Faith in one premise plus science of the other yields faith in the conclusion.",
+      "(Objection) A true believer assents to Scripture by faith."
+    ],
+    "concepts": [
+      "mixed premises",
+      "weakest-premise principle"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e1578"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1616": {
+    "summary": "Reply to the first objection: 'authority' has two senses; first, the assent given to someone's words (as we say a person or doctrine has great authority).",
+    "claims": [
+      "'Authority' can mean the assent given to a speaker."
+    ],
+    "concepts": [
+      "senses of auctoritas"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e1540"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1629": {
+    "summary": "Second sense: authority as the cited statements themselves. In the first sense, the minor is denied—assent on authority is incompatible with a scientific mental demonstration; in the second sense, the major is denied: cited texts are compatible not only with demonstration but even with contrary error (one erring that God is corporeal can have in mind a text denying it; one demonstrating that intellect is not one can have Averroes' contrary dictum in mind) without assenting to them.",
+    "claims": [
+      "Assent on authority is incompatible with scientific demonstration of the same.",
+      "Possessing an authoritative text does not entail assenting to it."
+    ],
+    "concepts": [
+      "auctoritas as assent vs. as text",
+      "Averroist unicity of intellect",
+      "divine incorporeality"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e1616"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1669": {
+    "summary": "Reply to the proof: though the repugnance is not from the object absolutely, it is from the object secundum quid—as it is the object of this person, unknown, and of that, known—which suffices for incompatibility of the acts.",
+    "claims": [
+      "Repugnance arises from the object as known or unknown to the subject."
+    ],
+    "concepts": [
+      "secundum quid",
+      "object as related to subject"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e1540"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1682": {
+    "summary": "Illustrates the incompatibility by analogy with acts of will: desire and delight concern the same object (future vs. present) yet cannot coexist in the same person about it; likewise hope and fruition.",
+    "claims": [
+      "Desire and delight in the same object cannot coexist.",
+      "Hope and fruition of the same object cannot coexist."
+    ],
+    "concepts": [
+      "desire and delight",
+      "hope and fruition",
+      "analogy of will and intellect"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e1669"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1715": {
+    "summary": "Reply to the confirmation from Aristotle's practice: Gregory recalls no case where Aristotle cites authorities after demonstrations (only after probable arguments); and if he did, it was not to cause assent, since authority neither causes nor increases assent in one with evident knowledge—universal testimony would not increase his assent to axioms or that he lives—and Aristotle often cites authorities he himself rejects.",
+    "claims": [
+      "Testimony neither causes nor increases assent to what is evidently known.",
+      "Aristotle cites authorities without assenting to them."
+    ],
+    "concepts": [
+      "testimony and evidence",
+      "use of authorities",
+      "Aristotle's method"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e1560"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1752": {
+    "summary": "Suggests why Aristotle cites others: to show agreement of his doctrine with theirs, to cause assent in those unable to grasp demonstrations, or for some other reason.",
+    "claims": [
+      "Citations serve to show concord or persuade the less capable."
+    ],
+    "concepts": [
+      "rhetorical function of authority"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e1715"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1763": {
+    "summary": "Reply to the second objection: denies the major; assent to a conclusion naturally consequent on assent to premises is not always caused, namely when the power is not apt to receive it, since agents act on a disposed patient (De anima II).",
+    "claims": [
+      "Assent to premises does not cause assent to the conclusion in an indisposed intellect."
+    ],
+    "concepts": [
+      "disposition of patient",
+      "causation of assent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e1578"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1774": {
+    "summary": "An intellect having scientific assent is not apt to receive mere creditive assent to the same conclusion, just as the sun's light, though naturally followed by heat, does not heat the celestial spheres, which are not receptive of heat.",
+    "claims": [
+      "Scientific assent indisposes the intellect for faith about the same conclusion."
+    ],
+    "concepts": [
+      "receptivity",
+      "light and heat analogy",
+      "celestial spheres"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e1763"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1797": {
+    "summary": "Raises the objection that this implies one could naturally assent to premises without assenting to the conclusion, contrary to the previous question.",
+    "claims": [
+      "(Objection) This contradicts closure of assent from Q1."
+    ],
+    "concepts": [
+      "closure of assent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e1774",
+        "grvnZZ-d1e97-d1e3882"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1804": {
+    "summary": "Denies the implication: the one having science and a theological middle does assent to the conclusion—not by the assent the theological middle would cause, but by scientific assent—and would assent theologically if no incompatible assent were present; the absurdity would be assenting to the premises and not to the conclusion at all.",
+    "claims": [
+      "Closure is preserved because the conclusion is assented to scientifically."
+    ],
+    "concepts": [
+      "closure of assent",
+      "pre-emption of assent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e1797"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1817": {
+    "summary": "Proof of the third conclusion (act of one compossible with habit of the other): theological habit is no less compossible with an act of science than a vicious habit with a virtuous act or a habit of error with an act of demonstration; experience shows these coexist—one can demonstrate once without losing a contrary habit, and finding oneself ready to assent to the opposite after forgetting.",
+    "claims": [
+      "A single act does not wholly destroy a contrary habit.",
+      "Theological habit can coexist with an act of science and vice versa."
+    ],
+    "concepts": [
+      "habit and contrary act",
+      "virtue and vice",
+      "experience"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e951"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1848": {
+    "summary": "Proof of the fourth conclusion: naturally acquired habits with incompatible acts are themselves incompatible (by induction in moral and intellectual habits, and because habits are acquired only through acts, and the act generating one corrupts the other); the acts of theology and science of the same conclusion are incompatible; so are the habits.",
+    "claims": [
+      "Habits whose acts are incompatible are naturally incompatible.",
+      "Habitual theology and science of the same conclusion cannot coexist."
+    ],
+    "concepts": [
+      "incompatibility of habits",
+      "generation and corruption of habits"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e957",
+        "grvnZZ-d1e116-d1e1065"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1883": {
+    "summary": "Confirms: if some habits were compatible though their acts were incompatible, one could say no habits are naturally incompatible, since we know habits' incompatibility only through their acts.",
+    "claims": [
+      "Incompatibility of habits is known only via incompatibility of acts."
+    ],
+    "concepts": [
+      "epistemology of habits"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e1848"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1894": {
+    "summary": "First objection: the generative act of one habit is compatible with the contrary habit (per the third conclusion), so the habits generated are also compatible, since habit is generated from act.",
+    "claims": [
+      "(Objection) Compatibility of generative act with contrary habit implies compatibility of habits."
+    ],
+    "concepts": [
+      "habit generation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e1848"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1904": {
+    "summary": "Second objection: if the habit of science could not coexist with theological habit (a kind of faith), it would be dangerous for theologians to seek knowledge of what they believe, since they would lose faith and merit.",
+    "claims": [
+      "(Objection) Seeking knowledge of the believed would forfeit faith and merit."
+    ],
+    "concepts": [
+      "merit of faith",
+      "fides quaerens intellectum"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e1848"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1915": {
+    "summary": "Third objection: science is no less compatible with theology than with faith regarding what falls directly under faith; Augustine (Soliloquies I) says that even with the fullest understanding of God in this life, faith remains to resist ambiguity arising from the senses—and such understanding is scientific.",
+    "claims": [
+      "(Objection) Faith coexists with the fullest understanding of God in this life."
+    ],
+    "concepts": [
+      "faith and understanding",
+      "sensory ambiguity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e1848"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1937": {
+    "summary": "Reply to the first objection: 'compossible' may mean neither removed nor diminished (then the antecedent is denied) or not wholly removed (then conceded—the sense of the third conclusion—but the consequence denied).",
+    "claims": [
+      "The third conclusion means a contrary act does not wholly destroy a habit."
+    ],
+    "concepts": [
+      "degrees of compossibility",
+      "intension and remission"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e1894"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1948": {
+    "summary": "Reply to the proof: no act generates a habit (properly, induces its essence) while the opposite habit, intense or remiss, still remains.",
+    "claims": [
+      "A habit cannot be generated while its opposite persists."
+    ],
+    "concepts": [
+      "generation of habits"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e1937"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1957": {
+    "summary": "Reply to the second objection: they would strive to lose not infused faith but the acquired faith that is theology (though even infused faith could not then elicit belief about what they know); this striving is useful and desirable, as faith passes into presence and evidence. Nor is merit lost, since, as solemn doctors say, such knowledge removes faith by making its object apparent but does not diminish the charity by which the will is ready to believe if it did not appear.",
+    "claims": [
+      "Knowledge of the believed replaces acquired, not infused, faith.",
+      "Seeking such knowledge is desirable.",
+      "Merit is preserved through charity's readiness to believe."
+    ],
+    "concepts": [
+      "acquired vs. infused faith",
+      "merit",
+      "charity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e1904"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e1986": {
+    "summary": "Reply to Augustine's text: it rather supports Gregory, since faith is posited there to exclude doubt arising from the senses; where evidence excludes all doubt, as in what is properly known, faith is not fitting.",
+    "claims": [
+      "Faith serves to exclude doubt where evidence is incomplete."
+    ],
+    "concepts": [
+      "function of faith",
+      "evidence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e1915"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2000": {
+    "summary": "Further: Augustine's 'fullest understanding' is not the perfect evidence proper to science but the greatest attainable in this life about what cannot be evidently known here—God's unity and trinity, the Son's generation, the Spirit's procession—for which faith remains necessary until clear vision in heaven.",
+    "claims": [
+      "The principal objects of faith cannot be evidently known in this life.",
+      "Faith remains necessary for them until the beatific vision."
+    ],
+    "concepts": [
+      "Trinity",
+      "limits of knowledge in via",
+      "beatific vision"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e1986"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2029": {
+    "summary": "Confirms from Lombard and the Gloss on 1 Corinthians 13: faith and hope are wholly emptied in heaven (in essence, act, and mode), science only in act and mode. Then opens article 3, noting that opinion, paralleling the distinction for theology, can be taken in two ways.",
+    "claims": [
+      "In heaven faith and hope cease in essence; science changes only in act and mode."
+    ],
+    "concepts": [
+      "evacuation of faith",
+      "1 Corinthians 13",
+      "two senses of opinion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2000"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2058": {
+    "summary": "First sense of opinion: the habit(s) by which one readily concludes an opinable conclusion from probable premises (or one probable premise).",
+    "claims": [],
+    "concepts": [
+      "opinion as argumentative skill"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2029"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2065": {
+    "summary": "Second sense: the act or habit of assenting to such a conclusion or its significate. Announces three conclusions for article 3.",
+    "claims": [],
+    "concepts": [
+      "opinion as assent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2058"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2072": {
+    "summary": "First conclusion of article 3: opinion in the first sense is compossible with theology in both senses.",
+    "claims": [
+      "Skill in probable argument is compatible with theology in both senses."
+    ],
+    "concepts": [
+      "compossibility",
+      "opinion as skill"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2065"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2079": {
+    "summary": "Proof: someone with theology in both senses can readily adduce probable reasons for those conclusions, and so simultaneously have opinion in the first sense.",
+    "claims": [
+      "Theologians can also readily give probable arguments."
+    ],
+    "concepts": [
+      "habit",
+      "probable reasons"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2072"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2089": {
+    "summary": "Confirms: one ignorant of Scripture who opines God understands other things and can argue it probably, then studies Scripture and believes firmly, will deduce the conclusion from Scripture and assent, while still arguing probably as before—so he has both habits together.",
+    "claims": [
+      "Probable-argument skill survives conversion to faith and theology."
+    ],
+    "concepts": [
+      "divine knowledge of others",
+      "conversion",
+      "coexistence of habits"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2079"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2109": {
+    "summary": "Second proof: opinion in the first sense is compatible even with opinion (both senses) of the contradictory—one who switches opinion retains the ability to argue the old side—so a fortiori with theology of the same conclusion.",
+    "claims": [
+      "One can retain skill in arguing for a side one no longer holds."
+    ],
+    "concepts": [
+      "a fortiori",
+      "change of opinion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2072"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2135": {
+    "summary": "Second conclusion: theology as assent is not compossible with opinion as assent—neither act with act nor habit with habit.",
+    "claims": [
+      "Theological assent and opinative assent to the same object are incompatible."
+    ],
+    "concepts": [
+      "faith vs. opinion",
+      "assent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2065"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2144": {
+    "summary": "Proof of the acts' incompatibility: one cannot adhere to something both with and without fear of the opposite; faith is adherence without fear (Hugh: where there is doubt there is no faith; Augustine), and theological assent is a kind of faith, whereas opinion is adherence with fear (Avicenna, Grosseteste).",
+    "claims": [
+      "Faith is adherence without fear; opinion is adherence with fear.",
+      "One cannot simultaneously fear and not fear about the same."
+    ],
+    "concepts": [
+      "formido",
+      "definition of opinion",
+      "definition of faith",
+      "Avicenna",
+      "Grosseteste"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2135"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2179": {
+    "summary": "Rejects the view that faith and opinion differ by their middles (authority vs. probable reason): faith can arise from probable reason—Augustine says we believe faith is in another from its works as signs; Hugh says what is according to reason receives faith, reason aiding faith—and opinion can arise from authority.",
+    "claims": [
+      "Faith can arise from probable reasons.",
+      "Faith and opinion are not distinguished by their middles."
+    ],
+    "concepts": [
+      "authority vs. reason",
+      "signs of faith",
+      "secundum rationem"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2144"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2234": {
+    "summary": "Shows opinion can arise from authority: what we accept on the authority of worldly sages, not wholly without fear, we call opinion, not faith.",
+    "claims": [
+      "Assent on human authority with fear is opinion."
+    ],
+    "concepts": [
+      "human authority",
+      "opinion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2179"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2244": {
+    "summary": "Further: per Aristotle's Topics, probable propositions are those that seem so to many or the wise (Augustine, Contra Cresconium III, concurs); so proof by the authority of worldly sages is a probable argument, and faith and opinion cannot be distinguished by authority versus probable reason.",
+    "claims": [
+      "Arguments from the authority of the wise are probable arguments."
+    ],
+    "concepts": [
+      "endoxa",
+      "probabilia",
+      "Topics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2179"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2264": {
+    "summary": "Second proof from Hugh's definition of faith (certainty about absent things, above opinion, below science): faith is above opinion by its firm, undoubting adherence; opiners prefer one side without asserting it, believers take it into firm assertion, and where there is doubt there is no faith. One cannot simultaneously take and not take something into firm assertion; so one cannot believe and opine the same.",
+    "claims": [
+      "Faith exceeds opinion by firmness of adherence.",
+      "Belief involves firm assertion; opinion withholds assertion."
+    ],
+    "concepts": [
+      "assertio",
+      "Hugh of St Victor",
+      "firmness of assent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2144"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2308": {
+    "summary": "Concludes that theological and opinative assent to the same object cannot coexist in the same person.",
+    "claims": [
+      "Theological and opinative assent are incompatible."
+    ],
+    "concepts": [
+      "compossibility"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2264"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2315": {
+    "summary": "Infers the second part: the habits are likewise incompatible, as was proved for science and faith from the incompatibility of their acts.",
+    "claims": [
+      "Theological and opinative habits are incompatible."
+    ],
+    "concepts": [
+      "habits from acts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2308",
+        "grvnZZ-d1e116-d1e1848"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2324": {
+    "summary": "Further: it seems impossible for two habits with mutually repugnant inclinations to be acquired together in the intellect.",
+    "claims": [
+      "Habits with repugnant inclinations cannot coexist."
+    ],
+    "concepts": [
+      "inclination of habits"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2315"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2331": {
+    "summary": "Third conclusion of article 3: the act of each is in some way compatible with the habit of the other—actual theological assent is compatible with a habitual opinion of the opposite, so a fortiori of the same; and an actual opinative assent is compatible with theological habit, since a weak contrary act does not wholly destroy an intense habit (as one finds oneself still ready to assent afterwards). Then opens article 4 on science and opinion with three conclusions.",
+    "claims": [
+      "A single contrary assent does not wholly destroy an intense habit.",
+      "Acts of theology and opinion are compatible with the other's habit."
+    ],
+    "concepts": [
+      "act vs. habit",
+      "locus a minori",
+      "intensity of habits"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2065",
+        "grvnZZ-d1e116-d1e1817"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2389": {
+    "summary": "First conclusion of article 4: opinion in the first sense (skill), as act or habit, is compatible with science, proved as with theology.",
+    "claims": [
+      "Probable-argument skill is compatible with science."
+    ],
+    "concepts": [
+      "opinion as skill",
+      "science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2331",
+        "grvnZZ-d1e116-d1e2072"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2400": {
+    "summary": "Second conclusion: opinion as assent is incompatible with science, act with act and habit with habit, because one cannot naturally assent doubtfully to what is actually evident—doubt arises only from lack of evidence, and Aristotle says the doubter is ignorant; remove ignorance and doubt is removed.",
+    "claims": [
+      "Evident knowledge excludes doubt.",
+      "Opinative and scientific assent to the same are incompatible."
+    ],
+    "concepts": [
+      "evidence and doubt",
+      "ignorance"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2331"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2424": {
+    "summary": "Third conclusion: an act of science is in some way compatible with habitual opinion (a scientific act need not be intense enough to destroy the opinion-habit, even of the opposite), and an opinative assent is compatible with habitual science (one not using one's science may assent opinatively when a probable middle occurs).",
+    "claims": [
+      "Act of science and habit of opinion can coexist, and vice versa."
+    ],
+    "concepts": [
+      "act vs. habit",
+      "use of habits"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2400"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2448": {
+    "summary": "Introduces objections against the assumption that opinion necessarily includes fear. First: granting (Posterior Analytics I) that opinion and science can concern the same conclusion in different people, opinion can be of a necessary truth; either the opiner thinks it could be otherwise—making every such opinion false—or not.",
+    "claims": [
+      "(Objection) Opinion of a necessary truth would be false if it judged the truth contingent."
+    ],
+    "concepts": [
+      "opinion of necessary truths",
+      "formido"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2144"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2472": {
+    "summary": "Continues: contradictories would follow, since every opinion of something true is true, so the opinion would be both true and not true.",
+    "claims": [
+      "(Objection) Contradiction follows."
+    ],
+    "concepts": [
+      "truth of opinion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2448"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2479": {
+    "summary": "Other horn: if the opiner does not think the necessary truth could be otherwise, the opinion is without fear, since any cognition judging things as they are and not as possibly otherwise is fearless.",
+    "claims": [
+      "(Objection) Opinion of a necessary truth can be without fear."
+    ],
+    "concepts": [
+      "formido",
+      "modal judgment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2448"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2493": {
+    "summary": "Second objection: considering a proposition true absolutely differs from considering it necessarily or contingently true; acts regarding mere truth (de inesse) lack fear, and the habits generated from them are neither science (which concerns necessity) nor wisdom nor understanding, so must be a species of opinion without fear.",
+    "claims": [
+      "(Objection) There is a species of opinion without fear, regarding mere truth."
+    ],
+    "concepts": [
+      "de inesse vs. modal consideration",
+      "classification of habits"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2448"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2537": {
+    "summary": "Third objection: repeated fearful acts corrupt any firmly adhesive habit, but repeated opinative acts do not (Aristotle and believers use probable reasons for what they know or believe without losing it); so not every opinative act is fearful.",
+    "claims": [
+      "(Objection) Probable reasoning does not corrupt science or faith, so it lacks fear."
+    ],
+    "concepts": [
+      "corruption of habits",
+      "probable reasons"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2448"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2574": {
+    "summary": "Fourth objection: if fear were essential to opinion, increasing opinion would increase fear; but more probable reasons decrease fear, even to its elimination.",
+    "claims": [
+      "(Objection) More probable reasons reduce fear, so fear is not essential to opinion."
+    ],
+    "concepts": [
+      "intensity of opinion",
+      "formido"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2448"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2590": {
+    "summary": "Fifth objection: nothing that disposes toward science or faith includes fear (which corrupts them); but some opinion so disposes.",
+    "claims": [
+      "(Objection) Opinion disposes to science and faith, so lacks fear."
+    ],
+    "concepts": [
+      "disposition",
+      "formido"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2448"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2601": {
+    "summary": "Sixth objection: if every opinion included fear, wanting to opine more strongly would be wanting to fear more; then faithful doctors seeking strong probable reasons for articles would be seeking doubt and loss of faith.",
+    "claims": [
+      "(Objection) Seeking strong probable reasons would be seeking doubt."
+    ],
+    "concepts": [
+      "apologetics",
+      "formido"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2448"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2617": {
+    "summary": "Seventh objection from Ethics VII: some adhere to their opinions as firmly as others to demonstrated conclusions.",
+    "claims": [
+      "(Objection) Some opinions are as firm as knowledge."
+    ],
+    "concepts": [
+      "firmness of opinion",
+      "Ethics VII"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2448"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2627": {
+    "summary": "Preliminary to replies: 'opinion' has two senses. First, presumption or rash assent—thinking one knows what one does not—a species of error (Augustine, De utilitate credendi: opiners are to be condemned; what we opine we owe to error). Gregory did not use 'opinion' in this sense, nor does modern usage.",
+    "claims": [
+      "In one sense opinion is rash presumption of knowledge, a species of error."
+    ],
+    "concepts": [
+      "opinio as presumption",
+      "Augustine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2448"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2658": {
+    "summary": "Second sense: assent directed to the significate of a proposition; per Grosseteste on Posterior Analytics I, this is taken commonly, properly, and more properly.",
+    "claims": [
+      "Opinion as assent has three grades of meaning."
+    ],
+    "concepts": [
+      "Grosseteste",
+      "senses of opinio"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2627"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2669": {
+    "summary": "Common sense: conception with assent—the genus of faith, science, and opinion. Proper sense: acceptance of one side of a contradiction with fear of the other; science is then not opinion, though the same thing is knowable and opinable.",
+    "claims": [
+      "Commonly, opinion is any assent.",
+      "Properly, opinion is acceptance with fear of the opposite."
+    ],
+    "concepts": [
+      "opinio communiter / proprie"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2658"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2680": {
+    "summary": "More proper sense: acceptance of a contingent truth as such; then neither is science opinion nor the knowable opinable. Modern disputants, Avicenna, Hugh, and Gregory himself use the second (proper) sense.",
+    "claims": [
+      "Gregory uses 'opinion' as acceptance with fear of the opposite."
+    ],
+    "concepts": [
+      "opinio magis proprie",
+      "contingent truth"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2669"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2693": {
+    "summary": "Against the first objection: if valid, it would prove one cannot fear about any necessary truth one opines, contrary to Grosseteste and plainly false—one can opine with doubt something later demonstrated.",
+    "claims": [
+      "One can hold a true opinion with fear about a necessary truth."
+    ],
+    "concepts": [
+      "opinion of necessary truths"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2448"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2715": {
+    "summary": "Direct reply: concedes opinion can concern a necessary truth without the opiner judging it could be otherwise, but this does not make it fearless: fearing the opposite differs from judging the opposite possible—one opining the circle can be squared doubts the opposite without judging it possible that it cannot be squared.",
+    "claims": [
+      "Fear of the opposite differs from judging the opposite possible."
+    ],
+    "concepts": [
+      "formido vs. modal judgment",
+      "quadrature of the circle"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2448"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2751": {
+    "summary": "Explains the source of fear in opinion: probable reasons for the opposite, or—more fundamentally—the inevidence of the middle one has.",
+    "claims": [
+      "Fear in opinion arises chiefly from the inevidence of the middle."
+    ],
+    "concepts": [
+      "source of formido",
+      "inevidence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2715"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2760": {
+    "summary": "Against the second objection: if valid, a demonstrative middle could generate opinion (by using its propositions as merely true de inesse), which is absurd.",
+    "claims": [
+      "The objection would allow demonstration to generate opinion."
+    ],
+    "concepts": [
+      "reductio"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2493"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2776": {
+    "summary": "Direct reply: whether or not considered as such, a proposition is necessary or not and evident or not. If premises (as mental cognitions) are necessary and evident, science results without reflection on their modality (per Q1, art. 1); if mere assents, certain ones generate faith, fearful ones opinion.",
+    "claims": [
+      "Science arises from evident necessary premises without reflexive modal consideration.",
+      "Certain inevident assents yield faith; fearful ones yield opinion."
+    ],
+    "concepts": [
+      "reflection",
+      "evidence",
+      "modal status"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2493",
+        "grvnZZ-d1e97-d1e438"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2807": {
+    "summary": "Reply to the third: concedes the major for properly fearful acts, denies the minor: those with science or faith who use probable reasons do not elicit fearful assents, since such reasons cause no assent in them (as with probable arguments for self-evident truths). Aristotle uses probable arguments before demonstrations for exercise and doubt, or after to show concord (Averroes on De caelo I).",
+    "claims": [
+      "Probable reasons cause no assent in one who already knows or believes."
+    ],
+    "concepts": [
+      "probable arguments",
+      "Aristotle's method",
+      "Averroes"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2537"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2844": {
+    "summary": "Reply to the fourth: fear is per se consequent on opinion, but the consequence fails, as with suspicion, which per se involves fear yet as suspicion intensifies, doubt diminishes.",
+    "claims": [
+      "A per se concomitant can decrease as its subject intensifies."
+    ],
+    "concepts": [
+      "suspicion",
+      "intensity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2574"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2866": {
+    "summary": "Further instance: continence per se involves difficulty and delight in bad desires (Ethics VII), yet as continence grows these decrease. Raises the rejoinder that multiplying probable reasons could then eliminate fear, giving fearless opinion.",
+    "claims": [
+      "Continence involves difficulty that diminishes as continence grows."
+    ],
+    "concepts": [
+      "continence vs. temperance",
+      "Ethics VII"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2844"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2898": {
+    "summary": "Reply: if fear were wholly removed, so would opinion; opinion admits more and less fear but is never without it—as suspicion and continence cease when fear or difficulty wholly cease, becoming another habit (temperance), here a firm undoubting adhesion.",
+    "claims": [
+      "Opinion admits degrees of fear but never zero fear."
+    ],
+    "concepts": [
+      "limit of degrees",
+      "change of species of habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2866"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2920": {
+    "summary": "Further: mental probable reasons are either doubtful assents—then no multiplication removes fear, each bearing its own—or fearless assents, which do remove fear and opinion and generate faith.",
+    "claims": [
+      "Fearless assents to probable premises generate faith, not opinion."
+    ],
+    "concepts": [
+      "probable premises",
+      "faith from reason"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2898"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2936": {
+    "summary": "Reply to the fifth: distinguishes per accidens and per se disposition. Per accidens, something can dispose to its contrary while containing a corruptive (acting against a vice disposes to virtue; continence disposes to temperance). Per se, opinion does not dispose to science or faith (one receives science from demonstration equally without prior opinion); it disposes only per accidens by removing doubts and contrary assent.",
+    "claims": [
+      "Opinion disposes to science or faith only per accidens."
+    ],
+    "concepts": [
+      "per se vs. per accidens disposition",
+      "Ethics II"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2590"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2975": {
+    "summary": "Reply to the sixth: denies the consequence with parallel instances: continence involves difficulty, but willing more continence is not willing more difficulty.",
+    "claims": [
+      "Willing X does not entail willing X's concomitant."
+    ],
+    "concepts": [
+      "intentionality of willing",
+      "concomitants"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2601"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e2986": {
+    "summary": "More instances: merit involves lack of glory, faith lack of vision, hope lack of fruition, yet willing more merit, faith, or hope is not willing to lack glory, vision, or fruition.",
+    "claims": [
+      "Willing faith is not willing lack of vision."
+    ],
+    "concepts": [
+      "merit",
+      "faith and vision",
+      "hope and fruition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2975"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e3002": {
+    "summary": "Reply to the seventh: in Ethics VII ('some believe what they opine no less than others what they know, as Heraclitus shows'), Aristotle may be taking opinion as presumption in Augustine's sense.",
+    "claims": [
+      "Aristotle's 'opinion' there may mean presumption."
+    ],
+    "concepts": [
+      "exegesis of Ethics VII",
+      "Heraclitus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e2617",
+        "grvnZZ-d1e116-d1e2627"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e3016": {
+    "summary": "This is suggested by the preceding text ('some opiners do not doubt but think they know for certain'); or Aristotle takes opinion commonly as adhesion distinct from science, covering opinion and faith proper—sufficient for his purpose and not against Gregory's.",
+    "claims": [
+      "Aristotle may use 'opinion' in the common sense including faith."
+    ],
+    "concepts": [
+      "opinio communiter"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e3002"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e3027": {
+    "summary": "Reply to the first principal argument: evident from article 1.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e125",
+        "grvnZZ-d1e116-d1e461"
+      ]
+    }
+  },
+  "grvnZZ-d1e116-d1e3034": {
+    "summary": "Reply to the second principal argument: if 'conclusion' means the mental conclusion that is assent and cognition, the antecedent is granted but the inference to 'not the same object' denied; if a spoken or conventional mental conclusion, or the total significate, the antecedent is denied. Aristotle's ban on genus-crossing means a science cannot prove a conclusion whose subject lies outside its genus (geometry cannot prove that contraries share one discipline), not that sciences sharing a genus (astronomy and physics on celestial bodies) cannot prove the same conclusion.",
+    "claims": [
+      "Distinct sciences can share an object while differing in mental conclusion.",
+      "The genus-crossing ban concerns conclusions outside a science's subject genus."
+    ],
+    "concepts": [
+      "metabasis",
+      "subject genus",
+      "astronomy and physics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e116-d1e158",
+        "grvnZZ-d1e116-d1e856"
+      ]
+    }
+  },
+  "grvnZZ-d1e116": {
+    "summary": "Question 2 asks whether science or opinion can be had of the theological object, given question 1's result that theological discourse yields faith rather than science. Gregory distinguishes two senses of the question and divides it into four articles. Article 1 rejects the view that specifically distinct habits require distinct subjects or objects. Partial and total habits, science and opinion, intuitive and demonstrative knowledge, physics and astronomy, and a priori and a posteriori demonstrations can all concern the same subject or object. What they cannot share is the same natural mental conclusion, since their assents differ in species. So the same object can be known, believed theologically, and opined. Articles 2 to 4 then examine compossibility within one person. Gregory separates theology (and likewise opinion) as an argumentative or exegetical skill from theology as assent. Skill-habits are compatible with science and with each other. Actual theological assent cannot coexist with scientific assent to the same object, because faith requires that its object be inevident to the believer. Gregory defends this against the reply that something can be known and unknown in different respects, and against the reply that faith is indifferent to evidence. He supports it with Augustine and Hugh, and with the cessation of faith in the beatific vision. Theological assent likewise excludes opinative assent, because faith is fearless adherence and opinion is adherence with fear; the two are not distinguished by their middles, authority versus reason. Science likewise excludes opinion, because evidence removes doubt. Incompatible acts entail incompatible habits, though a single contrary act need not wholly destroy an opposed habit. Gregory defends the claim that opinion essentially involves fear (formido) against seven objections. He distinguishes senses of opinio and shows that fear can diminish without vanishing so long as opinion remains.",
+    "claims": [
+      "Specifically distinct habits (science, opinion, faith; physics, astronomy; a priori and a posteriori science) can concern the same subject and the same object.",
+      "Specifically distinct habits cannot share the same natural mental conclusion, since their assents differ in kind.",
+      "Theology as exegetical or argumentative skill is compatible with science and opinion of the same object.",
+      "Theological assent and scientific assent to the same object cannot coexist in one person, because faith requires inevidence.",
+      "Faith does not persist alongside the beatific vision; it is succeeded by a more perfect assent.",
+      "Theological assent and opinative assent are incompatible, because faith is adherence without fear and opinion is adherence with fear.",
+      "Science and opinion of the same object are incompatible as assents, though an act of one can coexist with a habit of the other.",
+      "Opinion in the proper sense always involves some fear of the opposite, though in varying degrees."
+    ],
+    "concepts": [
+      "specific distinction of habits",
+      "theology as skill vs. assent",
+      "compossibility of habits",
+      "faith and evidence",
+      "formido",
+      "opinion",
+      "beatific vision",
+      "act and habit"
+    ],
+    "_metadata": {
+      "level": "div",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "grvnZZ-d1e116-d1e112",
+        "grvnZZ-d1e116-d1e125",
+        "grvnZZ-d1e116-d1e158",
+        "grvnZZ-d1e116-d1e170",
+        "grvnZZ-d1e116-d1e214",
+        "grvnZZ-d1e116-d1e240",
+        "grvnZZ-d1e116-d1e251",
+        "grvnZZ-d1e116-d1e269",
+        "grvnZZ-d1e116-d1e276",
+        "grvnZZ-d1e116-d1e284",
+        "grvnZZ-d1e116-d1e300",
+        "grvnZZ-d1e116-d1e331",
+        "grvnZZ-d1e116-d1e357",
+        "grvnZZ-d1e116-d1e373",
+        "grvnZZ-d1e116-d1e384",
+        "grvnZZ-d1e116-d1e416",
+        "grvnZZ-d1e116-d1e423",
+        "grvnZZ-d1e116-d1e430",
+        "grvnZZ-d1e116-d1e441",
+        "grvnZZ-d1e116-d1e461",
+        "grvnZZ-d1e116-d1e520",
+        "grvnZZ-d1e116-d1e534",
+        "grvnZZ-d1e116-d1e545",
+        "grvnZZ-d1e116-d1e558",
+        "grvnZZ-d1e116-d1e597",
+        "grvnZZ-d1e116-d1e613",
+        "grvnZZ-d1e116-d1e629",
+        "grvnZZ-d1e116-d1e648",
+        "grvnZZ-d1e116-d1e672",
+        "grvnZZ-d1e116-d1e709",
+        "grvnZZ-d1e116-d1e731",
+        "grvnZZ-d1e116-d1e779",
+        "grvnZZ-d1e116-d1e795",
+        "grvnZZ-d1e116-d1e812",
+        "grvnZZ-d1e116-d1e834",
+        "grvnZZ-d1e116-d1e856",
+        "grvnZZ-d1e116-d1e885",
+        "grvnZZ-d1e116-d1e933",
+        "grvnZZ-d1e116-d1e951",
+        "grvnZZ-d1e116-d1e957",
+        "grvnZZ-d1e116-d1e966",
+        "grvnZZ-d1e116-d1e1008",
+        "grvnZZ-d1e116-d1e1043",
+        "grvnZZ-d1e116-d1e1065",
+        "grvnZZ-d1e116-d1e1129",
+        "grvnZZ-d1e116-d1e1167",
+        "grvnZZ-d1e116-d1e1172",
+        "grvnZZ-d1e116-d1e1183",
+        "grvnZZ-d1e116-d1e1190",
+        "grvnZZ-d1e116-d1e1203",
+        "grvnZZ-d1e116-d1e1216",
+        "grvnZZ-d1e116-d1e1272",
+        "grvnZZ-d1e116-d1e1305",
+        "grvnZZ-d1e116-d1e1312",
+        "grvnZZ-d1e116-d1e1338",
+        "grvnZZ-d1e116-d1e1356",
+        "grvnZZ-d1e116-d1e1372",
+        "grvnZZ-d1e116-d1e1414",
+        "grvnZZ-d1e116-d1e1437",
+        "grvnZZ-d1e116-d1e1453",
+        "grvnZZ-d1e116-d1e1484",
+        "grvnZZ-d1e116-d1e1495",
+        "grvnZZ-d1e116-d1e1508",
+        "grvnZZ-d1e116-d1e1540",
+        "grvnZZ-d1e116-d1e1560",
+        "grvnZZ-d1e116-d1e1578",
+        "grvnZZ-d1e116-d1e1594",
+        "grvnZZ-d1e116-d1e1616",
+        "grvnZZ-d1e116-d1e1629",
+        "grvnZZ-d1e116-d1e1669",
+        "grvnZZ-d1e116-d1e1682",
+        "grvnZZ-d1e116-d1e1715",
+        "grvnZZ-d1e116-d1e1752",
+        "grvnZZ-d1e116-d1e1763",
+        "grvnZZ-d1e116-d1e1774",
+        "grvnZZ-d1e116-d1e1797",
+        "grvnZZ-d1e116-d1e1804",
+        "grvnZZ-d1e116-d1e1817",
+        "grvnZZ-d1e116-d1e1848",
+        "grvnZZ-d1e116-d1e1883",
+        "grvnZZ-d1e116-d1e1894",
+        "grvnZZ-d1e116-d1e1904",
+        "grvnZZ-d1e116-d1e1915",
+        "grvnZZ-d1e116-d1e1937",
+        "grvnZZ-d1e116-d1e1948",
+        "grvnZZ-d1e116-d1e1957",
+        "grvnZZ-d1e116-d1e1986",
+        "grvnZZ-d1e116-d1e2000",
+        "grvnZZ-d1e116-d1e2029",
+        "grvnZZ-d1e116-d1e2058",
+        "grvnZZ-d1e116-d1e2065",
+        "grvnZZ-d1e116-d1e2072",
+        "grvnZZ-d1e116-d1e2079",
+        "grvnZZ-d1e116-d1e2089",
+        "grvnZZ-d1e116-d1e2109",
+        "grvnZZ-d1e116-d1e2135",
+        "grvnZZ-d1e116-d1e2144",
+        "grvnZZ-d1e116-d1e2179",
+        "grvnZZ-d1e116-d1e2234",
+        "grvnZZ-d1e116-d1e2244",
+        "grvnZZ-d1e116-d1e2264",
+        "grvnZZ-d1e116-d1e2308",
+        "grvnZZ-d1e116-d1e2315",
+        "grvnZZ-d1e116-d1e2324",
+        "grvnZZ-d1e116-d1e2331",
+        "grvnZZ-d1e116-d1e2389",
+        "grvnZZ-d1e116-d1e2400",
+        "grvnZZ-d1e116-d1e2424",
+        "grvnZZ-d1e116-d1e2448",
+        "grvnZZ-d1e116-d1e2472",
+        "grvnZZ-d1e116-d1e2479",
+        "grvnZZ-d1e116-d1e2493",
+        "grvnZZ-d1e116-d1e2537",
+        "grvnZZ-d1e116-d1e2574",
+        "grvnZZ-d1e116-d1e2590",
+        "grvnZZ-d1e116-d1e2601",
+        "grvnZZ-d1e116-d1e2617",
+        "grvnZZ-d1e116-d1e2627",
+        "grvnZZ-d1e116-d1e2658",
+        "grvnZZ-d1e116-d1e2669",
+        "grvnZZ-d1e116-d1e2680",
+        "grvnZZ-d1e116-d1e2693",
+        "grvnZZ-d1e116-d1e2715",
+        "grvnZZ-d1e116-d1e2751",
+        "grvnZZ-d1e116-d1e2760",
+        "grvnZZ-d1e116-d1e2776",
+        "grvnZZ-d1e116-d1e2807",
+        "grvnZZ-d1e116-d1e2844",
+        "grvnZZ-d1e116-d1e2866",
+        "grvnZZ-d1e116-d1e2898",
+        "grvnZZ-d1e116-d1e2920",
+        "grvnZZ-d1e116-d1e2936",
+        "grvnZZ-d1e116-d1e2975",
+        "grvnZZ-d1e116-d1e2986",
+        "grvnZZ-d1e116-d1e3002",
+        "grvnZZ-d1e116-d1e3016",
+        "grvnZZ-d1e116-d1e3027",
+        "grvnZZ-d1e116-d1e3034"
+      ]
+    }
+  }
+}

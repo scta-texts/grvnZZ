@@ -1,0 +1,2686 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-01T10:01:23Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "45a389000ba97d7a39af64d67c91c4055664d13b",
+    "generation_method": "hierarchical"
+  },
+  "grvnZZ-d1e174-d1e112": {
+    "summary": "States the last question of the prologue—whether theology is practical or speculative—with an argument for speculative (a habit pursued for its own sake is speculative and nobler; else metaphysics would outrank theology) and a contrary argument for practical (a habit aimed at virtuous action is practical, and James says 'be doers of the word, not hearers only'). Divides into four articles: (1) what operation is properly praxis; (2) what cognition and habit are practical or speculative; (3) whether practical and speculative habits are distinguished by objects, ends, or otherwise; (4) the principal question. In article 1, following Eustratius, 'praxis' is Greek for actus, taken as second act or operation, though sometimes narrowed to acts of executive powers commanded by will.",
+    "claims": [
+      "(Objection) Habits sought for their own sake are speculative and nobler.",
+      "(Objection) Habits aimed at virtuous operation are practical.",
+      "'Praxis' means second act or operation, taken in various senses."
+    ],
+    "concepts": [
+      "practical vs. speculative theology",
+      "praxis",
+      "second act",
+      "nobility of sciences",
+      "James 1:22"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e184": {
+    "summary": "Sets aside other senses and takes act, operation, and praxis in the sense from which a habit is called active, operative, or practical—all denominations of the same meaning.",
+    "claims": [
+      "'Active', 'operative', and 'practical' habits are denominated from the same notion."
+    ],
+    "concepts": [
+      "denomination of habits",
+      "praxis"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e112"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e193": {
+    "summary": "Distinguishes two senses of praxis: first, commonly, as that from which any active or productive habit (scientific or not) is called practical.",
+    "claims": [
+      "In a common sense, praxis covers both doing and making."
+    ],
+    "concepts": [
+      "praxis communiter"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e184"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e203": {
+    "summary": "Second, specially, where only an active habit as distinct from a productive (factive) one is called practical, as action is distinguished from making in Ethics VI.",
+    "claims": [
+      "In a special sense, praxis is action as distinguished from making."
+    ],
+    "concepts": [
+      "actio vs. factio",
+      "Ethics VI"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e193"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e210": {
+    "summary": "In the common sense (habits being generated only in humans, though God and angels have practical knowledge), every operation within our power is praxis, and conversely. Every operation from which a habit is called practical is in the agent's power, since practical habits direct and there is no direction of what is not in one's power; and every operation in our power can be done or not, this way or that, so it can be judged how to act—hence there can be practical cognition and habit about it.",
+    "claims": [
+      "Praxis is operation existing in human power.",
+      "Direction presupposes that the operation is in the agent's power.",
+      "Every operation in our power can be the object of practical judgment."
+    ],
+    "concepts": [
+      "definition of praxis",
+      "power (potestas)",
+      "direction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e193"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e249": {
+    "summary": "More generally, to include operations by which God's or angels' cognition is practical: praxis is an operation in the operator's power. Thus operations of naturally acting creatures, which are partly God's operations in his power, are praxes as God's, though not as the creatures'.",
+    "claims": [
+      "Praxis in the widest sense is any operation in the operator's power.",
+      "Natural operations are praxes insofar as they are God's operations."
+    ],
+    "concepts": [
+      "divine practical knowledge",
+      "divine concurrence",
+      "praxis"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e210"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e267": {
+    "summary": "Introduces a description of praxis in the second, special sense.",
+    "claims": [],
+    "concepts": [
+      "praxis specialiter"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e203"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e272": {
+    "summary": "In the special sense, praxis is an action in one's power, action being distinguished from making as Aristotle does in Ethics VI (and Eustratius: 'practical' and 'factive' name habits, 'action' and 'making' their operations) and Metaphysics VI; equivalently, praxis is the operation in one's power of an agibile.",
+    "claims": [
+      "Specially, praxis is action in our power, distinct from making."
+    ],
+    "concepts": [
+      "agibile vs. factibile",
+      "Eustratius",
+      "Ethics VI"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e267"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e303": {
+    "summary": "Per Eustratius, an agibile is what ceases when the agent's action ceases, like understanding, seeing, hearing.",
+    "claims": [
+      "An agibile exists only while the agent acts."
+    ],
+    "concepts": [
+      "agibile",
+      "immanent action"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e272"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e313": {
+    "summary": "A factibile is what does not cease when its producing action ceases, like a house or ship—understood of particular, secondary agents, not God, without whose action nothing can subsist.",
+    "claims": [
+      "A factibile persists after the producing agent ceases.",
+      "Nothing subsists if God ceases to act."
+    ],
+    "concepts": [
+      "factibile",
+      "transient action",
+      "divine conservation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e272"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e326": {
+    "summary": "Since the active/factive distinction is not needed for what follows, Gregory will use 'practical habit' and 'praxis' in the common sense: operation existing in human power.",
+    "claims": [],
+    "concepts": [
+      "terminological stipulation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e210"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e344": {
+    "summary": "Infers that a certain doctor's description of praxis is inadequate, being narrower than the defined: praxis, to which practical cognition extends, is an act of a power other than intellect, naturally posterior to intellection, apt to be elicited in conformity with right reason in order to be right (Scotus's definition).",
+    "claims": [
+      "(Reported) Praxis is an act of a non-intellectual power, posterior to intellection, apt to conform to right reason."
+    ],
+    "concepts": [
+      "Scotus on praxis",
+      "extension to praxis",
+      "right reason"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e210"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e364": {
+    "summary": "The description fails in two respects; first, not every praxis belongs to a power other than intellect—some intellection is truly praxis.",
+    "claims": [
+      "Some intellections are praxes."
+    ],
+    "concepts": [
+      "intellectual praxis"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e344"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e371": {
+    "summary": "Proof: there can be practical cognition directing only speculation—deliberating whether to devote oneself to speculation or active life, which things to study, where, when, how much (e.g., judging one should study Scripture now)—as truly practical as judging one should live temperately; since for this doctor practical means directive, and such cognition directs only speculation, speculation is praxis.",
+    "claims": [
+      "Judgments about whether and how to speculate are practical.",
+      "Hence speculation itself can be praxis."
+    ],
+    "concepts": [
+      "deliberation about study",
+      "contemplative vs. active life",
+      "directive cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e364"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e417": {
+    "summary": "Confirms: every cognition in conformity with which virtuous choice is elicited is practical (Ethics VI: for good choice reason must be true and appetite right—this is practical intellect and truth); cognition directing whether to speculate is such.",
+    "claims": [
+      "Cognition guiding virtuous choice is practical."
+    ],
+    "concepts": [
+      "practical truth",
+      "Ethics VI",
+      "virtuous choice"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e371"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e431": {
+    "summary": "Also by the doctor's own criterion (cognition aptitudinally conformed to and prior to right volition is practical); the choice to study Scripture with due end and circumstances is virtuous and meritorious, as Gregory the Great's Moralia indicates that effort in understanding Scripture is rewarded.",
+    "claims": [
+      "Choosing to study Scripture can be virtuous and meritorious."
+    ],
+    "concepts": [
+      "merit of study",
+      "Gregory the Great",
+      "aptitudinal conformity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e417"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e460": {
+    "summary": "Second argument from the doctor's own words: an operation to which appetitive virtue inclines is truly praxis (his major for love of the end being praxis); appetitive virtue inclines holy men to study and contemplate Scripture's mysteries.",
+    "claims": [
+      "Study of Scripture can be an operation inclined by appetitive virtue, hence praxis."
+    ],
+    "concepts": [
+      "ad hominem",
+      "virtue and study"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e364"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e473": {
+    "summary": "Further: the doctor argues against himself that every act commanded by will is praxis and speculation is so commanded.",
+    "claims": [
+      "(Reported) Every act commanded by the will is praxis."
+    ],
+    "concepts": [
+      "commanded acts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e460"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e480": {
+    "summary": "He replies that it follows only that commanded intellection is praxis or practical. Gregory argues: some commanded speculation is not practical (else all intellection and science would be practical, contrary to everyone including this doctor who denies logic is practical, while logical and metaphysical consideration can obviously be commanded); so by the doctor's disjunction some speculation is praxis.",
+    "claims": [
+      "Some speculation commanded by will is not practical cognition.",
+      "Therefore some speculation is praxis."
+    ],
+    "concepts": [
+      "commanded acts",
+      "logic as speculative",
+      "disjunctive syllogism"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e473"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e502": {
+    "summary": "The doctor's argument for the first part of his description: within intellectual acts alone there is no 'extension' of intellect, which extends beyond itself only as its act regards another power's act.",
+    "claims": [
+      "(Reported) Practical extension requires an act of another power."
+    ],
+    "concepts": [
+      "extension of intellect"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e344"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e518": {
+    "summary": "He adds: if one intellectual act extends to another it directs, that does not make the second praxis nor the first practical; else logic, which directs discursive acts, would be practical.",
+    "claims": [
+      "(Reported) Otherwise logic would be practical."
+    ],
+    "concepts": [
+      "logic",
+      "direction of intellectual acts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e502"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e530": {
+    "summary": "Reply: the extension by which intellect is practical is not always to an operation outside intellect but sometimes to another act of intellect it directs.",
+    "claims": [
+      "Practical extension can terminate in an intellectual act."
+    ],
+    "concepts": [
+      "extension of intellect"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e502"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e539": {
+    "summary": "On logic: many do not consider it false that logic is practical, and the doctor does not prove otherwise.",
+    "claims": [
+      "Many hold logic to be practical."
+    ],
+    "concepts": [
+      "status of logic"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e518"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e546": {
+    "summary": "Alternatively, it does not follow: logic does not direct discursive acts as practical cognition directs operation (teaching how or by what they should be done); it shows which inferences and syllogisms are valid, rules from which intellect is guided, just as mechanics are guided by geometrical conclusions, which are not properly practical since they state nothing about doing or making.",
+    "claims": [
+      "Logic shows validity but does not enunciate what is to be done.",
+      "Guidance by theoretical truths does not make them practical."
+    ],
+    "concepts": [
+      "logic as speculative",
+      "geometry and mechanics",
+      "formal direction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e518"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e568": {
+    "summary": "Second defect: some praxis is not apt to be elicited in conformity with right reason to be right—hatred of God, which can conform to no right reason yet is truly praxis, since love of God is (for this doctor) and a vicious act is no less praxis than its opposite virtuous act; and there can be erroneous practical reason (as perhaps in the devil) or right reason about it.",
+    "claims": [
+      "Hatred of God is praxis though it cannot be right.",
+      "Vicious acts are praxes no less than virtuous ones."
+    ],
+    "concepts": [
+      "odium Dei",
+      "vice as praxis",
+      "erroneous practical reason"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e344"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e590": {
+    "summary": "Concludes that not only operations of lower powers following choice are praxes, but also some operations of intellect and will.",
+    "claims": [
+      "Acts of intellect and will can be praxes."
+    ],
+    "concepts": [
+      "praxis of intellect and will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e364",
+        "grvnZZ-d1e174-d1e568"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e599": {
+    "summary": "For will: practical cognition can direct only an act of will—that an enemy is to be loved for God, that a father is to be loved more than a stranger, other things equal, and similar judgments about whom, how, and for what end to love.",
+    "claims": [
+      "Some practical judgments direct only acts of will."
+    ],
+    "concepts": [
+      "ordo caritatis",
+      "love of enemies",
+      "practical judgment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e590"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e618": {
+    "summary": "Confirms: there is practical cognition directing the elicited act of friendship (Ethics VIII–IX), which is therefore praxis.",
+    "claims": [
+      "The elicited act of friendship is praxis."
+    ],
+    "concepts": [
+      "friendship",
+      "elicited acts of virtue"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e599"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e627": {
+    "summary": "Authorities seem contrary: Eustratius defines praxis as a human operation according to choice, and Aristotle (Ethics VI) says choice is the principle of action; so praxis follows and is caused by choice—an operation of a lower power.",
+    "claims": [
+      "(Objection) Praxis is posterior to and caused by choice."
+    ],
+    "concepts": [
+      "electio",
+      "Eustratius",
+      "Ethics VI"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e590"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e645": {
+    "summary": "Introduces a confirmation from Eustratius' subsequent words.",
+    "claims": [],
+    "concepts": [
+      "Eustratius"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e627"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e650": {
+    "summary": "Eustratius: choice is a judgment preferring one of two options, followed by motion and impulse to act, then use, and appetite rests; that motion is of a lower power and is what he calls operation according to choice, i.e., praxis.",
+    "claims": [
+      "(Objection) Praxis is the motion of a lower power after choice."
+    ],
+    "concepts": [
+      "sequence of action",
+      "choice and use"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e645"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e663": {
+    "summary": "Second authority: Aristotle (Metaphysics VI) says active sciences concern things whose principle in the agent is prohairesis (choice), the agible and eligible being the same; so practical science concerns only what has choice as principle—lower powers' operations.",
+    "claims": [
+      "(Objection) Practical sciences concern only what proceeds from choice."
+    ],
+    "concepts": [
+      "prohairesis",
+      "Metaphysics VI"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e627"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e679": {
+    "summary": "Reply: even if choice were the principle of every praxis, there would still be praxis in intellect and will, since one can deliberate and choose about speculating or loving or hating and their circumstances, just as about walking somewhere.",
+    "claims": [
+      "Choice can be principle of acts of intellect and will."
+    ],
+    "concepts": [
+      "deliberation",
+      "choice"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e627"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e706": {
+    "summary": "Further: rightly weighed, Eustratius' words exclude neither other acts of will nor choice itself from being praxis.",
+    "claims": [
+      "Eustratius does not exclude acts of will from praxis."
+    ],
+    "concepts": [
+      "exegesis of Eustratius"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e679"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e713": {
+    "summary": "Choice is taken either for the intellect's judgment immediately following counsel or for the conforming act of appetite (Ethics VI: 'appetitive intellect or intellective appetite'); Eustratius takes it in the first sense, so his 'motion and impulse' could mean the appetite or choice as act of will.",
+    "claims": [
+      "'Electio' may mean an intellectual judgment or an appetitive act."
+    ],
+    "concepts": [
+      "two senses of electio",
+      "appetitive intellect"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e706"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e735": {
+    "summary": "Even if Aristotle and Eustratius mean choice as act of will, it is not excluded from being praxis in the present sense.",
+    "claims": [
+      "Choice as volition can itself be praxis."
+    ],
+    "concepts": [
+      "choice as praxis"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e706"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e744": {
+    "summary": "Eustratius distinguishes four senses of praxis; first, generally, every operation of any power, free or natural—the natural power and motion of each subject.",
+    "claims": [
+      "Praxis in the broadest sense covers all natural operations."
+    ],
+    "concepts": [
+      "Eustratius' four senses of praxis"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e735"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e755": {
+    "summary": "Second, less commonly: operation following a cognitive nature as such.",
+    "claims": [],
+    "concepts": [
+      "cognitive operation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e744"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e764": {
+    "summary": "Third, more strictly: every operation existing in human power.",
+    "claims": [],
+    "concepts": [
+      "operation in human power"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e744"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e770": {
+    "summary": "Fourth, most strictly: operation elicited in conformity with reason's dictate and the will's choice—'human operation according to choice'. Gregory uses the third sense, since practical habits are denominated from praxis in that sense, as proved; so Eustratius is not contrary.",
+    "claims": [
+      "Practical habits are denominated from praxis in the third sense."
+    ],
+    "concepts": [
+      "Eustratius",
+      "praxis strictissime"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e764"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e783": {
+    "summary": "Likewise Aristotle takes act not generally (as that from which habits are called active) but strictly, for act conformed to reason and choice, like Eustratius' fourth sense.",
+    "claims": [
+      "Aristotle uses 'act' in the strictest sense there."
+    ],
+    "concepts": [
+      "exegesis of Aristotle"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e627"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e792": {
+    "summary": "To the Metaphysics VI text: Aristotle there takes prohairesis for will itself and eligibile for volible, as the translation used by Averroes ('voluntas', 'voluntarium') and Averroes' exposition show: the first principle of artifacts in us is will, and sciences of what proceeds from will differ from those of nature.",
+    "claims": [
+      "'Prohairesis' in Metaphysics VI means will."
+    ],
+    "concepts": [
+      "translation variants",
+      "Averroes",
+      "will as principle"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e663"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e814": {
+    "summary": "So Aristotle means practical sciences concern things of which we are principles through will; this does not exclude intellection or volition as objects, since we are their free principle—nor exclude choice from being praxis. Ends article 1. Opens article 2: what cognition and habit are practical or speculative, beginning with cognition.",
+    "claims": [
+      "Intellection and volition can be objects of practical science since we freely cause them."
+    ],
+    "concepts": [
+      "free principle",
+      "objects of practical science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e792",
+        "grvnZZ-d1e174-d1e112"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e840": {
+    "summary": "Cognition is called practical not because it acts or makes immediately but because it directs acting or making—as medicine does not cause health but teaches how it may be produced (Ethics VI end). So a science is practical as it directs praxis.",
+    "claims": [
+      "Practical cognition is directive, not efficient, of operation."
+    ],
+    "concepts": [
+      "directive cognition",
+      "medicine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e814"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e858": {
+    "summary": "Cognition can direct praxis in three ways: formally and immediately; only virtually but proximately (containing a formally directive cognition wholly or partly); or virtually and very remotely.",
+    "claims": [
+      "Cognition directs praxis formally, virtually-proximately, or virtually-remotely."
+    ],
+    "concepts": [
+      "formal vs. virtual direction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e840"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e881": {
+    "summary": "Correspondingly, practical cognition is taken strictly and properly, broadly and improperly, or more broadly and more improperly.",
+    "claims": [
+      "'Practical' has three grades of propriety."
+    ],
+    "concepts": [
+      "proprie / large / largius"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e858"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e888": {
+    "summary": "Strictly, practical cognition is formally directive of praxis and always complex, enunciating how or by what something is to be done—e.g., 'the humours of one suffering this illness are to be tempered with this medicine'.",
+    "claims": [
+      "Properly practical cognition is a complex enunciation of what is to be done."
+    ],
+    "concepts": [
+      "practical proposition",
+      "gerundive form"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e881"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e901": {
+    "summary": "Supported by Ethics VI: practical mind and truth 'says' what appetite pursues; practical mind enunciates that this or that is to be done.",
+    "claims": [
+      "Practical intellect enunciates what is to be done."
+    ],
+    "concepts": [
+      "practical truth"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e888"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e914": {
+    "summary": "Also by Avicenna's Canon I: the division of medicine into theory and practice is not knowing vs. doing—both are science; theory gives knowledge only (e.g., three genera of fevers, four complexions), not the quality of operation; practice is science of the manner of operating (e.g., hot apostemes require repelling, cooling, thickening remedies), which helps direct how to operate—not exercise or bodily motion.",
+    "claims": [
+      "Both theoretical and practical medicine are sciences.",
+      "Practical medicine is knowledge of the mode of operating, not the operating itself."
+    ],
+    "concepts": [
+      "Avicenna's Canon",
+      "theoretical vs. practical medicine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e888"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e999": {
+    "summary": "Concludes: properly practical cognition is formally directive of praxis, only complex cognition enunciating how, by what, when, etc. something is to be done; non-enunciative, non-formally-directive cognition is theoretical, though it may virtually and proximately contain the properly practical.",
+    "claims": [
+      "Only complex enunciations about how to act are properly practical."
+    ],
+    "concepts": [
+      "practical cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e914"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e1015": {
+    "summary": "First corollary against certain doctors: no incomplex cognition (not an affirmation or negation) is properly practical, since practical cognition says or enunciates something about the quality of operation.",
+    "claims": [
+      "No incomplex cognition is properly practical."
+    ],
+    "concepts": [
+      "incomplex cognition",
+      "practical enunciation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e999"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e1027": {
+    "summary": "Further: if incomplex cognition were practical, a fortiori theoretical medicine's complex cognitions would be, abolishing the practical/speculative distinction, since complex cognitions are more directive than incomplex.",
+    "claims": [
+      "Complex cognitions are more directive than incomplex ones."
+    ],
+    "concepts": [
+      "a fortiori"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e1015"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e1047": {
+    "summary": "Confirms: if simple apprehension of an herb were practical, much more knowing it is hot or cold, which better directs action—yet this is not properly practical, saying nothing about how to operate.",
+    "claims": [
+      "Knowing an herb's quality is not properly practical."
+    ],
+    "concepts": [
+      "simple apprehension"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e1027"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e1060": {
+    "summary": "Further: then all cognition would be practical and none speculative, against all philosophers and the doctor himself. On his view practical means aptitudinal conformity and priority to praxis, speculative their lack; but if any thing's incomplex cognition is directive (as manifestation of the object), every complex cognition, also manifesting objects, would be directive of some praxis.",
+    "claims": [
+      "Scotus's criterion would make every cognition practical."
+    ],
+    "concepts": [
+      "aptitudinal conformity and priority",
+      "Scotus on practical knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e1015"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e1097": {
+    "summary": "Further: if simple cognition of one thing directs love or other praxis about it (as the doctor says of beatific vision directing love of God), so would simple cognition of any creature, making it practical.",
+    "claims": [
+      "By parity, all simple cognitions would be practical."
+    ],
+    "concepts": [
+      "beatific vision",
+      "parity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e1060"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e1117": {
+    "summary": "Second corollary against the same doctor: propositions like 'God is three and one' or 'the Father generates the Son' are not truly and properly practical, since none formally directs us to any operation.",
+    "claims": [
+      "Trinitarian propositions are not properly practical."
+    ],
+    "concepts": [
+      "Trinitarian theology",
+      "practical vs. speculative truth"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e999"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e1128": {
+    "summary": "His contrary reason: 'God is three and one' virtually includes cognition of the rectitude of love directed to the three persons (love excluding one would not be right); 'the Father generates the Son' includes rectitude of acts toward two persons, one from the other.",
+    "claims": [
+      "(Reported) Trinitarian truths virtually include the rectitude of love toward the persons."
+    ],
+    "concepts": [
+      "Scotus",
+      "rectitude of love",
+      "virtual inclusion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e1117"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e1142": {
+    "summary": "Rebuttal: then every physical, metaphysical, or theological truth about God (supremely perfect, pure act, necessary being, first cause, infinite) would be practical, and metaphysics not speculative—contrary to Aristotle; likewise 'an angel is intellectual', 'the heaven causes plants', etc., since each virtually includes the rectitude of loving its object more or less (angel more than donkey, heaven more than lead).",
+    "claims": [
+      "Scotus's reasoning would make metaphysics and natural philosophy practical."
+    ],
+    "concepts": [
+      "reductio",
+      "ordered love",
+      "metaphysics as speculative"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e1128"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e1190": {
+    "summary": "Third corollary against the same doctor's claim that theoretical medicine treats more universal cures, is more remote from praxis, and though speculative relative to practical medicine is simply practical because it virtually includes the particular directive cognition—since otherwise practical conclusions would follow from speculative principles.",
+    "claims": [
+      "(Reported) Theoretical medicine is simply practical."
+    ],
+    "concepts": [
+      "theoretical medicine",
+      "Scotus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e999"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e1223": {
+    "summary": "This is false: theoretical medicine does not teach any cure, universal or particular, else it would belong to practical medicine, from which it is divided.",
+    "claims": [
+      "Theoretical medicine teaches no cure."
+    ],
+    "concepts": [
+      "division of medicine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e1190"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e1236": {
+    "summary": "Second, Avicenna—an excellent physician—expressly calls it theoretical. Their reason fails: a practical conclusion can follow from one speculative and one practical premise—'contraries are cured by contraries' plus 'this patient is overheated' yields 'this illness is to be cured by cooling'.",
+    "claims": [
+      "Practical conclusions follow from mixed practical and speculative premises."
+    ],
+    "concepts": [
+      "practical syllogism",
+      "contraria contrariis curantur",
+      "Avicenna's authority"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e1190"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e1267": {
+    "summary": "Fourth corollary against another doctor who distinguishes practical (acquired by habituation and experience of singulars, a habit of the expert, not science) from speculative (by deduction of universals, science). This is false: Avicenna and Averroes call both sciences, Aristotle divides sciences into practical and speculative, both from universals, and Avicenna says one can acquire practical medicine without ever operating.",
+    "claims": [
+      "Practical knowledge can be science from universals.",
+      "Practical medicine can be acquired without practice or experience of singulars."
+    ],
+    "concepts": [
+      "experience vs. science",
+      "Avicenna",
+      "Averroes"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e999"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e1317": {
+    "summary": "Broadly and improperly, practical cognition directs praxis in the second way (virtually and proximately): 'health is due temperament of humours', 'this medicine has this power', 'fowl is light and digestible'. Aristotle (Metaphysics VII) says health in the soul produces health in matter through such reasoning, calling it productive; but not properly practical, since then theoretical medicine (composition of members, kinds and signs of diseases, virtues of remedies) would be properly practical. More broadly and improperly, cognition remotely directive—else mathematics and physics would be practical, guiding mechanics, music, medicine, agriculture, which are subalternated to them. Hence only complex cognition formally directive of praxis is properly practical; all other is speculative.",
+    "claims": [
+      "Proximately directive cognition is practical only improperly.",
+      "Remotely directive cognition is practical only more improperly.",
+      "Only formally directive complex cognition is properly practical; all other is speculative."
+    ],
+    "concepts": [
+      "health in the soul",
+      "Metaphysics VII",
+      "subalternation of practical to speculative",
+      "theoretical medicine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e858",
+        "grvnZZ-d1e174-d1e999"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e1446": {
+    "summary": "Turns to habits. Reports a view: a practical habit concerns an object virtually containing cognition directive of the will's operation about it and its rectitude—which operation is truly and first praxis; a speculative habit concerns an object not so containing.",
+    "claims": [
+      "(Reported) A habit is practical if its object virtually contains direction for the will's operation about it."
+    ],
+    "concepts": [
+      "Scotus on practical habit",
+      "object-based criterion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e1317"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e1466": {
+    "summary": "Against it: since God is such an object (whence the view holds theology practical), there could be no speculative habit about God, so metaphysics of God would be practical—which Aristotle denies and which the doctor seems to deny when he glosses Boethius' 'theology' (a speculative part) as metaphysics; if he does not concede it, Boethius' authority stands against him.",
+    "claims": [
+      "The view makes all knowledge of God practical, including metaphysics."
+    ],
+    "concepts": [
+      "Boethius' division of speculative sciences",
+      "metaphysics of God"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e1446"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e1499": {
+    "summary": "Proof that this consequence is false: the proper elicited acts of a practical science are practical cognitions (acts following a habit resemble those generating it); but no proper act of metaphysics (as acquired from Aristotle's Metaphysics) is practical, since none of its conclusions formally directs praxis.",
+    "claims": [
+      "Metaphysical conclusions are not formally directive of praxis."
+    ],
+    "concepts": [
+      "habit and act",
+      "metaphysics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e1466"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e1515": {
+    "summary": "Further: on this view there could be no speculative science of anything in the world, since everything is good and so virtually contains direction for the will's operation about it—an absurd consequence the doctor himself rejects. Confirmed since even simple apprehension of a thing is directive for him, much more knowing it is good.",
+    "claims": [
+      "Everything is good and so would ground practical direction."
+    ],
+    "concepts": [
+      "transcendental goodness",
+      "reductio"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e1446"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e1548": {
+    "summary": "Reports another opinion: a practical habit is one actually active and causative of its object, not merely directive. Proof: practicality is that which, removed, removes practicality; a perfect natural philosopher knowing all transformations generating a rose could direct anyone producing it, but lacks practical physics because he cannot produce a rose; if God gave him the executive power, his science would become practical.",
+    "claims": [
+      "(Reported) Practicality consists in actual causal activity, not direction.",
+      "(Reported) Knowledge of rose-generation is practical only with power to produce."
+    ],
+    "concepts": [
+      "activity criterion",
+      "rose example",
+      "executive power"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e1446"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e1592": {
+    "summary": "Second argument for this opinion: if Platonic ideas subsisted, they would have priority and conformity to things to be made, yet would not be practical since the artisan does everything; so conformity does not make a habit practical, activity does.",
+    "claims": [
+      "(Reported) Conformity and priority without activity do not make a habit practical."
+    ],
+    "concepts": [
+      "Platonic ideas",
+      "exemplar causality"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e1548"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e1609": {
+    "summary": "Third argument: moral science in us and in an angel are the same species (same object, same kind of power), but an angel's knowledge of chastity is not practical, since it cannot acquire chastity, while ours is; they differ only accidentally by activity, so activity makes a habit practical.",
+    "claims": [
+      "(Reported) Identical knowledge is practical or not depending on the knower's power to act."
+    ],
+    "concepts": [
+      "angelic moral knowledge",
+      "chastity",
+      "accidental difference"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e1548"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e1638": {
+    "summary": "Confirms: medicine is a kind of physics yet practical because active; and if alchemy could induce true forms, the physics of metals would be practical. So practicality comes not from the object alone but from the object related to a knower able to make it—Metaphysics VI defines practical science by objects whose principle is in the agent.",
+    "claims": [
+      "(Reported) Practicality depends on the object as related to an agent able to produce it."
+    ],
+    "concepts": [
+      "alchemy",
+      "medicine as practical physics",
+      "object relative to agent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e1609"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e1667": {
+    "summary": "The opinion concludes that practical science has as object a thing operable by the knower, speculative science a merely contemplable object. Gregory agrees with its negative claims (practicality is not from conformity and priority, nor from the object alone), but rejects that a habit is practical by active causality relative to a knower able to produce the object.",
+    "claims": [
+      "Practicality is not from conformity/priority nor from the object alone.",
+      "Practicality is not from the knower's power to produce the object."
+    ],
+    "concepts": [
+      "operabile",
+      "partial agreement"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e1548",
+        "grvnZZ-d1e174-d1e1446"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e1702": {
+    "summary": "First argument: a science is practical precisely insofar as active, and active precisely insofar as directive, since it is a principle of acting only directively—as the opinion's author himself says that art is a principle of transforming not elicitively but only directively; so a science is practical precisely insofar as directive.",
+    "claims": [
+      "Science is a principle of action only directively.",
+      "Hence practicality consists in directiveness."
+    ],
+    "concepts": [
+      "art as directive principle",
+      "ad hominem",
+      "specificative 'eo quo'"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e1667"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e1733": {
+    "summary": "Further: practical science is directive by its own nature, not because it is in a subject able to make the object, since it is the principle of formally directive cognitions; whoever has the same science elicits the same kind of directive cognitions—a surgeon who loses his hands still elicits the directive judgment that hot apostemes require repellents.",
+    "claims": [
+      "Practical science is practical by its nature, independently of the knower's executive power."
+    ],
+    "concepts": [
+      "surgeon without hands",
+      "intrinsic vs. extrinsic practicality"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e1702"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e1772": {
+    "summary": "Further: it would be foolish to say a skilled sculptor who loses his hand loses his art, as experience shows, or that his art then elicits acts of a different kind; he retains directive cognitions of how a statue is to be made, so his habit remains factive and practical.",
+    "claims": [
+      "Loss of executive power does not destroy or change a practical art."
+    ],
+    "concepts": [
+      "sculptor example",
+      "experience"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e1733"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e1791": {
+    "summary": "Further: on this opinion the same habit would repeatedly switch between practical and speculative—a sculptor's art becoming speculative when illness prevents working and practical when healed, a musician's when hoarse and recovered—which is irrational; so the power to act externally is not required for practicality.",
+    "claims": [
+      "Practicality cannot fluctuate with the knower's bodily capacity.",
+      "External executive power is not required for a habit to be practical."
+    ],
+    "concepts": [
+      "sculptor and musician examples",
+      "reductio"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e1772"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e1820": {
+    "summary": "Second, such power is not sufficient: if it were, physics of the soul's acts (intellections, volitions, habits), which we can produce, and geometry of figures, which we can draw, would be practical—contrary to Aristotle's Metaphysics VI and to this doctor himself, who says all our physics is speculative and (against Richard) that no geometry is properly practical.",
+    "claims": [
+      "Power to produce the object does not make knowledge of it practical.",
+      "Physics of mental acts and geometry of figures are speculative."
+    ],
+    "concepts": [
+      "sufficiency of executive power",
+      "geometry",
+      "physics of the soul"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e1791"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e1859": {
+    "summary": "Third, asks what he means by a practical science having as object a thing operable by the knower; by 'object' he clearly means what is usually called the subject—the thing the conclusion's subject signifies, such as the rose for the physics of rose-generation.",
+    "claims": [
+      "The opinion's 'object' corresponds to the subject of the conclusion."
+    ],
+    "concepts": [
+      "object vs. subject terminology",
+      "operabile"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e1667"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e1877": {
+    "summary": "Asks whether 'operable' means properly producible (brought from non-being to being by the agent's action) or merely attainable by our operations of intellect, will, or otherwise.",
+    "claims": [],
+    "concepts": [
+      "producibility vs. attainability"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e1859"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e1893": {
+    "summary": "Not the first: he often says the opposite, and then our theology of God would not be practical (God not being producible), contrary to his own article 3. If the second—God is operable as attainable by intellect and will, which is how he saves theology's practicality—then it suffices for practicality that a habit attain its object through intellect or will.",
+    "claims": [
+      "God is not producible, so on the first reading theology would not be practical.",
+      "On the second reading, attainability by intellect or will suffices."
+    ],
+    "concepts": [
+      "theology as practical",
+      "attainability of God"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e1877"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e1917": {
+    "summary": "But he seems expressly to say the opposite: if the knower lacks productive power, the habit is not practical however directive and conformable.",
+    "claims": [
+      "The opinion is internally inconsistent."
+    ],
+    "concepts": [
+      "inconsistency"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e1893"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e1927": {
+    "summary": "Moreover, on the second reading physics in us and moral science in angels would be practical, since natural things are attainable by our intellect and will and moral virtues by angels—both of which he expressly denies.",
+    "claims": [
+      "The attainability criterion contradicts the opinion's own examples."
+    ],
+    "concepts": [
+      "angelic moral science",
+      "physics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e1893"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e1940": {
+    "summary": "Fourth: it follows that one person could not have both a practical and a speculative habit about the same thing, since the same entity cannot be operable and not operable by him; but the same person has speculative physics and practical moral science of human acts, and theoretical and practical medicine of the same disease (knowing its causes, and how to cure—or even worsen it, as physicians sometimes induce suppuration).",
+    "claims": [
+      "One person can have practical and speculative habits about the same thing."
+    ],
+    "concepts": [
+      "same object, different habits",
+      "theoretical and practical medicine"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e1667"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e1962": {
+    "summary": "Fifth: on this view a habit would be practical rather from its subject (the knower) than from its object, since varying the knower's condition without varying the object changes it from practical to speculative.",
+    "claims": [
+      "The opinion makes practicality depend on the knower, not the object."
+    ],
+    "concepts": [
+      "subject of inherence vs. object"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e1667"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e1978": {
+    "summary": "Consequently a practical habit would be practical per accidens, even more so than the intellect—which is called practical denominatively from the practical cognition formally in it—since the habit would be named from a productive power in the same suppositum but not in the intellect. So the opinion is defective and its reasons fail: the first's minor is false (sculptor, musician), physics is not speculative because we cannot produce natural things (physics of our acts and geometry of figures are speculative though we can produce their objects), the handless sculptor's art remains practical, and if God gave us power to generate roses our science would not become formally practical, though parts would remain virtually practical as now.",
+    "claims": [
+      "On the opinion, practicality would be an extrinsic denomination.",
+      "Power to generate roses would not make rose-physics formally practical."
+    ],
+    "concepts": [
+      "per accidens denomination",
+      "suppositum",
+      "virtual practicality"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e1962",
+        "grvnZZ-d1e174-d1e1548"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e2033": {
+    "summary": "To the second argument (Platonic ideas): no reply needed, since Gregory does not hold that such respects of conformity and priority make a habit practical.",
+    "claims": [],
+    "concepts": [
+      "Platonic ideas"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e1592"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e2040": {
+    "summary": "To the third (angelic moral science): it fails first in assuming that angelic and human moral science are in subjects of the same species—our intellect is our soul (as will be proved in Book II) and the angel's intellect is the angelic substance, so they differ in species; and even in the same subject about the same object, habits can differ in kind (Q2, art. 1).",
+    "claims": [
+      "Human and angelic intellects differ in species, since each is identical with its substance.",
+      "Same object does not entail same species of habit."
+    ],
+    "concepts": [
+      "identity of intellect and soul",
+      "angelic intellect",
+      "specific distinction of habits"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e1609",
+        "grvnZZ-d1e116-d1e613"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e2067": {
+    "summary": "Further: there is no need to posit moral habits in angels and the doctor merely assumes it; but if an angel had a habit of the same species eliciting the same kinds of cognitions as ours, it would be practical if ours is, despite lacking productive power—as the art of a sculptor or scribe with mutilated hands remains practical because it elicits formally directive cognitions.",
+    "claims": [
+      "A habit eliciting formally directive cognitions is practical regardless of executive power."
+    ],
+    "concepts": [
+      "angelic moral habits",
+      "directiveness criterion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e2040"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e2093": {
+    "summary": "To the confirmation (medicine is a kind of physics yet practical): it seems to contradict his own claim that all our physics is speculative and that no single habit is both; whatever gloss he might give, Gregory replies that some medicine is practical, not because active in his sense, but because directive as explained.",
+    "claims": [
+      "Medicine is practical by directiveness, not activity."
+    ],
+    "concepts": [
+      "medicine",
+      "internal inconsistency"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e1638"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e2115": {
+    "summary": "To the alchemy confirmation: if alchemy induced true forms, current physics of metals would not be any more practical, though the art of alchemy would be truly practical—as the directive habit of doing alchemy already is practical, though neither science nor art but 'inertia' (Greek atechnia), a habit of making with false reason, opposed to art (Ethics VI).",
+    "claims": [
+      "Physics of metals would remain speculative even if alchemy worked.",
+      "Alchemy is a practical habit with false reason (atechnia), not an art."
+    ],
+    "concepts": [
+      "alchemy",
+      "atechnia",
+      "Ethics VI"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e1638"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e2133": {
+    "summary": "Gregory's own account of practical habits: for a single habit of one conclusion, it is practical if its proper elicited act is formally directive of praxis, speculative otherwise, since practical acts generate and are elicited only by practical habits and likewise for speculative. For a total habit: if it includes only speculative partial habits (geometry) it is speculative; if only practical (practical medicine) it is practical; if it includes practical habits and speculative ones sharing the subject-genus whose conclusions serve as principles for the practical ones (being virtually and proximately directive), as whole medicine or moral philosophy, it is fittingly called practical.",
+    "claims": [
+      "A partial habit is practical iff its elicited act is formally directive.",
+      "A total habit including practical habits and speculative ones ordered to them is called practical."
+    ],
+    "concepts": [
+      "partial vs. total habit",
+      "denomination of total habits",
+      "moral philosophy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e1317",
+        "grvnZZ-d1e174-d1e999"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e2205": {
+    "summary": "Second reason: since such speculative and practical habits form one total science through unity of subject-genus, the whole is more fittingly named from habits whose conclusions are deduced from the others' as principles than from those supplying principles—just as a demonstration is called universal or particular, affirmative or negative, from its conclusion, not its premises (Posterior Analytics I).",
+    "claims": [
+      "A total science is denominated from its conclusions rather than its principles."
+    ],
+    "concepts": [
+      "denomination from conclusion",
+      "unity of subject-genus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e2133"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e2225": {
+    "summary": "Third, from Averroes on Metaphysics II: operative science, though it reasons and speculates about causes, is not worthy to be called speculative, since it investigates causes and definitions only so that knowers may act; it includes speculative habits yet is named practical from its final part.",
+    "claims": [
+      "A science ordered to action is named practical even if it includes speculation."
+    ],
+    "concepts": [
+      "Averroes",
+      "denomination from end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e2133"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e2252": {
+    "summary": "Raises a doubt: how does practical (active) science differ from prudence, and factive science from art? Aristotle (Ethics VI) proves neither art nor prudence is science; but if practical science is a habit directive with true reason, it fits the definition of prudence (habit active with true reason), and factive science that of art.",
+    "claims": [
+      "(Doubt) Practical science seems to coincide with prudence or art by definition."
+    ],
+    "concepts": [
+      "prudence vs. practical science",
+      "art vs. factive science",
+      "Ethics VI"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e2133"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e2274": {
+    "summary": "Answer: no science—practical or speculative—concludes a singular conclusion about a contingent thing, whereas prudence always does, from a universal premise (known chiefly through experience of singulars) and a singular one known by sense or experience, or from experience alone; Aristotle says prudence concerns singulars known by experience.",
+    "claims": [
+      "Science never concludes singular contingent conclusions; prudence always does."
+    ],
+    "concepts": [
+      "prudence and singulars",
+      "practical syllogism",
+      "experience"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e2252"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e2296": {
+    "summary": "Another difference: science deduces necessary conclusions from necessary principles, prudence's conclusions are contingent (Ethics VI: prudence deliberates, and there is no deliberation about the necessary); analogously for factive science and art, whatever the names. Ends article 2. Opens article 3: whether practical and speculative habits are extrinsically distinguished by objects or ends. Distinguishes 'object' (total significate of the conclusion) from 'subject' (what the conclusion's subject term supposits for) and posits three conclusions for single habits: (1) not every practical habit differs from every speculative one by subject; (2) every practical differs from every speculative by object; (3) every practical differs from every speculative by proper end.",
+    "claims": [
+      "Prudence's conclusions are contingent; science's necessary.",
+      "Practical and speculative habits can share subjects.",
+      "Practical and speculative habits always differ in object and in end."
+    ],
+    "concepts": [
+      "necessity of science",
+      "deliberation",
+      "object vs. subject",
+      "distinction of habits"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e2274",
+        "grvnZZ-d1e174-d1e112"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e2376": {
+    "summary": "Proof of conclusion 1: the same subject can have practical and speculative cognitions, hence habits—about anger one can know it is a quality, a passion, the boiling of blood around the heart (speculative), and why, how, and when it is to be elicited (practical); about a fever its properties and causes (theoretical medicine) and how to cure it; about plants their natural properties and how to prune, graft, plant, and cultivate them (agriculture).",
+    "claims": [
+      "The same subject can be known both speculatively and practically."
+    ],
+    "concepts": [
+      "anger",
+      "fever",
+      "agriculture",
+      "shared subject"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e2296"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e2424": {
+    "summary": "Proof of conclusion 2: the same conclusion or cognition cannot be both practical and speculative, since it cannot be both formally directive and not; and the total significate of a speculative proposition cannot be that of a practical one, since the same thing cannot be adequately signified by both a directive and a non-directive proposition.",
+    "claims": [
+      "No cognition is both practical and speculative.",
+      "Practical and speculative propositions have different significates."
+    ],
+    "concepts": [
+      "object as total significate",
+      "directive vs. non-directive"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e2296"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e2450": {
+    "summary": "Proof of conclusion 3: no act other than its own proper knowing is the end of a speculative habit, while for every practical habit some act other than its proper knowing is its end.",
+    "claims": [
+      "Speculative habits' end is only their own knowing.",
+      "Practical habits have an end beyond their own knowing."
+    ],
+    "concepts": [
+      "end of habits"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e2296"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e2467": {
+    "summary": "First part of the antecedent: an act is a proper end of a habit only if elicited by it or directed by it through its elicited act—speaking of the end fitting the habit by its nature, not by the possessor's will (learning geometry to teach or earn is not geometry's end); a speculative habit directs no act.",
+    "claims": [
+      "A habit's proper end is what it elicits or directs.",
+      "Ends imposed by the knower's will are not the habit's proper end."
+    ],
+    "concepts": [
+      "finis operis vs. finis operantis",
+      "geometry"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e2450"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e2489": {
+    "summary": "Second part: every practical habit directs some praxis distinct from its own elicited act, and such act is its end; Aristotle (Metaphysics IX): the end is act—animals have sight to see, building science to build, theory to contemplate; the work is the end.",
+    "claims": [
+      "Practical habits' end includes the directed praxis.",
+      "Act is the end of potency and habit."
+    ],
+    "concepts": [
+      "Metaphysics IX",
+      "act as end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e2450"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e2513": {
+    "summary": "Hence, per Aristotle, both elicited act and the directed work are ends of a science or art, and knowing is the end of theory; a practical habit has two subordinated ends (its knowing and the operation), a speculative only knowing.",
+    "claims": [
+      "Practical habits have two subordinated ends; speculative ones only knowing."
+    ],
+    "concepts": [
+      "subordinated ends"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e2489"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e2526": {
+    "summary": "Further: the act directed by one practical habit may be elicited by a speculative habit—as when prudence directs when and what to study, and one meditates by a speculative habit—so that act is end of both, but differently: of the practical as directed, of the speculative as elicited; the habits still differ regarding the common end.",
+    "claims": [
+      "One act can be end of a practical habit as directed and of a speculative habit as elicited."
+    ],
+    "concepts": [
+      "directed vs. elicited act",
+      "prudence governing study"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e2450"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e2555": {
+    "summary": "Confirms from Aristotle (Metaphysics II: the end of theory is truth, of practice work) and Averroes (one science's end is only knowing, the other's operating).",
+    "claims": [
+      "Theoretical science aims at truth; practical at work."
+    ],
+    "concepts": [
+      "Metaphysics II",
+      "Averroes"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e2450"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e2566": {
+    "summary": "Further from De anima III (practical intellect reasoning for the sake of something differs from speculative by its end) and Averroes: the speculative's end is knowing only, the operative's operating beyond knowing; if speaking of the ultimate proper end, only operating is the practical's end, its knowing being ordered to operating. Eustratius on Ethics VI: scientific mind seeks truth and adds nothing further, practical mind finds truth but does not stop there, reasoning for action. These apply to practical and speculative habits.",
+    "claims": [
+      "The ultimate proper end of practical knowledge is operation.",
+      "Speculative mind rests in truth; practical mind goes on to action."
+    ],
+    "concepts": [
+      "De anima III",
+      "Eustratius",
+      "ultimate end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e2555"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e2622": {
+    "summary": "Objection to conclusion 1: Aristotle (Metaphysics VI) says active/factive sciences concern things whose principle is in the knower, speculative ones those whose principle is not; the same thing cannot both have and not have its principle in the knower, so cannot be subject of both.",
+    "claims": [
+      "(Objection) Practical and speculative sciences have disjoint subjects by Metaphysics VI."
+    ],
+    "concepts": [
+      "principle in the knower",
+      "Metaphysics VI"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e2376"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e2638": {
+    "summary": "Second objection: Ethics VI distinguishes the part of soul by which we contemplate necessary things from that by which we consider contingents, and Eustratius says the scientific and ratiocinative differ by objects, necessary and contingent.",
+    "claims": [
+      "(Objection) Speculative and practical intellect differ by necessary vs. contingent objects."
+    ],
+    "concepts": [
+      "scientific vs. calculative part",
+      "Eustratius"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e2376"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e2654": {
+    "summary": "Further: Aristotle proves art and prudence are not science since science concerns necessary, they contingent things; so speculative science is of necessary things, practical of contingent, and no thing is both, so they cannot share a subject.",
+    "claims": [
+      "(Objection) No thing is both necessary and contingent, so subjects differ."
+    ],
+    "concepts": [
+      "necessary vs. contingent things"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e2638"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e2676": {
+    "summary": "Reply to the first: a science may be 'of' something as total object (the complexly signifiable) or as partial object (what the subject or predicate imports). Aristotle's dictum cannot concern what the subject imports—carpentry concerns wood and agriculture land, whose principle is not in us, while physics concerns our acts, whose principle is—so it concerns the total object or what the predicate imports: for practical sciences there is in us an intellect, art, or art-like power to make the subject such (to plane wood, plough land), whereas the properties physics considers naturally inhere and are not in our power.",
+    "claims": [
+      "A science may be of something as total or as partial object.",
+      "Practical sciences concern what the predicate imports as within our power."
+    ],
+    "concepts": [
+      "total vs. partial object",
+      "carpentry",
+      "agriculture",
+      "principle in us"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e2622"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e2748": {
+    "summary": "Hence the praxis a practical habit directs is a partial object imported by the subject or predicate (or part thereof) of its conclusion, and is also its directed act and ultimate proper end.",
+    "claims": [
+      "The directed praxis is a partial object and the ultimate end of a practical habit."
+    ],
+    "concepts": [
+      "praxis as partial object",
+      "ultimate end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e2676"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e2759": {
+    "summary": "Reply to the second: Aristotle there contrasts scientific intellect not with practical intellect universally but with the deliberative and calculative (as in eubulia and prudence), since there is no deliberation about the knowable. Speculating necessaries vs. contingents can't mean necessary vs. contingent things—medicine, geometry, physics concern contingent creatures—but necessary vs. contingent propositional significates: every science considers necessary conclusions from necessary principles, prudence contingent ones about singulars (e.g., 'Socrates is to be punished now for this offense' is not always true; sometimes sin should go unpunished), hence the need for counsel.",
+    "claims": [
+      "Ethics VI contrasts science with deliberative intellect, not practical science.",
+      "Necessity pertains to propositional significates, not things.",
+      "Prudence concludes contingent singular truths requiring counsel."
+    ],
+    "concepts": [
+      "eubulia",
+      "deliberation",
+      "necessity de dicto",
+      "prudence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e2638",
+        "grvnZZ-d1e174-d1e2654"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e2828": {
+    "summary": "This also answers the other Aristotelian authority. Opens article 4, the principal question, with two conclusions: (1) theology as a single habit of one theological truth is in some cases practical, in others speculative; (2) theology as one total habit comprising all partial theological habits (with the unity explained in question 3) is practical.",
+    "claims": [
+      "Some partial theologies are practical, some speculative.",
+      "Total theology is practical."
+    ],
+    "concepts": [
+      "partial vs. total theology",
+      "practical theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e2654",
+        "grvnZZ-d1e174-d1e2133"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e2850": {
+    "summary": "Proof of conclusion 1: some theological habit's act is not formally directive of any praxis, and some is; a habit whose act is speculative is speculative, whose act is practical is practical (speaking of intellectual habits).",
+    "claims": [
+      "Partial theologies are practical or speculative according to their acts."
+    ],
+    "concepts": [
+      "habit specified by act"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e2828"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e2872": {
+    "summary": "First part of the antecedent: the acts concerning 'God is three and one', 'God is omnipotent', 'God created the world', and many others direct no praxis.",
+    "claims": [
+      "Truths about the Trinity, omnipotence, and creation are speculative."
+    ],
+    "concepts": [
+      "speculative theological truths"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e2850"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e2883": {
+    "summary": "Second part: acts concerning 'God is to be worshipped with latria', 'God is to be loved for himself and above all', 'the neighbor is to be loved for God's sake', 'the needy are to be helped for God's sake' are formally directive of praxis in our power, in Avicenna's sense.",
+    "claims": [
+      "Truths enjoining worship and love of God and neighbor are practical."
+    ],
+    "concepts": [
+      "latria",
+      "love of God and neighbor",
+      "practical theological truths"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e2850"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e2903": {
+    "summary": "Proof of conclusion 2: a total habit including practical partial habits and speculative ones whose acts are virtually and proximately directive and whose conclusions serve as principles for the practical ones is fittingly called practical, as whole medicine and moral philosophy are, and as a syllogism with a practical conclusion is called practical though one premise is speculative; our total theology includes such practical habits and speculative habits virtually directive of praxis, such as love of God.",
+    "claims": [
+      "Total theology is practical by denomination from its practical conclusions.",
+      "Speculative theological truths are virtually directive of love of God."
+    ],
+    "concepts": [
+      "denomination from conclusion",
+      "practical syllogism",
+      "total theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e2828",
+        "grvnZZ-d1e174-d1e2133"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e2949": {
+    "summary": "Proves the assumption: all theological truths about divine perfection, God's external works (creation, providence, benefits such as the Incarnation for our redemption and glorification), and everything in Scripture not formally directive of love of God virtually and proximately contain truths that formally direct us to love God.",
+    "claims": [
+      "All non-directive theological truths virtually contain directives to love God."
+    ],
+    "concepts": [
+      "divine benefits",
+      "Incarnation",
+      "love of God"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e2903"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e2972": {
+    "summary": "Confirms from Christ, author of this doctrine: on the commandment of love of God and neighbor depend the whole law and the prophets (Matthew 22).",
+    "claims": [
+      "The whole law depends on the commandment of love."
+    ],
+    "concepts": [
+      "double commandment of love",
+      "Matthew 22"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e2903"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e2979": {
+    "summary": "Further confirmation from Paul (Romans 13: love is the fulfillment of the law; 1 Timothy 1: the end of the commandment is charity) and Augustine's Enchiridion (all divine precepts refer to charity; add the Gospel and Apostles): all theology is ordered to charity and virtually leads to it.",
+    "claims": [
+      "All Scripture and theology are ordered to charity."
+    ],
+    "concepts": [
+      "charity as end",
+      "Enchiridion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e2972"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e3008": {
+    "summary": "Further: Augustine, De doctrina christiana I: the sum of all Scripture is that the fulfillment and end of the law is the love of God to be enjoyed and of the neighbor who can enjoy him with us.",
+    "claims": [
+      "The end of Scripture is love of God and neighbor."
+    ],
+    "concepts": [
+      "uti and frui",
+      "De doctrina christiana"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e2979"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e3019": {
+    "summary": "Further: De doctrina christiana II: the student of Scripture will find nothing in it but that God is to be loved for God's sake and the neighbor for God's sake.",
+    "claims": [],
+    "concepts": [
+      "De doctrina christiana"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e3008"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e3026": {
+    "summary": "Further: De civitate Dei X: all the divine precepts about sacrifices in the tabernacle and temple refer significatively to love of God and neighbor; likewise for everything else in Scripture.",
+    "claims": [
+      "Even ceremonial precepts signify love of God and neighbor."
+    ],
+    "concepts": [
+      "sacrifice",
+      "figurative reading"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e3008"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e3037": {
+    "summary": "Further: Gregory the Great on Ezekiel: God speaks to us through all Scripture only to draw us to love of him and neighbor; so everything in it directs us to charity formally or virtually-proximately.",
+    "claims": [
+      "All of Scripture directs us to charity formally or virtually."
+    ],
+    "concepts": [
+      "Gregory the Great",
+      "charity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e3026"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e3049": {
+    "summary": "Introduces objections against the conclusion and against love of God being praxis.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e2828"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e3054": {
+    "summary": "First objection: some speculative science is nobler than any practical one (Metaphysics proem), but no speculative science is nobler than theology, the noblest created science; so theology is not practical.",
+    "claims": [
+      "(Objection) Speculative sciences outrank practical ones."
+    ],
+    "concepts": [
+      "nobility of sciences"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e3049"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e3063": {
+    "summary": "Second objection: a habit whose proper end is speculation is speculative; theology's end is speculation, per Augustine's sermon that our whole work in this life is to heal the eye of the heart by which God is seen, and all divine teachings aim to purify it.",
+    "claims": [
+      "(Objection) Theology aims at the vision of God, a speculative end."
+    ],
+    "concepts": [
+      "eye of the heart",
+      "contemplation as end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e3049"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e3085": {
+    "summary": "Confirms: everything in Scripture pertaining to praxis is ordered to cognition, as active life to contemplative.",
+    "claims": [
+      "(Objection) Active life is ordered to contemplative life."
+    ],
+    "concepts": [
+      "active vs. contemplative life"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e3063"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e3092": {
+    "summary": "Third objection: the subject of every practical habit is something operable (Metaphysics VI); theology's subject, God, is not operable by us.",
+    "claims": [
+      "(Objection) God is not operable, so theology is not practical."
+    ],
+    "concepts": [
+      "operabile",
+      "subject of theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e3049"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e3101": {
+    "summary": "Fourth objection, that love of God is not praxis: beatitude consists principally in fruition or love of God, but for Aristotle beatitude consists in speculation; so love of God belongs to the genus of speculation.",
+    "claims": [
+      "(Objection) Love of God, as beatitude, is speculation."
+    ],
+    "concepts": [
+      "fruitio",
+      "beatitude",
+      "Aristotelian contemplation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e3049"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e3113": {
+    "summary": "Fifth objection: if love of God were praxis, metaphysics would be practical, since it considers God's goodness and so his lovability, extending to praxis.",
+    "claims": [
+      "(Objection) Metaphysics would become practical."
+    ],
+    "concepts": [
+      "metaphysics",
+      "goodness and lovability"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e3049"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e3124": {
+    "summary": "Sixth objection: the object of every praxis is an agibile (Ethics VI distinguishes agibile from factibile as objects of action and making), but the object of divine love is God, who is not an agibile.",
+    "claims": [
+      "(Objection) Praxis requires an agibile object; God is not one."
+    ],
+    "concepts": [
+      "agibile",
+      "object of praxis"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e3049"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e3146": {
+    "summary": "Reply to the first: denies the major taking 'science' broadly, as theology is called science.",
+    "claims": [
+      "Not every speculative science is nobler than every practical one."
+    ],
+    "concepts": [
+      "scientia large"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e3054"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e3151": {
+    "summary": "Aristotle does not say this: his claim that knowledge chosen for its own sake is more wisdom compares speculative sciences only with those devised for bodily necessity or utility, not all practical sciences; and 'more wisdom' does not entail 'nobler' unless other things are equal—geometry is for knowing only, yet not nobler than practical moral philosophy.",
+    "claims": [
+      "Aristotle compares speculative sciences only with utilitarian arts.",
+      "Geometry is not nobler than moral philosophy."
+    ],
+    "concepts": [
+      "wisdom vs. nobility",
+      "Metaphysics I",
+      "moral philosophy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e3146"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e3192": {
+    "summary": "Confirms: when Aristotle proves metaphysics nobler, his middle is not that it is speculative but that it is about God and God has it most.",
+    "claims": [
+      "Metaphysics' nobility rests on its being about God."
+    ],
+    "concepts": [
+      "divine science",
+      "nobility"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e3151"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e3203": {
+    "summary": "Reply to the second: concedes the major for the ultimate proper end only, and denies the minor.",
+    "claims": [
+      "Speculation is not theology's ultimate proper end."
+    ],
+    "concepts": [
+      "ultimate end"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e3063"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e3209": {
+    "summary": "Augustine's 'eye of the heart' means the mind, chiefly as will rather than affect—as in 'if your eye be single' the eye is intention, belonging to will, not science; divine teachings tend chiefly to purify this.",
+    "claims": [
+      "The 'eye of the heart' is the intention of the will."
+    ],
+    "concepts": [
+      "oculus cordis",
+      "intention",
+      "purification of will"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e3203"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e3225": {
+    "summary": "Reply to the confirmation: the better part of the contemplative life is love rather than cognition.",
+    "claims": [
+      "Love is the principal part of contemplative life."
+    ],
+    "concepts": [
+      "primacy of love",
+      "contemplative life"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e3085"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e3230": {
+    "summary": "Reply to the third: taking 'subject' properly, the antecedent is false; taking it improperly for object (total or partial), it can be conceded per article 3, but then the proof does not reach the conclusion.",
+    "claims": [
+      "A practical habit's subject need not be operable."
+    ],
+    "concepts": [
+      "subject vs. object"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e3092",
+        "grvnZZ-d1e174-d1e2676"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e3241": {
+    "summary": "Reply to the fourth: love of God in this life is neither beatitude nor part of it, and is praxis, being in our power, and our theology directs it; heavenly love is not praxis if (as commonly held) not in the lover's power, nor does our theology direct it—nor is any cognition formally directive of it, since it accompanies only the intuitive, simple vision of God, which is not properly practical.",
+    "claims": [
+      "Wayfaring love of God is praxis directed by theology.",
+      "Beatific love, if not in our power, is not praxis."
+    ],
+    "concepts": [
+      "love in via vs. in patria",
+      "freedom of beatific love",
+      "beatific vision"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e3101"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e3263": {
+    "summary": "Reply to the fifth: denies the consequence; metaphysics considers God the highest good, whence he is most lovable, but never directs or teaches how God is to be loved.",
+    "claims": [
+      "Metaphysics shows God lovable but does not direct how to love him."
+    ],
+    "concepts": [
+      "metaphysics as speculative",
+      "direction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e3113"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e3274": {
+    "summary": "Reply to the sixth: denies the major.",
+    "claims": [
+      "Praxis need not have an agibile as object."
+    ],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e3124"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e3278": {
+    "summary": "Aristotle does not say the object of action is an agibile; he says among contingents some are agibile, some factibile, and action differs from making, but never that the agibile differs from the action—nor could he, since (Ethics I, Metaphysics IX) some operations are ends with no further work.",
+    "claims": [
+      "Aristotle does not distinguish the agibile from the action itself."
+    ],
+    "concepts": [
+      "immanent action",
+      "operations as ends"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e3274"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e3296": {
+    "summary": "Some practical arts (moral philosophy, singing, dancing) concern actions with no distinct agibile, yet are said to concern agibilia; so actions themselves are agibilia. Likewise the praxis that is love of God is not of an agibile object but is itself an agibile.",
+    "claims": [
+      "Love of God is itself an agibile, not directed to an agibile object."
+    ],
+    "concepts": [
+      "agibile",
+      "immanent praxis",
+      "love of God"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e3278"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e3312": {
+    "summary": "Reply to the principal argument: evident from the reply to the first objection here.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174-d1e112",
+        "grvnZZ-d1e174-d1e3151"
+      ]
+    }
+  },
+  "grvnZZ-d1e174-d1e3319": {
+    "summary": "Explicit marking the end of Gregory's prologue to Book I of the Sentences.",
+    "claims": [],
+    "concepts": [
+      "explicit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e174"
+      ]
+    }
+  },
+  "grvnZZ-d1e174": {
+    "summary": "Question 5, the last of the prologue, asks whether theology is practical or speculative. Article 1 defines praxis, in the sense relevant to practical habits, as any operation existing in human power. Against Scotus's narrower definition, Gregory argues that acts of intellect (deliberate speculation) and acts of will (love, choice, even hatred of God) are praxes, and he reconciles Eustratius and Aristotle with this. Article 2 holds that cognition is properly practical only when it is a complex enunciation formally directing how something is to be done; this follows Aristotle and Avicenna's division of theoretical from practical medicine. Cognition that directs action virtually, whether proximately or remotely, is practical only improperly. From this Gregory draws corollaries against Scotus: incomplex cognition is not practical, Trinitarian truths are not practical, and theoretical medicine is not practical. He also rejects the view that practical knowledge is mere experiential habit. On habits, he rejects Scotus's object-based criterion, which would make all knowledge of God, and indeed of anything good, practical. He also rejects the view that practicality consists in the knower's executive power (rose, alchemy, angelic moral science): power is neither necessary (the sculptor without hands still has his art) nor sufficient. A partial habit is practical if its elicited act is formally directive. A total habit that includes practical habits together with speculative ones ordered to them is called practical, as medicine and moral philosophy are. Gregory then distinguishes practical science from prudence and art: prudence concludes contingent singulars. Article 3 holds that practical and speculative habits can share a subject but always differ in object and in end. Article 4 concludes that some partial theologies are speculative (the Trinity, omnipotence, creation) and some practical (worship and love of God and neighbor). Total theology is practical, because all of Scripture is ordered, formally or virtually, to charity (Matthew 22, Paul, Augustine, Gregory the Great). Love of God in this life is a praxis in our power, distinct from the beatific love of heaven.",
+    "claims": [
+      "Praxis is any operation existing in human power, including acts of intellect and will.",
+      "Hatred of God and other vicious acts are praxes no less than virtuous acts.",
+      "Only complex cognition that formally directs how something is to be done is properly practical.",
+      "Incomplex cognitions and Trinitarian truths are not properly practical.",
+      "A habit is practical by its directiveness, not by its object's virtual content or by the knower's executive power.",
+      "A total habit that includes practical habits and speculative habits ordered to them is denominated practical.",
+      "Science never concludes singular contingent truths, whereas prudence does.",
+      "Practical and speculative habits can share a subject but always differ in object and proper end.",
+      "Some partial theologies are speculative and others practical.",
+      "Total theology is practical because all of Scripture is ordered to charity.",
+      "Love of God in this life is a praxis directed by theology; beatific love is not, if it is not in our power."
+    ],
+    "concepts": [
+      "practical vs. speculative theology",
+      "praxis",
+      "directive cognition",
+      "theoretical vs. practical medicine",
+      "Avicenna",
+      "critique of Scotus",
+      "executive power",
+      "prudence and art",
+      "charity as end of Scripture",
+      "love of God"
+    ],
+    "_metadata": {
+      "level": "div",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "grvnZZ-d1e174-d1e112",
+        "grvnZZ-d1e174-d1e184",
+        "grvnZZ-d1e174-d1e193",
+        "grvnZZ-d1e174-d1e203",
+        "grvnZZ-d1e174-d1e210",
+        "grvnZZ-d1e174-d1e249",
+        "grvnZZ-d1e174-d1e267",
+        "grvnZZ-d1e174-d1e272",
+        "grvnZZ-d1e174-d1e303",
+        "grvnZZ-d1e174-d1e313",
+        "grvnZZ-d1e174-d1e326",
+        "grvnZZ-d1e174-d1e344",
+        "grvnZZ-d1e174-d1e364",
+        "grvnZZ-d1e174-d1e371",
+        "grvnZZ-d1e174-d1e417",
+        "grvnZZ-d1e174-d1e431",
+        "grvnZZ-d1e174-d1e460",
+        "grvnZZ-d1e174-d1e473",
+        "grvnZZ-d1e174-d1e480",
+        "grvnZZ-d1e174-d1e502",
+        "grvnZZ-d1e174-d1e518",
+        "grvnZZ-d1e174-d1e530",
+        "grvnZZ-d1e174-d1e539",
+        "grvnZZ-d1e174-d1e546",
+        "grvnZZ-d1e174-d1e568",
+        "grvnZZ-d1e174-d1e590",
+        "grvnZZ-d1e174-d1e599",
+        "grvnZZ-d1e174-d1e618",
+        "grvnZZ-d1e174-d1e627",
+        "grvnZZ-d1e174-d1e645",
+        "grvnZZ-d1e174-d1e650",
+        "grvnZZ-d1e174-d1e663",
+        "grvnZZ-d1e174-d1e679",
+        "grvnZZ-d1e174-d1e706",
+        "grvnZZ-d1e174-d1e713",
+        "grvnZZ-d1e174-d1e735",
+        "grvnZZ-d1e174-d1e744",
+        "grvnZZ-d1e174-d1e755",
+        "grvnZZ-d1e174-d1e764",
+        "grvnZZ-d1e174-d1e770",
+        "grvnZZ-d1e174-d1e783",
+        "grvnZZ-d1e174-d1e792",
+        "grvnZZ-d1e174-d1e814",
+        "grvnZZ-d1e174-d1e840",
+        "grvnZZ-d1e174-d1e858",
+        "grvnZZ-d1e174-d1e881",
+        "grvnZZ-d1e174-d1e888",
+        "grvnZZ-d1e174-d1e901",
+        "grvnZZ-d1e174-d1e914",
+        "grvnZZ-d1e174-d1e999",
+        "grvnZZ-d1e174-d1e1015",
+        "grvnZZ-d1e174-d1e1027",
+        "grvnZZ-d1e174-d1e1047",
+        "grvnZZ-d1e174-d1e1060",
+        "grvnZZ-d1e174-d1e1097",
+        "grvnZZ-d1e174-d1e1117",
+        "grvnZZ-d1e174-d1e1128",
+        "grvnZZ-d1e174-d1e1142",
+        "grvnZZ-d1e174-d1e1190",
+        "grvnZZ-d1e174-d1e1223",
+        "grvnZZ-d1e174-d1e1236",
+        "grvnZZ-d1e174-d1e1267",
+        "grvnZZ-d1e174-d1e1317",
+        "grvnZZ-d1e174-d1e1446",
+        "grvnZZ-d1e174-d1e1466",
+        "grvnZZ-d1e174-d1e1499",
+        "grvnZZ-d1e174-d1e1515",
+        "grvnZZ-d1e174-d1e1548",
+        "grvnZZ-d1e174-d1e1592",
+        "grvnZZ-d1e174-d1e1609",
+        "grvnZZ-d1e174-d1e1638",
+        "grvnZZ-d1e174-d1e1667",
+        "grvnZZ-d1e174-d1e1702",
+        "grvnZZ-d1e174-d1e1733",
+        "grvnZZ-d1e174-d1e1772",
+        "grvnZZ-d1e174-d1e1791",
+        "grvnZZ-d1e174-d1e1820",
+        "grvnZZ-d1e174-d1e1859",
+        "grvnZZ-d1e174-d1e1877",
+        "grvnZZ-d1e174-d1e1893",
+        "grvnZZ-d1e174-d1e1917",
+        "grvnZZ-d1e174-d1e1927",
+        "grvnZZ-d1e174-d1e1940",
+        "grvnZZ-d1e174-d1e1962",
+        "grvnZZ-d1e174-d1e1978",
+        "grvnZZ-d1e174-d1e2033",
+        "grvnZZ-d1e174-d1e2040",
+        "grvnZZ-d1e174-d1e2067",
+        "grvnZZ-d1e174-d1e2093",
+        "grvnZZ-d1e174-d1e2115",
+        "grvnZZ-d1e174-d1e2133",
+        "grvnZZ-d1e174-d1e2205",
+        "grvnZZ-d1e174-d1e2225",
+        "grvnZZ-d1e174-d1e2252",
+        "grvnZZ-d1e174-d1e2274",
+        "grvnZZ-d1e174-d1e2296",
+        "grvnZZ-d1e174-d1e2376",
+        "grvnZZ-d1e174-d1e2424",
+        "grvnZZ-d1e174-d1e2450",
+        "grvnZZ-d1e174-d1e2467",
+        "grvnZZ-d1e174-d1e2489",
+        "grvnZZ-d1e174-d1e2513",
+        "grvnZZ-d1e174-d1e2526",
+        "grvnZZ-d1e174-d1e2555",
+        "grvnZZ-d1e174-d1e2566",
+        "grvnZZ-d1e174-d1e2622",
+        "grvnZZ-d1e174-d1e2638",
+        "grvnZZ-d1e174-d1e2654",
+        "grvnZZ-d1e174-d1e2676",
+        "grvnZZ-d1e174-d1e2748",
+        "grvnZZ-d1e174-d1e2759",
+        "grvnZZ-d1e174-d1e2828",
+        "grvnZZ-d1e174-d1e2850",
+        "grvnZZ-d1e174-d1e2872",
+        "grvnZZ-d1e174-d1e2883",
+        "grvnZZ-d1e174-d1e2903",
+        "grvnZZ-d1e174-d1e2949",
+        "grvnZZ-d1e174-d1e2972",
+        "grvnZZ-d1e174-d1e2979",
+        "grvnZZ-d1e174-d1e3008",
+        "grvnZZ-d1e174-d1e3019",
+        "grvnZZ-d1e174-d1e3026",
+        "grvnZZ-d1e174-d1e3037",
+        "grvnZZ-d1e174-d1e3049",
+        "grvnZZ-d1e174-d1e3054",
+        "grvnZZ-d1e174-d1e3063",
+        "grvnZZ-d1e174-d1e3085",
+        "grvnZZ-d1e174-d1e3092",
+        "grvnZZ-d1e174-d1e3101",
+        "grvnZZ-d1e174-d1e3113",
+        "grvnZZ-d1e174-d1e3124",
+        "grvnZZ-d1e174-d1e3146",
+        "grvnZZ-d1e174-d1e3151",
+        "grvnZZ-d1e174-d1e3192",
+        "grvnZZ-d1e174-d1e3203",
+        "grvnZZ-d1e174-d1e3209",
+        "grvnZZ-d1e174-d1e3225",
+        "grvnZZ-d1e174-d1e3230",
+        "grvnZZ-d1e174-d1e3241",
+        "grvnZZ-d1e174-d1e3263",
+        "grvnZZ-d1e174-d1e3274",
+        "grvnZZ-d1e174-d1e3278",
+        "grvnZZ-d1e174-d1e3296",
+        "grvnZZ-d1e174-d1e3312",
+        "grvnZZ-d1e174-d1e3319"
+      ]
+    }
+  }
+}

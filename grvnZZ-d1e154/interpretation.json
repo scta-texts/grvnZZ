@@ -1,0 +1,1747 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-01T10:01:23Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "45a389000ba97d7a39af64d67c91c4055664d13b",
+    "generation_method": "hierarchical"
+  },
+  "grvnZZ-d1e154-d1e112": {
+    "summary": "States question 4 of the prologue—whether God, as God (inquantum deus), is the subject of our theology—and opens the negative: God is not the subject of theology at all, because God is wholly simple and a simple thing cannot be a scientific subject, which must be partly known (confusedly) and partly unknown (sought distinctly), whereas the simple is either wholly known or wholly unknown (Metaphysics IX).",
+    "claims": [
+      "(Objection) A simple thing cannot be the subject of a science.",
+      "(Objection) A scientific subject must be partly known and partly unknown."
+    ],
+    "concepts": [
+      "subject of theology",
+      "divine simplicity",
+      "inquantum deus",
+      "confused vs. distinct cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e136": {
+    "summary": "Further negative arguments: Metaphysics VII says there is no question or teaching about simples, and no question means no science; and God is a singular, while no singular is a subject of science, lacking subjective parts whose properties are investigated, and there is no science of singulars.",
+    "claims": [
+      "(Objection) There is no inquiry about simples.",
+      "(Objection) There is no science of singulars."
+    ],
+    "concepts": [
+      "simplicity",
+      "singulars and science",
+      "subjective parts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e112"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e149": {
+    "summary": "Argument for the opposite: our theology and that of the blessed have the same object under the same aspect, and God as God is the subject of the blessed's knowledge ('we shall see him as he is', 1 John 3). Proof: our theology and our faith share a subject (Augustine, De Trinitate 13 and 14), and our faith and the vision of the blessed share a subject (1 Corinthians 13: now through a mirror, then face to face).",
+    "claims": [
+      "Theology and faith share the same subject.",
+      "Faith and beatific vision share the same subject.",
+      "Hence God as God is the subject of our theology."
+    ],
+    "concepts": [
+      "theology of the blessed",
+      "faith and vision",
+      "1 Corinthians 13:12",
+      "unity of object"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e112"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e201": {
+    "summary": "Divides the question into two articles: (1) what is the ratio (defining character) of the subject of a science as such; (2) the question itself. For article 1, reports a certain doctor's view (from his Lectura and Parisian lecture, evidently Scotus) that the ratio of the first subject is to contain first and virtually all the truths of the habit, or the knowledge of them.",
+    "claims": [
+      "(Reported) The first subject of a science virtually contains first all the truths of that science."
+    ],
+    "concepts": [
+      "primum subiectum",
+      "virtual containment",
+      "Scotist theory of science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e112"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e217": {
+    "summary": "First argument for the reported view: the first subject contains the immediate propositions (since the subject contains the predicate and the whole proposition's evidence), and these contain the conclusions; so the subject contains all truths of the science.",
+    "claims": [
+      "(Reported) The subject contains its predicate and thereby immediate propositions.",
+      "(Reported) Immediate propositions contain the conclusions."
+    ],
+    "concepts": [
+      "virtual containment",
+      "immediate propositions",
+      "transitivity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e201"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e230": {
+    "summary": "Second argument: 'primacy' here is taken from Posterior Analytics I's definition of universal as adequation; the object relates to the habit as cause to effect, and a cause is adequate only if it virtually contains the whole effect.",
+    "claims": [
+      "(Reported) The object is the adequate cause of the habit, so virtually contains it."
+    ],
+    "concepts": [
+      "adequation",
+      "object as cause of habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e201"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e241": {
+    "summary": "Third argument (from the Reportationes): in essentially ordered series there must be a first; the knowables of a science are essentially ordered (conclusions from principles, principles from terms, the predicate from the subject, which falls in its definition, since principles are per se in the second mode); so one arrives at a simple subject from whose cognition all of the science is known, which virtually contains it first.",
+    "claims": [
+      "(Reported) Knowables in a science form an essentially ordered series terminating in the subject."
+    ],
+    "concepts": [
+      "essential order",
+      "per se secundo modo",
+      "first subject"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e201"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e270": {
+    "summary": "The reported doctor explains 'to contain first virtually': not depending on another in containing, but others depending on it—so that, everything else per impossibile removed, it would still contain, and nothing else contains except through it.",
+    "claims": [
+      "(Reported) Primary virtual containment means independence in containing."
+    ],
+    "concepts": [
+      "primo virtualiter continere"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e201"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e283": {
+    "summary": "Gregory rejects the view and its motives. He first distinguishes two senses of 'subject' and 'property' (passio): mental terms of which one is predicable of the other in the second mode of per se predication (formally, if mental propositions are composed; only equivalently, if they are simple acts, as Gregory holds), or the things the terms stand for or signify.",
+    "claims": [
+      "'Subject' and 'passio' may denote mental terms or the things signified.",
+      "If mental propositions are simple, predication within them is only equivalent."
+    ],
+    "concepts": [
+      "subject and passio",
+      "mental terms",
+      "per se secundo modo",
+      "non-compositional mental propositions"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e201",
+        "grvnZZ-d1e97-d1e2895"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e321": {
+    "summary": "Announces six conclusions; first: taking subject and passio as things, not every subject of a science or principle virtually contains first its passio.",
+    "claims": [
+      "Not every subject (as thing) virtually contains its property."
+    ],
+    "concepts": [
+      "virtual containment",
+      "passio"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e283"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e328": {
+    "summary": "Second conclusion: the cognition of a subject does not thus virtually contain the cognition of its passio; and if subject and passio as mental terms are just incomplex cognitions of the things, this is equivalent to saying the subject-term does not contain the passio-term.",
+    "claims": [
+      "Cognition of a subject does not virtually contain cognition of its property."
+    ],
+    "concepts": [
+      "incomplex cognition",
+      "virtual containment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e321"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e341": {
+    "summary": "Third conclusion: the incomplex cognitions of subject and passio do not virtually contain first the principle, i.e., the immediate proposition that is evident cognition.",
+    "claims": [
+      "Incomplex cognitions of terms do not contain the evident principle."
+    ],
+    "concepts": [
+      "immediate proposition",
+      "evidence from terms"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e321"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e350": {
+    "summary": "Fourth conclusion: one true principle does not first virtually contain another, nor one premise the other.",
+    "claims": [
+      "Premises do not contain one another."
+    ],
+    "concepts": [
+      "independence of premises"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e321"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e355": {
+    "summary": "Fifth conclusion: the subject of a science does not virtually contain first all its truths; hence the doctor's ratio is not the ratio of the first subject. The sixth conclusion will state what the ratio is.",
+    "claims": [
+      "The subject of a science does not virtually contain all its truths.",
+      "The Scotist definition of first subject is false."
+    ],
+    "concepts": [
+      "ratio subiecti",
+      "virtual containment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e321"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e371": {
+    "summary": "First proof of conclusion 1: if every subject contained its passio, every passio would be a thing distinct from the subject, actual or potential, since the doctor's virtual containment is effective causal containment (object as cause of habit; his marginal gloss: a in memory can generate the species of b in intelligence).",
+    "claims": [
+      "The Scotist virtual containment is efficient causal containment.",
+      "What is causally contained is a thing distinct from its container."
+    ],
+    "concepts": [
+      "efficient causality",
+      "virtual containment",
+      "species in memory"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e321"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e407": {
+    "summary": "Disproves the consequent with Euclid's divisibility of a finite line: if divisibility were an actual thing in the line, God could separate it, yielding an indivisible line—a contradiction, since a line is per se a magnitude; if it were a merely possible division, the line would cause its own division, which is absurd.",
+    "claims": [
+      "Divisibility is not a thing distinct from the line.",
+      "Accidents separable by divine power cannot be essential properties."
+    ],
+    "concepts": [
+      "divisibility",
+      "divine power",
+      "separability of accidents",
+      "reification of properties"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e371"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e440": {
+    "summary": "Further: such a division would be received in the line before, after, or simultaneous with the line's being divided; not before (division without being divided) nor after (divided before having division, like being white before having whiteness).",
+    "claims": [
+      "Division cannot be a form received before or after being divided."
+    ],
+    "concepts": [
+      "reification",
+      "temporal analysis"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e407"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e460": {
+    "summary": "Nor simultaneous: either the whole division would be in each part or parts in parts, yielding that every part is divided or that something has division without being divided—absurd. The same holds for the angle.",
+    "claims": [
+      "Division conceived as a form leads to absurdity in all cases."
+    ],
+    "concepts": [
+      "reductio",
+      "parts and wholes"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e440"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e473": {
+    "summary": "Further examples: annihilability, a property of every creature, if an actual thing, could itself be annihilated, leaving the creature unannihilable; if a possible thing, the creature could cause it and so annihilate itself, being and not being. Likewise for all modal passiones. And God's properties (uncreated, incorruptible), predicated per se secundo modo, signify no thing distinct from God.",
+    "claims": [
+      "Modal properties like annihilability are not distinct things.",
+      "Divine per se properties signify no thing other than God."
+    ],
+    "concepts": [
+      "annihilability",
+      "modal properties",
+      "divine attributes",
+      "ontological parsimony"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e371"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e506": {
+    "summary": "Second proof: nothing virtually (causally) contained by another is in God; so not every subject as thing contains its passio as thing.",
+    "claims": [
+      "Nothing in God is caused by anything."
+    ],
+    "concepts": [
+      "divine aseity",
+      "virtual containment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e321"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e517": {
+    "summary": "Third proof: no creature first virtually contains anything, since nothing can exist or come to be without being at least partly caused immediately by God; yet many properties belong to creatures.",
+    "claims": [
+      "God immediately co-causes everything that exists or comes to be.",
+      "No creature is a first container of anything."
+    ],
+    "concepts": [
+      "divine concurrence",
+      "secondary causality"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e321"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e529": {
+    "summary": "Fourth proof, from Aristotle: sphericity is a demonstrable property of the heavens and stars, but even if distinct from them it is not virtually contained by the heaven, which for Aristotle is not its efficient cause, eternal things having no agent cause properly speaking.",
+    "claims": [
+      "For Aristotle, eternal things have no efficient cause.",
+      "Sphericity is not causally contained by the heavens."
+    ],
+    "concepts": [
+      "sphericity of the heavens",
+      "eternity",
+      "Aristotelian cosmology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e321"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e551": {
+    "summary": "Proof of conclusion 2: a cognition that virtually contains another contains every cognition causally required for it; but cognition of a subject does not contain all cognitions required for knowing its passio (informability of matter requires knowing form; beatifiability requires knowing beatitude; risibility requires knowing laughter). Generally no cognition of one created thing contains a cognition of another, whether intuitive or abstractive in any combination, since intuitive cognition of one thing cannot yield intuitive cognition of another, and distinct abstractive cognition presupposes intuitive cognition of the same thing.",
+    "claims": [
+      "No cognition of one created thing virtually contains cognition of another.",
+      "Distinct abstractive cognition presupposes intuitive cognition of the same thing.",
+      "Knowing many properties requires knowing other things they connote."
+    ],
+    "concepts": [
+      "intuitive vs. abstractive cognition",
+      "connotative properties",
+      "empiricism"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e328"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e616": {
+    "summary": "Confirms: no one would naturally have distinct cognition of risibility without perceiving or having perceived laughing; so cognition of man alone could never yield cognition of this property.",
+    "claims": [
+      "Cognition of risibility depends on perception of laughter."
+    ],
+    "concepts": [
+      "risibility",
+      "experience"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e551"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e632": {
+    "summary": "Further examples: a radiant body's power to heat and rhubarb's power to purge bile are immediately knowable properties, yet cognition of the radiant body or rhubarb does not contain cognition of heat or bile; however long one looked, one would not know these powers without separately perceiving heat and bile.",
+    "claims": [
+      "Causal powers are not known from cognition of the bearer alone."
+    ],
+    "concepts": [
+      "causal powers",
+      "rhubarb",
+      "empirical knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e551"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e665": {
+    "summary": "Ad hominem: if subject-cognition so contained passio-cognition, any property could be evidently known from cognition of its subject alone; but no intuition of the sun or a triangle yields that the sun heats or that a triangle's angles equal two right angles—the latter needs cognition of right and exterior angles as middle.",
+    "claims": [
+      "Geometrical properties require cognition of mediating terms beyond the subject."
+    ],
+    "concepts": [
+      "Euclid I.32",
+      "middle term",
+      "ad hominem"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e551"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e698": {
+    "summary": "Further: being conservable by God without a subject, perpetuable, annihilable are properties of a sensible corporeal accident, yet no intuitive cognition of it lets us evidently know them; but on the doctor's view subject-cognition contains all conclusions, as he grants.",
+    "claims": [
+      "Theological-modal properties of accidents are not evident from their intuition."
+    ],
+    "concepts": [
+      "separability of accidents",
+      "Eucharistic accidents",
+      "modal properties"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e551"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e721": {
+    "summary": "Proof of conclusion 3: many immediate principles of arts and sciences, taken through sense and experience (Metaphysics proem; Posterior Analytics II), are not known from distinct incomplex cognitions of subject and predicate—e.g., 'all rhubarb purges bile'. One can know rhubarb, bile, and purging without knowing this; even knowing singular instances, the universal requires another universal cognition not caused by the singulars, such as an induction principle that what belongs to one individual can belong to every individual of the same kind.",
+    "claims": [
+      "Some immediate principles are not known from their terms.",
+      "Universal experiential principles require an additional universal principle beyond singular observations."
+    ],
+    "concepts": [
+      "experience",
+      "induction",
+      "per se nota vs. immediate",
+      "uniformity principle"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e341"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e773": {
+    "summary": "Similarly for 'every luminous body causes a shadow behind an opaque body': one could see the sun and a shadow without knowing what caused it, and never know the universal, or even that this body causes this shadow, without further cognitions.",
+    "claims": [
+      "Causal principles require more than simple cognitions of the terms."
+    ],
+    "concepts": [
+      "shadow",
+      "causal knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e721"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e799": {
+    "summary": "Concludes that distinct incomplex cognitions of subject and predicate do not virtually contain first the complex cognition of the principle.",
+    "claims": [
+      "Term-cognitions do not contain principle-cognition."
+    ],
+    "concepts": [
+      "virtual containment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e721"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e806": {
+    "summary": "Proof of conclusion 4: in some demonstrations both premises are immediate, so neither principle contains the other—as the opponents themselves say immediate principles are known from their terms (though not universally true, since not every immediate proposition is per se nota).",
+    "claims": [
+      "In demonstrations with two immediate premises, neither contains the other.",
+      "Not every immediate proposition is per se nota."
+    ],
+    "concepts": [
+      "immediate premises",
+      "per se nota"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e350"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e822": {
+    "summary": "Second proof: in geometrical demonstrations both premises resolve into common notions or postulates, and neither into the other.",
+    "claims": [
+      "Geometrical premises resolve independently into axioms."
+    ],
+    "concepts": [
+      "common notions",
+      "postulates",
+      "Euclid"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e806"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e829": {
+    "summary": "Proof of conclusion 5: since the subject does not contain the immediate propositions (by conclusions 1–3), it does not contain the conclusion; otherwise either the premises contain it first (so not the subject) or their containment reduces to the subject (contradicting the premise). Moreover the same common notion contributes immediately to conclusions about different subjects, so it is contained by none of them.",
+    "claims": [
+      "The subject does not first contain the conclusions of its science.",
+      "Common notions serve conclusions about diverse subjects."
+    ],
+    "concepts": [
+      "virtual containment",
+      "common notions"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e355"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e887": {
+    "summary": "Second proof: if every subject contained all truths of its science, either it would contain cognition of every cause or effect used to demonstrate, or there would be no science through causes or effects; the latter is universally rejected, the former false since no created thing contains first the cognition of another—else knowing the sun incomplexly would suffice to know all it produces.",
+    "claims": [
+      "Cognition of a cause does not contain cognition of its effects, nor vice versa."
+    ],
+    "concepts": [
+      "demonstration through causes and effects"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e829"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e909": {
+    "summary": "Further: then one deaf from birth, knowing the causes of sounds, could have proper knowledge of sounds, and one lacking smell could know odors through touch of the primary qualities causing them (De sensu)—all false.",
+    "claims": [
+      "Sensory deprivation precludes proper cognition of the corresponding qualities."
+    ],
+    "concepts": [
+      "deafness",
+      "proper sensibles",
+      "empiricism"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e887"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e929": {
+    "summary": "Infers the falsity of another of the doctor's claims: that the ratio or concept under which something is the subject of a science virtually contains first all its truths—which he used to deny that God is the subject of theology under any common, attributal, or outward-relational ratio.",
+    "claims": [
+      "The ratio sub qua of a subject does not contain all truths of the science."
+    ],
+    "concepts": [
+      "ratio sub qua",
+      "attributal ratio",
+      "Scotus on theology's subject"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e829"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e953": {
+    "summary": "Counterexamples: the human body is the subject of medicine as healable or sickenable, yet the physician considers its composition of members and humours, which do not belong to it because it is healable but rather the reverse.",
+    "claims": [
+      "A science considers features prior to its subject's formal ratio."
+    ],
+    "concepts": [
+      "medicine",
+      "subject under a ratio"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e929"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e971": {
+    "summary": "Similarly, moral philosophy considers man as susceptible of virtue and vice, and so considers his free choice, which does not belong to him because he is susceptible of virtue but is prior.",
+    "claims": [
+      "Free will is prior to susceptibility to virtue."
+    ],
+    "concepts": [
+      "moral philosophy",
+      "free choice"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e953"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e982": {
+    "summary": "Similarly, the physicist considers the heaven as mobile in a certain motion and proves it a simple fifth essence, spherical, with an eternal separated mover—truths not first contained by the heaven as mobile, though inferred from it.",
+    "claims": [
+      "Inferred truths need not be contained in the subject's ratio."
+    ],
+    "concepts": [
+      "quintessence",
+      "celestial motion",
+      "unmoved mover"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e953"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e996": {
+    "summary": "Further: it would follow every science's subject is under its own quidditative ratio, which is false since many sciences consider the same things under different, posterior rationes (astronomy and physics of celestial bodies), while the quidditative ratio is one.",
+    "claims": [
+      "Sciences often consider subjects under non-quidditative rationes."
+    ],
+    "concepts": [
+      "quidditative ratio",
+      "astronomy vs. physics"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e929"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1012": {
+    "summary": "Further: every science would demonstrate a priori, since resolution would end in the subject's ratio as cause—universally rejected. Anticipates the reply that the doctor means containment of cognitions only, not of truths; but rejects it, citing the doctor's own claim that man is the subject of medicine because he contains the ratio of health (since health is such because the body is so complexioned).",
+    "claims": [
+      "The Scotist view implies all demonstration is a priori.",
+      "Scotus intends causal containment of truths, not merely of cognitions."
+    ],
+    "concepts": [
+      "a priori demonstration",
+      "resolution",
+      "textual evidence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e929"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1049": {
+    "summary": "Further textual evidence: the doctor rejects Christ as subject of theology because necessary Trinitarian truths cannot be first virtually contained in Christ, since they would be necessary even without the Incarnation.",
+    "claims": [
+      "Scotus speaks of containment of the truths themselves."
+    ],
+    "concepts": [
+      "Christ as subject of theology",
+      "Trinitarian truths",
+      "Incarnation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e1012"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1062": {
+    "summary": "Concludes the doctor speaks of containment of the known truth itself (what the cognition signifies), not only cognition. Turning to his own account of the ratio of the subject, Gregory distinguishes subject as term in a composite proposition versus what the term supposits for, and science as a single habit of one demonstrated conclusion versus a collection of such habits forming one total science (as in Q2).",
+    "claims": [
+      "Science may be a partial habit or a total collection of habits."
+    ],
+    "concepts": [
+      "partial vs. total science",
+      "subject as term vs. thing"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e1049",
+        "grvnZZ-d1e116-d1e331"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1095": {
+    "summary": "Sixth conclusion, first part: taking subject as thing and science as a single habit, the subject is that which is known through it to be such (e.g., the line known to be bisectable), and to be subject is just to be known to be such-and-such.",
+    "claims": [
+      "The subject of a partial science is what is known by it to be thus.",
+      "Being a subject consists in being known to be such."
+    ],
+    "concepts": [
+      "ratio subiecti",
+      "deflationary account of subject"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e1062"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1111": {
+    "summary": "Supports this from common opinion: all say the subject is that of which properties are known, which is what is known to be such.",
+    "claims": [
+      "Common usage identifies the subject as that whose properties are known."
+    ],
+    "concepts": [
+      "common opinion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e1095"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1119": {
+    "summary": "Further: when this alone is posited something is a subject, and when removed nothing is; so it is the ratio of subject.",
+    "claims": [
+      "Being known to be such is necessary and sufficient for being a subject."
+    ],
+    "concepts": [
+      "necessary and sufficient condition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e1095"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1126": {
+    "summary": "Taking subject as term: the subject is what is subjected in the mental conclusion that is evident cognition caused by premises (or equivalent, possibly caused directly by God)—assuming mental propositions are composed; then the subject is part of actual science (not the conclusion, premise, middle, or predicate). But if mental propositions are simple acts (as Gregory holds), such a science has no subject in this sense, only in the sense of the thing.",
+    "claims": [
+      "If mental propositions are composite, the subject-term is part of actual science.",
+      "If mental propositions are simple, science has a subject only as thing."
+    ],
+    "concepts": [
+      "mental composition",
+      "subject-term"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e1095",
+        "grvnZZ-d1e97-d1e2743"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1174": {
+    "summary": "For total science: it has as many subjects as conclusions, but when these are ordered (one being a principle, part, or property of another) the one to which others are ordered is the first subject by primacy of attribution (as the healable body in medicine); when unordered but sharing a common term whose properties are considered in one part and those of its species elsewhere (mobile body in physics, syllogism in logic), the common one is first by primacy of commonness or predication; sometimes both (syllogism, healable body). This explains how many partial sciences form one total science, whose unity arises from the unity of subject.",
+    "claims": [
+      "A total science has many subjects.",
+      "Its first subject is first by attribution, by commonness, or both.",
+      "The unity of a total science derives from such ordering of subjects."
+    ],
+    "concepts": [
+      "primacy of attribution",
+      "primacy of commonness",
+      "unity of science",
+      "analogy"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e1062",
+        "grvnZZ-d1e116-d1e331"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1289": {
+    "summary": "Confirms from Posterior Analytics I: one science is of one subject-genus, composed of firsts, with its parts (subjective or otherwise) and per se properties.",
+    "claims": [
+      "A science is unified by one subject-genus and its parts."
+    ],
+    "concepts": [
+      "unity of science",
+      "subject-genus"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e1174"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1300": {
+    "summary": "Replies to the opposing reasons: the first assumes falsely that the subject contains the immediate propositions and the predicate, at least if meant universally.",
+    "claims": [
+      "Not every subject contains its predicate or immediate propositions."
+    ],
+    "concepts": [
+      "virtual containment"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e217"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1313": {
+    "summary": "The second fails: it assumes the subject adequately contains the habit, but the habit is caused by conclusion-cognitions, which arise from premises the subject does not contain.",
+    "claims": [
+      "The subject is not the adequate cause of the scientific habit."
+    ],
+    "concepts": [
+      "causation of habits"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e230"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1325": {
+    "summary": "To the third: in essentially ordered series one stops at one total first or at several partial causes forming one total—as the doctor himself holds that intellect and object are co-partial immediate causes of intellection, neither reducible to the other.",
+    "claims": [
+      "Essential orders can terminate in several co-partial causes."
+    ],
+    "concepts": [
+      "partial causes",
+      "essential order",
+      "Scotus on intellection"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e241"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1343": {
+    "summary": "So here the order terminates in the premises as partial causes, neither virtually containing the other.",
+    "claims": [
+      "Premises are co-partial causes of the conclusion."
+    ],
+    "concepts": [
+      "partial causes",
+      "premises"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e1325"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1350": {
+    "summary": "The minor fails in four ways: not all truths of a total science are essentially ordered (Euclid I.1 and I.4 are independent); premises are not ordered to each other; not all immediate premises are known from terms (else all would be per se nota); and the predicate is not totally contained in the subject.",
+    "claims": [
+      "Truths of a total science are not all essentially ordered.",
+      "Not all immediate premises are known from their terms."
+    ],
+    "concepts": [
+      "Euclid I.1 and I.4",
+      "essential order",
+      "per se nota"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e241"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1398": {
+    "summary": "To the proof: concedes principles are per se secundo modo and the subject falls in the predicate's definition, but more than the subject does, so the subject does not totally contain the predicate. Then opens article 2: theology may be a single habit of one theological conclusion or a collection. In the first sense, God is subject of some theologies (where something is proved of God, e.g., God can do directly whatever he does through creatures) but not others (creatures are annihilable; an accident can exist without subject).",
+    "claims": [
+      "The predicate's definition includes more than the subject.",
+      "God is the subject only of partial theologies proving something of God."
+    ],
+    "concepts": [
+      "partial theology",
+      "divine omnipotence",
+      "annihilability"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e241",
+        "grvnZZ-d1e154-d1e1062"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1433": {
+    "summary": "For theology as a total collection, Gregory posits three conclusions following 'our doctor, brother Giles' (Giles of Rome): (1) God as God is the first subject of our theology; (2) not as God absolutely but contractedly; (3) by reason of this contraction, God may fittingly be called subject as glorifier.",
+    "claims": [
+      "God as God is the first subject of our theology.",
+      "God is subject contractedly, not absolutely.",
+      "God may be called subject as glorifier (Deus glorificator)."
+    ],
+    "concepts": [
+      "Deus inquantum glorificator",
+      "Giles of Rome",
+      "Augustinian school",
+      "contracted subject"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e1398"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1449": {
+    "summary": "Proof of conclusion 1: the first subject of a total theology is that to which other theological subjects are per se ordered while it is ordered to nothing else; God is such, since everything enters theological consideration only as God's effect manifesting his power, justice, mercy, providence, or as his precepts and teachings manifesting his will.",
+    "claims": [
+      "Everything considered in theology is considered by attribution to God."
+    ],
+    "concepts": [
+      "primacy of attribution",
+      "God as first subject"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e1433",
+        "grvnZZ-d1e154-d1e1174"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1479": {
+    "summary": "Confirms from Augustine (De civitate Dei) that Scripture contains only God's precepts, wonders, gifts, and benefits sought—all referred to God. Shows God is subject under the ratio of deity: some things are considered of God only as God (trinity, unity, immensity, omnipotence, perfection by essence); things about the persons (notional acts, properties) belong to them inasmuch as they are God (specificatively, not reduplicatively); and things about creatures ultimately refer to God as God.",
+    "claims": [
+      "God is the theological subject under the ratio of deity.",
+      "Personal properties pertain to the persons as God specificatively, not reduplicatively."
+    ],
+    "concepts": [
+      "ratio deitatis",
+      "specificative vs. reduplicative 'inquantum'",
+      "notional acts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e1449"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1533": {
+    "summary": "Proof of conclusion 2: if God were subject under the ratio of deity absolutely, God would be comprehensible by our theology, since a habit with a subject under a ratio absolutely must consider all that belongs to it under that ratio (as physics treats all that belongs to mobile body, metaphysics all that belongs to being as being). But no created cognition comprehends God.",
+    "claims": [
+      "A habit with an absolute subject-ratio considers everything belonging to it under that ratio.",
+      "No created cognition comprehends God."
+    ],
+    "concepts": [
+      "divine incomprehensibility",
+      "absolute vs. contracted subject"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e1433"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1566": {
+    "summary": "Further: considering some but not all such things shows the subject is contracted. If our theology had God absolutely as subject, it would comprehend him by faith; similarly, God is not absolutely the subject of the blessed's theology (else it would be comprehensive), and the faith of the wayfarer does not exceed the vision of heaven in scope—otherwise vision would not succeed faith fully and the partial would not be done away (1 Corinthians 13).",
+    "claims": [
+      "Even the blessed do not have God as absolute subject.",
+      "Faith does not exceed in scope what vision will see."
+    ],
+    "concepts": [
+      "comprehension",
+      "theology of the blessed",
+      "faith and vision"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e1533"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1601": {
+    "summary": "States this was Giles's intention: he argued theology would be infinite if it had God as subject absolutely, since infinite truths are knowable of God. Gregory, not holding it simply impossible for God to create an infinite (in species) cognition of himself, instead derives the conclusion from the impossibility of a created comprehension of God, which every believer holds.",
+    "claims": [
+      "Giles argued from the impossibility of an infinite theology.",
+      "A created cognition infinite in its species is not simply impossible.",
+      "A created comprehension of God is impossible."
+    ],
+    "concepts": [
+      "infinite created cognition",
+      "comprehension",
+      "Giles of Rome"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e1533"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1630": {
+    "summary": "Proof of conclusion 3: per Augustine (De Trinitate 14), theology considers what generates and nourishes saving faith leading to beatitude, so God is object of theology, faith, and heavenly vision under the same aspect; hence the contraction under which he is object of faith and theology is that under which he is object of the vision of glory, and may fittingly be named from it—God as glorifier or beatifier. Others may express the contraction differently so long as they admit it; Giles (Quodlibet III q.2) also does not intend God absolutely.",
+    "claims": [
+      "God is object of theology, faith, and vision under the same contracted aspect.",
+      "That contraction can be named 'glorifier' or 'beatifier'."
+    ],
+    "concepts": [
+      "Deus glorificator",
+      "beatific orientation of theology",
+      "Giles of Rome"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e1433",
+        "grvnZZ-d1e154-d1e149"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1661": {
+    "summary": "Introduces multiple objections against this view.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e1433"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1667": {
+    "summary": "The doctor whose view was rejected in article 1 (Scotus) argues in two ways, first positively: God is first subject under the ratio by which he virtually contains first the truths knowable of him, which is the ratio of the divine essence, prior to all quasi-properties.",
+    "claims": [
+      "(Objection) God is subject under the ratio of essence, which virtually contains all truths about him."
+    ],
+    "concepts": [
+      "ratio essentiae",
+      "virtual containment",
+      "Scotus on theology's subject"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e1661"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1693": {
+    "summary": "Second positive argument: God is object of the first possible science of himself under the same ratio as he is object of his own intellect, namely that under which he contains cognition of all knowables.",
+    "claims": [
+      "(Objection) God is object of any first science of himself under the same ratio as of his own intellect."
+    ],
+    "concepts": [
+      "theologia in se",
+      "divine self-knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e1667"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1704": {
+    "summary": "Second, negative way: the ratio under which something is first object exceeds in cognizability all knowables in the science; the ratio of glorifier does not, being a relation of reason (as directed outward), which cannot be more cognizable than any real being.",
+    "claims": [
+      "(Objection) 'Glorifier' is a relation of reason and cannot be the subject's ratio."
+    ],
+    "concepts": [
+      "relation of reason",
+      "relations ad extra",
+      "cognizability"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e1667"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1730": {
+    "summary": "Fourth objection: nothing under a contracted ratio can be subject of the first possible science of it, since by Metaphysics I a science considering under an absolute ratio is prior and more certain than one considering under a contracted ratio (arithmetic vs. geometry).",
+    "claims": [
+      "(Objection) Science under an absolute ratio is prior to one under a contracted ratio."
+    ],
+    "concepts": [
+      "certainty of sciences",
+      "abstraction",
+      "arithmetic vs. geometry"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e1704"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1746": {
+    "summary": "Fifth objection: nothing can be subject of the first science of it under a ratio that does not make a per se unity with it; contracted rationes would be accidents of God if really distinct; and if they belong contingently they ground no knowledge, if necessarily they are known through the subject's ratio and so are not first.",
+    "claims": [
+      "(Objection) Contracted rationes are either contingent or derivative, so not first."
+    ],
+    "concepts": [
+      "per se unity",
+      "accidental ratio",
+      "necessity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e1704"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1770": {
+    "summary": "Sixth objection (from others): by 'glorifier' one means either that by which God formally glorifies—just deity, conceding the absolute ratio—or the relation/denomination toward the glorified, and a mere denomination cannot be the subjective ratio of this science.",
+    "claims": [
+      "(Objection) 'Glorifier' either collapses into deity or is a mere denomination."
+    ],
+    "concepts": [
+      "denomination",
+      "dilemma"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e1661"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1789": {
+    "summary": "Seventh objection: God is not subject under a ratio under which the truths of theology do not belong to him; but the Trinity does not belong to God as glorifier, since he was triune before glorifying anyone.",
+    "claims": [
+      "(Objection) Trinitarian truths do not belong to God qua glorifier."
+    ],
+    "concepts": [
+      "Trinity",
+      "eternity vs. temporal relations"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e1661"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1802": {
+    "summary": "Eighth objection: the ratio of glorifier is attributed to the subject in theology ('God is glorifier', 'God is redeemer' are theological propositions), so it is not the subject's ratio.",
+    "claims": [
+      "(Objection) What is predicated of the subject is not its ratio."
+    ],
+    "concepts": [
+      "predicate vs. ratio subiecti"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e1661"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1811": {
+    "summary": "Ninth objection: the noblest habit should have the noblest subject under the noblest ratio; theology is noblest, and God under the ratio of deity is the noblest subject-ratio.",
+    "claims": [
+      "(Objection) Theology's nobility requires God under deity absolutely."
+    ],
+    "concepts": [
+      "nobility of sciences"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e1661"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1822": {
+    "summary": "Confirms: a habit exceeds another in nobility by dignity of object or certainty of demonstration (Averroes, De anima I); theology exceeds metaphysics not in certainty but in dignity of subject; since metaphysics in part has God as subject, theology must have him under the noblest ratio, deity.",
+    "claims": [
+      "(Objection) Theology surpasses metaphysics only by dignity of subject."
+    ],
+    "concepts": [
+      "theology vs. metaphysics",
+      "certainty",
+      "dignity of object"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e1811"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1844": {
+    "summary": "Tenth objection: no science proves its subjective ratio of its subject; theology proves God is glorifier; so glorifier is not its subjective ratio.",
+    "claims": [
+      "(Objection) A science does not prove its own subject-ratio."
+    ],
+    "concepts": [
+      "ratio subiecti"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e1661"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1851": {
+    "summary": "Reply to the first: the conclusion is not against Gregory—he grants God is subject under the ratio of deity, just not absolutely; and the argument rests on the false theory of virtual containment refuted in article 1.",
+    "claims": [
+      "God is subject under deity, but not absolutely."
+    ],
+    "concepts": [
+      "absolute vs. contracted"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e1667"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1870": {
+    "summary": "Further: even if the subject of a science properly speaking so contained its truths, it would not follow for theology, which is not science properly speaking and does not resolve into immediate propositions.",
+    "claims": [
+      "Theology is not science properly speaking and so escapes the doctor's model."
+    ],
+    "concepts": [
+      "theology not scientia",
+      "resolution"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e1851",
+        "grvnZZ-d1e97-d1e3767"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1886": {
+    "summary": "Reply to the second: the 'first possible science' is either God's self-knowledge—irrelevant—or the first among creatable sciences; then the major either means 'under the same ratio' loosely (conceded, not against Gregory) or 'absolutely, without contraction' as for God's own intellect (denied).",
+    "claims": [
+      "No creatable science has God as object absolutely as his own intellect does."
+    ],
+    "concepts": [
+      "divine vs. created science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e1693"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1910": {
+    "summary": "Reply to the third: the major, taken universally, is false—it would make every science's subject be under its quidditative and first ratio, refuted in article 1.",
+    "claims": [
+      "The subject-ratio need not be quidditative or most cognizable."
+    ],
+    "concepts": [
+      "quidditative ratio"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e1704",
+        "grvnZZ-d1e154-d1e996"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1921": {
+    "summary": "Further: even if granted for sciences proper, it need not hold for theology; and the argument wrongly imagines the contracted ratio as a special ratio added to deity (like attributal rationes). Gregory means deity itself, restricted as object to a determinate mode and range of knowable truths, since it is not objected to any created intellect according to every truth. That is why he prefers to say God is subject 'as God not absolutely but contractedly' rather than 'under a special ratio'.",
+    "claims": [
+      "The contraction is a restriction of deity as object, not an added ratio.",
+      "Deity is never objected to a created intellect according to all its truths."
+    ],
+    "concepts": [
+      "restriction of object",
+      "contracted ratio",
+      "terminological precision"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e1704"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1960": {
+    "summary": "Reply to the fourth: 'contraction' can mean an added less-common ratio (as genus is contracted by difference)—not meant here—or restriction of consideration excluding universal comprehension, which is meant. If the major concerns the simply first science, which is God's alone, it does not apply.",
+    "claims": [
+      "Contraction here means restriction, not addition of a differentia."
+    ],
+    "concepts": [
+      "two senses of contraction",
+      "genus and differentia"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e1730"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1978": {
+    "summary": "Completes the reply to the fourth (if the major concerns the first created science it is simply false) and replies to the fifth: it proceeds from the same false imagination of the contracted ratio; and if effective it would also prove that the ratio of goodness makes an accidental unity with deity—a view the arguer used this very argument to reject, and which he would not concede. (The transcription runs the replies together here.)",
+    "claims": [
+      "The fifth objection proves too much and rests on a misconception of contraction."
+    ],
+    "concepts": [
+      "ratio bonitatis",
+      "per accidens unity",
+      "ad hominem"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e1960",
+        "grvnZZ-d1e154-d1e1746"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e1999": {
+    "summary": "Reply to the sixth: by 'glorifier' Gregory means that by which God glorifies—deity itself—but restricted objectively to the degree or range of cognizability by which it glorifies and beatifies the created intellect.",
+    "claims": [
+      "'Glorifier' denotes deity restricted to the degree in which it beatifies creatures."
+    ],
+    "concepts": [
+      "Deus glorificator",
+      "objective restriction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e1770"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e2015": {
+    "summary": "Reply to the seventh: it proceeds from the same false imagination about the ratio of glorifier, like the third.",
+    "claims": [],
+    "concepts": [
+      "contracted ratio"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e1789"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e2020": {
+    "summary": "Reply to the eighth: likewise; moreover, by the same reasoning God would not be subject under the ratio of essence, since 'God exists' is a theological proposition (Hebrews 11: whoever approaches God must believe that he is)—contrary to the arguer.",
+    "claims": [
+      "Predicating a ratio of God in theology does not exclude it as the subject-ratio."
+    ],
+    "concepts": [
+      "Hebrews 11:6",
+      "parity argument"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e1802"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e2031": {
+    "summary": "Reply to the ninth: concedes God is subject under deity, but contractedly; otherwise he would not be objected more nobly to God's own science than to a created one. Despite contraction, God is objected more nobly to theology than to metaphysics or any human habit, which considers him with greater restriction, since none considers as many truths about God as theology. This answers the confirmation.",
+    "claims": [
+      "Theology is nobler than metaphysics because it considers more truths about God."
+    ],
+    "concepts": [
+      "nobility of theology",
+      "degrees of restriction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e1811",
+        "grvnZZ-d1e154-d1e1822"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e2057": {
+    "summary": "Reply to the tenth: it too falsely imagines the ratio of glorifier.",
+    "claims": [],
+    "concepts": [
+      "contracted ratio"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e1844"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e2064": {
+    "summary": "Reply to the principal argument: denies that God is not subject and holds a simple thing can be subject of science. The requirement that a subject be partly known and partly unknown holds of complex cognition (something can be known and something unknown about a simple thing); Aristotle's remark concerns definitional cognition, as Averroes shows—a simple thing lacks parts to be partly known.",
+    "claims": [
+      "A simple thing can be the subject of science.",
+      "Simple things can be partly known by complex cognition."
+    ],
+    "concepts": [
+      "divine simplicity",
+      "complex vs. definitional cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e112"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e2087": {
+    "summary": "To the second proof: Aristotle denies only the 'why' question seeking quiddity through formal, material, efficient, or final causes, which do not apply to simple substances; another mode of question remains, sufficient for science (Averroes concurs), and Aristotle and Averroes attempt many demonstrations about simple substances in Metaphysics XII.",
+    "claims": [
+      "Simples admit some mode of inquiry sufficient for science."
+    ],
+    "concepts": [
+      "quaestio propter quid",
+      "simple substances",
+      "Metaphysics XII"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e136"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e2122": {
+    "summary": "To the further proof: denies that no singular can be the subject of science.",
+    "claims": [
+      "A singular can be the subject of science."
+    ],
+    "concepts": [
+      "singulars and science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e136"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e2129": {
+    "summary": "A scientific subject need not have subjective parts; Aristotle means only that one science considers the subject and its parts, if it has them.",
+    "claims": [
+      "A subject need not have subjective parts."
+    ],
+    "concepts": [
+      "subjective parts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e2122"
+      ]
+    }
+  },
+  "grvnZZ-d1e154-d1e2138": {
+    "summary": "The dictum that there is no science of singulars concerns corporeal singulars, as the text shows; Aristotle does not deny, and would concede, science of incorporeal singulars, since he tries to demonstrate much about God.",
+    "claims": [
+      "The denial of science of singulars applies only to corporeal singulars."
+    ],
+    "concepts": [
+      "incorporeal singulars",
+      "philosophical theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e154-d1e2122"
+      ]
+    }
+  },
+  "grvnZZ-d1e154": {
+    "summary": "Question 4 asks whether God, as God, is the subject of our theology. Article 1 asks what makes something the subject of a science. Gregory rejects at length Scotus's account, on which the first subject virtually contains first all the truths of the science. He argues that properties are generally not distinct things causally contained in their subjects (divisibility, annihilability, divine attributes). He argues that cognition of a subject does not contain cognition of its properties, since intuitive and abstractive cognition of one created thing never yield cognition of another, and risibility, causal powers, and geometrical properties all need further cognitions. Many immediate principles are known only through experience together with a general inductive principle, not from their terms. Premises do not contain one another. So the subject does not contain the conclusions of its science. Gregory's own account is deflationary. For a partial science, the subject is simply what is known to be such-and-such. For a total science, the first subject is the one to which the other subjects are ordered by attribution, or the one common to them, or both; this ordering is what unifies the science. Article 2 holds that God is the subject of some partial theologies but not of others. Of total theology, Gregory holds with Giles of Rome that God as God is the first subject, by primacy of attribution and under the ratio of deity. He is the subject not absolutely but contractedly: deity is restricted, as object, to the range of truths by which it beatifies created intellects, since no created cognition can comprehend God. God may therefore be called the subject as glorifier. Gregory answers Scotist and other objections by clarifying that this contraction is a restriction of deity as object, not an added special ratio. He also holds against the opening arguments that a simple singular can be the subject of science.",
+    "claims": [
+      "The Scotist claim that a science's first subject virtually contains all its truths is false.",
+      "Properties such as divisibility and annihilability are not things distinct from their subjects.",
+      "No cognition of one created thing virtually contains cognition of another.",
+      "Many immediate principles are known through experience and induction, not from their terms.",
+      "The subject of a partial science is just what is known by it to be thus.",
+      "The first subject of a total science is first by attribution, by commonness, or both.",
+      "God as God is the first subject of total theology by primacy of attribution.",
+      "God is the subject of theology contractedly, not absolutely, because no created cognition comprehends God.",
+      "God may fittingly be called the subject of theology as glorifier (Deus glorificator).",
+      "A simple singular, such as God, can be the subject of science."
+    ],
+    "concepts": [
+      "subject of theology",
+      "virtual containment",
+      "primum subiectum",
+      "primacy of attribution vs. commonness",
+      "intuitive and abstractive cognition",
+      "induction",
+      "Deus inquantum glorificator",
+      "divine incomprehensibility",
+      "contracted ratio",
+      "critique of Scotus",
+      "Giles of Rome"
+    ],
+    "_metadata": {
+      "level": "div",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "grvnZZ-d1e154-d1e112",
+        "grvnZZ-d1e154-d1e136",
+        "grvnZZ-d1e154-d1e149",
+        "grvnZZ-d1e154-d1e201",
+        "grvnZZ-d1e154-d1e217",
+        "grvnZZ-d1e154-d1e230",
+        "grvnZZ-d1e154-d1e241",
+        "grvnZZ-d1e154-d1e270",
+        "grvnZZ-d1e154-d1e283",
+        "grvnZZ-d1e154-d1e321",
+        "grvnZZ-d1e154-d1e328",
+        "grvnZZ-d1e154-d1e341",
+        "grvnZZ-d1e154-d1e350",
+        "grvnZZ-d1e154-d1e355",
+        "grvnZZ-d1e154-d1e371",
+        "grvnZZ-d1e154-d1e407",
+        "grvnZZ-d1e154-d1e440",
+        "grvnZZ-d1e154-d1e460",
+        "grvnZZ-d1e154-d1e473",
+        "grvnZZ-d1e154-d1e506",
+        "grvnZZ-d1e154-d1e517",
+        "grvnZZ-d1e154-d1e529",
+        "grvnZZ-d1e154-d1e551",
+        "grvnZZ-d1e154-d1e616",
+        "grvnZZ-d1e154-d1e632",
+        "grvnZZ-d1e154-d1e665",
+        "grvnZZ-d1e154-d1e698",
+        "grvnZZ-d1e154-d1e721",
+        "grvnZZ-d1e154-d1e773",
+        "grvnZZ-d1e154-d1e799",
+        "grvnZZ-d1e154-d1e806",
+        "grvnZZ-d1e154-d1e822",
+        "grvnZZ-d1e154-d1e829",
+        "grvnZZ-d1e154-d1e887",
+        "grvnZZ-d1e154-d1e909",
+        "grvnZZ-d1e154-d1e929",
+        "grvnZZ-d1e154-d1e953",
+        "grvnZZ-d1e154-d1e971",
+        "grvnZZ-d1e154-d1e982",
+        "grvnZZ-d1e154-d1e996",
+        "grvnZZ-d1e154-d1e1012",
+        "grvnZZ-d1e154-d1e1049",
+        "grvnZZ-d1e154-d1e1062",
+        "grvnZZ-d1e154-d1e1095",
+        "grvnZZ-d1e154-d1e1111",
+        "grvnZZ-d1e154-d1e1119",
+        "grvnZZ-d1e154-d1e1126",
+        "grvnZZ-d1e154-d1e1174",
+        "grvnZZ-d1e154-d1e1289",
+        "grvnZZ-d1e154-d1e1300",
+        "grvnZZ-d1e154-d1e1313",
+        "grvnZZ-d1e154-d1e1325",
+        "grvnZZ-d1e154-d1e1343",
+        "grvnZZ-d1e154-d1e1350",
+        "grvnZZ-d1e154-d1e1398",
+        "grvnZZ-d1e154-d1e1433",
+        "grvnZZ-d1e154-d1e1449",
+        "grvnZZ-d1e154-d1e1479",
+        "grvnZZ-d1e154-d1e1533",
+        "grvnZZ-d1e154-d1e1566",
+        "grvnZZ-d1e154-d1e1601",
+        "grvnZZ-d1e154-d1e1630",
+        "grvnZZ-d1e154-d1e1661",
+        "grvnZZ-d1e154-d1e1667",
+        "grvnZZ-d1e154-d1e1693",
+        "grvnZZ-d1e154-d1e1704",
+        "grvnZZ-d1e154-d1e1730",
+        "grvnZZ-d1e154-d1e1746",
+        "grvnZZ-d1e154-d1e1770",
+        "grvnZZ-d1e154-d1e1789",
+        "grvnZZ-d1e154-d1e1802",
+        "grvnZZ-d1e154-d1e1811",
+        "grvnZZ-d1e154-d1e1822",
+        "grvnZZ-d1e154-d1e1844",
+        "grvnZZ-d1e154-d1e1851",
+        "grvnZZ-d1e154-d1e1870",
+        "grvnZZ-d1e154-d1e1886",
+        "grvnZZ-d1e154-d1e1910",
+        "grvnZZ-d1e154-d1e1921",
+        "grvnZZ-d1e154-d1e1960",
+        "grvnZZ-d1e154-d1e1978",
+        "grvnZZ-d1e154-d1e1999",
+        "grvnZZ-d1e154-d1e2015",
+        "grvnZZ-d1e154-d1e2020",
+        "grvnZZ-d1e154-d1e2031",
+        "grvnZZ-d1e154-d1e2057",
+        "grvnZZ-d1e154-d1e2064",
+        "grvnZZ-d1e154-d1e2087",
+        "grvnZZ-d1e154-d1e2122",
+        "grvnZZ-d1e154-d1e2129",
+        "grvnZZ-d1e154-d1e2138"
+      ]
+    }
+  }
+}

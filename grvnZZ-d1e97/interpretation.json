@@ -1,0 +1,3956 @@
+{
+  "_metadata": {
+    "schema_version": "1.0",
+    "generated_at": "2026-10-01T10:01:23Z",
+    "model": "claude-opus-5-5",
+    "prompt_version": "interpretation-v1",
+    "source_commit": "45a389000ba97d7a39af64d67c91c4055664d13b",
+    "generation_method": "hierarchical"
+  },
+  "grvnZZ-d1e97-d1e112": {
+    "summary": "Incipit of Gregory of Rimini's Lectura on Book I of the Sentences, followed by the statement of the first question of the prologue: whether, concerning the theological object, properly scientific knowledge is acquired through theological discourse (reasoning). The question frames the prologue's inquiry into the epistemic status of theology.",
+    "claims": [],
+    "concepts": [
+      "theological discourse",
+      "scientific knowledge (scientia)",
+      "theological object",
+      "prologue to the Sentences"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e143": {
+    "summary": "First argument for the affirmative: theological discourse yields a knowledge superior to faith, and the only cognition superior to faith is scientia (opinion being below faith, per Hugh of St Victor's definition of faith as certainty about absent things above opinion and below science). The antecedent is proved by noting that otherwise the believing theologian would reason to no cognitive gain.",
+    "claims": [
+      "Theological discourse produces a cognition superior to faith.",
+      "The only cognition superior to faith is scientia, since faith lies above opinion and below science.",
+      "Otherwise theological reasoning would be cognitively useless."
+    ],
+    "concepts": [
+      "faith",
+      "opinion",
+      "scientia",
+      "degrees of cognitive certainty",
+      "utility of theological reasoning"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e112"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e174": {
+    "summary": "Confirms the first affirmative argument: unless theological discourse yields higher knowledge, the learned theologian would know theological truths no better than the simple believer, contrary to Augustine's remark (De Trinitate 14) that many believers are strong in faith yet lack this scientia.",
+    "claims": [
+      "The learned theologian has greater knowledge of theological truths than the simple believer.",
+      "Augustine distinguishes a scientia which many faithful lack despite strong faith."
+    ],
+    "concepts": [
+      "learned theologian vs. simple believer",
+      "faith",
+      "scientia"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e143"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e192": {
+    "summary": "Second affirmative argument from Augustine's Contra epistolam fundamenti ('I profess the catholic faith and through it presume to arrive at certain knowledge'): granted faith, one can arrive at scientia of what is believed, and this happens only through theological exercise and proofs.",
+    "claims": [
+      "According to Augustine, faith can lead to certain knowledge of what is believed.",
+      "This passage from faith to knowledge occurs only through theological reasoning."
+    ],
+    "concepts": [
+      "fides quaerens intellectum",
+      "faith",
+      "certain knowledge",
+      "theological proof"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e112"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e208": {
+    "summary": "Third affirmative argument: Augustine (De Trinitate 14) says the Apostle properly calls 'scientia' that knowledge by which faith is aided for the pious and defended against the impious, a knowledge many believers lack. Since this scientia can only be theology acquired by theological discourse, the affirmative follows.",
+    "claims": [
+      "The Augustinian scientia that supports and defends faith is theology acquired by discursive reasoning.",
+      "Such theology is properly called scientia."
+    ],
+    "concepts": [
+      "scientia (Augustinian sense)",
+      "defense of faith",
+      "theology as discursive habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e174"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e250": {
+    "summary": "Argument for the opposite (sed contra): only demonstration, as the syllogism that makes one know, yields properly scientific knowledge; but no theological discourse is a demonstrative syllogism, since every such discourse has one or both premises held by faith.",
+    "claims": [
+      "Only demonstration produces properly scientific knowledge.",
+      "Theological discourse always proceeds from at least one believed premise.",
+      "Therefore theological discourse is not demonstrative and does not yield scientia."
+    ],
+    "concepts": [
+      "demonstration",
+      "syllogismus faciens scire",
+      "believed premises (credita)",
+      "theological discourse"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e112"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e260": {
+    "summary": "Divides the question into four articles: (1) what in general is the object of scientia acquired by demonstration, which will reveal what the theological object is; (2) what discourse is properly theological; (3) which acts and habits of the intellect are properly called scientia; (4) the principal question itself.",
+    "claims": [],
+    "concepts": [
+      "object of science",
+      "theological discourse",
+      "act and habit of intellect",
+      "divisio quaestionis"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e112"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e274": {
+    "summary": "Opens article 1 by reporting an opinion that distinguishes the subject of a science (the subject term of the conclusion) from its object (what is known and immediately terminates the act of knowing), and holds that the object is the known conclusion itself, of which the subject is only a part.",
+    "claims": [
+      "(Reported opinion) The object of scientia is the demonstrated conclusion.",
+      "(Reported opinion) The subject of a science is the subject of its conclusion and only a partial object."
+    ],
+    "concepts": [
+      "subject vs. object of science",
+      "conclusion as object",
+      "act of knowing"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e260"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e290": {
+    "summary": "First supporting reason for the reported opinion: only what is true is known, and only propositions are true; therefore only propositions, and specifically the conclusion, are known.",
+    "claims": [
+      "(Reported) Nothing is known except what is true.",
+      "(Reported) Only a proposition is true.",
+      "(Reported) Hence only the conclusion is known."
+    ],
+    "concepts": [
+      "truth-bearers",
+      "proposition",
+      "object of science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e274"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e298": {
+    "summary": "Second reason for the reported opinion: the object of scientia from a universal demonstration must be its conclusion, since it cannot be an extramental universal (there are none) nor any singular thing (no one singular triangle is privileged, and the knower does not actually cognize all singular triangles).",
+    "claims": [
+      "(Reported) There are no extramental universal things.",
+      "(Reported) No singular thing can be the object of universal demonstrative knowledge.",
+      "(Reported) Hence the conclusion itself is the object."
+    ],
+    "concepts": [
+      "universal demonstration",
+      "nominalism about universals",
+      "singular vs. universal",
+      "object of science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e274"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e335": {
+    "summary": "Third reason for the reported opinion: the object of knowing and of assent to what is known is the same, and assent is only to a complex judged to be true; hence the object of scientia is a proposition.",
+    "claims": [
+      "(Reported) The act of knowing and the act of assent share the same object.",
+      "(Reported) Only a proposition is the object of assent, since assenting is judging something to be true."
+    ],
+    "concepts": [
+      "assent",
+      "judgment",
+      "complexum",
+      "object of science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e274"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e348": {
+    "summary": "Confirms the third reason: if an extramental thing were the object of assent, it would equally be the object of dissent; then one demonstrating that God is eternal, who assents that God is eternal and dissents that God is not eternal, would simultaneously assent and dissent to the same object (God), which is impossible.",
+    "claims": [
+      "(Reported) If extramental things were objects of assent, the same thing would be object of simultaneous assent and dissent.",
+      "(Reported) Simultaneous assent and dissent to the same object is impossible."
+    ],
+    "concepts": [
+      "assent and dissent",
+      "extramental thing",
+      "reductio ad absurdum"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e335"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e366": {
+    "summary": "Further argument for the reported opinion: a self-evident proposition serving as a principle is the object of intellectual assent; by parity the demonstrated conclusion is the object of scientific assent and thus of scientia.",
+    "claims": [
+      "(Reported) A per se nota principle is the object of the assent of intellectus.",
+      "(Reported) By parity, the demonstrated conclusion is the object of scientific assent."
+    ],
+    "concepts": [
+      "per se nota proposition",
+      "intellectus principiorum",
+      "assent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e335"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e375": {
+    "summary": "Further argument for the reported opinion: if an extramental thing were the object of assent, mere apprehension of it would suffice to cause assent, making it superfluous to form a proposition through which assent is caused.",
+    "claims": [
+      "(Reported) If the thing itself were the object of assent, forming a proposition would be superfluous."
+    ],
+    "concepts": [
+      "apprehension",
+      "assent",
+      "role of the proposition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e335"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e384": {
+    "summary": "Fourth reason for the reported opinion: what is nothing at all cannot be the object of scientia or assent, but what a demonstrated conclusion signifies is often nothing (e.g., when one demonstrates that an infinite is impossible); hence the object must be the conclusion.",
+    "claims": [
+      "(Reported) What is altogether nothing is not an object of knowledge.",
+      "(Reported) Negative conclusions often signify nothing."
+    ],
+    "concepts": [
+      "non-being",
+      "negative demonstration",
+      "object of science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e274"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e396": {
+    "summary": "Fifth reason for the reported opinion, from Aristotle's Ethics VI: the knowable is the demonstrable, so what is known through demonstrative scientia is what is demonstrated, namely the conclusion alone.",
+    "claims": [
+      "(Reported) The scibile is the demonstrabile.",
+      "(Reported) Only the conclusion is demonstrated."
+    ],
+    "concepts": [
+      "scibile",
+      "demonstrabile",
+      "Aristotelian epistemology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e274"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e405": {
+    "summary": "Confirms the fifth reason by Aristotle's division that intellectus concerns principles and scientia concerns conclusions.",
+    "claims": [
+      "(Reported) Intellectus is of principles and scientia of conclusions."
+    ],
+    "concepts": [
+      "intellectus principiorum",
+      "scientia conclusionum"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e396"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e410": {
+    "summary": "Gregory rejects the reported opinion and announces three conclusions in response to article 1.",
+    "claims": [
+      "The opinion that the conclusion is the object of science is false."
+    ],
+    "concepts": [
+      "object of science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e274"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e417": {
+    "summary": "States Gregory's three conclusions: (1) the conclusion of a demonstration is not the object of demonstrative scientia; (2) neither is an extramental thing; (3) the total significate of the conclusion (significatum totale conclusionis) is the object. Applies this to theology: the object of theology acquired by theological discourse is the total significate of the theological conclusion, and similarly for theological principles.",
+    "claims": [
+      "The conclusion of a demonstration is not the object of scientia.",
+      "An extramental thing is not the object of scientia.",
+      "The total significate of the conclusion is the object of scientia.",
+      "The object of theology is the total significate of theological conclusions or principles."
+    ],
+    "concepts": [
+      "significatum totale conclusionis",
+      "complexe significabile",
+      "object of science",
+      "theological object"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e410"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e435": {
+    "summary": "Transitional rubric introducing the proof of the first conclusion (that the conclusion is not the object of scientia).",
+    "claims": [],
+    "concepts": [
+      "object of science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e417"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e438": {
+    "summary": "First proof of the first conclusion, from experience: if the conclusion were the object, everyone actually knowing by demonstration would actually apprehend the conclusion; but demonstrators usually do not reflect on the conclusion itself but fix their attention directly on what it signifies, yet still acquire scientia.",
+    "claims": [
+      "Demonstrators typically attend to what the conclusion signifies, not to the conclusion itself.",
+      "Scientia is acquired without reflexive apprehension of the conclusion."
+    ],
+    "concepts": [
+      "reflexive vs. direct cognition",
+      "experience",
+      "act of knowing"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e435"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e459": {
+    "summary": "Confirms the first proof by a dilemma: the conclusion would be apprehended either by simple apprehension or by judicative apprehension. Simple apprehension is not scientia, since scientia knows something to belong or not belong to something, which simple understanding does not do.",
+    "claims": [
+      "Simple apprehension of a conclusion is not scientia.",
+      "Scientia knows that something does or does not belong to something."
+    ],
+    "concepts": [
+      "simple apprehension",
+      "judicative apprehension",
+      "scientia"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e438"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e475": {
+    "summary": "Further argument against simple apprehension being the relevant scientia: simple apprehension of a conclusion is not caused per se by demonstration (one could apprehend the conclusion without premises), whereas the scientia in question is acquired only by demonstration.",
+    "claims": [
+      "Simple apprehension of the conclusion is not per se caused by demonstration.",
+      "Scientia in the strict sense is acquired only by demonstration."
+    ],
+    "concepts": [
+      "causation of knowledge",
+      "simple apprehension",
+      "demonstration"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e459"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e486": {
+    "summary": "Further argument: first principles, incomplex apprehensions, and even false propositions can be simply apprehended, yet none of these is known by scientia; so simple apprehension of a proposition is not the scientia in question.",
+    "claims": [
+      "Principles, incomplex apprehensions, and false propositions can be simply apprehended without being scientifically known."
+    ],
+    "concepts": [
+      "simple apprehension",
+      "first principles",
+      "false proposition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e459"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e506": {
+    "summary": "Addresses the second horn: if the conclusion is apprehended judicatively, this would be cognition that the conclusion is true or conforms to reality. But not every demonstrator has such knowledge: the geometer proving Euclid I.1 or the physician concluding a remedy does not consider that their conclusion is true, though they easily could.",
+    "claims": [
+      "Judicative apprehension of a conclusion would be knowledge that the conclusion is true.",
+      "Demonstrators typically do not consider the truth of their conclusion as such."
+    ],
+    "concepts": [
+      "judicative apprehension",
+      "truth of a proposition",
+      "first-order vs. second-order knowledge"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e459"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e532": {
+    "summary": "Distinguishes two knowings: knowing that the sides of a triangle are equal versus knowing that the proposition stating this is true. The first is properly the geometer's and is acquired by demonstration, so its object is not the conclusion.",
+    "claims": [
+      "Knowing that p differs from knowing that the proposition 'p' is true.",
+      "The geometer's demonstrative knowledge is of the first kind, whose object is not the conclusion."
+    ],
+    "concepts": [
+      "first-order vs. metalinguistic knowledge",
+      "object of science",
+      "geometry"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e506"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e545": {
+    "summary": "Argues that even for the second knowing (that the conclusion is true), the conclusion is not the total object: what is known is that the conclusion is true, so the relevant proposition would be 'this conclusion is true', of which the original conclusion is only a part.",
+    "claims": [
+      "Even in knowing a proposition's truth, the proposition itself is only a part of the object."
+    ],
+    "concepts": [
+      "total vs. partial object",
+      "truth-predication",
+      "metalinguistic proposition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e532"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e557": {
+    "summary": "Adds that this second-order proposition is not the conclusion of the demonstration that yields the first-order knowing; hence no demonstrative scientia has as its object the conclusion of the demonstration by which it is acquired.",
+    "claims": [
+      "No demonstrative scientia has as its object the conclusion of its own demonstration."
+    ],
+    "concepts": [
+      "object of science",
+      "demonstration"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e545"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e564": {
+    "summary": "Second principal proof of the first conclusion begins with a first supposition: that-things-are-so is not the same as the proposition stating it being true; following Aristotle's Postpraedicamenta (on priority), things being so is the cause of the proposition's truth, though the two convert.",
+    "claims": [
+      "Sic esse is not identical with the truth of the proposition enunciating it.",
+      "Things being so is prior to and the cause of the proposition's truth."
+    ],
+    "concepts": [
+      "sic esse",
+      "truth of propositions",
+      "priority",
+      "convertibility"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e417"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e580": {
+    "summary": "Adds two further suppositions—sic esse is not the proposition stating it (per Aristotle: what falls under affirmation and negation is not itself a statement), and a proposition is not identical with its being true (else apprehending it would be apprehending its truth, and propositions change truth-value)—and argues from them that the demonstration of Euclid's equilateral-triangle construction yields knowledge of precisely that state of affairs, not of the conclusion; knowing the conclusion's truth requires a further discourse and further scientia.",
+    "claims": [
+      "The significate of a proposition is not itself a proposition.",
+      "A proposition is not identical with its being true.",
+      "Demonstration yields knowledge of what the conclusion signifies; knowing that the conclusion is true requires another inference."
+    ],
+    "concepts": [
+      "significate of a proposition",
+      "sic esse",
+      "truth-value change",
+      "Euclid I.1"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e564"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e622": {
+    "summary": "Confirms: since sic esse and the proposition's being true are distinct, they are not known by the same act; what is known by demonstration is signified by the conclusion and not identical with it, and the argument generalizes to every demonstration.",
+    "claims": [
+      "Distinct objects (sic esse and the proposition's truth) are known by distinct acts.",
+      "The argument generalizes to all demonstrative knowledge."
+    ],
+    "concepts": [
+      "individuation of acts by objects",
+      "significate"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e580"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e638": {
+    "summary": "Further argument that the conclusion is the object of no scientia: it would have to be the object either of knowing sic esse or of knowing that the conclusion is true, but by the second and third suppositions it is the object of neither.",
+    "claims": [
+      "The conclusion of a demonstration is the object of neither the first-order nor the second-order knowing."
+    ],
+    "concepts": [
+      "object of science",
+      "disjunctive elimination"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e580"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e651": {
+    "summary": "First proof of the second conclusion (extramental things are not objects of scientia): if they were, many sciences would be of contingents, contrary to Aristotle (Ethics VI, Posterior Analytics I) that the knowable is necessary and eternal; every corruptible thing, and in truth everything besides God, is contingent, so physics, geometry, etc. could not be of necessaries.",
+    "claims": [
+      "Scientia in the proper sense is of what cannot be otherwise.",
+      "Everything other than God is contingent.",
+      "If extramental things were objects, sciences would concern contingents."
+    ],
+    "concepts": [
+      "necessity of the scibile",
+      "contingency of creatures",
+      "extramental thing",
+      "eternal truths"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e417"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e689": {
+    "summary": "Second proof of the second conclusion: if extramental things were the total object of scientia, they would equally be objects of opinion, faith, and error, so one could simultaneously know, opine, believe, and err about the same thing—e.g., knowing God is eternal, opining he alone moves the heavens, believing he is triune, erring that he is finite—which is absurd.",
+    "claims": [
+      "If things were objects of scientia, the same object would be known, opined, believed, and erred about simultaneously.",
+      "Such a combination of attitudes toward one object is absurd."
+    ],
+    "concepts": [
+      "propositional attitudes",
+      "faith",
+      "opinion",
+      "error",
+      "individuation of objects"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e651"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e709": {
+    "summary": "Third proof of the second conclusion: if a thing were the object of scientia it would be the object of scientific assent and of faith; it would follow that the believer believes the devil as firmly as God (since one firmly believes the devil is not omnipotent) and that one would simultaneously assent and dissent to the same thing—absurdities.",
+    "claims": [
+      "If things were objects of assent, believing truths about the devil would be believing the devil.",
+      "One would simultaneously assent and dissent to the same object."
+    ],
+    "concepts": [
+      "object of faith",
+      "assent and dissent",
+      "reductio"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e651",
+        "grvnZZ-d1e97-d1e348"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e727": {
+    "summary": "First proof of the third conclusion by elimination: the total object of scientia is either the conclusion, the whole demonstration, the extramental thing, the significates of all the demonstration's propositions, or the total significate of the conclusion; the first four are excluded, leaving the total significate of the conclusion.",
+    "claims": [
+      "The object of scientia is the total significate of the conclusion.",
+      "Not all propositions of a demonstration are cognized by the same act."
+    ],
+    "concepts": [
+      "significatum totale conclusionis",
+      "argument by elimination"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e417"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e745": {
+    "summary": "Second proof of the third conclusion: the object of scientia and of scientific assent is the same, and one who has a demonstration assents to what the conclusion signifies; likewise for assent of faith or opinion—the believer believes God to be omnipotent, i.e., the significate of 'God is omnipotent'.",
+    "claims": [
+      "The object of scientific assent is the significate of the conclusion.",
+      "The objects of faith and opinion are likewise propositional significates."
+    ],
+    "concepts": [
+      "assent",
+      "significate of a proposition",
+      "faith",
+      "complexe significabile"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e727"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e767": {
+    "summary": "Draws the theological application: the theological object is the total significate of a theological proposition.",
+    "claims": [
+      "The theological object is the total significate of a theological proposition."
+    ],
+    "concepts": [
+      "theological object",
+      "complexe significabile"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e417",
+        "grvnZZ-d1e97-d1e745"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e774": {
+    "summary": "First objection to Gregory's position: the total significate of a proposition is either something or nothing. If nothing, science has no object; if something, it is either a mental being (complex, contradicting the first conclusion) or extramental (contradicting the second).",
+    "claims": [
+      "(Objection) The total significate must be something or nothing, and either option leads to contradiction."
+    ],
+    "concepts": [
+      "ontological status of the complexe significabile",
+      "dilemma"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e417"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e786": {
+    "summary": "Continues the first objection: the arguments for the first conclusion also show the significate is not a complex or incomplex mental being; and if it is extramental, the second conclusion is contradicted.",
+    "claims": [
+      "(Objection) The significate is neither a mental being nor an extramental being consistently with Gregory's conclusions."
+    ],
+    "concepts": [
+      "mental vs. extramental being",
+      "complexe significabile"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e774"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e793": {
+    "summary": "Second objection: propositional significates cannot be eternal and necessary, since nothing besides God is necessary and these significates are not God; hence they cannot be objects of sciences.",
+    "claims": [
+      "(Objection) Only God is necessary.",
+      "(Objection) Propositional significates are not God, hence not necessary."
+    ],
+    "concepts": [
+      "necessity",
+      "eternal truths",
+      "complexe significabile"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e417"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e806": {
+    "summary": "Third objection, setting the third conclusion against the second: the significate of 'God exists' is God's existing (deum esse), which is knowable; but deum esse is nothing other than God (since God exists with everything else set aside), so some object of science is an extramental thing.",
+    "claims": [
+      "(Objection) Deum esse is identical with God.",
+      "(Objection) Hence an extramental thing is an object of science."
+    ],
+    "concepts": [
+      "deum esse",
+      "identity of significate and thing",
+      "God's existence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e417"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e819": {
+    "summary": "Reply to the first objection: 'aliquid', 'ens', and 'res' can be taken in three ways. In the first, broadest sense, anything signifiable complexly or incomplexly, truly or falsely, is a res; Aristotle so uses 'res' in the Postpraedicamenta for the total significates of propositions (e.g., a proposition is true because the man is white).",
+    "claims": [
+      "'Aliquid/ens/res' have three senses.",
+      "In the broadest sense, every signifiable—complex or incomplex, true or false—is a res.",
+      "Aristotle uses 'res' for the total significate of a proposition."
+    ],
+    "concepts": [
+      "senses of 'res'/'aliquid'",
+      "complexe significabile",
+      "truthmaker"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e774"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e856": {
+    "summary": "Second sense of 'aliquid/ens': whatever is signifiable truly (by a true enunciation), while what is signifiable only falsely is called non-being—Aristotle's ens ut verum in Metaphysics V and VI and Posterior Analytics I.",
+    "claims": [
+      "In the second sense, 'ens' covers whatever is signifiable by a true statement.",
+      "What is signifiable only falsely is non-being in this sense."
+    ],
+    "concepts": [
+      "ens ut verum",
+      "senses of being",
+      "truth and falsity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e819"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e876": {
+    "summary": "Third sense: 'aliquid/ens' signify an existing essence or entity; in this sense what does not exist is nothing (Augustine: what is not, is nothing).",
+    "claims": [
+      "In the third sense, only existing entities are 'something'."
+    ],
+    "concepts": [
+      "ens as existing entity",
+      "nihil"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e819"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e886": {
+    "summary": "Applies the distinction: the total significate is 'something' in the first and second senses but not in the third. Hominem esse animal is not a thing (entity), but is hominem esse substantiam animatam etc.",
+    "claims": [
+      "The total significate is something in the first two senses but not an entity in the third sense."
+    ],
+    "concepts": [
+      "complexe significabile",
+      "ontological status",
+      "senses of 'aliquid'"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e819",
+        "grvnZZ-d1e97-d1e876"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e897": {
+    "summary": "Concedes that in the third sense hominem esse animal is nothing and that 'nothing is the object of science', but denies the inference that science therefore has no object: its object is something that is not an entity.",
+    "claims": [
+      "In the third sense, the object of science is nothing (non ens).",
+      "It does not follow that science has no object."
+    ],
+    "concepts": [
+      "non ens",
+      "object of science",
+      "fallacy of equivocation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e886"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e921": {
+    "summary": "Reply to the second objection: sciences are said to be of necessary and eternal things not because their objects are necessary entities (none but God is) but because what is known cannot fail to be so—e.g., it is necessary and always was possible to construct an equilateral triangle on any line.",
+    "claims": [
+      "Sciences are of necessary things because their objects cannot fail to obtain, not because they are necessary entities.",
+      "No entity besides God is eternal and necessary."
+    ],
+    "concepts": [
+      "necessity de dicto",
+      "eternal truths",
+      "scibile"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e793"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e950": {
+    "summary": "Reply to the third objection: deum esse is not another entity than God, yet it is not God; it is no entity at all. The inference 'with everything else set aside God exists, so God is deum esse' is invalid, as shown by parallel counterexamples.",
+    "claims": [
+      "Deum esse is not another entity than God, yet is not God.",
+      "The inference from God's existing without anything else to God's being identical with deum esse is invalid."
+    ],
+    "concepts": [
+      "deum esse",
+      "identity",
+      "complexe significabile",
+      "counterexample"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e806"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e970": {
+    "summary": "Begins replies to the reasons of the rejected opinion. To the first, Gregory denies that only propositions are true: enunciables (adequate significates) are also called true or false, by extrinsic denomination from true or false enunciations—e.g., hominem non esse asinum is true even if no created enunciation existed.",
+    "claims": [
+      "Not only propositions but also their adequate significates are true or false.",
+      "Significates are called true by extrinsic denomination from actual or possible true enunciations."
+    ],
+    "concepts": [
+      "enuntiabile",
+      "truth-bearers",
+      "extrinsic denomination"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e290"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1003": {
+    "summary": "Offers a preferable account: enunciables can be called true by the uncreated truth, God's true judgment of them, following Augustine's Soliloquies and Anselm (De veritate, Monologion) that before the world existed it was true that it would be. This avoids the consequence that 'no creature exists' would be a false possible rather than a true possible.",
+    "claims": [
+      "Enunciables are true by denomination from uncreated truth.",
+      "It was true before creation that the world would exist.",
+      "The theory should allow 'no creature exists' to be a true possibility."
+    ],
+    "concepts": [
+      "uncreated truth",
+      "divine intellect",
+      "truth without creatures"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e970"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1033": {
+    "summary": "Raises the difficulty that there is no first falsity to denominate false enunciables; responds that perhaps none is called false, so that for contradictory enunciables it does not hold that if one is true the other is false, only that the other is not true—though among contradictory enunciations one is true and the other false.",
+    "claims": [
+      "Without a first falsity, enunciables might not be denominated false.",
+      "Contradictory enunciables need not be true and false respectively, only one true and the other not true."
+    ],
+    "concepts": [
+      "falsity",
+      "contradictories",
+      "uncreated truth"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1003"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1046": {
+    "summary": "Offers alternatives: the remaining contradictory could be called false because it is not signified by the sign of all truths; or a third account—an enunciable is true because things are so (if affirmative) or are not so (if negative). On any account, adequate significates are true, and sciences are of such truths as objects.",
+    "claims": [
+      "An enunciable is true because things are (or are not) as it states.",
+      "Adequate significates of propositions are true, and sciences concern them as objects."
+    ],
+    "concepts": [
+      "correspondence",
+      "enuntiabile",
+      "object of science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1033"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1070": {
+    "summary": "Reply to the second reason: denies the antecedent; the object is neither the conclusion nor an extramental thing but the adequate significate, which neither as a whole nor in its parts is a res in the sense of an existing entity.",
+    "claims": [
+      "The adequate significate of a conclusion is not an existing entity, nor composed of such."
+    ],
+    "concepts": [
+      "significatum adaequatum",
+      "res as existing entity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e298"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1081": {
+    "summary": "Reply to the third reason: denies that propositions are properly the objects of assent; we properly assent only to what is signifiable by a complex, and assent to a complex only because we assent to what it signifies, i.e., believe that things are so.",
+    "claims": [
+      "Assent is properly directed to what is signifiable by a complex.",
+      "Assent to a proposition is derivative from assent to its significate."
+    ],
+    "concepts": [
+      "assent",
+      "complexe significabile"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e335"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1092": {
+    "summary": "Notes that the confirmation of the third reason (about assent and dissent to an extramental thing) actually supports Gregory's second conclusion rather than opposing it.",
+    "claims": [
+      "The confirmation supports the claim that extramental things are not objects of science."
+    ],
+    "concepts": [
+      "assent and dissent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e348"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1097": {
+    "summary": "Reply to the argument from per se nota propositions: answered by the sense already given in which we are said to assent to a proposition (i.e., derivatively, via its significate).",
+    "claims": [
+      "Assent to a self-evident proposition is likewise assent to its significate."
+    ],
+    "concepts": [
+      "per se nota",
+      "assent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e366",
+        "grvnZZ-d1e97-d1e1081"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1105": {
+    "summary": "Reply to the argument that apprehension of the object would suffice for assent: where assent is or is caused by cognition of the object (intellect and science), that cognition is itself a mental proposition and no further proposition is needed, though one may precede (as in a learner); where assent is not caused by cognition of the object (faith), a proposition is required to indicate what is to be assented to.",
+    "claims": [
+      "In evident assent, the cognition of the object is itself a mental enunciation.",
+      "Assent of faith requires a proposition because it is not caused by cognition of its object."
+    ],
+    "concepts": [
+      "mental proposition",
+      "evident vs. non-evident assent",
+      "faith",
+      "learning by instruction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e375"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1136": {
+    "summary": "Replies to the remaining reasons: the fourth is answered by the first reply; the Aristotelian 'scibile = demonstrabile' means cognizable through demonstration, which is the conclusion's significate, not the conclusion; common usage calling conclusions known, believed, or opined means their significates are. Then opens article 2 by reporting a doctor's view that theology contains multiple processes, the first being a process to conclusions known or to be known, such as metaphysical theses about God's unity or infinity.",
+    "claims": [
+      "'Demonstrabile' means cognizable through demonstration.",
+      "Calling a conclusion 'known' means its significate is known.",
+      "(Reported) Theology includes processes toward demonstrable metaphysical conclusions about God."
+    ],
+    "concepts": [
+      "scibile",
+      "ordinary usage",
+      "processes of theology",
+      "metaphysics of God"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e384",
+        "grvnZZ-d1e97-d1e396",
+        "grvnZZ-d1e97-d1e260"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1165": {
+    "summary": "Continues the reported view: a second theological process proceeds to conclusions to be believed which the Church has not determined, e.g., whether the Holy Spirit would be distinct from the Son if not proceeding from him.",
+    "claims": [
+      "(Reported) A second process aims at undetermined conclusions to be believed."
+    ],
+    "concepts": [
+      "undetermined theological questions",
+      "Filioque",
+      "processes of theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1136"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1172": {
+    "summary": "Continues the reported view: a third process proceeds to conclusions already believed and determined by faith.",
+    "claims": [
+      "(Reported) A third process aims at conclusions determined by faith."
+    ],
+    "concepts": [
+      "determined articles of faith",
+      "processes of theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1136"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1177": {
+    "summary": "The reported view divides the second process into ways, the first proceeding from one believed and one necessary premise.",
+    "claims": [
+      "(Reported) One way proceeds from a believed and a necessary premise."
+    ],
+    "concepts": [
+      "mixed syllogism",
+      "credita",
+      "necessaria"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1165"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1184": {
+    "summary": "Second way of the second process: from two believed premises.",
+    "claims": [],
+    "concepts": [
+      "credita"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1177"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1188": {
+    "summary": "Third way of the second process: from one believed and one probable premise.",
+    "claims": [],
+    "concepts": [
+      "credita",
+      "probabilia"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1177"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1193": {
+    "summary": "Fourth way of the second process: from two probable premises.",
+    "claims": [],
+    "concepts": [
+      "probabilia"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1177"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1196": {
+    "summary": "Notes that a fifth way, from two necessary premises, would coincide with the first process, since proceeding from two necessary premises is scientific and makes one know.",
+    "claims": [
+      "(Reported) Reasoning from two necessary premises is scientific and belongs to the first process."
+    ],
+    "concepts": [
+      "demonstration",
+      "necessaria"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1177",
+        "grvnZZ-d1e97-d1e1136"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1212": {
+    "summary": "The reported view holds that the first process yields a metaphysical, not theological, habit, because all demonstrative knowledge of God belongs to metaphysics, per Averroes on Metaphysics VI (divine science concerns what has God in its definition).",
+    "claims": [
+      "(Reported) Demonstrative knowledge about God is metaphysical, not theological."
+    ],
+    "concepts": [
+      "metaphysics vs. theology",
+      "habitus",
+      "divine science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1136"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1225": {
+    "summary": "Second proof in the reported view: such a habit does not presuppose faith but would compel anyone's assent, whereas theology presupposes faith (Augustine, Contra ep. fundamenti; Isaiah 'unless you believe you will not understand').",
+    "claims": [
+      "(Reported) Theology presupposes faith.",
+      "(Reported) A demonstrative habit compels assent without faith and so is not theology."
+    ],
+    "concepts": [
+      "theology presupposes faith",
+      "compelled assent",
+      "credo ut intelligam"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1212"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1238": {
+    "summary": "The reported view argues that the second process does not yield theology in any of its ways: believed premises yield only faith, probable premises yield only opinion; but theology is neither faith (Augustine distinguishes it) nor opinion (opinion involves fear of the opposite, incompatible with faith, which theology presupposes).",
+    "claims": [
+      "(Reported) Reasoning from believed premises yields only faith.",
+      "(Reported) Reasoning from probable premises yields only opinion.",
+      "(Reported) Theology is neither faith nor opinion."
+    ],
+    "concepts": [
+      "faith",
+      "opinion",
+      "formido",
+      "theological habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1177",
+        "grvnZZ-d1e97-d1e1225"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1262": {
+    "summary": "The reported view concludes that the properly theological habit is acquired by the third process: proceeding toward a believed and determined proposition from probable premises taken from other sciences, by which doubts are resolved and terms explained.",
+    "claims": [
+      "(Reported) The proper theological habit arises from explaining and defending determined articles of faith using probable premises from other sciences."
+    ],
+    "concepts": [
+      "theological habit",
+      "explication of terms",
+      "resolution of doubts",
+      "auxiliary sciences"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1172",
+        "grvnZZ-d1e97-d1e1238"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1273": {
+    "summary": "Summarizes the reported opinion: properly theological discourse proceeds from probable premises (or at least one) to conclusions believed and already determined by faith.",
+    "claims": [
+      "(Reported) Theological discourse proceeds from probable premises to determined articles of faith."
+    ],
+    "concepts": [
+      "theological discourse",
+      "probable premises",
+      "determined articles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1262"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1282": {
+    "summary": "Announces two corollaries following from the reported opinion.",
+    "claims": [],
+    "concepts": [
+      "corollaries"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1273"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1287": {
+    "summary": "First corollary of the reported opinion: the principles of theology are only propositions probable in the natural light.",
+    "claims": [
+      "(Reported) Theological principles are propositions probable by natural reason."
+    ],
+    "concepts": [
+      "principles of theology",
+      "natural light",
+      "probability"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1282"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1292": {
+    "summary": "Second corollary of the reported opinion: properly theological conclusions are only believed propositions already determined as to be held by faith, such as the articles of faith.",
+    "claims": [
+      "(Reported) Theological conclusions are exclusively determined articles of faith."
+    ],
+    "concepts": [
+      "theological conclusions",
+      "articles of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1282"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1299": {
+    "summary": "Gregory judges each element of the reported opinion false and announces three contrary conclusions, the first being that no properly theological discourse proceeds from merely probable premises (probable as opposed to self-evident and to believed).",
+    "claims": [
+      "No properly theological discourse proceeds from merely probable propositions."
+    ],
+    "concepts": [
+      "theological discourse",
+      "probable vs. per se nota vs. credita"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1273",
+        "grvnZZ-d1e97-d1e1287",
+        "grvnZZ-d1e97-d1e1292"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1313": {
+    "summary": "Gregory's second counter-conclusion: probable propositions are not the principles of theology properly understood.",
+    "claims": [
+      "Probable propositions are not principles of theology."
+    ],
+    "concepts": [
+      "principles of theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1299"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1318": {
+    "summary": "Gregory's third counter-conclusion: properly theological conclusions are not limited to propositions believed and already determined by the Church.",
+    "claims": [
+      "Theological conclusions include more than determined articles of faith."
+    ],
+    "concepts": [
+      "theological conclusions",
+      "ecclesiastical determination"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1299"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1323": {
+    "summary": "First proof of the first counter-conclusion, turning the opponent's own premises against him: discourse naturally apt to cause only opinion is not theological, since theology on his own view is not opinion and is incompatible with it; but by his own account reasoning from probable premises yields only opinion.",
+    "claims": [
+      "Theological discourse is apt to cause theology, which is not opinion.",
+      "On the opponent's own view, reasoning from probable premises yields only opinion."
+    ],
+    "concepts": [
+      "ad hominem argument",
+      "opinion",
+      "theological habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1299",
+        "grvnZZ-d1e97-d1e1238"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1343": {
+    "summary": "Second proof: the opponent denies that discourse from evident necessary premises is theological because its habit does not presuppose faith; but opinion, the product of probable reasoning, likewise does not presuppose faith and is even incompatible with it; so by parity probable reasoning is not theological.",
+    "claims": [
+      "By the opponent's own criterion (presupposing faith), probable reasoning is no more theological than demonstrative reasoning."
+    ],
+    "concepts": [
+      "presupposition of faith",
+      "opinion",
+      "parity argument"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1225",
+        "grvnZZ-d1e97-d1e1323"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1361": {
+    "summary": "Third proof: discourse and the habit eliciting it are of the same kind; a pagan philosopher lacking faith (and so theology) can reason from probable premises to a conclusion we believe (e.g., that all things are made by God) and form a habit of so reasoning; such discourse is elicited by a non-theological habit, so no discourse from probable premises to a believed conclusion is theological.",
+    "claims": [
+      "A discourse has the same character as the habit through which it is elicited.",
+      "A pagan without faith can reason probably to conclusions Christians believe.",
+      "Hence probable reasoning to believed conclusions is not theological."
+    ],
+    "concepts": [
+      "habit and act",
+      "pagan philosopher",
+      "creation",
+      "univocity of discourse and habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1299"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1409": {
+    "summary": "Anticipates the reply that the pagan does not reason to a conclusion he himself believes, which is what the opponent requires.",
+    "claims": [
+      "(Objection) The pagan's conclusion is not believed by him, so his discourse falls outside the opponent's definition."
+    ],
+    "concepts": [
+      "believed conclusion",
+      "first-person belief"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1361"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1417": {
+    "summary": "Rebuts the reply: suppose the pagan becomes a Christian and believes the conclusion he previously opined, without studying theology; he will reason the same way with equal facility toward a now-believed conclusion, yet will not have theology—unless one frivolously holds that the supervening faith turned his old habit into theology.",
+    "claims": [
+      "Conversion does not transform a prior non-theological habit into theology."
+    ],
+    "concepts": [
+      "conversion",
+      "habit",
+      "theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1409"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1430": {
+    "summary": "Concludes by parity that a Christian theologian who frequents such probable discourses before having theology acquires not theology but some other habit obtainable even without theology.",
+    "claims": [
+      "Probable discourses frequented by a Christian generate a non-theological habit."
+    ],
+    "concepts": [
+      "habit formation",
+      "theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1417"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1439": {
+    "summary": "Fourth proof: by the opponent's own admission, discourse from probable premises to a not-yet-determined conclusion is not theological; but once the Church determines it, the same discourse via the same habit proceeds to a believed conclusion, and no sane person would say ecclesiastical determination turns an opinion-habit into theology.",
+    "claims": [
+      "Ecclesiastical determination of a conclusion does not change the character of the habit reasoning to it."
+    ],
+    "concepts": [
+      "ecclesiastical determination",
+      "habit",
+      "theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1165",
+        "grvnZZ-d1e97-d1e1299"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1461": {
+    "summary": "Fifth proof: if theological discourse proceeded from naturally probable premises, theological truth could be proved theologically to one who denies Scripture, since the probable premises would remain; this is false according to Pseudo-Dionysius (Divine Names), who says that to one who rejects the divine oracles no guidance to theological science is possible, whereas with one who accepts Scripture we proceed using it as canon and light.",
+    "claims": [
+      "Theological truth cannot be theologically proved to one who rejects Scripture.",
+      "Scripture functions as the canon and light of theological reasoning."
+    ],
+    "concepts": [
+      "authority of Scripture",
+      "canon",
+      "manuductio",
+      "theological science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1299"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1503": {
+    "summary": "Draws the consequence of the Dionysian text: according to Dionysius, the truth that the opponent considers most properly theological cannot be theologically proved to one not assenting to the sacred canon, and the same holds for other theological truths.",
+    "claims": [
+      "Theological proof presupposes assent to the sacred canon."
+    ],
+    "concepts": [
+      "sacred canon",
+      "theological proof"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1461"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1512": {
+    "summary": "First proof of the second counter-conclusion from the first: if probable propositions were the principles of theology, discourse from them to theological conclusions would be properly theological, which has been disproved.",
+    "claims": [
+      "Probable propositions are not theological principles, since discourse from them is not theological."
+    ],
+    "concepts": [
+      "principles of theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1313",
+        "grvnZZ-d1e97-d1e1323"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1522": {
+    "summary": "Second proof: otherwise theology would be subalternated to other human habits—indeed to opinions—from which it would take its principles, which unduly derogates from its dignity.",
+    "claims": [
+      "Theology would be subalternated to opinions if its principles were probable propositions.",
+      "This is incompatible with theology's dignity."
+    ],
+    "concepts": [
+      "subalternation",
+      "dignity of theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1313"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1531": {
+    "summary": "Proof of the third counter-conclusion: every conclusion following from truly theological propositions is theological (principles and conclusions being of the same kind); many conclusions not determined by the Church follow from Scripture—e.g., that the Holy Spirit proceeds from the Father and the Son followed from Scripture even before its determination.",
+    "claims": [
+      "Conclusions following from truly theological propositions are theological.",
+      "Many undetermined conclusions follow from Scripture.",
+      "The Filioque followed from Scripture before it was defined."
+    ],
+    "concepts": [
+      "homogeneity of principles and conclusions",
+      "Filioque",
+      "ecclesiastical determination"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1318"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1549": {
+    "summary": "Confirms that the Church determined the Filioque precisely because it saw that it followed necessarily from Scripture.",
+    "claims": [
+      "Ecclesiastical definitions are grounded in necessary consequence from Scripture."
+    ],
+    "concepts": [
+      "ecclesiastical determination",
+      "Scripture"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1531"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1556": {
+    "summary": "Gregory's own answer to article 2: properly theological discourse consists of propositions contained in Scripture, or deduced from them, or at least has one premise of this kind. Proved from Dionysius: since there is no guidance to theological science for one who rejects Scripture, and theological discourse just is the discourse generating theological science, no discourse not proceeding from Scripture is theological.",
+    "claims": [
+      "Properly theological discourse proceeds from Scripture or from what is deduced from Scripture.",
+      "Discourse not grounded in Scripture is not theological."
+    ],
+    "concepts": [
+      "theological discourse",
+      "sola Scriptura as principle",
+      "Pseudo-Dionysius"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1461",
+        "grvnZZ-d1e97-d1e260"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1598": {
+    "summary": "Confirms the thesis from another part of the Dionysian passage, where Scripture is called the canon and light used in responding to one who attends to the truth of the oracles.",
+    "claims": [
+      "Scripture is the canon and light of theological response."
+    ],
+    "concepts": [
+      "canon and light",
+      "Pseudo-Dionysius"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1556"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1609": {
+    "summary": "Second proof from common conception: everyone thinks something is proved theologically only when proved from Scripture. E.g., proving God's eternity from the eternity of motion (Aristotle) versus from 'In the beginning was the Word' (Augustine), or God's immutability from physics versus from 'I am who am' and 1 Timothy—all would call only the scriptural proofs theological.",
+    "claims": [
+      "Common judgment counts only proofs from Scripture as theological.",
+      "Proofs from premises of human sciences are not theological even when concluding to the same truth."
+    ],
+    "concepts": [
+      "common conception",
+      "philosophical vs. theological proof",
+      "divine eternity",
+      "divine immutability"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1556"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1651": {
+    "summary": "Third proof: the opponent's own examples (Augustine's De Trinitate on the Trinity, Contra Faustum on the virgin birth) proceed from scriptural authorities, not probable propositions; Augustine says Catholic writers teach the Trinity 'according to the Scriptures', and Lombard's 'shields of the tower of David' are scriptural authorities. Gregory concludes that the principles of theology are the truths of the sacred canon, to which all theological discourse is ultimately resolved, and theological conclusions are all truths not formally contained in Scripture but following necessarily from it—whether articles, scientifically knowable, or determined, or not. Truths not following from Scripture are not theological, as Augustine's restriction of this scientia to what generates, nourishes, defends, and strengthens saving faith shows, since Scripture suffices for salvation (De doctrina christiana II).",
+    "claims": [
+      "Augustine's theological proofs proceed from Scripture, not from probable premises.",
+      "The principles of theology are the truths of the sacred canon.",
+      "Theological conclusions are truths necessarily following from Scripture, whether or not determined or otherwise knowable.",
+      "Truths not following from Scripture are not theological conclusions.",
+      "Scripture suffices for salvation and the defense of faith."
+    ],
+    "concepts": [
+      "principles of theology",
+      "theological conclusions",
+      "sufficiency of Scripture",
+      "resolutio",
+      "shields of David's tower"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1556",
+        "grvnZZ-d1e97-d1e208"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1778": {
+    "summary": "First objection to Gregory's account of theological principles: principles (Topics I) are credible through themselves, not through others; but scriptural authorities are credible through something else, the Church's authority, as Augustine says ('I would not believe the Gospel unless the authority of the Catholic Church moved me').",
+    "claims": [
+      "(Objection) Principles are credible per se.",
+      "(Objection) Scripture is believed through the authority of the Church."
+    ],
+    "concepts": [
+      "principle",
+      "authority of the Church",
+      "credibility of Scripture"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1651"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1796": {
+    "summary": "Second objection, from the opponent's arguments that articles are not theological principles: no science concludes to its own first principles, but theology proceeds to conclude articles and other expressly scriptural truths, as doctors raise questions such as whether God is one or omnipotent.",
+    "claims": [
+      "(Objection) No science concludes its own first principles.",
+      "(Objection) Theologians argue toward articles contained in Scripture."
+    ],
+    "concepts": [
+      "first principles",
+      "articles of faith",
+      "scholastic questions"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1651"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1822": {
+    "summary": "Third objection: according to Augustine, the aim of the theological habit is to generate, defend, and strengthen faith, which it could not do unless it proceeded to articles as conclusions.",
+    "claims": [
+      "(Objection) Theology's purpose requires concluding to articles of faith."
+    ],
+    "concepts": [
+      "purpose of theology",
+      "defense of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1651"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1840": {
+    "summary": "Fourth objection: as noted in the reported opinion, Gregory's view would make theology either faith or opinion, both false.",
+    "claims": [
+      "(Objection) Theology would collapse into faith or opinion."
+    ],
+    "concepts": [
+      "faith",
+      "opinion",
+      "theology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1238"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1847": {
+    "summary": "Reply to the first objection: 'principles are not believed through others' does not mean nothing else causes assent to them (experiential principles are caused by experience) but that they are not believed through prior principles from which they are demonstrated. In that sense Augustine's dictum is no counterexample: the Church's authority moved him to believe the Gospel as a cause, not as a premise from which it was demonstrated—like believing because of Christ's miracles.",
+    "claims": [
+      "Principles are not believed through prior premises, though their assent may have other causes.",
+      "The Church's authority is a motive cause of faith in Scripture, not a premise."
+    ],
+    "concepts": [
+      "cause vs. premise of assent",
+      "experience",
+      "authority of the Church",
+      "motive of credibility"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1778"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1893": {
+    "summary": "Anticipated rejoinder: one can syllogize 'whatever the Church commands to be believed is to be believed; the Church commands the Gospel to be believed; so the Gospel is true', and likewise for every part of Scripture.",
+    "claims": [
+      "(Objection) Scripture's truth can be concluded from the Church's authority as a premise."
+    ],
+    "concepts": [
+      "ecclesial authority as premise"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1847"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1904": {
+    "summary": "Response: even if Augustine could have believed the Gospel from such a principle, his words do not entail it; and even granting it, that principle would not be a per se principle of theology to which theological assent is ultimately reduced, as two arguments show.",
+    "claims": [
+      "The ecclesial-authority principle is not a per se principle of theology."
+    ],
+    "concepts": [
+      "per se principle",
+      "reduction of assent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1893"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1917": {
+    "summary": "First argument: Augustine's theological discourse is of the same kind as that of the first theologians with Christ (the apostles), who did not take 'whatever the Church commands' as a principle but would rather have held it as a theological conclusion deducible from Christ's teaching.",
+    "claims": [
+      "The apostles' theology did not rest on the principle of ecclesial authority.",
+      "That principle is itself a theological conclusion derived from Christ's teaching."
+    ],
+    "concepts": [
+      "apostolic theology",
+      "ecclesial authority",
+      "theological conclusion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1904"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1946": {
+    "summary": "Second argument: if the ecclesial-authority principle were a per se theological principle, every article could be concluded theologically by a simple syllogism from it; but such a conclusion is not theological unless the major is itself derived from Scripture—otherwise any newly baptized adult who never read Scripture would be a theologian, which no wise person would say.",
+    "claims": [
+      "Syllogizing articles from ecclesial authority is not theological unless that authority is derived from Scripture.",
+      "Theology requires knowledge of Scripture."
+    ],
+    "concepts": [
+      "theologian vs. believer",
+      "ecclesial authority",
+      "study of Scripture"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1904"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1975": {
+    "summary": "Reply to the second objection: concedes that no science concludes its first principles (simply speaking, though elenctic proof is possible), but denies the minor regarding articles formally contained in Scripture: if a theologian is denied that God is one or omnipotent, no proof remains except showing it is written in the canon.",
+    "claims": [
+      "Articles formally contained in Scripture are not theologically concluded but shown from the text."
+    ],
+    "concepts": [
+      "first principles",
+      "elenctic proof",
+      "scriptural articles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1796"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e1988": {
+    "summary": "Continues the reply: articles not formally contained in Scripture are theologically proved from Scripture; when doctors argue about articles from non-scriptural premises they do so through physics, metaphysics, or another habit, not theology—a pure physicist ignorant of the Bible could produce similar or stronger arguments without having theology.",
+    "claims": [
+      "Non-scriptural arguments about articles proceed through philosophical habits, not theology."
+    ],
+    "concepts": [
+      "theology vs. philosophy",
+      "habits of the theologian"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1975"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e2009": {
+    "summary": "Confirms this from the opponent himself: he holds no discourse from evident necessary premises is theological, yet doctors disputing whether God is infinite and eternal would gladly prove these from necessary and evident premises if they could.",
+    "claims": [
+      "Demonstrative arguments used by theologians are, by the opponent's own view, not theological."
+    ],
+    "concepts": [
+      "ad hominem",
+      "demonstration"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1988",
+        "grvnZZ-d1e97-d1e1212"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e2020": {
+    "summary": "Reply to the third objection: the theologian qua theologian generates faith by proving from Scripture what is not formally in it, or by showing where it is, expounding Scripture, and removing doubts—not by probable arguments, except insofar as other sciences serve Scripture as handmaids (Proverbs 9) under its architectonic direction.",
+    "claims": [
+      "The theologian generates faith by scriptural proof, exposition, and resolution of doubts.",
+      "Other sciences serve theology as handmaids."
+    ],
+    "concepts": [
+      "ancillae theologiae",
+      "architectonic science",
+      "scriptural exegesis"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1822"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e2040": {
+    "summary": "Reply to the fourth objection: concedes that theology is faith in a sense to be explained in article 4, where Augustine's contrary authority will be addressed. Then opens article 3: which act of the intellect is properly called scientia (taking scientia as the second act, 'knowing').",
+    "claims": [
+      "Theology is faith in a qualified sense (to be explained)."
+    ],
+    "concepts": [
+      "theology as faith",
+      "act of knowing",
+      "divisio articuli"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e1840",
+        "grvnZZ-d1e97-d1e260"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e2053": {
+    "summary": "Continues article 3's framing: also which habit is properly scientia. Concerning the object of science (the significate of a demonstrated conclusion), the intellect has acts of enunciating, cognizing, and believing/assenting: by the conclusion it enunciates that things are so, cognizes them so, and assents—Aristotle's Posterior Analytics and Augustine's Soliloquies note that what we know we also believe.",
+    "claims": [
+      "The intellect enunciates, cognizes, and assents with respect to the object of science.",
+      "Knowing involves believing what is known."
+    ],
+    "concepts": [
+      "enunciation",
+      "cognition",
+      "assent",
+      "habit of science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2040",
+        "grvnZZ-d1e97-d1e417"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e2082": {
+    "summary": "Raises the doubt whether the intellect enunciates, cognizes, and assents by distinct acts, and if so, which of the three is properly called scientia.",
+    "claims": [],
+    "concepts": [
+      "distinction of intellectual acts",
+      "scientia"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2053"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e2089": {
+    "summary": "First argument for distinct acts: the mental conclusion is distinct from assent and cognition, since one can form the proposition (e.g., 'the diagonal is incommensurable with the side') while ignorant of its truth, doubting, or dissenting—as Aristotle notes most people wonder at incommensurability.",
+    "claims": [
+      "One can form a proposition without cognizing or assenting to it."
+    ],
+    "concepts": [
+      "proposition vs. assent",
+      "incommensurability",
+      "doubt"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2082"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e2112": {
+    "summary": "Confirms: every demonstrative conclusion is a question (Posterior Analytics II) and so a dubitable proposition; therefore it is not formally the cognition or assent by which one knows it impossible to be otherwise.",
+    "claims": [
+      "A conclusion as such is dubitable and so not identical with certain cognition."
+    ],
+    "concepts": [
+      "conclusion as question",
+      "certainty"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2089"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e2132": {
+    "summary": "Second argument for distinction: if the conclusion were such cognition, it would be self-evident and indemonstrable, since the intellect would assent immediately upon its being posited, and every proposition evidently cognized immediately is per se nota.",
+    "claims": [
+      "If the conclusion were evident cognition, it would be per se nota."
+    ],
+    "concepts": [
+      "per se nota",
+      "evidence",
+      "demonstrability"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2082"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e2143": {
+    "summary": "Third argument (from a certain doctor): if the conclusion were scire, knowledge would perish when premises are forgotten, since the conclusion remains without its prior evidence; so either nothing is scire, or the whole demonstration is, or scire is an effect of demonstration distinct from it.",
+    "claims": [
+      "The conclusion can remain while its evidence is lost through forgetting the premises.",
+      "Hence scire is distinct from the conclusion."
+    ],
+    "concepts": [
+      "memory",
+      "evidence",
+      "forgetting premises"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2082"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e2163": {
+    "summary": "Fourth argument: otherwise the same mental proposition would be at once belief, opinion, and knowledge, when one simultaneously has an authority, a probable middle term, and a demonstrative middle term.",
+    "claims": [
+      "Identifying proposition and assent makes one proposition simultaneously belief, opinion, and knowledge."
+    ],
+    "concepts": [
+      "faith, opinion, science",
+      "middle term"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2082"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e2174": {
+    "summary": "Fifth argument: one could simultaneously assent and dissent, since contradictory propositions can coexist in the mind (Averroes on Metaphysics VI), along with the propositions mediating assent and dissent.",
+    "claims": [
+      "Contradictory propositions can coexist in the mind.",
+      "If propositions were assents, simultaneous assent and dissent would follow."
+    ],
+    "concepts": [
+      "contradiction",
+      "assent and dissent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2082"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e2187": {
+    "summary": "Sixth argument: more evident propositions suffice to cause an assent distinct from themselves no less than less evident (topical) ones, which do so: a demonstration of the opposite can cause dissent while the topical premises remain in the mind, so the assent they caused was distinct from them.",
+    "claims": [
+      "Topical premises cause an assent distinct from themselves.",
+      "A fortiori demonstrative premises do."
+    ],
+    "concepts": [
+      "topical argument",
+      "evidence",
+      "distinct assent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2082"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e2206": {
+    "summary": "Seventh argument: some propositions assented to are not themselves assent, as with the bent-stick illusion: one forms 'this stick is broken' and judges so, but after correction by touch still has the same proposition without assenting to it.",
+    "claims": [
+      "A proposition can persist without assent, so it is not the assent."
+    ],
+    "concepts": [
+      "perceptual illusion",
+      "assent",
+      "bent stick"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2082"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e2224": {
+    "summary": "Eighth argument: believer and unbeliever can share all simple cognitions and form propositions of the same kind, yet one assents and the other does not; so no proposition is the assent of faith, and likewise no conclusion is the assent of science.",
+    "claims": [
+      "Same-kind propositions can be formed with or without assent."
+    ],
+    "concepts": [
+      "assent of faith",
+      "believer vs. unbeliever"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2082"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e2237": {
+    "summary": "Further argument: the believer does not assent to any proposition unless he wills; if assent were a proposition, he would assent willy-nilly; so the assent of faith, and likewise of science, is not the proposition assented to.",
+    "claims": [
+      "The assent of faith is voluntary.",
+      "Hence assent is not identical with the proposition formed."
+    ],
+    "concepts": [
+      "voluntariness of faith",
+      "assent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2224"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e2246": {
+    "summary": "Introduces a second line of argument: that the act of cognizing that things are as the conclusion states differs from the act of believing or assenting.",
+    "claims": [],
+    "concepts": [
+      "cognition vs. assent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2082"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e2253": {
+    "summary": "First argument: cognition is sometimes separated from assent, as when one has probable reasons on both sides of a contradiction, doubts, and assents to neither, yet has some weak cognition through those reasons.",
+    "claims": [
+      "Weak cognition can exist without assent."
+    ],
+    "concepts": [
+      "doubt",
+      "probable reasons",
+      "cognition without assent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2246"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e2266": {
+    "summary": "Second argument: the habit of cognizing and the habit of assenting differ, so their acts differ. One who frequently demonstrates a conclusion acquires both habits; if he later only hears and assents to it without demonstrating, he may forget the demonstration yet still readily assent—so the habit of cognizing is destroyed while the habit of assenting remains.",
+    "claims": [
+      "Habits of cognizing and of assenting can be separated through forgetting.",
+      "Distinct habits imply distinct acts."
+    ],
+    "concepts": [
+      "habit",
+      "forgetting",
+      "assent",
+      "cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2246"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e2304": {
+    "summary": "Gregory's answer to article 3 in three conclusions: (1) the mental conclusion of a demonstration properly taken is the assent that things are as it signifies; (2) it is the cognition by which one cognizes that things are so; (3) no three distinct acts of enunciating, cognizing, and assenting are needed—one and the same act is conclusion, cognition, and assent.",
+    "claims": [
+      "The mental demonstrative conclusion is the assent.",
+      "The mental demonstrative conclusion is the cognition.",
+      "Enunciation, cognition, and assent are one and the same act in demonstrative knowledge."
+    ],
+    "concepts": [
+      "identity of enunciation, cognition, assent",
+      "mental proposition",
+      "parsimony"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2082"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e2324": {
+    "summary": "Proof of the first conclusion: every assent is an enunciation, because assenting is judging that things are so, and judging that things are so is mentally enunciating it (judging that man is an animal is affirming it).",
+    "claims": [
+      "Assenting is judging; judging is mentally enunciating."
+    ],
+    "concepts": [
+      "assent as judgment",
+      "mental enunciation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2304"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e2335": {
+    "summary": "Further proof: every true or false intellectual act is an enunciation (De anima III: truth and falsity involve composition), and every judgment is true or false; hence assent is enunciation. If the conclusion were not the assent, it would be superfluous, since the assent would already be an enunciation signifying the same thing.",
+    "claims": [
+      "Every true or false act of intellect is an enunciation.",
+      "Positing a conclusion distinct from the assent is superfluous."
+    ],
+    "concepts": [
+      "composition and division",
+      "truth-aptness",
+      "parsimony"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2324"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e2361": {
+    "summary": "Proof of the second conclusion: a mental demonstrative conclusion elicited from habitual scientia is the actual cognition of what is habitually known; hence it, and any demonstrative conclusion, is the act of cognizing things to be as it signifies.",
+    "claims": [
+      "A conclusion elicited from habitual knowledge is actual cognition of what is known."
+    ],
+    "concepts": [
+      "habitual vs. actual knowledge",
+      "cognition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2304"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e2372": {
+    "summary": "Defends the antecedent by Augustine's doctrine of the inner word (De Trinitate 15): the mental conclusion is an inner locution by which we know what habitual science holds; Augustine says such locutions arising from knowledge are visions or actual cognitions, a word born of knowledge entirely like that knowledge, belonging to no language—and he speaks of enunciative thoughts, not mere simple understanding.",
+    "claims": [
+      "The inner word born of knowledge is actual cognition.",
+      "Augustine's verbum cordis includes enunciative thoughts."
+    ],
+    "concepts": [
+      "verbum mentis",
+      "inner locution",
+      "Augustinian epistemology",
+      "language-independent thought"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2361"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e2436": {
+    "summary": "Second proof: one can have a mental demonstration with no proposition other than cognitions—knowing that things equal to a third are equal and that a and b equal c, one knows a and b are equal with a perfect demonstration and needs no other propositions, as experience shows especially in one who discovers it himself; so the mental conclusion is a cognition.",
+    "claims": [
+      "A mental demonstration can consist solely of cognitions.",
+      "The mental conclusion is itself a cognition."
+    ],
+    "concepts": [
+      "mental demonstration",
+      "discovery vs. instruction",
+      "transitivity of equality"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2361"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e2463": {
+    "summary": "Third proof: the premises of a mental demonstration are cognitions, so by parity the conclusion is a cognition—there is no more need to posit a conclusion distinct from its cognition than premises distinct from theirs. Illustrated with Euclid I.1 (lines from the centers of two intersecting circles), where the premises can be intuitively cognized without forming any other proposition; any further proposition would be superfluous. (The TEI includes a figure of the circles here.)",
+    "claims": [
+      "Premises of a mental demonstration are cognitions.",
+      "Positing propositions distinct from cognitions is superfluous."
+    ],
+    "concepts": [
+      "Euclid I.1",
+      "intuitive cognition",
+      "parsimony",
+      "mental demonstration"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2436"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e2531": {
+    "summary": "Fourth proof from Aristotle's definition of demonstration as syllogismus epistemonikos (Eustratius' exposition): in having it we know, which would be false unless the demonstration or some part of it were formally scientia, just as having a color makes us white only if it is whiteness.",
+    "claims": [
+      "Demonstration or a part of it is formally scientia."
+    ],
+    "concepts": [
+      "syllogismus epistemonikos",
+      "formal causality",
+      "Eustratius"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2361"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e2544": {
+    "summary": "Proof of the third conclusion: since the same conclusion is both assent and cognition, one enunciates, cognizes, and assents by a single act; no experience, reason, or authority compels positing a multiplicity of acts, so it is more reasonable to deny it.",
+    "claims": [
+      "Enunciating, cognizing, and assenting are one act.",
+      "Multiplicity of acts should not be posited without necessity."
+    ],
+    "concepts": [
+      "parsimony",
+      "unity of the intellectual act"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2304"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e2562": {
+    "summary": "Preliminary to answering the contrary arguments: Gregory distinguishes (following Augustine and Anselm) mental enunciations that are images of spoken language (language-specific) from those that are natural, language-independent 'words of no language'; the latter subdivide into those caused from intuitive or derived cognitions (or naturally first), which are both cognitions and assents, and those not so caused (as in belief and opinion), which are assents but not cognitions; the language-images are neither. Corollaries: dissent is just assent to the opposite enunciation; not every mental enunciation is an assent; not every enunciation is a cognition; not every assent is a cognition; and strictly only mental syllogisms composed of cognitions are demonstrations, others being so called by subordination or as leading to true demonstrations.",
+    "claims": [
+      "There are three kinds of mental propositions: language-images, natural cognitive enunciations, and natural non-cognitive enunciations.",
+      "Natural cognitive enunciations are both cognitions and assents.",
+      "Belief and opinion are assents that are not cognitions.",
+      "Dissent is assent to the opposite.",
+      "Strictly, only syllogisms of cognitions are demonstrations."
+    ],
+    "concepts": [
+      "mental language",
+      "verbum nullius linguae",
+      "intuitive cognition",
+      "assent vs. cognition",
+      "dissent",
+      "demonstration"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2304",
+        "grvnZZ-d1e97-d1e2372"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e2743": {
+    "summary": "Raises a further doubt: whether a mental enunciation is essentially composed of simple partial cognitions serving as subject and predicate, or is one act without such parts; Gregory provisionally holds that mental enunciations of any kind are not so composed.",
+    "claims": [
+      "Mental enunciations are not composed of partial simple cognitions."
+    ],
+    "concepts": [
+      "compositionality of mental propositions",
+      "subject and predicate"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2562"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e2759": {
+    "summary": "Argues for non-composition: if mental propositions were composed of term-cognitions, the mental counterparts of 'every whiteness is an entity' (true) and 'every entity is whiteness' (impossible) would have specifically similar parts in an indivisible subject with no ordering to distinguish them, and so would be of the same species—yet natural signs of the same species signify the same, which is absurd.",
+    "claims": [
+      "In an indivisible mind, parts of a mental proposition could not be ordered differently.",
+      "Specifically identical natural propositions would signify the same.",
+      "Hence mental propositions are not composed of term-cognitions."
+    ],
+    "concepts": [
+      "simplicity of the soul",
+      "natural signification",
+      "word order",
+      "compositionality"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2743"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e2810": {
+    "summary": "Further argument against composition: no possible mode of composition appears—if one has simple cognitions and then forms a proposition, nothing changes in them to make them compose more than before, and adding a new categorematic or syncategorematic concept does not help, since all were already equally in the same subject.",
+    "claims": [
+      "No change in co-present simple cognitions can account for their becoming a proposition."
+    ],
+    "concepts": [
+      "mental composition",
+      "syncategorematic concepts",
+      "simplicity of the intellect"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2743"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e2830": {
+    "summary": "Further argument: no cause can be assigned why one part is subject rather than predicate, since both are equally in the same subject; hence either neither is subject/predicate (so no such composed proposition) or both are, making one proposition both true and impossible—absurd.",
+    "claims": [
+      "Nothing in an indivisible mind fixes which part is subject and which predicate."
+    ],
+    "concepts": [
+      "subject-predicate structure",
+      "mental proposition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2759"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e2850": {
+    "summary": "Anticipated reply: the different order of production of the parts yields different propositions—the part produced first is subject, the part produced later predicate.",
+    "claims": [
+      "(Objection) Order of production distinguishes subject from predicate."
+    ],
+    "concepts": [
+      "temporal order of production",
+      "mental proposition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2830"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e2866": {
+    "summary": "Rejects the reply: positing such successive production is unreasonable, since the intellect can produce several acts of different kinds simultaneously (as will be proved in distinction 1), so it could surely produce a whole proposition at once.",
+    "claims": [
+      "The intellect can produce multiple heterogeneous acts simultaneously."
+    ],
+    "concepts": [
+      "simultaneity of intellectual acts"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2850"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e2877": {
+    "summary": "Further rejection: the same would have to be said of angels, which is absurd since Augustine (De Genesi ad litteram 4) says the angelic mind grasps all it wills simultaneously; or else the same difficulty remains for angels.",
+    "claims": [
+      "Angelic minds grasp all at once, so successive production cannot explain propositional structure for them."
+    ],
+    "concepts": [
+      "angelic cognition",
+      "simultaneity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2850"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e2895": {
+    "summary": "Further rejection: God could produce all the parts simultaneously; and in any case order of production cannot make wholes with identical parts in the same subject differ in species, just as building roof before walls or generating hand before heart makes no difference to the resulting house or body. Gregory concludes that mental affirmation and negation are not essentially composed of distinct partial cognitions as subject and predicate; they are called composite because they are equivalent in signification to composite spoken or written propositions, or because they signify composition and division in things (Averroes).",
+    "claims": [
+      "Order of generation does not change the species of a whole with identical parts.",
+      "Mental affirmations and negations are not essentially composed of subject and predicate cognitions.",
+      "They are called composite by equivalence to spoken propositions or by signifying composition in things."
+    ],
+    "concepts": [
+      "non-compositional mental language",
+      "divine power",
+      "composition and division",
+      "analogy of artifacts and organisms"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2850",
+        "grvnZZ-d1e97-d1e2743"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e2942": {
+    "summary": "Begins replies to the arguments for distinct acts. To the first: the antecedent (one can form a proposition without cognizing or assenting) is true of conclusions composed of first-kind mental propositions (language-images) but not of the second kind, which are cognitions.",
+    "claims": [
+      "Language-image propositions can be formed without assent; natural cognitive propositions cannot."
+    ],
+    "concepts": [
+      "kinds of mental proposition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2089",
+        "grvnZZ-d1e97-d1e2562"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e2953": {
+    "summary": "Reply to the confirmation ('every conclusion is a question'): taking 'conclusion' as the proposition, it holds for spoken and first-kind mental conclusions but not for the second kind; taking it for the significate, every demonstrably concludable is questionable—likely the authors' meaning, since properly the significate (not the proposition) is known or questioned. In that sense even the second-kind conclusion is dubitable because its significate is, though not by the one who has it.",
+    "claims": [
+      "'Every conclusion is a question' is true of significates and of language-image propositions.",
+      "Properly, what is questioned or known is the significate."
+    ],
+    "concepts": [
+      "quaestio",
+      "significate",
+      "dubitability"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2112",
+        "grvnZZ-d1e97-d1e417"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3005": {
+    "summary": "Reply to the second argument: such a conclusion is cognition and assent, yet not per se nota, because its significate is not known through itself but through cognitions of prior enunciables which cause the cognition; authorities denying conclusions are per se nota should be so read, or as referring to spoken/first-kind mental conclusions.",
+    "claims": [
+      "A conclusion can be a cognition without being per se nota, since its evidence is caused by prior cognitions."
+    ],
+    "concepts": [
+      "per se nota",
+      "mediated evidence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2132"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3025": {
+    "summary": "Reply to the third argument (forgetting premises): it holds for spoken and first-kind mental conclusions, not for the second kind; if a second-kind conclusion remained after the premises were lost, its object would still be known and evident, as the objector himself must say of a retained cognition of the conclusion.",
+    "claims": [
+      "A retained cognitive conclusion would preserve knowledge even if premises were forgotten."
+    ],
+    "concepts": [
+      "memory",
+      "evidence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2143"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3043": {
+    "summary": "Reply to the fourth argument: denies the consequence; just as demonstrative, probable, and creditive middles differ (the first composed of cognitions-and-assents, the others of assents only, of different kinds), so the mental conclusion that is knowing differs from that which is opining or believing.",
+    "claims": [
+      "Knowing, opining, and believing conclusions are different mental propositions."
+    ],
+    "concepts": [
+      "demonstrative, probable, creditive middle",
+      "specific diversity of assents"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2163"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3059": {
+    "summary": "Adds that it is false that demonstrative and probable middles (taken as second- or third-kind mental propositions) are simultaneously in the mind; whether first-kind ones can be is irrelevant, since none of their conclusions is knowing or opining; and even if the conclusion were the same, the absurdity would not follow.",
+    "claims": [
+      "Demonstrative and probable middles of the cognitive kind cannot coexist regarding the same conclusion."
+    ],
+    "concepts": [
+      "coexistence of assents"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3043"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3078": {
+    "summary": "Reply to the fifth argument: denies that contradictories are maximally repugnant with respect to coexistence in a subject: first-kind contradictory mental propositions can coexist, yet second-kind propositions that are knowledge and opinion of the same significate cannot.",
+    "claims": [
+      "Some non-contradictory propositions are more repugnant in coexistence than contradictories.",
+      "Knowledge and opinion of the same significate cannot coexist."
+    ],
+    "concepts": [
+      "repugnance",
+      "contradiction",
+      "science and opinion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2174"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3102": {
+    "summary": "Further: Averroes' dictum concerns first-kind mental contradictories; scientific knowledge of a necessary truth can have no second-kind contradictory, since the contradictory of its enunciable is impossible and so not complexly knowable.",
+    "claims": [
+      "A necessary scientific truth has no cognitive contradictory."
+    ],
+    "concepts": [
+      "Averroes",
+      "necessary truth",
+      "contradiction"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3078"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3120": {
+    "summary": "Reply to the sixth argument: concedes the major for propositions of the same kind but denies the minor: second-kind topical propositions do not cause an assent distinct from themselves but are themselves assents; the claim that a demonstration of the opposite could cause dissent while they remain is false (though perhaps true of first-kind topical propositions, which are not assents).",
+    "claims": [
+      "Second-kind topical propositions are themselves assents."
+    ],
+    "concepts": [
+      "topical argument",
+      "assent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2187"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3149": {
+    "summary": "Reply to the seventh argument: the major holds within each kind of mental proposition but not absolutely, since no first-kind proposition is an assent and every one of the other kinds is; likewise no first-kind proposition or term is a cognition, being conventional signs like their spoken models, while second-kind propositions and terms are natural signs and cognitions. In the bent-stick case, the judgment that the stick is broken does not remain after correction; any remaining proposition is a different, first-kind one, which is no assent.",
+    "claims": [
+      "First-kind mental propositions are conventional signs and neither cognitions nor assents.",
+      "Second-kind mental terms and propositions are natural signs and cognitions.",
+      "The original judgment in the bent-stick case does not survive correction."
+    ],
+    "concepts": [
+      "natural vs. conventional signs",
+      "mental terms",
+      "perceptual illusion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2206",
+        "grvnZZ-d1e97-d1e2562"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3208": {
+    "summary": "Reply to the eighth argument: believer and unbeliever can form first-kind mental propositions of the same kind, but if the believer assents he has a second-kind proposition that is the assent, of a kind the unbeliever lacks.",
+    "claims": [
+      "The believer's assent is a distinct kind of mental proposition absent in the unbeliever."
+    ],
+    "concepts": [
+      "assent of faith",
+      "kinds of mental proposition"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2224"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3221": {
+    "summary": "Reply to the ninth argument (voluntariness of faith): it only concludes about first-kind propositions.",
+    "claims": [
+      "The voluntariness argument concerns only language-image propositions."
+    ],
+    "concepts": [
+      "voluntariness of assent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2237"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3227": {
+    "summary": "Reply to the first argument that cognition is distinct from assent: one who doubts between probable reasons has no complex cognition, perfect or imperfect, properly speaking; neither does one who believes on authority or opines—per Augustine (De utilitate credendi), whoever understands believes, but not everyone who believes understands, and no one who opines understands.",
+    "claims": [
+      "Doubt, belief on authority, and opinion involve no proper complex cognition.",
+      "Understanding entails belief, but not conversely."
+    ],
+    "concepts": [
+      "cognition properly speaking",
+      "doubt",
+      "opinion",
+      "belief",
+      "intelligere"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2253"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3253": {
+    "summary": "Reply to the second argument (separable habits): denies the antecedent for scientific assent; the habit of demonstrating is either a distinct quasi-logical habit of ordering premises (which Averroes says each science has) or the joint set of premise- and conclusion-habits, any of which may be lost while others remain—so the case does not prove that cognizing and assenting habits differ.",
+    "claims": [
+      "The habit of demonstrating is distinct from the habit of cognizing the conclusion, or is the aggregate of premise and conclusion habits."
+    ],
+    "concepts": [
+      "habit of demonstrating",
+      "logica specialis",
+      "habit aggregation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e2266"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3279": {
+    "summary": "Continues the reply by doubting that one who wholly forgot the demonstration would still assent through the habit of science; plausibly he assents because he remembers having known it. The paragraph then shifts abruptly—apparently a lacuna or dislocation in the transcription—into a critique of an opinion holding that articles of faith are both believed and evidently known (per se or by demonstration) while faith is still required, arguing the view contradicts itself and that an appeal to apparent contrary reasons and concomitant inevidence fails.",
+    "claims": [
+      "Residual assent after forgetting a demonstration may rest on memory of having known.",
+      "It is incoherent to hold articles evidently known yet requiring faith for assent."
+    ],
+    "concepts": [
+      "memory-based assent",
+      "evidence and faith",
+      "articles of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3253",
+        "grvnZZ-d1e97-d1e3338"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3327": {
+    "summary": "Continues the critique: by the same reasoning faith beyond science would be needed for any naturally known proposition to prevent its being called into doubt by contrary appearances—which neither the opponents nor any wise person would say.",
+    "claims": [
+      "Appeal to faith to stabilize evident knowledge against doubt proves too much."
+    ],
+    "concepts": [
+      "reductio",
+      "evidence",
+      "faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3279"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3338": {
+    "summary": "Reply to the first reason of an opinion (whose statement is not present in this portion of the transcription) holding that nothing need be believed except what is per se known or demonstrable: Gregory flatly denies its major, citing Hebrews 11 (faith is the argument of things not apparent; without faith it is impossible to please God), Augustine (De Trinitate 13: we are commanded to believe what we cannot see), and the Paris condemnation (article 37) of the error that nothing is to be believed unless self-evident or demonstrable.",
+    "claims": [
+      "We are obliged to believe things not apparent and not derived from self-evident premises.",
+      "The thesis that only the self-evident or demonstrable is to be believed was condemned at Paris (1277)."
+    ],
+    "concepts": [
+      "faith of things unseen",
+      "Condemnation of 1277",
+      "obligation to believe"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3279"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3358": {
+    "summary": "Reply to the proof: the principle that no one must adhere more firmly than the certainty of their cognition warrants holds only if adherence is precisely due to that certainty; the Catholic must believe whatever Scripture or the Church proposes without any other cognition. To the confirmation 'no one believes unless it is established for him': false of cognitive establishment, and question-begging if of adherence.",
+    "claims": [
+      "The firmness of faith is not proportioned to the certainty of any cognition.",
+      "Catholics must believe what Scripture or the Church proposes without further cognition."
+    ],
+    "concepts": [
+      "firmness of faith",
+      "certainty",
+      "proportionality of assent"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3338"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3392": {
+    "summary": "Reply to the second reason: no one is bound to believe the articles in any of the opponent's listed ways, nor are they so proposed; they are proposed to be believed on the authority and testimony of God revealing, directly or through his Church.",
+    "claims": [
+      "Articles of faith are proposed on the authority of God revealing, directly or via the Church."
+    ],
+    "concepts": [
+      "divine revelation",
+      "testimony",
+      "authority"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3338"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3403": {
+    "summary": "Reply to the third reason: the simple believer's faith is as determined to truth as the greatest theologian's, not by theology or any habit, but because the believer first believes the authority of God revealing, who can neither deceive nor be deceived.",
+    "claims": [
+      "The infallibility of faith rests on God's revealing authority, not on any acquired habit."
+    ],
+    "concepts": [
+      "infallibility of faith",
+      "simple believer",
+      "divine veracity"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3338"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3419": {
+    "summary": "Reply to the fourth reason: concedes that something is first believed and adhered to for its own sake (not because of another belief), but denies it follows that it is per se notum, since such adherence does not arise from cognition of a present thing or cognition in the strict sense, as with first principles.",
+    "claims": [
+      "There are first objects of belief not believed through other beliefs.",
+      "Such first beliefs are not per se nota."
+    ],
+    "concepts": [
+      "first credibilia",
+      "per se nota",
+      "foundations of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3338"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3432": {
+    "summary": "Reply to the reason supporting the opponent's second conclusion: for a middle to generate properly scientific habit, necessity is not enough; it must consist of propositions per se nota, known by experience, or evidently deduced from such—and the proposed middle is not such.",
+    "claims": [
+      "Scientific middles require evidence, not merely necessity."
+    ],
+    "concepts": [
+      "evidence",
+      "necessity",
+      "demonstrative middle"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3338"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3445": {
+    "summary": "Adds that the middle is not even necessary, since its major is contingent: God could have not revealed what he revealed, e.g., statements about the future.",
+    "claims": [
+      "The fact of revelation is contingent."
+    ],
+    "concepts": [
+      "contingency of revelation",
+      "future contingents"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3432"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3454": {
+    "summary": "Declines to reply to the opinion's remaining claims.",
+    "claims": [],
+    "concepts": [],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3338"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3458": {
+    "summary": "Reports another opinion: theological discourse yields scientia properly speaking, but subalternated to the science of God and the blessed, since a habit proceeding from principles believed by it but known in the light of a higher science is a subalternate science, like music relative to arithmetic or optics to geometry; theology proceeds from articles and Scripture, known in the light of God's and the blessed's science.",
+    "claims": [
+      "(Reported) Theology is a science subalternated to the science of God and the blessed.",
+      "(Reported) Music and optics are sciences though they believe principles known in higher sciences."
+    ],
+    "concepts": [
+      "subalternation",
+      "scientia Dei et beatorum",
+      "Thomist view of theology",
+      "music and arithmetic",
+      "optics and geometry"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e260"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3489": {
+    "summary": "Argument offered by others for the subalternation view: the optician qua optician knows (optics being a species of science) but qua optician is not a geometer and so lacks knowledge of his principles; hence not every science requires knowledge of its principles.",
+    "claims": [
+      "(Reported) A science need not know its own principles."
+    ],
+    "concepts": [
+      "subalternate science",
+      "qua-reasoning"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3458"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3502": {
+    "summary": "Confirms: optics is a science distinct from geometry yet as such does not know its principles; one with optics but not geometry would merely believe its principles and still truly know—so too with theology.",
+    "claims": [
+      "(Reported) One can have a subalternate science while merely believing its principles."
+    ],
+    "concepts": [
+      "subalternation",
+      "believed principles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3489"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3513": {
+    "summary": "Second confirmation: God could preserve the habit of optics in someone without the habit of geometry, and it would still be a subalternate science though its principles were merely believed.",
+    "claims": [
+      "(Reported) By divine power, a subalternate science could exist with merely believed principles."
+    ],
+    "concepts": [
+      "divine power",
+      "subalternation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3489"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3524": {
+    "summary": "Further argument: a subalternate science as such presupposes and does not know its principles, yet is a science; so some science does not know its principles, as with theology.",
+    "claims": [
+      "(Reported) Subalternate sciences presuppose rather than know their principles."
+    ],
+    "concepts": [
+      "subalternation",
+      "presupposition of principles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3458"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3533": {
+    "summary": "First argument against the subalternation view: knowledge of a conclusion either arises naturally from a prior complex cognition or not; if not, it is understanding of an immediate principle, not science; if so, that prior cognition is of the principle. Hence every naturally acquired science arises from cognition of principles known to the knower.",
+    "claims": [
+      "Every naturally acquired science arises from cognition of its principles in the knower."
+    ],
+    "concepts": [
+      "causal origin of knowledge",
+      "principles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3458"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3558": {
+    "summary": "Confirms from Posterior Analytics I that demonstrative science arises from true, primary, more known, prior premises that cause the conclusion's cognition; we must know the principles even more than the conclusion. Thus it is not enough that principles be known to another—no cognition in another mind can naturally cause science in mine—so since theology's principles are not known to us, as the opponents concede, theology as commonly acquired is not truly science.",
+    "claims": [
+      "Demonstrative knowledge is caused by the knower's own cognition of principles.",
+      "Cognition in another mind cannot naturally cause science in mine.",
+      "Theology as commonly acquired is not truly science."
+    ],
+    "concepts": [
+      "Posterior Analytics I.2",
+      "causes of knowledge",
+      "first-person evidence",
+      "critique of subalternation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3533"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3604": {
+    "summary": "Second argument: if a subalternate science could be acquired from principles merely believed by the acquirer but known to someone with the higher science, by the same reasoning a non-subalternate science could be acquired by believing principles another knows; so the opponents need not have called theology subalternate but simply science.",
+    "claims": [
+      "The subalternation argument, if sound, would apply equally to non-subalternate sciences."
+    ],
+    "concepts": [
+      "parity argument",
+      "subalternation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3458"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3620": {
+    "summary": "Reply to the opinion's first reason: its major is improper (no science believes or knows its principles, since scientia is not of principles); charitably read, either the principles are known to the one who has the subalternate science—then the minor is false for theology—or merely believed by him and known to another—then the major is false, since one person's cognition of principles causes no knowledge of conclusions in another.",
+    "claims": [
+      "Principles must be known by the possessor of a science, not merely by someone else."
+    ],
+    "concepts": [
+      "subalternation",
+      "principles"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3458"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3651": {
+    "summary": "Reply to the music example: one ignorant of arithmetic who merely believed music's principles (not knowing them by experience or otherwise) would acquire not the science of music but a creditive habit, which could be called 'creditive music'.",
+    "claims": [
+      "Music with merely believed principles is a creditive habit, not science."
+    ],
+    "concepts": [
+      "musica creditiva",
+      "habit of belief"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3458"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3664": {
+    "summary": "Reply to the optics argument: it is formally invalid in three ways—third figure with a negative minor, affirmative conclusion from a negative premise, and the middle term entering the conclusion; reduced to proper form it yields nothing for the opponent.",
+    "claims": [
+      "The optics syllogism is formally invalid."
+    ],
+    "concepts": [
+      "syllogistic form",
+      "third figure"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3489"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3677": {
+    "summary": "Further: just as not only scientific but opined habits are called physical or metaphysical (Aristotle calls ancient opinions 'physical'), so some believed habits may be called metaphysical, geometrical, or optical—such as the optics of one who merely believes its principles.",
+    "claims": [
+      "Disciplinary labels apply to habits regardless of their epistemic status."
+    ],
+    "concepts": [
+      "disciplinary classification",
+      "creditive habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3664"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3694": {
+    "summary": "Explains why: a habit is called physical or metaphysical from its subject matter (Metaphysics VI), but 'science' from another ground.",
+    "claims": [
+      "Disciplinary name derives from subject matter."
+    ],
+    "concepts": [
+      "subject matter",
+      "classification of habits"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3677"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3703": {
+    "summary": "A habit is called science because it is habitual cognition acquired from actual cognitions of conclusions caused by prior cognitions, per Posterior Analytics I. Hence the optics argument is defective in matter as well as form: both 'the optician qua optician knows' and 'optics qua optics is science' are false.",
+    "claims": [
+      "'Science' names habitual cognition caused by prior evident cognitions.",
+      "Optics as such is not necessarily science."
+    ],
+    "concepts": [
+      "definition of scientia",
+      "epistemic vs. disciplinary classification"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3694",
+        "grvnZZ-d1e97-d1e3664"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3719": {
+    "summary": "Reply to the first confirmation: not every optics is science, only that which is evident cognition generated from evident cognition of its principles, or one of the same kind directly caused by God.",
+    "claims": [
+      "Only optics generated from evident principles (or divinely caused equivalent) is science."
+    ],
+    "concepts": [
+      "evidence",
+      "divine causation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3502"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3730": {
+    "summary": "Reply to the second confirmation: the same argument could be made for a non-subalternate science (if understanding of principles is distinct from the conclusion-habit), so they might as well have called theology science simpliciter, which they would not.",
+    "claims": [
+      "The divine-preservation argument does not specifically support subalternation."
+    ],
+    "concepts": [
+      "parity",
+      "subalternation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3513"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3741": {
+    "summary": "Further: if God preserved an existing scientific optics without geometry, it would still be science apt for similar acts; but it does not follow that optics acquired by someone lacking geometry would be science.",
+    "claims": [
+      "A preserved science remains science; an optics acquired without geometry is not."
+    ],
+    "concepts": [
+      "divine preservation",
+      "acquisition vs. preservation"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3730"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3752": {
+    "summary": "Reply to the third reason: concedes that neither subalternate nor non-subalternate science knows its principles (science is not of principles), but both are cognitions caused by cognitions of their principles.",
+    "claims": [
+      "Every science is caused by cognition of its principles, though it is not itself of them."
+    ],
+    "concepts": [
+      "principles",
+      "scientia"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3524"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3762": {
+    "summary": "Introduces Gregory's own answer to article 4 (the principal question) in four conclusions.",
+    "claims": [],
+    "concepts": [
+      "responsio"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e260"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3767": {
+    "summary": "First conclusion: scientia is not per se acquired by theological discourse.",
+    "claims": [
+      "Theological discourse does not per se produce scientia."
+    ],
+    "concepts": [
+      "theology and science"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3762"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3774": {
+    "summary": "Second conclusion: theological discourse produces adherence (firm assent) in the mind of one who gives faith to Scripture, but not in others.",
+    "claims": [
+      "Theological discourse produces adherence only in those who believe Scripture."
+    ],
+    "concepts": [
+      "adhaesio",
+      "faith in Scripture"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3762"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3779": {
+    "summary": "Third conclusion: the adherence acquired is not adherence with fear of the opposite (i.e., not opinion).",
+    "claims": [
+      "Theological adherence is without formido."
+    ],
+    "concepts": [
+      "formido",
+      "opinion"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3762"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3782": {
+    "summary": "Fourth conclusion: what is acquired is a kind of faith; hence the habit of theology so acquired is a creditive habit and an acquired faith.",
+    "claims": [
+      "Theology acquired by theological discourse is an acquired faith."
+    ],
+    "concepts": [
+      "fides acquisita",
+      "creditive habit",
+      "theological habit"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3762"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3791": {
+    "summary": "First proof of the first conclusion: discourse that per se produces science proceeds from first, immediate, known propositions (Posterior Analytics I), but theological discourse proceeds from believed premises (article 2).",
+    "claims": [
+      "Scientific discourse requires known immediate premises.",
+      "Theological discourse proceeds from believed premises."
+    ],
+    "concepts": [
+      "demonstration",
+      "credita"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3767",
+        "grvnZZ-d1e97-d1e1556"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3805": {
+    "summary": "Confirms: every discourse making one know is a demonstration, but theological discourse is not, else it would make a well-disposed unbeliever know and assent to theological conclusions.",
+    "claims": [
+      "Theological discourse does not compel the assent of an unbeliever, so it is not demonstration."
+    ],
+    "concepts": [
+      "demonstration",
+      "unbeliever"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3791"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3816": {
+    "summary": "Second proof: no discourse relying primarily on authority generates science, since authority generates only faith (Augustine: what we understand we owe to reason, what we believe to authority; De libero arbitrio); but all theological discourse so relies.",
+    "claims": [
+      "Arguments from authority generate faith, not science.",
+      "Theological discourse relies primarily on authority."
+    ],
+    "concepts": [
+      "authority vs. reason",
+      "faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3767"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3836": {
+    "summary": "Third proof: no theological discourse yields greater evidence or certainty about any theological truth than another theological discourse yields about a contingent truth not known by experience (e.g., that God will judge the world), since all proceed from scriptural authorities which as such give equal certainty; but no such contingent truth is known as scientific objects are; hence theological discourse does not per se produce science.",
+    "claims": [
+      "All theological proofs yield equal evidence, grounded in scriptural authority.",
+      "Unexperienced contingent truths are not scientifically known."
+    ],
+    "concepts": [
+      "evidence",
+      "certainty",
+      "contingent revealed truths",
+      "eschatology"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3767"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3882": {
+    "summary": "Proof of the second conclusion: discourse that compels one believing Scripture to assent to something not formally in Scripture nor defined causes adherence, since one cannot naturally assent to premises without assenting to an evidently following conclusion; but a pagan who rejects Scripture gets no adherence even if he sees the consequence as clearly as a theologian.",
+    "claims": [
+      "Assent to premises plus evident consequence compels assent to the conclusion.",
+      "Theological discourse generates no adherence in one who rejects Scripture."
+    ],
+    "concepts": [
+      "closure of assent",
+      "adhesion",
+      "pagan"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3774"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3917": {
+    "summary": "Confirms the second conclusion by the authority of Pseudo-Dionysius' Divine Names cited in article 2.",
+    "claims": [],
+    "concepts": [
+      "Pseudo-Dionysius"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3882",
+        "grvnZZ-d1e97-d1e1461"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3924": {
+    "summary": "Proof of the third conclusion: whoever adheres without fear to premises adheres without fear to a conclusion known to follow necessarily, since fear could arise neither from the firmly held premises nor from the known-necessary inference.",
+    "claims": [
+      "Fearless adherence to premises transfers to necessarily following conclusions."
+    ],
+    "concepts": [
+      "formido",
+      "transmission of certainty"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3779"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3938": {
+    "summary": "Confirms: it is naturally impossible to evidently cognize and indubitably assent that an antecedent cannot be true without its consequent, and indubitably assent to the antecedent, without indubitably assenting to the consequent; one firmly believing Scripture assents indubitably to the premises of a well-regulated theological discourse (the TEI reading 'dubitanter' appears to be a slip for 'indubitanter').",
+    "claims": [
+      "Indubitable assent to antecedent and consequence entails indubitable assent to consequent.",
+      "The believer assents indubitably to scriptural premises."
+    ],
+    "concepts": [
+      "certainty",
+      "logical consequence"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3924"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3958": {
+    "summary": "Second proof: otherwise studying theology would be dangerous, since doubt about a conclusion known to follow from Scripture entails doubt about Scripture itself; and where there is doubt there is no faith (Hugh), and Augustine forbids saying 'perhaps' about matters of faith—so theological study would make one a heretic.",
+    "claims": [
+      "Doubting a conclusion known to follow from Scripture entails doubting Scripture.",
+      "Doubt about matters of faith is incompatible with faith."
+    ],
+    "concepts": [
+      "doubt",
+      "heresy",
+      "danger of theological study",
+      "modus tollens"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3779"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e3990": {
+    "summary": "Proof of the fourth conclusion: every assent without evidence and without fear is faith (from Hugh); the adherence caused in a firm believer is such; so the resulting habit is a creditive habit, an acquired habitual faith, and theology so taken is a kind of faith. Hence a pure pagan, giving faith to no part of Scripture, cannot be a theologian in this sense. But if theology is taken as the habit(s) by which one knows Scripture's sense, expounds and proves one text by another, and deduces further truths, it can be acquired by an unbeliever too. Then turns to the principal arguments.",
+    "claims": [
+      "Assent without evidence and without fear is faith.",
+      "Theology as acquired adherence is an acquired faith.",
+      "A pure pagan cannot have theology in this sense.",
+      "Theology as exegetical and deductive skill can be acquired by an unbeliever."
+    ],
+    "concepts": [
+      "fides acquisita",
+      "definition of faith",
+      "two senses of theology",
+      "exegetical skill"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e3782",
+        "grvnZZ-d1e97-d1e3924"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e4036": {
+    "summary": "Reply to the first principal argument: denies that theological discourse yields a complex cognition superior to faith; nor is such discourse useless, for it yields the habit of proving theological truth from Scripture—thus defending faith against the impious and nourishing it in the faithful—and new explicit faith in truths not expressly in Scripture or defined, a very great fruit.",
+    "claims": [
+      "Theological discourse does not yield cognition superior to faith.",
+      "It yields skill in proving and defending faith, and new explicit faith."
+    ],
+    "concepts": [
+      "utility of theology",
+      "explicit faith",
+      "defense of faith"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e143"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e4065": {
+    "summary": "Reply to the confirmation: concedes that the great theologian need not have greater cognition, or perhaps greater faith, than the simple believer regarding what the latter explicitly believes, but has another knowledge—of proving and defending—which is what Augustine speaks of.",
+    "claims": [
+      "The theologian's advantage is skill in proving and defending, not superior cognition of the truths."
+    ],
+    "concepts": [
+      "theologian vs. simple believer",
+      "Augustinian scientia"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e174"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e4081": {
+    "summary": "Reply to the second argument (Augustine's hope to reach certain knowledge through faith): first reading—'certain knowledge' means the clear vision succeeding faith in heaven, supported by De Trinitate 9 that certain cognition is perfected only after this life, face to face.",
+    "claims": [
+      "Augustine's 'certain knowledge' may mean the beatific vision."
+    ],
+    "concepts": [
+      "beatific vision",
+      "faith and vision"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e192"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e4101": {
+    "summary": "Second reading: Augustine hoped even in this life to reach certain knowledge by special divine revelation and infusion, as God has often done for true believers; De libero arbitrio II supports this (we find what we seek with God demonstrating and illuminating within). But such knowledge is not the theology commonly acquired by theological discourse.",
+    "claims": [
+      "God may infuse certain knowledge of credibilia in this life.",
+      "Such infused knowledge is not acquired theology."
+    ],
+    "concepts": [
+      "divine illumination",
+      "infused knowledge",
+      "credo ut intelligam"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e4081"
+      ]
+    }
+  },
+  "grvnZZ-d1e97-d1e4143": {
+    "summary": "Reply to the third argument: in De Trinitate 14 Augustine calls scientia the habit(s) by which one can defend faith; this is a knowing of a sort, but not knowing that things are as the conclusion signifies, which was the question.",
+    "claims": [
+      "Augustine's scientia is the know-how of defending faith, not demonstrative knowledge of conclusions."
+    ],
+    "concepts": [
+      "Augustinian scientia",
+      "equivocation on 'scientia'"
+    ],
+    "_metadata": {
+      "level": "paragraph",
+      "generation_method": "source_text_with_context",
+      "context_ids": [
+        "grvnZZ-d1e97-d1e208"
+      ]
+    }
+  },
+  "grvnZZ-d1e97": {
+    "summary": "Question 1 of the prologue asks whether properly scientific knowledge (scientia) of the theological object is acquired through theological discourse. Gregory works through four articles. Article 1 asks what the object of demonstrative science is. Against the view that the object is the conclusion, and against the view that it is the extramental thing, Gregory argues that it is the total significate of the conclusion (significatum totale, the complexe significabile). This significate is 'something' in the broad senses of res/aliquid but is not an existing entity. It is true and necessary in a de dicto sense, and on the preferred account it is true by denomination from uncreated truth. Article 2 asks what makes discourse theological. Gregory rejects the view that theological discourse argues from probable premises to articles already determined by the Church. He holds instead that theological principles are the truths of Scripture and theological conclusions are whatever follows necessarily from Scripture, whether or not the Church has defined it. Ecclesial authority is a motive of faith, not a theological premise. Article 3 asks which intellectual act is scientia. Gregory identifies the demonstrative mental conclusion with both the assent and the cognition: enunciating, cognizing, and assenting are one act. He grounds this in a typology of mental propositions (language-images; natural cognitive enunciations; natural non-cognitive assents such as belief and opinion) and denies that mental propositions are composed of subject- and predicate-cognitions. Article 4 rejects the view that theology is science subalternated to the science of God and the blessed: knowledge must be caused by the knower's own cognition of principles. Gregory concludes that theological discourse does not per se produce science. In those who believe Scripture it produces firm, fearless adherence, which is an acquired faith. Theology in this sense is a creditive habit. Theology as exegetical and deductive skill, by contrast, can belong even to an unbeliever. The usefulness of theology lies in proving, defending, and extending faith, not in cognition superior to faith.",
+    "claims": [
+      "The object of demonstrative science is the total significate of the conclusion, neither the proposition nor the extramental thing.",
+      "Propositional significates are not existing entities, yet they are true and necessary objects of science.",
+      "Theological discourse proceeds from Scripture or from what follows necessarily from it, not from merely probable premises.",
+      "Theological conclusions include every truth that follows necessarily from Scripture, whether or not the Church has determined it.",
+      "In demonstrative knowledge, the mental conclusion, the cognition, and the assent are one and the same act.",
+      "Mental propositions are not composed of distinct subject and predicate cognitions.",
+      "Theology is not a science subalternated to divine science, since science requires the knower's own evidence of principles.",
+      "Theological discourse yields in believers an acquired faith without fear of the opposite, not scientia.",
+      "Theology's value lies in proving, defending, and extending faith from Scripture."
+    ],
+    "concepts": [
+      "complexe significabile",
+      "significatum totale conclusionis",
+      "object of science",
+      "theological discourse",
+      "authority of Scripture",
+      "mental language",
+      "assent and cognition",
+      "subalternation",
+      "fides acquisita",
+      "theology as creditive habit"
+    ],
+    "_metadata": {
+      "level": "div",
+      "generation_method": "descendant_summaries",
+      "input_ids": [
+        "grvnZZ-d1e97-d1e112",
+        "grvnZZ-d1e97-d1e143",
+        "grvnZZ-d1e97-d1e174",
+        "grvnZZ-d1e97-d1e192",
+        "grvnZZ-d1e97-d1e208",
+        "grvnZZ-d1e97-d1e250",
+        "grvnZZ-d1e97-d1e260",
+        "grvnZZ-d1e97-d1e274",
+        "grvnZZ-d1e97-d1e290",
+        "grvnZZ-d1e97-d1e298",
+        "grvnZZ-d1e97-d1e335",
+        "grvnZZ-d1e97-d1e348",
+        "grvnZZ-d1e97-d1e366",
+        "grvnZZ-d1e97-d1e375",
+        "grvnZZ-d1e97-d1e384",
+        "grvnZZ-d1e97-d1e396",
+        "grvnZZ-d1e97-d1e405",
+        "grvnZZ-d1e97-d1e410",
+        "grvnZZ-d1e97-d1e417",
+        "grvnZZ-d1e97-d1e435",
+        "grvnZZ-d1e97-d1e438",
+        "grvnZZ-d1e97-d1e459",
+        "grvnZZ-d1e97-d1e475",
+        "grvnZZ-d1e97-d1e486",
+        "grvnZZ-d1e97-d1e506",
+        "grvnZZ-d1e97-d1e532",
+        "grvnZZ-d1e97-d1e545",
+        "grvnZZ-d1e97-d1e557",
+        "grvnZZ-d1e97-d1e564",
+        "grvnZZ-d1e97-d1e580",
+        "grvnZZ-d1e97-d1e622",
+        "grvnZZ-d1e97-d1e638",
+        "grvnZZ-d1e97-d1e651",
+        "grvnZZ-d1e97-d1e689",
+        "grvnZZ-d1e97-d1e709",
+        "grvnZZ-d1e97-d1e727",
+        "grvnZZ-d1e97-d1e745",
+        "grvnZZ-d1e97-d1e767",
+        "grvnZZ-d1e97-d1e774",
+        "grvnZZ-d1e97-d1e786",
+        "grvnZZ-d1e97-d1e793",
+        "grvnZZ-d1e97-d1e806",
+        "grvnZZ-d1e97-d1e819",
+        "grvnZZ-d1e97-d1e856",
+        "grvnZZ-d1e97-d1e876",
+        "grvnZZ-d1e97-d1e886",
+        "grvnZZ-d1e97-d1e897",
+        "grvnZZ-d1e97-d1e921",
+        "grvnZZ-d1e97-d1e950",
+        "grvnZZ-d1e97-d1e970",
+        "grvnZZ-d1e97-d1e1003",
+        "grvnZZ-d1e97-d1e1033",
+        "grvnZZ-d1e97-d1e1046",
+        "grvnZZ-d1e97-d1e1070",
+        "grvnZZ-d1e97-d1e1081",
+        "grvnZZ-d1e97-d1e1092",
+        "grvnZZ-d1e97-d1e1097",
+        "grvnZZ-d1e97-d1e1105",
+        "grvnZZ-d1e97-d1e1136",
+        "grvnZZ-d1e97-d1e1165",
+        "grvnZZ-d1e97-d1e1172",
+        "grvnZZ-d1e97-d1e1177",
+        "grvnZZ-d1e97-d1e1184",
+        "grvnZZ-d1e97-d1e1188",
+        "grvnZZ-d1e97-d1e1193",
+        "grvnZZ-d1e97-d1e1196",
+        "grvnZZ-d1e97-d1e1212",
+        "grvnZZ-d1e97-d1e1225",
+        "grvnZZ-d1e97-d1e1238",
+        "grvnZZ-d1e97-d1e1262",
+        "grvnZZ-d1e97-d1e1273",
+        "grvnZZ-d1e97-d1e1282",
+        "grvnZZ-d1e97-d1e1287",
+        "grvnZZ-d1e97-d1e1292",
+        "grvnZZ-d1e97-d1e1299",
+        "grvnZZ-d1e97-d1e1313",
+        "grvnZZ-d1e97-d1e1318",
+        "grvnZZ-d1e97-d1e1323",
+        "grvnZZ-d1e97-d1e1343",
+        "grvnZZ-d1e97-d1e1361",
+        "grvnZZ-d1e97-d1e1409",
+        "grvnZZ-d1e97-d1e1417",
+        "grvnZZ-d1e97-d1e1430",
+        "grvnZZ-d1e97-d1e1439",
+        "grvnZZ-d1e97-d1e1461",
+        "grvnZZ-d1e97-d1e1503",
+        "grvnZZ-d1e97-d1e1512",
+        "grvnZZ-d1e97-d1e1522",
+        "grvnZZ-d1e97-d1e1531",
+        "grvnZZ-d1e97-d1e1549",
+        "grvnZZ-d1e97-d1e1556",
+        "grvnZZ-d1e97-d1e1598",
+        "grvnZZ-d1e97-d1e1609",
+        "grvnZZ-d1e97-d1e1651",
+        "grvnZZ-d1e97-d1e1778",
+        "grvnZZ-d1e97-d1e1796",
+        "grvnZZ-d1e97-d1e1822",
+        "grvnZZ-d1e97-d1e1840",
+        "grvnZZ-d1e97-d1e1847",
+        "grvnZZ-d1e97-d1e1893",
+        "grvnZZ-d1e97-d1e1904",
+        "grvnZZ-d1e97-d1e1917",
+        "grvnZZ-d1e97-d1e1946",
+        "grvnZZ-d1e97-d1e1975",
+        "grvnZZ-d1e97-d1e1988",
+        "grvnZZ-d1e97-d1e2009",
+        "grvnZZ-d1e97-d1e2020",
+        "grvnZZ-d1e97-d1e2040",
+        "grvnZZ-d1e97-d1e2053",
+        "grvnZZ-d1e97-d1e2082",
+        "grvnZZ-d1e97-d1e2089",
+        "grvnZZ-d1e97-d1e2112",
+        "grvnZZ-d1e97-d1e2132",
+        "grvnZZ-d1e97-d1e2143",
+        "grvnZZ-d1e97-d1e2163",
+        "grvnZZ-d1e97-d1e2174",
+        "grvnZZ-d1e97-d1e2187",
+        "grvnZZ-d1e97-d1e2206",
+        "grvnZZ-d1e97-d1e2224",
+        "grvnZZ-d1e97-d1e2237",
+        "grvnZZ-d1e97-d1e2246",
+        "grvnZZ-d1e97-d1e2253",
+        "grvnZZ-d1e97-d1e2266",
+        "grvnZZ-d1e97-d1e2304",
+        "grvnZZ-d1e97-d1e2324",
+        "grvnZZ-d1e97-d1e2335",
+        "grvnZZ-d1e97-d1e2361",
+        "grvnZZ-d1e97-d1e2372",
+        "grvnZZ-d1e97-d1e2436",
+        "grvnZZ-d1e97-d1e2463",
+        "grvnZZ-d1e97-d1e2531",
+        "grvnZZ-d1e97-d1e2544",
+        "grvnZZ-d1e97-d1e2562",
+        "grvnZZ-d1e97-d1e2743",
+        "grvnZZ-d1e97-d1e2759",
+        "grvnZZ-d1e97-d1e2810",
+        "grvnZZ-d1e97-d1e2830",
+        "grvnZZ-d1e97-d1e2850",
+        "grvnZZ-d1e97-d1e2866",
+        "grvnZZ-d1e97-d1e2877",
+        "grvnZZ-d1e97-d1e2895",
+        "grvnZZ-d1e97-d1e2942",
+        "grvnZZ-d1e97-d1e2953",
+        "grvnZZ-d1e97-d1e3005",
+        "grvnZZ-d1e97-d1e3025",
+        "grvnZZ-d1e97-d1e3043",
+        "grvnZZ-d1e97-d1e3059",
+        "grvnZZ-d1e97-d1e3078",
+        "grvnZZ-d1e97-d1e3102",
+        "grvnZZ-d1e97-d1e3120",
+        "grvnZZ-d1e97-d1e3149",
+        "grvnZZ-d1e97-d1e3208",
+        "grvnZZ-d1e97-d1e3221",
+        "grvnZZ-d1e97-d1e3227",
+        "grvnZZ-d1e97-d1e3253",
+        "grvnZZ-d1e97-d1e3279",
+        "grvnZZ-d1e97-d1e3327",
+        "grvnZZ-d1e97-d1e3338",
+        "grvnZZ-d1e97-d1e3358",
+        "grvnZZ-d1e97-d1e3392",
+        "grvnZZ-d1e97-d1e3403",
+        "grvnZZ-d1e97-d1e3419",
+        "grvnZZ-d1e97-d1e3432",
+        "grvnZZ-d1e97-d1e3445",
+        "grvnZZ-d1e97-d1e3454",
+        "grvnZZ-d1e97-d1e3458",
+        "grvnZZ-d1e97-d1e3489",
+        "grvnZZ-d1e97-d1e3502",
+        "grvnZZ-d1e97-d1e3513",
+        "grvnZZ-d1e97-d1e3524",
+        "grvnZZ-d1e97-d1e3533",
+        "grvnZZ-d1e97-d1e3558",
+        "grvnZZ-d1e97-d1e3604",
+        "grvnZZ-d1e97-d1e3620",
+        "grvnZZ-d1e97-d1e3651",
+        "grvnZZ-d1e97-d1e3664",
+        "grvnZZ-d1e97-d1e3677",
+        "grvnZZ-d1e97-d1e3694",
+        "grvnZZ-d1e97-d1e3703",
+        "grvnZZ-d1e97-d1e3719",
+        "grvnZZ-d1e97-d1e3730",
+        "grvnZZ-d1e97-d1e3741",
+        "grvnZZ-d1e97-d1e3752",
+        "grvnZZ-d1e97-d1e3762",
+        "grvnZZ-d1e97-d1e3767",
+        "grvnZZ-d1e97-d1e3774",
+        "grvnZZ-d1e97-d1e3779",
+        "grvnZZ-d1e97-d1e3782",
+        "grvnZZ-d1e97-d1e3791",
+        "grvnZZ-d1e97-d1e3805",
+        "grvnZZ-d1e97-d1e3816",
+        "grvnZZ-d1e97-d1e3836",
+        "grvnZZ-d1e97-d1e3882",
+        "grvnZZ-d1e97-d1e3917",
+        "grvnZZ-d1e97-d1e3924",
+        "grvnZZ-d1e97-d1e3938",
+        "grvnZZ-d1e97-d1e3958",
+        "grvnZZ-d1e97-d1e3990",
+        "grvnZZ-d1e97-d1e4036",
+        "grvnZZ-d1e97-d1e4065",
+        "grvnZZ-d1e97-d1e4081",
+        "grvnZZ-d1e97-d1e4101",
+        "grvnZZ-d1e97-d1e4143"
+      ]
+    }
+  }
+}
